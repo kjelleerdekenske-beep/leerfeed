@@ -1,0 +1,583 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Leerfeed</title>
+<meta name="theme-color" content="#000000">
+<meta name="description" content="Swipe, maar leer iets: korte kaartjes, visuele deep dives en elke dag nieuwe inhoud.">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png" type="image/png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Leerfeed">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--top:env(safe-area-inset-top,0px);--bot:env(safe-area-inset-bottom,0px);--ink:#fff;--mute:rgba(255,255,255,.72);--glass:rgba(255,255,255,.12);--line:rgba(255,255,255,.18);--acc:#ffd166}
+*{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
+html,body{height:100%;background:#000;color:var(--ink);font-family:Inter,system-ui,sans-serif;overflow:hidden}
+button{font:inherit;color:inherit;border:0;background:none;cursor:pointer}
+#feed{height:100dvh;overflow-y:scroll;scroll-snap-type:y mandatory;scrollbar-width:none;overscroll-behavior:contain}
+#feed::-webkit-scrollbar{display:none}
+.card{position:relative;height:100dvh;scroll-snap-align:start;scroll-snap-stop:always;overflow:hidden;display:flex;flex-direction:column;justify-content:flex-end;padding:calc(var(--top) + 76px) 84px calc(var(--bot) + 34px) 22px}
+.bg{position:absolute;inset:0;z-index:0}
+.bg::before,.bg::after{content:"";position:absolute;width:70vmax;height:70vmax;border-radius:50%;filter:blur(60px);opacity:.55;animation:float 14s ease-in-out infinite alternate}
+.bg::before{background:var(--b1);top:-25vmax;left:-20vmax}
+.bg::after{background:var(--b2);bottom:-30vmax;right:-25vmax;animation-delay:-7s}
+@keyframes float{to{transform:translate(8vmax,6vmax) scale(1.1)}}
+.emoji{position:absolute;z-index:1;top:calc(var(--top) + 90px);right:-10px;font-size:min(46vw,260px);opacity:.16;transform:rotate(-12deg);pointer-events:none;user-select:none}
+.content{position:relative;z-index:2;max-width:620px}
+.tag{display:inline-flex;gap:6px;align-items:center;font-size:13px;font-weight:600;background:var(--glass);border:1px solid var(--line);padding:6px 11px;border-radius:99px;backdrop-filter:blur(10px);margin-bottom:14px}
+.tag .ai{color:var(--acc)}
+h2{font-family:"Bricolage Grotesque",sans-serif;font-weight:800;font-size:clamp(28px,7.4vw,44px);line-height:1.05;letter-spacing:-.02em;margin-bottom:14px;text-wrap:balance}
+.body{font-size:17px;line-height:1.5;color:rgba(255,255,255,.92);margin-bottom:16px}
+.take{font-size:15px;line-height:1.45;background:rgba(0,0,0,.28);border-left:3px solid var(--acc);padding:11px 13px;border-radius:0 12px 12px 0;backdrop-filter:blur(6px)}
+.take b{color:var(--acc);display:block;font-size:12px;letter-spacing:.08em;text-transform:uppercase;margin-bottom:3px}
+.ainote{font-size:12px;color:var(--mute);margin-top:10px}
+.actions{position:absolute;z-index:3;right:12px;bottom:calc(var(--bot) + 40px);display:flex;flex-direction:column;gap:18px;align-items:center}
+.act{display:flex;flex-direction:column;align-items:center;gap:4px;font-size:11px;font-weight:600;color:var(--mute)}
+.act i{font-style:normal;width:50px;height:50px;border-radius:50%;display:grid;place-items:center;font-size:23px;background:var(--glass);border:1px solid var(--line);backdrop-filter:blur(10px);transition:transform .15s}
+.act:active i{transform:scale(.88)}
+.act.on i{background:#ff3b6b;border-color:#ff3b6b}
+#top{position:fixed;z-index:10;top:0;left:0;right:0;padding:calc(var(--top) + 12px) 14px 12px;display:flex;align-items:center;gap:10px;background:linear-gradient(#000a,#0000)}
+.logo{font-family:"Bricolage Grotesque",sans-serif;font-weight:800;font-size:22px;letter-spacing:-.02em}
+.logo span{color:var(--acc)}
+.prog{flex:1;height:6px;background:rgba(255,255,255,.18);border-radius:9px;overflow:hidden;margin:0 6px}
+.prog div{height:100%;width:0;background:var(--acc);border-radius:9px;transition:width .4s}
+.cnt{font-size:13px;font-weight:600;color:var(--mute);min-width:42px;text-align:right}
+.ib{width:38px;height:38px;border-radius:50%;display:grid;place-items:center;font-size:18px;background:var(--glass);border:1px solid var(--line);backdrop-filter:blur(10px)}
+/* special cards */
+.center{justify-content:center;align-items:center;text-align:center;padding-right:22px}
+.center .content{display:flex;flex-direction:column;align-items:center}
+.big{font-size:64px;margin-bottom:10px}
+.btns{display:flex;flex-direction:column;gap:10px;width:100%;max-width:340px;margin-top:22px}
+.btn{padding:15px 18px;border-radius:16px;font-weight:600;font-size:16px;background:var(--glass);border:1px solid var(--line)}
+.btn.pri{background:var(--acc);color:#111;border-color:var(--acc)}
+.muted{color:var(--mute);font-size:15px;line-height:1.5}
+.dots{display:inline-flex;gap:6px;margin-top:18px}.dots span{width:9px;height:9px;border-radius:50%;background:#fff;animation:bl 1.2s infinite}
+.dots span:nth-child(2){animation-delay:.2s}.dots span:nth-child(3){animation-delay:.4s}
+@keyframes bl{50%{opacity:.25}}
+/* sheet */
+#scrim{position:fixed;inset:0;z-index:20;background:#0009;opacity:0;pointer-events:none;transition:opacity .25s}
+#scrim.on{opacity:1;pointer-events:auto}
+#sheet{position:fixed;z-index:21;left:0;right:0;bottom:0;max-height:82dvh;overflow-y:auto;background:#16161c;border-radius:24px 24px 0 0;padding:10px 20px calc(var(--bot) + 24px);transform:translateY(105%);transition:transform .3s cubic-bezier(.2,.9,.3,1);max-width:680px;margin:0 auto}
+#sheet.on{transform:none}
+.grab{width:42px;height:5px;border-radius:9px;background:#fff3;margin:0 auto 16px}
+#sheet h3{font-family:"Bricolage Grotesque",sans-serif;font-size:24px;margin-bottom:12px;line-height:1.15}
+#sheet p{line-height:1.55;color:rgba(255,255,255,.88);margin-bottom:10px;white-space:pre-wrap}
+.opt{display:block;width:100%;text-align:left;padding:14px 16px;margin-bottom:9px;border-radius:14px;background:#ffffff10;border:1px solid #ffffff1c;font-size:16px;line-height:1.35}
+.opt.ok{background:#1f9d55;border-color:#1f9d55}.opt.no{background:#c0392b;border-color:#c0392b}
+.chips{display:flex;flex-wrap:wrap;gap:9px;margin-bottom:18px}
+.chip{padding:10px 14px;border-radius:99px;background:#ffffff10;border:1px solid #ffffff22;font-weight:500}
+.chip.on{background:var(--acc);color:#111;border-color:var(--acc)}
+.seg{display:flex;gap:8px;margin-bottom:18px}.seg button{flex:1;padding:12px;border-radius:12px;background:#ffffff10;border:1px solid #ffffff22;font-weight:600}
+.seg button.on{background:#fff;color:#111}
+.lbl{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--mute);margin:6px 0 10px;font-weight:600}
+.saved{padding:13px 0;border-bottom:1px solid #ffffff14}.saved b{display:block;margin-bottom:4px}.saved small{color:var(--mute);line-height:1.45;display:block}
+#toast{position:fixed;z-index:30;left:50%;bottom:calc(var(--bot) + 24px);transform:translate(-50%,30px);opacity:0;background:#fff;color:#111;padding:11px 16px;border-radius:99px;font-weight:600;font-size:14px;transition:.25s;pointer-events:none}
+#toast.on{opacity:1;transform:translate(-50%,0)}
+#hint{position:fixed;z-index:9;left:50%;bottom:calc(var(--bot) + 8px);transform:translateX(-50%);font-size:12px;color:var(--mute);animation:hint 1.6s ease-in-out infinite;pointer-events:none}
+@keyframes hint{50%{transform:translate(-50%,-6px)}}
+.src{font-size:12px;color:var(--mute);margin-top:10px}.src a{color:#fff;text-decoration:underline}
+.tag .fresh{color:#06d6a0}
+/* teaser */
+.teaser .visual{position:relative;z-index:2;margin:0 auto 18px;width:100%;max-width:420px;background:rgba(0,0,0,.25);border:1px solid var(--line);border-radius:20px;padding:10px;backdrop-filter:blur(8px)}
+.meta{font-size:13px;color:var(--mute);margin-bottom:16px}
+/* diagrams */
+.dg,.aisvg svg{width:100%;height:auto;display:block}
+.dg text{fill:#fff;font:600 13px Inter,sans-serif}
+.dg .t2{font-weight:400;font-size:11px;fill:rgba(255,255,255,.78)}
+.dg .ty{fill:#ffd166}.dg .tg{fill:#06d6a0}.dg .tp{fill:#ff6b9d}
+.dg .w{stroke:#fff;stroke-width:2;fill:none;stroke-linecap:round;stroke-linejoin:round}
+.dg .f{fill:rgba(255,255,255,.14);stroke:#fff;stroke-width:2;stroke-linejoin:round}
+.dg .y{stroke:#ffd166;stroke-width:3;fill:none;stroke-linecap:round}
+.dg .g{stroke:#06d6a0;stroke-width:4;fill:none;stroke-linecap:round}
+.dg .p{stroke:#ff6b9d;stroke-width:4;fill:none;stroke-linecap:round}
+.dg .d{stroke-dasharray:5 5}
+/* reader */
+#dive{position:fixed;inset:0;z-index:15;background:#0b0b10;display:none;flex-direction:column}
+#dive.on{display:flex}
+#dive .bg{opacity:.6}
+.dtop{position:relative;z-index:3;padding:calc(var(--top) + 10px) 14px 8px}
+.segs{display:flex;gap:4px;margin-bottom:10px}.segs i{flex:1;height:4px;border-radius:4px;background:rgba(255,255,255,.22)}.segs i.on{background:var(--acc)}
+.drow{display:flex;align-items:center;gap:10px}.drow b{flex:1;font-size:14px;line-height:1.25}
+#dtrack{position:relative;z-index:2;flex:1;display:flex;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none}
+#dtrack::-webkit-scrollbar{display:none}
+.chap{flex:0 0 100%;scroll-snap-align:start;overflow-y:auto;padding:6px 20px calc(var(--bot) + 70px)}
+.chap .inner{max-width:620px;margin:0 auto}
+.chap .visual{background:rgba(0,0,0,.3);border:1px solid var(--line);border-radius:20px;padding:10px;margin-bottom:18px}
+.chap .num{font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--acc);font-weight:600;margin-bottom:6px}
+.chap h3{font-family:"Bricolage Grotesque",sans-serif;font-size:28px;line-height:1.1;margin-bottom:12px}
+.chap p{font-size:17px;line-height:1.6;color:rgba(255,255,255,.92)}
+.chap .src a{color:#fff}
+.dnav{position:absolute;z-index:4;left:0;right:0;bottom:0;display:flex;justify-content:space-between;padding:12px 16px calc(var(--bot) + 14px);background:linear-gradient(#0000,#000c)}
+.dnav button{padding:11px 18px;border-radius:99px;background:var(--glass);border:1px solid var(--line);font-weight:600}
+.dnav button.pri{background:var(--acc);color:#111;border-color:var(--acc)}
+.lib{display:flex;align-items:center;gap:12px;width:100%;text-align:left;padding:12px;border-radius:14px;background:#ffffff0d;border:1px solid #ffffff18;margin-bottom:8px}
+.lib .e{font-size:28px;width:44px;height:44px;display:grid;place-items:center;border-radius:12px;background:#ffffff14;flex:none}
+.lib small{display:block;color:var(--mute);margin-top:2px}
+.ask{display:flex;gap:8px;margin-bottom:12px}.ask input{flex:1;min-width:0;padding:13px 14px;border-radius:12px;border:1px solid #ffffff2a;background:#ffffff10;color:#fff;font:inherit;font-size:16px}
+.ask button{padding:0 16px;border-radius:12px;background:var(--acc);color:#111;font-weight:700}
+@media (min-width:760px){.card{padding-left:max(22px,calc(50vw - 320px));padding-right:max(84px,calc(50vw - 300px))}.actions{right:max(12px,calc(50vw - 360px))}}
+</style>
+</head>
+<body>
+<div id="top">
+  <div class="logo">leer<span>feed</span></div>
+  <div class="prog"><div id="bar"></div></div>
+  <div class="cnt" id="cnt">0/10</div>
+  <button class="ib" id="bLib" aria-label="Deep dives">📚</button>
+  <button class="ib" id="bSaved" aria-label="Bewaard">🔖</button>
+  <button class="ib" id="bSet" aria-label="Instellingen">⚙️</button>
+</div>
+<main id="feed"></main>
+<div id="hint">swipe omhoog ↑</div>
+<div id="scrim"></div>
+<div id="sheet"><div class="grab"></div><div id="sheetBody"></div></div>
+<div id="toast"></div>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs>
+<marker id="lf-w" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0 0L10 5L0 10z" fill="#fff"/></marker>
+<marker id="lf-y" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0 0L10 5L0 10z" fill="#ffd166"/></marker>
+</defs></svg>
+<div id="dive"><div class="bg" id="dbg"></div>
+  <div class="dtop"><div class="segs" id="dsegs"></div><div class="drow"><b id="dtitle"></b><button class="ib" id="dclose" aria-label="Sluiten">✕</button></div></div>
+  <div id="dtrack"></div>
+  <div class="dnav"><button id="dprev">← Vorige</button><button class="pri" id="dnext">Volgende →</button></div>
+</div>
+
+<script>
+const CATS={
+ wetenschap:{n:"Wetenschap",e:"🔬",b:["#00b4d8","#3a0ca3"]},
+ psychologie:{n:"Psychologie",e:"🧠",b:["#f72585","#7209b7"]},
+ geld:{n:"Geld",e:"💶",b:["#06d6a0","#0b3d2e"]},
+ marketing:{n:"Marketing",e:"📈",b:["#ff9f1c","#c1121f"]},
+ geschiedenis:{n:"Geschiedenis",e:"🏛️",b:["#bc6c25","#283618"]},
+ gezondheid:{n:"Gezondheid",e:"🫀",b:["#ef476f","#073b4c"]},
+ taal:{n:"Taal",e:"🗣️",b:["#8338ec","#3a86ff"]},
+ tech:{n:"Tech",e:"💻",b:["#4361ee","#111"]},
+ productiviteit:{n:"Productiviteit",e:"⚡",b:["#ffd166","#9d0208"]}
+};
+const SEED=[
+{cat:"wetenschap",title:"Honing kan duizenden jaren goed blijven",body:"Honing bevat weinig water, is zuur en bevat enzymen die kleine hoeveelheden waterstofperoxide vormen. Bacteriën en schimmels krijgen er nauwelijks kans. Archeologen vonden in Egyptische graven eeuwenoude honing die niet bedorven was.",take:"Kristalliseert je honing? Dat is geen bederf: zet de pot even au bain-marie.",quiz:{q:"Waarom bederft honing bijna niet?",o:["Er zit alcohol in","Weinig water en zuur milieu","Hij bevat conserveermiddelen"],a:1}},
+{cat:"wetenschap",title:"Bananen zijn een tikkeltje radioactief",body:"Bananen bevatten kalium, en een klein deel daarvan is de radioactieve isotoop kalium-40. Je eigen lichaam bevat ook kalium-40. De straling van een banaan is verwaarloosbaar klein.",take:"‘Radioactief’ zegt niets zonder dosis. Vraag bij elk alarmerend cijfer: hoeveel precies?",quiz:{q:"Welke stof maakt bananen licht radioactief?",o:["Kalium-40","Uranium","Koolstofdioxide"],a:0}},
+{cat:"wetenschap",title:"Een octopus heeft drie harten en blauw bloed",body:"Twee harten pompen bloed door de kieuwen, één door de rest van het lichaam. Hun bloed gebruikt hemocyanine (met koper) in plaats van hemoglobine (met ijzer), en is daardoor blauw.",take:"Kleur van bloed hangt af van het metaal dat zuurstof bindt: ijzer = rood, koper = blauw.",quiz:{q:"Hoeveel harten heeft een octopus?",o:["Eén","Twee","Drie"],a:2}},
+{cat:"wetenschap",title:"Je ziet de zon zoals ze 8 minuten geleden was",body:"Zonlicht doet ongeveer 8 minuten en 20 seconden over de 150 miljoen kilometer naar de aarde. Kijk je naar sterren, dan kijk je soms duizenden jaren terug in de tijd.",take:"Ver kijken in de ruimte = terugkijken in de tijd.",quiz:{q:"Hoelang doet zonlicht over de reis naar de aarde?",o:["8 seconden","Ruim 8 minuten","Ongeveer een uur"],a:1}},
+{cat:"wetenschap",title:"Een baby heeft meer botten dan jij",body:"Een pasgeborene heeft zo'n 270 tot 300 botten. Veel daarvan groeien tijdens de jeugd samen, zoals in de schedel. Een volwassene houdt er 206 over.",take:"Groeien is niet alleen bijkomen: je skelet versmelt ook.",quiz:{q:"Hoeveel botten heeft een volwassene?",o:["206","270","312"],a:0}},
+{cat:"psychologie",title:"Herlezen voelt nuttig, maar overhoren werkt beter",body:"Het ‘testing effect’: wie zichzelf overhoort, onthoudt veel meer op lange termijn dan wie dezelfde tijd besteedt aan herlezen. Iets ophalen uit je geheugen versterkt het spoor.",take:"Klap je notities dicht en schrijf op wat je nog weet. Pas dan controleren.",quiz:{q:"Wat werkt beter om iets lang te onthouden?",o:["Drie keer herlezen","Markeren met fluo","Jezelf overhoren"],a:2}},
+{cat:"psychologie",title:"Je vergeet het meeste binnen een paar dagen",body:"Hermann Ebbinghaus toonde met zijn ‘vergeetcurve’ dat nieuwe kennis snel wegzakt. Herhaal je op steeds langere tussenpozen (spaced repetition), dan blijft het veel langer hangen.",take:"Herhaal iets na 1 dag, 3 dagen, 1 week en 1 maand. Apps als Anki doen dit automatisch.",quiz:{q:"Hoe heet herhalen op steeds langere tussenpozen?",o:["Spaced repetition","Multitasking","Chunking"],a:0}},
+{cat:"psychologie",title:"Waarom alles langer duurt dan gepland",body:"De ‘planning fallacy’ (Kahneman & Tversky): we schatten taken in op basis van het ideale scenario en vergeten vertragingen, ook al ging het vorige keer net zo.",take:"Schat niet vanuit je plan, maar vanuit hoelang een vergelijkbare taak de vorige keer echt duurde.",quiz:{q:"Wat helpt tegen de planning fallacy?",o:["Positiever denken","Vergelijken met eerdere, echte duur","Een strakkere deadline zetten"],a:1}},
+{cat:"psychologie",title:"Het eerste getal dat je hoort, stuurt je",body:"Anchoring: een willekeurig startgetal beïnvloedt je schatting erna, zelfs als je weet dat het nergens op slaat. Daarom begint een onderhandeling bij wie het eerste bod doet.",take:"In een onderhandeling: noem zelf als eerste een goed onderbouwd getal.",quiz:{q:"Wat beschrijft het ankereffect?",o:["Je kiest altijd de middelste optie","Een eerste getal kleurt je oordeel","Je onthoudt het laatste het best"],a:1}},
+{cat:"psychologie",title:"Een ervaring onthoud je als piek + einde",body:"De peak-end rule: we beoordelen een ervaring vooral op het intenste moment en op hoe ze eindigde, niet op het gemiddelde of de duur.",take:"Eindig een presentatie, klantgesprek of etentje bewust sterk.",quiz:{q:"Waarop baseren we vooral ons oordeel over een ervaring?",o:["De totale duur","Het begin","Het hoogtepunt en het einde"],a:2}},
+{cat:"geld",title:"De regel van 72",body:"Deel 72 door een jaarlijks rendement in procent en je weet ongeveer na hoeveel jaar je geld verdubbelt. Bij 6% is dat zo'n 12 jaar, bij 9% zo'n 8 jaar.",take:"Werkt ook omgekeerd: bij 3% inflatie halveert je koopkracht in ongeveer 24 jaar.",quiz:{q:"Hoelang duurt verdubbeling bij 8% rendement per jaar?",o:["Ongeveer 9 jaar","Ongeveer 14 jaar","Ongeveer 20 jaar"],a:0}},
+{cat:"geld",title:"Rente op rente is traag… en dan ineens snel",body:"Bij samengestelde interest bouw je rendement op je eerdere rendement. In de eerste jaren lijkt het niets, later groeit het bedrag steeds harder. Tijd is daarbij de belangrijkste factor.",take:"Vroeg beginnen met een klein bedrag weegt vaak zwaarder dan later beginnen met een groot bedrag.",quiz:{q:"Wat is de grootste hefboom bij samengestelde interest?",o:["Geluk","Tijd","Het aantal rekeningen"],a:1}},
+{cat:"geld",title:"Betaal jezelf eerst",body:"Wie spaart wat er op het einde van de maand overblijft, spaart meestal weinig. Een automatische overschrijving op de dag dat je loon binnenkomt, draait dat om: je past je uitgaven aan wat overblijft.",take:"Zet vandaag een doorlopende opdracht in voor de dag na loondag. Klein bedrag mag.",quiz:{q:"Wanneer werkt automatisch sparen het best?",o:["Op het einde van de maand","Vlak na loondag","Alleen bij een bonus"],a:1}},
+{cat:"marketing",title:"Het lokaas-effect verkoopt de duurste optie",body:"In een bekend experiment van Dan Ariely kostte The Economist online $59, print $125 en print + online óók $125. Bijna niemand koos print, maar door die optie kozen veel meer mensen het combipakket.",take:"Een bewust minder aantrekkelijke optie kan je ‘doeloptie’ doen opvallen als de slimme keuze.",quiz:{q:"Wat doet een ‘decoy’-optie?",o:["Ze verkoopt zelf het meest","Ze laat een andere optie beter lijken","Ze verlaagt de gemiddelde prijs"],a:1}},
+{cat:"marketing",title:"Te veel keuze verlamt",body:"In de jamstudie van Iyengar & Lepper kocht 30% van de bezoekers iets bij een kraam met 6 smaken, tegenover 3% bij 24 smaken. Meer keuze trok meer kijkers, maar minder kopers.",take:"Toon op een landingspagina één duidelijke hoofdactie in plaats van vijf.",quiz:{q:"Hoeveel % kocht bij 24 smaken jam?",o:["3%","15%","30%"],a:0}},
+{cat:"marketing",title:"Wat afwijkt, onthoud je",body:"Het Von Restorff-effect: tussen gelijkaardige items onthouden we het item dat eruit springt. Daarom krijgt een knop vaak een contrastkleur die nergens anders op de pagina voorkomt.",take:"Geef je call-to-action een kleur die je nergens anders gebruikt.",quiz:{q:"Waarom krijgt een CTA vaak een unieke kleur?",o:["Omdat het mooi is","Door het Von Restorff-effect","Voor SEO"],a:1}},
+{cat:"geschiedenis",title:"Cleopatra leefde dichter bij de maanlanding dan bij de piramides",body:"De Grote Piramide van Gizeh werd rond 2560 v.Chr. gebouwd. Cleopatra stierf in 30 v.Chr. — ruim 2500 jaar later. Tussen haar dood en de maanlanding in 1969 zit ‘maar’ zo'n 2000 jaar.",take:"‘Het oude Egypte’ besloeg zelf al bijna 3000 jaar geschiedenis.",quiz:{q:"Wanneer werd de Grote Piramide ongeveer gebouwd?",o:["30 v.Chr.","2560 v.Chr.","500 n.Chr."],a:1}},
+{cat:"geschiedenis",title:"Oxford is ouder dan het Azteekse rijk",body:"In Oxford werd al rond 1096 lesgegeven. De Azteken stichtten hun hoofdstad Tenochtitlan pas rond 1325.",take:"Tijdlijnen van verschillende continenten naast elkaar leggen geeft verrassende inzichten.",quiz:{q:"Wanneer werd Tenochtitlan gesticht?",o:["Rond 1096","Rond 1325","Rond 1600"],a:1}},
+{cat:"geschiedenis",title:"Napoleon was niet klein",body:"Napoleon was ongeveer 1,69 m, gemiddeld of iets erboven voor een Fransman in zijn tijd. De mythe komt deels door verwarring tussen Franse en Engelse duimmaten, en deels door Britse spotprenten.",take:"Propaganda kan een beeld eeuwen laten overleven.",quiz:{q:"Waar komt de mythe van de kleine Napoleon deels vandaan?",o:["Zijn eigen dagboek","Britse spotprenten en maatverwarring","Zijn harnas"],a:1}},
+{cat:"geschiedenis",title:"De oerknal is een Belgisch idee",body:"De Leuvense priester en natuurkundige Georges Lemaître stelde in 1927 voor dat het heelal uitdijt, en later dat het begon vanuit een ‘oeratoom’. Dat werd de basis van wat we nu de oerknaltheorie noemen.",take:"Ook de saxofoon is Belgisch: uitgevonden door Adolphe Sax uit Dinant.",quiz:{q:"Wie legde de basis voor de oerknaltheorie?",o:["Albert Einstein","Georges Lemaître","Isaac Newton"],a:1}},
+{cat:"gezondheid",title:"Een korte wandeling na het eten helpt je bloedsuiker",body:"Onderzoek toont dat zelfs enkele minuten lichte beweging na een maaltijd de bloedsuikerpiek afvlakt. Je spieren gebruiken dan meteen een deel van de glucose.",take:"Na het middageten even 5 minuten rondwandelen in plaats van meteen terug te gaan zitten.",quiz:{q:"Wat doet een korte wandeling na het eten?",o:["Verhoogt de bloedsuikerpiek","Vlakt de bloedsuikerpiek af","Heeft geen enkel effect"],a:1}},
+{cat:"gezondheid",title:"17 uur wakker ≈ licht beschonken",body:"Onderzoek (Williamson & Feyer, 2000) vond dat mensen na 17 tot 19 uur zonder slaap even slecht presteerden als met ongeveer 0,5 promille alcohol in hun bloed.",take:"Na een lange dag: geen belangrijke beslissingen of lange autoritten.",quiz:{q:"Na hoeveel uur wakker zijn presteer je ongeveer als met 0,5‰?",o:["8–10 uur","17–19 uur","30 uur"],a:1}},
+{cat:"gezondheid",title:"Je koffie van 16u zit om 21u nog half in je lijf",body:"Cafeïne heeft een halfwaardetijd van gemiddeld zo'n 5 uur (bij sommigen korter, bij anderen veel langer). Ook als je goed in slaap valt, kan cafeïne je diepe slaap verminderen.",take:"Probeer twee weken geen cafeïne meer na de middag en vergelijk hoe uitgerust je bent.",quiz:{q:"Wat is de gemiddelde halfwaardetijd van cafeïne?",o:["Ongeveer 1 uur","Ongeveer 5 uur","Ongeveer 12 uur"],a:1}},
+{cat:"taal",title:"‘Robot’ betekent eigenlijk dwangarbeid",body:"Het woord komt uit het toneelstuk R.U.R. (1920) van de Tsjechische schrijver Karel Čapek. Het is afgeleid van ‘robota’: verplichte arbeid of herendienst.",take:"Veel tech-woorden zijn ouder dan de technologie zelf.",quiz:{q:"Uit welke taal komt het woord ‘robot’?",o:["Duits","Tsjechisch","Japans"],a:1}},
+{cat:"taal",title:"Een sinaasappel is een appel uit China",body:"‘Sina’ is een oude naam voor China, waar de zoete sinaasappel vandaan kwam via handelsroutes. Het Duitse ‘Apfelsine’ heeft dezelfde oorsprong.",take:"Kijk eens naar de oorsprong van woorden die je dagelijks gebruikt: het is vaak verrassend.",quiz:{q:"Waar verwijst ‘sina’ in sinaasappel naar?",o:["Zon","China","Sinterklaas"],a:1}},
+{cat:"tech",title:"De eerste ‘computerbug’ was een echte mot",body:"In 1947 vond het team rond Grace Hopper een mot vastgeklemd in een relais van de Harvard Mark II-computer. Ze plakten het beestje in het logboek. Het woord ‘bug’ voor technische fouten bestond toen wel al.",take:"Goede documentatie (zoals dat logboek) maakt problemen oplosbaar én geschiedenis.",quiz:{q:"Waar zat de beroemde mot uit 1947?",o:["In een toetsenbord","In een relais van de Mark II","In een printer"],a:1}},
+{cat:"tech",title:"Lengte verslaat complexiteit bij wachtwoorden",body:"Elk extra teken vermenigvuldigt het aantal mogelijke combinaties. Een lange zin van vier willekeurige woorden is vaak sterker én makkelijker te onthouden dan ‘P@ss1!’.",take:"Gebruik een wachtwoordmanager en lange, unieke wachtwoorden per site.",quiz:{q:"Wat maakt een wachtwoord het sterkst?",o:["Eén speciaal teken","Lengte","Je geboortejaar erin"],a:1}},
+{cat:"tech",title:"De QR-code komt uit de autofabriek",body:"Denso Wave, een leverancier van Toyota, vond de QR-code in 1994 uit om auto-onderdelen sneller te kunnen volgen. ‘QR’ staat voor Quick Response.",take:"Veel alledaagse tech begon als oplossing voor een heel specifiek fabrieksprobleem.",quiz:{q:"Waarvoor werd de QR-code oorspronkelijk gemaakt?",o:["Betalingen","Auto-onderdelen volgen","Reclame"],a:1}},
+{cat:"productiviteit",title:"De 2-minutenregel",body:"Uit de Getting Things Done-methode van David Allen: duurt iets minder dan twee minuten, doe het dan meteen. Het noteren en later terugvinden kost meer tijd dan het gewoon te doen.",take:"Mailtje van 1 zin? Nu beantwoorden, niet ‘straks’.",quiz:{q:"Wat zegt de 2-minutenregel?",o:["Neem elke 2 minuten pauze","Doe korte taken meteen","Werk 2 minuten per taak"],a:1}},
+{cat:"productiviteit",title:"Stop midden in een zin",body:"Ernest Hemingway stopte bewust met schrijven als hij nog wist hoe het verder moest. Zo kon hij de volgende dag meteen weer vertrekken. Onafgewerkte taken blijven ook beter in je hoofd hangen.",take:"Schrijf voor je stopt de allereerste volgende stap op. Morgen begin je zonder drempel.",quiz:{q:"Waarom stopte Hemingway midden in zijn verhaal?",o:["Hij was moe","Zo kon hij de volgende dag makkelijk herstarten","Zijn uitgever vroeg het"],a:1}}
+];
+
+const DEEP=[
+"Honing bestaat voor zo'n 80% uit suikers en maar ongeveer 17% uit water. Die hoge suikerconcentratie trekt via osmose water uit bacteriën en schimmels, waardoor ze uitdrogen. Daarnaast is honing zuur (pH ongeveer 3,5 tot 4,5). Bijen voegen het enzym glucose-oxidase toe, dat bij verdunning kleine hoeveelheden waterstofperoxide vormt.\n\nNuance: honing kan wél gisten als er te veel water in komt, bijvoorbeeld door een open pot in een vochtige keuken. En honing is niet geschikt voor baby's jonger dan 1 jaar: er kunnen sporen van de botulismebacterie in zitten, waar volwassen darmen wel mee overweg kunnen.",
+"Kalium-40 is een natuurlijk radioactieve isotoop: ongeveer 0,012% van al het kalium op aarde. Een banaan geeft een stralingsdosis in de orde van 0,1 microsievert — de ‘banana equivalent dose’, een informele eenheid om stralingsrisico's te vergelijken. Ter vergelijking: een mens krijgt jaarlijks enkele millisievert natuurlijke straling (radon, kosmische straling, voeding), dat is tienduizenden keren meer.\n\nJe lichaam houdt zijn kaliumgehalte bovendien constant, dus extra bananen stapelen geen straling op. Nuance: de ‘banaandosis’ is didactisch handig, maar wetenschappelijk wat simplistisch.",
+"De twee kieuwharten pompen bloed door de kieuwen, waar het zuurstof opneemt. Het derde, systemische hart stuurt het daarna door het lichaam. Opvallend: dat systemische hart stopt tijdelijk met kloppen wanneer een octopus zwemt — één reden waarom ze liever kruipen.\n\nHemocyanine bindt zuurstof via koper en werkt goed in koud, zuurstofarm water. Octopussen zijn ook bekend om hun intelligentie: ongeveer twee derde van hun neuronen zit in hun armen, die daardoor deels zelfstandig kunnen reageren.",
+"Licht reist ongeveer 300.000 km per seconde. De afstand tussen aarde en zon varieert tussen zo'n 147 en 152 miljoen km, dus de reistijd schommelt rond 8 minuten en 20 seconden. Maanlicht is ruim 1 seconde onderweg, licht van de dichtstbijzijnde ster (Proxima Centauri) ruim 4 jaar.\n\nNog verrassender: de energie die als licht uit de zon vertrekt, ontstond in de kern. Volgens schattingen deed ze er tienduizenden tot honderdduizenden jaren over om — botsend van deeltje tot deeltje — het oppervlak te bereiken.",
+"Bij een baby bestaan veel botten nog deels uit kraakbeen en uit losse stukken die later vergroeien (verbening). De schedel heeft fontanellen, zachte plekken waardoor het hoofd bij de geboorte wat kan vervormen en de hersenen ruimte hebben om te groeien. Ook je heiligbeen onderaan de wervelkolom bestaat uit vijf wervels die samengroeien.\n\nDe groeischijven in je lange botten sluiten pas ergens tussen je late tienerjaren en begin twintig; daarna word je niet langer. Het precieze aantal botten verschilt licht per persoon, bijvoorbeeld door extra kleine sesambeentjes.",
+"In het bekende onderzoek van Roediger & Karpicke (2006) lazen studenten een tekst. De ene groep herlas hem, de andere probeerde op te schrijven wat ze nog wisten. Na vijf minuten scoorden de herlezers iets beter, maar na een week onthielden de ‘testers’ duidelijk meer.\n\nHerlezen geeft een vals gevoel van beheersing: de tekst voelt vertrouwd, maar je oefent het ophalen niet. Het werkt ook met flashcards, jezelf vragen stellen of iets aan iemand anders uitleggen. Vuistregel: als leren wat moeite kost, blijft het beter hangen.",
+"Ebbinghaus leerde in de jaren 1880 zelf reeksen betekenisloze lettergrepen en mat hoeveel hij na verloop van tijd nog wist. Het grootste verlies gebeurde in de eerste uren en dagen. Maar elke herhaling maakte de curve vlakker: daarna vergat hij trager.\n\nDat is het principe achter spaced repetition: herhalen net voor je het zou vergeten. Betekenisvolle kennis vergeet je trager dan betekenisloze lettergrepen, dus zijn exacte percentages gelden niet één-op-één voor alles. De quizzen en je bewaarde kaartjes in deze app zijn een eenvoudige vorm van herhalen.",
+"Kahneman en Tversky beschreven de planning fallacy in 1979. In een bekende studie (Buehler e.a., 1994) schatten studenten hoelang ze over hun eindwerk zouden doen: gemiddeld zo'n 34 dagen. Het werden er gemiddeld ongeveer 55 — en zelfs hun ‘worst case’-schatting werd vaak overschreden.\n\nKahneman noemt de oplossing de ‘outside view’: kijk naar de echte duur van vergelijkbare projecten in plaats van naar je eigen plan. Praktisch helpt ook: taken opsplitsen in kleine stukken en bewust een buffer inplannen.",
+"In een klassiek experiment van Tversky & Kahneman (1974) draaiden proefpersonen aan een rad dat stiekem op 10 of 65 stopte. Daarna schatten ze welk percentage van de Afrikaanse landen lid was van de VN. Wie 10 had gezien, schatte gemiddeld 25%; wie 65 zag, gemiddeld 45%.\n\nIn marketing zie je ankers overal: een doorstreepte ‘van’-prijs, of een duur premiumpakket bovenaan de prijslijst waardoor het middelste pakket redelijk lijkt. Tegengif: bedenk eerst je eigen schatting voor je naar andermans getal kijkt.",
+"In een experiment (Kahneman e.a., 1993) hielden mensen hun hand in pijnlijk koud water: één keer 60 seconden, en één keer 60 seconden plus 30 seconden waarin het water iets minder koud werd. Objectief is de tweede proef erger, want langer pijnlijk. Toch kozen de meesten die om te herhalen, omdat het einde minder erg aanvoelde.\n\nDit hangt samen met ‘duration neglect’: de duur telt verrassend weinig mee in je herinnering. Toepassingen: een klantreis met een aangename afsluiter, of een vergadering die eindigt met een duidelijk resultaat.",
+"De regel van 72 is een benadering. Exact reken je met logaritmes: verdubbeltijd = ln(2) / ln(1 + rendement). Voor rendementen tussen ongeveer 6 en 10% zit 72 er heel dicht bij. Het getal 72 is ook handig omdat het deelbaar is door 2, 3, 4, 6, 8, 9 en 12.\n\nHet werkt ook voor kosten en inflatie: bij 2% per jaar halveert iets in ongeveer 36 jaar. Nuance: echte rendementen zijn nooit elk jaar gelijk, dus het is een richtgetal, geen belofte. Dit is algemene uitleg, geen financieel advies.",
+"Voorbeeld: 100 euro aan 5% per jaar. Na jaar 1 heb je 105 euro, na jaar 2 110,25 — die 25 cent extra is rente op je rente. Na 20 jaar heb je ongeveer 265 euro, na 40 jaar ongeveer 704 euro. De tweede 20 jaar leveren dus ruim 2,5 keer zoveel winst op als de eerste 20.\n\nHet werkt ook omgekeerd: op kredietkaart- of afbetalingsschulden betaal je ook rente op rente. Nuance: rendement is nooit gegarandeerd en inflatie knaagt eraan. Dit is algemene uitleg, geen financieel advies.",
+"Het idee werd populair door het boek ‘The Richest Man in Babylon’ (1926) en daarna in heel wat boeken over persoonlijke financiën. Het werkt omdat het slim omgaat met gedrag: wat je niet op je rekening ziet staan, mis je minder.\n\nOnderzoek van Thaler en Benartzi (‘Save More Tomorrow’) toonde dat automatische spaarregelingen het spaargedrag sterk verhogen, juist omdat ze wilskracht overbodig maken. Een veelgehoorde vuistregel: bouw eerst een buffer van enkele maanden vaste kosten op. Dit is algemene info, geen persoonlijk advies.",
+"Ariely legde de drie opties voor aan 100 MIT-studenten: 16 kozen alleen online, 84 het combipakket, 0 alleen print. Toen de ‘nutteloze’ printoptie wegviel, kozen er 68 voor online en maar 32 voor het combipakket.\n\nDe decoy werkt omdat we slecht inschatten wat iets absoluut waard is, maar wél makkelijk vergelijken. Een optie die duidelijk slechter is dan je doeloptie, laat die doeloptie aantrekkelijker lijken. Je ziet het bij popcornformaten in de cinema, abonnementen en prijspagina's van software.",
+"De studie (Iyengar & Lepper, 2000) vond plaats in een Californische delicatessenzaak. Bij 24 smaken stopte 60% van de voorbijgangers, bij 6 smaken 40%. Maar van wie stopte, kocht bij 6 smaken 30% en bij 24 smaken slechts 3%.\n\nBelangrijke nuance: latere meta-analyses tonen dat dit ‘keuze-overload’-effect niet altijd optreedt. Het hangt af van hoe complex de keuze is, hoe goed mensen hun voorkeur al kennen en hoe overzichtelijk de opties gepresenteerd worden. Duidelijke categorieën of een ‘aanrader’-label helpen.",
+"Hedwig von Restorff beschreef het effect in 1933: in een lijst van gelijkaardige items wordt het afwijkende item beter onthouden. Het werkt door contrast, niet door de eigenschap zelf. Een rode knop valt op op een blauwe pagina, maar niet op een pagina vol rode elementen.\n\nWie te veel ‘opvallende’ elementen gebruikt, zorgt ervoor dat niets nog opvalt. Kies daarom per scherm, e-mail of slide één ding dat moet blijven hangen, en laat net dát afwijken.",
+"Cleopatra VII was van Macedonisch-Griekse afkomst: ze stamde uit de dynastie van de Ptolemaeën, gesticht door een generaal van Alexander de Grote. Volgens Plutarchus was ze wel de eerste van haar familie die Egyptisch sprak.\n\nIn haar tijd waren de piramides al meer dan 2000 jaar oud en zelf een bezienswaardigheid: Griekse en Romeinse reizigers bezochten ze en schreven erover, net zoals Herodotus eeuwen eerder al deed. Het ‘oude Egypte’ omvat zo'n 3000 jaar — langer dan de tijd tussen Julius Caesar en ons.",
+"Oxford heeft geen precieze stichtingsdatum, maar er werd al rond 1096 lesgegeven. Vanaf 1167 groeide het snel, toen Engelse studenten niet meer in Parijs mochten studeren. De Azteken (Mexica) stichtten Tenochtitlan rond 1325 op een eiland in het Texcocomeer. Het werd een van de grootste steden ter wereld, met volgens schattingen zo'n 200.000 inwoners, tot de Spanjaarden het in 1521 veroverden.\n\nDe KU Leuven werd trouwens gesticht in 1425 — ook nog vóór de val van Tenochtitlan.",
+"Na zijn dood werd zijn lengte genoteerd als 5 pieds 2 pouces, in Franse eenheden. Een Franse ‘pouce’ was langer dan een Engelse ‘inch’, waardoor Britten dachten dat hij 5 voet 2 was, ongeveer 1,57 m. Omgerekend was hij ongeveer 1,68 tot 1,69 m.\n\nBritse karikaturisten zoals James Gillray tekenden hem als ‘Little Boney’, een driftig klein mannetje. Zijn bijnaam ‘le petit caporal’ was een teken van genegenheid van zijn soldaten, geen verwijzing naar zijn lengte. Bovendien stond hij vaak tussen zijn lijfwacht, die bewust uit grote soldaten bestond.",
+"Lemaître publiceerde in 1927 dat het heelal uitdijt, en leidde al af wat later de wet van Hubble zou heten — twee jaar vóór Edwin Hubble. Zijn artikel verscheen in het Frans in een Belgisch tijdschrift en bleef daardoor lang onopgemerkt. In 1931 stelde hij voor dat het heelal begon als een ‘oeratoom’.\n\nEinstein was aanvankelijk sceptisch. Sinds 2018 raadt de Internationale Astronomische Unie aan om te spreken van de ‘wet van Hubble-Lemaître’. Lemaître was professor aan de universiteit van Leuven.",
+"Een meta-analyse uit 2022 (Buffey e.a., Sports Medicine) vond dat al 2 tot 5 minuten licht wandelen na het eten de bloedsuikerstijging merkbaar afvlakt, beter dan blijven zitten. Even rechtstaan hielp ook een beetje, maar minder dan bewegen.\n\nHet mechanisme: werkende spieren nemen glucose op, deels zelfs zonder dat daar insuline voor nodig is. Het effect is het grootst in het eerste uur tot anderhalf uur na de maaltijd, wanneer de bloedsuiker piekt. Voor mensen met diabetes is het een nuttige aanvulling, geen vervanging van een behandeling.",
+"Williamson & Feyer (2000) lieten proefpersonen wakker blijven en vergeleken hun prestaties met die na alcoholgebruik. Na 17 tot 19 uur wakker presteerden ze op sommige tests even slecht of slechter dan met 0,5 promille; na nog langer wakker zijn vergelijkbaar met 1 promille.\n\nGevaarlijk is vooral dat je het zelf slecht inschat: vermoeide mensen onderschatten hoe slecht ze presteren. Daarnaast komen ‘microslaapjes’ van enkele seconden voor, wat op de weg levensgevaarlijk is. Ter info: in België is de wettelijke limiet voor de meeste bestuurders 0,5 promille.",
+"Cafeïne werkt door adenosine te blokkeren, een stof die zich in de loop van de dag opstapelt en slaapdruk geeft. Blokkeren betekent niet opruimen: als de cafeïne uitgewerkt raakt, voel je de opgestapelde vermoeidheid soms ineens.\n\nDe halfwaardetijd verschilt sterk per persoon: genetica, roken (versnelt de afbraak), zwangerschap en de pil (vertragen) spelen mee. Een studie (Drake e.a., 2013) vond dat 400 mg cafeïne zelfs 6 uur voor bedtijd de slaap met meer dan een uur kon verkorten. Een espresso bevat grofweg 60 tot 80 mg.",
+"Čapek vertelde zelf dat zijn broer Josef het woord bedacht; hij wilde eerst ‘labori’ gebruiken. In het stuk R.U.R. (Rossum's Universal Robots) zijn de robots trouwens geen metalen machines, maar kunstmatige mensen van organisch materiaal — die uiteindelijk in opstand komen.\n\nHet woord ‘robotica’ kwam later van sciencefictionschrijver Isaac Asimov (1941). Ook andere tech-woorden hebben een verrassende oorsprong: ‘computer’ was eeuwenlang een beroep, voor mensen die berekeningen maakten.",
+"De zoete sinaasappel komt oorspronkelijk uit Zuid-China en omgeving en bereikte Europa via handelaars; Portugese handelaars speelden in de 16de eeuw een grote rol. Daarom heet een sinaasappel in het Grieks ‘portokali’ en in het Turks ‘portakal’.\n\nHet woord ‘oranje’ komt via het Arabische ‘nāranj’ uit het Perzisch en het Sanskriet. In Vlaanderen zeggen veel mensen ‘appelsien’: precies het oude ‘appel van Sina’. De kleur oranje kreeg zijn naam trouwens van de vrucht, niet omgekeerd.",
+"Het logboek uit 1947 met de vastgeplakte mot ligt vandaag in het Smithsonian National Museum of American History. De notitie erbij was een grapje, want ‘bug’ werd al in de 19de eeuw gebruikt voor technische mankementen, onder meer door Thomas Edison.\n\nGrace Hopper maakte het verhaal bekend en werd zelf een pionier: ze werkte mee aan COBOL en verdedigde het idee dat programmeertalen op gewoon Engels konden lijken in plaats van op machinecode.",
+"Rekenvoorbeeld: met alleen de 26 kleine letters heeft een wachtwoord van 8 tekens 26⁸ ≈ 209 miljard mogelijke combinaties. Met 12 tekens zijn dat er ongeveer 95 biljard: bijna een half miljoen keer meer. Daarom adviseren organisaties zoals het Amerikaanse NIST vandaag lengte boven verplichte speciale tekens.\n\nBelangrijk: ‘willekeurig’ moet echt willekeurig zijn; bekende zinnen of songteksten staan in de woordenlijsten van hackers. Nog belangrijker dan lengte: nooit hetzelfde wachtwoord op meerdere sites, en tweestapsverificatie aanzetten.",
+"Ingenieur Masahiro Hara van Denso Wave ontwikkelde de code; hij liet zich naar eigen zeggen inspireren door het bordspel Go, met zwarte en witte stenen op een raster. De drie vierkantjes in de hoeken laten een scanner de code vanuit elke hoek herkennen.\n\nQR-codes hebben ook foutcorrectie: afhankelijk van het gekozen niveau mag tot ongeveer 30% van de code beschadigd zijn. Denso Wave had een patent, maar besloot het niet af te dwingen. Daardoor kon iedereen de technologie vrij gebruiken.",
+"David Allen beschreef de regel in ‘Getting Things Done’ (2001). Twee minuten is een vuistregel: ongeveer het punt waarop iets noteren, onthouden en later terugvinden meer tijd kost dan het meteen doen.\n\nLet op de valkuil: wie de hele dag kleine taken wegwerkt, komt niet aan belangrijk werk toe. Combineer het daarom met vaste blokken voor geconcentreerd werk. Een verwante variant komt van James Clear: begin een nieuwe gewoonte met een versie die minder dan twee minuten duurt.",
+"Hemingway schreef in een artikel in Esquire (1935) dat hij altijd stopte wanneer het goed liep en hij wist wat er daarna zou gebeuren. Psychologisch past dat bij het idee dat onafgewerkte taken mentaal ‘open’ blijven — het Zeigarnik-effect, al is dat in later onderzoek niet altijd even sterk teruggevonden.\n\nPraktisch helpt vooral dat de drempel om opnieuw te beginnen lager wordt: de eerste stap is vaak de moeilijkste. Laat op het einde van je werkdag een notitie achter: ‘Morgen eerst: …’."
+];
+SEED.forEach((c,i)=>c.deep=DEEP[i]);
+const SVG={
+krachten:`<svg class="dg" viewBox="0 0 360 220"><path class="f" d="M100 112 Q104 100 124 100 L244 102 Q262 106 268 112 Q262 118 244 122 L124 124 Q104 124 100 112Z"/><path class="f" d="M112 102 L100 74 L116 74 L136 101Z"/><path class="f" d="M168 114 L210 114 L194 132 L158 132Z"/><line class="y" x1="184" y1="96" x2="184" y2="34" marker-end="url(#lf-y)"/><text x="194" y="44" class="ty">Lift</text><line class="w" x1="184" y1="136" x2="184" y2="190" marker-end="url(#lf-w)"/><text x="194" y="186">Gewicht</text><line class="w" x1="274" y1="112" x2="336" y2="112" marker-end="url(#lf-w)"/><text x="272" y="100">Stuwkracht</text><line class="w" x1="94" y1="112" x2="28" y2="112" marker-end="url(#lf-w)"/><text x="20" y="100">Weerstand</text><text x="180" y="212" text-anchor="middle" class="t2">In kruisvlucht zijn de vier krachten in evenwicht</text></svg>`,
+lift:`<svg class="dg" viewBox="0 0 360 220"><path class="w" style="opacity:.4" d="M8 66 C90 56 170 40 352 92"/><path class="w" style="opacity:.4" d="M8 160 C120 158 220 150 290 126 C318 136 338 156 352 176"/><path class="f" d="M70 118 C90 84 190 76 290 116 C210 124 120 132 70 118Z"/><line class="y" x1="160" y1="88" x2="160" y2="22" marker-end="url(#lf-y)"/><text x="168" y="30" class="ty">Lift</text><text x="214" y="40">lagere druk</text><text x="110" y="148">hogere druk</text><line class="w" x1="296" y1="124" x2="330" y2="166" marker-end="url(#lf-w)"/><text x="226" y="196" class="t2">lucht wordt naar beneden geduwd</text><text x="226" y="210" class="t2">→ vleugel wordt omhoog geduwd</text><text x="20" y="200" class="t2">invalshoek: vleugel staat</text><text x="20" y="213" class="t2">licht schuin in de wind</text></svg>`,
+roeren:`<svg class="dg" viewBox="0 0 360 220"><path class="f" d="M180 14 Q190 24 190 50 L190 196 Q180 208 170 196 L170 50 Q170 24 180 14Z"/><path class="f" d="M170 88 L22 128 L22 142 L170 120Z M190 88 L338 128 L338 142 L190 120Z"/><path class="f" d="M170 174 L120 192 L120 200 L170 192Z M190 174 L240 192 L240 200 L190 192Z"/><line class="w d" x1="120" y1="127" x2="165" y2="121"/><line class="w d" x1="240" y1="127" x2="195" y2="121"/><line class="y" x1="30" y1="140" x2="80" y2="134"/><line class="y" x1="330" y1="140" x2="280" y2="134"/><line class="g" x1="126" y1="199" x2="166" y2="193"/><line class="g" x1="234" y1="199" x2="194" y2="193"/><line class="p" x1="180" y1="188" x2="180" y2="212"/><text x="14" y="166" class="ty">Rolroeren → rollen</text><text x="250" y="182" class="tg">Hoogteroer</text><text x="250" y="196" class="t2">neus op / neer</text><text x="40" y="196" class="tp">Richtingsroer</text><text x="40" y="210" class="t2">neus links / rechts</text><text x="214" y="64" class="t2">- - kleppen (flaps): extra</text><text x="214" y="78" class="t2">lift bij lage snelheid</text></svg>`,
+motor:`<svg class="dg" viewBox="0 0 360 220"><path class="w" d="M34 50 L300 62 L330 92 M34 170 L300 158 L330 128"/><ellipse class="f" cx="62" cy="110" rx="10" ry="54"/><path class="f" d="M92 90 L208 100 L208 120 L92 130Z"/><rect x="208" y="98" width="34" height="24" rx="5" fill="#ff7b00" stroke="#ffd166" stroke-width="2"/><path class="f" d="M242 100 L290 94 L290 126 L242 120Z"/><path class="w" d="M290 100 L328 106 L328 114 L290 120"/><line class="w" x1="6" y1="110" x2="44" y2="110" marker-end="url(#lf-w)"/><line class="y" x1="84" y1="74" x2="346" y2="74" marker-end="url(#lf-y)"/><line class="y" x1="84" y1="146" x2="346" y2="146" marker-end="url(#lf-y)"/><text x="180" y="34" text-anchor="middle" class="ty">Bypass-lucht = meeste stuwkracht</text><text x="62" y="192" text-anchor="middle">1 Zuigen</text><text x="150" y="192" text-anchor="middle">2 Persen</text><text x="226" y="192" text-anchor="middle">3 Branden</text><text x="306" y="192" text-anchor="middle">4 Blazen</text><text x="180" y="212" text-anchor="middle" class="t2">kern: compressor → verbranding → turbine</text></svg>`,
+hoogte:`<svg class="dg" viewBox="0 0 360 220"><line class="w" x1="44" y1="200" x2="44" y2="14"/><g class="t2"><text x="38" y="204" text-anchor="end" class="t2">0</text><text x="38" y="144" text-anchor="end" class="t2">4 km</text><text x="38" y="84" text-anchor="end" class="t2">8 km</text><text x="38" y="24" text-anchor="end" class="t2">12 km</text></g><line class="w d" style="opacity:.25" x1="44" y1="140" x2="350" y2="140"/><line class="w d" style="opacity:.25" x1="44" y1="80" x2="350" y2="80"/><line class="w d" style="opacity:.25" x1="44" y1="20" x2="350" y2="20"/><path class="f" d="M60 200 L118 68 L176 200Z"/><text x="128" y="64" class="t2">Everest 8,8 km</text><ellipse cx="236" cy="122" rx="26" ry="11" fill="rgba(255,255,255,.22)"/><ellipse cx="266" cy="114" rx="30" ry="14" fill="rgba(255,255,255,.22)"/><ellipse cx="300" cy="124" rx="24" ry="10" fill="rgba(255,255,255,.22)"/><text x="206" y="150" class="t2">het meeste weer zit lager</text><path class="f" d="M222 38 L276 38 Q284 38 286 42 Q284 46 276 46 L222 46Z M236 46 L252 46 L244 56Z M226 38 L220 28 L228 28 L236 38Z"/><text x="200" y="22" class="ty">Kruishoogte 10–12 km</text><line class="p d" style="stroke-width:2" x1="44" y1="167" x2="350" y2="167"/><text x="190" y="184" class="tp">cabine voelt als ± 2 km</text></svg>`,
+checklist:`<svg class="dg" viewBox="0 0 360 220"><rect class="f" x="104" y="22" width="152" height="186" rx="14"/><rect x="148" y="12" width="64" height="20" rx="6" fill="#ffd166"/><g><rect class="w" x="122" y="54" width="18" height="18" rx="4"/><path class="y" d="M125 63 L130 68 L138 57"/><text x="150" y="68">Weer &amp; wind</text><rect class="w" x="122" y="92" width="18" height="18" rx="4"/><path class="y" d="M125 101 L130 106 L138 95"/><text x="150" y="106">NOTAMs</text><rect class="w" x="122" y="130" width="18" height="18" rx="4"/><path class="y" d="M125 139 L130 144 L138 133"/><text x="150" y="144">Brandstof</text><rect class="w" x="122" y="168" width="18" height="18" rx="4"/><path class="y" d="M125 177 L130 182 L138 171"/><text x="150" y="182">Walkaround</text></g><text x="20" y="110" class="t2">± 1 uur</text><text x="20" y="124" class="t2">voor vertrek</text><text x="268" y="110" class="t2">route in de</text><text x="268" y="124" class="t2">boordcomputer</text></svg>`,
+rollen:`<svg class="dg" viewBox="0 0 360 220"><path class="f" d="M30 70 Q180 10 330 70 L330 96 L30 96Z"/><rect x="150" y="62" width="60" height="26" rx="5" fill="rgba(255,255,255,.2)"/><rect class="f" x="62" y="112" width="92" height="78" rx="20"/><rect class="f" x="206" y="112" width="92" height="78" rx="20"/><text x="108" y="146" text-anchor="middle">Captain</text><text x="108" y="162" text-anchor="middle" class="t2">links</text><text x="252" y="146" text-anchor="middle">First officer</text><text x="252" y="162" text-anchor="middle" class="t2">rechts</text><rect x="64" y="196" width="88" height="20" rx="10" fill="#ffd166"/><text x="108" y="210" text-anchor="middle" style="fill:#111;font-size:11px">Pilot Flying</text><rect x="208" y="196" width="88" height="20" rx="10" fill="#06d6a0"/><text x="252" y="210" text-anchor="middle" style="fill:#111;font-size:11px">Pilot Monitoring</text><text x="180" y="36" text-anchor="middle" class="t2">rollen wisselen vaak per vlucht</text></svg>`,
+start:`<svg class="dg" viewBox="0 0 360 220"><rect x="10" y="168" width="300" height="16" rx="3" fill="rgba(255,255,255,.18)"/><line class="w d" x1="16" y1="176" x2="304" y2="176" style="opacity:.6"/><path class="y" d="M20 160 L206 160 Q240 160 340 70"/><line class="w" x1="136" y1="150" x2="136" y2="196"/><line class="w" x1="206" y1="150" x2="206" y2="196"/><circle cx="290" cy="114" r="5" fill="#ffd166"/><text x="136" y="140" text-anchor="middle" class="ty">V1</text><text x="136" y="210" text-anchor="middle" class="t2">beslissen</text><text x="206" y="140" text-anchor="middle" class="ty">VR</text><text x="206" y="210" text-anchor="middle" class="t2">neus omhoog</text><text x="300" y="132" class="ty">V2</text><text x="250" y="160" class="t2">veilig klimmen</text><text x="20" y="40" class="t2">vóór V1: stoppen kan nog</text><text x="20" y="56" class="t2">na V1: altijd doorgaan</text></svg>`,
+sectoren:`<svg class="dg" viewBox="0 0 360 220"><rect class="w d" x="12" y="40" width="108" height="140" rx="8" style="opacity:.5"/><rect class="w d" x="126" y="40" width="108" height="140" rx="8" style="opacity:.5"/><rect class="w d" x="240" y="40" width="108" height="140" rx="8" style="opacity:.5"/><path class="y" d="M24 150 C90 140 150 70 220 96 S320 80 340 60"/><path class="f" d="M196 90 L212 84 L226 88 L212 92Z"/><g class="t2"><text x="20" y="58" class="t2">Sector A</text><text x="134" y="58" class="t2">Sector B</text><text x="248" y="58" class="t2">Sector C</text></g><path class="w" d="M66 196 L72 172 L78 196 M62 172 L82 172" /><path class="w" d="M180 196 L186 172 L192 196 M176 172 L196 172"/><path class="w" d="M294 196 L300 172 L306 196 M290 172 L310 172"/><text x="180" y="24" text-anchor="middle" class="ty">Autopilot vliegt · piloten bewaken</text><text x="180" y="214" text-anchor="middle" class="t2">elke sector heeft eigen verkeersleiders</text></svg>`,
+ils:`<svg class="dg" viewBox="0 0 360 220"><line x1="10" y1="190" x2="350" y2="190" stroke="rgba(255,255,255,.4)" stroke-width="2"/><rect x="250" y="184" width="100" height="8" fill="#fff" opacity=".7"/><line class="y d" x1="30" y1="60" x2="262" y2="186"/><path class="f" d="M96 92 L134 98 Q140 100 134 104 L96 102Z M106 98 L118 99 L112 108Z"/><path class="w" d="M262 186 A60 60 0 0 0 206 160" style="opacity:.6"/><text x="196" y="152" class="ty">± 3°</text><text x="24" y="44" class="ty">Glideslope: de juiste daalhoek</text><text x="24" y="130" class="t2">localizer: houdt je op</text><text x="24" y="144" class="t2">de middellijn van de baan</text><text x="150" y="212" class="t2">geen baan in zicht op minimumhoogte → doorstart</text></svg>`
+};
+const DIVES=[
+{id:"vliegtuig",title:"Hoe vliegt een vliegtuig?",emoji:"✈️",cat:"wetenschap",chapters:[
+{h:"De vier krachten",svg:SVG.krachten,text:"Een vliegtuig in de lucht is een constant touwtrekken tussen vier krachten. Het gewicht trekt het naar beneden, de lift van de vleugels duwt het omhoog. De motoren leveren stuwkracht naar voren, de luchtweerstand remt af.\n\nIs de lift groter dan het gewicht, dan stijgt het toestel. Is de stuwkracht groter dan de weerstand, dan versnelt het. In een rustige kruisvlucht zijn alle vier in evenwicht: het vliegtuig blijft op dezelfde hoogte en snelheid.\n\nElke manoeuvre van een piloot komt neer op het verschuiven van dat evenwicht."},
+{h:"Hoe een vleugel lift maakt",svg:SVG.lift,text:"Een vleugel heeft een gebogen profiel en staat licht schuin in de luchtstroom: de invalshoek. Daardoor buigt hij de lucht naar beneden af. Wie lucht naar beneden duwt, wordt zelf omhoog geduwd — de derde wet van Newton. Tegelijk ontstaat boven de vleugel een lagere druk dan eronder; dat drukverschil is dezelfde kracht, anders bekeken.\n\nEen hardnekkige mythe: dat de lucht bovenlangs sneller moet omdat ze ‘tegelijk achteraan moet aankomen’. Klopt niet — ze gaat zelfs nog sneller en komt eerder aan.\n\nMeer snelheid of een grotere invalshoek geeft meer lift, tot de luchtstroom loslaat. Dan ‘overtrekt’ de vleugel (stall) en valt veel lift weg."},
+{h:"Sturen met klepjes",svg:SVG.roeren,text:"Een vliegtuig draait rond drie assen, met voor elke as een stuurvlak. De rolroeren aan de vleugeluiteinden bewegen tegengesteld — één omhoog, één omlaag — zodat het toestel rolt. Het hoogteroer aan de staart duwt de neus omhoog of omlaag. Het richtingsroer laat de neus naar links of rechts draaien.\n\nEen bocht maak je vooral door te rollen: de schuine lift trekt het toestel de bocht in.\n\nBij opstijgen en landen schuiven de kleppen (flaps) uit. Ze maken de vleugel groter en boller, zodat hij ook bij lage snelheid genoeg lift geeft. Daarom zie je de vleugel bij de landing ‘uit elkaar’ schuiven."},
+{h:"In een straalmotor",svg:SVG.motor,text:"Een moderne turbofan doet vier dingen: aanzuigen, samenpersen, verbranden en uitblazen. De grote ventilator vooraan zuigt enorme hoeveelheden lucht aan. Een deel gaat de kern in: compressoren persen de lucht samen, in de verbrandingskamer wordt kerosine ontstoken, en de hete gassen drijven een turbine aan die de ventilator en compressor laat draaien.\n\nHet verrassende: het grootste deel van de lucht gaat níét door de kern, maar eromheen (de bypass). Die koudere luchtstroom levert bij moderne lijnvliegtuigen het grootste deel van de stuwkracht — zuiniger en stiller dan alles door de kern sturen."},
+{h:"Waarom zo hoog?",svg:SVG.hoogte,text:"Lijnvliegtuigen kruisen meestal op 10 tot 12 kilometer hoogte. De lucht is daar veel ijler: minder weerstand, dus minder brandstof per kilometer. Ze vliegen er ook boven het meeste weer.\n\nIjle lucht geeft wel minder lift en bevat minder zuurstof. Daarom vliegen ze snel en staat de cabine onder druk: binnen voelt het alsof je op ongeveer 2 tot 2,5 kilometer hoogte zit. Vandaar je suizende oren bij stijgen en dalen.\n\nDe beste hoogte hangt af van het gewicht: een zwaar toestel vol brandstof vliegt eerst lager en klimt later in stappen hoger."}],
+quiz:[{q:"Welke kracht levert de vleugel?",o:["Lift","Stuwkracht","Weerstand"],a:0},{q:"Wat gebeurt er bij een stall?",o:["Een motor valt uit","De vleugel verliest veel lift","De banden springen"],a:1},{q:"Waar komt bij een moderne turbofan de meeste stuwkracht vandaan?",o:["De verbrandingskamer","De turbine","De bypass-lucht rond de kern"],a:2}],
+src:[{t:"NASA – Beginner's Guide to Aeronautics",u:"https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/"},{t:"FAA – Pilot's Handbook of Aeronautical Knowledge",u:"https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"}]},
+{id:"piloot",title:"Wat doet een piloot eigenlijk?",emoji:"🧑‍✈️",cat:"wetenschap",chapters:[
+{h:"Het werk begint ruim voor vertrek",svg:SVG.checklist,text:"Ongeveer een uur voor vertrek bereidt de bemanning de vlucht voor. Ze bekijken het weer op vertrek, route en bestemming, lezen de NOTAMs (berichten over bijvoorbeeld gesloten banen of defecte apparatuur) en controleren het vluchtplan.\n\nOp basis van gewicht, wind en uitwijkluchthavens wordt de brandstof berekend — er gaat altijd een wettelijke reserve mee. Daarna doet een piloot de walkaround: een visuele inspectie rond het toestel, van banden tot sensoren.\n\nIn de cockpit worden de systemen opgestart en de route in de boordcomputer (FMS) gezet. De tweede piloot controleert alles."},
+{h:"Twee piloten, twee rollen",svg:SVG.rollen,text:"Links zit meestal de gezagvoerder (captain), rechts de eerste officier (first officer). De captain heeft de eindverantwoordelijkheid, maar het vliegen zelf wisselen ze vaak af per vlucht.\n\nWie vliegt is de Pilot Flying. De ander is Pilot Monitoring: die bewaakt de instrumenten, praat met de luchtverkeersleiding en controleert elke handeling.\n\nNa ongevallen zoals de ramp op Tenerife (1977) kwam Crew Resource Management: een cultuur waarin elk bemanningslid fouten mag én moet benoemen, ook tegenover de captain. Checklists hardop afwerken blijft vast werk, hoe ervaren je ook bent."},
+{h:"Opstijgen: drie belangrijke snelheden",svg:SVG.start,text:"Voor elke start berekenen piloten drie snelheden. V1 is de beslissnelheid: tot daar kan de start veilig worden afgebroken, daarna gaat men altijd door — ook bij een motorstoring — omdat er niet meer genoeg baan is om te stoppen.\n\nBij VR (rotate) trekt de piloot de neus omhoog. V2 is de snelheid waarmee het toestel veilig kan blijven klimmen, zelfs met één motor uit. Tweemotorige toestellen zijn zo ontworpen dat ze op één motor kunnen opstijgen en doorvliegen.\n\nNa de start gaan landingsgestel en kleppen in, en wordt de autopilot vaak al vrij snel ingeschakeld."},
+{h:"Kruisvlucht: bewaken, niet achteroverleunen",svg:SVG.sectoren,text:"Tijdens de kruisvlucht vliegt meestal de autopilot, maar de piloten blijven bezig. Ze bewaken brandstof en systemen, volgen het weer op de route en passen hoogte of koers aan om turbulentie of onweer te ontwijken.\n\nHet luchtruim is opgedeeld in sectoren, elk met eigen verkeersleiders. Aan elke grens draagt de ene verkeersleider de vlucht over aan de volgende. Intussen plannen de piloten al de daling en de landing.\n\nWeetje: bij veel maatschappijen eten de twee piloten verschillende maaltijden, zodat een voedselvergiftiging nooit allebei treft."},
+{h:"Landen op een onzichtbare lijn",svg:SVG.ils,text:"Bij veel naderingen gebruiken piloten het ILS, het instrumentlandingssysteem. Twee radiosignalen vanaf de grond vormen een onzichtbare trechter: de localizer houdt het toestel op de middellijn van de baan, de glideslope op een daalhoek van meestal zo'n 3 graden.\n\nBij dichte mist kunnen gecertificeerde toestellen en luchthavens zelfs automatisch landen (autoland), maar de meeste landingen gebeuren met de hand.\n\nOp een vastgelegde minimumhoogte beslissen de piloten: zien we de baan? Zo niet, dan volgt een doorstart (go-around). Dat is een normale, getrainde procedure — geen noodgeval."}],
+quiz:[{q:"Wat betekent V1?",o:["De neus gaat omhoog","Beslissnelheid: daarna altijd doorgaan","De kruissnelheid"],a:1},{q:"Wat doet de Pilot Monitoring?",o:["Bewaakt, communiceert en controleert","Vliegt het toestel met de hand","Regelt de cabine"],a:0},{q:"Wat doet de glideslope van het ILS?",o:["Houdt je op de middellijn","Geeft het weerbericht","Geeft de juiste daalhoek aan"],a:2}],
+src:[{t:"FAA – Airplane Flying Handbook",u:"https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook"},{t:"FAA – Pilot's Handbook of Aeronautical Knowledge",u:"https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak"}]}
+];
+
+/* ---------- state ---------- */
+const KEY="leerfeed:v1";
+let S={interests:Object.keys(CATS),goal:10,saved:[],days:{},myDives:[],doneDives:[],seenT:[],wishes:[]};
+try{Object.assign(S,JSON.parse(localStorage.getItem(KEY)||"{}"))}catch(e){}
+const save=()=>{try{localStorage.setItem(KEY,JSON.stringify(S))}catch(e){}};
+const today=()=>new Date().toISOString().slice(0,10);
+let queue=[],rendered=[],seen=new Set(),seenCards=[],sessionGoal=S.goal,locked=false,startT=Date.now(),usedTitles=new Set();
+const feed=document.getElementById("feed");
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const shuffle=a=>{for(let i=a.length-1;i>0;i--){const j=Math.random()*(i+1)|0;[a[i],a[j]]=[a[j],a[i]]}return a};
+
+function buildQueue(){
+  const pool=allCards().filter(c=>S.interests.includes(c.cat)&&!usedTitles.has(c.title));
+  const fresh=pool.filter(c=>c.fresh&&!S.seenT.includes(c.title)).sort((a,b)=>String(b.date).localeCompare(String(a.date)));
+  const unseen=shuffle(pool.filter(c=>!c.fresh&&!S.seenT.includes(c.title)));
+  const old=shuffle(pool.filter(c=>S.seenT.includes(c.title)));
+  queue=[...fresh,...unseen,...old];
+}
+let feedCards=[];
+function allCards(){const t=new Set(),out=[];[...feedCards,...SEED].forEach(c=>{if(!t.has(c.title)){t.add(c.title);out.push(c)}});return out}
+function cardEl(c){
+  const k=CATS[c.cat]||CATS.wetenschap,s=document.createElement("section");
+  s.className="card";s._c=c;
+  const isSaved=S.saved.some(x=>x.title===c.title);
+  s.innerHTML=`<div class="bg" style="--b1:${k.b[0]};--b2:${k.b[1]}"></div><div class="emoji">${k.e}</div>
+  <div class="content"><div class="tag">${k.e} ${k.n}${c.ai?' <span class="ai">✨ AI</span>':''}${c.fresh?` <span class="fresh">🆕 ${esc(fmtDate(c.date))}</span>`:''}</div>
+  <h2>${esc(c.title)}</h2><p class="body">${esc(c.body)}</p>
+  <div class="take"><b>Toepassen</b>${esc(c.take)}</div>
+  ${srcHtml(c.src)}
+  ${c.ai?'<div class="ainote">AI-gegenereerd — check het bij twijfel.</div>':''}</div>
+  <div class="actions">
+   <button class="act ${isSaved?'on':''}" data-a="save"><i>${isSaved?'❤️':'🤍'}</i>Bewaar</button>
+   <button class="act" data-a="quiz"><i>🧠</i>Test mij</button>
+   <button class="act" data-a="deeper"><i>💬</i>Dieper</button>
+   <button class="act" data-a="copy"><i>📋</i>Kopieer</button>
+  </div>`;
+  s.querySelector(".actions").onclick=e=>{const b=e.target.closest(".act");if(b)act(b.dataset.a,c,b)};
+  return s;
+}
+function append(el){feed.appendChild(el);rendered.push(el);io.observe(el)}
+let sinceTeaser=0,teased=new Set();
+function fill(){
+  if(locked)return;
+  const idx=rendered.indexOf(cur);
+  while(rendered.length-idx<4&&queue.length){
+    if(sinceTeaser>=4){const d=nextDive();sinceTeaser=0;if(d){append(teaserEl(d));continue}}
+    const c=queue.shift();usedTitles.add(c.title);append(cardEl(c));sinceTeaser++;
+  }
+  if(queue.length<3)moreAI();
+}
+
+/* ---------- helpers ---------- */
+function fmtDate(d){try{return new Date(d).toLocaleDateString("nl-BE",{day:"numeric",month:"short"})}catch(e){return""}}
+function safeUrl(u){try{const x=new URL(u);return /^https?:$/.test(x.protocol)?x.href:""}catch(e){return""}}
+function srcHtml(src){
+  if(!Array.isArray(src)||!src.length)return"";
+  const l=src.map(s=>{const u=safeUrl(s.u);return u?`<a href="${esc(u)}" target="_blank" rel="noopener">${esc(s.t||new URL(u).hostname)}</a>`:""}).filter(Boolean);
+  return l.length?`<div class="src">Bron: ${l.join(" · ")}</div>`:"";
+}
+function cleanSVG(s){
+  try{
+    if(!s||typeof s!=="string")return"";
+    const d=new DOMParser().parseFromString(s,"image/svg+xml"),svg=d.documentElement;
+    if(!svg||svg.nodeName.toLowerCase()!=="svg"||d.getElementsByTagName("parsererror").length)return"";
+    svg.querySelectorAll("script,foreignObject,iframe,image,use,a,animate,set,style").forEach(n=>n.remove());
+    [svg,...svg.querySelectorAll("*")].forEach(n=>[...n.attributes].forEach(a=>{if(/^on/i.test(a.name)||/href/i.test(a.name)||/javascript:|url\(\s*['"]?(?!#)/i.test(a.value))n.removeAttribute(a.name)}));
+    svg.removeAttribute("width");svg.removeAttribute("height");
+    if(!svg.getAttribute("viewBox"))svg.setAttribute("viewBox","0 0 360 220");
+    return new XMLSerializer().serializeToString(svg);
+  }catch(e){return""}
+}
+function diveSvg(d,ch){return d.trusted?ch.svg:`<div class="aisvg">${cleanSVG(ch.svg)}</div>`}
+let dbDives=[]; /* dives from content/feed.json */
+function allDives(){const seenId=new Set(),out=[];[...dbDives,...DIVES,...S.myDives].forEach(d=>{if(d&&!seenId.has(d.id)){seenId.add(d.id);out.push(d)}});return out}
+function nextDive(){
+  const list=allDives().filter(d=>!teased.has(d.id)&&!S.doneDives.includes(d.id)&&(S.interests.includes(d.cat)||!CATS[d.cat]));
+  const d=list[0];if(d)teased.add(d.id);return d;
+}
+function teaserEl(d){
+  const k=CATS[d.cat]||CATS.wetenschap,s=document.createElement("section");
+  s.className="card teaser";
+  const first=d.chapters[0];
+  s.innerHTML=`<div class="bg" style="--b1:${k.b[0]};--b2:${k.b[1]}"></div>
+  <div class="content"><div class="tag">📖 Deep dive${d.fresh?' <span class="fresh">🆕 vers</span>':''}${d.ai?' <span class="ai">✨ AI</span>':''}</div>
+  <div class="visual">${diveSvg(d,first)}</div>
+  <h2>${d.emoji||"📖"} ${esc(d.title)}</h2>
+  <div class="meta">${d.chapters.length} hoofdstukken · ± ${Math.max(2,Math.round(d.chapters.length*0.8))} min · met quiz</div>
+  <button class="btn pri" style="width:100%;max-width:340px">Start deep dive →</button></div>`;
+  s.querySelector("button").onclick=()=>openDive(d);
+  return s;
+}
+
+/* ---------- deep dive reader ---------- */
+const DV=document.getElementById("dive"),track=document.getElementById("dtrack");
+let curDive=null,dIdx=0;
+function openDive(d){
+  closeSheet();curDive=d;dIdx=0;
+  const k=CATS[d.cat]||CATS.wetenschap;
+  document.getElementById("dbg").style.cssText=`--b1:${k.b[0]};--b2:${k.b[1]}`;
+  document.getElementById("dtitle").textContent=`${d.emoji||"📖"} ${d.title}`;
+  const n=d.chapters.length;
+  track.innerHTML=d.chapters.map((ch,i)=>`<div class="chap"><div class="inner">
+    <div class="visual">${diveSvg(d,ch)}</div>
+    <div class="num">Hoofdstuk ${i+1} / ${n}</div><h3>${esc(ch.h)}</h3>
+    ${String(ch.text||"").split(/\n\n+/).map(p=>`<p style="margin-bottom:12px">${esc(p)}</p>`).join("")}
+  </div></div>`).join("")+`<div class="chap"><div class="inner" style="text-align:center;padding-top:30px">
+    <div class="big">🎓</div><h3>Klaar!</h3><p class="muted">Test meteen of het blijft hangen — dat verdubbelt wat je onthoudt.</p>
+    <div class="btns" style="margin:20px auto 0"><button class="btn pri" id="dquiz">🧠 Quiz (${(d.quiz||[]).length} vragen)</button><button class="btn" id="dsave">🔖 Bewaar deze deep dive</button><button class="btn" id="dmore">Volgende deep dive</button></div>
+    ${srcHtml(d.src)}${d.ai?'<div class="ainote">AI-gegenereerd en vereenvoudigd — check bij twijfel.</div>':''}</div></div>`;
+  document.getElementById("dsegs").innerHTML=Array.from({length:n+1},()=>"<i></i>").join("");
+  DV.classList.add("on");track.scrollLeft=0;updDive();
+  track.querySelector("#dquiz").onclick=()=>{if(d.quiz?.length)quiz(d.quiz.map(q=>({quiz:q,take:""})),"Deep dive")};
+  track.querySelector("#dsave").onclick=()=>{const c={cat:d.cat,title:d.title,body:d.chapters.map(c=>c.h).join(" · "),take:"Deep dive — open via 📚",quiz:d.quiz?.[0]};if(!S.saved.some(x=>x.title===c.title)){S.saved.unshift(c);save()}toast("Bewaard 🔖")};
+  track.querySelector("#dmore").onclick=()=>{const nd=allDives().find(x=>x.id!==d.id&&!S.doneDives.includes(x.id));if(nd)openDive(nd);else{closeDive();openLib()}};
+}
+function updDive(){
+  const w=track.clientWidth||1;dIdx=Math.round(track.scrollLeft/w);
+  document.querySelectorAll("#dsegs i").forEach((s,i)=>s.classList.toggle("on",i<=dIdx));
+  const last=track.children.length-1;
+  document.getElementById("dprev").style.visibility=dIdx?"visible":"hidden";
+  document.getElementById("dnext").style.visibility=dIdx<last?"visible":"hidden";
+  if(dIdx===last&&curDive&&!S.doneDives.includes(curDive.id)){S.doneDives.push(curDive.id);S.days[today()]=(S.days[today()]||0)+curDive.chapters.length;save()}
+}
+track.addEventListener("scroll",()=>{clearTimeout(track._t);track._t=setTimeout(updDive,80)});
+const goCh=i=>track.children[i]?.scrollIntoView({behavior:"smooth",inline:"start",block:"nearest"});
+document.getElementById("dnext").onclick=()=>goCh(dIdx+1);
+document.getElementById("dprev").onclick=()=>goCh(dIdx-1);
+function closeDive(){DV.classList.remove("on");curDive=null}
+document.getElementById("dclose").onclick=closeDive;
+
+/* ---------- library + wishes ---------- */
+const GH_USER="kjelleerdekenske-beep",GH_REPO="leerfeed";
+const SUGG=["Hoe werkt het internet?","Hoe werkt ons immuunsysteem?","Hoe werkt de beurs?","Hoe werkt een kerncentrale?","Hoe werkt Google Ads achter de schermen?","Hoe werkt een warmtepomp?","Hoe werkt GPS?","Hoe werkt een AI-taalmodel?"];
+function wishUrl(t){return `https://github.com/${GH_USER}/${GH_REPO}/issues/new?title=${encodeURIComponent("Wens: "+t)}&body=${encodeURIComponent("Deep dive gevraagd via de Leerfeed-app.")}`}
+function wish(t){
+  t=String(t||"").trim().slice(0,120);if(!t)return;
+  if(!S.wishes.includes(t)){S.wishes.unshift(t);S.wishes=S.wishes.slice(0,30);save()}
+  openSheet(`<div class="lbl">Wens doorsturen</div><h3>${esc(t)}</h3>
+  <p>Tik op de knop: GitHub opent met je wens al ingevuld. Tik daar op <b>Create</b> (of <b>Submit</b>). De volgende ochtend staat je deep dive klaar in 📚.</p>
+  <a class="btn pri" style="display:block;text-align:center;text-decoration:none;margin-top:10px" href="${esc(wishUrl(t))}" target="_blank" rel="noopener">Open GitHub →</a>`);
+}
+function openLib(){
+  const ds=allDives();
+  openSheet(`<h3>Deep dives 📖</h3>
+  <div class="lbl">Wens een onderwerp — morgen klaar</div>
+  <form class="ask" id="askf"><input id="askq" placeholder="bv. Hoe werkt een raket?" maxlength="120" autocomplete="off"><button>Wens</button></form>
+  <div class="chips">${SUGG.map(s=>`<button class="chip" data-s="${esc(s)}">${esc(s)}</button>`).join("")}</div>
+  ${S.wishes.length?`<p class="muted" style="margin:-6px 0 14px">Gewenst: ${S.wishes.slice(0,5).map(esc).join(" · ")}</p>`:""}
+  <div class="lbl">Bibliotheek</div>
+  ${ds.map(d=>`<button class="lib" data-id="${esc(d.id)}"><span class="e">${esc(d.emoji||"📖")}</span><span><b>${esc(d.title)}</b><small>${d.chapters.length} hoofdstukken${d.fresh?" · 🆕 "+esc(fmtDate(d.date)):""}${S.doneDives.includes(d.id)?" · ✓ gelezen":""}</small></span></button>`).join("")}`);
+  SB.querySelectorAll(".lib").forEach(b=>b.onclick=()=>{const d=ds.find(x=>x.id===b.dataset.id);if(d)openDive(d)});
+  SB.querySelectorAll(".chip").forEach(b=>b.onclick=()=>wish(b.dataset.s));
+  SB.querySelector("#askf").onsubmit=e=>{e.preventDefault();wish(SB.querySelector("#askq").value)};
+}
+document.getElementById("bLib").onclick=openLib;
+
+/* ---------- observe ---------- */
+let cur=null;
+const io=new IntersectionObserver(es=>{es.forEach(e=>{if(e.isIntersecting&&e.intersectionRatio>.6)onView(e.target)})},{root:feed,threshold:[.6]});
+function onView(el){
+  cur=el;document.getElementById("hint").style.display="none";
+  if(el._c&&!seen.has(el)){
+    seen.add(el);seenCards.push(el._c);if(!S.seenT.includes(el._c.title)){S.seenT.push(el._c.title);S.seenT=S.seenT.slice(-800)}
+    S.days[today()]=(S.days[today()]||0)+1;save();
+  }
+  updateBar();
+  if(!locked&&seenCards.length>=sessionGoal&&el._c){lockSession();return}
+  fill();
+}
+function updateBar(){
+  const n=seenCards.length;
+  document.getElementById("cnt").textContent=`${Math.min(n,sessionGoal)}/${sessionGoal}`;
+  document.getElementById("bar").style.width=Math.min(100,n/sessionGoal*100)+"%";
+}
+
+/* ---------- anti-doomscroll stop ---------- */
+function lockSession(){
+  locked=true;
+  const idx=rendered.indexOf(cur);
+  rendered.splice(idx+1).reverse().forEach(el=>{io.unobserve(el);el.remove();if(el._c){queue.unshift(el._c);usedTitles.delete(el._c.title)}});
+  const mins=Math.max(1,Math.round((Date.now()-startT)/60000));
+  const s=document.createElement("section");s.className="card center";
+  s.innerHTML=`<div class="bg" style="--b1:#ffd166;--b2:#1b263b"></div><div class="content">
+   <div class="big">🎯</div><h2>Doel gehaald!</h2>
+   <p class="muted">Je leerde ${seenCards.length} nieuwe dingen in ${mins} min.<br>Vandaag in totaal: ${S.days[today()]}.</p>
+   <p class="muted" style="margin-top:12px">Even checken of het blijft hangen?</p>
+   <div class="btns"><button class="btn pri" data-x="recap">🧠 Snelle recap-quiz</button>
+   <button class="btn" data-x="more">Nog 5, bewust</button>
+   <button class="btn" data-x="done">Klaar voor vandaag</button></div></div>`;
+  s.onclick=e=>{const x=e.target.dataset.x;if(x==="recap")recap();if(x==="more")unlock(5);if(x==="done")doneScreen()};
+  append(s);
+}
+function unlock(n){sessionGoal+=n;locked=false;updateBar();fill();
+  const nxt=rendered[rendered.indexOf(cur)+1];if(nxt)setTimeout(()=>nxt.scrollIntoView({behavior:"smooth"}),60);else toast("Kaartjes laden…")}
+function doneScreen(){
+  feed.innerHTML="";rendered=[];locked=true;
+  const s=document.createElement("section");s.className="card center";
+  const saved=S.saved.length;
+  s.innerHTML=`<div class="bg" style="--b1:#06d6a0;--b2:#073b4c"></div><div class="content"><div class="big">🌱</div>
+  <h2>Mooi gestopt.</h2><p class="muted">Leg je gsm weg en vertel iemand één ding dat je vandaag leerde — zo onthoud je het het best.${saved?`<br><br>Je hebt ${saved} kaartje${saved>1?"s":""} bewaard 🔖`:""}</p>
+  <div class="btns"><button class="btn" id="restart">Toch opnieuw beginnen</button></div></div>`;
+  append(s);s.querySelector("#restart").onclick=()=>location.reload();
+}
+
+/* ---------- actions ---------- */
+function act(a,c,b){
+  if(a==="save"){
+    const i=S.saved.findIndex(x=>x.title===c.title);
+    if(i>=0){S.saved.splice(i,1);b.classList.remove("on");b.querySelector("i").textContent="🤍";toast("Verwijderd")}
+    else{S.saved.unshift(c);b.classList.add("on");b.querySelector("i").textContent="❤️";toast("Bewaard 🔖")}
+    save();
+  }
+  if(a==="quiz")quiz([c]);
+  if(a==="deeper")deeper(c);
+  if(a==="copy"){const t=`${c.title}\n\n${c.body}\n\nToepassen: ${c.take}`;
+    navigator.clipboard?.writeText(t).then(()=>toast("Gekopieerd 📋"),()=>toast("Kopiëren lukt niet hier"))||toast("Kopiëren lukt niet hier")}
+}
+
+/* ---------- sheet ---------- */
+const sheet=document.getElementById("sheet"),scrim=document.getElementById("scrim"),SB=document.getElementById("sheetBody");
+let abortCtl=null;
+function openSheet(html){SB.innerHTML=html;sheet.scrollTop=0;sheet.classList.add("on");scrim.classList.add("on")}
+function closeSheet(){sheet.classList.remove("on");scrim.classList.remove("on");abortCtl?.abort()}
+scrim.onclick=closeSheet;
+function toast(t){const el=document.getElementById("toast");el.textContent=t;el.classList.add("on");clearTimeout(el._t);el._t=setTimeout(()=>el.classList.remove("on"),1600)}
+
+function quiz(cards,title){
+  let i=0,score=0;
+  const show=()=>{
+    if(i>=cards.length){openSheet(`<h3>${score}/${cards.length} juist ${score===cards.length?"🔥":score?"👍":"💪"}</h3><p>${score===cards.length?"Dat zit erin.":"Wat je fout had, onthoud je nu juist beter — fouten maken tijdens het oefenen helpt."}</p><button class="btn pri" style="width:100%" id="qc">Verder</button>`);SB.querySelector("#qc").onclick=closeSheet;return}
+    const q=cards[i].quiz;
+    openSheet(`${title?`<div class="lbl">${title} · vraag ${i+1}/${cards.length}</div>`:'<div class="lbl">Test jezelf</div>'}<h3>${esc(q.q)}</h3>${q.o.map((o,j)=>`<button class="opt" data-j="${j}">${esc(o)}</button>`).join("")}<div id="qf"></div>`);
+    SB.querySelectorAll(".opt").forEach(b=>b.onclick=()=>{
+      if(SB._done)return;SB._done=true;const j=+b.dataset.j;
+      SB.querySelectorAll(".opt")[q.a].classList.add("ok");
+      if(j===q.a){score++}else b.classList.add("no");
+      const f=SB.querySelector("#qf");
+      f.innerHTML=`<p style="margin-top:6px">${j===q.a?"✅ Juist!":"❌ Net niet."} ${esc(cards[i].take)}</p><button class="btn pri" style="width:100%">${i+1<cards.length?"Volgende":"Resultaat"}</button>`;
+      f.querySelector("button").onclick=()=>{SB._done=false;i++;show()};
+    });
+  };
+  SB._done=false;show();
+}
+function recap(){const pool=shuffle(seenCards.filter(c=>c.quiz).slice());quiz(pool.slice(0,Math.min(3,pool.length)),"Recap")}
+
+function deeper(c){
+  const paras=String(c.deep||"").split(/\n\n+/).filter(Boolean);
+  openSheet(`<div class="lbl">Dieper graven</div><h3>${esc(c.title)}</h3>
+  ${paras.length?paras.map(p=>`<p>${esc(p)}</p>`).join(""):`<p class="muted">Voor dit kaartje is er nog geen diepere uitleg.</p>`}
+  ${srcHtml(c.src)}
+  <button class="btn" style="width:100%;margin-top:12px" id="mkd">📖 Wens hier een volledige deep dive over</button>`);
+  SB.querySelector("#mkd").onclick=()=>wish(c.title);
+}
+function moreAI(){ if(!queue.length&&!locked&&rendered.indexOf(cur)>=rendered.length-2)endCard() }
+
+function endCard(){
+  if(document.getElementById("endC"))return;
+  const s=document.createElement("section");s.className="card center";s.id="endC";
+  s.innerHTML=`<div class="bg" style="--b1:#4361ee;--b2:#111"></div><div class="content"><div class="big">📚</div><h2>Je bent door alle kaartjes</h2><p class="muted">Kies meer interesses in ⚙️ of start opnieuw.</p><div class="btns"><button class="btn pri" onclick="location.reload()">Opnieuw</button></div></div>`;
+  append(s);
+}
+
+/* ---------- settings & saved ---------- */
+document.getElementById("bSet").onclick=()=>{
+  const d=Object.values(S.days).reduce((a,b)=>a+b,0);
+  openSheet(`<h3>Jouw feed</h3><div class="lbl">Interesses</div><div class="chips">${Object.entries(CATS).map(([k,v])=>`<button class="chip ${S.interests.includes(k)?"on":""}" data-k="${k}">${v.e} ${v.n}</button>`).join("")}</div>
+  <div class="lbl">Sessiedoel — daarna een stopmoment</div><div class="seg">${[5,10,20].map(n=>`<button data-g="${n}" class="${S.goal===n?"on":""}">${n} kaartjes</button>`).join("")}</div>
+  <p class="muted">Vandaag geleerd: <b>${S.days[today()]||0}</b> · Totaal: <b>${d}</b></p>
+  <button class="btn pri" style="width:100%;margin-top:14px" id="apply">Toepassen</button>`);
+  SB.querySelectorAll(".chip").forEach(b=>b.onclick=()=>b.classList.toggle("on"));
+  SB.querySelectorAll(".seg button").forEach(b=>b.onclick=()=>{SB.querySelectorAll(".seg button").forEach(x=>x.classList.remove("on"));b.classList.add("on")});
+  SB.querySelector("#apply").onclick=()=>{
+    const ints=[...SB.querySelectorAll(".chip.on")].map(b=>b.dataset.k);
+    if(!ints.length){toast("Kies minstens één interesse");return}
+    const g=+SB.querySelector(".seg .on").dataset.g;
+    const changed=ints.join()!==S.interests.join();
+    S.interests=ints;if(g!==S.goal){sessionGoal=sessionGoal-S.goal+g;if(sessionGoal<=seenCards.length)sessionGoal=seenCards.length+1}S.goal=g;save();
+    if(changed){const idx=rendered.indexOf(cur);rendered.splice(idx+1).forEach(el=>{io.unobserve(el);el.remove();if(el._c)usedTitles.delete(el._c.title)});buildQueue()}
+    updateBar();closeSheet();fill();toast("Feed aangepast");
+  };
+};
+document.getElementById("bSaved").onclick=()=>{
+  openSheet(`<h3>Bewaard 🔖</h3>${S.saved.length?S.saved.map(c=>`<div class="saved"><b>${CATS[c.cat]?.e||""} ${esc(c.title)}</b><small>${esc(c.take)}</small></div>`).join("")+`<button class="btn pri" style="width:100%;margin-top:16px" id="qs">🧠 Overhoor mijn bewaarde kaartjes</button>`:'<p class="muted">Tik op 🤍 bij een kaartje om het hier te bewaren.</p>'}`);
+  const qs=SB.querySelector("#qs");if(qs)qs.onclick=()=>quiz(shuffle(S.saved.slice()).slice(0,5),"Bewaard");
+};
+document.addEventListener("keydown",e=>{
+  if(e.key==="Escape")closeSheet();
+  if(sheet.classList.contains("on"))return;
+  const i=rendered.indexOf(cur);
+  if(e.key==="ArrowDown"||e.key==="j")rendered[i+1]?.scrollIntoView({behavior:"smooth"});
+  if(e.key==="ArrowUp"||e.key==="k")rendered[i-1]?.scrollIntoView({behavior:"smooth"});
+});
+
+/* ---------- start ---------- */
+DIVES.forEach(d=>d.trusted=true);
+const str=(v,n)=>typeof v==="string"?v.slice(0,n):"";
+const okQuiz=q=>q&&typeof q.q==="string"&&Array.isArray(q.o)&&q.o.length>=2&&Number.isInteger(q.a)&&q.a>=0&&q.a<q.o.length;
+const FRESH_DAYS=14;
+function ingest(j){
+  const now=Date.now();
+  feedCards=(Array.isArray(j.cards)?j.cards:[]).filter(c=>c&&CATS[c.cat]&&c.title&&c.body&&okQuiz(c.quiz)).map(c=>({
+    cat:c.cat,title:str(c.title,140),body:str(c.body,700),take:str(c.take,300),deep:str(c.deep,3000),
+    quiz:{q:str(c.quiz.q,200),o:c.quiz.o.map(o=>str(o,120)),a:c.quiz.a},src:Array.isArray(c.src)?c.src.slice(0,3):[],
+    date:c.date,fresh:(now-Date.parse(c.date))<FRESH_DAYS*864e5}));
+  dbDives=(Array.isArray(j.dives)?j.dives:[]).filter(d=>d&&d.id&&Array.isArray(d.chapters)&&d.chapters.length).map(d=>({
+    id:"f-"+str(d.id,60),title:str(d.title,140),emoji:str(d.emoji,8)||"📖",cat:CATS[d.cat]?d.cat:"wetenschap",date:d.date,
+    fresh:(now-Date.parse(d.date))<FRESH_DAYS*864e5,
+    chapters:d.chapters.slice(0,8).map(c=>({h:str(c.h,140),text:str(c.text,2500),svg:typeof c.svg==="string"?c.svg:""})),
+    quiz:(d.quiz||[]).filter(okQuiz),src:Array.isArray(d.src)?d.src.slice(0,5):[]})).sort((a,b)=>String(b.date).localeCompare(String(a.date)));
+}
+async function start(){
+  try{
+    const ctl=new AbortController();const t=setTimeout(()=>ctl.abort(),8000);
+    const r=await fetch("content/feed.json",{cache:"no-cache",signal:ctl.signal});clearTimeout(t);
+    if(r.ok)ingest(await r.json());
+  }catch(e){}
+  buildQueue();
+  cur=null;sinceTeaser=2;fill();cur=rendered[0];updateBar();
+}
+start();
+if("serviceWorker" in navigator)addEventListener("load",()=>navigator.serviceWorker.register("sw.js").catch(()=>{}));
+</script>
+</body>
+</html>
