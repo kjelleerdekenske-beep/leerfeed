@@ -81,6 +81,11 @@ h2{font-family:"Bricolage Grotesque",sans-serif;font-weight:800;font-size:clamp(
 #toast.on{opacity:1;transform:translate(-50%,0)}
 #hint{position:fixed;z-index:9;left:50%;bottom:calc(var(--bot) + 8px);transform:translateX(-50%);font-size:12px;color:var(--mute);animation:hint 1.6s ease-in-out infinite;pointer-events:none}
 @keyframes hint{50%{transform:translate(-50%,-6px)}}
+.cvis{background:rgba(0,0,0,.28);border:1px solid var(--line);border-radius:18px;padding:8px;margin-bottom:14px;max-width:420px}
+.cvis svg{width:100%;height:auto;display:block;max-height:26dvh}
+#sheet .svis{background:#ffffff0a;border:1px solid #ffffff18;border-radius:16px;padding:8px;margin-bottom:14px}
+#sheet .svis svg{width:100%;height:auto;display:block}
+#sheet h4{font-family:"Bricolage Grotesque",sans-serif;font-size:18px;margin:16px 0 6px;color:var(--acc)}
 .src{font-size:12px;color:var(--mute);margin-top:10px}.src a{color:#fff;text-decoration:underline}
 .tag .fresh{color:#06d6a0}
 /* teaser */
@@ -227,16 +232,16 @@ const DEEP=[
 ];
 SEED.forEach((c,i)=>c.deep=DEEP[i]);
 const SVG={
-krachten:`<svg class="dg" viewBox="0 0 360 220"><path class="f" d="M100 112 Q104 100 124 100 L244 102 Q262 106 268 112 Q262 118 244 122 L124 124 Q104 124 100 112Z"/><path class="f" d="M112 102 L100 74 L116 74 L136 101Z"/><path class="f" d="M168 114 L210 114 L194 132 L158 132Z"/><line class="y" x1="184" y1="96" x2="184" y2="34" marker-end="url(#lf-y)"/><text x="194" y="44" class="ty">Lift</text><line class="w" x1="184" y1="136" x2="184" y2="190" marker-end="url(#lf-w)"/><text x="194" y="186">Gewicht</text><line class="w" x1="274" y1="112" x2="336" y2="112" marker-end="url(#lf-w)"/><text x="272" y="100">Stuwkracht</text><line class="w" x1="94" y1="112" x2="28" y2="112" marker-end="url(#lf-w)"/><text x="20" y="100">Weerstand</text><text x="180" y="212" text-anchor="middle" class="t2">In kruisvlucht zijn de vier krachten in evenwicht</text></svg>`,
-lift:`<svg class="dg" viewBox="0 0 360 220"><path class="w" style="opacity:.4" d="M8 66 C90 56 170 40 352 92"/><path class="w" style="opacity:.4" d="M8 160 C120 158 220 150 290 126 C318 136 338 156 352 176"/><path class="f" d="M70 118 C90 84 190 76 290 116 C210 124 120 132 70 118Z"/><line class="y" x1="160" y1="88" x2="160" y2="22" marker-end="url(#lf-y)"/><text x="168" y="30" class="ty">Lift</text><text x="214" y="40">lagere druk</text><text x="110" y="148">hogere druk</text><line class="w" x1="296" y1="124" x2="330" y2="166" marker-end="url(#lf-w)"/><text x="226" y="196" class="t2">lucht wordt naar beneden geduwd</text><text x="226" y="210" class="t2">→ vleugel wordt omhoog geduwd</text><text x="20" y="200" class="t2">invalshoek: vleugel staat</text><text x="20" y="213" class="t2">licht schuin in de wind</text></svg>`,
+krachten:`<svg class="dg" viewBox="0 0 360 220"><path class="f" d="M100 112 Q104 100 124 100 L244 102 Q262 106 268 112 Q262 118 244 122 L124 124 Q104 124 100 112Z"/><path class="f" d="M112 102 L100 74 L116 74 L136 101Z"/><path class="f" d="M168 114 L210 114 L194 132 L158 132Z"/><line class="y" x1="184" y1="96" x2="184" y2="34" marker-end="url(#lf-y)"><animate attributeName="y2" values="40;30;40" dur="2.4s" repeatCount="indefinite"/></line><text x="194" y="44" class="ty">Lift</text><line class="w" x1="184" y1="136" x2="184" y2="190" marker-end="url(#lf-w)"/><text x="194" y="186">Gewicht</text><line class="w" x1="274" y1="112" x2="336" y2="112" marker-end="url(#lf-w)"><animate attributeName="x2" values="330;340;330" dur="1.6s" repeatCount="indefinite"/></line><text x="272" y="100">Stuwkracht</text><line class="w" x1="94" y1="112" x2="28" y2="112" marker-end="url(#lf-w)"/><text x="20" y="100">Weerstand</text><text x="180" y="212" text-anchor="middle" class="t2">In kruisvlucht zijn de vier krachten in evenwicht</text></svg>`,
+lift:`<svg class="dg" viewBox="0 0 360 220"><path class="w" style="opacity:.55" stroke-dasharray="10 18" d="M8 66 C90 56 170 40 352 92"><animate attributeName="stroke-dashoffset" from="28" to="0" dur="1.2s" repeatCount="indefinite"/></path><path class="w" style="opacity:.55" stroke-dasharray="10 18" d="M8 160 C120 158 220 150 290 126 C318 136 338 156 352 176"><animate attributeName="stroke-dashoffset" from="28" to="0" dur="1.2s" repeatCount="indefinite"/></path><path class="f" d="M70 118 C90 84 190 76 290 116 C210 124 120 132 70 118Z"/><line class="y" x1="160" y1="88" x2="160" y2="22" marker-end="url(#lf-y)"/><text x="168" y="30" class="ty">Lift</text><text x="214" y="40">lagere druk</text><text x="110" y="148">hogere druk</text><line class="w" x1="296" y1="124" x2="330" y2="166" marker-end="url(#lf-w)"/><text x="226" y="196" class="t2">lucht wordt naar beneden geduwd</text><text x="226" y="210" class="t2">→ vleugel wordt omhoog geduwd</text><text x="20" y="200" class="t2">invalshoek: vleugel staat</text><text x="20" y="213" class="t2">licht schuin in de wind</text></svg>`,
 roeren:`<svg class="dg" viewBox="0 0 360 220"><path class="f" d="M180 14 Q190 24 190 50 L190 196 Q180 208 170 196 L170 50 Q170 24 180 14Z"/><path class="f" d="M170 88 L22 128 L22 142 L170 120Z M190 88 L338 128 L338 142 L190 120Z"/><path class="f" d="M170 174 L120 192 L120 200 L170 192Z M190 174 L240 192 L240 200 L190 192Z"/><line class="w d" x1="120" y1="127" x2="165" y2="121"/><line class="w d" x1="240" y1="127" x2="195" y2="121"/><line class="y" x1="30" y1="140" x2="80" y2="134"/><line class="y" x1="330" y1="140" x2="280" y2="134"/><line class="g" x1="126" y1="199" x2="166" y2="193"/><line class="g" x1="234" y1="199" x2="194" y2="193"/><line class="p" x1="180" y1="188" x2="180" y2="212"/><text x="14" y="166" class="ty">Rolroeren → rollen</text><text x="250" y="182" class="tg">Hoogteroer</text><text x="250" y="196" class="t2">neus op / neer</text><text x="40" y="196" class="tp">Richtingsroer</text><text x="40" y="210" class="t2">neus links / rechts</text><text x="214" y="64" class="t2">- - kleppen (flaps): extra</text><text x="214" y="78" class="t2">lift bij lage snelheid</text></svg>`,
-motor:`<svg class="dg" viewBox="0 0 360 220"><path class="w" d="M34 50 L300 62 L330 92 M34 170 L300 158 L330 128"/><ellipse class="f" cx="62" cy="110" rx="10" ry="54"/><path class="f" d="M92 90 L208 100 L208 120 L92 130Z"/><rect x="208" y="98" width="34" height="24" rx="5" fill="#ff7b00" stroke="#ffd166" stroke-width="2"/><path class="f" d="M242 100 L290 94 L290 126 L242 120Z"/><path class="w" d="M290 100 L328 106 L328 114 L290 120"/><line class="w" x1="6" y1="110" x2="44" y2="110" marker-end="url(#lf-w)"/><line class="y" x1="84" y1="74" x2="346" y2="74" marker-end="url(#lf-y)"/><line class="y" x1="84" y1="146" x2="346" y2="146" marker-end="url(#lf-y)"/><text x="180" y="34" text-anchor="middle" class="ty">Bypass-lucht = meeste stuwkracht</text><text x="62" y="192" text-anchor="middle">1 Zuigen</text><text x="150" y="192" text-anchor="middle">2 Persen</text><text x="226" y="192" text-anchor="middle">3 Branden</text><text x="306" y="192" text-anchor="middle">4 Blazen</text><text x="180" y="212" text-anchor="middle" class="t2">kern: compressor → verbranding → turbine</text></svg>`,
+motor:`<svg class="dg" viewBox="0 0 360 220"><path class="w" d="M34 50 L300 62 L330 92 M34 170 L300 158 L330 128"/><ellipse class="f" cx="62" cy="110" rx="10" ry="54"/><path class="f" d="M92 90 L208 100 L208 120 L92 130Z"/><rect x="208" y="98" width="34" height="24" rx="5" fill="#ff7b00" stroke="#ffd166" stroke-width="2"><animate attributeName="fill" values="#ff7b00;#ffb703;#ff5400;#ff7b00" dur="0.9s" repeatCount="indefinite"/></rect><path class="f" d="M242 100 L290 94 L290 126 L242 120Z"/><path class="w" d="M290 100 L328 106 L328 114 L290 120"/><line class="w" x1="6" y1="110" x2="44" y2="110" marker-end="url(#lf-w)"/><line class="y" stroke-dasharray="12 16" x1="84" y1="74" x2="346" y2="74" marker-end="url(#lf-y)"><animate attributeName="stroke-dashoffset" from="28" to="0" dur="1.2s" repeatCount="indefinite"/></line><line class="y" stroke-dasharray="12 16" x1="84" y1="146" x2="346" y2="146" marker-end="url(#lf-y)"><animate attributeName="stroke-dashoffset" from="28" to="0" dur="1.2s" repeatCount="indefinite"/></line><text x="180" y="34" text-anchor="middle" class="ty">Bypass-lucht = meeste stuwkracht</text><text x="62" y="192" text-anchor="middle">1 Zuigen</text><text x="150" y="192" text-anchor="middle">2 Persen</text><text x="226" y="192" text-anchor="middle">3 Branden</text><text x="306" y="192" text-anchor="middle">4 Blazen</text><text x="180" y="212" text-anchor="middle" class="t2">kern: compressor → verbranding → turbine</text></svg>`,
 hoogte:`<svg class="dg" viewBox="0 0 360 220"><line class="w" x1="44" y1="200" x2="44" y2="14"/><g class="t2"><text x="38" y="204" text-anchor="end" class="t2">0</text><text x="38" y="144" text-anchor="end" class="t2">4 km</text><text x="38" y="84" text-anchor="end" class="t2">8 km</text><text x="38" y="24" text-anchor="end" class="t2">12 km</text></g><line class="w d" style="opacity:.25" x1="44" y1="140" x2="350" y2="140"/><line class="w d" style="opacity:.25" x1="44" y1="80" x2="350" y2="80"/><line class="w d" style="opacity:.25" x1="44" y1="20" x2="350" y2="20"/><path class="f" d="M60 200 L118 68 L176 200Z"/><text x="128" y="64" class="t2">Everest 8,8 km</text><ellipse cx="236" cy="122" rx="26" ry="11" fill="rgba(255,255,255,.22)"/><ellipse cx="266" cy="114" rx="30" ry="14" fill="rgba(255,255,255,.22)"/><ellipse cx="300" cy="124" rx="24" ry="10" fill="rgba(255,255,255,.22)"/><text x="206" y="150" class="t2">het meeste weer zit lager</text><path class="f" d="M222 38 L276 38 Q284 38 286 42 Q284 46 276 46 L222 46Z M236 46 L252 46 L244 56Z M226 38 L220 28 L228 28 L236 38Z"/><text x="200" y="22" class="ty">Kruishoogte 10–12 km</text><line class="p d" style="stroke-width:2" x1="44" y1="167" x2="350" y2="167"/><text x="190" y="184" class="tp">cabine voelt als ± 2 km</text></svg>`,
 checklist:`<svg class="dg" viewBox="0 0 360 220"><rect class="f" x="104" y="22" width="152" height="186" rx="14"/><rect x="148" y="12" width="64" height="20" rx="6" fill="#ffd166"/><g><rect class="w" x="122" y="54" width="18" height="18" rx="4"/><path class="y" d="M125 63 L130 68 L138 57"/><text x="150" y="68">Weer &amp; wind</text><rect class="w" x="122" y="92" width="18" height="18" rx="4"/><path class="y" d="M125 101 L130 106 L138 95"/><text x="150" y="106">NOTAMs</text><rect class="w" x="122" y="130" width="18" height="18" rx="4"/><path class="y" d="M125 139 L130 144 L138 133"/><text x="150" y="144">Brandstof</text><rect class="w" x="122" y="168" width="18" height="18" rx="4"/><path class="y" d="M125 177 L130 182 L138 171"/><text x="150" y="182">Walkaround</text></g><text x="20" y="110" class="t2">± 1 uur</text><text x="20" y="124" class="t2">voor vertrek</text><text x="268" y="110" class="t2">route in de</text><text x="268" y="124" class="t2">boordcomputer</text></svg>`,
 rollen:`<svg class="dg" viewBox="0 0 360 220"><path class="f" d="M30 70 Q180 10 330 70 L330 96 L30 96Z"/><rect x="150" y="62" width="60" height="26" rx="5" fill="rgba(255,255,255,.2)"/><rect class="f" x="62" y="112" width="92" height="78" rx="20"/><rect class="f" x="206" y="112" width="92" height="78" rx="20"/><text x="108" y="146" text-anchor="middle">Captain</text><text x="108" y="162" text-anchor="middle" class="t2">links</text><text x="252" y="146" text-anchor="middle">First officer</text><text x="252" y="162" text-anchor="middle" class="t2">rechts</text><rect x="64" y="196" width="88" height="20" rx="10" fill="#ffd166"/><text x="108" y="210" text-anchor="middle" style="fill:#111;font-size:11px">Pilot Flying</text><rect x="208" y="196" width="88" height="20" rx="10" fill="#06d6a0"/><text x="252" y="210" text-anchor="middle" style="fill:#111;font-size:11px">Pilot Monitoring</text><text x="180" y="36" text-anchor="middle" class="t2">rollen wisselen vaak per vlucht</text></svg>`,
-start:`<svg class="dg" viewBox="0 0 360 220"><rect x="10" y="168" width="300" height="16" rx="3" fill="rgba(255,255,255,.18)"/><line class="w d" x1="16" y1="176" x2="304" y2="176" style="opacity:.6"/><path class="y" d="M20 160 L206 160 Q240 160 340 70"/><line class="w" x1="136" y1="150" x2="136" y2="196"/><line class="w" x1="206" y1="150" x2="206" y2="196"/><circle cx="290" cy="114" r="5" fill="#ffd166"/><text x="136" y="140" text-anchor="middle" class="ty">V1</text><text x="136" y="210" text-anchor="middle" class="t2">beslissen</text><text x="206" y="140" text-anchor="middle" class="ty">VR</text><text x="206" y="210" text-anchor="middle" class="t2">neus omhoog</text><text x="300" y="132" class="ty">V2</text><text x="250" y="160" class="t2">veilig klimmen</text><text x="20" y="40" class="t2">vóór V1: stoppen kan nog</text><text x="20" y="56" class="t2">na V1: altijd doorgaan</text></svg>`,
-sectoren:`<svg class="dg" viewBox="0 0 360 220"><rect class="w d" x="12" y="40" width="108" height="140" rx="8" style="opacity:.5"/><rect class="w d" x="126" y="40" width="108" height="140" rx="8" style="opacity:.5"/><rect class="w d" x="240" y="40" width="108" height="140" rx="8" style="opacity:.5"/><path class="y" d="M24 150 C90 140 150 70 220 96 S320 80 340 60"/><path class="f" d="M196 90 L212 84 L226 88 L212 92Z"/><g class="t2"><text x="20" y="58" class="t2">Sector A</text><text x="134" y="58" class="t2">Sector B</text><text x="248" y="58" class="t2">Sector C</text></g><path class="w" d="M66 196 L72 172 L78 196 M62 172 L82 172" /><path class="w" d="M180 196 L186 172 L192 196 M176 172 L196 172"/><path class="w" d="M294 196 L300 172 L306 196 M290 172 L310 172"/><text x="180" y="24" text-anchor="middle" class="ty">Autopilot vliegt · piloten bewaken</text><text x="180" y="214" text-anchor="middle" class="t2">elke sector heeft eigen verkeersleiders</text></svg>`,
-ils:`<svg class="dg" viewBox="0 0 360 220"><line x1="10" y1="190" x2="350" y2="190" stroke="rgba(255,255,255,.4)" stroke-width="2"/><rect x="250" y="184" width="100" height="8" fill="#fff" opacity=".7"/><line class="y d" x1="30" y1="60" x2="262" y2="186"/><path class="f" d="M96 92 L134 98 Q140 100 134 104 L96 102Z M106 98 L118 99 L112 108Z"/><path class="w" d="M262 186 A60 60 0 0 0 206 160" style="opacity:.6"/><text x="196" y="152" class="ty">± 3°</text><text x="24" y="44" class="ty">Glideslope: de juiste daalhoek</text><text x="24" y="130" class="t2">localizer: houdt je op</text><text x="24" y="144" class="t2">de middellijn van de baan</text><text x="150" y="212" class="t2">geen baan in zicht op minimumhoogte → doorstart</text></svg>`
+start:`<svg class="dg" viewBox="0 0 360 220"><rect x="10" y="168" width="300" height="16" rx="3" fill="rgba(255,255,255,.18)"/><line class="w d" x1="16" y1="176" x2="304" y2="176" style="opacity:.6"/><path class="y" d="M20 160 L206 160 Q240 160 340 70"/><line class="w" x1="136" y1="150" x2="136" y2="196"/><line class="w" x1="206" y1="150" x2="206" y2="196"/><circle r="6" fill="#fff"><animateMotion dur="4s" repeatCount="indefinite" path="M20 160 L206 160 Q240 160 340 70"/></circle><circle cx="290" cy="114" r="5" fill="#ffd166"/><text x="136" y="140" text-anchor="middle" class="ty">V1</text><text x="136" y="210" text-anchor="middle" class="t2">beslissen</text><text x="206" y="140" text-anchor="middle" class="ty">VR</text><text x="206" y="210" text-anchor="middle" class="t2">neus omhoog</text><text x="300" y="132" class="ty">V2</text><text x="250" y="160" class="t2">veilig klimmen</text><text x="20" y="40" class="t2">vóór V1: stoppen kan nog</text><text x="20" y="56" class="t2">na V1: altijd doorgaan</text></svg>`,
+sectoren:`<svg class="dg" viewBox="0 0 360 220"><rect class="w d" x="12" y="40" width="108" height="140" rx="8" style="opacity:.5"/><rect class="w d" x="126" y="40" width="108" height="140" rx="8" style="opacity:.5"/><rect class="w d" x="240" y="40" width="108" height="140" rx="8" style="opacity:.5"/><path class="y" d="M24 150 C90 140 150 70 220 96 S320 80 340 60"/><g><path class="f" d="M-14 0 L2 -6 L16 -2 L2 2Z"/><animateMotion dur="7s" repeatCount="indefinite" rotate="auto" path="M24 150 C90 140 150 70 220 96 S320 80 340 60"/></g><g class="t2"><text x="20" y="58" class="t2">Sector A</text><text x="134" y="58" class="t2">Sector B</text><text x="248" y="58" class="t2">Sector C</text></g><path class="w" d="M66 196 L72 172 L78 196 M62 172 L82 172" /><path class="w" d="M180 196 L186 172 L192 196 M176 172 L196 172"/><path class="w" d="M294 196 L300 172 L306 196 M290 172 L310 172"/><text x="180" y="24" text-anchor="middle" class="ty">Autopilot vliegt · piloten bewaken</text><text x="180" y="214" text-anchor="middle" class="t2">elke sector heeft eigen verkeersleiders</text></svg>`,
+ils:`<svg class="dg" viewBox="0 0 360 220"><line x1="10" y1="190" x2="350" y2="190" stroke="rgba(255,255,255,.4)" stroke-width="2"/><rect x="250" y="184" width="100" height="8" fill="#fff" opacity=".7"/><line class="y d" x1="30" y1="60" x2="262" y2="186"/><g><path class="f" d="M-20 -6 L18 0 Q24 2 18 6 L-20 4Z M-10 0 L2 1 L-4 10Z"/><animateMotion dur="6s" repeatCount="indefinite" path="M60 76 L250 180"/></g><path class="w" d="M262 186 A60 60 0 0 0 206 160" style="opacity:.6"/><text x="196" y="152" class="ty">± 3°</text><text x="24" y="44" class="ty">Glideslope: de juiste daalhoek</text><text x="24" y="130" class="t2">localizer: houdt je op</text><text x="24" y="144" class="t2">de middellijn van de baan</text><text x="150" y="212" class="t2">geen baan in zicht op minimumhoogte → doorstart</text></svg>`
 };
 const DIVES=[
 {id:"vliegtuig",title:"Hoe vliegt een vliegtuig?",emoji:"✈️",cat:"wetenschap",chapters:[
@@ -282,7 +287,7 @@ function cardEl(c){
   s.className="card";s._c=c;
   const isSaved=S.saved.some(x=>x.title===c.title);
   s.innerHTML=`<div class="bg" style="--b1:${k.b[0]};--b2:${k.b[1]}"></div><div class="emoji">${k.e}</div>
-  <div class="content"><div class="tag">${k.e} ${k.n}${c.ai?' <span class="ai">✨ AI</span>':''}${c.fresh?` <span class="fresh">🆕 ${esc(fmtDate(c.date))}</span>`:''}</div>
+  <div class="content">${c.svg?`<div class="cvis">${cleanSVG(c.svg)}</div>`:""}<div class="tag">${k.e} ${k.n}${c.ai?' <span class="ai">✨ AI</span>':''}${c.fresh?` <span class="fresh">🆕 ${esc(fmtDate(c.date))}</span>`:''}</div>
   <h2>${esc(c.title)}</h2><p class="body">${esc(c.body)}</p>
   <div class="take"><b>Toepassen</b>${esc(c.take)}</div>
   ${srcHtml(c.src)}
@@ -290,7 +295,7 @@ function cardEl(c){
   <div class="actions">
    <button class="act ${isSaved?'on':''}" data-a="save"><i>${isSaved?'❤️':'🤍'}</i>Bewaar</button>
    <button class="act" data-a="quiz"><i>🧠</i>Test mij</button>
-   <button class="act" data-a="deeper"><i>💬</i>Dieper</button>
+   <button class="act" data-a="deeper"><i>💬</i>Meer</button>
    <button class="act" data-a="copy"><i>📋</i>Kopieer</button>
   </div>`;
   s.querySelector(".actions").onclick=e=>{const b=e.target.closest(".act");if(b)act(b.dataset.a,c,b)};
@@ -321,7 +326,8 @@ function cleanSVG(s){
     if(!s||typeof s!=="string")return"";
     const d=new DOMParser().parseFromString(s,"image/svg+xml"),svg=d.documentElement;
     if(!svg||svg.nodeName.toLowerCase()!=="svg"||d.getElementsByTagName("parsererror").length)return"";
-    svg.querySelectorAll("script,foreignObject,iframe,image,use,a,animate,set,style").forEach(n=>n.remove());
+    svg.querySelectorAll("script,foreignObject,iframe,image,use,a,set,style,handler,listener").forEach(n=>n.remove());
+    svg.querySelectorAll("animate,animateTransform,animateMotion").forEach(n=>{const an=n.getAttribute("attributeName")||"";if(/href|^on/i.test(an))n.remove()});
     [svg,...svg.querySelectorAll("*")].forEach(n=>[...n.attributes].forEach(a=>{if(/^on/i.test(a.name)||/href/i.test(a.name)||/javascript:|url\(\s*['"]?(?!#)/i.test(a.value))n.removeAttribute(a.name)}));
     svg.removeAttribute("width");svg.removeAttribute("height");
     if(!svg.getAttribute("viewBox"))svg.setAttribute("viewBox","0 0 360 220");
@@ -502,10 +508,14 @@ function quiz(cards,title){
 }
 function recap(){const pool=shuffle(seenCards.filter(c=>c.quiz).slice());quiz(pool.slice(0,Math.min(3,pool.length)),"Recap")}
 
+function richText(t){
+  return String(t||"").split(/\n\n+/).filter(Boolean).map(p=>/^##\s+/.test(p)?`<h4>${esc(p.replace(/^##\s+/,""))}</h4>`:`<p>${esc(p)}</p>`).join("");
+}
 function deeper(c){
-  const paras=String(c.deep||"").split(/\n\n+/).filter(Boolean);
-  openSheet(`<div class="lbl">Dieper graven</div><h3>${esc(c.title)}</h3>
-  ${paras.length?paras.map(p=>`<p>${esc(p)}</p>`).join(""):`<p class="muted">Voor dit kaartje is er nog geen diepere uitleg.</p>`}
+  const body=richText(c.deep);
+  openSheet(`<div class="lbl">Meer weten</div><h3>${esc(c.title)}</h3>
+  ${c.svg?`<div class="svis">${cleanSVG(c.svg)}</div>`:""}
+  ${body||`<p class="muted">Voor dit kaartje is er nog geen diepere uitleg.</p>`}
   ${srcHtml(c.src)}
   <button class="btn" style="width:100%;margin-top:12px" id="mkd">📖 Wens hier een volledige deep dive over</button>`);
   SB.querySelector("#mkd").onclick=()=>wish(c.title);
@@ -555,27 +565,57 @@ DIVES.forEach(d=>d.trusted=true);
 const str=(v,n)=>typeof v==="string"?v.slice(0,n):"";
 const okQuiz=q=>q&&typeof q.q==="string"&&Array.isArray(q.o)&&q.o.length>=2&&Number.isInteger(q.a)&&q.a>=0&&q.a<q.o.length;
 const FRESH_DAYS=14;
+let contentFiles=[],loadedFiles=0,loadingMore=false;
+function normCard(c,now){return{cat:c.cat,title:str(c.title,140),body:str(c.body,700),take:str(c.take,300),deep:str(c.deep,8000),
+  svg:typeof c.svg==="string"?c.svg.slice(0,20000):"",
+  quiz:{q:str(c.quiz.q,200),o:c.quiz.o.map(o=>str(o,120)),a:c.quiz.a},src:Array.isArray(c.src)?c.src.slice(0,4):[],
+  date:c.date,fresh:!c.base&&(now-Date.parse(c.date))<FRESH_DAYS*864e5}}
 function ingest(j){
-  const now=Date.now();
-  feedCards=(Array.isArray(j.cards)?j.cards:[]).filter(c=>c&&CATS[c.cat]&&c.title&&c.body&&okQuiz(c.quiz)).map(c=>({
-    cat:c.cat,title:str(c.title,140),body:str(c.body,700),take:str(c.take,300),deep:str(c.deep,3000),
-    quiz:{q:str(c.quiz.q,200),o:c.quiz.o.map(o=>str(o,120)),a:c.quiz.a},src:Array.isArray(c.src)?c.src.slice(0,3):[],
-    date:c.date,fresh:(now-Date.parse(c.date))<FRESH_DAYS*864e5}));
-  dbDives=(Array.isArray(j.dives)?j.dives:[]).filter(d=>d&&d.id&&Array.isArray(d.chapters)&&d.chapters.length).map(d=>({
+  const now=Date.now(),have=new Set(feedCards.map(c=>c.title)),added=[];
+  (Array.isArray(j.cards)?j.cards:[]).filter(c=>c&&CATS[c.cat]&&c.title&&c.body&&okQuiz(c.quiz)).forEach(c=>{
+    const n=normCard(c,now);
+    if(have.has(n.title)){const i=feedCards.findIndex(x=>x.title===n.title);if(Date.parse(n.date)>Date.parse(feedCards[i].date))feedCards[i]=n;return}
+    have.add(n.title);feedCards.push(n);added.push(n)});
+  const dv=new Set(dbDives.map(d=>d.id));
+  (Array.isArray(j.dives)?j.dives:[]).filter(d=>d&&d.id&&Array.isArray(d.chapters)&&d.chapters.length&&!dv.has("f-"+d.id)).forEach(d=>dbDives.push({
     id:"f-"+str(d.id,60),title:str(d.title,140),emoji:str(d.emoji,8)||"📖",cat:CATS[d.cat]?d.cat:"wetenschap",date:d.date,
     fresh:(now-Date.parse(d.date))<FRESH_DAYS*864e5,
-    chapters:d.chapters.slice(0,8).map(c=>({h:str(c.h,140),text:str(c.text,2500),svg:typeof c.svg==="string"?c.svg:""})),
-    quiz:(d.quiz||[]).filter(okQuiz),src:Array.isArray(d.src)?d.src.slice(0,5):[]})).sort((a,b)=>String(b.date).localeCompare(String(a.date)));
+    chapters:d.chapters.slice(0,8).map(c=>({h:str(c.h,140),text:str(c.text,4000),svg:typeof c.svg==="string"?c.svg:""})),
+    quiz:(d.quiz||[]).filter(okQuiz),src:Array.isArray(d.src)?d.src.slice(0,5):[]}));
+  dbDives.sort((a,b)=>String(b.date).localeCompare(String(a.date)));
+  return added;
+}
+async function getJSON(u){
+  const ctl=new AbortController(),t=setTimeout(()=>ctl.abort(),10000);
+  try{const r=await fetch(u,{cache:"no-cache",signal:ctl.signal});return r.ok?await r.json():null}catch(e){return null}finally{clearTimeout(t)}
+}
+async function loadNext(n){
+  const batch=contentFiles.slice(loadedFiles,loadedFiles+n);loadedFiles+=batch.length;
+  const res=await Promise.all(batch.map(f=>getJSON("content/"+f)));
+  let added=[];res.forEach(j=>{if(j)added=added.concat(ingest(j))});
+  return added;
+}
+async function moreAI(){
+  if(loadingMore||locked)return;
+  if(loadedFiles<contentFiles.length){
+    loadingMore=true;
+    const added=(await loadNext(2)).filter(c=>S.interests.includes(c.cat)&&!usedTitles.has(c.title));
+    const unseen=shuffle(added.filter(c=>!S.seenT.includes(c.title))),old=added.filter(c=>S.seenT.includes(c.title));
+    queue=[...queue.filter(c=>!S.seenT.includes(c.title)),...unseen,...queue.filter(c=>S.seenT.includes(c.title)),...old];
+    loadingMore=false;fill();return;
+  }
+  if(!queue.length&&rendered.indexOf(cur)>=rendered.length-2)endCard();
 }
 async function start(){
-  try{
-    const ctl=new AbortController();const t=setTimeout(()=>ctl.abort(),8000);
-    const r=await fetch("content/feed.json",{cache:"no-cache",signal:ctl.signal});clearTimeout(t);
-    if(r.ok)ingest(await r.json());
-  }catch(e){}
+  const idx=await getJSON("content/index.json");
+  contentFiles=idx&&Array.isArray(idx.files)?idx.files.filter(f=>typeof f==="string"&&/^[\w\-\/]+\.json$/.test(f)&&!f.includes("..")):["feed.json"];
+  await loadNext(8);
   buildQueue();
   cur=null;sinceTeaser=2;fill();cur=rendered[0];updateBar();
 }
+/* respect "reduce motion": freeze SVG animations */
+const rm=matchMedia("(prefers-reduced-motion: reduce)");
+if(rm.matches)new MutationObserver(()=>document.querySelectorAll("svg").forEach(s=>{try{s.pauseAnimations()}catch(e){}})).observe(document.body,{childList:true,subtree:true});
 start();
 if("serviceWorker" in navigator)addEventListener("load",()=>navigator.serviceWorker.register("sw.js").catch(()=>{}));
 </script>
