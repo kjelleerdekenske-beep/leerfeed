@@ -297,6 +297,316 @@
     }
    ],
    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Herinnering = piek + einde</text><line x1=\"40\" y1=\"40\" x2=\"40\" y2=\"175\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"40\" y1=\"175\" x2=\"330\" y2=\"175\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"36\" y=\"50\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">pijn</text><path d=\"M40,175 L55,70 L210,70 L290,100 L290,175 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle r=\"4\" fill=\"#fff\"><animateMotion path=\"M55,70 L210,70 L290,100\" dur=\"5s\" repeatCount=\"indefinite\"/></circle><circle cx=\"130\" cy=\"70\" r=\"6\" fill=\"#ff6b9d\"><animate attributeName=\"r\" values=\"4;8;4\" dur=\"2s\" repeatCount=\"indefinite\"/></circle><circle cx=\"290\" cy=\"100\" r=\"6\" fill=\"#06d6a0\"><animate attributeName=\"r\" values=\"4;8;4\" dur=\"2s\" begin=\"1s\" repeatCount=\"indefinite\"/></circle><text x=\"130\" y=\"54\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">piek</text><text x=\"300\" y=\"96\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">einde</text><text x=\"132\" y=\"192\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">60 s, 14 °C</text><text x=\"250\" y=\"192\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">+30 s, ~15 °C</text><text x=\"180\" y=\"212\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">69% wil de lange proef herhalen</text></svg>"
+  },
+  {
+   "title": "De regel van 72",
+   "cat": "geld",
+   "body": "Deel 72 door een jaarlijks rendement in procent en je weet ongeveer na hoeveel jaar je geld verdubbelt. Bij 6% is dat zo'n 12 jaar, bij 9% zo'n 8 jaar.",
+   "take": "Werkt ook omgekeerd: bij 3% inflatie halveert je koopkracht in ongeveer 24 jaar.",
+   "quiz": {
+    "q": "Hoelang duurt verdubbeling bij 8% rendement per jaar?",
+    "o": [
+     "Ongeveer 9 jaar",
+     "Ongeveer 14 jaar",
+     "Ongeveer 20 jaar"
+    ],
+    "a": 0
+   },
+   "base": true,
+   "date": "2026-11-01T00:00:00Z",
+   "deep": "## Hoe het werkt\n\nBij samengestelde groei vermenigvuldig je je kapitaal elk jaar met (1 + rendement). De exacte verdubbeltijd vind je met logaritmes: verdubbeltijd = ln(2) / ln(1 + r). Dat rekent niemand graag uit het hoofd. De regel van 72 vervangt die formule door één eenvoudige deling: 72 gedeeld door het rendement in procent. Het getal 72 is handig gekozen, want het is deelbaar door 2, 3, 4, 6, 8, 9 en 12, zodat de deling vaak mooi uitkomt. Puur wiskundig zou 69,3 (100 × ln 2) beter passen bij heel lage percentages, maar bij gangbare rendementen schuift het ‘juiste’ getal op naar ongeveer 72.\n\n## Een voorbeeld\n\nStel dat je 5.000 euro belegt en dat dat gemiddeld 6% per jaar opbrengt. 72 / 6 = 12: na ongeveer 12 jaar heb je 10.000 euro, na 24 jaar 20.000 euro. Exact gerekend is het 11,9 jaar per verdubbeling. Bij 8%, zoals in de quiz, geeft de regel 9 jaar; de exacte uitkomst is 9,01 jaar. Brengt een spaarrekening maar 1,5% op, dan duurt verdubbelen al snel 48 jaar. Het werkt ook voor prijzen: bij 3% inflatie kost een boodschappenkar van 100 euro bij Delhaize na zo'n 24 jaar ongeveer 200 euro. Je koopkracht is dan dus gehalveerd.\n\n## Wat onderzoek zegt\n\nInteractive Mathematics zet de regel naast de exacte formule voor rendementen van 2% tot 14%: rendement maal exacte verdubbeltijd ligt dan tussen 70,01 en 74,06, dicht bij 72. Bij 3% is de exacte verdubbeltijd 23,45 jaar, de regel zegt 24. Volgens die bron is de regel goed bruikbaar tussen ongeveer 5 en 12%. Bij 20% loopt het product op tot 76,04: de regel zegt 3,6 jaar, in werkelijkheid is het 3,8 jaar. Waarom zo'n vuistregel nuttig is, toonden economen Victor Stango en Jonathan Zinman (Journal of Finance, 2009): mensen hebben de neiging om exponentiële groei in hun hoofd ‘recht te trekken’, waardoor ze toekomstige spaarbedragen onderschatten.\n\n## Nuance of misverstand\n\nDe regel gaat uit van een vast rendement dat elk jaar netjes terugkomt. Echte beleggingen schommelen: een gemiddelde van 6% kan bestaan uit goede en slechte jaren, en de volgorde daarvan bepaalt mee waar je uitkomt. Kosten, belastingen en inflatie zitten er ook niet in. Wil je weten wanneer je koopkracht verdubbelt, reken dan met het reële rendement: 6% rendement bij 2% inflatie is ongeveer 4% reëel, en dan duurt het zo'n 18 jaar in plaats van 12. Het blijft een richtgetal, geen belofte.\n\n## Wat je ermee doet\n\nGebruik de regel als snelle controle. Belooft iemand dat je geld in vijf jaar verdubbelt, dan reken je 72 / 5 = 14,4% per jaar: dat is een hoog rendement, dus stel kritische vragen over het risico. Kijk ook naar kosten: wie elk jaar 2% beheerskosten betaalt, ziet na ongeveer 36 jaar zowat de helft van wat er anders had gestaan. Dit is algemene uitleg, geen financieel advies.",
+   "src": [
+    {
+     "t": "Interactive Mathematics: Rule of 72",
+     "u": "https://www.intmath.com/money-math/rule-of-72.php"
+    },
+    {
+     "t": "Stango & Zinman (2009): Exponential Growth Bias",
+     "u": "https://econpapers.repec.org/RePEc:bla:jfinan:v:64:y:2009:i:6:p:2807-2849"
+    }
+   ],
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"20\" y=\"22\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\">72 ÷ 6% = 12 jaar per verdubbeling</text><line x1=\"40\" y1=\"196\" x2=\"320\" y2=\"196\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"50\" y=\"175\" width=\"40\" height=\"20\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\" opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;0.2;1;1\" keyTimes=\"0;0.00;0.05;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"70\" y=\"169\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">€100</text><text x=\"70\" y=\"212\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">0 j</text><rect x=\"120\" y=\"155\" width=\"40\" height=\"40\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\" opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;0.2;1;1\" keyTimes=\"0;0.20;0.25;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"140\" y=\"149\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">€200</text><text x=\"140\" y=\"212\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">12 j</text><rect x=\"190\" y=\"115\" width=\"40\" height=\"80\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\" opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;0.2;1;1\" keyTimes=\"0;0.40;0.45;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"210\" y=\"109\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">€400</text><text x=\"210\" y=\"212\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">24 j</text><rect x=\"260\" y=\"35\" width=\"40\" height=\"160\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\" opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;0.2;1;1\" keyTimes=\"0;0.60;0.65;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"280\" y=\"29\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">€800</text><text x=\"280\" y=\"212\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">36 j</text><text x=\"20\" y=\"42\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">× 2</text><text x=\"20\" y=\"56\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">elke</text><text x=\"20\" y=\"70\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">12 j</text></svg>"
+  },
+  {
+   "title": "Rente op rente is traag… en dan ineens snel",
+   "cat": "geld",
+   "body": "Bij samengestelde interest bouw je rendement op je eerdere rendement. In de eerste jaren lijkt het niets, later groeit het bedrag steeds harder. Tijd is daarbij de belangrijkste factor.",
+   "take": "Vroeg beginnen met een klein bedrag weegt vaak zwaarder dan later beginnen met een groot bedrag.",
+   "quiz": {
+    "q": "Wat is de grootste hefboom bij samengestelde interest?",
+    "o": [
+     "Geluk",
+     "Tijd",
+     "Het aantal rekeningen"
+    ],
+    "a": 1
+   },
+   "base": true,
+   "date": "2026-11-01T00:00:00Z",
+   "deep": "## Hoe het werkt\n\nBij enkelvoudige interest krijg je elk jaar rente op je startbedrag, en verder niets. Bij samengestelde interest wordt de rente bij je kapitaal gevoegd, zodat je het jaar daarna ook rente krijgt op die rente. De formule is eindbedrag = startbedrag × (1 + r)ⁿ, met r het rendement en n het aantal jaren. Omdat de groei elk jaar evenredig is met wat er al staat, krijg je een exponentiële curve: eerst bijna vlak, daarna steeds steiler. Het Amerikaanse consumentenagentschap CFPB vat het zo samen: je verdient rente op wat je spaart én op de rente die je onderweg verdient.\n\n## Een voorbeeld\n\nZet 100 euro vast aan 5% per jaar. Na één jaar heb je 105 euro, na twee jaar 110,25 euro: die 25 cent extra is rente op je rente. Na 20 jaar staat er ongeveer 265 euro, na 40 jaar ongeveer 704 euro. De winst in de tweede 20 jaar (zo'n 439 euro) is dus ruim 2,5 keer zo groot als die in de eerste 20 jaar (zo'n 165 euro). Met enkelvoudige interest had je na 40 jaar maar 300 euro gehad. Nog een rekenvoorbeeld: Lotte stort vanaf haar 25ste elk jaar 600 euro, Jens vanaf zijn 45ste elk jaar 1.200 euro. Beiden leggen tot hun 65ste in totaal 24.000 euro in. Aan 5% per jaar heeft Lotte op het einde ongeveer 72.500 euro, Jens ongeveer 39.700 euro.\n\n## Wat onderzoek zegt\n\nDat rente op rente zo verrast, komt doordat ons gevoel lineair denkt. Victor Stango en Jonathan Zinman beschreven dat in 2009 in de Journal of Finance als ‘exponential growth bias’: de wijdverspreide neiging om exponentiële groei intuïtief als een rechte lijn in te schatten. Daardoor onderschatten mensen hoeveel een spaarbedrag op termijn oplevert, en ook hoe hoog de echte rente op een lening is. Huishoudens met een sterkere bias leenden in hun onderzoek meer en spaarden minder, ook na correctie voor andere kenmerken.\n\n## Nuance of misverstand\n\nSamengestelde interest is geen tovermiddel. Een rendement is niet gegarandeerd, zeker niet bij beleggingen, en inflatie knaagt aan wat je bedrag later waard is. Ook kosten werken samengesteld: een paar procent per jaar lijkt weinig, maar telt over decennia zwaar door. En het mechanisme werkt evengoed tegen je: laat je rente op een schuld oplopen, dan betaal je rente op die rente.\n\n## Wat je ermee doet\n\nTijd is je grootste hefboom, dus begin vroeg, ook al is het bedrag klein. Laat opbrengsten staan in plaats van ze op te nemen, zodat ze zelf kunnen meegroeien. Vergelijk kosten van spaar- en beleggingsproducten, en los dure schulden zo snel mogelijk af. Dit is algemene uitleg, geen financieel advies.",
+   "src": [
+    {
+     "t": "CFPB: What is compound interest?",
+     "u": "https://www.consumerfinance.gov/ask-cfpb/what-is-compound-interest-en-1683/"
+    },
+    {
+     "t": "Stango & Zinman (2009): Exponential Growth Bias",
+     "u": "https://econpapers.repec.org/RePEc:bla:jfinan:v:64:y:2009:i:6:p:2807-2849"
+    }
+   ],
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><line x1=\"40\" y1=\"190\" x2=\"330\" y2=\"190\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"40\" y1=\"190\" x2=\"40\" y2=\"30\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"330\" y=\"206\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">jaren</text><text x=\"48\" y=\"34\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">bedrag</text><line x1=\"40\" y1=\"180\" x2=\"320\" y2=\"160\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"5 5\"/><text x=\"330\" y=\"180\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">zonder rente op rente</text><path d=\"M40 180 C 150 170, 240 140, 320 40\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"400\" stroke-dashoffset=\"400\"><animate attributeName=\"stroke-dashoffset\" values=\"400;0;0\" keyTimes=\"0;0.7;1\" dur=\"6s\" repeatCount=\"indefinite\"/></path><circle r=\"5\" fill=\"#ffd166\"><animateMotion path=\"M40 180 C 150 170, 240 140, 320 40\" dur=\"6s\" keyPoints=\"0;1;1\" keyTimes=\"0;0.7;1\" calcMode=\"linear\" repeatCount=\"indefinite\"/></circle><text x=\"150\" y=\"70\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">rente op rente</text><text x=\"90\" y=\"150\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">traag…</text><text x=\"300\" y=\"30\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">…dan snel</text></svg>"
+  },
+  {
+   "title": "Betaal jezelf eerst",
+   "cat": "geld",
+   "body": "Wie spaart wat er op het einde van de maand overblijft, spaart meestal weinig. Een automatische overschrijving op de dag dat je loon binnenkomt, draait dat om: je past je uitgaven aan wat overblijft.",
+   "take": "Zet vandaag een doorlopende opdracht in voor de dag na loondag. Klein bedrag mag.",
+   "quiz": {
+    "q": "Wanneer werkt automatisch sparen het best?",
+    "o": [
+     "Op het einde van de maand",
+     "Vlak na loondag",
+     "Alleen bij een bonus"
+    ],
+    "a": 1
+   },
+   "base": true,
+   "date": "2026-11-01T00:00:00Z",
+   "deep": "## Hoe het werkt\n\nDe meeste mensen sparen wat er op het einde van de maand overschiet. Dat bedrag is vaak klein of nul, omdat uitgaven de neiging hebben om het beschikbare geld op te vullen. ‘Betaal jezelf eerst’ draait de volgorde om: zodra je loon binnenkomt, gaat een vast bedrag automatisch naar een spaarrekening. Pas daarna verdeel je de rest over je uitgaven. Het slimme zit in de automatisering: je hoeft niet elke maand opnieuw te beslissen en dus ook niet elke maand wilskracht op te brengen. Wat niet op je zichtrekening staat, voelt minder als geld dat je kan uitgeven.\n\n## Een voorbeeld\n\nStel dat je loon telkens rond het einde van de maand op je rekening komt. Je zet in je bankapp een doorlopende opdracht van 100 euro naar je spaarrekening, uitgevoerd op de eerste dag na loondag. Na een jaar staat er 1.200 euro opzij zonder dat je er één keer aan hebt moeten denken. Merk je na een paar maanden dat je dat bedrag amper mist, dan verhoog je het, bijvoorbeeld bij je volgende loonsverhoging of indexering.\n\n## Wat onderzoek zegt\n\nHet idee is oud. In ‘The Richest Man in Babylon’ (1926) van George S. Clason luidt de raad om minstens een tiende van wat je verdient opzij te leggen vóór je de rest uitgeeft. Gedragseconomen gaven het later een wetenschappelijke basis. Richard Thaler en Shlomo Benartzi testten hun plan ‘Save More Tomorrow’ bij een Amerikaans bedrijf: werknemers spraken af dat hun spaarpercentage automatisch steeg bij elke loonsverhoging. Wie meedeed, ging van gemiddeld 3,5% naar 13,6% van het loon na vier loonsverhogingen, in iets minder dan vier jaar. Ander onderzoek van Brigitte Madrian en Dennis Shea, dat Thaler in 2004 voor het Amerikaanse Congres toelichtte, toonde dat automatische inschrijving in een pensioenplan de deelname van nieuwe werknemers deed stijgen van 49% naar 86%.\n\n## Nuance of misverstand\n\nAutomatisch sparen werkt alleen als het bedrag haalbaar is. Zet je te veel opzij, dan haal je het halverwege de maand terug of kom je rood te staan, en dan verlies je net het voordeel van de gewoonte. Het Amerikaanse onderzoek ging bovendien over pensioenplannen via de werkgever, niet over een spaarrekening die je zelf beheert. Het mechanisme (een standaardkeuze die je niet hoeft te herhalen) is wel hetzelfde. Een veelgehoorde vuistregel is om eerst een buffer van enkele maanden vaste kosten op te bouwen voor je aan andere doelen denkt.\n\n## Wat je ermee doet\n\nKies een bedrag dat je bijna niet voelt, en zet de opdracht in voor de dag na loondag. Geef de spaarrekening een duidelijk doel, zoals ‘buffer’ of ‘reis’. Verhoog het bedrag telkens als je inkomen stijgt, zoals in Save More Tomorrow. Dit is algemene info, geen persoonlijk advies.",
+   "src": [
+    {
+     "t": "Thaler, getuigenis Joint Economic Committee (2004)",
+     "u": "https://www.jec.senate.gov/archive/Documents/Hearings/thalertestimony10march2004.pdf"
+    },
+    {
+     "t": "Chicago Booth Review: Behavioral economics and retirement savings",
+     "u": "https://www.chicagobooth.edu/review/2013/september/retirement-savings"
+    },
+    {
+     "t": "Business Insider over The Richest Man in Babylon",
+     "u": "https://www.businessinsider.in/the-single-most-effective-way-to-get-rich-according-to-a-90-year-old-personal-finance-classic/articleshow/50177842.cms"
+    }
+   ],
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"20\" y=\"85\" width=\"90\" height=\"50\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"65\" y=\"115\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Loon</text><rect x=\"230\" y=\"35\" width=\"115\" height=\"50\" rx=\"8\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"287\" y=\"56\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">1. Sparen</text><text x=\"287\" y=\"73\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">dag na loondag</text><rect x=\"230\" y=\"140\" width=\"115\" height=\"50\" rx=\"8\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"287\" y=\"161\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">2. Uitgaven</text><text x=\"287\" y=\"178\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">met wat overblijft</text><path d=\"M110 110 L230 60\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M230 60 L219 60 L224 69 Z\" fill=\"#fff\"/><path d=\"M110 110 L230 165\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M230 165 L218 167 L224 157 Z\" fill=\"#fff\"/><circle r=\"5\" fill=\"#ffd166\"><animateMotion path=\"M110 110 L230 60\" dur=\"4s\" keyPoints=\"0;1;1\" keyTimes=\"0;0.4;1\" calcMode=\"linear\" repeatCount=\"indefinite\"/></circle><circle r=\"5\" fill=\"#06d6a0\" opacity=\"0\"><animateMotion path=\"M110 110 L230 165\" dur=\"4s\" keyPoints=\"0;0;1;1\" keyTimes=\"0;0.5;0.9;1\" calcMode=\"linear\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"0;0;1;1;0\" keyTimes=\"0;0.49;0.5;0.9;1\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><text x=\"20\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">automatisch, zonder wilskracht</text></svg>"
+  },
+  {
+   "title": "Het lokaas-effect verkoopt de duurste optie",
+   "cat": "marketing",
+   "body": "In een bekend experiment van Dan Ariely kostte The Economist online $59, print $125 en print + online óók $125. Bijna niemand koos print, maar door die optie kozen veel meer mensen het combipakket.",
+   "take": "Een bewust minder aantrekkelijke optie kan je ‘doeloptie’ doen opvallen als de slimme keuze.",
+   "quiz": {
+    "q": "Wat doet een ‘decoy’-optie?",
+    "o": [
+     "Ze verkoopt zelf het meest",
+     "Ze laat een andere optie beter lijken",
+     "Ze verlaagt de gemiddelde prijs"
+    ],
+    "a": 1
+   },
+   "base": true,
+   "date": "2026-11-01T00:00:00Z",
+   "deep": "## Hoe het werkt\n\nHet lokaas- of decoy-effect heet in de vakliteratuur ‘asymmetrische dominantie’. Je hebt twee echte opties: een doeloptie die de verkoper graag verkoopt en een concurrerende optie. Daar voeg je een derde optie aan toe die op alle punten slechter is dan de doeloptie, maar niet duidelijk slechter dan de concurrent. Die lokaasoptie wordt zelf bijna nooit gekozen. Ze geeft je brein wel een makkelijke vergelijking: ‘dit is evenveel geld voor meer’. Omdat we slecht zijn in het inschatten van absolute waarde en goed in vergelijken, gaat de doeloptie er plots als de slimme keuze uitzien.\n\n## Een voorbeeld\n\nDenk aan popcorn in de cinema, met verzonnen prijzen: een klein pak kost 4 euro, een groot pak 7 euro. Veel mensen kiezen klein. Voeg nu een middelgroot pak toe voor 6,50 euro. Bijna niemand neemt het, maar naast die 6,50 euro lijkt het grote pak voor amper 50 cent meer ineens een koopje. Hetzelfde patroon zie je bij abonnementen met drie formules of bij prijspagina's van software, waar het middelste pakket ‘populairst’ wordt genoemd.\n\n## Wat onderzoek zegt\n\nJoel Huber, John Payne en Christopher Puto beschreven het effect in 1982 in de Journal of Consumer Research. Het bekendste voorbeeld komt van gedragseconoom Dan Ariely, uit zijn boek ‘Predictably Irrational’ en zijn TED-talk. Hij gaf 100 MIT-studenten de abonnementsopties van The Economist: online voor 59 dollar, print voor 125 dollar, en print plus online ook voor 125 dollar. Zestien procent koos online, 84% het combipakket en niemand alleen print. Een andere groep van 100 studenten kreeg dezelfde keuze zonder de printoptie. Toen koos 68% online en nog maar 32% het combipakket.\n\n## Nuance of misverstand\n\nHet effect is minder ijzersterk dan de klassieke demonstraties doen vermoeden. Onderzoekers als Frederick, Lee en Baskin en Yang en Lynn rapporteerden in 2014 dat het effect in veel omstandigheden zwakker is of helemaal verdwijnt, onder meer in realistischere aankoopsituaties. Huber en collega's antwoordden dat het vooral werkt als je twijfelt tussen twee opties, als beide eigenschappen ongeveer even zwaar wegen en als duidelijk te zien is dat het lokaas slechter is. Ariely's voorbeeld met studenten is dus een sprekende illustratie, geen bewijs dat elke derde optie automatisch werkt.\n\n## Wat je ermee doet\n\nAls koper: zie je een optie die niemand zinnig zou kiezen, schrap ze dan in gedachten en vergelijk de overige opties opnieuw. Vraag je af of je de duurdere optie ook zou nemen als ze alleen naast de goedkoopste stond. Als maker: een middenoptie kan keuzes helpen structureren, maar gebruik ze eerlijk. Een optie die er alleen staat om te misleiden, kost je op termijn vertrouwen.",
+   "src": [
+    {
+     "t": "Wikipedia: Decoy effect",
+     "u": "https://en.wikipedia.org/wiki/Decoy_effect"
+    },
+    {
+     "t": "Dan Ariely, TED-talk (transcript)",
+     "u": "https://singjupost.com/are-we-in-control-of-our-decisions-by-dan-ariely-full-transcript/"
+    }
+   ],
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"15\" y=\"20\" width=\"100\" height=\"60\" rx=\"8\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"65\" y=\"45\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Online</text><text x=\"65\" y=\"65\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">$59</text><rect x=\"130\" y=\"20\" width=\"100\" height=\"60\" rx=\"8\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><text x=\"180\" y=\"45\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Print (lokaas)</text><text x=\"180\" y=\"65\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">$125</text><rect x=\"245\" y=\"20\" width=\"100\" height=\"60\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"stroke-width\" values=\"2;4;2\" dur=\"2s\" repeatCount=\"indefinite\"/></rect><text x=\"295\" y=\"45\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Print + online</text><text x=\"295\" y=\"65\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">$125</text><line x1=\"15\" y1=\"190\" x2=\"345\" y2=\"190\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"45\" width=\"40\" fill=\"#fff\" opacity=\"0.8\" y=\"172\" height=\"18\"><animate attributeName=\"height\" values=\"18;18;75;75;18\" keyTimes=\"0;0.4;0.5;0.9;1\" dur=\"8s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"172;172;115;115;172\" keyTimes=\"0;0.4;0.5;0.9;1\" dur=\"8s\" repeatCount=\"indefinite\"/></rect><rect x=\"275\" width=\"40\" fill=\"#ffd166\" y=\"98\" height=\"92\"><animate attributeName=\"height\" values=\"92;92;35;35;92\" keyTimes=\"0;0.4;0.5;0.9;1\" dur=\"8s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"98;98;155;155;98\" keyTimes=\"0;0.4;0.5;0.9;1\" dur=\"8s\" repeatCount=\"indefinite\"/></rect><text x=\"180\" y=\"125\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">met lokaas: 16% / 84%<animate attributeName=\"opacity\" values=\"1;1;0;0;1\" keyTimes=\"0;0.4;0.5;0.9;1\" dur=\"8s\" repeatCount=\"indefinite\"/></text><text x=\"180\" y=\"150\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\" opacity=\"0\">zonder lokaas: 68% / 32%<animate attributeName=\"opacity\" values=\"0;0;1;1;0\" keyTimes=\"0;0.4;0.5;0.9;1\" dur=\"8s\" repeatCount=\"indefinite\"/></text><text x=\"180\" y=\"208\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">keuze van 100 MIT-studenten</text></svg>"
+  },
+  {
+   "title": "Te veel keuze verlamt",
+   "cat": "marketing",
+   "body": "In de jamstudie van Iyengar & Lepper kocht 30% van de bezoekers iets bij een kraam met 6 smaken, tegenover 3% bij 24 smaken. Meer keuze trok meer kijkers, maar minder kopers.",
+   "take": "Toon op een landingspagina één duidelijke hoofdactie in plaats van vijf.",
+   "quiz": {
+    "q": "Hoeveel % kocht bij 24 smaken jam?",
+    "o": [
+     "3%",
+     "15%",
+     "30%"
+    ],
+    "a": 0
+   },
+   "base": true,
+   "date": "2026-11-01T00:00:00Z",
+   "deep": "## Hoe het werkt\n\nMeer opties trekken de aandacht: er is meer te zien en de kans lijkt groter dat er iets voor jou bij zit. Maar elke extra optie betekent ook meer vergelijken, meer twijfel en meer kans dat je achteraf spijt hebt van je keuze. Als die kosten te hoog oplopen, stellen mensen de beslissing uit of kiezen ze helemaal niet. Psychologen noemen dat keuze-overload of keuzestress: de negatieve gevolgen van te veel opties, zoals uitstel, minder tevredenheid en spijt.\n\n## Een voorbeeld\n\nDe bekendste proef liep in Draeger's, een luxesupermarkt in Menlo Park in Californië. Een proefstand bood afwisselend 24 of 6 soorten jam van het merk Wilkin & Sons aan. Van de 242 voorbijgangers bij 24 soorten stopten er 145 (60%), bij 6 soorten 104 van de 260 (40%). Proevers kregen een bon van 1 dollar korting, een week geldig. Bij de kleine keuze kochten 31 van de 104 proevers jam (30%), bij de grote keuze maar 4 van de 145 (3%). Herkenbaar? Denk aan een rek met tientallen soorten choco of een studiekeuze uit honderden richtingen: veel kijken, moeilijk kiezen.\n\n## Wat onderzoek zegt\n\nSheena Iyengar en Mark Lepper publiceerden de jamstudie in 2000 in de Journal of Personality and Social Psychology. Opvallend: proevers bij beide stands probeerden gemiddeld maar ongeveer anderhalve soort. Latere studies waren minder eenduidig. Benjamin Scheibehenne, Rainer Greifeneder en Peter Todd bundelden in 2010 vijftig experimenten met samen zo'n 5.000 deelnemers. Het gemiddelde effect van meer keuze was nagenoeg nul. Een latere meta-analyse met onder anderen Alexander Chernev en Ulf Böckenholt, over 57 studies uit 21 artikels, vond wel wanneer keuze-overload optreedt: bij een complexe keuzeset, een moeilijke beslistaak, onzekerheid over wat je zelf wil en wanneer je echt meteen moet kiezen.\n\n## Nuance of misverstand\n\n‘Minder keuze verkoopt altijd beter’ klopt dus niet. In de jamstudie trok het grote aanbod net meer mensen aan. Mensen die al goed weten wat ze willen, of die de opties overzichtelijk geordend krijgen, hebben weinig last van een groot aanbod. Het probleem is niet het aantal opties op zich, maar hoe moeilijk het wordt om ze te vergelijken.\n\n## Wat je ermee doet\n\nMaak keuzes makkelijker in plaats van ze blind te schrappen. Groepeer opties in duidelijke categorieën, markeer een aanrader en toon op een landingspagina één hoofdactie. Moet je zelf kiezen uit een groot aanbod, bepaal dan eerst twee of drie criteria die voor jou tellen, en schrap alles wat daar niet aan voldoet.",
+   "src": [
+    {
+     "t": "Iyengar & Lepper (2000), When choice is demotivating",
+     "u": "https://faculty.washington.edu/jdb/345/345%20Articles/Iyengar%20&%20Lepper%20(2000).pdf"
+    },
+    {
+     "t": "Psychology Today: Is choice overload a real thing?",
+     "u": "https://www.psychologytoday.com/us/blog/pop-psych/201602/is-choice-overload-real-thing"
+    },
+    {
+     "t": "Kellogg Insight: wanneer keuze-overload optreedt",
+     "u": "https://insight.kellogg.northwestern.edu/article/what-predicts-consumer-choice-overload"
+    }
+   ],
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"80\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">24 smaken</text><text x=\"270\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">6 smaken</text><circle cx=\"40\" cy=\"34\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"56\" cy=\"34\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"72\" cy=\"34\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"88\" cy=\"34\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"104\" cy=\"34\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"120\" cy=\"34\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"40\" cy=\"48\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"56\" cy=\"48\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"72\" cy=\"48\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"88\" cy=\"48\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"104\" cy=\"48\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"120\" cy=\"48\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"40\" cy=\"62\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"56\" cy=\"62\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"72\" cy=\"62\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"88\" cy=\"62\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"104\" cy=\"62\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"120\" cy=\"62\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"40\" cy=\"76\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"56\" cy=\"76\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"72\" cy=\"76\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"88\" cy=\"76\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"104\" cy=\"76\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"120\" cy=\"76\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"238\" cy=\"48\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"254\" cy=\"48\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"270\" cy=\"48\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"238\" cy=\"62\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"254\" cy=\"62\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"270\" cy=\"62\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><line x1=\"180\" y1=\"15\" x2=\"180\" y2=\"205\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"3 5\"/><rect x=\"52\" y=\"122.0\" width=\"22\" height=\"78.0\" fill=\"#fff\"><animate attributeName=\"height\" values=\"0;78.0;78.0\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"200;122.0;122.0\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><rect x=\"108\" y=\"196.1\" width=\"22\" height=\"3.9\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"0;3.9;3.9\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"200;196.1;196.1\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><rect x=\"236\" y=\"148.0\" width=\"22\" height=\"52.0\" fill=\"#fff\"><animate attributeName=\"height\" values=\"0;52.0;52.0\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"200;148.0;148.0\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><rect x=\"292\" y=\"161.0\" width=\"22\" height=\"39.0\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"0;39.0;39.0\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"200;161.0;161.0\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"63\" y=\"114\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">stopt 60%</text><text x=\"130\" y=\"190\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">koopt 3%</text><text x=\"230\" y=\"140\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">stopt 40%</text><text x=\"318\" y=\"153\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">koopt 30%</text></svg>"
+  },
+  {
+   "title": "Wat afwijkt, onthoud je",
+   "cat": "marketing",
+   "body": "Het Von Restorff-effect: tussen gelijkaardige items onthouden we het item dat eruit springt. Daarom krijgt een knop vaak een contrastkleur die nergens anders op de pagina voorkomt.",
+   "take": "Geef je call-to-action een kleur die je nergens anders gebruikt.",
+   "quiz": {
+    "q": "Waarom krijgt een CTA vaak een unieke kleur?",
+    "o": [
+     "Omdat het mooi is",
+     "Door het Von Restorff-effect",
+     "Voor SEO"
+    ],
+    "a": 1
+   },
+   "base": true,
+   "date": "2026-11-01T00:00:00Z",
+   "deep": "## Hoe het werkt\n\nOns geheugen werkt niet als een camera die alles even scherp vastlegt. Wanneer een reeks dingen sterk op elkaar lijkt, vloeien ze samen tot één vage indruk. Het ene item dat afwijkt, krijgt daarentegen extra aandacht en een eigen ‘etiket’ in je geheugen. Dat afwijken kan in de betekenis zitten (een dier in een lijst met meubels) of in iets zichtbaars zoals kleur, grootte, witruimte of onderstreping.\n\nBelangrijk: het effect komt uit het contrast, niet uit de eigenschap zelf. Een rode knop valt op tussen blauwe elementen, maar verdwijnt tussen tien andere rode knoppen.\n\n## Een voorbeeld\n\nDenk aan je samenvatting voor de examens in juni. Markeer je bijna elke zin fluogeel, dan springt er niets meer uit en heb je eigenlijk niets gemarkeerd. Markeer je per pagina twee of drie kernbegrippen, dan vallen die op en blijven ze beter hangen. Een webpagina werkt net zo: één knop in een kleur die nergens anders voorkomt, trekt de blik. Geef je ook de banner, de prijs en het logo dezelfde felle kleur, dan concurreren ze met elkaar.\n\n## Wat onderzoek zegt\n\nDe Duitse psychologe Hedwig von Restorff (1906-1962) werkte als assistente van Wolfgang Köhler aan de universiteit van Berlijn. In 1933 publiceerde ze proeven waarin deelnemers lijsten van gelijkaardige items leerden, met telkens één afwijkend item. Dat afwijkende item werd beter onthouden. Opvallend: het stond vaak al op de tweede of derde plaats, nog voor er een duidelijk patroon was om van af te wijken.\n\nLater onderzoek koppelde het effect aan aandacht. Karis, Fabiani en Donchin toonden in 1984 met hersenmetingen dat afwijkende items een grotere hersenreactie uitlokken, en dat meer aandacht samenging met betere herinnering. Ze zagen ook grote verschillen tussen mensen: wie zelf al ingewikkelde geheugentechnieken gebruikte, had weinig of geen extra voordeel van het afwijkende item. Bij ouderen bleek het effect in sommige studies kleiner dan bij studenten.\n\n## Nuance of misverstand\n\nHet effect is geen toverformule. Het meeste onderzoek gebruikt kunstmatige woordlijsten, dus hoe groot het effect is op een drukke website of in een winkelrek, is minder goed gekend. Er is ook een keerzijde: wat opvalt, kan de aandacht wegtrekken van de rest. Bij getuigenverklaringen is dat bekend als ‘weapon focus’: wie een wapen ziet, onthoudt andere details slechter.\n\n## Wat je ermee doet\n\nKies per scherm, e-mail, slide of pagina samenvatting één ding dat moet blijven hangen, en laat net dát afwijken in kleur, vorm of plaats. Houd de rest bewust rustig en gelijkvormig, want contrast heeft een saaie achtergrond nodig. Twijfel je of iets opvalt? Kijk een paar seconden naar je ontwerp en vraag je af waar je oog als eerste naartoe gaat. Is dat niet het belangrijkste, dan heb je te veel uitschieters.",
+   "src": [
+    {
+     "t": "Von Restorff effect (Wikipedia)",
+     "u": "https://en.wikipedia.org/wiki/Von_Restorff_effect"
+    },
+    {
+     "t": "Hedwig von Restorff (Wikipedia)",
+     "u": "https://en.wikipedia.org/wiki/Hedwig_von_Restorff"
+    }
+   ],
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"34\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Zes gelijkaardige items</text><circle cx=\"50\" cy=\"90\" r=\"18\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"102\" cy=\"90\" r=\"18\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"154\" cy=\"90\" r=\"18\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"206\" cy=\"90\" r=\"18\" fill=\"#ffd166\"><animate attributeName=\"r\" values=\"18;23;18\" dur=\"2s\" repeatCount=\"indefinite\"/></circle><circle cx=\"258\" cy=\"90\" r=\"18\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"310\" cy=\"90\" r=\"18\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"206\" y1=\"122\" x2=\"206\" y2=\"160\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"4 4\"><animate attributeName=\"stroke-dashoffset\" values=\"16;0\" dur=\"1s\" repeatCount=\"indefinite\"/></line><path d=\"M200 156 L206 166 L212 156 Z\" fill=\"#ffd166\"/><text x=\"206\" y=\"188\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">het afwijkende</text><text x=\"206\" y=\"204\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">blijft hangen</text><text x=\"76\" y=\"150\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\" opacity=\"0.7\">de rest vervaagt<animate attributeName=\"opacity\" values=\"0.8;0.3;0.8\" dur=\"4s\" repeatCount=\"indefinite\"/></text></svg>"
+  },
+  {
+   "title": "Cleopatra leefde dichter bij de maanlanding dan bij de piramides",
+   "cat": "geschiedenis",
+   "body": "De Grote Piramide van Gizeh werd rond 2560 v.Chr. gebouwd. Cleopatra stierf in 30 v.Chr. — ruim 2500 jaar later. Tussen haar dood en de maanlanding in 1969 zit ‘maar’ zo'n 2000 jaar.",
+   "take": "‘Het oude Egypte’ besloeg zelf al bijna 3000 jaar geschiedenis.",
+   "quiz": {
+    "q": "Wanneer werd de Grote Piramide ongeveer gebouwd?",
+    "o": [
+     "30 v.Chr.",
+     "2560 v.Chr.",
+     "500 n.Chr."
+    ],
+    "a": 1
+   },
+   "base": true,
+   "date": "2026-11-01T00:00:00Z",
+   "deep": "## Hoe het werkt\n\nOnze kijk op het verleden is samengeperst. ‘Oud Egypte’ voelt als één tijdvak, waarin piramides, farao's en Cleopatra naast elkaar staan. In werkelijkheid liggen er eeuwen tussen. De Grote Piramide van Gizeh werd gebouwd voor farao Choefoe (in het Grieks Cheops); de bouw begon rond 2560 v.Chr., tijdens het zogenaamde Oude Rijk (ongeveer 2650 tot 2150 v.Chr.). Cleopatra VII werd geboren in 70 of 69 v.Chr. en stierf in augustus 30 v.Chr.\n\nReken je het uit, dan zit er tussen de bouw van de piramide en de dood van Cleopatra zo'n 2530 jaar. Tussen haar dood en de maanlanding van 1969 zit ongeveer 2000 jaar.\n\n## Een voorbeeld\n\nMaak er een meetlint van, bijvoorbeeld in de klas of in de gang: 1 meter staat voor 1000 jaar. Zet de piramide op het begin. Cleopatra komt dan op ongeveer 2,53 meter. De maanlanding ligt op zo'n 4,53 meter, en vandaag sta je op bijna 4,59 meter. Wie dat ziet liggen, snapt meteen dat Cleopatra voor de piramide even ‘historisch’ was als zij voor ons is.\n\n## Wat onderzoek zegt\n\nVolgens het Rosicrucian Egyptian Museum was de Grote Piramide oorspronkelijk zo'n 147 meter hoog en bestaat ze uit meer dan 2,3 miljoen kalksteenblokken. De vizier van Choefoe, Hemioenoe, was vermoedelijk verantwoordelijk voor de bouw.\n\nCleopatra zelf was volgens de Encyclopaedia Britannica van Macedonische afkomst, met weinig of geen Egyptisch bloed. Haar dynastie, de Ptolemaeën, was gesticht door Ptolemaeus I Soter, een generaal van Alexander de Grote. De Griekse schrijver Plutarchus noteerde dat zij als enige van haar huis de moeite nam om Egyptisch te leren. Na haar dood kwam Egypte onder Romeins bestuur.\n\n## Nuance of misverstand\n\nDe piramides waren in Cleopatra's tijd al eeuwenoude bezienswaardigheden, waarover Griekse schrijvers verhalen doorgaven. Herodotus schreef bijvoorbeeld dat de piramide twintig jaar bouwtijd vergde, met ploegen van honderdduizend man die elkaar om de drie maanden afwisselden. Dat zijn verhalen die hem verteld werden, geen metingen: neem zulke cijfers met een korrel zout. Ook ‘2560 v.Chr.’ is een schatting, geen exact jaartal. Aan de vergelijking verandert dat niets: de kloof is zo groot dat een paar decennia speling niet uitmaakt.\n\n## Wat je ermee doet\n\nWanneer je over een oude beschaving leest, vraag dan altijd: welke eeuw precies? Leg tijdlijnen naast elkaar en reken de afstanden even uit. Een meetlint, een rol papier of een eenvoudige tijdlijn-app maakt zichtbaar wat getallen alleen niet tonen. Zo vermijd je dat duizenden jaren geschiedenis in je hoofd samenvallen tot één decor.",
+   "src": [
+    {
+     "t": "Cleopatra – Encyclopaedia Britannica",
+     "u": "https://www.britannica.com/biography/Cleopatra-queen-of-Egypt"
+    },
+    {
+     "t": "Pyramids of Giza – Rosicrucian Egyptian Museum",
+     "u": "https://egyptianmuseum.org/explore/old-kingdom-monuments-pyramids-of-giza"
+    },
+    {
+     "t": "Herodotus, Historiën 2.124 (Perseus)",
+     "u": "https://cts.perseids.org/read/greekLit/tlg0016/tlg001/perseus-eng2/2.124.1-2.124.5"
+    }
+   ],
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><line x1=\"30\" y1=\"120\" x2=\"330\" y2=\"120\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M14 120 L30 92 L46 120 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"195\" cy=\"120\" r=\"6\" fill=\"#ff6b9d\"/><circle cx=\"326\" cy=\"120\" r=\"6\" fill=\"#06d6a0\"/><text x=\"30\" y=\"144\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Piramide</text><text x=\"30\" y=\"160\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">2560 v.C.</text><text x=\"195\" y=\"144\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Cleopatra</text><text x=\"195\" y=\"160\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">30 v.C.</text><text x=\"318\" y=\"144\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Maan</text><text x=\"318\" y=\"160\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1969</text><path d=\"M32 70 L32 62 L193 62 L193 70\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"112\" y=\"52\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">± 2530 jaar</text><path d=\"M197 70 L197 62 L324 62 L324 70\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"260\" y=\"52\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">± 2000 jaar</text><circle r=\"5\" fill=\"#ffd166\"><animateMotion path=\"M30 120 L326 120\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"196\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">tijdlijn op schaal</text></svg>"
+  },
+  {
+   "title": "Oxford is ouder dan het Azteekse rijk",
+   "cat": "geschiedenis",
+   "body": "In Oxford werd al rond 1096 lesgegeven. De Azteken stichtten hun hoofdstad Tenochtitlan pas rond 1325.",
+   "take": "Tijdlijnen van verschillende continenten naast elkaar leggen geeft verrassende inzichten.",
+   "quiz": {
+    "q": "Wanneer werd Tenochtitlan gesticht?",
+    "o": [
+     "Rond 1096",
+     "Rond 1325",
+     "Rond 1600"
+    ],
+    "a": 1
+   },
+   "base": true,
+   "date": "2026-11-01T00:00:00Z",
+   "deep": "## Hoe het werkt\n\nWe leren geschiedenis meestal per continent. Europa krijgt zijn middeleeuwen, Amerika zijn ‘precolumbiaanse’ volkeren, en die twee lijnen leggen we zelden naast elkaar. Daardoor voelen de Azteken ‘ouder’ aan dan een Engelse universiteit die vandaag nog lessen geeft. Wie de jaartallen naast elkaar legt, ziet het omgekeerde.\n\n## Een voorbeeld\n\nNeem de KU Leuven. Paus Martinus V vaardigde op 9 december 1425 de pauselijke bul uit die de universiteit oprichtte; in 2025 vierde ze haar 600ste verjaardag, als oudste universiteit van de Lage Landen. De Drievoudige Alliantie, het bondgenootschap waaruit het Azteekse rijk groeide, ontstond pas in 1428. Strikt genomen is zelfs Leuven dus een paar jaar ouder dan het Azteekse rijk.\n\n## Wat onderzoek zegt\n\nVolgens de universiteit zelf heeft Oxford geen duidelijke stichtingsdatum, maar werd er in 1096 al in een of andere vorm lesgegeven. Vanaf 1167 groeide Oxford snel, toen koning Hendrik II na een ruzie met Thomas Becket Engelse studenten verbood om in Parijs te studeren. Rond 1190 kwam Emo uit Friesland toe, de eerste gekende buitenlandse student. In 1214 kreeg het hoofd van de universiteit de titel kanselier, en tussen 1249 en 1264 ontstonden de eerste colleges.\n\nAan de andere kant van de oceaan stichtten de Mexica, zoals de Azteken zichzelf noemden, rond 1325 hun hoofdstad Tenochtitlan. Volgens hun overlevering wees een adelaar op een vijgcactus de plek aan. In 1428 smeedden Tenochtitlan, Texcoco en Tlacopan de Drievoudige Alliantie. National Geographic vermeldt schattingen van 150.000 tot 300.000 inwoners voor Tenochtitlan. In 1521 werden de Azteken verslagen door de Spanjaarden en hun inheemse bondgenoten.\n\n## Nuance of misverstand\n\n‘Ouder’ betekent hier niet ‘beschaafder’. Ook de Mexica bestonden al als volk vóór ze Tenochtitlan stichtten. De vergelijking gaat alleen over één stad en één rijk. Bovendien is ‘1096’ geen stichtingsakte: Oxford groeide geleidelijk uit losse lessen. Ook de naam ‘Azteken’ is jonger dan je denkt: Alexander von Humboldt bracht hem in het begin van de 19de eeuw in omloop.\n\n## Wat je ermee doet\n\nMaak er een gewoonte van om bij een jaartal te vragen: wat gebeurde er op datzelfde moment elders? Teken twee tijdlijnen boven elkaar, eentje voor Europa en eentje voor een ander continent. Je ontdekt verrassende buren, zoals een Leuvense universiteit die opstart terwijl in Mexico een wereldrijk ontstaat.",
+   "src": [
+    {
+     "t": "History of the University – University of Oxford",
+     "u": "https://ox.ac.uk/about/the-university/history"
+    },
+    {
+     "t": "Who were the Aztec? – National Geographic",
+     "u": "https://www.nationalgeographic.com/history/history-magazine/article/who-were-the-aztec"
+    },
+    {
+     "t": "KU Leuven celebrates its 600th anniversary – Belga",
+     "u": "https://belganewsagency.eu/ranked-among-the-best-in-the-world-ku-leuven-celebrates-its-600th-anniversary-in-2025"
+    }
+   ],
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"40\" y=\"38\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\">Europa</text><line x1=\"40\" y1=\"70\" x2=\"330\" y2=\"70\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"67\" cy=\"70\" r=\"6\" fill=\"#ffd166\"/><text x=\"67\" y=\"92\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Oxford 1096</text><circle cx=\"258\" cy=\"70\" r=\"6\" fill=\"#ffd166\"/><text x=\"258\" y=\"56\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Leuven 1425</text><text x=\"40\" y=\"132\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\">Amerika</text><line x1=\"40\" y1=\"160\" x2=\"330\" y2=\"160\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"200\" cy=\"160\" r=\"6\" fill=\"#06d6a0\"/><text x=\"194\" y=\"184\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Tenochtitlan 1325</text><circle cx=\"259\" cy=\"160\" r=\"6\" fill=\"#06d6a0\"/><text x=\"273\" y=\"202\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Rijk 1428</text><circle cx=\"313\" cy=\"160\" r=\"6\" fill=\"#ff6b9d\"/><text x=\"313\" y=\"146\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1521</text><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"168\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"3 4\" opacity=\"0.8\"><animateTransform attributeName=\"transform\" type=\"translate\" values=\"0 0;290 0\" dur=\"8s\" repeatCount=\"indefinite\"/></line></svg>"
+  },
+  {
+   "title": "Napoleon was niet klein",
+   "cat": "geschiedenis",
+   "body": "Napoleon was ongeveer 1,69 m, gemiddeld of iets erboven voor een Fransman in zijn tijd. De mythe komt deels door verwarring tussen Franse en Engelse duimmaten, en deels door Britse spotprenten.",
+   "take": "Propaganda kan een beeld eeuwen laten overleven.",
+   "quiz": {
+    "q": "Waar komt de mythe van de kleine Napoleon deels vandaan?",
+    "o": [
+     "Zijn eigen dagboek",
+     "Britse spotprenten en maatverwarring",
+     "Zijn harnas"
+    ],
+    "a": 1
+   },
+   "base": true,
+   "date": "2026-11-01T00:00:00Z",
+   "deep": "## Hoe het werkt\n\nNapoleons lengte werd in Franse eenheden genoteerd: 5 pieds 2 pouces. Een Franse ‘pouce’ was in die tijd ongeveer 2,71 centimeter, terwijl een Engelse ‘inch’ 2,54 centimeter meet. Eén pied telde 12 pouces, dus 5 pieds 2 pouces is 62 pouces, ofwel ongeveer 1,68 meter. Wie diezelfde getallen als Engelse maten leest, komt uit op ‘5 foot 2’, ongeveer 1,57 meter. Zo werd een gemiddelde man op papier plots klein.\n\n## Een voorbeeld\n\nVergelijk het met een bonnetje in een andere munt. Staat er ‘62’ op, dan maakt het nogal uit of dat euro of een andere munt is. Het getal klopt, de eenheid niet. Bij Napoleon gebeurde precies dat: het getal werd overgenomen, de eenheid vergeten.\n\n## Wat onderzoek zegt\n\nVolgens de Encyclopaedia Britannica waren de meeste Franse mannen in de 19de eeuw tussen ongeveer 1,58 en 1,68 meter. Interpretaties van zijn overlijdensakte schatten Napoleon op 1,58 tot 1,70 meter, waarbij 1,68 à 1,70 meter het waarschijnlijkst is. Daarmee was hij gemiddeld of iets groter.\n\nHet beeld van de kleine Napoleon is vooral Brits werk. De karikaturist James Gillray, die Napoleon nooit zelf zag, introduceerde rond 1803 ‘Little Boney’: een kinderlijk mannetje met te grote laarzen en een reusachtige hoed. In een prent uit 1803 houdt koning George III hem als een miniatuurtje in zijn hand en bekijkt hem door een verrekijker. Ook Isaac Cruikshank tekende hem half zo groot als zijn vrouw en soldaten. Kunsthistorica Constance McPhee schreef dat Gillray grootte en kleding gebruikte om een bedreigende tegenstander symbolisch te verkleinen.\n\n## Nuance of misverstand\n\nNapoleon zag er naast zijn eigen mannen wel degelijk klein uit. Hij omringde zich met grenadiers van de Oude Garde, die bewust groot moesten zijn. Zijn bijnaam ‘le petit caporal’ was een teken van genegenheid van zijn soldaten, geen opmerking over zijn lengte. Het ‘Napoleoncomplex’, het idee dat kleine mannen compenseren met machtshonger, komt pas uit de populaire psychologie van de vroege 20ste eeuw.\n\n## Wat je ermee doet\n\nKijk bij elk historisch cijfer naar de eenheid en de bron. Lengtes, gewichten en munten veranderden per land en per eeuw. En wanneer een bekend beeld van een persoon vooral uit vijandige spotprenten komt, is het de moeite om na te gaan wat tijdgenoten zonder politiek belang schreven.",
+   "src": [
+    {
+     "t": "Was Napoleon short? – Encyclopaedia Britannica",
+     "u": "https://www.britannica.com/story/was-napoleon-short"
+    },
+    {
+     "t": "Was Napoleon even short? – National Geographic",
+     "u": "https://www.nationalgeographic.com/history/article/napoleon-complex-height-discrimination-men-history"
+    }
+   ],
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><line x1=\"30\" y1=\"190\" x2=\"330\" y2=\"190\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"70\" y=\"50\" width=\"60\" height=\"140\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"0;140;140\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"190;50;50\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><rect x=\"230\" y=\"59\" width=\"60\" height=\"131\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"100\" y=\"36\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">± 1,68 m</text><text x=\"260\" y=\"45\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">± 1,57 m</text><text x=\"100\" y=\"206\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Franse duim 2,71 cm</text><text x=\"260\" y=\"206\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Engelse inch 2,54 cm</text><text x=\"260\" y=\"128\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">fout</text><text x=\"260\" y=\"142\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">gelezen</text><text x=\"180\" y=\"110\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">5 pieds</text><text x=\"180\" y=\"126\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">2 pouces</text></svg>"
+  },
+  {
+   "title": "De oerknal is een Belgisch idee",
+   "cat": "geschiedenis",
+   "body": "De Leuvense priester en natuurkundige Georges Lemaître stelde in 1927 voor dat het heelal uitdijt, en later dat het begon vanuit een ‘oeratoom’. Dat werd de basis van wat we nu de oerknaltheorie noemen.",
+   "take": "Ook de saxofoon is Belgisch: uitgevonden door Adolphe Sax uit Dinant.",
+   "quiz": {
+    "q": "Wie legde de basis voor de oerknaltheorie?",
+    "o": [
+     "Albert Einstein",
+     "Georges Lemaître",
+     "Isaac Newton"
+    ],
+    "a": 1
+   },
+   "base": true,
+   "date": "2026-11-01T00:00:00Z",
+   "deep": "## Hoe het werkt\n\nAl vóór 1927 zagen sterrenkundigen dat het licht van verre ‘nevels’ (sterrenstelsels) naar het rood verschoven is: ze bewegen van ons weg. Vesto Slipher had al zo'n twintig van die roodverschuivingen gemeten. Georges Lemaître zocht een verklaring in Einsteins algemene relativiteitstheorie. Waar Einstein en Willem de Sitter oplossingen hadden met een statisch heelal, vond Lemaître een derde oplossing: het heelal zelf dijt uit. Sterrenstelsels vliegen dan niet door de ruimte weg, de ruimte ertussen groeit. Hoe verder een stelsel staat, hoe sneller het zich verwijdert.\n\n## Een voorbeeld\n\nLemaître werd in 1894 geboren in Charleroi. Hij studeerde in Leuven, Cambridge (bij Arthur Eddington) en aan Harvard en MIT, werd in 1923 priester en gaf vanaf 1925 les aan de Katholieke Universiteit van Leuven, waar hij in 1966 overleed. In 1934 kreeg hij de Francquiprijs; Albert Einstein was een van zijn peters bij die uitreiking.\n\n## Wat onderzoek zegt\n\nIn 1927 publiceerde Lemaître in het Frans, in de Annales de la Société scientifique de Bruxelles, een artikel over een homogeen heelal met constante massa en groeiende straal, dat de snelheid van verre nevels verklaarde. Hij leidde daarin al het verband tussen afstand en snelheid af. Het tijdschrift werd weinig gelezen door astronomen. Edwin Hubble publiceerde in 1929 zijn metingen van dat verband, zonder te beweren dat ze een uitdijing bewezen.\n\nIn 1931 verscheen Lemaîtres artikel in het Engels, maar zonder het stuk over het afstand-snelheidverband. Datzelfde jaar stelde hij in Nature voor dat het heelal ooit in één ‘oeratoom’ zat. In 2018 stemden leden van de Internationale Astronomische Unie over een nieuwe naam: 78 procent was voor ‘wet van Hubble-Lemaître’.\n\n## Nuance of misverstand\n\nLemaîtres oeratoom is niet hetzelfde als de moderne oerknaltheorie. Die werd vanaf 1948 verder uitgewerkt door onder meer George Gamow en collega's, en is sindsdien sterk verfijnd. Lemaître legde wel de basis: hij gaf het heelal een geschiedenis. Ook Einstein aanvaardde aanvankelijk wel de wiskunde, maar niet het idee van een veranderend heelal.\n\n## Wat je ermee doet\n\nOnthoud dat grote ideeën soms onopgemerkt blijven door iets banaals als taal of een klein tijdschrift. Publiceer of deel je werk waar je publiek het leest. En als je over de oerknal hoort, weet je nu dat die geschiedenis voor een flink stuk in Leuven en Charleroi begint.",
+   "src": [
+    {
+     "t": "Georges Lemaître – UCLouvain",
+     "u": "https://www.uclouvain.be/en/research-institutes/irmp/georges-lemaitre"
+    },
+    {
+     "t": "Georges Lemaître – Linda Hall Library",
+     "u": "https://lindahall.org/about/news/scientist-of-the-day/georges-lemaitre"
+    },
+    {
+     "t": "IAU: Hubble–Lemaître law vote (2018)",
+     "u": "https://iau.org/news/announcements/detail/ann18048"
+    }
+   ],
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><g transform=\"translate(180 110)\"><circle cx=\"0\" cy=\"0\" r=\"10\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" opacity=\"0.5\"><animate attributeName=\"r\" values=\"6;80\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"0.9;0\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"0\" cy=\"0\" r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M0 0 L70 0\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"0\" cy=\"0\" r=\"4\" fill=\"#06d6a0\"><animateMotion path=\"M0 0 L-70 0\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"0\" cy=\"0\" r=\"4\" fill=\"#ff6b9d\"><animateMotion path=\"M0 0 L0 55\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"0\" cy=\"0\" r=\"4\" fill=\"#fff\"><animateMotion path=\"M0 0 L0 -55\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"0\" cy=\"0\" r=\"4\" fill=\"#fff\"><animateMotion path=\"M0 0 L50 40\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"0\" cy=\"0\" r=\"4\" fill=\"#fff\"><animateMotion path=\"M0 0 L-50 -40\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"0\" cy=\"0\" r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M0 0 L-50 40\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"0\" cy=\"0\" r=\"4\" fill=\"#06d6a0\"><animateMotion path=\"M0 0 L50 -40\" dur=\"6s\" repeatCount=\"indefinite\"/></circle></g><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Oeratoom → uitdijend heelal</text><text x=\"20\" y=\"206\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">1927: Lemaître</text><text x=\"340\" y=\"206\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">1929: Hubble</text></svg>"
   }
  ]
 }
