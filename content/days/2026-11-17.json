@@ -1,6 +1,287 @@
 {
- "updated": "2026-11-17T10:15:34Z",
- "cards": [],
+ "updated": "2026-11-17T10:18:44Z",
+ "cards": [
+  {
+   "cat": "geld",
+   "title": "Een bank leent geen spaargeld uit, ze maakt geld",
+   "body": "Volgens de Bank of England (2014) ontstaat het meeste geld niet in een drukkerij, maar wanneer een bank een lening toestaat: ze schrijft gewoon een nieuw bedrag op je rekening. Bankdeposito's vormen zo'n 97% van het geld dat mensen in het VK aanhouden. Los je de lening af, dan verdwijnt dat geld weer.",
+   "take": "Zie je lening als nieuw gecreëerd geld met een prijs: de rente. Vergelijk die prijs bij meerdere banken voor je tekent.",
+   "deep": "## Hoe het werkt\n\nWanneer een bank je een lening toestaat, haalt ze dat geld niet uit een kluis vol spaarcenten. Ze boekt twee dingen tegelijk: aan de ene kant een vordering op jou (de lening), aan de andere kant een even groot nieuw tegoed op je zichtrekening. Dat tegoed is meteen bruikbaar geld. Je betaalt ermee, het belandt op de rekening van iemand anders, en zo circuleert het verder.\n\nHet omgekeerde gebeurt bij aflossing: betaal je de lening terug, dan verdwijnen zowel de schuld als het tegoed uit de boeken. Geld wordt dus voortdurend gemaakt en vernietigd.\n\n## Een voorbeeld\n\nStel: een koppel in Mechelen krijgt een woonkrediet van 250.000 euro. De bank zet dat bedrag niet over vanuit de spaarboekjes van andere klanten; ze creëert een nieuw tegoed dat via de notaris naar de verkoper gaat. Die verkoper heeft nu 250.000 euro extra op zijn rekening, terwijl niemand anders iets minder heeft.\n\n## Wat onderzoek zegt\n\nIn 2014 publiceerden Michael McLeay, Amar Radia en Ryland Thomas in het Quarterly Bulletin van de Bank of England het artikel 'Money creation in the modern economy'. Hun kernpunt: de handboekversie, waarin banken spaargeld doorlenen of centralebankgeld 'vermenigvuldigen', klopt niet. Leningen creëren deposito's, niet omgekeerd. Volgens de Bank of England bestaat ongeveer 97% van het geld dat het publiek aanhoudt uit bankdeposito's; bankbiljetten en munten zijn maar een klein deel.\n\n## Nuance of misverstand\n\nDat banken geld scheppen, betekent niet dat ze onbeperkt kunnen lenen. De centrale bank stuurt via haar rentebeleid hoe duur geld lenen is, banken moeten winstgevend blijven en verliezen kunnen opvangen, en ze moeten wettelijke regels rond kapitaal en liquiditeit volgen. Bovendien moet er vraag zijn: zonder kredietnemers geen nieuw geld. In de eurozone speelt de Europese Centrale Bank die sturende rol, met de Nationale Bank van België als deel van dat Eurosysteem.\n\nHet is ook geen geheime fraude: het is gewoon de manier waarop een modern bankstelsel werkt, en centrale banken leggen het zelf open uit.\n\n## Wat je ermee doet\n\nBegrijp je dit mechanisme, dan snap je beter waarom rentebeslissingen zo veel impact hebben: ze bepalen hoeveel nieuw geld er via leningen bijkomt. Bij een lening betaal je in wezen voor het gebruik van dat nieuw gecreëerde geld. Vergelijk daarom altijd het jaarlijkse kostenpercentage van meerdere aanbieders. En lees nieuws over 'de geldkraan' voortaan met in je achterhoofd dat de meeste kranen bij gewone banken staan.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"20\" y=\"60\" width=\"90\" height=\"70\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"65\" y=\"100\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Bank</text><rect x=\"250\" y=\"60\" width=\"90\" height=\"70\" rx=\"8\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"295\" y=\"90\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Jouw</text><text x=\"295\" y=\"106\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">rekening</text><line x1=\"110\" y1=\"80\" x2=\"240\" y2=\"80\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" from=\"24\" to=\"0\" dur=\"2s\" repeatCount=\"indefinite\"/></line><path d=\"M240 74 L250 80 L240 86 Z\" fill=\"#ffd166\"/><text x=\"175\" y=\"70\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">nieuw tegoed</text><line x1=\"250\" y1=\"115\" x2=\"120\" y2=\"115\" stroke=\"#06d6a0\" stroke-width=\"2\"/><path d=\"M120 109 L110 115 L120 121 Z\" fill=\"#06d6a0\"/><text x=\"185\" y=\"135\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">schuld aan bank</text><circle cx=\"295\" cy=\"170\" r=\"10\" fill=\"#ffd166\"><animate attributeName=\"r\" values=\"4;16;4\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"200\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Lening = geld erbij, aflossing = geld weg</text></svg>",
+   "quiz": {
+    "q": "Wat gebeurt er volgens de Bank of England als je een banklening aflost?",
+    "o": [
+     "Het geld gaat terug naar spaarders",
+     "Er verdwijnt geld uit de economie",
+     "De centrale bank drukt nieuwe biljetten"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Bank of England – Money creation in the modern economy (2014)",
+     "u": "https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy"
+    }
+   ],
+   "date": "2026-11-17T10:18:44Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Waarom de ECB bewust 2% inflatie nastreeft",
+   "body": "Nul procent inflatie klinkt ideaal, maar de Europese Centrale Bank mikt sinds juli 2021 op precies 2% op middellange termijn, symmetrisch: te laag is even erg als te hoog. Die marge beschermt tegen deflatie, waarbij dalende prijzen kunnen leiden tot uitgestelde aankopen, bevroren lonen en meer werkloosheid.",
+   "take": "Spaargeld dat minder dan 2% per jaar opbrengt, verliest op termijn koopkracht. Houd daar rekening mee bij elk rentevoorstel.",
+   "deep": "## Hoe het werkt\n\nInflatie meet hoe snel een vast pakket goederen en diensten duurder wordt. De ECB stuurt die inflatie vooral via haar beleidsrentes. Is de inflatie te hoog, dan verhoogt ze de rente zodat lenen duurder wordt en de vraag afkoelt. Is ze te laag, dan verlaagt ze de rente.\n\nHet probleem: rentes kunnen niet eindeloos dalen. Als inflatie al op nul zou staan, zou een centrale bank in een crisis snel tegen die ondergrens botsen. Een doel van 2% laat ruimte om de rente te verlagen voor er zwaardere middelen nodig zijn, zoals grootschalige aankopen van obligaties.\n\n## Een voorbeeld\n\nKost je boodschappenmand vandaag 100 euro en stijgen prijzen tien jaar lang met 2% per jaar, dan betaal je daarna ongeveer 122 euro voor dezelfde mand. Anders gezegd: 100 euro op een rekening zonder rente kan na die tien jaar nog maar voor zo'n 82 euro aan boodschappen kopen. Bij precies 2% per jaar verdubbelt het prijsniveau na ongeveer 35 jaar.\n\n## Wat onderzoek zegt\n\nBij haar strategieherziening, afgerond in juli 2021, verving de ECB het oude doel 'onder, maar dicht bij 2%' uit 2003 door een helder en symmetrisch doel van 2%. Volgens de Finse centrale bank leek de oude formulering een plafond te zijn en liet ze toe dat inflatie lang dicht bij nul bleef. De ECB legt in haar uitleg over stabiele prijzen uit dat de 2% een veiligheidsmarge tegen deflatie biedt en dat ze te lage inflatie even negatief bekijkt als te hoge. Het doel geldt voor de eurozone als geheel, waardoor niet elk land extreem lage inflatie moet slikken om andere landen te compenseren.\n\n## Nuance of misverstand\n\nHet doel geldt op middellange termijn: een paar maanden met veel hogere of lagere inflatie betekent niet dat de ECB faalt. Ook is jouw persoonlijke inflatie niet gelijk aan het gemiddelde: wie veel huurt of veel energie verbruikt, voelt prijsstijgingen anders dan wie weinig rijdt. En de Banque de France wijst erop dat inflatie boven nul ook kosten heeft, zoals vaker prijzen moeten aanpassen; 2% is dus een afweging, geen natuurwet.\n\n## Wat je ermee doet\n\nVergelijk de rente op je spaargeld altijd met de inflatie: alleen het verschil, de reële rente, zegt of je koopkracht groeit. Reken bij langetermijnplannen, zoals een pensioendoel, in koopkracht van vandaag. En wees niet verrast als de ECB ingrijpt wanneer inflatie onder 2% zakt: dat is precies wat het symmetrische doel belooft.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><line x1=\"40\" y1=\"180\" x2=\"330\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"40\" y1=\"180\" x2=\"40\" y2=\"30\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"40\" y1=\"110\" x2=\"330\" y2=\"110\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"5 5\"/><text x=\"300\" y=\"102\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">2%</text><line x1=\"40\" y1=\"160\" x2=\"330\" y2=\"160\" stroke=\"#ff6b9d\" stroke-width=\"2\" stroke-dasharray=\"2 4\"/><text x=\"290\" y=\"174\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">0% = deflatiegevaar</text><circle cx=\"60\" cy=\"110\" r=\"7\" fill=\"#06d6a0\"><animate attributeName=\"cy\" values=\"70;140;95;120;110;70\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"cx\" values=\"60;120;180;240;300;60\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"22\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Inflatie schommelt rond het doel</text><text x=\"120\" y=\"205\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">marge boven nul = ruimte om rente te verlagen</text></svg>",
+   "quiz": {
+    "q": "Waarom kiest de ECB voor 2% en niet voor 0% inflatie?",
+    "o": [
+     "Als buffer tegen deflatie en ruimte voor renteverlagingen",
+     "Omdat overheden zo meer belastingen innen",
+     "Omdat lonen wettelijk met 2% moeten stijgen"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "ECB – Why are stable prices important?",
+     "u": "https://www.ecb.europa.eu/explainers/tell-me-more/html/stableprices.en.html"
+    },
+    {
+     "t": "Bank of Finland Bulletin – ECB revised its strategy (2021)",
+     "u": "https://www.bofbulletin.fi/en/2021/4/ecb-revised-its-monetary-policy-strategy-whats-changed"
+    }
+   ],
+   "date": "2026-11-17T10:18:44Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Eén procent kosten per jaar is geen klein bedrag",
+   "body": "De Amerikaanse beurswaakhond SEC rekende het voor: 100.000 dollar met 4% rendement groeit in 20 jaar tot zo'n 208.000 dollar bij 0,25% jaarlijkse kosten, maar slechts tot 179.000 bij 1%. Een FSMA-studie (2022) vond bij Belgische fondsen gemiddeld 1,5% lopende kosten per jaar.",
+   "take": "Zoek in het essentiële-informatiedocument (KID) de lopende kosten op en vergelijk fondsen met de kostenvergelijker van de FSMA.",
+   "deep": "## Hoe het werkt\n\nEen beleggingsfonds rekent kosten aan voor beheer, administratie en distributie. De belangrijkste zijn de instapkosten (eenmalig, bij aankoop) en de lopende kosten (elk jaar, als percentage van je belegd vermogen). Die lopende kosten zie je nooit als factuur: ze worden stilletjes van de waarde van het fonds afgehouden.\n\nOmdat ze elk jaar terugkomen, werken ze als omgekeerde rente op rente. Elke euro die je aan kosten betaalt, kan in de volgende jaren zelf niet meer meegroeien.\n\n## Een voorbeeld\n\nEen eigen rekenvoorbeeld: 10.000 euro groeit twintig jaar lang aan 4% bruto per jaar. Bij 0,25% kosten groeit het netto aan 3,75% tot ongeveer 20.900 euro. Bij 1,5% kosten groeit het aan 2,5% tot ongeveer 16.400 euro. Het verschil, zo'n 4.500 euro, is geld dat naar kosten ging in plaats van naar jou. Het rendement van 4% is hier een aanname, geen voorspelling.\n\n## Wat onderzoek zegt\n\nDe Amerikaanse Securities and Exchange Commission (SEC) toont in haar investor bulletin 'How Fees and Expenses Affect Your Investment Portfolio' hetzelfde effect: een portefeuille van 100.000 dollar met 4% rendement is na 20 jaar ongeveer 208.000 dollar waard bij 0,25% jaarlijkse kosten, ongeveer 198.000 bij 0,50% en ongeveer 179.000 bij 1%. Bijna 30.000 dollar verschil dus.\n\nIn België onderzocht de FSMA in 2022 wat beleggen in fondsen kost. De gemiddelde lopende kosten bedroegen 1,5% per jaar over alle strategieën samen, en de gemiddelde maximale instapkosten 2,2%. Gemengde fondsen hadden met ongeveer 1,6% de hoogste lopende kosten.\n\n## Nuance of misverstand\n\nGoedkoop is niet automatisch beter: een fonds moet ook passen bij je doel, je risicoprofiel en je beleggingshorizon. En de lopende kosten in de KID omvatten niet alles; transactiekosten binnen het fonds en kosten bij je bank of broker komen er soms nog bij. Dit kaartje is geen advies over welk product je moet kiezen, wel een uitleg over waarom kosten tellen.\n\n## Wat je ermee doet\n\nVraag bij elk fonds naar de KID en noteer instapkosten en lopende kosten. Vergelijk gelijkaardige fondsen op die cijfers, bijvoorbeeld met de kostenvergelijker die de FSMA aanbiedt via Wikifin. Reken het effect uit over je echte horizon: een verschil van 1 procentpunt lijkt klein over één jaar, maar loopt over decennia snel op.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><line x1=\"40\" y1=\"190\" x2=\"330\" y2=\"190\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"40\" y1=\"190\" x2=\"40\" y2=\"30\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M40 170 Q200 140 320 50\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"3\" stroke-dasharray=\"360\" stroke-dashoffset=\"360\"><animate attributeName=\"stroke-dashoffset\" values=\"360;0;0\" dur=\"6s\" repeatCount=\"indefinite\"/></path><path d=\"M40 170 Q200 150 320 95\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"3\" stroke-dasharray=\"360\" stroke-dashoffset=\"360\"><animate attributeName=\"stroke-dashoffset\" values=\"360;0;0\" dur=\"6s\" repeatCount=\"indefinite\"/></path><text x=\"250\" y=\"50\" text-anchor=\"end\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">0,25% kosten</text><text x=\"250\" y=\"125\" text-anchor=\"end\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\">1% kosten</text><text x=\"185\" y=\"210\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">20 jaar</text><text x=\"60\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Waarde van je belegging</text></svg>",
+   "quiz": {
+    "q": "Wat vond de FSMA in 2022 als gemiddelde lopende kosten van fondsen in België?",
+    "o": [
+     "0,2% per jaar",
+     "3,5% per jaar",
+     "1,5% per jaar"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "SEC/Investor.gov – How fees and expenses affect your portfolio",
+     "u": "https://www.investor.gov/additional-resources/news-alerts/alerts-bulletins/investor-bulletin-how-fees-expenses-affect-your"
+    },
+    {
+     "t": "Forum for the Future – FSMA-studie kosten fondsen",
+     "u": "https://blog.forumforthefuture.be/nl/article/fsma-studie-over-de-kosten-verbonden-aan-beleggingen-in-fondsen/17294"
+    },
+    {
+     "t": "Wikifin – Hoeveel kost investeren in een fonds?",
+     "u": "https://www.wikifin.be/nl/sparen-en-beleggen/beleggingsproducten/beleggingsfonds/hoeveel-kost-het-om-te-investeren-een"
+    }
+   ],
+   "date": "2026-11-17T10:18:44Z"
+  },
+  {
+   "cat": "geld",
+   "title": "4% van de aandelen maakte alle beurswinst",
+   "body": "Hendrik Bessembinder (Arizona State University) bekeek bijna 26.000 Amerikaanse aandelen van 1926 tot 2016. Slechts 1.092 bedrijven, zo'n 4%, verklaarden alle 35 biljoen dollar aan winst bovenop kortlopend staatspapier. De meeste aandelen deden het over hun hele levensduur slechter dan die veilige Amerikaanse schatkistcertificaten.",
+   "take": "Wie één of enkele aandelen kiest, mist makkelijk de zeldzame uitschieters. Spreiding vergroot de kans dat ze in je mandje zitten.",
+   "deep": "## Hoe het werkt\n\nBeursrendementen zijn scheef verdeeld. Een aandeel kan hoogstens 100% verliezen, maar kan in theorie duizenden procenten winnen. Daardoor ontstaat een patroon met heel veel middelmatige of slechte aandelen en een handvol extreme winnaars. Het gemiddelde rendement van de markt wordt opgetrokken door die paar uitschieters, terwijl het 'typische' aandeel het een stuk minder goed doet.\n\nEen breed gespreide portefeuille bevat automatisch ook die uitschieters. Een kleine selectie heeft een grote kans ze te missen.\n\n## Een voorbeeld\n\nStel dat twee vriendinnen uit Gent in 1990 beginnen te beleggen. De ene koopt vijf aandelen die ze 'kent', de andere koopt een fonds dat honderden bedrijven bevat. De eerste kan schitterend scoren als ze toevallig een toekomstige reus kiest, maar statistisch is de kans groter dat haar vijf aandelen bij de grote middenmoot horen. De tweede bezit per definitie ook de enkele bedrijven die later de markt dragen.\n\n## Wat onderzoek zegt\n\nBessembinder publiceerde 'Do stocks outperform Treasury bills?' in 2018 in de Journal of Financial Economics. Hij gebruikte gegevens van alle Amerikaanse aandelen van 1926 tot 2016. Uitgedrukt in gecreëerde vermogenswinst verklaarden de beste 4,3% van de bedrijven (1.092 van bijna 26.000) de volledige netto winst van 35 biljoen dollar bovenop schatkistcertificaten. Meer dan de helft kwam van slechts 90 bedrijven. Volgens zijn analyse deed de meerderheid van de aandelen het over hun hele beursleven slechter dan kortlopend Amerikaans staatspapier. Een mediaan aandeel bleef ook maar zo'n zevenenhalf jaar genoteerd.\n\nEen latere update van ASU over 1926 tot 2025 vond hetzelfde patroon wereldwijd: 55,2% van de Amerikaanse en 57,4% van de niet-Amerikaanse aandelen deed het slechter dan schatkistcertificaten.\n\n## Nuance of misverstand\n\nDit betekent niet dat de beurs als geheel slecht rendeert: Bessembinder benadrukt zelf dat de brede markt en goed gespreide portefeuilles het historisch wel beter deden dan schatkistcertificaten. Het betekent ook niet dat je 'gewoon de 4% moet kiezen': achteraf zie je de winnaars, vooraf niet. En het verleden is geen garantie voor de toekomst.\n\n## Wat je ermee doet\n\nBesef dat een individueel aandeel een andere gok is dan 'de beurs'. Wie belegt, kan dat inzicht gebruiken om spreiding over veel bedrijven, sectoren en landen te zoeken. Wantrouw verhalen over 'het volgende supersucces': de cijfers tonen hoe zeldzaam zulke bedrijven zijn. Dit is uitleg, geen persoonlijk beleggingsadvies.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Wie maakte de winst?</text><rect x=\"30\" y=\"160\" width=\"20\" height=\"10\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"60\" y=\"154\" width=\"20\" height=\"16\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"90\" y=\"148\" width=\"20\" height=\"22\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"120\" y=\"160\" width=\"20\" height=\"10\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"150\" y=\"154\" width=\"20\" height=\"16\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"180\" y=\"148\" width=\"20\" height=\"22\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"210\" y=\"160\" width=\"20\" height=\"10\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"240\" y=\"154\" width=\"20\" height=\"16\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"270\" y=\"148\" width=\"20\" height=\"22\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"300\" y=\"50\" width=\"20\" height=\"120\" fill=\"#ffd166\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"300\" y=\"50\" width=\"20\" height=\"120\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0;1;0\" dur=\"3s\" repeatCount=\"indefinite\"/></rect><line x1=\"20\" y1=\"170\" x2=\"340\" y2=\"170\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"140\" y=\"192\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">96%: samen ongeveer als staatspapier</text><text x=\"310\" y=\"40\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">4%</text><text x=\"180\" y=\"212\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">VS, 1926-2016</text></svg>",
+   "quiz": {
+    "q": "Welk aandeel van de Amerikaanse aandelen verklaarde volgens Bessembinder alle netto beurswinst (1926-2016)?",
+    "o": [
+     "Ongeveer 40%",
+     "Ongeveer 4%",
+     "Ongeveer 0,4%"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "W. P. Carey School (ASU) – Do stocks outperform Treasury bills?",
+     "u": "https://wpcarey.asu.edu/department-finance/faculty-research/do-stocks-outperform-treasury-bills"
+    },
+    {
+     "t": "RePEc – Journal of Financial Economics 2018",
+     "u": "https://econpapers.repec.org/RePEc:eee:jfinec:v:129:y:2018:i:3:p:440-457"
+    }
+   ],
+   "date": "2026-11-17T10:18:44Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Waarom 19,99 euro veel goedkoper voelt dan 20",
+   "body": "Ons brein leest prijzen van links naar rechts en hecht te veel belang aan het eerste cijfer. Manoj Thomas en Vicki Morwitz toonden in 2005 dat dit 'linkercijfer-effect' alleen optreedt als dat eerste cijfer verandert. Bij 22 miljoen tweedehandsauto's daalde de prijs telkens sprongsgewijs bij elke 10.000 extra mijl.",
+   "take": "Rond prijzen bij het vergelijken meteen af naar boven: lees 19,99 als 20. Zo prikt het linkercijfer je niet meer.",
+   "deep": "## Hoe het werkt\n\nWanneer je een getal ziet, begin je links te lezen. Dat eerste cijfer verankert je inschatting al voordat je de rest verwerkt hebt. Bij 2,99 registreert je brein vooral 'twee-en-nog-iets', bij 3,00 'drie'. Het verschil van één cent voelt daardoor groter dan het is.\n\nVerkopers gebruiken dat al lang met prijzen op ,99 of ,95. Het werkt vooral bij snelle beslissingen, wanneer je niet de moeite neemt om precies te rekenen.\n\n## Een voorbeeld\n\nIn de supermarkt staat een fles olijfolie aan 9,99 euro naast een andere aan 10,49 euro. Het verschil is 50 cent, maar het voelt alsof de ene 'onder tien euro' zit en de andere 'boven tien'. Bij de autoverkoop zie je hetzelfde: een wagen met 79.900 kilometer op de teller oogt jonger dan eentje met 80.100, al is het verschil verwaarloosbaar.\n\n## Wat onderzoek zegt\n\nThomas en Morwitz publiceerden in 2005 in de Journal of Consumer Research 'Penny Wise and Pound Foolish: The Left-Digit Effect in Price Cognition'. In vijf experimenten toonden ze dat een prijs op 9 als kleiner wordt ervaren dan een prijs die één cent hoger ligt, maar alleen als daardoor het meest linkse cijfer verandert. Het effect is groter naarmate de prijzen dichter bij elkaar liggen, en het geldt ook voor andere getallen dan prijzen.\n\nNicola Lacetera, Devin Pope en Justin Sydnor zagen het effect in de echte wereld. In de American Economic Review (2012) analyseerden ze meer dan 22 miljoen veilingverkopen van tweedehandsauto's in de VS. Bij elke drempel van 10.000 mijl daalde de prijs plots met ongeveer 150 tot 200 dollar. Auto's met 79.900 tot 79.999 mijl brachten zo'n 210 dollar meer op dan auto's met 80.000 tot 80.100 mijl.\n\n## Nuance of misverstand\n\nHet effect is klein per aankoop en niet iedereen is er even gevoelig voor. Het verklaart ook niet waarom winkels altijd ,99 gebruiken: soms willen ze juist een ronde prijs om kwaliteit uit te stralen. En wie bewust rekent, bijvoorbeeld bij een grote aankoop, laat zich er minder door leiden.\n\n## Wat je ermee doet\n\nLees prijzen voortaan afgerond naar boven en vergelijk per kilo of per liter. Ben je zelf verkoper, bijvoorbeeld van je oude fiets, dan weet je nu waarom 149 euro anders aankomt dan 150. Gebruik dat eerlijk, en wees je ervan bewust wanneer het bij jou wordt gebruikt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"90\" y=\"100\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\">19,99</text><text x=\"270\" y=\"100\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\">20,00</text><rect x=\"60\" y=\"80\" width=\"18\" height=\"28\" rx=\"3\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"1;0.2;1\" dur=\"3s\" repeatCount=\"indefinite\"/></rect><rect x=\"240\" y=\"80\" width=\"18\" height=\"28\" rx=\"3\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"1;0.2;1\" dur=\"3s\" repeatCount=\"indefinite\"/></rect><text x=\"90\" y=\"135\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">voelt als ‘negentien’</text><text x=\"270\" y=\"135\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\">voelt als ‘twintig’</text><rect x=\"70\" y=\"160\" width=\"40\" height=\"20\" fill=\"#06d6a0\"><animate attributeName=\"width\" values=\"40;60;40\" dur=\"4s\" repeatCount=\"indefinite\"/></rect><rect x=\"230\" y=\"160\" width=\"100\" height=\"20\" fill=\"#ff6b9d\"/><text x=\"180\" y=\"40\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Het eerste cijfer weegt het zwaarst</text><text x=\"180\" y=\"205\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">echt verschil: 1 cent</text></svg>",
+   "quiz": {
+    "q": "Wanneer treedt het linkercijfer-effect volgens Thomas en Morwitz op?",
+    "o": [
+     "Bij elke prijs die op 9 eindigt",
+     "Alleen bij prijzen boven 100 euro",
+     "Als het meest linkse cijfer verandert"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Thomas & Morwitz, Journal of Consumer Research 2005 (IDEAS)",
+     "u": "https://ideas.repec.org/a/oup/jconrs/v32y2005i1p54-64.html"
+    },
+    {
+     "t": "NBER Digest – Limited Attention in the Car Market",
+     "u": "https://www.nber.org/digest/sep11/limited-attention-car-market"
+    }
+   ],
+   "date": "2026-11-17T10:18:44Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Een langere advertentietitel leverde Bing 100 miljoen op",
+   "body": "In 2012 stelde een Bing-medewerker voor om de titelregel van advertenties langer te maken. Niemand verwachtte veel van het idee. Een A/B-test toonde ongeveer 12% meer inkomsten, goed voor meer dan 100 miljoen dollar per jaar in de VS, zonder dat de gebruikerservaring merkbaar slechter werd.",
+   "take": "Twijfel je tussen twee versies van een mail of pagina? Test ze tegelijk op willekeurige groepen in plaats van te vertrouwen op je onderbuik.",
+   "deep": "## Hoe het werkt\n\nBij een A/B-test verdeel je bezoekers willekeurig over twee versies van iets: een webpagina, een knop, een onderwerpregel. Groep A krijgt het origineel, groep B de variant. Omdat het toeval bepaalt wie wat ziet, verschillen de groepen gemiddeld alleen in die ene aanpassing. Meet je daarna een verschil in kliks of verkoop dat groter is dan toeval kan verklaren, dan heb je een oorzaak gevonden, niet alleen een verband.\n\nGrote techbedrijven draaien zulke experimenten continu en meten daarbij niet alleen omzet, maar ook signalen van gebruikerstevredenheid.\n\n## Een voorbeeld\n\nEen webwinkel uit Antwerpen twijfelt of de knop 'In winkelmandje' groen of oranje moet zijn. In plaats van te discussiëren, toont ze twee weken lang willekeurig de ene of de andere kleur. Daarna vergelijkt ze niet alleen hoeveel mensen klikken, maar ook hoeveel bestellingen afgerond worden. Vaak blijkt dan dat het verschil kleiner is dan iedereen dacht, of zelfs de andere kant op gaat.\n\n## Wat onderzoek zegt\n\nRonny Kohavi en Stefan Thomke beschreven het Bing-voorbeeld in 2017 in Harvard Business Review ('The Surprising Power of Online Experiments'). Het idee was om tekst uit de regel onder de advertentietitel naar die titel te verplaatsen, zodat die langer werd. Binnen enkele uren gaf het testsysteem een alarm: de inkomsten waren zo hoog dat het 'te mooi om waar te zijn' leek. Het bleek echt. In het boek 'Trustworthy Online Controlled Experiments' (Cambridge University Press) schrijven Kohavi en collega's dat de omzet met ongeveer 12% steeg, meer dan 100 miljoen dollar per jaar in de VS alleen. Bing draait volgens hen meer dan 10.000 experimenten per jaar, maar zo'n grote winst uit een simpele aanpassing komt maar eens in de paar jaar voor.\n\n## Nuance of misverstand\n\nHet verhaal toont vooral hoe slecht mensen kunnen inschatten wat werkt: niemand verwachtte veel van dit idee. Maar de meeste tests leveren weinig of niets op. Te kleine groepen of te vroeg stoppen leiden makkelijk tot toevalstreffers, en wie alleen op korte termijn naar omzet kijkt, kan klanten op lange termijn wegjagen. Daarom wogen ze bij Bing inkomsten altijd af tegen gebruikersmetingen.\n\n## Wat je ermee doet\n\nTest één ding tegelijk, beslis vooraf hoe lang de test loopt en welke maatstaf telt, en wantrouw resultaten die te mooi lijken: controleer eerst of er geen fout in de meting zit. Ook in het klein werkt het: twee versies van een nieuwsbrief naar willekeurige helften van je lijst.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><circle cx=\"40\" cy=\"110\" r=\"8\" fill=\"#fff\"><animate attributeName=\"opacity\" values=\"1;0.4;1\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><text x=\"40\" y=\"140\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">bezoekers</text><line x1=\"50\" y1=\"105\" x2=\"140\" y2=\"65\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"50\" y1=\"115\" x2=\"140\" y2=\"155\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"140\" y=\"45\" width=\"80\" height=\"40\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"70\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Versie A</text><rect x=\"140\" y=\"135\" width=\"80\" height=\"40\" rx=\"6\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"180\" y=\"160\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">Versie B</text><circle r=\"5\" fill=\"#06d6a0\"><animateMotion path=\"M50 110 L140 65 L240 65\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><circle r=\"5\" fill=\"#ff6b9d\"><animateMotion path=\"M50 110 L140 155 L240 155\" dur=\"3s\" begin=\"1.5s\" repeatCount=\"indefinite\"/></circle><rect x=\"250\" y=\"55\" width=\"40\" height=\"20\" fill=\"#06d6a0\"/><rect x=\"250\" y=\"145\" width=\"45\" height=\"20\" fill=\"#ffd166\"><animate attributeName=\"width\" values=\"40;80;80\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"180\" y=\"25\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Toeval verdeelt, data beslist</text><text x=\"290\" y=\"200\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">+12% omzet</text></svg>",
+   "quiz": {
+    "q": "Waarom verdeel je bezoekers bij een A/B-test willekeurig over de versies?",
+    "o": [
+     "Zodat de groepen alleen in die ene aanpassing verschillen",
+     "Zodat de test sneller klaar is",
+     "Zodat elke bezoeker beide versies ziet"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Kohavi e.a. – Trustworthy Online Controlled Experiments (Cambridge UP)",
+     "u": "https://www.cambridge.org/core/books/trustworthy-online-controlled-experiments/introduction-and-motivation/701E908D3B64F6948FDCE242465B1862"
+    },
+    {
+     "t": "Kohavi & Thomke – The Surprising Power of Online Experiments (HBR 2017)",
+     "u": "https://web-docs.stern.nyu.edu/executive/The%20Surprising%20Power%20of%20Online%20Experiments.pdf"
+    }
+   ],
+   "date": "2026-11-17T10:18:44Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Het hoogste bod wint niet altijd bij Google",
+   "body": "Bij elke zoekopdracht houdt Google een razendsnelle veiling voor de advertentieplekken. Je positie hangt af van je 'Ad Rank': je bod gecombineerd met de kwaliteit van je advertentie, zoals verwachte klikratio, relevantie en landingspagina. Je betaalt bovendien meestal minder dan je maximale bod: net genoeg om de concurrent onder je te verslaan.",
+   "take": "Adverteer je zelf? Investeer in een relevante advertentie en een goede landingspagina; dat kan meer opleveren dan je bod verhogen.",
+   "deep": "## Hoe het werkt\n\nZodra iemand een zoekterm intypt waarop adverteerders bieden, berekent Google voor elke kandidaat-advertentie een Ad Rank. Volgens Google's eigen uitleg spelen daarin onder meer mee: het bod, de kwaliteit van de advertentie op het moment van de veiling, de minimumdrempels voor een positie, de context van de zoekopdracht en de concurrentie. Kwaliteit meet Google via de verwachte klikratio, de relevantie van de advertentie voor de zoekterm en de ervaring op de landingspagina.\n\nWie de hoogste Ad Rank heeft, staat bovenaan. Wie onder de drempel blijft, wordt niet getoond, hoe hoog het bod ook is.\n\n## Een voorbeeld\n\nTwee fietsenwinkels in Leuven adverteren op 'elektrische fiets kopen'. Winkel A biedt maximaal 2 euro per klik, maar stuurt mensen naar een trage algemene homepage. Winkel B biedt 1,50 euro, met een advertentie die precies over elektrische fietsen gaat en een pagina met prijzen en voorraad. Het kan goed dat winkel B hoger staat, omdat de verwachte kwaliteit de lagere prijs compenseert.\n\n## Wat onderzoek zegt\n\nGoogle beschrijft in zijn helppagina over de werkelijke kosten per klik dat je doorgaans minder betaalt dan je maximale bod. Je betaalt het minimum dat nodig is om de drempels te halen en de Ad Rank van de concurrent net onder je te verslaan. Dat lijkt op een tweedeprijsveiling: niet je eigen bod bepaalt je prijs, maar wat de anderen doen. Google vermeldt ook dat de kwaliteitsscore van 1 tot 10 die adverteerders in hun account zien een samenvattende diagnose is en zelf niet in de veiling gebruikt wordt; de onderliggende factoren wel.\n\n## Nuance of misverstand\n\nEen hoge kwaliteit betekent niet dat Google 'goede' bedrijven beloont: het gaat om de verwachting dat gebruikers klikken en vinden wat ze zoeken. Dat is ook in het belang van Google, dat per klik betaald wordt. En betaalde advertenties staan los van de gewone zoekresultaten: daar kun je je plaats niet kopen.\n\n## Wat je ermee doet\n\nAls gebruiker weet je nu dat de bovenste resultaten met 'Gesponsord' een veiling gewonnen hebben, wat niet hetzelfde is als het beste aanbod. Als adverteerder zorg je dat je advertentie precies aansluit bij de zoekterm en je landingspagina snel en relevant is. Dat verlaagt vaak je kosten per klik.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Ad Rank = bod + kwaliteit + context</text><rect x=\"40\" y=\"60\" width=\"60\" height=\"16\" fill=\"#ffd166\"/><rect x=\"100\" y=\"60\" width=\"40\" height=\"16\" fill=\"#06d6a0\"><animate attributeName=\"width\" values=\"40;40;40\" dur=\"4s\" repeatCount=\"indefinite\"/></rect><text x=\"150\" y=\"73\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Winkel A</text><rect x=\"40\" y=\"110\" width=\"45\" height=\"16\" fill=\"#ffd166\"/><rect x=\"85\" y=\"110\" width=\"60\" height=\"16\" fill=\"#06d6a0\"><animate attributeName=\"width\" values=\"20;80;80;20\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"190\" y=\"123\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Winkel B</text><rect x=\"40\" y=\"160\" width=\"12\" height=\"12\" fill=\"#ffd166\"/><text x=\"58\" y=\"171\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">bod</text><rect x=\"110\" y=\"160\" width=\"12\" height=\"12\" fill=\"#06d6a0\"/><text x=\"128\" y=\"171\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">kwaliteit</text><text x=\"180\" y=\"205\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">meer kwaliteit kan een lager bod goedmaken</text></svg>",
+   "quiz": {
+    "q": "Hoeveel betaal je bij Google Ads doorgaans voor een klik?",
+    "o": [
+     "Het minimum om de Ad Rank onder je te verslaan",
+     "Altijd exact je maximale bod",
+     "Een vaste prijs per zoekterm"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Google Ads Help – Actual cost-per-click",
+     "u": "https://support.google.com/google-ads/answer/6297"
+    },
+    {
+     "t": "Google Ads Help – About Ad Rank",
+     "u": "https://support.google.com/google-ads/answer/1722122"
+    }
+   ],
+   "date": "2026-11-17T10:18:44Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Zonder Einstein zat je gps 10 kilometer naast",
+   "body": "Gps-satellieten draaien op zo'n 20.200 km hoogte. Door de zwakkere zwaartekracht lopen hun atoomklokken 45 microseconden per dag voor, door hun snelheid 7 microseconden achter. Netto: 38 microseconden per dag. Zonder correctie zou je positie elke dag ongeveer 10 kilometer verder afwijken.",
+   "take": "Zie je locatie verspringen tussen hoge gebouwen? Dat komt vaak door weerkaatste signalen: in open ruimte wordt je gps meestal nauwkeuriger.",
+   "deep": "## Hoe het werkt\n\nJe gsm meet hoe lang signalen van gps-satellieten onderweg zijn. Elke satelliet zendt voortdurend uit welke tijd het is volgens zijn atoomklok en waar hij zich bevindt. Uit het tijdsverschil berekent je toestel de afstand: licht legt ongeveer 30 centimeter per nanoseconde af. Met afstanden tot minstens vier satellieten kan je toestel drie coördinaten en de afwijking van zijn eigen, minder nauwkeurige klok oplossen.\n\nOmdat het om nanoseconden gaat, moet de tijd van de satellieten extreem precies kloppen.\n\n## Een voorbeeld\n\nJe rijdt van Brugge naar Hasselt met je navigatie aan. Terwijl je rijdt, ontvangt je toestel elke seconde signalen van meerdere satellieten. Een timingfout van slechts één microseconde zou al een fout van zo'n 300 meter betekenen, genoeg om de verkeerde afrit te nemen.\n\n## Wat onderzoek zegt\n\nVolgens de Ohio State University voorspelt de algemene relativiteitstheorie van Einstein dat klokken in zwakkere zwaartekracht sneller lopen: de satellietklokken winnen zo'n 45 microseconden per dag. De speciale relativiteitstheorie zegt dat bewegende klokken trager lopen; bij een snelheid van ongeveer 3,9 kilometer per seconde verliezen ze zo'n 7 microseconden per dag. Netto lopen ze 38 microseconden per dag voor. Vermenigvuldig dat met de lichtsnelheid en je krijgt ruim 11 kilometer; populair wordt dat afgerond tot ongeveer 10 kilometer per dag. Daarom worden de satellietklokken vóór de lancering bewust een fractie trager afgesteld, zodat ze in hun baan, gezien vanaf de aarde, precies juist lopen.\n\n## Nuance of misverstand\n\nHet klopt niet dat gps zonder correctie meteen onbruikbaar zou zijn: de fout bouwt zich geleidelijk op. Ook komen de grootste dagelijkse fouten in je gsm niet van relativiteit, maar van de atmosfeer die signalen vertraagt, van weerkaatsingen tegen gebouwen en van een slechte zichtlijn naar de hemel. En gps is maar één systeem: je gsm gebruikt vaak ook het Europese Galileo, dat op dezelfde principes werkt.\n\n## Wat je ermee doet\n\nWeet dat je navigatie een stukje toegepaste natuurkunde is. Praktisch: wacht na het opstarten even in open ruimte, zodat je toestel genoeg satellieten vindt. En wantrouw een locatie die midden in een stad plots een straat opschuift; vaak is dat een weerkaatst signaal.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><circle cx=\"180\" cy=\"200\" r=\"70\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"190\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Aarde</text><path d=\"M30 130 A160 110 0 0 1 330 130\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"4 6\"/><circle r=\"8\" fill=\"#ffd166\"><animateMotion path=\"M30 130 A160 110 0 0 1 330 130\" dur=\"8s\" repeatCount=\"indefinite\"/></circle><text x=\"15\" y=\"40\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">zwaartekracht: +45 µs</text><text x=\"215\" y=\"40\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\">snelheid: −7 µs</text><text x=\"180\" y=\"65\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\">netto +38 µs per dag</text></svg>",
+   "quiz": {
+    "q": "Hoeveel lopen gps-satellietklokken netto per dag voor op klokken op aarde?",
+    "o": [
+     "7 microseconden",
+     "45 microseconden",
+     "38 microseconden"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Ohio State University – Real-World Relativity: The GPS Navigation System",
+     "u": "https://www.astronomy.ohio-state.edu/pogge.1/Ast162/Unit5/gps"
+    },
+    {
+     "t": "Penn State – The Satellite Clock",
+     "u": "https://courses.ems.psu.edu/geog862/node/1714"
+    }
+   ],
+   "date": "2026-11-17T10:18:44Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Hoe twee vreemden in het openbaar een geheim afspreken",
+   "body": "Je gsm en een website hebben nooit een geheime sleutel uitgewisseld, en toch versleutelen ze alles. Dat danken we aan Whitfield Diffie en Martin Hellman. Hun artikel 'New Directions in Cryptography' (1976) liet twee partijen via een afluisterbare lijn een gedeeld geheim berekenen. In 2016 kregen ze er de Turing Award voor.",
+   "take": "Controleer bij online betalen of het adres met https begint en de juiste domeinnaam toont: versleuteling helpt alleen als je met de echte partij praat.",
+   "deep": "## Hoe het werkt\n\nHet idee is te vergelijken met verf mengen. Alice en Bob spreken openlijk een gemeenschappelijke kleur af, zeg geel. Elk voegt er een geheime eigen kleur aan toe en stuurt het mengsel naar de ander. Daarna voegt elk opnieuw de eigen geheime kleur toe aan wat ze ontvingen. Beide eindigen met exact dezelfde mengkleur, terwijl een afluisteraar alleen geel en de twee tussenmengsels zag, en die kun je niet gemakkelijk 'ontmengen'.\n\nIn de wiskunde vervangen machtsverheffing en rekenen met restwaarden (modulair rekenen) de verf. Iets uitrekenen is makkelijk; terugrekenen naar het geheime getal is met heel grote getallen praktisch onmogelijk.\n\n## Een voorbeeld\n\nEen speelgoedversie met kleine getallen: het openbare getal is 5, de openbare 'klok' is 23. Alice kiest geheim 6 en stuurt 5 tot de 6de modulo 23, dat is 8. Bob kiest geheim 15 en stuurt 5 tot de 15de modulo 23, dat is 19. Alice rekent 19 tot de 6de modulo 23, Bob rekent 8 tot de 15de modulo 23. Allebei komen ze uit op 2: hun gedeelde geheim. In het echt gebruikt je browser getallen van honderden cijfers.\n\n## Wat onderzoek zegt\n\nDe ACM, die de Turing Award uitreikt, schrijft dat het artikel van Diffie en Hellman uit 1976 de ideeën van publieke-sleutelcryptografie en digitale handtekeningen introduceerde, de basis voor de meeste beveiligingsprotocollen op het internet. De prijs voor 2015 werd in maart 2016 bekendgemaakt en bedroeg 1 miljoen dollar. Volgens Stanford gebruiken miljarden mensen het Diffie-Hellman-protocol dagelijks om veilige verbindingen op te zetten.\n\n## Nuance of misverstand\n\nDiffie-Hellman alleen bewijst niet met wie je praat. Een aanvaller die zich tussen jou en de website plaatst, kan met beide kanten apart een geheim afspreken. Daarom combineren websites het met certificaten en digitale handtekeningen, die aantonen dat je echt met je bank verbonden bent. Het hangslotje in je browser betekent dus 'versleuteld met deze domeinnaam', niet 'betrouwbaar bedrijf'.\n\n## Wat je ermee doet\n\nKijk bij gevoelige handelingen altijd naar de domeinnaam, niet alleen naar het slotje. Klik niet door bij certificaatwaarschuwingen. En onthoud: zonder het werk van twee onderzoekers uit de jaren zeventig zou elke onlinebetaling een vooraf uitgewisselde geheime sleutel vereisen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><circle cx=\"60\" cy=\"70\" r=\"22\" fill=\"#ffd166\"/><text x=\"60\" y=\"30\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Alice</text><circle cx=\"300\" cy=\"70\" r=\"22\" fill=\"#ffd166\"/><text x=\"300\" y=\"30\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Bob</text><circle cx=\"60\" cy=\"70\" r=\"10\" fill=\"#ff6b9d\"/><circle cx=\"300\" cy=\"70\" r=\"10\" fill=\"#06d6a0\"/><line x1=\"90\" y1=\"110\" x2=\"270\" y2=\"110\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"4 6\"/><circle r=\"9\" fill=\"#ff6b9d\"><animateMotion path=\"M80 110 L280 110\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><circle r=\"9\" fill=\"#06d6a0\"><animateMotion path=\"M280 110 L80 110\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"135\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">openbaar: alleen mengsels</text><circle cx=\"60\" cy=\"175\" r=\"16\" fill=\"#fff\"><animate attributeName=\"opacity\" values=\"0;1;1;0\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><circle cx=\"300\" cy=\"175\" r=\"16\" fill=\"#fff\"><animate attributeName=\"opacity\" values=\"0;1;1;0\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"180\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">zelfde geheim</text></svg>",
+   "quiz": {
+    "q": "Wat lost Diffie-Hellman op zichzelf NIET op?",
+    "o": [
+     "Een gedeeld geheim afspreken via een open lijn",
+     "Bewijzen met wie je werkelijk praat",
+     "Afluisteraars het geheim laten missen"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "ACM – Cryptography Pioneers Receive ACM A.M. Turing Award",
+     "u": "https://www.acm.org/media-center/2016/march/turing-award-2015"
+    },
+    {
+     "t": "Stanford News – Diffie and Hellman win Turing Award",
+     "u": "https://news.stanford.edu/stories/2016/03/turing-hellman-diffie-030116"
+    }
+   ],
+   "date": "2026-11-17T10:18:44Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Een chatbot leest geen woorden maar tokens",
+   "body": "Een taalmodel zoals ChatGPT knipt tekst in 'tokens': stukjes van gemiddeld zo'n 4 tekens in het Engels, ongeveer driekwart woord. Bij elke stap berekent het voor alle mogelijke tokens een kans en kiest het er één. Daarna herhaalt het dat, token na token, tot het antwoord af is.",
+   "take": "Vraag een chatbot bij feiten altijd om bronnen en controleer die: een vloeiend antwoord is een waarschijnlijk antwoord, niet automatisch een juist.",
+   "deep": "## Hoe het werkt\n\nEerst zet een tokenizer je tekst om in een reeks tokens: vaak voorkomende woorden zijn één token, zeldzame woorden worden in stukken geknipt. Het model krijgt die reeks en berekent voor elk token in zijn woordenschat een score. Die scores worden omgezet in kansen die samen 100% vormen. Dan wordt er één token gekozen, achteraan toegevoegd, en begint alles opnieuw voor het volgende token.\n\nEen instelling die temperatuur heet, bepaalt hoe avontuurlijk die keuze is: lage temperatuur kiest bijna altijd het meest waarschijnlijke token, hogere temperatuur geeft minder waarschijnlijke opties meer kans.\n\n## Een voorbeeld\n\nTyp je 'De hoofdstad van België is', dan krijgt 'Brussel' een heel hoge kans, omdat die combinatie in de trainingsteksten vaak voorkomt. Bij een open vraag als 'Schrijf een gedicht over de Schelde' liggen de kansen veel meer verspreid, en daardoor krijg je bij elke poging een ander gedicht.\n\n## Wat onderzoek zegt\n\nOpenAI geeft als vuistregel voor Engelse tekst: één token is ongeveer 4 tekens of driekwart woord, en 100 tokens zijn ongeveer 75 woorden. Het bedrijf benadrukt dat dit schattingen zijn en dat andere talen een andere verhouding hebben. Onderzoekster Chip Huyen legt in haar uitleg over sampling uit hoe het model zijn scores via een zogeheten softmax-functie omzet in kansen, en dat de temperatuur die scores deelt voor die omzetting: onder 1 worden de kansen scherper, boven 1 vlakker.\n\n## Nuance of misverstand\n\nDat een model 'alleen het volgende token voorspelt', betekent niet dat het niets kan: om goed te voorspellen moet het veel patronen uit taal en kennis opgepikt hebben. Maar het betekent wel dat het geen feiten opzoekt zoals een databank. Klinkt een verzonnen bron waarschijnlijk, dan kan het model die met evenveel zelfvertrouwen opschrijven. Omdat het in stukjes in plaats van letters denkt, kunnen taken als letters tellen ook verrassend lastig zijn.\n\n## Wat je ermee doet\n\nGebruik chatbots voor wat ze goed kunnen: herformuleren, samenvatten, ideeën genereren. Controleer feiten, cijfers en bronnen zelf. En als je met betaalde AI-diensten werkt: de prijs en de maximale lengte worden meestal in tokens uitgedrukt, niet in woorden.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"20\" y=\"40\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">De hoofdstad van België is …</text><rect x=\"20\" y=\"70\" width=\"200\" height=\"22\" fill=\"#06d6a0\"><animate attributeName=\"width\" values=\"0;200;200\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"230\" y=\"86\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Brussel</text><rect x=\"20\" y=\"105\" width=\"30\" height=\"22\" fill=\"#ffd166\"><animate attributeName=\"width\" values=\"0;30;30\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"230\" y=\"121\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">een</text><rect x=\"20\" y=\"140\" width=\"12\" height=\"22\" fill=\"#ff6b9d\"><animate attributeName=\"width\" values=\"0;12;12\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"230\" y=\"156\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Antwerpen</text><text x=\"180\" y=\"200\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">kans per volgend token (illustratie)</text></svg>",
+   "quiz": {
+    "q": "Wat doet een hogere 'temperatuur' bij een taalmodel?",
+    "o": [
+     "Het model zoekt feiten op internet",
+     "Het model gebruikt minder tokens",
+     "Minder waarschijnlijke tokens krijgen meer kans"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "OpenAI Help – What are tokens and how to count them?",
+     "u": "https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them"
+    },
+    {
+     "t": "Chip Huyen – Generation configurations: sampling",
+     "u": "https://huyenchip.com/2024/01/16/sampling"
+    }
+   ],
+   "date": "2026-11-17T10:18:44Z"
+  }
+ ],
  "dives": [
   {
    "id": "2026-11-17",
