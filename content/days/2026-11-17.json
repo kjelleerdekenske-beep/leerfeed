@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T10:19:27Z",
+ "updated": "2026-11-17T10:25:36Z",
  "cards": [
   {
    "cat": "geld",
@@ -1200,6 +1200,286 @@
     }
    ],
    "date": "2026-11-17T10:19:27Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Winterslaap lijkt even op alzheimer, en draait terug",
+   "body": "Onderzoekers van VIB en KU Leuven maakten een cellenatlas van de hippocampus van goudhamsters tijdens de winterslaap. Ze zagen eiwitveranderingen aan tau en een ontstekingsreactie van microglia die lijken op wat je bij alzheimerpatiënten ziet. Na het ontwaken herstellen die veranderingen. Gepubliceerd in Science Advances, persbericht 12 november 2026.",
+   "take": "Lees bij hersennieuws altijd of een verandering omkeerbaar is: dat bepaalt of het schade of regeling is.",
+   "deep": "## Hoe het werkt\n\nEen hamster in winterslaap zakt in torpor: lichaamstemperatuur en stofwisseling vallen terug, en de hersenen schakelen om. Het team las per celkern af welke genen aanstonden, een techniek die single-nucleus RNA-sequencing heet. Zo krijg je geen gemiddelde van het hele weefsel, maar een profiel per celtype.\n\nStap voor stap: tijdens torpor verandert het genprofiel het sterkst in de gliacellen, niet in de neuronen. Microglia, de immuuncellen van de hersenen, vertonen een ontstekingsprofiel. Tegelijk wordt het eiwit tau zwaarder gefosforyleerd en veranderen de verbindingen tussen cellen van vorm. Bij het ontwaken schuiven die profielen weer terug naar de normale toestand.\n\n## Een voorbeeld\n\nDenk aan een vakantiehuis in de Ardennen dat je in november afsluit: water aftappen, verwarming op vijf graden, luiken dicht. Voor een voorbijganger lijkt het verwaarloosd. In maart draai je alles weer open en is er niets stuk. Het verschil met echte verwaarlozing zit niet in de foto van november, maar in de vraag of het systeem terug opstart.\n\n## Wat onderzoek zegt\n\nDe studie komt van VIB en KU Leuven, met Patrik Verstreken als eindverantwoordelijke, en verscheen in Science Advances; het persbericht is van 12 november 2026. Het is de eerste cellenatlas van de hamsterhippocampus over de volledige winterslaapcyclus. De grootste verschuivingen zaten in glia, en het microglia-profiel leek op dat bij alzheimerpatiënten. De tau-fosforylering was tijdelijk en omkeerbaar, en de dieren ontwikkelden geen typische amyloïdplaques. Verstreken zegt dat nog moet blijken welke van die veranderingen echt belangrijk zijn.\n\n## Nuance of misverstand\n\nHet misverstand: hamsters krijgen alzheimer in de winter. Dat is niet zo. Fosforylering van tau is hier een normaal, snel omkeerbaar proces, geen ziekte. Omgekeerd volgt er ook niet uit dat winterslaap beschermt tegen dementie; dat is niet aangetoond. En wat in een hamsterbrein gebeurt, hoeft niet een-op-een in een mensenbrein te gelden.\n\n## Wat je ermee doet\n\nGebruik dit als leesregel voor gezondheidsnieuws. Zoek in elk bericht over hersenen drie dingen: in welke cellen zit de verandering, hoe lang duurt ze, en keert ze terug. Een omkeerbare verandering in immuuncellen is een heel ander verhaal dan onherstelbaar neuronenverlies, ook al staan beide onder dezelfde kop.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Winterslaap: zakken en herstellen</text><path d=\"M20 70 L60 70 L80 160 L150 160 L165 70 L185 70 L200 160 L270 160 L285 70 L340 70\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"6 4\"><animate attributeName=\"stroke-dashoffset\" from=\"0\" to=\"-40\" dur=\"4s\" repeatCount=\"indefinite\"/></path><text x=\"40\" y=\"60\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">wakker</text><text x=\"115\" y=\"180\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">torpor: koud</text><text x=\"175\" y=\"60\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">opwarmen</text><circle cx=\"115\" cy=\"140\" r=\"6\" fill=\"#ff6b9d\"><animate attributeName=\"r\" values=\"4;12;4\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><circle cx=\"235\" cy=\"140\" r=\"6\" fill=\"#06d6a0\"><animate attributeName=\"r\" values=\"12;4;12\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">roze: tau-fosfaat en microglia stijgen, groen: herstel</text></svg>",
+   "quiz": {
+    "q": "Wat gebeurt er met de tau-veranderingen als de hamster ontwaakt?",
+    "o": [
+     "Ze blijven en leiden tot plaques",
+     "Ze draaien terug naar normaal",
+     "Ze verspreiden zich naar het ruggenmerg"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Science Advances (PMC)",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13733825"
+    },
+    {
+     "t": "MedicalXpress",
+     "u": "https://medicalxpress.com/news/2026-11-hamster-hibernation-clues-alzheimer-disease.html"
+    }
+   ],
+   "date": "2026-11-17T10:25:36Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "125.000 jaar oude speerpunten met hars en gifsporen",
+   "body": "Aan een oude meeroever in Saoedi-Arabië, 'Uruq Aljelibah, vond een team van Griffith University, KAUST en de Saudi Heritage Commission meer dan 5.000 stenen artefacten. Op punten zaten dierweefsel aan de tip en planthars en vezels aan de basis, plus chemische sporen van de gifboom Acokanthera schimperi. Aangekondigd 16 november 2026, publicatie in Science.",
+   "take": "Vraag bij archeologienieuws naar de resten op het werktuig: die vertellen hoe het gebruikt werd, niet enkel hoe oud het is.",
+   "deep": "## Hoe het werkt\n\nEen samengesteld wapen bestaat uit drie delen: een stenen punt, een schacht en een bindmiddel dat beide verbindt. Archeologen lezen dat gebruik af uit sporen. Eerst de breukpatronen: een punt die met kracht een dier raakte, krijgt typische impactschade. Dan microscopie van de resten: dierlijk weefsel vlak bij de tip wijst op doorboren, hars en plantvezel aan de basis op een montage in een schacht.\n\nDaarna komt chemie. Met analyse van de organische resten zoek je biomarkers, moleculen die typisch zijn voor één plant. Vind je stoffen die horen bij Acokanthera schimperi, een boom met giftige hartglycosiden, dan is pijlgif een mogelijkheid. Hartglycosiden verstoren de ionenpomp in hartcellen; een getroffen dier valt sneller, ook bij een minder dodelijke treffer.\n\n## Een voorbeeld\n\nVergelijk het met een gebroken keukenmes in een afvalcontainer. De scherpe punt zegt wat het was. Maar de vetresten op het blad en het lijmspoor in het heft zeggen wat er gesneden werd en hoe het mes was samengesteld. Precies zo werkt dit: de steen dateert de vondst, de resten reconstrueren de handeling.\n\n## Wat onderzoek zegt\n\nDe studie is mede geleid door Griffith University, KAUST en de Saudi Heritage Commission en werd op 16 november 2026 aangekondigd, met publicatie in Science. De vindplaats ligt aan de oever van het oude Mundafan-meer, in wat nu woestijn is. Er werden meer dan 5.000 stenen artefacten gevonden, naast fossiele dierresten. De onderzoekers besluiten dat Arabië 125.000 jaar geleden geen doorgangsgebied was maar een bewoonde regio. Als de gifsporen kloppen, zijn ze veel ouder dan de Zuid-Afrikaanse aanwijzingen van ongeveer 60.000 jaar.\n\n## Nuance of misverstand\n\nDe koppen over gif gaan verder dan het bewijs. De auteurs zeggen zelf dat niemand weet hoe het gif werd bereid of hoe goed het werkte. Er zijn ook geen menselijke fossielen gevonden, dus wie daar leefde blijft open. En de datering komt uit de geologie van de meeroever, niet uit elk werktuig afzonderlijk.\n\n## Wat je ermee doet\n\nToets elke sterke bewering over het verre verleden aan de bewijsketen: wat is gemeten, wat is afgeleid en wat is interpretatie. Zet de drie in die volgorde en je ziet meteen welk deel van de kop houdbaar is.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Samengesteld wapen, 125.000 jaar oud</text><rect x=\"40\" y=\"105\" width=\"190\" height=\"10\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"225\" y=\"98\" width=\"22\" height=\"24\" fill=\"#ffd166\"/><path d=\"M247 95 L320 110 L247 125 Z\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"120\" y=\"95\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">schacht</text><text x=\"236\" y=\"145\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">hars + vezel</text><text x=\"300\" y=\"145\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">stenen punt</text><circle cx=\"300\" cy=\"70\" r=\"5\" fill=\"#06d6a0\"><animate attributeName=\"cy\" values=\"60;104;60\" dur=\"3s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;0.2;1\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><text x=\"300\" y=\"50\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">gifsporen?</text><text x=\"180\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Resten van dierweefsel aan de punt, plantvezel aan de basis</text></svg>",
+   "quiz": {
+    "q": "Welk spoor wijst erop dat de punt in een schacht was gemonteerd?",
+    "o": [
+     "Hars en plantvezel aan de basis",
+     "Een gat in het midden van de punt",
+     "De kleur van de steen"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Griffith University",
+     "u": "https://news.griffith.edu.au/2026/11/16/ancient-lakeshore-reveals-how-early-humans-lived-in-arabia/"
+    },
+    {
+     "t": "Live Science",
+     "u": "https://www.livescience.com/archaeology/middle-east/125-000-year-old-poisoned-stone-points-discovered-on-shore-of-ancient-lake-in-saudi-arabia"
+    }
+   ],
+   "date": "2026-11-17T10:25:36Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Rijst ruikt een insect aan zijn speeksel",
+   "body": "In Nature van 12 november 2026 beschrijft een team van de Chinese Academie van Wetenschappen hoe rijst een vraatinsect opmerkt. Het speekselenzym NVR1 van de wants knipt plant-RNA en laat 2′,3′-cyclische nucleotiden achter. Het rijsteiwit NIB1 bindt die, klontert samen in de celkern en roept de afweerregulator EDS1 erbij.",
+   "take": "Lees bij 'plant voelt aanval' altijd welk molecuul het signaal is: dat scheidt mechanisme van metafoor.",
+   "deep": "## Hoe het werkt\n\nPlanten hebben geen zintuigen, maar ze hebben receptoren. Een afweersysteem heeft een alarmmolecuul nodig dat er alleen is als er echt iets gebeurt. Hier is dat afvalmateriaal van de aanvaller zelf.\n\nStap voor stap: de wants spuit bij het eten speeksel in het plantweefsel. Daarin zit NVR1, een T2-ribonuclease, een enzym dat RNA-strengen knipt. Bij dat knippen ontstaan 2′,3′-cyclische nucleotiden, kleine brokstukken met een ringvormig fosfaat. Die vorm komt niet voor bij normaal onderhoud, dus hij is een betrouwbaar signaal. Het rijsteiwit NIB1, een glycinerijk RNA-bindend eiwit, bindt die brokstukken. Daarna gaat NIB1 over in een druppelachtige toestand, een vloeistof-vloeistof-fasescheiding, en vormt condensaten in de celkern. Die condensaten trekken EDS1 aan, een kernregulator van de plantafweer, en zo gaat de verdediging aan.\n\n## Een voorbeeld\n\nVergelijk het met een werkplaats in Vlaanderen waar een vreemde met een slijpschijf aan het hekwerk staat. Niemand ziet hem, maar de vonken en het metaalstof op de grond zijn er alleen als er gesneden wordt. Het alarm reageert niet op de inbreker zelf maar op het puin dat zijn gereedschap maakt. De brokstukken van geknipt RNA spelen dezelfde rol.\n\n## Wat onderzoek zegt\n\nDe studie komt van het Center for Excellence in Molecular Plant Sciences van de Chinese Academie van Wetenschappen en verscheen op 12 november 2026 in Nature, met doi 10.1038/s41586-026-11259-z. De auteurs melden dat T2-ribonucleasen vaak voorkomen bij plantenetende insecten, waaronder de rijstbladroller, de groene blindwants en de katoenrups. NIB1-achtige RNA-bindende eiwitten komen breed voor bij landplanten, wat erop wijst dat deze route niet alleen bij rijst werkt.\n\n## Nuance of misverstand\n\nDit is geen pijn of bewustzijn: het is biochemie. En het is labwerk. Hoe zwaar deze route weegt op een echt veld, hoe ze samenwerkt met de andere afweerwegen van rijst en of ze bij andere gewassen even sterk is, moet nog blijken. Een nieuwe plaagbestrijding volgt hier niet rechtstreeks uit.\n\n## Wat je ermee doet\n\nGebruik deze structuur als denkmodel voor elke detector, ook buiten de biologie: kies een signaal dat alleen bij de ongewenste gebeurtenis ontstaat, nooit bij normaal werk. Dat is precies waarom valse alarmen zeldzaam blijven.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Rijst ruikt de wants aan zijn speeksel</text><rect x=\"10\" y=\"80\" width=\"70\" height=\"40\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"45\" y=\"105\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">wants</text><line x1=\"80\" y1=\"100\" x2=\"114\" y2=\"100\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M112 95 L120 100 L112 105 Z\" fill=\"#fff\"/><rect x=\"120\" y=\"80\" width=\"70\" height=\"40\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"155\" y=\"98\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">RNA-knip</text><text x=\"155\" y=\"112\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">2′,3′-cNMP</text><line x1=\"190\" y1=\"100\" x2=\"224\" y2=\"100\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M222 95 L230 100 L222 105 Z\" fill=\"#fff\"/><circle cx=\"265\" cy=\"100\" r=\"22\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"r\" values=\"14;26;14\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><text x=\"265\" y=\"104\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">NIB1</text><line x1=\"290\" y1=\"100\" x2=\"324\" y2=\"100\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M322 95 L330 100 L322 105 Z\" fill=\"#fff\"/><text x=\"340\" y=\"80\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">EDS1</text><circle cx=\"45\" cy=\"160\" r=\"5\" fill=\"#ff6b9d\"><animateMotion dur=\"4s\" repeatCount=\"indefinite\" path=\"M0 0 L110 0 L220 0 L285 0\"/></circle><text x=\"180\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">NIB1 klontert samen en roept het afweersysteem op</text></svg>",
+   "quiz": {
+    "q": "Wat is het alarmsignaal dat rijst oppikt?",
+    "o": [
+     "Het insect zelf",
+     "De trilling van kauwen",
+     "Brokstukken van geknipt RNA"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Nature",
+     "u": "https://www.nature.com/articles/s41586-026-11259-z"
+    },
+    {
+     "t": "Phys.org",
+     "u": "https://phys.org/news/2026-11-mechanism-pests.html"
+    }
+   ],
+   "date": "2026-11-17T10:25:36Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Waarom je niest van corona: PLpro prikkelt je zenuw",
+   "body": "Een team van UC Berkeley meldt in Neuron (november 2026) dat het virale enzym PLpro van SARS-CoV-2 zenuwuiteinden rechtstreeks prikkelt via het ionkanaal TRPA1. Een druppeltje PLpro in de muizenneus gaf tot 30 niesbuien per minuut; muizen zonder TRPA1 niesden nauwelijks. Niet alleen ontsteking dus, maar directe zenuwactivatie.",
+   "take": "Scheid bij verkoudheid klachten door ontsteking van klachten door zenuwprikkeling: dat bepaalt wat helpt.",
+   "deep": "## Hoe het werkt\n\nNiezen en hoesten zijn reflexen. In je neus en luchtwegen liggen vrije zenuwuiteinden van sensorische neuronen met ionkanalen in hun membraan. Eén daarvan is TRPA1, het kanaal dat ook reageert op mosterdolie, wasabi en prikkelende rook. Gaat TRPA1 open, dan stromen ionen binnen, het neuron vuurt, en de hersenstam zet de reflex in gang.\n\nDe klassieke uitleg loopt indirect: het virus infecteert cellen, die cellen geven ontstekingsstoffen vrij, en die stoffen prikkelen de zenuw. Dit onderzoek wijst op een tweede, korte route. PLpro, een papaïne-achtig protease dat het virus gebruikt om zijn eigen eiwitten te knippen, prikkelt het zenuwuiteinde zelf. Het eiwit alleen, zonder virus en zonder infectie, volstond om gecultiveerde sensorische neuronen te activeren.\n\n## Een voorbeeld\n\nVergelijk het met een brandalarm in een appartement in Gent. Normaal gaat het af omdat er rook in de sensor komt, dus via een tussenstap. Hier blijkt dat iemand ook rechtstreeks aan de sensor kan prutsen: zelfde sirene, andere oorzaak. Wie alleen de rook aanpakt, krijgt dat alarm niet stil.\n\n## Wat onderzoek zegt\n\nDe studie staat in Neuron, met doi 10.1016/j.neuron.2026.10.017, van het labo van Diana Bautista aan UC Berkeley met Sonali Mali als eerste auteur en coauteurs van NYU; het persbericht van Berkeley is van 12 november 2026. Waar water meestal één nies uitlokte, gaf PLpro tot 30 niesbuien per minuut. Bij muizen zonder TRPA1 bleef het niezen vergelijkbaar met de controlebehandeling, bij muizen zonder TRPV1 niet. Ook een muizencoronavirus lokte niezen uit langs TRPA1. Naast niezen zagen de onderzoekers pijn en ontsteking in de luchtwegen.\n\n## Nuance of misverstand\n\nDit is muizen- en celwerk, geen mensenstudie, en er is nog geen middel. Het betekent ook niet dat ontsteking geen rol speelt; het is een extra route, niet de enige. Dat niezen het virus deels kan uitdrijven, is een hypothese uit eerder werk van dezelfde groep.\n\n## Wat je ermee doet\n\nWeet dat sommige klachten uit prikkelbare zenuwen komen, niet uit zwelling. Hou daarom bij hardnekkig kriebelhoesten een logboek van wat het uitlokt, zoals koude lucht, rook of geuren, en neem dat mee naar je huisarts: dat gedrag past bij een zenuwkanaal zoals TRPA1.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Virus-enzym prikkelt de zenuw direct</text><circle cx=\"50\" cy=\"100\" r=\"18\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"50\" y=\"104\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">PLpro</text><line x1=\"70\" y1=\"100\" x2=\"104\" y2=\"100\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M102 95 L110 100 L102 105 Z\" fill=\"#fff\"/><rect x=\"112\" y=\"85\" width=\"70\" height=\"30\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"147\" y=\"104\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">TRPA1</text><path d=\"M182 100 C220 60 250 140 290 100\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"8 6\"><animate attributeName=\"stroke-dashoffset\" from=\"28\" to=\"0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><text x=\"236\" y=\"70\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">zenuwsignaal</text><text x=\"320\" y=\"104\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">hatsjie</text><text x=\"180\" y=\"160\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Zonder TRPA1 bijna geen niesbuien bij muizen</text><text x=\"180\" y=\"182\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">met PLpro: tot 30 niesbuien per minuut</text></svg>",
+   "quiz": {
+    "q": "Wat gebeurde er bij muizen zonder het kanaal TRPA1?",
+    "o": [
+     "Ze niesden nog harder",
+     "Ze niesden nauwelijks",
+     "Ze kregen juist meer pijn"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Neuron (Cell)",
+     "u": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00813-5"
+    },
+    {
+     "t": "MedicalXpress",
+     "u": "https://medicalxpress.com/news/2026-11-mice-covid-virus-triggers.html"
+    }
+   ],
+   "date": "2026-11-17T10:25:36Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Krachttraining bewaart spier bij vermageringsmedicatie",
+   "body": "In Nature Medicine (november 2026) staat de T-REx-studie van de University of Western Australia: 120 mensen van 50 tot 70 jaar namen tirzepatide, de helft trainde drie keer per week met weerstand. Beide groepen vielen ongeveer 22 kg af, maar de trainers verloren 25% minder mager weefsel (3,6 tegen 4,7 kg) en werden sterker.",
+   "take": "Wie vermageringsmedicatie neemt: plan van dag één drie korte krachtsessies per week in je agenda.",
+   "deep": "## Hoe het werkt\n\nVermageren betekent dat je lichaam netto energie uit zijn voorraden haalt. Dat gaat niet alleen uit vet. Spier is duur onderhoud, en bij een groot energietekort en minder eiwitinname breekt het lichaam ook spiereiwit af. Mager weefsel, in de studie 'lean soft tissue', omvat spier, organen en vocht.\n\nKrachttraining zet daar een signaal tegenover. Een spier die zwaar belast wordt, verhoogt zijn eiwitsynthese: de cel krijgt het bericht dat deze vezels nodig blijven. Daardoor verschuift de balans tussen afbraak en opbouw. Een tweede effect is neuraal: je zenuwstelsel leert vezels beter samen aansturen. Daarom kan je kracht stijgen terwijl je massa toch lichtjes daalt, precies wat de onderzoekers zagen.\n\n## Een voorbeeld\n\nEen vrouw van 62 uit Mechelen start met een GLP-1-medicijn en valt op een jaar twintig kilo af. Zonder training merkt ze dat de trap en de boodschappentas zwaarder voelen, ook al zegt de weegschaal iets mooiers. Met drie sessies per week van squats, roeien en opdrukken, of hetzelfde met machines in de fitness, blijft diezelfde gewichtsdaling over maar houdt ze haar functie.\n\n## Wat onderzoek zegt\n\nDe T-REx-trial van de University of Western Australia, met Daniel Green als auteur, verscheen in Nature Medicine (doi 10.1038/s41591-026-04752-5) rond 9 tot 12 november 2026. Honderdtwintig deelnemers van 50 tot 70 jaar kregen veertig weken tirzepatide en werden toegewezen aan weerstandstraining drie keer per week of gewone activiteit. Het gewichtsverlies was vergelijkbaar: gemiddeld 22,28 kg met training en 22,61 kg zonder. Het verlies aan mager weefsel was ongeveer 25% kleiner met training: zo'n 3,6 tegen 4,7 kg. De kracht steeg in de trainingsgroep en daalde in de groep zonder training.\n\n## Nuance of misverstand\n\nSpierverlies werd niet volledig voorkomen, ook niet met training. De training startte samen met de medicatie, dus de studie zegt niets over later beginnen. Eén trial van 120 mensen is geen eindpunt, en het gaat om 50- tot 70-jarigen.\n\n## Wat je ermee doet\n\nZie krachttraining als onderdeel van de behandeling, niet als extraatje. Begin met drie sessies van twintig minuten per week rond enkele grote bewegingen, en meet je voortgang met kracht of herhalingen, niet alleen met de weegschaal.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Zelfde gewichtsverlies, minder spierverlies</text><text x=\"100\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">enkel tirzepatide</text><text x=\"260\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">+ krachttraining</text><rect x=\"70\" y=\"60\" width=\"60\" height=\"120\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"height\" values=\"0;120;120\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><rect x=\"230\" y=\"60\" width=\"60\" height=\"90\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"0;90;90\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"100\" y=\"50\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">4,7 kg mager weefsel</text><text x=\"260\" y=\"50\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">3,6 kg (-25%)</text></svg>",
+   "quiz": {
+    "q": "Wat verschilde tussen de twee groepen in de T-REx-studie?",
+    "o": [
+     "Het gewichtsverlies",
+     "Het verlies aan mager weefsel",
+     "De dosis tirzepatide"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Nature Medicine",
+     "u": "https://www.nature.com/articles/s41591-026-04752-5"
+    },
+    {
+     "t": "UWA",
+     "u": "https://www.uwa.edu.au/news/article/2026/november/resistance-training-key-to-maintaining-muscle-function-during-glp1-weight-loss"
+    }
+   ],
+   "date": "2026-11-17T10:25:36Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Snelste computer blijft bovenaan, nieuwkomers verdwijnen",
+   "body": "Op 16 november 2026 kwam de 68e TOP500-lijst uit op SC26. De Chinese LineShine blijft eerste met 2,198 exaflops op de HPL-test, met 13.789.440 rekenkernen. De hele top tien staat onveranderd, en er kwamen maar 27 nieuwe systemen bij: het laagste aantal ooit, omdat nieuwe hardware naar AI-datacenters gaat.",
+   "take": "Vergelijk computers pas als je weet met welke test gemeten is: HPL en HPCG geven heel andere cijfers.",
+   "deep": "## Hoe het werkt\n\nDe TOP500 is geen lijst van 'de beste computer', maar een ranglijst op één test. Die test is High Performance Linpack, HPL. Hij laat de machine een enorm stelsel lineaire vergelijkingen oplossen door grote matrices met elkaar te vermenigvuldigen. Het resultaat is een snelheid in flops: floating point operations per second. Een exaflop is een miljard miljard berekeningen per seconde.\n\nHPL vleit moderne machines, want matrixvermenigvuldiging houdt data lang in snelle cache en gebruikt rekeneenheden bijna voortdurend. Veel echte problemen doen het tegenovergestelde: ze springen door het geheugen. Daarom bestaat HPCG, een test met schaarse matrices waarin geheugensnelheid de beperking is. Dezelfde machine haalt daar vaak honderd keer minder. Twee lijsten, twee waarheden over hetzelfde ijzer.\n\n## Een voorbeeld\n\nVergelijk het met een vrachtwagen op de E40 tussen Brussel en Oostende: volle lading, vlakke baan, topsnelheid. Zet diezelfde wagen in de smalle straten van een stadscentrum met tien leveringen, en het verhaal verandert. HPL is de snelweg, HPCG is het stadsritje. Wie een machine koopt, moet weten waar hij zal rijden.\n\n## Wat onderzoek zegt\n\nDe 68e editie van de lijst werd op 16 november 2026 bekendgemaakt op SC26. LineShine, in het nationale supercomputercentrum in Shenzhen, haalde 2,198 exaflops met 13.789.440 kernen en staat sinds juni 2026 eerste. El Capitan is tweede, Frontier derde met 1,353 exaflops, Aurora vierde met 1,012, en de Europese JUPITER Booster in Jülich vijfde met exact 1,000 exaflops. Op HPCG leidt LineShine met 22,00 petaflops. Slechts 27 systemen zijn nieuw, volgens HPCwire het laagste aantal ooit, met als verklaring dat nieuwe versnellers naar AI-datacenters gaan.\n\n## Nuance of misverstand\n\nDe lijst is vrijwillig: wie niet meedoet, staat er niet in. Grote AI-clusters van cloudbedrijven worden vaak niet ingediend, dus de lijst is geen volledig overzicht van rekenkracht in de wereld. En een hoge HPL-score zegt weinig over energieverbruik; daarvoor bestaat de aparte Green500.\n\n## Wat je ermee doet\n\nDoe hetzelfde bij een gsm of laptop: vraag welke benchmark een cijfer voortbracht en of die test lijkt op jouw gebruik. Een toestel dat uitblinkt in korte pieken kan trager voelen bij lang doorwerken.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">TOP500: wie rekent het snelst? (HPL)</text><rect x=\"40\" y=\"50\" width=\"40\" height=\"150\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"0;150;150\" dur=\"5s\" begin=\"0s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"200;50;50\" dur=\"5s\" begin=\"0s\" repeatCount=\"indefinite\"/></rect><rect x=\"110\" y=\"76\" width=\"40\" height=\"124\" fill=\"rgba(255,255,255,0.14)\"><animate attributeName=\"height\" values=\"0;124;124\" dur=\"5s\" begin=\"0.3s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"200;76;76\" dur=\"5s\" begin=\"0.3s\" repeatCount=\"indefinite\"/></rect><rect x=\"180\" y=\"108\" width=\"40\" height=\"92\" fill=\"rgba(255,255,255,0.14)\"><animate attributeName=\"height\" values=\"0;92;92\" dur=\"5s\" begin=\"0.6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"200;108;108\" dur=\"5s\" begin=\"0.6s\" repeatCount=\"indefinite\"/></rect><rect x=\"250\" y=\"131\" width=\"40\" height=\"69\" fill=\"rgba(255,255,255,0.14)\"><animate attributeName=\"height\" values=\"0;69;69\" dur=\"5s\" begin=\"0.9s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"200;131;131\" dur=\"5s\" begin=\"0.9s\" repeatCount=\"indefinite\"/></rect><text x=\"60\" y=\"44\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">2,198 EF</text><text x=\"130\" y=\"70\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">El Capitan</text><text x=\"200\" y=\"102\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1,353</text><text x=\"270\" y=\"125\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1,012</text><text x=\"60\" y=\"216\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">LineShine</text><text x=\"200\" y=\"216\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Frontier</text><text x=\"270\" y=\"216\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Aurora</text></svg>",
+   "quiz": {
+    "q": "Waarom kwamen er maar 27 nieuwe systemen op de lijst?",
+    "o": [
+     "Er zijn geen chips meer te koop",
+     "De lijst is ingekort tot 100 plaatsen",
+     "Nieuwe hardware gaat naar AI-datacenters"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "TOP500",
+     "u": "https://top500.org/lists/top500/2026/11/"
+    },
+    {
+     "t": "HPCwire",
+     "u": "https://www.hpcwire.com/off-the-wire/top500-leadership-holds-steady-as-new-system-turnover-falls-to-a-historic-low/"
+    }
+   ],
+   "date": "2026-11-17T10:25:36Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Kwantumchip plus GPU: de fouten bijhouden",
+   "body": "Op 16 november 2026 kondigden IBM, NVIDIA en Fermilab op SC26 een gezamenlijk platform aan voor modulaire kwantumcomputers. Ze zetten NVIDIA DGX B200-systemen pal naast IBM-kwantummachines met de Nighthawk-processor, die circuits tot 7500 twee-qubitbewerkingen op 120 qubits draait. Fermilabs SQMS-centrum test hoe je meerdere kwantumprocessoren koppelt.",
+   "take": "Beoordeel kwantumnieuws op foutcorrectie en snelheid van de klassieke lus, niet op het aantal qubits.",
+   "deep": "## Hoe het werkt\n\nEen qubit is onrustig: hij verliest zijn toestand binnen microseconden. Daarom rekenen kwantumcomputers met foutcorrectie. Je verdeelt één nuttige, logische qubit over veel fysieke qubits en meet voortdurend hulpqubits. Die metingen geven geen antwoord, maar een syndroom: een patroon dat verraadt waar iets fout ging.\n\nDat patroon moet iemand ontcijferen, en snel. Een decoder is een algoritme dat uit het syndroom afleidt welke correctie nodig is. Duurt dat langer dan de qubits stabiel blijven, dan lopen de fouten je voor. Vandaar de opzet: de kwantumchip meet, een GPU naast de machine decodeert in milliseconden en stuurt de correctie terug. Die lus moet sneller zijn dan het tempo waarin fouten ontstaan. Modulair werken betekent daarnaast meerdere kwantumprocessoren koppelen in plaats van één chip eindeloos vergroten.\n\n## Een voorbeeld\n\nDenk aan een sluis in de haven van Antwerpen die traag lekt. Je kan het lek niet wegnemen, dus pomp je continu. Zolang de pomp meer water wegwerkt dan er binnensijpelt, blijft het niveau op peil; zakt de pomp onder dat tempo, dan loopt het onvermijdelijk vol. De decoder is die pomp, en zijn snelheid bepaalt of het hele systeem werkt.\n\n## Wat onderzoek zegt\n\nDe aankondiging kwam er op 16 november 2026 op SC26 van IBM, NVIDIA en Fermi National Accelerator Laboratory. Het platform zet NVIDIA DGX B200-systemen samen met IBM-kwantumcomputers, waaronder machines met IBM Quantum Nighthawk, beschreven met circuits tot 7500 twee-qubitbewerkingen op 120 qubits en tot 100.000 metingen per seconde. Het SQMS-centrum van Fermilab onderzoekt hoe meerdere kwantumprocessoren verbonden worden; in een latere fase wil het zijn supergeleidende radiofrequentiecavitieten inzetten als kwantumgeheugen. Doel zijn vragen uit de hoge-energie- en kernfysica.\n\n## Nuance of misverstand\n\nDit is een plan, geen afgewerkte machine: IBM, NVIDIA en Fermilab spreken zelf van 'intend' en 'plan'. De prestatiecijfers van Nighthawk zijn bovengrenzen van de fabrikant. En er is geen aanwijzing dat dit soort toestellen binnenkort gewone computers of versleuteling vervangt.\n\n## Wat je ermee doet\n\nAls je over kwantum leest, stel drie vragen: hoeveel logische in plaats van fysieke qubits, hoe snel is de decoder, en is het een plan of een gemeten resultaat. Die drie scheiden nieuws van aankondiging.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Kwantum + GPU: fouten corrigeren</text><rect x=\"30\" y=\"80\" width=\"100\" height=\"60\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"80\" y=\"108\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">kwantumchip</text><text x=\"80\" y=\"124\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">120 qubits</text><rect x=\"230\" y=\"80\" width=\"100\" height=\"60\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"280\" y=\"108\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">GPU-decoder</text><text x=\"280\" y=\"124\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">DGX B200</text><path d=\"M130 95 C170 60 190 60 230 95\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><path d=\"M230 125 C190 160 170 160 130 125\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"/><circle r=\"5\" fill=\"#ffd166\"><animateMotion dur=\"3s\" repeatCount=\"indefinite\" path=\"M130 95 C170 60 190 60 230 95 L230 125 C190 160 170 160 130 125 Z\"/></circle><text x=\"180\" y=\"58\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">meetresultaten</text><text x=\"180\" y=\"175\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">correctie</text><text x=\"180\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">De lus moet sneller dan de fouten groeien</text></svg>",
+   "quiz": {
+    "q": "Wat doet de GPU in deze opzet?",
+    "o": [
+     "Hij koelt de qubits",
+     "Hij decodeert de foutsyndromen",
+     "Hij slaat de kwantumtoestand op"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Fermilab",
+     "u": "https://news.fnal.gov/2026/11/fermilab-ibm-and-nvidia-plan-modular-quantum-computing-co-design-platform-to-advance-scientific-discovery/"
+    },
+    {
+     "t": "IBM Quantum blog",
+     "u": "https://www.ibm.com/quantum/blog/sc26"
+    }
+   ],
+   "date": "2026-11-17T10:25:36Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Eurozone groeide 0,4% in het derde kwartaal",
+   "body": "Eurostat bevestigde op 13 november 2026 dat het bbp van de eurozone in het derde kwartaal met 0,4% steeg tegenover het kwartaal ervoor, en met 1,3% op jaarbasis. De EU kwam op 0,5%. Het is een vertraging na 0,6% in Q2. Frankrijk kromp 0,1%, Spanje groeide 0,6%, Duitsland 0,2%. De werkgelegenheid bleef stabiel.",
+   "take": "Lees bbp-cijfers altijd als 'tegenover vorig kwartaal' of 'tegenover vorig jaar': de twee kunnen tegengesteld lijken.",
+   "deep": "## Hoe het werkt\n\nHet bruto binnenlands product is de waarde van alles wat een economie in een periode produceert. Groei van 0,4% betekent niet dat je 0,4% rijker werd, maar dat de productie 0,4% hoger lag dan in het vorige kwartaal, na correctie voor prijsstijgingen en voor seizoensschommelingen zoals de kerstdrukte en de bouwvakantie.\n\nTwee valkuilen. Eerst de tijdbasis: kwartaal-op-kwartaal meet momentum, jaar-op-jaar meet de afstand tot twaalf maanden eerder. Een reeks van vier zwakke kwartalen kan een nog altijd positief jaarcijfer geven. Daarnaast is de eerste publicatie een flashraming op onvolledige data; deze bevestiging van 13 november dekte landen die samen 97% van het bbp vertegenwoordigen. Latere herzieningen zijn normaal, en bij kleine cijfers kan een herziening van 0,1 procentpunt de toon van een bericht omkeren.\n\n## Een voorbeeld\n\nDenk aan een Vlaamse bakkerij. In het derde kwartaal verkocht ze 0,4% meer brood dan in het tweede: nauwelijks merkbaar, één brood extra per duizend. Tegenover vorig jaar is het 1,3% meer. De bakker voelt het verschil amper, maar wie leningen of investeringen plant, kijkt precies naar dat kleine verschil tussen stilstand en groei.\n\n## Wat onderzoek zegt\n\nEurostat publiceerde op 13 november 2026 de bevestiging: 0,4% voor de eurozone en 0,5% voor de EU tegenover het vorige kwartaal, en 1,3% op jaarbasis in de eurozone, ongewijzigd tegenover de flashraming van 30 oktober. In Q2 was dat nog 0,6% in de eurozone en 0,7% in de EU, dus de groei vertraagde. Frankrijk kromp met 0,1%, Italië bleef vlak, Duitsland groeide 0,2% en Spanje 0,6%. Ierland piekte met 5,5%. Het aantal werkenden bleef stabiel in zowel de eurozone als de EU.\n\n## Nuance of misverstand\n\nBbp is geen welvaartsmeter: onbetaald werk zit er niet in, milieuschade wordt niet afgetrokken. Kleine landen met veel internationale bedrijven, zoals Ierland, kunnen enorme uitschieters tonen die weinig zeggen over het dagelijkse leven daar. En een gemiddelde voor twintig landen verbergt dat sommige krimpen.\n\n## Wat je ermee doet\n\nKijk bij elk groeicijfer naar drie dingen voor je er iets uit besluit: de periode waarmee vergeleken wordt, of het een eerste raming of een bevestiging is, en hoe het land waar jij werkt het doet tegenover het gemiddelde.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Bbp-groei t.o.v. vorig kwartaal</text><line x1=\"30\" y1=\"170\" x2=\"330\" y2=\"170\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"50\" y=\"110\" width=\"50\" height=\"60\" fill=\"rgba(255,255,255,0.14)\"><animate attributeName=\"opacity\" values=\"0.3;1;0.3\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/></rect><rect x=\"150\" y=\"130\" width=\"50\" height=\"40\" fill=\"#ffd166\"><animate attributeName=\"opacity\" values=\"0.3;1;0.3\" dur=\"6s\" begin=\"1s\" repeatCount=\"indefinite\"/></rect><rect x=\"250\" y=\"140\" width=\"50\" height=\"30\" fill=\"#06d6a0\"><animate attributeName=\"opacity\" values=\"0.3;1;0.3\" dur=\"6s\" begin=\"2s\" repeatCount=\"indefinite\"/></rect><text x=\"75\" y=\"100\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">0,6%</text><text x=\"175\" y=\"120\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">0,4%</text><text x=\"275\" y=\"130\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">0,3%</text><text x=\"75\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">eurozone Q2</text><text x=\"175\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">eurozone Q3</text><text x=\"275\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">België Q3</text></svg>",
+   "quiz": {
+    "q": "Waarmee vergelijkt dat cijfer van 0,4%?",
+    "o": [
+     "Met het vorige kwartaal",
+     "Met hetzelfde kwartaal vorig jaar",
+     "Met de top van voor corona"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Eurostat",
+     "u": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-13112026-ap"
+    },
+    {
+     "t": "Agence Europe",
+     "u": "https://agenceurope.eu/en/bulletin/article/13982/21/gdp-growth-again-estimated-at-04-in-euro-area-in-third-quarter-of-2026"
+    }
+   ],
+   "date": "2026-11-17T10:25:36Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Kerstreclame wordt getest op één gevoel: blijdschap",
+   "body": "System1 publiceerde op 12 november 2026 zijn eerste ranglijst van Britse kerstspots. Morrisons en Sainsbury's delen de top met 5,9 sterren en een Spike van 1,68, met M&S en Aldi net erachter. Supermarkten pakken zeven van de twaalf plaatsen. John Lewis haalt 5,6, zijn hoogste score sinds 2019.",
+   "take": "Test een campagne op emotie en herkenbaarheid van je merk, niet op of mensen de boodschap kunnen navertellen.",
+   "deep": "## Hoe het werkt\n\nSystem1 meet geen begrip maar gevoel. Kijkers zien een spot en kiezen daarna op een plaatjesschaal één van zeven basisemoties of 'neutraal'. Over een hele steekproef krijg je zo een mengeling: hoeveel blijdschap, verrassing, verdriet, afkeer, en hoeveel onverschilligheid.\n\nDie mengeling wordt met weegfactoren omgezet in de Star Rating, een getal van 1 tot 5,9 dat het langetermijnpotentieel voor merkgroei voorspelt. Blijdschap en verrassing wegen positief, neutraliteit en negatieve emoties negatief. Daarnaast staat de Spike Rating, die de kortetermijnverkoop over de acht à tien weken na uitzending voorspelt; die combineert de intensiteit van de emotie, welke dan ook, met de kracht van de merkherkenning. De FaceTrace laat de emotie seconde per seconde zien, zodat je ziet waar een spot zijn kijker verliest.\n\nDe achterliggende gedachte: reclame werkt vooral door herinnering met een goed gevoel aan het merk te verbinden, niet door argumenten.\n\n## Een voorbeeld\n\nDenk aan de kerstspots die hier in december op VTM en Eén passeren. Twee spots kunnen allebei vertellen dat de winkel voordelig is. De ene maakt je zichtbaar blij en laat het logo vroeg en duidelijk zien; de andere is mooi maar laat je koud en noemt het merk pas op het einde. In dit model scoort de eerste hoog op Spike en Star, de tweede laag, hoe knap ze ook gefilmd is.\n\n## Wat onderzoek zegt\n\nDe vroege ranglijst van 12 november 2026 geeft Morrisons ('Made Just Right') en Sainsbury's ('Sainsbury's Big Delivery') elk 5,9 sterren en een Spike van 1,68. M&S en Aldi volgen met 5,9 sterren, bij Spikes van 1,58 en 1,51; Lidl haalt 5,7 sterren en 1,61. Supermarkten bezetten de eerste vier en zeven van de twaalf plaatsen. John Lewis' 'Gloria and Pickles' kreeg 5,6. In System1's eigen database scoort bijna de helft van de spots 1 ster en slechts 1% vijf sterren.\n\n## Nuance of misverstand\n\nDit zijn voorspellingen, geen verkoopcijfers. De steekproefgrootte en testdatums werden niet gepubliceerd, de lijst is vroeg en kan nog schuiven, en hij gaat over Britse spots. Ook meet één bureau met één methode: Kantar gaf dezelfde John Lewis-spot een minder gunstig oordeel.\n\n## Wat je ermee doet\n\nLaat je volgende advertentie door een tiental buitenstaanders bekijken en vraag enkel welk gevoel ze eraan overhouden en welk merk ze zagen. Blijft het antwoord 'niks' of 'geen idee', herwerk ze.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Van gevoel naar sterren</text><circle cx=\"60\" cy=\"80\" r=\"16\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0.2;1;0.2\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/></circle><circle cx=\"120\" cy=\"80\" r=\"16\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0.2;1;0.2\" dur=\"6s\" begin=\"1s\" repeatCount=\"indefinite\"/></circle><circle cx=\"180\" cy=\"80\" r=\"16\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0.2;1;0.2\" dur=\"6s\" begin=\"2s\" repeatCount=\"indefinite\"/></circle><circle cx=\"240\" cy=\"80\" r=\"16\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0.2;1;0.2\" dur=\"6s\" begin=\"3s\" repeatCount=\"indefinite\"/></circle><text x=\"60\" y=\"120\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">blij</text><text x=\"120\" y=\"120\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">verrast</text><text x=\"180\" y=\"120\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">neutraal</text><text x=\"240\" y=\"120\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">boos</text><line x1=\"270\" y1=\"80\" x2=\"304\" y2=\"80\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M302 75 L310 80 L302 85 Z\" fill=\"#fff\"/><text x=\"330\" y=\"85\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">★</text><text x=\"180\" y=\"160\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">blij en verrast tellen positief mee</text><text x=\"180\" y=\"182\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">neutraal en negatief tellen negatief mee</text><text x=\"180\" y=\"204\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">schaal 1 tot 5,9 sterren</text></svg>",
+   "quiz": {
+    "q": "Wat voorspelt de Spike Rating?",
+    "o": [
+     "Het aantal keer dat de spot wordt uitgezonden",
+     "De productiekosten van de spot",
+     "De verkoop op korte termijn"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Advanced Television",
+     "u": "https://www.advanced-television.com/2026/11/12/analysis-morrisons-sainsburys-lead-in-most-effective-xmas-advert/"
+    },
+    {
+     "t": "System1 metrics",
+     "u": "https://system1group.com/uncategorized/our-metrics-explained"
+    }
+   ],
+   "date": "2026-11-17T10:25:36Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Singles Day duurt 36 dagen en verkoopt nu AI",
+   "body": "Op 12 november 2026 meldde dataleverancier Syntun dat de Chinese Singles Day-verkoop met 4,8% steeg tot 1,78 biljoen yuan of ongeveer 267 miljard dollar aan orderwaarde. Vorig jaar was de groei nog 14,2%. De cijfers dekken 7 oktober tot 11 november: 36 dagen promoties. De omzet van AI-toestellen meer dan verdubbelde.",
+   "take": "Vergelijk verkoopcijfers van kortingsevents alleen als je weet over hoeveel dagen ze lopen.",
+   "deep": "## Hoe het werkt\n\nSingles Day begon als 11 november, een datum met vier enen, en groeide uit tot het grootste kortingsevent ter wereld. Maar het mechanisme achter de cijfers is opgerekt. Platformen laten klanten weken vooraf voorreserveren met een voorschot en de rest later betalen, en ze spreiden kortingsrondes over een maand. De officiële periode startte dit jaar op 7 oktober.\n\nDat raakt de meting. Wat gerapporteerd wordt, is GMV: gross merchandise value, de totale waarde van geplaatste orders. Daar zitten nog niet-betaalde en later geretourneerde bestellingen in, en bij een langere periode schuift ook gewone verkoop die anders in oktober zou vallen naar binnen. Een percentage groei zegt dus pas iets als het venster, de deelnemende platformen en de behandeling van retours gelijk blijven.\n\n## Een voorbeeld\n\nVergelijk het met Black Friday in Vlaanderen, dat ondertussen een 'Black Week' of zelfs een hele maand november is. Een winkel die 'Black Friday-omzet' van tien dagen vergelijkt met één dag vorig jaar, boekt automatisch recordgroei zonder één extra klant. Dezelfde rekentruc maakt elke vergelijking tussen jaren kwetsbaar.\n\n## Wat onderzoek zegt\n\nVolgens Syntun, gerapporteerd door Reuters op 12 november 2026, steeg de verkoop 4,8% tegenover een jaar eerder tot 1,78 biljoen yuan, ongeveer 267 miljard dollar, over de periode 7 oktober tot 11 november. Vorig jaar groeide hetzelfde event nog met 14,2%. De traditionele marktplaatsen, waaronder Tmall, JD.com, Pinduoduo, Douyin en Kuaishou, kwamen samen op 1,679 biljoen yuan, 3,7% meer. AI stond centraal: de transactiewaarde van AI-pc's, AI-camera's en AI-brillen meer dan verdubbeld, zoekopdrachten naar 'token' stegen meer dan dertienvoudig, en JD.com zegt meer dan 50 miljoen AI-producten te hebben verkocht. Alibaba en JD geven sinds 2022 zelf geen totaalcijfers meer.\n\n## Nuance of misverstand\n\nDe grootste misvatting is dat dit één dag omzet is. Het is ruim een maand. Daarnaast komt het cijfer van een extern databureau, niet van de platformen zelf, en verschillende bronnen gebruiken verschillende subtotalen: 4,8% voor het geheel, 3,7% voor enkel de marktplaatsen.\n\n## Wat je ermee doet\n\nZet bij je eigen promoties het venster vast voor je start, en vergelijk volgend jaar hetzelfde aantal dagen. Reken retours af voor je van een record spreekt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Van één dag naar een seizoen</text><line x1=\"30\" y1=\"110\" x2=\"330\" y2=\"110\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"30\" y=\"95\" width=\"0\" height=\"30\" fill=\"#ffd166\"><animate attributeName=\"width\" values=\"0;300;300\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"40\" y=\"85\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">7 okt</text><text x=\"330\" y=\"85\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">11 nov</text><text x=\"180\" y=\"150\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">36 dagen promoties</text><text x=\"180\" y=\"175\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">1,78 biljoen yuan (+4,8%)</text><text x=\"180\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">AI-producten: meer dan verdubbeld</text></svg>",
+   "quiz": {
+    "q": "Waarom is 'één dag record' hier misleidend?",
+    "o": [
+     "De cijfers dekken 36 dagen promoties",
+     "De yuan is herrekend naar euro",
+     "Alleen Alibaba is meegeteld"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Reuters via TradingView",
+     "u": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46T07D:0-china-s-singles-day-sales-rise-4-8-to-1-78-trillion-ai-takes-larger-role/"
+    },
+    {
+     "t": "WWD",
+     "u": "https://wwd.com/business-news/retail/china-singles-day-2026-trends-ai-livestream-innovation-1239412549/"
+    }
+   ],
+   "date": "2026-11-17T10:25:36Z"
   }
  ],
  "dives": [
