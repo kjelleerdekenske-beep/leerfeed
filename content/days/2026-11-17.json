@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T10:18:55Z",
+ "updated": "2026-11-17T10:19:14Z",
  "cards": [
   {
    "cat": "geld",
@@ -588,6 +588,298 @@
     }
    ],
    "date": "2026-11-17T10:18:55Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Een ui laat je huilen met een chemisch verdedigingswapen",
+   "body": "Een ui bewaart zwavelstoffen en enzymen in aparte compartimenten. Snijd je erin, dan mengen ze. Het enzym alliinase maakt een tussenstof, en een tweede enzym, 'lachrymatory factor synthase' (ontdekt door Japanse onderzoekers in 2002), zet die om in een vluchtig gas. Dat gas prikkelt je ogen, die meteen tranen aanmaken om het weg te spoelen.",
+   "take": "Leg je ui een half uur in de koelkast voor je snijdt: koude vertraagt de enzymen, dus minder traangas.",
+   "deep": "## Hoe het werkt\n\nEen ui is geen passief bolletje: het is een plant met een ingebouwd alarmsysteem. In de cellen zitten zwavelhoudende aminozuren, netjes gescheiden van de enzymen die ermee kunnen reageren. Zolang de cellen heel blijven, gebeurt er niets.\n\nZodra je mes door de cellen gaat, komen beide samen. Eerst knipt het enzym alliinase de aminozuren in stukken, waarbij een sulfeenzuur ontstaat. Daarna grijpt een tweede enzym in, lachrymatory factor synthase (LFS). Dat zet het sulfeenzuur om in syn-propanethial-S-oxide, de zogenoemde traanfactor. Die stof is vluchtig: ze stijgt op van je snijplank en komt in de lucht rond je gezicht.\n\nBereikt het gas je ogen, dan prikkelt het de zenuwuiteinden van het hoornvlies. Je lichaam reageert met een reflex: de traanklieren gaan aan de slag om de irriterende stof weg te spoelen. Voor de ui is het een afweermechanisme tegen dieren die hem willen opeten.\n\n## Een voorbeeld\n\nJe maakt op zondag een grote pot stoofvlees met Westmalle en drie dikke uien. Bij de eerste ui gaat het nog, bij de derde staan de tranen in je ogen. Hoe fijner je hakt, hoe meer cellen je kapotmaakt en hoe meer gas er vrijkomt. Een bot mes plet de cellen bovendien eerder dan dat het ze netjes doorsnijdt.\n\n## Wat onderzoek zegt\n\nLang dacht men dat alliinase alleen verantwoordelijk was. In 2002 toonde een Japans team rond Shinsuke Imai in het vakblad Nature aan dat er een apart enzym nodig is: LFS. Ze vonden het gen en toonden aan dat de traanfactor geen toevallig bijproduct is van de alliinasereactie. Later slaagden onderzoekers erin uien te kweken waarin het LFS-gen onderdrukt was. Die maakten veel minder traanfactor. In 2013 leverde dat werk de makers een ludieke Ig Nobelprijs op.\n\n## Nuance of misverstand\n\nTrucjes zoals een lucifer aansteken of een stuk brood in je mond houden, hebben weinig of geen bewezen effect. Wat wel uitmaakt: het soort ui. Zoete uien bevatten minder zwavel en zijn daardoor milder voor je ogen.\n\n## Wat je ermee doet\n\nKoel je uien voor je ze snijdt, want koude remt de enzymen en het gas verdampt minder snel. Gebruik een scherp mes en werk vlot. Snij eventueel onder een dampkap of bij een open raam, zodat het gas wegwaait voor het je ogen bereikt. En wie vaak tranende ogen heeft: kies voor zoete of rode uien in rauwe gerechten.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><ellipse cx=\"70\" cy=\"150\" rx=\"42\" ry=\"38\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M70 112 L70 92\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"30\" y1=\"150\" x2=\"110\" y2=\"150\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"40\" y=\"208\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">gesneden ui</text><path d=\"M95 120 C150 60 210 140 270 85\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"5 6\"/><circle r=\"5\" fill=\"#ffd166\"><animateMotion dur=\"4s\" repeatCount=\"indefinite\" path=\"M95 120 C150 60 210 140 270 85\"/></circle><circle r=\"5\" fill=\"#06d6a0\"><animateMotion dur=\"4s\" begin=\"2s\" repeatCount=\"indefinite\" path=\"M95 120 C150 60 210 140 270 85\"/></circle><text x=\"150\" y=\"60\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">LF-gas</text><ellipse cx=\"300\" cy=\"80\" rx=\"30\" ry=\"16\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"300\" cy=\"80\" r=\"8\" fill=\"#fff\"/><path d=\"M300 100 q-6 12 0 18 q6 -6 0 -18z\" fill=\"#06d6a0\"><animate attributeName=\"opacity\" values=\"0;1;0\" dur=\"4s\" repeatCount=\"indefinite\"/></path><text x=\"255\" y=\"140\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">oog maakt tranen</text><text x=\"20\" y=\"28\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">1. cellen kapot  2. enzymen  3. gas  4. traanreflex</text></svg>",
+   "quiz": {
+    "q": "Welk enzym maakt het traangas van een ui echt aan?",
+    "o": [
+     "Lachrymatory factor synthase (LFS)",
+     "Amylase",
+     "Lactase"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Imai et al., Nature (2002)",
+     "u": "https://www.nature.com/articles/419685a"
+    },
+    {
+     "t": "Library of Congress – Everyday Mysteries",
+     "u": "https://www.loc.gov/everyday-mysteries/food-and-nutrition/item/why-does-chopping-an-onion-make-you-cry/"
+    },
+    {
+     "t": "American Chemical Society – Molecule of the Week",
+     "u": "https://www.acs.org/molecule-of-the-week/archive/p/syn-propanethial-s-oxide.html"
+    }
+   ],
+   "date": "2026-11-17T10:19:14Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Bliksem is ongeveer vijf keer heter dan de zon",
+   "body": "Een bliksemschicht verhit de lucht in zijn kanaal tot zo'n 27.700 °C (50.000 °F), volgens de Amerikaanse weerdienst. Het zonoppervlak haalt ongeveer 5.500 °C. Die hitte laat de lucht explosief uitzetten: dat is de donder. Omdat licht bijna meteen aankomt en geluid ongeveer een kilometer per drie seconden aflegt, kun je de afstand tellen.",
+   "take": "Tel de seconden tussen flits en donder en deel door drie: dan weet je ongeveer hoeveel kilometer de inslag ver was.",
+   "deep": "## Hoe het werkt\n\nIn een onweerswolk botsen ijsdeeltjes en hagelkorrels voortdurend tegen elkaar. Daarbij scheiden elektrische ladingen: positief verzamelt zich meestal bovenaan, negatief onderaan. Wordt het spanningsverschil tussen wolk en grond (of binnen de wolk) te groot, dan breekt de lucht als isolator door en schiet er een ontlading door een smal kanaal.\n\nDie stroom verhit de lucht in een fractie van een seconde tot ongeveer 50.000 °F, zo'n 27.700 °C. Het zonoppervlak is ongeveer 10.000 °F, ruwweg 5.500 °C. Vandaar de vergelijking: bliksem is ongeveer vijf keer zo heet.\n\nDe supersnel verhitte lucht zet explosief uit en duwt de omringende lucht weg. Dat veroorzaakt een schokgolf, die wij horen als donder. Een korte, scherpe knal betekent dat de inslag dichtbij was; een lang gerommel komt van verder weg, omdat het geluid van verschillende delen van het kanaal op verschillende momenten aankomt.\n\n## Een voorbeeld\n\nJe zit op een zomeravond op een terras in Gent en ziet een flits boven de stad. Je telt: één, twee, ... vijftien, en dan pas rommelt het. Vijftien gedeeld door drie is vijf: de bliksem sloeg zo'n vijf kilometer verderop in. Dat klinkt ver, maar het is dichtbij genoeg om binnen te gaan.\n\n## Wat onderzoek zegt\n\nDe National Weather Service (NWS) en de Amerikaanse weerdienst NOAA geven 50.000 °F als typische temperatuur in het bliksemkanaal; sommige NOAA-pagina's noemen pieken tot ongeveer 30.000 °C. Geluid legt grofweg een derde kilometer per seconde af, licht gaat ongeveer een miljoen keer sneller. NOAA raadt daarom aan de seconden door drie te delen voor kilometers. De Britse Met Office merkt op dat je donder zelden hoort op meer dan zo'n 20 kilometer afstand.\n\n## Nuance of misverstand\n\n'Vijf keer heter dan de zon' gaat over het zonoppervlak, niet over de kern van de zon, die miljoenen graden heet is. En de bliksem is maar heel even zo heet, in een smal kanaal. Een andere misvatting: dat je veilig bent zolang het niet regent. Bliksem kan ook inslaan waar het (nog) droog is. Het telmethodetje zegt ook enkel iets over die ene inslag, niet over waar de hele onweersbui zich bevindt.\n\n## Wat je ermee doet\n\nTel bij onweer altijd even de seconden. Hoor je donder, dan ben je binnen bereik en zoek je een gebouw of een auto met dichte ramen op. Wacht na de laatste donderslag nog een tijdje voor je weer naar buiten gaat. Gebruik het tellen ook als leuk spelletje met kinderen: zo worden ze minder bang en leren ze iets over geluid.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"20\" y=\"28\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Temperatuur (°C)</text><line x1=\"40\" y1=\"190\" x2=\"330\" y2=\"190\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"80\" y=\"160\" width=\"60\" height=\"30\" fill=\"#ffd166\"/><text x=\"70\" y=\"208\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">zonoppervlak</text><text x=\"85\" y=\"152\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">~5.500</text><rect x=\"220\" y=\"40\" width=\"60\" height=\"150\" fill=\"#ff6b9d\"><animate attributeName=\"height\" values=\"0;150;150\" dur=\"5s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"190;40;40\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"220\" y=\"208\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">bliksemkanaal</text><text x=\"290\" y=\"60\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">~27.700</text><path d=\"M170 50 L155 95 L172 95 L158 140\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"150\" y=\"170\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">x 5</text></svg>",
+   "quiz": {
+    "q": "Je telt 12 seconden tussen flits en donder. Hoe ver was de inslag ongeveer?",
+    "o": [
+     "12 kilometer",
+     "4 kilometer",
+     "1 kilometer"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "National Weather Service – How Hot Is Lightning?",
+     "u": "https://www.weather.gov/safety/lightning-temperature"
+    },
+    {
+     "t": "NOAA – Lightning Safety",
+     "u": "https://www.noaa.gov/jetstream/lightning/lightning-safety"
+    },
+    {
+     "t": "Met Office – Thunder and lightning",
+     "u": "https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/thunder-and-lightning"
+    }
+   ],
+   "date": "2026-11-17T10:19:14Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Waarom een vijver van boven naar onder bevriest",
+   "body": "De meeste stoffen worden zwaarder als ze afkoelen. Water niet helemaal: het is het dichtst bij ongeveer 4 °C. Kouder water stijgt dus weer op, en ijs is zo'n 9 procent lichter dan vloeibaar water. Daardoor bevriest een vijver van bovenaf, terwijl op de bodem water van rond 4 °C blijft. Zo overleven vissen de winter.",
+   "take": "Hak bij strenge vorst nooit hardhandig een wak in je vijver: de schokgolf stoort de vissen. Een drijvende ijsvrijhouder werkt beter.",
+   "deep": "## Hoe het werkt\n\nWatermoleculen trekken elkaar aan via waterstofbruggen. In vloeibaar water vormen en breken die bruggen voortdurend, en kunnen de moleculen dicht tegen elkaar schuiven. Koel je water af, dan bewegen de moleculen trager en schuiven ze dichter bij elkaar: het water wordt zwaarder per liter.\n\nMaar rond 4 °C kantelt dat. Onder die temperatuur beginnen de moleculen zich te ordenen in een open roosterstructuur, alsof ze al aan ijs denken. Die structuur neemt meer plaats in. Water van 2 °C is dus lichter dan water van 4 °C. Bij het bevriezen wordt het rooster helemaal vast en daalt de dichtheid met ongeveer 9 procent. Daarom drijft ijs.\n\nIn een meer gebeurt dan het volgende. In de herfst koelt het oppervlak af, wordt het zwaarder en zakt naar beneden, tot het hele meer rond 4 °C zit. Koelt het oppervlak nog verder af, dan blijft dat koudere, lichtere water bovenaan liggen. Daar bevriest het, en de ijslaag isoleert het water eronder.\n\n## Een voorbeeld\n\nDenk aan een tuinvijver in Limburg na een week vorst. Bovenaan ligt een dikke ijslaag, maar de goudvissen zwemmen traag onderaan rond in water dat net boven het vriespunt blijft. Hetzelfde zie je in je diepvries: een vol flesje water kan barsten, omdat het ijs meer ruimte inneemt dan het water.\n\n## Wat onderzoek zegt\n\nVolgens de U.S. Geological Survey (USGS) heeft zuiver water zijn grootste dichtheid bij ongeveer 4 °C: 0,99984 gram per milliliter. Bij bevriezing neemt de dichtheid met ongeveer 9 procent af. De USGS merkt op dat een meer zou kunnen dichtvriezen van onderaf als water net op het vriespunt het zwaarst was: het koudste water zou dan zinken. Encyclopaedia Britannica beschrijft hetzelfde mechanisme om te verklaren waarom meren zelden volledig dichtvriezen.\n\n## Nuance of misverstand\n\nDat het onderste water 'altijd 4 °C' is, is een vereenvoudiging: in ondiepe vijvers of bij langdurige, strenge vorst kan het kouder worden, en een heel ondiepe vijver kan wel volledig dichtvriezen. Zout water gedraagt zich ook anders. Zout verlaagt de temperatuur van de grootste dichtheid; in typisch zeewater verdwijnt dat maximum zelfs helemaal. Zeewater bevriest bovendien pas onder 0 °C.\n\n## Wat je ermee doet\n\nHeb je een tuinvijver met vissen, zorg dan dat hij diep genoeg is, zodat er onderaan altijd vloeibaar water overblijft. Vul flessen in de diepvries nooit tot de rand. En leg je ijsblokjes in een glas: je ziet de natuurkunde van een bevroren meer in het klein.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"30\" y=\"50\" width=\"300\" height=\"150\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"30\" y=\"50\" width=\"300\" height=\"20\" fill=\"#fff\"><animate attributeName=\"height\" values=\"4;20;20;4\" dur=\"8s\" repeatCount=\"indefinite\"/></rect><text x=\"40\" y=\"36\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">ijs ~0 °C drijft (9% lichter)</text><text x=\"40\" y=\"100\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">koud water ~1-3 °C</text><text x=\"40\" y=\"170\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">zwaarste water ~4 °C</text><line x1=\"30\" y1=\"140\" x2=\"330\" y2=\"140\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"4 6\"/><path d=\"M0 0 l14 -6 l0 12 z M14 0 l8 -5 l0 10 z\" fill=\"#ffd166\"><animateMotion dur=\"7s\" repeatCount=\"indefinite\" path=\"M200 175 L300 170 L220 185 Z\"/></path><text x=\"215\" y=\"214\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">vis overwintert</text></svg>",
+   "quiz": {
+    "q": "Bij welke temperatuur is zuiver water het zwaarst (dichtst)?",
+    "o": [
+     "0 °C",
+     "100 °C",
+     "Ongeveer 4 °C"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "USGS – Water Density",
+     "u": "https://www.usgs.gov/water-science-school/science/water-density"
+    },
+    {
+     "t": "Britannica – Why does water freeze from the top down?",
+     "u": "https://www.britannica.com/story/why-does-water-freeze-from-the-top-down"
+    }
+   ],
+   "date": "2026-11-17T10:19:14Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Kraaien onthouden je gezicht, soms jarenlang",
+   "body": "In 2006 vingen onderzoekers van de University of Washington zeven kraaien terwijl ze een griezelig 'holbewonersmasker' droegen. Wie later met dat masker over de campus liep, werd uitgescholden door kraaien, ook door vogels die nooit gevangen waren. Het misnoegen piekte in 2013 en bleef zo'n 17 jaar meetbaar. Een neutraal masker liet de kraaien koud.",
+   "take": "Behandel kraaien en eksters in je buurt rustig: ze herkennen individuele mensen en vertellen het aan elkaar door.",
+   "deep": "## Hoe het werkt\n\nKraaien leven in groepen en volgen wat er rond hen gebeurt. Als een mens een kraai bedreigt, slaan de vogels alarm met een harde, krassende roep. Andere kraaien komen erop af en vallen samen in, een gedrag dat 'mobbing' heet. Daarbij kijken ze naar het gezicht van de bedreiger en slaan ze dat op.\n\nHet slimme is dat ze die kennis delen. Een jonge kraai die meedoet met het alarm leert dat dit gezicht gevaarlijk is, zonder zelf ooit iets te hebben meegemaakt. Zo verspreidt de 'wrok' zich door de groep en over de generaties heen.\n\n## Een voorbeeld\n\nStel dat je in een park in Antwerpen een nest van zwarte kraaien te dicht nadert. De ouders krassen boven je hoofd. Kom je een paar weken later weer langs, dan kan het goed zijn dat ze je meteen herkennen en opnieuw alarm slaan, terwijl andere wandelaars ongestoord voorbijgaan.\n\n## Wat onderzoek zegt\n\nEcoloog John Marzluff van de University of Washington startte het experiment in 2006. Onderzoekers met een 'gevaarlijk' rubbermasker vingen zeven kraaien en ringden ze; een tweede masker gold als neutraal en werd gedragen zonder de vogels lastig te vallen. Daarna liepen vrijwilligers met de maskers over de campus, zonder ook maar één kraai aan te raken. Toch werd het gevaarlijke masker steeds weer uitgescholden, ook als het met een hoed of ondersteboven werd gedragen. Volgens een samenvatting van de universiteit piekte het scholden rond 2013. In september 2023, 17 jaar na de start, werd op een wandeling met het masker voor het eerst geen enkele kraai meer gehoord. Een vervolgstudie met hersenscans toonde dat het gevaarlijke gezicht bij de kraaien de amygdala activeerde, een hersengebied dat ook bij mensen angst verwerkt.\n\n## Nuance of misverstand\n\nKraaien 'vergeten nooit' is overdreven: de reactie nam na 2013 geleidelijk af en verdween na verloop van tijd. Het gaat ook om één soort, de Amerikaanse kraai, in een stedelijke omgeving. En de laatste meting is een waarneming tijdens één wandeling, geen afgeronde wetenschappelijke analyse. Wel is duidelijk dat het geheugen jaren meegaat en sociaal wordt doorgegeven.\n\n## Wat je ermee doet\n\nGa respectvol om met kraaiachtigen in je buurt, zeker in het broedseizoen in de lente: hou afstand van nesten. Wil je ze observeren, voer ze dan niet en blijf rustig. En wie een kraai ooit heeft laten schrikken, hoeft niet verbaasd te zijn als die nog lang luidruchtig reageert.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><circle cx=\"80\" cy=\"110\" r=\"40\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"66\" cy=\"100\" r=\"5\" fill=\"#fff\"/><circle cx=\"94\" cy=\"100\" r=\"5\" fill=\"#fff\"/><path d=\"M62 128 L98 128\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"30\" y=\"175\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">\"gevaarlijk\"</text><text x=\"30\" y=\"191\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">masker</text><path d=\"M250 120 q25 -30 55 -5 l15 -5 l-12 12 q-10 25 -45 18 z\" fill=\"#fff\"/><circle cx=\"262\" cy=\"118\" r=\"3\" fill=\"#ff6b9d\"/><path d=\"M250 120 l-14 4 l14 4\" fill=\"#ffd166\"/><circle cx=\"236\" cy=\"124\" r=\"10\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"r\" values=\"8;60\" dur=\"3s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;0\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><text x=\"230\" y=\"185\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">kraaien krijsen</text><text x=\"20\" y=\"30\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Gezicht = gevaar, onthouden tot ~17 jaar</text></svg>",
+   "quiz": {
+    "q": "Wat gebeurde er met kraaien die zelf nooit gevangen waren?",
+    "o": [
+     "Ze scholden het gevaarlijke masker ook uit",
+     "Ze negeerden elk masker",
+     "Ze vielen het neutrale masker aan"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "University of Washington Urban Ecology",
+     "u": "https://urban.uw.edu/news/crows-hold-grudges-against-individual-humans-for-up-to-17-years/"
+    },
+    {
+     "t": "National Wildlife Federation (2013)",
+     "u": "https://www.nwf.org/Magazines/National-Wildlife/2013/DecJan/Animals/Crows-Recognizing-Faces"
+    }
+   ],
+   "date": "2026-11-17T10:19:14Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Spierpijn de dag erna komt niet van melkzuur",
+   "body": "Het idee dat melkzuur in je spieren blijft hangen en spierpijn veroorzaakt, is achterhaald. Vertraagde spierpijn (DOMS) ontstaat door piepkleine beschadigingen in de spiervezels, gevolgd door een ontstekingsreactie. Ze piekt meestal 48 tot 72 uur na de inspanning, vooral na ongewone bewegingen of bergaf lopen, waarbij je spieren remmen terwijl ze verlengen.",
+   "take": "Bouw een nieuwe sport of veel bergaf lopen geleidelijk op, zodat je spieren kunnen wennen aan de ongewone belasting.",
+   "deep": "## Hoe het werkt\n\nEen spier kan op drie manieren werken: verkorten (je heft een gewicht op), stil blijven staan, of verlengen terwijl ze kracht levert, bijvoorbeeld als je een gewicht gecontroleerd laat zakken of de trap afgaat. Dat laatste heet een excentrische contractie. Daarbij komt veel spanning op een klein aantal vezels.\n\nDie spanning veroorzaakt microscopische schade in de spiervezels en het omringende bindweefsel. In de uren en dagen daarna ruimt je lichaam die schade op: eiwitten worden afgebroken en er ontstaat een plaatselijke ontstekingsreactie. Stoffen die daarbij vrijkomen, maken de pijnzenuwen gevoeliger. Daarom voel je pas een dag later stijfheid en pijn bij bewegen of aanraken.\n\n## Een voorbeeld\n\nJe doet mee aan een wandeltocht in de Vlaamse Ardennen en loopt de Koppenberg niet alleen op, maar ook steil af. De dag erna voel je vooral je dijen bij het trappenlopen, en op dag twee is het nog erger. Dat komt door het bergaf lopen: je bovenbeenspieren remden elke stap af terwijl ze verlengden.\n\n## Wat onderzoek zegt\n\nEen Duits overzichtsartikel uit 2018 (Hotfiel en collega's) beschrijft DOMS als een vorm van ultrastructurele spierschade, met klachten die meestal 48 tot 72 uur na de inspanning het ergst zijn. Al in de jaren 1950 vonden onderzoekers geen duidelijk verband tussen melkzuur en de latere spierpijn. Een review in Sports Medicine uit 2003 zette zes verklaringen op een rij en concludeerde dat waarschijnlijk een combinatie van factoren, vooral spierschade en ontsteking, het fenomeen verklaart; melkzuur hoort daar niet bij.\n\n## Nuance of misverstand\n\nEr is wel een kern van waarheid: tijdens een zware inspanning stapelen afbraakproducten zich op, en die dragen bij aan het branderige gevoel op dat moment. Maar dat verdwijnt kort na de inspanning en verklaart niet waarom je spieren twee dagen later pijn doen. Het exacte mechanisme van DOMS is nog niet volledig opgehelderd. Sommige onderzoekers denken dat ook kleine schade aan zenuwuiteinden in de spier een rol speelt; dat is een hypothese. Spierpijn is bovendien geen goede maat voor hoe effectief je training was.\n\n## Wat je ermee doet\n\nBegin rustig aan een nieuwe sport of oefening en verhoog de belasting stap voor stap. Rustig bewegen, zoals een wandeling of lichte fietstocht, voelt vaak aangenamer dan stilzitten. En heb je spierpijn die na een week nog niet over is, of gaat ze samen met sterke zwelling of donkere urine, raadpleeg dan een arts.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><line x1=\"40\" y1=\"180\" x2=\"330\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"40\" y1=\"180\" x2=\"40\" y2=\"40\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"20\" y=\"30\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">spierpijn</text><path d=\"M40 175 C100 170 140 60 200 60 S290 160 330 170\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><circle r=\"6\" fill=\"#ff6b9d\"><animateMotion dur=\"6s\" repeatCount=\"indefinite\" path=\"M40 175 C100 170 140 60 200 60 S290 160 330 170\"/></circle><text x=\"36\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">0u</text><text x=\"105\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">24u</text><text x=\"175\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">48-72u</text><text x=\"290\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">later</text><text x=\"170\" y=\"50\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">piek</text></svg>",
+   "quiz": {
+    "q": "Welke beweging geeft het vaakst flinke spierpijn de dag erna?",
+    "o": [
+     "Rustig zwemmen",
+     "Bergaf lopen",
+     "Stilzitten na het sporten"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Hotfiel et al., Sportverletz Sportschaden (2018)",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/30537791/"
+    },
+    {
+     "t": "Cheung et al., Sports Medicine (2003)",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/12617692/"
+    }
+   ],
+   "date": "2026-11-17T10:19:14Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Wie te weinig slaapt, haalt minder uit vaccins",
+   "body": "Onderzoekers volgden ruim 120 gezonde volwassenen die drie prikken tegen hepatitis B kregen. Wie gemiddeld minder dan zes uur per nacht sliep, had 11,5 keer meer kans om na de reeks onvoldoende beschermd te zijn dan wie meer dan zeven uur sliep. Slaap helpt je immuunsysteem om een vaccin om te zetten in blijvende afweer.",
+   "take": "Plan een vaccin, zoals je griepprik, niet midden in een week vol late avonden; slaap de nachten rond je prik goed door.",
+   "deep": "## Hoe het werkt\n\nEen vaccin toont je immuunsysteem een onschuldig stukje van een ziekteverwekker. Daarop reageren witte bloedcellen: B-cellen gaan antistoffen maken en een deel van de cellen wordt geheugencel. Die geheugencellen zorgen ervoor dat je later, bij een echte besmetting, snel reageert.\n\nOnderzoekers vermoeden dat slaap dat leerproces ondersteunt. Tijdens de slaap verandert je hormoonhuishouding en schakelt je lichaam over op herstel, een omgeving die gunstig lijkt voor het opbouwen van een stevige immuunrespons. Slaap je structureel te kort, dan verloopt dat proces mogelijk minder goed en maak je minder antistoffen aan. Het precieze mechanisme wordt nog onderzocht.\n\n## Een voorbeeld\n\nEen student in Leuven krijgt in de blokperiode een vaccin, terwijl ze elke nacht maar vijf uur slaapt. Haar huisgenote krijgt dezelfde prik, maar slaapt zeven tot acht uur. Volgens het onderzoek is de kans dat de student onvoldoende beschermd is, beduidend groter. Een gemiste nacht is geen ramp, maar een patroon van te weinig slaap telt wel.\n\n## Wat onderzoek zegt\n\nPsycholoog Aric Prather en collega's publiceerden de studie in 2012 in het vakblad Sleep. Gezonde volwassenen van middelbare leeftijd die nog nooit tegen hepatitis B gevaccineerd waren, kregen de standaardreeks van drie prikken. Hun slaap werd gemeten met een polsbewegingsmeter en een slaapdagboek. Zes maanden na de laatste prik werd het aantal antistoffen gemeten. Wie korter sliep, had minder kans om klinisch beschermd te zijn. Mensen die gemiddeld minder dan zes uur sliepen, hadden 11,5 keer meer kans om onbeschermd te blijven dan mensen die meer dan zeven uur sliepen.\n\n## Nuance of misverstand\n\nDit is een observationele studie: ze toont een verband, geen bewezen oorzaak. Prather benadrukte dat zelf ook. Mensen die weinig slapen, kunnen ook op andere vlakken verschillen, zoals stress of leefstijl. Het onderzoek ging bovendien over één vaccin en een relatief kleine groep. Het betekent ook niet dat een vaccin bij korte slapers 'niet werkt': de meeste deelnemers waren na de reeks gewoon beschermd.\n\n## Wat je ermee doet\n\nGun jezelf rond een vaccinatie een paar nachten van zeven uur of meer. Dat geldt eigenlijk altijd, want voldoende slaap ondersteunt je afweer in het algemeen. En sla een vaccin nooit over omdat je slecht slaapt: ook dan geeft het je meestal de bescherming die je nodig hebt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"20\" y=\"28\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Beschermd na hepatitis B-vaccin?</text><line x1=\"40\" y1=\"180\" x2=\"330\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"80\" y=\"140\" width=\"70\" height=\"40\" fill=\"#ff6b9d\"/><rect x=\"210\" y=\"60\" width=\"70\" height=\"120\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"0;120;120\" dur=\"5s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;60;60\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"70\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">&lt; 6 u slaap</text><text x=\"200\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">&gt; 7 u slaap</text><text x=\"70\" y=\"130\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">11,5x vaker</text><text x=\"70\" y=\"114\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">onbeschermd</text><path d=\"M320 50 a16 16 0 1 1 -16 -22 a12 12 0 0 0 16 22 z\" fill=\"#ffd166\"/></svg>",
+   "quiz": {
+    "q": "Wat mat Prather precies om bescherming vast te stellen?",
+    "o": [
+     "Lichaamstemperatuur na de prik",
+     "Het aantal griepgevallen",
+     "Antistoffen zes maanden na de laatste prik"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Prather et al., Sleep (2012)",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3397805"
+    },
+    {
+     "t": "Carnegie Mellon – studie-pdf",
+     "u": "https://www.cmu.edu/dietrich/psychology/stress-immunity-disease-lab/abstracts/pdf/prather_sleep-and-vaccination_sleep2012.pdf"
+    },
+    {
+     "t": "ScienceDaily (2012)",
+     "u": "https://www.sciencedaily.com/releases/2012/08/120801093421.htm"
+    }
+   ],
+   "date": "2026-11-17T10:19:14Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Je spieren onthouden dat je ooit getraind hebt",
+   "body": "Wie na een lange pauze opnieuw gaat trainen, krijgt zijn kracht vaak sneller terug dan de eerste keer. Bij muizen bleven extra celkernen, aangemaakt door training, minstens drie maanden in de spier, ook toen die sterk afnam. Bij mensen vonden onderzoekers in 2018 een 'epigenetisch geheugen': chemische merktekens op het DNA die na een trainingspauze bleven.",
+   "take": "Stop je tijdelijk met sporten, door blessure of drukte? Begin later gerust opnieuw: je bouwt sneller terug op dan je denkt.",
+   "deep": "## Hoe het werkt\n\nEen spiervezel is een uitzonderlijke cel: ze is lang en bevat honderden celkernen. Elke kern 'beheert' een stukje van de vezel en stuurt de aanmaak van eiwitten. Als je traint en een spier groeit, krijgt de vezel er kernen bij, geleverd door stamcellen rond de spier.\n\nStop je met trainen, dan krimpen de vezels. Maar volgens dierstudies blijven de extra kernen grotendeels behouden. Begin je opnieuw, dan liggen die 'fabriekjes' al klaar en kan de spier sneller groeien.\n\nDaarnaast is er een tweede mechanisme: epigenetica. Training verandert chemische labeltjes (methylgroepen) op je DNA, waardoor bepaalde genen makkelijker aan of uit gaan. Een deel van die veranderingen blijft bestaan wanneer je stopt, en kan je spieren klaarzetten voor een snellere reactie bij een nieuwe trainingsperiode.\n\n## Een voorbeeld\n\nEen voetballer uit Brugge scheurt zijn kruisband en ligt maanden aan de kant. Zijn beenspieren slinken zichtbaar. Na de revalidatie kan zijn spiermassa sneller terugkomen dan bij een ploegmaat die voor het eerst aan krachttraining begint: zijn spieren hebben al eens gegroeid.\n\n## Wat onderzoek zegt\n\nIn 2010 volgde het team van Kristian Gundersen (Universiteit van Oslo) met beeldvorming spiervezels in levende muizen (Bruusgaard e.a., PNAS). Bij overbelasting kwamen er eerst nieuwe kernen bij en pas daarna groeiden de vezels. Toen de spier daarna geen zenuwsignalen meer kreeg en sterk krimpte, bleven de nieuwe kernen minstens drie maanden behouden. In 2018 publiceerde Robert Seaborne met Adam Sharples in Scientific Reports een studie bij mensen met drie fasen: trainen, stoppen en opnieuw trainen. Ze analyseerden ongeveer 850.000 plaatsen op het DNA. Bepaalde genen bleven 'gemarkeerd' terwijl de spiermassa al terug op het beginniveau was. Bij de tweede trainingsperiode groeiden de spieren sterker en waren er meer DNA-veranderingen dan bij de eerste.\n\n## Nuance of misverstand\n\nHet bewijs voor blijvende kernen komt vooral uit dierstudies; bij mensen is het debat nog niet beslecht. Ook de epigenetische studie was klein. 'Spiergeheugen' wordt in de sportwereld bovendien vaak gebruikt voor iets anders: het automatisch kunnen uitvoeren van een beweging, zoals fietsen. Dat zit niet in je spieren, maar in je zenuwstelsel en hersenen.\n\n## Wat je ermee doet\n\nZie een pauze niet als 'alles kwijt'. Pak het na een blessure of drukke periode opnieuw op, maar bouw de belasting rustig op, want pezen en gewrichten moeten ook weer wennen. En investeer als jongere al in krachttraining: wat je nu opbouwt, kan je later helpen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"20\" y=\"28\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Spiervezel: training, pauze, opnieuw</text><rect x=\"40\" y=\"90\" width=\"280\" height=\"50\" rx=\"20\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"height\" values=\"30;60;40;60;30\" dur=\"8s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"100;85;95;85;100\" dur=\"8s\" repeatCount=\"indefinite\"/></rect><circle cx=\"80\" cy=\"115\" r=\"5\" fill=\"#ffd166\"/><circle cx=\"140\" cy=\"115\" r=\"5\" fill=\"#ffd166\"/><circle cx=\"200\" cy=\"115\" r=\"5\" fill=\"#ffd166\"/><circle cx=\"260\" cy=\"115\" r=\"5\" fill=\"#ffd166\"/><circle cx=\"110\" cy=\"115\" r=\"5\" fill=\"#06d6a0\"><animate attributeName=\"opacity\" values=\"0;1;1;1;0\" dur=\"8s\" repeatCount=\"indefinite\"/></circle><circle cx=\"230\" cy=\"115\" r=\"5\" fill=\"#06d6a0\"><animate attributeName=\"opacity\" values=\"0;1;1;1;0\" dur=\"8s\" repeatCount=\"indefinite\"/></circle><text x=\"40\" y=\"180\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">geel: kernen  groen: extra kernen</text><text x=\"40\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">vezel krimpt, extra kernen blijven</text></svg>",
+   "quiz": {
+    "q": "Wat bleef bij muizen behouden toen hun spieren krompen?",
+    "o": [
+     "De spiermassa",
+     "Extra celkernen in de spiervezels",
+     "Het melkzuur in de spier"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Bruusgaard et al., PNAS (2010)",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/2930527"
+    },
+    {
+     "t": "Seaborne et al., Scientific Reports (2018)",
+     "u": "https://researchonline.ljmu.ac.uk/id/eprint/7912/"
+    }
+   ],
+   "date": "2026-11-17T10:19:14Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Vezels zijn eigenlijk voer voor je darmbacteriën",
+   "body": "Voedingsvezels verteer je zelf niet, maar de bacteriën in je dikke darm wel. Ze fermenteren sommige vezels tot korte-keten vetzuren zoals butyraat, een belangrijke brandstof voor de cellen van je darmwand. Een grote analyse in The Lancet (2019) vond de meeste gezondheidswinst bij 25 tot 29 gram vezels per dag.",
+   "take": "Vervang witte boterhammen door volkoren en eet elke dag peulvruchten, groenten of noten: zo haal je makkelijker 25 tot 30 gram.",
+   "deep": "## Hoe het werkt\n\nVezels zijn de delen van plantaardig voedsel die je eigen spijsverteringsenzymen niet kunnen afbreken. Ze passeren je maag en dunne darm vrijwel onveranderd en komen in de dikke darm terecht.\n\nDaar wacht een enorm ecosysteem van bacteriën. Zij beschikken wel over de enzymen om bepaalde vezels af te breken. Dat proces heet fermentatie. Daarbij ontstaan onder meer korte-keten vetzuren, zoals butyraat. Butyraat is een belangrijke voedingsstof voor de cellen van de darmwand. Daarnaast houden vezels water vast, waardoor je ontlasting zachter en volumineuzer wordt, en geven ze een verzadigd gevoel.\n\n## Een voorbeeld\n\nEen typische dag: een witte pistolet als ontbijt, een broodje kaas als lunch en frietjes 's avonds. Dat levert weinig vezels op. Kies je voor havermout met fruit, een volkoren boterham en 's avonds linzen of kikkererwten met groenten, dan zit je al snel veel hoger, zonder exotische producten.\n\n## Wat onderzoek zegt\n\nAndrew Reynolds en collega's van de Universiteit van Otago analyseerden in opdracht van de Wereldgezondheidsorganisatie 185 langlopende observationele studies (samen bijna 135 miljoen persoonsjaren) en 58 klinische studies. Ze publiceerden in 2019 in The Lancet. Mensen die het meest vezels aten, hadden 15 tot 30 procent minder kans om te overlijden en minder hart- en vaatziekten, beroertes, type 2-diabetes en darmkanker dan mensen die het minst aten. De grootste risicodaling zagen ze bij 25 tot 29 gram per dag; meer leek nog extra voordeel te geven. Het Nederlandse Voedingscentrum adviseert volwassen mannen van 18 tot 49 jaar minstens 30 gram per dag; voor vrouwen ligt het advies iets lager.\n\n## Nuance of misverstand\n\nDe verbanden komen grotendeels uit observationeel onderzoek: wie veel vezels eet, leeft vaak ook in andere opzichten gezonder. Niet elke vezel wordt bovendien even goed gefermenteerd; vezels verschillen sterk van elkaar. En voor wie plots veel meer vezels eet, zijn een opgeblazen gevoel en winderigheid normaal; de darmbacteriën hebben tijd nodig om zich aan te passen.\n\n## Wat je ermee doet\n\nVerhoog je vezelinname stap voor stap en drink er voldoende water bij. Kies volkoren varianten van brood, pasta en rijst, eet dagelijks groenten en fruit, en zet minstens een paar keer per week peulvruchten op het menu. Kijk op etiketten: 'volkoren' zegt meer dan 'meergranen'.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"20\" y=\"80\" width=\"80\" height=\"50\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"35\" y=\"110\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">vezels</text><rect x=\"140\" y=\"80\" width=\"90\" height=\"50\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"148\" y=\"102\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">bacteriën</text><text x=\"148\" y=\"120\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">dikke darm</text><rect x=\"270\" y=\"80\" width=\"75\" height=\"50\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"278\" y=\"102\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">butyraat</text><text x=\"278\" y=\"120\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">darmwand</text><line x1=\"100\" y1=\"105\" x2=\"132\" y2=\"105\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"4 4\"><animate attributeName=\"stroke-dashoffset\" values=\"16;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></line><path d=\"M132 100 l8 5 l-8 5 z\" fill=\"#ffd166\"/><line x1=\"230\" y1=\"105\" x2=\"262\" y2=\"105\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"4 4\"><animate attributeName=\"stroke-dashoffset\" values=\"16;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></line><path d=\"M262 100 l8 5 l-8 5 z\" fill=\"#06d6a0\"/><text x=\"140\" y=\"160\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">fermentatie</text><text x=\"20\" y=\"40\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Wat jij niet verteert, eten zij</text></svg>",
+   "quiz": {
+    "q": "Wat maken darmbacteriën van fermenteerbare vezels?",
+    "o": [
+     "Korte-keten vetzuren zoals butyraat",
+     "Melkzuur dat spierpijn geeft",
+     "Vitamine C"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Reynolds et al., The Lancet (2019)",
+     "u": "https://discovery.dundee.ac.uk/ws/files/30375889/Final_Lancet_for_John.pdf"
+    },
+    {
+     "t": "Voedingscentrum – Vezels",
+     "u": "https://www.voedingscentrum.nl/encyclopedie/vezels.aspx"
+    }
+   ],
+   "date": "2026-11-17T10:19:14Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Bankroet betekent letterlijk: gebroken bank",
+   "body": "'Bankroet' komt via het Franse 'banqueroute' van het Italiaanse 'banca rotta': gebroken bank. Met 'banca' bedoelde men de tafel waaraan geldwisselaars en bankiers werkten; 'rotta' komt van het Latijnse 'rumpere', breken. In het Nederlands duikt het woord op in de 16e eeuw, met 'banckerote' in 1555 als vroegste vondst.",
+   "take": "Gebruik het verhaal als ezelsbruggetje: wie 'bankroet' is, heeft letterlijk geen bank meer om aan te werken.",
+   "deep": "## Hoe het werkt\n\nIn de late middeleeuwen waren Italiaanse steden zoals Firenze en Venetië de geldcentra van Europa. Geldwisselaars en bankiers zaten op markten en pleinen achter een tafel of bank, in het Italiaans 'banca'. Ons woord 'bank', ook in de betekenis van geldinstelling, gaat op diezelfde oorsprong terug: de Italianen hadden het overgenomen van een Germaans woord voor bank of plank.\n\nGing een bankier failliet, dan was zijn 'banca rotta', zijn bank gebroken. Het Italiaanse 'rotto' betekende sinds de 14e eeuw ook 'failliet'. Via het Frans, dat er 'banqueroute' van maakte, kwam het woord in de 16e eeuw in het Nederlands terecht, aanvankelijk als 'banckerote' en later als 'bankroet'.\n\n## Een voorbeeld\n\nEen Antwerpse handelaar in de 16e eeuw, toen de stad een wereldhaven was, kon zomaar 'banckerote' gaan. Vandaag lees je in de krant dat een bedrijf 'failliet' gaat, maar 'bankroet' gebruiken we nog steeds, vaak figuurlijk: 'politiek bankroet' of 'moreel bankroet'. Het Duitse 'Bankrott' en het Engelse 'bankrupt' hebben dezelfde Italiaanse bron.\n\n## Wat onderzoek zegt\n\nVolgens de etymologische gegevens in Etymologiebank, onder meer uit het werk van taalkundige Nicoline van der Sijs, dateert de vroegste Nederlandse vondst van 'banckerote' uit 1555. Het woord wordt afgeleid van het Franse 'banqueroute', dat uit het Italiaanse 'banca rotta' komt. Spreekwoordenkenner F.A. Stoett koppelde het woord aan de gewoonte om de tafel van een wisselaar die zijn betalingen staakte symbolisch te breken. Ook het bijna-synoniem 'failliet' kwam via het Frans ('faillite') binnen.\n\n## Nuance of misverstand\n\nHet verhaal dat schuldeisers de bank van een failliete bankier echt kapotsloegen, wordt vaak verteld, maar het is niet zeker dat dit gebruikelijk was. Etymologen houden er rekening mee dat 'gebroken' vooral figuurlijk bedoeld was: de zaak was 'gebroken', zoals we ook zeggen dat iemand 'gebroken' is. De herkomst uit 'banca rotta' staat wel vast; alleen de schilderachtige anekdote is onzeker.\n\n## Wat je ermee doet\n\nGebruik 'bankroet' bewust: het klinkt zwaarder en ouder dan 'failliet' en past goed bij figuurlijk gebruik. Vertel bij een gezelschapsspel als Monopoly gerust het verhaal van de gebroken bank: het blijft hangen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"20\" y=\"30\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">banca rotta = gebroken bank</text><g><rect x=\"80\" y=\"100\" width=\"100\" height=\"16\" fill=\"#ffd166\"/><line x1=\"95\" y1=\"116\" x2=\"95\" y2=\"160\" stroke=\"#fff\" stroke-width=\"2\"/><animateTransform attributeName=\"transform\" type=\"rotate\" values=\"0 180 116;-14 180 116;-14 180 116;0 180 116\" dur=\"6s\" repeatCount=\"indefinite\"/></g><g><rect x=\"180\" y=\"100\" width=\"100\" height=\"16\" fill=\"#ffd166\"/><line x1=\"265\" y1=\"116\" x2=\"265\" y2=\"160\" stroke=\"#fff\" stroke-width=\"2\"/><animateTransform attributeName=\"transform\" type=\"rotate\" values=\"0 180 116;14 180 116;14 180 116;0 180 116\" dur=\"6s\" repeatCount=\"indefinite\"/></g><text x=\"115\" y=\"88\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">wisseltafel</text><text x=\"30\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Italiaans → Frans banqueroute → bankroet</text></svg>",
+   "quiz": {
+    "q": "Uit welke taal komt 'bankroet' oorspronkelijk?",
+    "o": [
+     "Duits",
+     "Engels",
+     "Italiaans"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Etymologiebank – bankroet",
+     "u": "https://www.etymologiebank.nl/trefwoord/bankroet"
+    },
+    {
+     "t": "Stoett, Nederlandsche spreekwoorden (DBNL)",
+     "u": "https://www.dbnl.org/tekst/stoe002nede01_01/stoe002nede01_01_0163.php"
+    }
+   ],
+   "date": "2026-11-17T10:19:14Z"
+  },
+  {
+   "cat": "taal",
+   "title": "'Op de valreep' komt van een scheepstouw",
+   "body": "Een valreep was een touw of touwladder langs de zijkant van een schip, waarlangs je aan en van boord klom. Wie vertrok, kreeg er soms nog 'een glaasje op de valreep': een afscheidsdrankje vlak voor de boot wegvoer. Zo kreeg 'op de valreep' de betekenis 'op het allerlaatste moment'.",
+   "take": "Gebruik 'op de valreep' voor iets dat net op tijd lukt, zoals een treinticket dat je vlak voor vertrek nog koopt.",
+   "deep": "## Hoe het werkt\n\nHet woord 'valreep' bestaat uit twee delen. 'Reep' is een oud woord voor touw, dat je ook terugvindt in 'reep' als lange strook. 'Val' verwijst naar het neerhangen of afdalen langs dat touw. Een valreep was dus oorspronkelijk een afhangend touw met knopen, waarmee je langs de scheepswand naar boven of beneden kon klimmen.\n\nVaak hingen er twee van die touwen naast elkaar, verbonden door dwarshoutjes. Zo ontstond een touwladder. Later ging 'valreep' ook de opening in de reling aanduiden waar zo'n ladder hing, de plek waar je aan of van boord ging.\n\nVoor wie van boord ging, was de valreep letterlijk het laatste stukje schip. Wie een gast uitwuifde, schonk hem daar nog een laatste glas in. Uit dat 'glaasje op de valreep' groeide de figuurlijke betekenis: op het laatste nippertje, net voor het te laat is.\n\n## Een voorbeeld\n\nBij een voetbalmatch op Sclessin of in het Jan Breydelstadion valt de winnende goal in de laatste minuut: de ploeg wint 'op de valreep'. Of je dient je belastingaangifte in op de laatste avond voor de deadline. In beide gevallen gaat het om iets dat nog net lukt, op het moment dat de deur bijna dichtgaat.\n\n## Wat onderzoek zegt\n\nHet Genootschap Onze Taal legt de uitdrukking uit via de scheepsladder en het afscheidsglaasje. Spreekwoordenkenner F.A. Stoett beschreef in zijn klassieke verzameling Nederlandsche spreekwoorden bij 'een glaasje op den valreep' het touw waarlangs het bootsvolk van het schip in de sloep gleed. Ook oudere woordenboeken in de Digitale Bibliotheek voor de Nederlandse Letteren (DBNL) geven dezelfde verklaring van valreep als scheepstouw of touwladder.\n\n## Nuance of misverstand\n\nSoms denkt men dat 'valreep' iets te maken heeft met vallen in de zin van struikelen, of met een valstrik. Dat is niet zo: het gaat om een touw waarlangs je afdaalt. Wanneer de uitdrukking precies figuurlijk werd, is niet scherp te dateren. Het glaasje kwam eerst, de algemene betekenis 'op het laatste moment' later. Let ook op: 'op de valreep' betekent niet 'te laat', maar juist 'nog net op tijd'.\n\n## Wat je ermee doet\n\nGebruik de uitdrukking voor situaties die op het nippertje goed aflopen. Wil je variatie, dan zijn 'op het nippertje', 'op het laatste moment' of 'in extremis' goede alternatieven. En sluit een feestje gerust af met 'nog een glaasje op de valreep': dan gebruik je de uitdrukking zoals ze ontstond.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><path d=\"M40 60 L320 60 L290 150 L70 150 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"140\" y=\"100\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">schip</text><line x1=\"270\" y1=\"60\" x2=\"270\" y2=\"190\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"290\" y1=\"60\" x2=\"290\" y2=\"190\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"270\" y1=\"90\" x2=\"290\" y2=\"90\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"270\" y1=\"120\" x2=\"290\" y2=\"120\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"270\" y1=\"150\" x2=\"290\" y2=\"150\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"270\" y1=\"180\" x2=\"290\" y2=\"180\" stroke=\"#ffd166\" stroke-width=\"2\"/><circle r=\"7\" fill=\"#ff6b9d\"><animateMotion dur=\"5s\" repeatCount=\"indefinite\" path=\"M280 50 L280 185\"/></circle><path d=\"M20 195 q20 -10 40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"300\" y=\"80\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">valreep</text><text x=\"20\" y=\"30\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Laatste glaasje, dan van boord</text></svg>",
+   "quiz": {
+    "q": "Wat was een valreep oorspronkelijk?",
+    "o": [
+     "Een val om ratten te vangen",
+     "Een touw of touwladder langs een scheepswand",
+     "Een kapotte trede van een trap"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Onze Taal – Op de valreep",
+     "u": "https://onzetaal.nl/schatkamer/lezen/uitdrukkingen/op-de-valreep"
+    },
+    {
+     "t": "Stoett, Nederlandsche spreekwoorden (DBNL)",
+     "u": "https://dbnl.org/tekst/stoe002nede01_01/stoe002nede01_01_0705.php"
+    }
+   ],
+   "date": "2026-11-17T10:19:14Z"
   }
  ],
  "dives": [
