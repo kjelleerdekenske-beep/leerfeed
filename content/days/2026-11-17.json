@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T10:18:44Z",
+ "updated": "2026-11-17T10:18:55Z",
  "cards": [
   {
    "cat": "geld",
@@ -280,6 +280,314 @@
     }
    ],
    "date": "2026-11-17T10:18:44Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "De bekendste wereldkaart werd getekend door een Vlaming",
+   "body": "In 1569 maakte Gerard Mercator, geboren in Rupelmonde, een wereldkaart voor zeevaarders. Elke rechte lijn erop is een vaste kompaskoers. De prijs: hoe verder van de evenaar, hoe groter landen lijken. Groenland oogt even groot als Afrika, terwijl Afrika in werkelijkheid zo’n 14 keer groter is.",
+   "take": "Vergelijk je de grootte van landen? Gebruik een globe of een kaart met gelijke oppervlakte, geen Mercatorkaart.",
+   "deep": "## Hoe het werkt\n\nEen bol kun je niet plat leggen zonder iets te vervormen. Mercator koos bewust wat hij wilde bewaren: richtingen. Op zijn kaart lopen de meridianen niet naar elkaar toe zoals op een globe, maar als evenwijdige verticale lijnen. Om de hoeken toch te laten kloppen, trok hij de breedtecirkels steeds verder uit elkaar naarmate je de polen nadert. Het resultaat: een koers die alle meridianen onder dezelfde hoek snijdt, een zogenaamde loxodroom, verschijnt als een rechte lijn. Een stuurman kon dus met een lat een lijn trekken tussen twee havens, de hoek aflezen en die kompaskoers aanhouden.\n\n## Een voorbeeld\n\nGerard Mercator werd in 1512 geboren in Rupelmonde, aan de Schelde bij Kruibeke. Zijn beroemde kaart tekende hij pas in 1569, toen hij in Duisburg woonde, in het huidige Duitsland. Zijn kaart was bedoeld voor zeevaarders die in de zestiende eeuw steeds verder over de oceanen voeren en een praktische manier zochten om een koers uit te zetten. Vandaag hangt een Mercatorkaart nog in veel klaslokalen, en daar ontstaat het misverstand over de grootte van landen.\n\n## Wat onderzoek zegt\n\nVolgens Britannica toonde de Engelse wiskundige Edward Wright in 1599 voor het eerst wiskundig aan hoe de projectie werkt, en hij leverde tabellen om de vervormde afstanden te corrigeren. Mercator zelf had zijn methode dus vooral praktisch opgebouwd. National Geographic rekent voor hoe groot het effect is: op een Mercatorkaart lijken Groenland en Afrika ongeveer even groot, maar Afrika is in werkelijkheid zo’n 14 keer groter. Zuid-Amerika is meer dan acht keer groter dan Groenland, al lijkt het op de kaart kleiner.\n\n## Nuance of misverstand\n\nDe Mercatorkaart is niet ‘fout’. Ze doet precies waarvoor ze ontworpen is: navigeren met een vaste koers. Ze is wel een slechte keuze om oppervlaktes te vergelijken, omdat landen ver van de evenaar sterk opgeblazen worden. Let ook op: een rechte lijn op de kaart is niet de kortste weg over de aardbol. Vliegtuigen volgen een grootcirkel, die op een Mercatorkaart als een boog verschijnt. Er bestaat geen enkele platte kaart die tegelijk vormen, richtingen én oppervlaktes perfect bewaart; elke projectie is een keuze.\n\n## Wat je ermee doet\n\nWil je weten hoe groot een land echt is, gebruik dan een globe of een kaart met gelijke oppervlakte. Zie je een vluchtroute die op de kaart krom lijkt, dan weet je nu waarom. En wie langs de Schelde fietst, kan in Rupelmonde even stilstaan bij de man wiens keuze nog steeds bepaalt hoe miljarden mensen de wereld zien.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><line x1=\"60\" y1=\"20\" x2=\"60\" y2=\"190\" stroke=\"#fff\" stroke-width=\"1\" opacity=\"0.5\"/><line x1=\"100\" y1=\"20\" x2=\"100\" y2=\"190\" stroke=\"#fff\" stroke-width=\"1\" opacity=\"0.5\"/><line x1=\"140\" y1=\"20\" x2=\"140\" y2=\"190\" stroke=\"#fff\" stroke-width=\"1\" opacity=\"0.5\"/><line x1=\"180\" y1=\"20\" x2=\"180\" y2=\"190\" stroke=\"#fff\" stroke-width=\"1\" opacity=\"0.5\"/><line x1=\"220\" y1=\"20\" x2=\"220\" y2=\"190\" stroke=\"#fff\" stroke-width=\"1\" opacity=\"0.5\"/><line x1=\"260\" y1=\"20\" x2=\"260\" y2=\"190\" stroke=\"#fff\" stroke-width=\"1\" opacity=\"0.5\"/><line x1=\"300\" y1=\"20\" x2=\"300\" y2=\"190\" stroke=\"#fff\" stroke-width=\"1\" opacity=\"0.5\"/><line x1=\"40\" y1=\"20\" x2=\"320\" y2=\"20\" stroke=\"#fff\" stroke-width=\"1\" opacity=\"0.5\"/><line x1=\"40\" y1=\"55\" x2=\"320\" y2=\"55\" stroke=\"#fff\" stroke-width=\"1\" opacity=\"0.5\"/><line x1=\"40\" y1=\"80\" x2=\"320\" y2=\"80\" stroke=\"#fff\" stroke-width=\"1\" opacity=\"0.5\"/><line x1=\"40\" y1=\"105\" x2=\"320\" y2=\"105\" stroke=\"#fff\" stroke-width=\"1\" opacity=\"0.5\"/><line x1=\"40\" y1=\"130\" x2=\"320\" y2=\"130\" stroke=\"#fff\" stroke-width=\"1\" opacity=\"0.5\"/><line x1=\"40\" y1=\"155\" x2=\"320\" y2=\"155\" stroke=\"#fff\" stroke-width=\"1\" opacity=\"0.5\"/><line x1=\"40\" y1=\"190\" x2=\"320\" y2=\"190\" stroke=\"#fff\" stroke-width=\"1\" opacity=\"0.5\"/><line x1=\"40\" y1=\"105\" x2=\"320\" y2=\"105\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"292\" y=\"100\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">evenaar</text><path d=\"M70 175 L290 35\" stroke=\"#06d6a0\" stroke-width=\"2\" fill=\"none\" stroke-dasharray=\"6 5\"><animate attributeName=\"stroke-dashoffset\" from=\"22\" to=\"0\" dur=\"2s\" repeatCount=\"indefinite\"/></path><circle r=\"6\" fill=\"#ff6b9d\"><animateMotion path=\"M70 175 L290 35\" dur=\"5s\" repeatCount=\"indefinite\"/></circle><rect x=\"250\" y=\"22\" width=\"60\" height=\"30\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"height\" values=\"22;30;22\" dur=\"4s\" repeatCount=\"indefinite\"/></rect><text x=\"180\" y=\"208\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">rechte lijn = vaste kompaskoers; vakken groeien naar de pool</text></svg>",
+   "quiz": {
+    "q": "Wat bewaart de Mercatorprojectie correct?",
+    "o": [
+     "Vaste kompaskoersen als rechte lijnen",
+     "De echte oppervlakte van landen",
+     "De kortste vliegroute als rechte lijn"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Britannica – Mercator projection",
+     "u": "https://www.britannica.com/science/Mercator-projection"
+    },
+    {
+     "t": "Britannica – Gerardus Mercator",
+     "u": "https://www.britannica.com/biography/Gerardus-Mercator"
+    },
+    {
+     "t": "National Geographic – Selecting a Map Projection",
+     "u": "https://education.nationalgeographic.org/resource/selecting-map-projection/"
+    }
+   ],
+   "date": "2026-11-17T10:18:55Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "De saxofoon komt uit Dinant",
+   "body": "Adolphe Sax werd in 1814 in Dinant geboren als zoon van een instrumentenbouwer. In Parijs patenteerde hij in 1846 een hele familie saxofoons: een conische metalen buis met een enkel riet, zoals bij een klarinet. Concurrenten sleepten hem jarenlang voor de rechter. Hij stierf in 1894 in armoede.",
+   "take": "Wandel je in Dinant langs de Maas? Zoek het huis van Monsieur Sax op en luister daarna bewust naar een saxofoonsolo.",
+   "deep": "## Hoe het werkt\n\nEen saxofoon is een merkwaardige mengvorm. Het lichaam is een conische metalen buis, meestal van messing, met kleppen voor de vingers. Het mondstuk lijkt op dat van een klarinet: een enkel riet dat tegen het mondstuk trilt wanneer je blaast. Die trilling zet de luchtkolom in de buis in beweging, en door kleppen te openen of te sluiten verander je de lengte van die luchtkolom en dus de toonhoogte. Omdat de klank met een riet ontstaat, rekenen muziekkenners de saxofoon tot de houtblazers, ook al is hij van metaal.\n\n## Een voorbeeld\n\nAntoine-Joseph ‘Adolphe’ Sax werd op 6 november 1814 geboren in Dinant. Zijn vader Charles-Joseph bouwde blaasinstrumenten, maar ook piano’s, harpen en gitaren. Adolphe studeerde fluit en klarinet in Brussel en verhuisde in 1842 naar Parijs, toen de muziekhoofdstad van Europa. Een deel van zijn instrumenten is vandaag te zien in het Muziekinstrumentenmuseum (MIM) in Brussel.\n\n## Wat onderzoek zegt\n\nVolgens Britannica groeide de saxofoon uit Sax’ pogingen om de klank van de basklarinet te verbeteren. Hij liet zelf geen verslag na van hoe hij precies tot zijn uitvinding kwam, dus het exacte verhaal blijft onzeker. Zeker is dat hij in 1846 een octrooi kreeg dat niet één instrument, maar een hele familie saxofoons van verschillende groottes beschermde. Britannica vermeldt dat hij daarna tien jaar lang processen voerde tegen concurrerende instrumentenbouwers die zijn octrooien wilden laten vernietigen. Zijn bedrijf ging meermaals failliet; hij stierf op 7 februari 1894 in Parijs.\n\n## Nuance of misverstand\n\nSax had het instrument niet voor jazz bedacht: hij mikte op orkesten en militaire kapellen. Pas later werd de saxofoon een vast geluid in jazz en pop. Ook de rest van zijn carrière was geen succesverhaal: ondanks zijn uitvinding eindigde hij berooid. Een sterk idee garandeert dus geen rijkdom, zeker niet als anderen het makkelijk kunnen namaken.\n\n## Wat je ermee doet\n\nHoor je de volgende keer een saxofoon, denk dan aan het riet dat trilt en de metalen buis die de klank vormt. Ben je in Dinant, dan kun je het huis van Monsieur Sax bezoeken; in Brussel toont het MIM instrumenten van zijn hand. Een mooi voorbeeld om te tonen dat een Belgische uitvinding de hele wereld rond ging.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><path d=\"M60 70 L200 70 L200 150 Q200 185 240 185 L290 185 L300 150\" stroke=\"#fff\" stroke-width=\"2\" fill=\"none\"/><path d=\"M60 80 L190 80 L190 150 Q190 195 240 195 L300 195\" stroke=\"#fff\" stroke-width=\"1\" fill=\"none\" opacity=\"0.4\"/><rect x=\"40\" y=\"68\" width=\"20\" height=\"14\" fill=\"#ffd166\"><animateTransform attributeName=\"transform\" type=\"rotate\" values=\"0 40 75;-6 40 75;0 40 75\" dur=\"0.6s\" repeatCount=\"indefinite\"/></rect><text x=\"30\" y=\"58\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">enkel riet</text><circle r=\"5\" fill=\"#06d6a0\"><animateMotion path=\"M60 75 L195 75 L195 150 Q195 190 240 190 L295 175\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><path d=\"M310 150 Q320 168 310 186\" stroke=\"#ff6b9d\" stroke-width=\"2\" fill=\"none\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;0\" dur=\"3s\" begin=\"0.0s\" repeatCount=\"indefinite\"/></path><path d=\"M322 150 Q332 168 322 186\" stroke=\"#ff6b9d\" stroke-width=\"2\" fill=\"none\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;0\" dur=\"3s\" begin=\"0.5s\" repeatCount=\"indefinite\"/></path><path d=\"M334 150 Q344 168 334 186\" stroke=\"#ff6b9d\" stroke-width=\"2\" fill=\"none\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;0\" dur=\"3s\" begin=\"1.0s\" repeatCount=\"indefinite\"/></path><text x=\"130\" y=\"110\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">conische koperen buis</text><text x=\"300\" y=\"130\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">klank</text><text x=\"180\" y=\"212\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">riet trilt → lucht trilt in de buis → toon</text></svg>",
+   "quiz": {
+    "q": "Waarom hoort de saxofoon bij de houtblazers?",
+    "o": [
+     "Omdat de eerste exemplaren van hout waren",
+     "Omdat de klank ontstaat met een riet",
+     "Omdat Sax hem zo patenteerde"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Britannica – Adolphe Sax",
+     "u": "https://www.britannica.com/biography/Antoine-Joseph-Sax"
+    },
+    {
+     "t": "Britannica – Saxophone",
+     "u": "https://www.britannica.com/art/saxophone"
+    },
+    {
+     "t": "MIM – Adolphe Sax’s collection",
+     "u": "https://www.mim.be/en/adolphe-saxs-collection"
+    }
+   ],
+   "date": "2026-11-17T10:18:55Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Een bot vol streepjes van 20.000 jaar oud",
+   "body": "In 1950 vond de Belgische geoloog Jean de Heinzelin bij Ishango, aan het Edwardmeer in Congo, een bot van 10 cm met groepjes kerven. Het is bijna 20.000 jaar oud. Sommige groepen lijken te verdubbelen: 3 en 6, 4 en 8, 5 en 10. Het ligt in het Museum voor Natuurwetenschappen in Brussel.",
+   "take": "Ga in Brussel zelf de kerven tellen en bedenk welke verklaring jij het sterkst vindt.",
+   "deep": "## Hoe het werkt\n\nHet Ishango-bot is een stuk bot van ongeveer 10 centimeter, met bovenaan een fragmentje kwarts dat er stevig in vastzit. Langs de zijkanten staan kerven, netjes in groepjes geordend in kolommen. Precies die ordening maakt het bot bijzonder: het lijkt geen willekeurige versiering. Sommige groepjes staan naast hun dubbel, zoals drie naast zes, vier naast acht en vijf naast tien. Wie de kerven telt, ziet patronen die je eerder bij tellen of rekenen verwacht dan bij louter decoratie.\n\n## Een voorbeeld\n\nHet bot werd in 1950 opgegraven door Jean de Heinzelin, een geoloog van het Koninklijk Belgisch Instituut voor Natuurwetenschappen. Hij leidde opgravingen aan de Congolese oever van het Edwardmeer, vlakbij Ishango. Vandaag ligt het bot in het Museum voor Natuurwetenschappen in Brussel, waar je de kerven via een interactieve opstelling van dichtbij kunt bekijken. Een stukje vroege Afrikaanse geschiedenis ligt dus gewoon in Brussel.\n\n## Wat onderzoek zegt\n\nDe ouderdom werd herzien: vroeger schatte men het bot op 8.500 tot 11.000 jaar, nu houdt het museum het op bijna 20.000 jaar. Over de betekenis bestaan meerdere theorieën. De Heinzelin zelf zag er sporen van eenvoudige rekenkunde in. De Amerikaanse onderzoeker Alexander Marshack opperde dat het een maankalender was. De onderzoekers Vladimir Pletser en Dirk Huylebrouck stelden voor dat de kerven wijzen op tellen met 12 als basis, met 3 en 4 als tussenstappen.\n\n## Nuance of misverstand\n\nJe leest soms dat het Ishango-bot ‘het oudste wiskundige voorwerp ter wereld’ is of dat de makers priemgetallen kenden. Dat is te stellig. Er zijn oudere bewerkte botten met kerven bekend, en sommige onderzoekers denken dat de kerven gewoon voor een betere grip zorgden. Dat drie verschillende verklaringen naast elkaar bestaan, toont vooral hoe moeilijk het is om de gedachten van mensen van 20.000 jaar geleden te reconstrueren uit één voorwerp.\n\n## Wat je ermee doet\n\nBezoek het bot in Brussel en tel de groepjes zelf. Vraag je af welke uitleg het best past bij wat je ziet. Het is een goede oefening in wetenschappelijk denken: onderscheid wat je zeker weet, zoals de ouderdom en de vindplaats, van wat een interpretatie blijft.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"40\" y=\"85\" width=\"280\" height=\"50\" rx=\"22\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M320 100 L340 92 L336 110 Z\" fill=\"#06d6a0\"/><text x=\"330\" y=\"80\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">kwarts</text><g stroke=\"#ffd166\" stroke-width=\"2\" opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;1;1;0.2\" keyTimes=\"0;0.15;0.8;1\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/><line x1=\"60\" y1=\"95\" x2=\"60\" y2=\"125\"/><line x1=\"65\" y1=\"95\" x2=\"65\" y2=\"125\"/><line x1=\"70\" y1=\"95\" x2=\"70\" y2=\"125\"/></g><g stroke=\"#ffd166\" stroke-width=\"2\" opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;1;1;0.2\" keyTimes=\"0;0.15;0.8;1\" dur=\"6s\" begin=\"1s\" repeatCount=\"indefinite\"/><line x1=\"85\" y1=\"95\" x2=\"85\" y2=\"125\"/><line x1=\"90\" y1=\"95\" x2=\"90\" y2=\"125\"/><line x1=\"95\" y1=\"95\" x2=\"95\" y2=\"125\"/><line x1=\"100\" y1=\"95\" x2=\"100\" y2=\"125\"/><line x1=\"105\" y1=\"95\" x2=\"105\" y2=\"125\"/><line x1=\"110\" y1=\"95\" x2=\"110\" y2=\"125\"/></g><g stroke=\"#ffd166\" stroke-width=\"2\" opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;1;1;0.2\" keyTimes=\"0;0.15;0.8;1\" dur=\"6s\" begin=\"2s\" repeatCount=\"indefinite\"/><line x1=\"125\" y1=\"95\" x2=\"125\" y2=\"125\"/><line x1=\"130\" y1=\"95\" x2=\"130\" y2=\"125\"/><line x1=\"135\" y1=\"95\" x2=\"135\" y2=\"125\"/><line x1=\"140\" y1=\"95\" x2=\"140\" y2=\"125\"/></g><g stroke=\"#ffd166\" stroke-width=\"2\" opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;1;1;0.2\" keyTimes=\"0;0.15;0.8;1\" dur=\"6s\" begin=\"3s\" repeatCount=\"indefinite\"/><line x1=\"155\" y1=\"95\" x2=\"155\" y2=\"125\"/><line x1=\"160\" y1=\"95\" x2=\"160\" y2=\"125\"/><line x1=\"165\" y1=\"95\" x2=\"165\" y2=\"125\"/><line x1=\"170\" y1=\"95\" x2=\"170\" y2=\"125\"/><line x1=\"175\" y1=\"95\" x2=\"175\" y2=\"125\"/><line x1=\"180\" y1=\"95\" x2=\"180\" y2=\"125\"/><line x1=\"185\" y1=\"95\" x2=\"185\" y2=\"125\"/><line x1=\"190\" y1=\"95\" x2=\"190\" y2=\"125\"/></g><g stroke=\"#ffd166\" stroke-width=\"2\" opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;1;1;0.2\" keyTimes=\"0;0.15;0.8;1\" dur=\"6s\" begin=\"4s\" repeatCount=\"indefinite\"/><line x1=\"205\" y1=\"95\" x2=\"205\" y2=\"125\"/><line x1=\"210\" y1=\"95\" x2=\"210\" y2=\"125\"/><line x1=\"215\" y1=\"95\" x2=\"215\" y2=\"125\"/><line x1=\"220\" y1=\"95\" x2=\"220\" y2=\"125\"/><line x1=\"225\" y1=\"95\" x2=\"225\" y2=\"125\"/></g><g stroke=\"#ffd166\" stroke-width=\"2\" opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;1;1;0.2\" keyTimes=\"0;0.15;0.8;1\" dur=\"6s\" begin=\"5s\" repeatCount=\"indefinite\"/><line x1=\"240\" y1=\"95\" x2=\"240\" y2=\"125\"/><line x1=\"245\" y1=\"95\" x2=\"245\" y2=\"125\"/><line x1=\"250\" y1=\"95\" x2=\"250\" y2=\"125\"/><line x1=\"255\" y1=\"95\" x2=\"255\" y2=\"125\"/><line x1=\"260\" y1=\"95\" x2=\"260\" y2=\"125\"/><line x1=\"265\" y1=\"95\" x2=\"265\" y2=\"125\"/><line x1=\"270\" y1=\"95\" x2=\"270\" y2=\"125\"/><line x1=\"275\" y1=\"95\" x2=\"275\" y2=\"125\"/><line x1=\"280\" y1=\"95\" x2=\"280\" y2=\"125\"/><line x1=\"285\" y1=\"95\" x2=\"285\" y2=\"125\"/></g><text x=\"90\" y=\"160\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">3 en 6</text><text x=\"175\" y=\"160\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">4 en 8</text><text x=\"265\" y=\"160\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">5 en 10</text><text x=\"180\" y=\"190\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">telling, maankalender of rekenhulp?</text><text x=\"180\" y=\"40\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Ishango-bot, ca. 20.000 jaar oud</text></svg>",
+   "quiz": {
+    "q": "Waar wordt het Ishango-bot vandaag bewaard?",
+    "o": [
+     "In een museum in Kinshasa",
+     "In het British Museum in Londen",
+     "In het Museum voor Natuurwetenschappen in Brussel"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "KBIN – The Ishango Bone",
+     "u": "https://www.naturalsciences.be/en/museum/exhibitions-activities/250-years-of-natural-sciences/the-ishango-bone"
+    },
+    {
+     "t": "Pletser & Huylebrouck – base 12 (arXiv)",
+     "u": "https://arxiv.org/abs/1204.1019"
+    }
+   ],
+   "date": "2026-11-17T10:18:55Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Papiergeld ontstond omdat ijzeren munten te zwaar waren",
+   "body": "In Sichuan, China, betaalden mensen rond het jaar 1000 met ijzeren munten: zwaar en weinig waard. Handelaars lieten hun munten in bewaarhuizen achter en kregen een papieren bewijs, de jiaozi. Dat papiertje ging zelf rond als betaalmiddel. Rond 1024 nam de Song-staat de uitgifte over.",
+   "take": "Bekijk een eurobiljet: het werkt alleen omdat iedereen erop vertrouwt. Dat principe is duizend jaar oud.",
+   "deep": "## Hoe het werkt\n\nHet begon met een praktisch probleem. In de provincie Sichuan gebruikte men ijzeren munten, omdat koper er schaars was. IJzer is zwaar en per munt weinig waard: voor een grote aankoop moest je een flinke last meesleuren. Rijke handelaars brachten hun munten daarom naar bewaarhuizen, de zogenaamde jiaozi-winkels, die er een papieren ontvangstbewijs voor gaven. Dat bewijs kon je inwisselen voor de munten, tegen een kleine vergoeding. Al snel gebruikten mensen het bewijs zelf om mee te betalen: wie het papiertje had, had recht op het metaal.\n\n## Een voorbeeld\n\nVergelijk het met een vestiairebonnetje op een fuif in Gent: niemand wil met je jas rondlopen, dus krijg je een bonnetje. Stel je nu voor dat mensen die bonnetjes onderling beginnen te ruilen, omdat iedereen weet dat je er een jas mee kunt ophalen. Dan is het bonnetje zelf iets waard geworden. Zo ongeveer ontstond papiergeld in Sichuan.\n\n## Wat onderzoek zegt\n\nVolgens de World History Encyclopedia waren de vroege jiaozi private papieren, volledig gedekt door ijzeren munten. Toen sommige private uitgevers hun beloftes niet nakwamen, greep de overheid van de Noordelijke Song-dynastie in en nam ze rond 1023 tot 1024 de uitgifte over. Britannica benadrukt dat papiergeld in Song-China nooit de enige munt was: bronzen munten bleven het eigenlijke wettige betaalmiddel. Later drukte de staat meer biljetten dan gedekt was, waardoor ze aan waarde verloren.\n\n## Nuance of misverstand\n\nJe leest soms dat China ‘het geld uitvond’. Munten bestonden al veel langer; China was wel de eerste plek waar een staat op grote schaal papiergeld uitgaf. Er waren onder de Tang-dynastie al vroegere vormen van papieren waardebewijzen, dus ‘eerste’ hangt af van je definitie. En het verhaal toont meteen het grote risico van papiergeld: wie te veel drukt, krijgt inflatie.\n\n## Wat je ermee doet\n\nKijk eens naar een eurobiljet. Het papier zelf is bijna niets waard; het werkt omdat iedereen erop vertrouwt dat anderen het aanvaarden en dat de Europese Centrale Bank er niet te veel van uitgeeft. Begrijp je dat vertrouwen, dan begrijp je waarom centrale banken zo bezorgd zijn over inflatie.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><circle cx=\"50\" cy=\"80\" r=\"9\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"72\" cy=\"80\" r=\"9\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"94\" cy=\"80\" r=\"9\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"50\" cy=\"102\" r=\"9\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"72\" cy=\"102\" r=\"9\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"94\" cy=\"102\" r=\"9\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"50\" cy=\"124\" r=\"9\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"72\" cy=\"124\" r=\"9\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"94\" cy=\"124\" r=\"9\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"72\" y=\"165\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">zware ijzeren munten</text><rect x=\"140\" y=\"80\" width=\"70\" height=\"60\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"175\" y=\"114\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">depot</text><line x1=\"110\" y1=\"110\" x2=\"132\" y2=\"110\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M132 105 L140 110 L132 115 Z\" fill=\"#fff\"/><rect x=\"250\" y=\"95\" width=\"60\" height=\"32\" fill=\"#ffd166\" opacity=\"0.9\"><animateMotion path=\"M-30 0 L0 0\" dur=\"3s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"0;0.9;0.9\" dur=\"3s\" repeatCount=\"indefinite\"/></rect><text x=\"280\" y=\"150\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">papieren bewijs</text><text x=\"280\" y=\"166\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">= geld</text><text x=\"180\" y=\"40\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Sichuan, 11e eeuw</text><text x=\"180\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">vanaf ca. 1024 geeft de staat de biljetten uit</text></svg>",
+   "quiz": {
+    "q": "Waarom ontstond de jiaozi in Sichuan?",
+    "o": [
+     "Er was te weinig papier voor boeken",
+     "De ijzeren munten waren zwaar en weinig waard",
+     "De keizer verbood alle munten"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "World History Encyclopedia – Paper Money in Song China",
+     "u": "https://www.worldhistory.org/article/3002/paper-money-in-song-china/"
+    },
+    {
+     "t": "Britannica – Song dynasty",
+     "u": "https://www.britannica.com/topic/Song-dynasty"
+    }
+   ],
+   "date": "2026-11-17T10:18:55Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Je uur telt 60 minuten dankzij Mesopotamië",
+   "body": "De Sumeriërs rekenden niet per 10 maar per 60, en de Babyloniërs namen dat over. Hun sterrenkundigen deelden met dat stelsel ook hoeken en tijd op. Zestig is handig: je kunt het delen door 2, 3, 4, 5, 6 en 10. Daarom heeft je uur 60 minuten en je minuut 60 seconden.",
+   "take": "Rekenen met tijd? Denk in delen van 60: een kwartier is 15, een derde uur 20 minuten.",
+   "deep": "## Hoe het werkt\n\nIn ons tiendelig stelsel schuift elk cijfer een macht van tien op: tientallen, honderdtallen. In een zestigtallig stelsel gebeurt hetzelfde met machten van zestig. Ook achter de komma werkt het zo: het eerste deel is een zestigste, het tweede een zestigste van een zestigste. Precies die twee stappen leven voort als minuten en seconden. Een uur gedeeld door zestig geeft minuten, een minuut gedeeld door zestig geeft seconden. Ook hoeken meten we zo: een graad heeft zestig boogminuten.\n\n## Een voorbeeld\n\nKijk naar een treinregeling of je agenda. Een vergadering van drie kwartier duurt 45 minuten, een derde van een uur is 20 minuten, een zesde 10 minuten. Allemaal mooie gehele getallen. Had een uur honderd minuten gehad, dan was een derde van een uur 33,33 minuten geweest. Wie een recept volgt of een parkeerticket berekent, profiteert dus dagelijks van een keuze van duizenden jaren geleden.\n\n## Wat onderzoek zegt\n\nScientific American legt uit dat de Babyloniërs hun sterrenkundige berekeningen maakten in het zestigtallige stelsel dat ze van de Sumeriërs hadden geërfd, die het rond 2000 voor Christus ontwikkelden. Het NIST, het Amerikaanse instituut voor meetstandaarden, wijst erop dat zestig deelbaar is door 2, 3, 4, 5, 6 en 10, wat tijdsindelingen erg eenvoudig maakt. Britannica geeft nog een economische reden: hun belangrijkste gewichts- en geldeenheden waren de mina, die 60 sjekel telde, en het talent, dat 60 mina telde.\n\n## Nuance of misverstand\n\nWaarom precies zestig gekozen werd, weet niemand zeker. Handel, sterrenkunde en handige deelbaarheid worden allemaal genoemd. Bovendien hadden de Babyloniërs geen klokken met minuten. Volgens Scientific American deelden latere uurwerken het uur lange tijd in helften, derden, kwarten of soms twaalf delen, maar niet in zestig. Minuten en seconden als praktische tijdseenheden zijn dus veel jonger dan het rekenstelsel waar ze uit voortkomen.\n\n## Wat je ermee doet\n\nGebruik het voordeel van zestig bewust. Plan je dag in blokken van 15, 20 of 30 minuten: die passen netjes in een uur. Moet je tijd omrekenen naar decimalen, bijvoorbeeld voor een urenstaat, onthoud dan dat een kwartier 0,25 uur is en twintig minuten ongeveer 0,33 uur.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><circle cx=\"180\" cy=\"110\" r=\"75\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"180\" y1=\"38\" x2=\"180\" y2=\"46\" stroke=\"#fff\" stroke-width=\"2\" transform=\"rotate(0 180 110)\"/><line x1=\"180\" y1=\"38\" x2=\"180\" y2=\"46\" stroke=\"#fff\" stroke-width=\"2\" transform=\"rotate(30 180 110)\"/><line x1=\"180\" y1=\"38\" x2=\"180\" y2=\"46\" stroke=\"#fff\" stroke-width=\"2\" transform=\"rotate(60 180 110)\"/><line x1=\"180\" y1=\"38\" x2=\"180\" y2=\"46\" stroke=\"#fff\" stroke-width=\"2\" transform=\"rotate(90 180 110)\"/><line x1=\"180\" y1=\"38\" x2=\"180\" y2=\"46\" stroke=\"#fff\" stroke-width=\"2\" transform=\"rotate(120 180 110)\"/><line x1=\"180\" y1=\"38\" x2=\"180\" y2=\"46\" stroke=\"#fff\" stroke-width=\"2\" transform=\"rotate(150 180 110)\"/><line x1=\"180\" y1=\"38\" x2=\"180\" y2=\"46\" stroke=\"#fff\" stroke-width=\"2\" transform=\"rotate(180 180 110)\"/><line x1=\"180\" y1=\"38\" x2=\"180\" y2=\"46\" stroke=\"#fff\" stroke-width=\"2\" transform=\"rotate(210 180 110)\"/><line x1=\"180\" y1=\"38\" x2=\"180\" y2=\"46\" stroke=\"#fff\" stroke-width=\"2\" transform=\"rotate(240 180 110)\"/><line x1=\"180\" y1=\"38\" x2=\"180\" y2=\"46\" stroke=\"#fff\" stroke-width=\"2\" transform=\"rotate(270 180 110)\"/><line x1=\"180\" y1=\"38\" x2=\"180\" y2=\"46\" stroke=\"#fff\" stroke-width=\"2\" transform=\"rotate(300 180 110)\"/><line x1=\"180\" y1=\"38\" x2=\"180\" y2=\"46\" stroke=\"#fff\" stroke-width=\"2\" transform=\"rotate(330 180 110)\"/><line x1=\"180\" y1=\"110\" x2=\"180\" y2=\"48\" stroke=\"#ffd166\" stroke-width=\"2\"><animateTransform attributeName=\"transform\" type=\"rotate\" from=\"0 180 110\" to=\"360 180 110\" dur=\"8s\" repeatCount=\"indefinite\"/></line><circle cx=\"180\" cy=\"110\" r=\"4\" fill=\"#ffd166\"/><text x=\"40\" y=\"60\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">60 deelbaar door</text><text x=\"40\" y=\"78\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">2, 3, 4, 5, 6, 10</text><text x=\"300\" y=\"60\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1 mina</text><text x=\"300\" y=\"78\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">= 60 sjekel</text><text x=\"180\" y=\"212\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Sumerisch-Babylonisch tellen per 60</text></svg>",
+   "quiz": {
+    "q": "Welk volk ontwikkelde het rekenen per 60 volgens Scientific American?",
+    "o": [
+     "De Sumeriërs",
+     "De Romeinen",
+     "De oude Grieken"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Scientific American – Why 60 minutes?",
+     "u": "https://www.scientificamerican.com/article/experts-time-division-days-hours-minutes/"
+    },
+    {
+     "t": "NIST – Timekeeping and clocks FAQs",
+     "u": "https://www.nist.gov/pml/time-and-frequency-division/timekeeping-and-clocks-faqs"
+    },
+    {
+     "t": "Britannica – Sexagesimal number system",
+     "u": "https://www.britannica.com/science/sexagesimal-number-system"
+    }
+   ],
+   "date": "2026-11-17T10:18:55Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Je friet begon 8000 jaar geleden in de Andes",
+   "body": "Rond het Titicacameer, op de grens van Peru en Bolivia, begonnen mensen zo’n 8000 jaar geleden wilde aardappelen te telen. Ze bedachten ook chuño: aardappelen die ’s nachts bevriezen en overdag drogen, jarenlang houdbaar. In 1565 ging er al een lading aardappelen van Tenerife naar Antwerpen.",
+   "take": "Eet je frietjes? Weet dat je een Andesgewas eet dat via Spaanse schepen en Antwerpen in onze keuken belandde.",
+   "deep": "## Hoe het werkt\n\nWilde aardappelplanten groeien in de Andes. Door telkens de beste knollen opnieuw te planten, maakten boeren er over vele generaties een betrouwbaar voedselgewas van. Omdat verse knollen snel bederven, ontwikkelden Andesvolken chuño. Ze legden kleine aardappelen buiten op grote hoogte, waar ze ’s nachts bevriezen. Daarna trapten ze het vocht eruit en lieten ze de knollen in de zon drogen. Het resultaat is een licht, gedroogd product dat jaren bewaard kan worden: een voorraad tegen misoogsten.\n\n## Een voorbeeld\n\nDe weg naar onze frietkot loopt via Spanje. Volgens Smithsonian Magazine zijn er documenten van aardappelen die in 1565 van Tenerife, op de Canarische Eilanden, naar Antwerpen werden verscheept. De Nederlanden stonden toen onder Spaans bestuur, wat de handel vergemakkelijkte. Het duurde nog heel lang voor de aardappel hier een volksvoedsel werd, maar de haven van Antwerpen hoorde dus bij de eersten in Europa die de knol zagen.\n\n## Wat onderzoek zegt\n\nDe FAO en het Internationaal Aardappelcentrum (CIP) in Lima situeren de domesticatie rond het Titicaceameer, zo’n 8000 jaar geleden. Archeologisch bewijs is moeilijker, want knollen vergaan. Een studie in PNAS uit 2016 vond zetmeelresten van aardappelen op de site Jiskairumoko in het Titicacabekken, gedateerd tussen ongeveer 3400 en 1600 voor Christus. Volgens FAO werd de aardappel op de Canarische Eilanden al rond het midden van de zestiende eeuw geteeld. In 1596 gaf de botanicus Gaspard Bauhin de plant zijn eerste wetenschappelijke beschrijving.\n\n## Nuance of misverstand\n\n‘8000 jaar’ is een schatting, geen exacte datum: de domesticatie verliep geleidelijk en het harde bewijs is jonger. Ook frieten zelf zijn natuurlijk een veel recentere uitvinding; over wie ze precies uitvond, bestaat geen sluitend bewijs. Hou dus het verschil voor ogen tussen de geschiedenis van het gewas, die goed gedocumenteerd is, en verhalen over het gerecht, die vaak legendes zijn.\n\n## Wat je ermee doet\n\nVolgende keer aan de frituur: de knol op je bord heeft een reis van duizenden jaren en kilometers achter de rug, van de Andes via Tenerife naar Antwerpen. En chuño toont een slimme les die nog altijd geldt: drogen en bevriezen zijn manieren om voedsel lang te bewaren en verspilling te vermijden.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><path d=\"M30 170 L80 90 L110 130 L150 70 L190 170 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"110\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Titicacameer</text><text x=\"110\" y=\"206\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ca. 8000 jaar geleden</text><path d=\"M150 60 Q230 10 300 70\" stroke=\"#fff\" stroke-width=\"2\" fill=\"none\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" from=\"24\" to=\"0\" dur=\"2s\" repeatCount=\"indefinite\"/></path><path d=\"M294 62 L302 72 L290 74 Z\" fill=\"#fff\"/><ellipse rx=\"10\" ry=\"7\" fill=\"#ffd166\"><animateMotion path=\"M150 60 Q230 10 300 70\" dur=\"5s\" repeatCount=\"indefinite\"/></ellipse><rect x=\"270\" y=\"85\" width=\"70\" height=\"40\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"305\" y=\"110\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Antwerpen</text><text x=\"305\" y=\"145\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1565: lading</text><text x=\"305\" y=\"161\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">uit Tenerife</text></svg>",
+   "quiz": {
+    "q": "Wat is chuño?",
+    "o": [
+     "Een Spaans aardappelgerecht uit Tenerife",
+     "Gevriesdroogde aardappel uit de Andes",
+     "Een wilde aardappelsoort uit Mexico"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "FAO – The potato’s travel through ages and continents",
+     "u": "https://www.fao.org/newsroom/story/the-potatos-travel-through-ages-and-continents/en"
+    },
+    {
+     "t": "Smithsonian – How the Potato Changed the World",
+     "u": "https://www.smithsonianmag.com/history/how-the-potato-changed-the-world-108470605/"
+    },
+    {
+     "t": "PNAS – Titicaca Basin microbotanical evidence",
+     "u": "https://www.pnas.org/content/113/48/13672.full.pdf"
+    }
+   ],
+   "date": "2026-11-17T10:18:55Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Baby’s horen klanken die jij niet meer hoort",
+   "body": "Tot ongeveer 6 maanden onderscheiden baby’s klanken uit alle talen ter wereld. Tegen hun eerste verjaardag worden ze beter in de klanken van hun moedertaal en slechter in vreemde klanken. Janet Werker toonde in 1984 dat Engelstalige baby’s van 10-12 maanden een Hindi-contrast niet meer hoorden.",
+   "take": "Wil je een baby meertalig laten opgroeien? Laat echte mensen tegen het kind praten; een scherm werkt niet.",
+   "deep": "## Hoe het werkt\n\nBij de geboorte is een baby een soort wereldburger: hij kan de medeklinkers en klinkers van alle talen van elkaar onderscheiden. Tussen 6 en 12 maanden gebeurt er iets wat onderzoekers perceptuele vernauwing noemen. Het brein houdt bij welke klanken vaak voorkomen in de taal rondom. Verschillen die in de moedertaal betekenis hebben, worden scherper gehoord. Verschillen die er niet toe doen, vallen weg. Het kind leert zo efficiënt luisteren naar zijn eigen taal.\n\n## Een voorbeeld\n\nEen Nederlandstalige volwassene hoort moeiteloos het verschil tussen ‘pak’ en ‘bak’, maar heeft het moeilijk met klankverschillen uit talen die hij nooit hoorde. In het Hindi bestaat bijvoorbeeld een verschil tussen een ‘t’ met de tong tegen de tanden en een ‘t’ met de tong naar achteren gekruld. Voor een baby van zes maanden in Antwerpen klinkt dat verschil duidelijk; voor zijn ouders niet.\n\n## Wat onderzoek zegt\n\nJanet Werker en Richard Tees testten in 1984 Engelstalige baby’s op twee niet-Engelse contrasten: een uit het Hindi en een uit het Nthlakampx, een inheemse taal uit Canada. Baby’s van 6 tot 8 maanden hoorden de verschillen, baby’s van 10 tot 12 maanden meestal niet meer. Baby’s die Hindi of Nthlakampx thuis hoorden, bleven het onderscheid wel maken. Het lab van Patricia Kuhl aan de University of Washington vond in 2003 dat Amerikaanse baby’s van 9 maanden Mandarijnse klanken leerden onderscheiden na minder dan vijf uur blootstelling, maar alleen van een levende spreker; dezelfde inhoud via video of audio had geen effect.\n\n## Nuance of misverstand\n\nHet venster sluit niet hermetisch. Volwassenen kunnen nieuwe klanken nog leren, alleen kost het meer moeite. Latere studies tonen ook dat de daling niet bij elk contrast even sterk of even vroeg optreedt. Het idee dat ‘na je eerste jaar alles verloren is’ is dus te zwart-wit: het gaat om een verschuiving in wat makkelijk is, niet om een definitief verlies.\n\n## Wat je ermee doet\n\nPraat, zing en lees veel met baby’s, in elke taal die je goed spreekt. Wil je dat een kind een tweede taal oppikt, zorg dan voor echte interactie met mensen die die taal spreken, zoals een grootouder of een onthaalouder, eerder dan filmpjes. En wie als volwassene een taal leert, kan vreemde klanken trainen door bewust naar minimale paren te luisteren.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><line x1=\"40\" y1=\"180\" x2=\"330\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"40\" y1=\"180\" x2=\"40\" y2=\"40\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"70\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">6 mnd</text><text x=\"300\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">12 mnd</text><text x=\"185\" y=\"214\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">leeftijd</text><path d=\"M60 70 L300 50\" stroke=\"#06d6a0\" stroke-width=\"2\" fill=\"none\" stroke-dasharray=\"300\" stroke-dashoffset=\"300\"><animate attributeName=\"stroke-dashoffset\" values=\"300;0;0\" dur=\"5s\" repeatCount=\"indefinite\"/></path><path d=\"M60 75 L300 160\" stroke=\"#ff6b9d\" stroke-width=\"2\" fill=\"none\" stroke-dasharray=\"300\" stroke-dashoffset=\"300\"><animate attributeName=\"stroke-dashoffset\" values=\"300;0;0\" dur=\"5s\" repeatCount=\"indefinite\"/></path><text x=\"300\" y=\"42\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">eigen taal ↑</text><text x=\"300\" y=\"150\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">vreemde klanken ↓</text><text x=\"50\" y=\"30\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">klanken onderscheiden</text></svg>",
+   "quiz": {
+    "q": "Wat vond Kuhls team bij baby’s die Mandarijn hoorden?",
+    "o": [
+     "Video werkte even goed als een levende spreker",
+     "Alleen audio werkte, video niet",
+     "Alleen een levende spreker hielp hen klanken leren"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "University of Washington – Social interaction and infant language",
+     "u": "https://www.washington.edu/news/2003/07/14/social-interaction-plays-key-role-in-how-infants-learn-language-studies-show/"
+    },
+    {
+     "t": "Kuhl et al., PNAS 2014 (PMC)",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4128155/"
+    },
+    {
+     "t": "UC Irvine – Werker & Tees samengevat",
+     "u": "https://sites.socsci.uci.edu/~lpearl/courses/psych156A_2009win/lectures/Lecture2-Sounds1.pdf"
+    }
+   ],
+   "date": "2026-11-17T10:18:55Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Klinkers schrijven was een Griekse vernieuwing",
+   "body": "Het Fenicische schrift had alleen tekens voor medeklinkers; klinkers moest je zelf invullen. Toen de Grieken het overnamen, ten laatste in de 8e eeuw voor Christus, gaven ze vijf tekens een nieuwe taak. Alef, he, yod, ayin en waw werden alfa, epsilon, iota, omikron en ypsilon: a, e, i, o, u.",
+   "take": "Probeer een zin zonder klinkers te lezen: ‘mrgn gn k nr d mrkt’. Merk hoeveel je gokt.",
+   "deep": "## Hoe het werkt\n\nEen alfabet koppelt tekens aan klanken. Het Fenicische schrift deed dat alleen voor medeklinkers. Voor Semitische talen werkte dat behoorlijk, omdat de kern van veel woorden in de medeklinkers zit. Het Grieks heeft echter veel woorden waarin klinkers het verschil maken. Toen Griekse handelaars het Fenicische schrift leerden kennen, hielden ze sommige tekens voor klanken die het Grieks niet had over. Die gebruikten ze voor klinkers. Zo ontstond een schrift dat medeklinkers én klinkers expliciet noteert.\n\n## Een voorbeeld\n\nLees deze zin: ‘k g mrgn mt d trn nr Brgg’. Je raadt waarschijnlijk ‘Ik ga morgen met de trein naar Brugge’, maar je moet gokken. ‘Brgg’ kan ook iets anders zijn als je de context mist. Precies dat probleem verdween toen de Grieken klinkers gingen schrijven. Ons Latijnse alfabet, waarmee jij dit leest, stamt via het Grieks af van dat systeem.\n\n## Wat onderzoek zegt\n\nBritannica beschrijft hoe de Grieken in het kader van hun handelscontacten het alfabet van de Feniciërs overnamen, ten laatste in de achtste eeuw voor Christus, maar waarschijnlijk vroeger. Het Fenicische alfabet had aparte tekens voor de Semitische medeklinkers, maar liet klinkers onuitgedrukt. De Semitische tekens alef, he, yod, ayin en waw werden in het Grieks alfa, epsilon, iota, omikron en ypsilon. Het Metropolitan Museum vertelt hoe de Britse egyptoloog Alan Gardiner inscripties uit de Sinaï herkende als de lang gezochte voorouder van het Fenicische en dus ook het Griekse alfabet.\n\n## Nuance of misverstand\n\nDe Grieken vonden het schrift niet uit, en ze bedachten ook geen volledig nieuwe tekens: ze hergebruikten bestaande. Schrijven zonder klinkers is evenmin primitief. Arabisch en Hebreeuws schrijven klinkers vandaag nog vaak niet, en lezers hebben daar geen last van omdat de woordstructuur van die talen de klinkers voorspelbaar maakt. Een schrift past zich aan de taal aan die ermee geschreven wordt.\n\n## Wat je ermee doet\n\nLeer je een taal met een ander schrift, zoals Grieks, Russisch of Arabisch, kijk dan hoe dat schrift met klinkers omgaat. Dat zegt veel over de taal zelf. En als je sms’t in afkortingen zonder klinkers, besef dat je eigenlijk een eeuwenoude schrijfwijze imiteert.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"70\" y=\"30\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Fenicisch</text><text x=\"185\" y=\"30\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Grieks</text><text x=\"300\" y=\"30\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">klinker</text><text x=\"70\" y=\"62\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">ʾalef</text><text x=\"185\" y=\"62\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">alfa</text><text x=\"300\" y=\"62\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\" opacity=\"0.2\">a<animate attributeName=\"opacity\" values=\"0.2;1;1;0.2\" keyTimes=\"0;0.1;0.8;1\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/></text><line x1=\"105\" y1=\"58\" x2=\"140\" y2=\"58\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M140 54 L148 58 L140 62 Z\" fill=\"#fff\"/><line x1=\"225\" y1=\"58\" x2=\"270\" y2=\"58\" stroke=\"#06d6a0\" stroke-width=\"2\"/><path d=\"M270 54 L278 58 L270 62 Z\" fill=\"#06d6a0\"/><text x=\"70\" y=\"90\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">he</text><text x=\"185\" y=\"90\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">epsilon</text><text x=\"300\" y=\"90\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\" opacity=\"0.2\">e<animate attributeName=\"opacity\" values=\"0.2;1;1;0.2\" keyTimes=\"0;0.1;0.8;1\" dur=\"6s\" begin=\"1s\" repeatCount=\"indefinite\"/></text><line x1=\"105\" y1=\"86\" x2=\"140\" y2=\"86\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M140 82 L148 86 L140 90 Z\" fill=\"#fff\"/><line x1=\"225\" y1=\"86\" x2=\"270\" y2=\"86\" stroke=\"#06d6a0\" stroke-width=\"2\"/><path d=\"M270 82 L278 86 L270 90 Z\" fill=\"#06d6a0\"/><text x=\"70\" y=\"118\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">yod</text><text x=\"185\" y=\"118\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">iota</text><text x=\"300\" y=\"118\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\" opacity=\"0.2\">i<animate attributeName=\"opacity\" values=\"0.2;1;1;0.2\" keyTimes=\"0;0.1;0.8;1\" dur=\"6s\" begin=\"2s\" repeatCount=\"indefinite\"/></text><line x1=\"105\" y1=\"114\" x2=\"140\" y2=\"114\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M140 110 L148 114 L140 118 Z\" fill=\"#fff\"/><line x1=\"225\" y1=\"114\" x2=\"270\" y2=\"114\" stroke=\"#06d6a0\" stroke-width=\"2\"/><path d=\"M270 110 L278 114 L270 118 Z\" fill=\"#06d6a0\"/><text x=\"70\" y=\"146\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">ʿayin</text><text x=\"185\" y=\"146\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">omikron</text><text x=\"300\" y=\"146\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\" opacity=\"0.2\">o<animate attributeName=\"opacity\" values=\"0.2;1;1;0.2\" keyTimes=\"0;0.1;0.8;1\" dur=\"6s\" begin=\"3s\" repeatCount=\"indefinite\"/></text><line x1=\"105\" y1=\"142\" x2=\"140\" y2=\"142\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M140 138 L148 142 L140 146 Z\" fill=\"#fff\"/><line x1=\"225\" y1=\"142\" x2=\"270\" y2=\"142\" stroke=\"#06d6a0\" stroke-width=\"2\"/><path d=\"M270 138 L278 142 L270 146 Z\" fill=\"#06d6a0\"/><text x=\"70\" y=\"174\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">waw</text><text x=\"185\" y=\"174\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">ypsilon</text><text x=\"300\" y=\"174\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\" opacity=\"0.2\">u<animate attributeName=\"opacity\" values=\"0.2;1;1;0.2\" keyTimes=\"0;0.1;0.8;1\" dur=\"6s\" begin=\"4s\" repeatCount=\"indefinite\"/></text><line x1=\"105\" y1=\"170\" x2=\"140\" y2=\"170\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M140 166 L148 170 L140 174 Z\" fill=\"#fff\"/><line x1=\"225\" y1=\"170\" x2=\"270\" y2=\"170\" stroke=\"#06d6a0\" stroke-width=\"2\"/><path d=\"M270 166 L278 170 L270 174 Z\" fill=\"#06d6a0\"/><text x=\"180\" y=\"208\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">medeklinkertekens krijgen een nieuwe taak</text></svg>",
+   "quiz": {
+    "q": "Wat ontbrak in het Fenicische alfabet?",
+    "o": [
+     "Tekens voor medeklinkers",
+     "Tekens voor klinkers",
+     "Een vaste leesrichting"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Britannica – Greek language: the Greek alphabet",
+     "u": "https://www.britannica.com/topic/Greek-language/The-Greek-alphabet"
+    },
+    {
+     "t": "The Met – Alphabet Origins: From Kipling to Sinai",
+     "u": "https://www.metmuseum.org/exhibitions/listings/2014/assyria-to-iberia/blog/posts/alphabet"
+    }
+   ],
+   "date": "2026-11-17T10:18:55Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Waarom Engels anders klinkt dan het geschreven wordt",
+   "body": "Tussen ongeveer 1400 en 1700 verschoven de lange klinkers van het Engels: de Great Vowel Shift. ‘Bite’ klonk eerst als ‘biet’, ‘house’ als ‘hoes’. De klanken veranderden, maar de spelling lag door de boekdrukkunst al grotendeels vast. Daarom schrijft het Engels vandaag nog middeleeuwse uitspraak.",
+   "take": "Leer je Engels? Zoek bij rare spellingen de oude uitspraak op; dan zie je het systeem achter de chaos.",
+   "deep": "## Hoe het werkt\n\nBij een klinker bepaalt vooral de positie van je tong de klank. Bij de Great Vowel Shift schoven de lange klinkers van het Engels als een ketting omhoog: de tong ging bij elke klinker iets hoger staan. De klinkers die al bovenaan zaten, de lange ‘ie’ en de lange ‘oe’, konden niet hoger en werden tweeklanken. Zo werd de ‘ie’ van ‘bite’ uiteindelijk ‘ai’, en de ‘oe’ van ‘house’ werd ‘au’. Andere klinkers schoven op naar de vrijgekomen plaatsen.\n\n## Een voorbeeld\n\nEen Vlaamse leerling Engels schrijft ‘name’ en zegt ‘neem’. Bij Chaucer, rond 1400, klonk het woord als ‘naame’, ongeveer zoals een Nederlandstalige het van de letters zou aflezen. Ook ‘house’ en ‘mouse’ klonken toen als ‘hoes’ en ‘moes’. Wie Middelengelse poëzie hardop leest met de oude uitspraak, hoort plots een taal die vreemd vertrouwd klinkt voor Nederlandstaligen.\n\n## Wat onderzoek zegt\n\nBritannica omschrijft de Great Vowel Shift als een reeks belangrijke en parallelle veranderingen in de uitspraak van de lange klinkers, die ongeveer van de 15e tot de 18e eeuw liep en de grens markeert tussen Middel- en Vroegmodern Engels. De Middelengelse klinkers /iː/ en /uː/ werden tweeklanken, /ai/ zoals in ‘bide’ en /au/ zoals in ‘house’. Het Oxford English Dictionary wijst erop dat de boekdrukkunst de spelling vastlegde in haar laat-Middelengelse vorm, net toen deze klankverschuivingen de uitspraak grondig veranderden. In de zestiende eeuw kwamen al de eerste pogingen om de spelling te hervormen.\n\n## Nuance of misverstand\n\nNiemand weet precies waarom de verschuiving gebeurde. Britannica noemt de oorzaken uitdrukkelijk onbekend. Ze verliep ook niet in één keer of overal tegelijk; het was een proces over generaties, met verschillen per regio. En de Great Vowel Shift verklaart lang niet alle eigenaardigheden van de Engelse spelling, maar wel een groot deel van de klinkers.\n\n## Wat je ermee doet\n\nSpelling is vaak een momentopname van een oudere uitspraak. Wie Engels leert of lesgeeft, kan patronen gebruiken: een lange ‘i’ in de spelling klinkt meestal als ‘ai’, ‘ou’ vaak als ‘au’. Zo leer je regels in plaats van losse woorden. En het herinnert eraan dat elke levende taal, ook het Nederlands, voortdurend in beweging is.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><path d=\"M60 40 L120 190 L240 190 L300 40 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"30\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">tong hoog</text><text x=\"180\" y=\"208\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">tong laag</text><text x=\"90\" y=\"60\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">iː</text><text x=\"270\" y=\"60\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">uː</text><path d=\"M90 70 L110 120 L160 160\" stroke=\"#ff6b9d\" stroke-width=\"2\" fill=\"none\" stroke-dasharray=\"6 5\"><animate attributeName=\"stroke-dashoffset\" from=\"22\" to=\"0\" dur=\"2s\" repeatCount=\"indefinite\"/></path><path d=\"M270 70 L250 120 L200 160\" stroke=\"#ff6b9d\" stroke-width=\"2\" fill=\"none\" stroke-dasharray=\"6 5\"><animate attributeName=\"stroke-dashoffset\" from=\"22\" to=\"0\" dur=\"2s\" repeatCount=\"indefinite\"/></path><circle r=\"5\" fill=\"#06d6a0\"><animateMotion path=\"M120 175 L95 75\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><text x=\"150\" y=\"180\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">ai (bite)</text><text x=\"225\" y=\"180\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">au (house)</text><text x=\"30\" y=\"130\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">ca. 1400</text><text x=\"30\" y=\"146\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">→ 1700</text></svg>",
+   "quiz": {
+    "q": "Waarom past de Engelse spelling vaak niet bij de uitspraak?",
+    "o": [
+     "De spelling raakte vastgelegd vóór de klinkers verschoven",
+     "De Engelsen namen hun spelling over uit het Frans",
+     "Een koning legde in 1700 een nieuwe spelling op"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Britannica – Great Vowel Shift",
+     "u": "https://www.britannica.com/topic/Great-Vowel-Shift"
+    },
+    {
+     "t": "OED – Early modern English spelling",
+     "u": "https://www.oed.com/discover/early-modern-english-spelling-grammar-and-pronunciation/"
+    },
+    {
+     "t": "Harvard – The Great Vowel Shift (Chaucer)",
+     "u": "https://chaucer.fas.harvard.edu/pages/great-vowel-shift"
+    }
+   ],
+   "date": "2026-11-17T10:18:55Z"
+  },
+  {
+   "cat": "tech",
+   "title": "De streepjescode begon als morse in het zand",
+   "body": "In 1949 zat Joe Woodland op het strand van Miami en dacht aan morse. Hij trok punten en strepen uit tot smalle en brede lijnen in het zand. Zijn octrooi kwam er in 1952. Pas op 26 juni 1974 scande een kassa in Ohio de eerste code, op een pak Wrigley’s-kauwgom.",
+   "take": "Scan je zelf aan de kassa? Bedenk dat dat systeem 25 jaar wachtte op lasers, computers en één standaard.",
+   "deep": "## Hoe het werkt\n\nEen streepjescode vertaalt cijfers naar een patroon van donkere en lichte strepen met verschillende breedtes. Een scanner stuurt licht over de code; witte vlakken weerkaatsen veel licht, zwarte strepen weinig. Uit dat wisselende signaal leidt de scanner de breedtes af en dus de cijfers. De kassa zoekt dat nummer op in een database met product en prijs. Het idee van Woodland was eenvoudig: morse kent korte en lange signalen, dus waarom geen smalle en brede lijnen?\n\n## Een voorbeeld\n\nElke keer dat je in de supermarkt aan een zelfscankassa staat, gebruik je dit systeem. Ook je bibliotheekboek, je pakje via de post en je vliegtuigbagage dragen streepjescodes. Dat het allemaal werkt, komt doordat winkels en fabrikanten afspraken maakten over één gemeenschappelijke standaard, beheerd door de organisatie GS1, die ook in België en Luxemburg een afdeling heeft.\n\n## Wat onderzoek zegt\n\nSmithsonian Magazine vertelt hoe Woodland in januari 1949 op Miami Beach zat, aan zijn morse-opleiding als padvinder dacht en de eerste schets met zijn vingers in het zand trok. Samen met Bernard Silver vroeg hij datzelfde jaar octrooi aan; dat werd in oktober 1952 verleend. Hun ontwerp was een roos van concentrische cirkels, omdat die uit elke hoek leesbaar was. Volgens IBM ontwierp George Laurer later de bekende rechthoekige code, gebaseerd op Woodlands model, en was die in 1973 klaar. GS1 meldt dat cassière Sharon Buchanan op 26 juni 1974 om 8.01 uur in een Marsh-supermarkt in Troy, Ohio, de eerste code scande: een tienpak Juicy Fruit-kauwgom van 67 dollarcent.\n\n## Nuance of misverstand\n\nWoodland had het idee al in 1949, maar het duurde 25 jaar voor het in winkels werkte. Er waren betaalbare lasers, computers en vooral een gemeenschappelijke standaard nodig. De uitvinding alleen was niet genoeg; de doorbraak kwam toen een hele sector samen afspraken maakte. Woodland en Silver verdienden er overigens weinig aan: ze verkochten hun octrooi voor 15.000 dollar.\n\n## Wat je ermee doet\n\nBedenk bij een nieuw idee niet alleen of het werkt, maar ook wat er nodig is om het ingang te laten vinden: technologie, kosten en afspraken. En de volgende keer dat een scanner piept, weet je dat je naar morsecode kijkt die op een strand is uitgerekt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"80\" y=\"40\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">morse</text><circle cx=\"45\" cy=\"100\" r=\"5\" fill=\"#fff\"/><rect x=\"58\" y=\"96\" width=\"24\" height=\"8\" fill=\"#fff\"/><circle cx=\"95\" cy=\"100\" r=\"5\" fill=\"#fff\"/><rect x=\"108\" y=\"96\" width=\"24\" height=\"8\" fill=\"#fff\"/><line x1=\"145\" y1=\"100\" x2=\"180\" y2=\"100\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M180 95 L188 100 L180 105 Z\" fill=\"#fff\"/><text x=\"260\" y=\"40\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">streepjescode</text><rect x=\"200\" y=\"60\" width=\"6\" height=\"80\" fill=\"#fff\"/><rect x=\"209\" y=\"60\" width=\"2\" height=\"80\" fill=\"#fff\"/><rect x=\"214\" y=\"60\" width=\"4\" height=\"80\" fill=\"#fff\"/><rect x=\"221\" y=\"60\" width=\"2\" height=\"80\" fill=\"#fff\"/><rect x=\"226\" y=\"60\" width=\"6\" height=\"80\" fill=\"#fff\"/><rect x=\"235\" y=\"60\" width=\"4\" height=\"80\" fill=\"#fff\"/><rect x=\"242\" y=\"60\" width=\"2\" height=\"80\" fill=\"#fff\"/><rect x=\"247\" y=\"60\" width=\"2\" height=\"80\" fill=\"#fff\"/><rect x=\"252\" y=\"60\" width=\"6\" height=\"80\" fill=\"#fff\"/><rect x=\"261\" y=\"60\" width=\"2\" height=\"80\" fill=\"#fff\"/><rect x=\"266\" y=\"60\" width=\"4\" height=\"80\" fill=\"#fff\"/><rect x=\"273\" y=\"60\" width=\"4\" height=\"80\" fill=\"#fff\"/><rect x=\"280\" y=\"60\" width=\"2\" height=\"80\" fill=\"#fff\"/><rect x=\"285\" y=\"60\" width=\"6\" height=\"80\" fill=\"#fff\"/><line x1=\"195\" y1=\"70\" x2=\"195\" y2=\"130\" stroke=\"#ff6b9d\" stroke-width=\"2\" opacity=\"0.9\"><animate attributeName=\"x1\" values=\"195;320;195\" dur=\"3s\" repeatCount=\"indefinite\"/><animate attributeName=\"x2\" values=\"195;320;195\" dur=\"3s\" repeatCount=\"indefinite\"/></line><text x=\"80\" y=\"170\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1949: idee in het zand</text><text x=\"260\" y=\"170\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1974: eerste scan</text><text x=\"180\" y=\"200\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">punten en strepen → smalle en brede lijnen</text></svg>",
+   "quiz": {
+    "q": "Welk systeem inspireerde Woodland tot de streepjescode?",
+    "o": [
+     "Brailleschrift",
+     "Notenschrift",
+     "Morsecode"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Smithsonian – The History of the Bar Code",
+     "u": "https://www.smithsonianmag.com/innovation/history-bar-code-180956704/"
+    },
+    {
+     "t": "IBM – The UPC",
+     "u": "https://www.ibm.com/history/upc"
+    },
+    {
+     "t": "GS1 – Marsh and the first barcode scan",
+     "u": "https://www.gs1.org/docs/media_centre/gs1pr_260614_first_barcode_scan.pdf"
+    }
+   ],
+   "date": "2026-11-17T10:18:55Z"
   }
  ],
  "dives": [
