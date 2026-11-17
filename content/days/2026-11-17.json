@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T10:19:14Z",
+ "updated": "2026-11-17T10:19:27Z",
  "cards": [
   {
    "cat": "geld",
@@ -880,6 +880,326 @@
     }
    ],
    "date": "2026-11-17T10:19:14Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Wilskracht is geen batterij die leegloopt",
+   "body": "Jarenlang klonk het: zelfbeheersing raakt op zoals een batterij ('ego-depletie'). Toen 23 labs dat in 2016 samen testten met 2.141 deelnemers, bleef er een effect van d = 0,04 over: praktisch nul. Een tweede test in 36 labs met 3.531 deelnemers (2021) vond opnieuw geen overtuigend effect.",
+   "take": "Zeg niet 'mijn wilskracht is op'. Haal verleidingen uit je zicht en neem pauze als je echt moe bent.",
+   "deep": "## Hoe het werkt\n\nDe theorie van ego-depletie stelde dat zelfbeheersing put uit één beperkte voorraad. Eerst moet je je inhouden, bijvoorbeeld door koekjes te laten liggen. Daarna zou er minder 'brandstof' overblijven, waardoor je bij een volgende taak sneller opgeeft. Sommige onderzoekers koppelden die brandstof zelfs aan glucose in je bloed. Het idee was eenvoudig, herkenbaar en werd populair in zelfhulpboeken en managementcursussen.\n\n## Een voorbeeld\n\nStel: je hebt de hele dag op het werk je tong ingeslikt tegen een lastige klant. 's Avonds eet je een hele zak chips leeg en denk je: 'Logisch, mijn wilskracht was op.' Volgens de batterijtheorie is dat een wetmatigheid. De recente data zeggen eerder: je was moe, had trek en de chips lagen binnen handbereik. Dat zijn gewone verklaringen, zonder mysterieuze voorraad die leegloopt.\n\n## Wat onderzoek zegt\n\nIn 2016 publiceerden Martin Hagger, Nikos Chatzisarantis en tientallen collega's een vooraf geregistreerde replicatie in 23 labs met 2.141 deelnemers. Het gepoolde effect was d = 0,04, met een betrouwbaarheidsinterval dat nul omvatte. Een meta-analyse uit 2010 had nog d = 0,62 gerapporteerd, maar die steunde op gepubliceerde studies, waar positieve resultaten oververtegenwoordigd zijn. In 2021 testten Kathleen Vohs en collega's het opnieuw in 36 labs met 3.531 deelnemers. Ook daar was de vooraf vastgelegde toets niet significant (d = 0,06). Volgens een Bayesiaanse analyse waren de data ongeveer vier keer waarschijnlijker zonder effect dan met.\n\n## Nuance of misverstand\n\nOntkracht betekent niet dat vermoeidheid niet bestaat. Na een zware dag presteer je echt minder goed, en in de studie van 2021 was het effect iets groter bij mensen die zich vermoeider voelden. Wat niet standhoudt, is het specifieke mechanisme van een beperkte wilskrachtvoorraad die na één korte taak al merkbaar leeg is. Ook de claim dat je overtuiging over wilskracht het effect bepaalt, bleek in een replicatie uit 2023 niet herhaalbaar. Ego-depletie is daarmee een schoolvoorbeeld van de replicatiecrisis in de psychologie.\n\n## Wat je ermee doet\n\nGebruik 'mijn wilskracht is op' niet als verklaring of excuus. Kijk liever naar concrete oorzaken: slaap, honger, stress, of een omgeving vol verleidingen. Haal snoep uit je zicht, zet je gsm in een andere kamer en plan moeilijke taken op momenten dat je uitgerust bent. Dat werkt beter dan wachten tot een onzichtbare batterij weer oplaadt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Raakt wilskracht op? 23 + 36 labs testten het</text><rect x=\"40\" y=\"60\" width=\"120\" height=\"60\" rx=\"8\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"160\" y=\"78\" width=\"8\" height=\"24\" fill=\"#fff\"/><rect x=\"46\" y=\"66\" width=\"108\" height=\"48\" rx=\"4\" fill=\"#06d6a0\"><animate attributeName=\"width\" values=\"108;100;108\" dur=\"4s\" repeatCount=\"indefinite\"/></rect><text x=\"100\" y=\"140\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Batterij-idee: loopt leeg</text><line x1=\"210\" y1=\"170\" x2=\"340\" y2=\"170\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"225\" y=\"160\" width=\"20\" height=\"10\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"2;10;2\" dur=\"4s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"168;160;168\" dur=\"4s\" repeatCount=\"indefinite\"/></rect><rect x=\"290\" y=\"163\" width=\"20\" height=\"7\" fill=\"#ff6b9d\"><animate attributeName=\"height\" values=\"2;7;2\" dur=\"4s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"168;163;168\" dur=\"4s\" repeatCount=\"indefinite\"/></rect><rect x=\"225\" y=\"70\" width=\"20\" height=\"100\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1\" stroke-dasharray=\"4 3\"/><text x=\"275\" y=\"60\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">verwacht vs gemeten</text><text x=\"235\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">2016</text><text x=\"300\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">2021</text><text x=\"275\" y=\"206\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">d = 0,04 en 0,06</text></svg>",
+   "quiz": {
+    "q": "Wat vond de replicatie met 23 labs (2016) over ego-depletie?",
+    "o": [
+     "Een groot effect, d = 0,62",
+     "Een effect van praktisch nul, d = 0,04",
+     "Alleen een effect bij suikerdrankjes"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Hagger e.a. 2016, Perspectives on Psychological Science",
+     "u": "https://mro.massey.ac.nz/items/4a1951d7-6022-4d0e-bbb6-fc336ecd4792/full"
+    },
+    {
+     "t": "Vohs e.a. 2021, Psychological Science",
+     "u": "https://discovery.dundee.ac.uk/en/publications/a-multisite-preregistered-paradigmatic-test-of-the-ego-depletion-/"
+    },
+    {
+     "t": "Miyake & Carruth 2023, Frontiers in Psychology",
+     "u": "https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1208299/full"
+    }
+   ],
+   "date": "2026-11-17T10:19:27Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Meer omstaanders, minder hulp, maar niet altijd",
+   "body": "In 1968 meldde 85% van de proefpersonen een epileptische aanval als ze dachten dat ze alleen waren; met vier anderen 'erbij' slechts 31%. Een meta-analyse (2011, ruim 7.700 deelnemers) bevestigt dit omstaander-effect, maar het verzwakt bij echt gevaar. Op camerabeelden van echte ruzies greep in 9 op 10 gevallen iemand in.",
+   "take": "Ben je getuige? Wijs één persoon aan: 'U, met de blauwe jas, bel 112.' Zo verdwijnt het gedeelde-verantwoordelijkheidsgevoel.",
+   "deep": "## Hoe het werkt\n\nHoe meer mensen een noodsituatie zien, hoe kleiner de kans dat één individu ingrijpt. Twee mechanismen spelen mee. Ten eerste spreiding van verantwoordelijkheid: 'iemand anders zal wel bellen'. Ten tweede sociale vergelijking: je kijkt naar de anderen, die ook aarzelen, en concludeert dat het misschien niet zo ernstig is. Iedereen wacht op iedereen.\n\n## Een voorbeeld\n\nOp een druk perron in Antwerpen-Centraal zakt iemand in elkaar. Tientallen reizigers kijken, maar velen lopen door in de veronderstelling dat iemand al hulp gebeld heeft. Wie zich wel aangesproken voelt, is vaak de persoon die als eerste oogcontact maakt of rechtstreeks gevraagd wordt.\n\n## Wat onderzoek zegt\n\nJohn Darley en Bibb Latané lieten in 1968 studenten via een intercom praten met iemand die plots een aanval leek te krijgen. Dachten ze dat ze de enige luisteraar waren, dan ging 85% hulp zoeken voor de aanval voorbij was. Met één andere luisteraar was dat 62%, met vier anderen 31%. Peter Fischer en collega's bundelden in 2011 105 effectgroottes met meer dan 7.700 deelnemers en vonden een duidelijk omstaander-effect (g = -0,35). Het was wel zwakker als de situatie gevaarlijk was, als er een dader aanwezig was en als omstaanders elkaar kenden of fysiek konden steunen. Richard Philpot en collega's analyseerden in 2020 camerabeelden van 219 agressieve conflicten in Amsterdam, Lancaster en Kaapstad: in 9 op 10 gevallen kwam minstens één omstaander tussen.\n\n## Nuance of misverstand\n\nHet bekende verhaal over Kitty Genovese in New York (1964), met '38 getuigen die niets deden', is sterk overdreven in de oorspronkelijke krantenberichtgeving. En het omstaander-effect betekent niet dat mensen in groep onverschillig zijn. De CCTV-studie toont net dat hulp in echte conflicten de norm is. Het effect gaat over de kans per persoon: die daalt in een groep, maar met veel mensen is de kans dat minstens één iemand helpt toch groot. Wel interpreteren de auteurs hun camerabeelden voorzichtig, want ze zijn correlationeel.\n\n## Wat je ermee doet\n\nHeb je hulp nodig, roep dan niet algemeen 'help!', maar spreek één persoon direct aan. Ben je zelf omstaander, vraag dan hardop of het gaat: daarmee doorbreek je het wachten op elkaar. Ken het noodnummer 112 en zeg wie welke taak neemt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Hulp bij een aanval: alleen vs in groep (1968)</text><rect x=\"60\" y=\"72\" width=\"50\" height=\"128\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"0;128;128\" dur=\"5s\" begin=\"0s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"200;72;72\" dur=\"5s\" begin=\"0s\" repeatCount=\"indefinite\"/></rect><text x=\"85\" y=\"62\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">85%</text><rect x=\"155\" y=\"107\" width=\"50\" height=\"93\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"0;93;93\" dur=\"5s\" begin=\"0.5s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"200;107;107\" dur=\"5s\" begin=\"0.5s\" repeatCount=\"indefinite\"/></rect><text x=\"180\" y=\"97\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">62%</text><rect x=\"250\" y=\"153\" width=\"50\" height=\"47\" fill=\"#ff6b9d\"><animate attributeName=\"height\" values=\"0;47;47\" dur=\"5s\" begin=\"1s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"200;153;153\" dur=\"5s\" begin=\"1s\" repeatCount=\"indefinite\"/></rect><text x=\"275\" y=\"143\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">31%</text><text x=\"85\" y=\"214\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">alleen</text><text x=\"180\" y=\"214\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">+1 persoon</text><text x=\"275\" y=\"214\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">+4 personen</text></svg>",
+   "quiz": {
+    "q": "Wat vond de CCTV-studie van Philpot e.a. (2020) bij echte ruzies op straat?",
+    "o": [
+     "Bijna nooit greep iemand in",
+     "Alleen politie greep in",
+     "In ongeveer 9 op 10 conflicten greep iemand in"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Fischer e.a. 2011, Psychological Bulletin",
+     "u": "https://pred.uni-regensburg.de/id/eprint/20599/"
+    },
+    {
+     "t": "Philpot e.a. 2020, American Psychologist",
+     "u": "https://ore.exeter.ac.uk/repository/handle/10871/37604?show=full"
+    },
+    {
+     "t": "Greenberg, Social Psychology (Macmillan)",
+     "u": "https://digfir-published.macmillanusa.com/greenberg1e/greenberg1e_ch13_6.html"
+    },
+    {
+     "t": "NPR over Kitty Genovese (2014)",
+     "u": "https://www.npr.org/2014/03/03/284002294/what-really-happened-the-night-kitty-genovese-was-murdered"
+    }
+   ],
+   "date": "2026-11-17T10:19:27Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Een beloning kan je zin in iets wegnemen",
+   "body": "Kleuters in Stanford die vooraf een 'Good Player'-oorkonde kregen beloofd voor tekenen, tekenden daarna in vrije tijd ongeveer half zo veel (Lepper e.a., 1973). Een meta-analyse van 128 studies (1999) bevestigt: verwachte, tastbare beloningen ondermijnen interesse in leuke taken. Positieve feedback deed het omgekeerde (d = 0,33).",
+   "take": "Wil je dat je kind blijft lezen? Geef oprechte, specifieke complimenten in plaats van vooraf geld per boek te beloven.",
+   "deep": "## Hoe het werkt\n\nAls je iets doet omdat je het leuk vindt, is je motivatie intrinsiek. Komt er een beloning bij die je vooraf verwacht en die afhangt van het doen, dan verschuift de verklaring in je hoofd: 'ik doe dit voor de prijs'. Valt de beloning later weg, dan lijkt de activiteit minder de moeite. Psychologen noemen dit het overjustificatie-effect: je gedrag krijgt een extra, externe rechtvaardiging, en die verdringt de oorspronkelijke.\n\n## Een voorbeeld\n\nEen Vlaamse ouder betaalt zijn dochter twee euro voor elk uur piano. Ze speelde vroeger uit zichzelf, maar zodra de betaling stopt, blijft de piano dicht. Vergelijk met een ouder die zegt: 'Dat stuk klonk vandaag echt vloeiender.' Die feedback geeft informatie over vooruitgang, zonder het spelen tot een betaalde opdracht te maken.\n\n## Wat onderzoek zegt\n\nMark Lepper, David Greene en Richard Nisbett deden in 1973 een experiment op een kleuterschool van Stanford. Eén groep kinderen wist vooraf dat ze een oorkonde met gouden ster en lint zouden krijgen voor tekenen. Een tweede groep kreeg dezelfde oorkonde onverwacht achteraf, een derde niets. Later, in vrije speeltijd, tekende de groep met de verwachte beloning ongeveer half zo veel als de andere groepen. Edward Deci, Richard Koestner en Richard Ryan bundelden in 1999 128 studies. Verwachte en tastbare beloningen ondermijnden de vrije keuze om met een interessante taak verder te gaan. Positieve verbale feedback verhoogde ze juist (d = 0,33).\n\n## Nuance of misverstand\n\nDit effect geldt vooral voor taken die al interessant zijn. Voor saaie routineklussen valt er weinig intrinsieke motivatie te ondermijnen, en dan kunnen beloningen gewoon helpen. Het onderwerp was ook omstreden: Cameron en Pierce concludeerden in 1994 dat het negatieve effect klein was, waarop Deci en collega's met hun grotere meta-analyse reageerden. Onverwachte beloningen achteraf en informatieve feedback hebben het effect niet.\n\n## Wat je ermee doet\n\nBeloon geen activiteiten die iemand al graag doet met vooraf afgesproken prijzen. Geef in de plaats concrete feedback over vooruitgang en laat ruimte voor eigen keuze. Wil je toch belonen, maak het dan een onverwachte verrassing achteraf in plaats van een contract.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Verwachte beloning verschuift de reden</text><circle cx=\"110\" cy=\"110\" r=\"40\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"><animate attributeName=\"r\" values=\"40;40;22;22;40\" dur=\"7s\" repeatCount=\"indefinite\"/></circle><text x=\"110\" y=\"114\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">zin</text><rect x=\"225\" y=\"85\" width=\"70\" height=\"50\" rx=\"6\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"260\" y=\"114\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">prijs</text><line x1=\"220\" y1=\"110\" x2=\"165\" y2=\"110\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"6 4\"><animate attributeName=\"stroke-dashoffset\" values=\"20;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></line><path d=\"M160 110 L170 105 L170 115 Z\" fill=\"#fff\"/><text x=\"110\" y=\"180\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Ik teken omdat het leuk is</text><text x=\"260\" y=\"180\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Ik teken voor de prijs</text><text x=\"180\" y=\"206\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Ervoor 'Good Player'-oorkonde beloofd = minder vrij tekenen</text></svg>",
+   "quiz": {
+    "q": "Welke kleuters tekenden later het minst in vrije tijd (Lepper e.a., 1973)?",
+    "o": [
+     "Wie vooraf een oorkonde verwachtte",
+     "Wie onverwacht een oorkonde kreeg",
+     "Wie geen oorkonde kreeg"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Deci, Koestner & Ryan 1999, Psychological Bulletin",
+     "u": "https://home.ubalt.edu/ntygmitc/642/Articles%20syllabus/Deci%20Koestner%20Ryan%20meta%20IM%20psy%20bull%2099.pdf"
+    },
+    {
+     "t": "Introduction to Psychology (BCcampus)",
+     "u": "https://opentextbc.ca/introductiontopsychology/chapter/7-4-using-the-principles-of-learning-to-understand-everyday-behavior/"
+    },
+    {
+     "t": "Bing Nursery School, Stanford",
+     "u": "https://bingschool.stanford.edu/news/mark-lepper-intrinsic-motivation-extrinsic-motivation-and-process-learning"
+    }
+   ],
+   "date": "2026-11-17T10:19:27Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "'Ik wist het wel' is vaak een geheugentruc",
+   "body": "Vóór Nixons reizen naar China en Moskou (1972) schatten proefpersonen de kans op mogelijke uitkomsten. Achteraf herinnerden ze zich hun voorspellingen dichter bij wat echt gebeurde (Fischhoff & Beyth, 1975). Deze achterafbias is beschreven in meer dan 800 wetenschappelijke papers.",
+   "take": "Schrijf voorspellingen op vóór een uitkomst bekend is, en vergelijk achteraf eerlijk wat je echt dacht.",
+   "deep": "## Hoe het werkt\n\nZodra je een uitkomst kent, herschikt je brein wat je weet. Informatie die past bij de uitkomst wordt makkelijker herinnerd, en je bouwt er moeiteloos een logisch verhaal rond. Neal Roese en Kathleen Vohs onderscheiden drie lagen: je herinnert je je eerdere mening verkeerd (geheugen), je vindt de uitkomst onvermijdelijk (onvermijdelijkheid) en je denkt dat je het zelf had kunnen voorzien (voorspelbaarheid).\n\n## Een voorbeeld\n\nNa een match van de Rode Duivels zegt iedereen aan de toog dat de trainer die wissel nooit had mogen doen. Vóór de match twijfelde de helft. Hetzelfde zie je bij beleggers die na een beurscrash zeggen dat de signalen 'duidelijk' waren, of bij een sollicitant van wie achteraf iedereen 'altijd al wist' dat het niets zou worden.\n\n## Wat onderzoek zegt\n\nBaruch Fischhoff en Ruth Beyth vroegen proefpersonen in de weken voor de reizen van president Nixon naar Peking en Moskou in 1972 om de kans op concrete uitkomsten te schatten. Na de reis moesten ze zich hun oorspronkelijke schattingen herinneren. Die herinneringen schoven op richting de uitkomsten die echt gebeurd waren. Hun artikel uit 1975 heette veelzeggend 'I knew it would happen'. In 2012 vatten Roese en Vohs het onderzoek samen in Perspectives on Psychological Science en telden ze meer dan 800 wetenschappelijke papers over het fenomeen. Ze tonen ook dat een eenvoudige ingreep helpt: mensen vragen om alternatieve verklaringen te bedenken voor hoe het anders had kunnen lopen.\n\n## Nuance of misverstand\n\nAchterafbias betekent niet dat je nooit iets kon voorspellen. Soms wist je het echt. Het probleem is dat je dat achteraf niet meer betrouwbaar kunt onderscheiden van wat je jezelf nu wijsmaakt. Daardoor oordeel je te streng over anderen ('dat had de dokter moeten zien') en leer je te weinig van je eigen fouten, omdat je denkt dat je het toch al wist.\n\n## Wat je ermee doet\n\nHou een beslissingsdagboek: noteer vóór een belangrijke keuze wat je verwacht en hoe zeker je bent. Vraag je bij een tegenvaller af welke twee andere uitkomsten even plausibel waren. Beoordeel beslissingen op de informatie die er toen was, niet op de afloop.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Je herinnert je voorspelling verkeerd</text><line x1=\"40\" y1=\"110\" x2=\"320\" y2=\"110\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"40\" y=\"135\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">0%</text><text x=\"320\" y=\"135\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">100%</text><circle cx=\"124\" cy=\"110\" r=\"8\" fill=\"#ffd166\"/><text x=\"124\" y=\"90\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">toen: 30%</text><circle cx=\"124\" cy=\"110\" r=\"8\" fill=\"#ff6b9d\"><animate attributeName=\"cx\" values=\"124;124;208;208\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><rect x=\"250\" y=\"150\" width=\"90\" height=\"28\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"295\" y=\"169\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Het gebeurde!</text><text x=\"150\" y=\"170\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">herinnering schuift op</text><text x=\"180\" y=\"206\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">'Ik wist het wel' na de uitkomst</text></svg>",
+   "quiz": {
+    "q": "Wat helpt volgens Roese en Vohs tegen achterafbias?",
+    "o": [
+     "Langer nadenken over de echte uitkomst",
+     "Alternatieve verklaringen en uitkomsten bedenken",
+     "Minder informatie opzoeken"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Roese & Vohs 2012, Perspectives on Psychological Science",
+     "u": "https://carlsonschool-d8.prd.umn.edu/sites/carlsonschool.umn.edu/files/2019-04/roese_vohs_hindsight_bias_2012_pps_0.pdf"
+    },
+    {
+     "t": "Association for Psychological Science",
+     "u": "https://www.psychologicalscience.org/news/releases/i-knew-it-all-along-didnt-i-understanding-hindsight-bias.html"
+    },
+    {
+     "t": "Fischhoff & Beyth, technisch rapport (DTIC)",
+     "u": "https://apps.dtic.mil/sti/tr/pdf/AD0780971.pdf"
+    }
+   ],
+   "date": "2026-11-17T10:19:27Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "200 gered of 400 dood: zelfde keuze, ander antwoord",
+   "body": "Tversky en Kahneman (1981): bij een ziekte die 600 mensen bedreigt, koos 72% de zekere optie '200 worden gered'. Werd dezelfde optie omschreven als '400 sterven', dan koos 78% de gok. Many Labs herhaalde dit in 2014 met 36 teams: het effect bestaat, maar is kleiner dan in het origineel.",
+   "take": "Herformuleer een belangrijke keuze bewust in winst én verlies. Blijft je voorkeur gelijk? Dan is ze waarschijnlijk solide.",
+   "deep": "## Hoe het werkt\n\nMensen beoordelen uitkomsten niet in absolute termen, maar ten opzichte van een referentiepunt. Bij winst ('levens gered') worden we voorzichtig en kiezen we zekerheid. Bij verlies ('mensen sterven') worden we gokkers, omdat een zeker verlies extra pijnlijk voelt. Dezelfde cijfers in een ander kader duwen je zo naar een andere keuze. Dat heet het framing-effect.\n\n## Een voorbeeld\n\nEen arts zegt: 'Na deze operatie is 90% na een maand nog in leven.' Een andere arts zegt: '10% overlijdt binnen de maand.' Medisch is het identiek, maar veel mensen voelen de eerste zin als geruststellender. Ook in de supermarkt zie je het: '95% vetvrij' klinkt beter dan '5% vet'.\n\n## Wat onderzoek zegt\n\nAmos Tversky en Daniel Kahneman publiceerden in 1981 in Science het beroemde 'Aziatische ziekte'-probleem. Een uitbraak zou 600 mensen doden. In versie 1 koos 72% programma A, waarbij zeker 200 mensen gered worden, boven een gok met dezelfde verwachte waarde. In versie 2 werd A omschreven als 'zeker 400 mensen sterven', en nu koos 78% de gok. De steekproeven waren klein, ongeveer 150 studenten per versie. In 2014 testte het Many Labs-project het opnieuw met 36 onderzoeksteams. Het effect werd duidelijk bevestigd, al was het kleiner dan in 1981: volgens een latere analyse 53 tot 67% van de oorspronkelijke grootte.\n\n## Nuance of misverstand\n\nFraming betekent niet dat mensen dom zijn of elke keer omvallen. Het effect is gemiddeld, niet universeel, en hangt af van hoe de vraag gesteld wordt. De originele proefpersonen waren bovendien studenten van Stanford en de University of British Columbia, geen doorsnee bevolking. Toch geldt framing als een van de stevigste bevindingen uit de gedragseconomie, juist omdat het grootschalige replicaties overleefde.\n\n## Wat je ermee doet\n\nBij belangrijke beslissingen over geld, gezondheid of werk: zet beide formuleringen naast elkaar. Vraag bij een offerte of medisch advies ook naar het omgekeerde cijfer. En wie zelf iets moet communiceren, kiest best bewust het kader, of geeft beide.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">600 mensen, zelfde cijfers, ander kader</text><rect x=\"30\" y=\"50\" width=\"135\" height=\"70\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"97\" y=\"78\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">200 worden gered</text><text x=\"97\" y=\"102\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">72% kiest zeker</text><rect x=\"195\" y=\"50\" width=\"135\" height=\"70\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"262\" y=\"78\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">400 sterven</text><text x=\"262\" y=\"102\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">78% kiest gok</text><g><animateTransform attributeName=\"transform\" type=\"rotate\" values=\"-8 180 160;8 180 160;-8 180 160\" dur=\"6s\" repeatCount=\"indefinite\"/><line x1=\"90\" y1=\"160\" x2=\"270\" y2=\"160\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"90\" cy=\"160\" r=\"9\" fill=\"#06d6a0\"/><circle cx=\"270\" cy=\"160\" r=\"9\" fill=\"#ff6b9d\"/></g><path d=\"M180 160 L168 190 L192 190 Z\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"210\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">winst-kader vs verlies-kader</text></svg>",
+   "quiz": {
+    "q": "Hoeveel procent koos de gok toen de zekere optie als '400 sterven' werd omschreven?",
+    "o": [
+     "28%",
+     "72%",
+     "78%"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Tversky & Kahneman 1981, Science",
+     "u": "https://www.csc2.ncsu.edu/faculty/mpsingh/local/Social/f24/wrap/readings/Tversky+Kahneman-framing-1981.pdf"
+    },
+    {
+     "t": "Klein e.a. 2014 (Many Labs), Social Psychology",
+     "u": "https://www.doi.org/10.1027/1864-9335/A000178"
+    },
+    {
+     "t": "Cambridge University Press, analyse Many Labs",
+     "u": "https://www.cambridge.org/core/product/A4ABEC16EDB905400D61C6D8177DCDD7/core-reader"
+    }
+   ],
+   "date": "2026-11-17T10:19:27Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Oefeningen door elkaar husselen doet je meer onthouden",
+   "body": "In 54 klassen 'seventh grade' in Florida (12- tot 13-jarigen) oefenden 787 leerlingen wiskunde ofwel per type (blok), ofwel door elkaar (gemengd). Een maand later scoorde de gemengde groep 61% op een onaangekondigde test, de blokgroep 38% (Rohrer e.a., 2020). Een meta-analyse vindt gemiddeld een matig effect (g = 0,42).",
+   "take": "Maak je oefenreeks voor het examen gemengd: wissel hoofdstukken af in plaats van tien gelijkaardige opgaven na elkaar.",
+   "deep": "## Hoe het werkt\n\nBij blokoefenen maak je tien opgaven van hetzelfde type na elkaar. Je weet bij opgave twee al welke methode je nodig hebt, dus je oefent vooral het uitvoeren. Bij gemengd oefenen (interleaving) moet je telkens eerst herkennen welk soort probleem voor je ligt en welke aanpak erbij past. Dat kiezen is precies wat je op een examen moet kunnen. Bovendien zet je soorten opgaven naast elkaar, waardoor je de verschillen tussen gelijkaardige categorieën beter opmerkt.\n\n## Een voorbeeld\n\nEen leerling in het secundair studeert voor een toets wiskunde over oppervlaktes, volumes en hoeken. Blokgewijs: eerst alle oppervlakte-oefeningen, dan alle volumes. Gemengd: een oppervlakte, dan een hoek, dan een volume, en zo verder. Het tweede voelt trager en moeilijker, maar op de toets, waar de vragen ook door elkaar staan, zit het beter.\n\n## Wat onderzoek zegt\n\nDoug Rohrer en collega's voerden een vooraf geregistreerde, gerandomiseerde studie uit in 54 klassen van vijf scholen in Florida, met 787 leerlingen. Ongeveer een maand na de oefenperiode volgde een onaangekondigde test: 61% correct bij gemengd oefenen tegenover 38% bij blokoefenen, een groot effect (d = 0,83). De studie verscheen in 2020 in de Journal of Educational Psychology. Leraren konden het zonder opleiding invoeren. Monika Brunmair en Tobias Richter vonden in 2019 in een meta-analyse een gemiddeld effect van g = 0,42, vooral bij materiaal waarvan de categorieën sterk op elkaar lijken, zoals schilderstijlen of wiskundige probleemtypes.\n\n## Nuance of misverstand\n\nGemengd oefenen voelt minder efficiënt, waardoor veel studenten denken dat het slechter werkt. Dat gevoel misleidt. Toch is het geen wondermiddel: Brunmair en Richter waarschuwen dat het voor teksten en woordenlijsten weinig of zelfs averechts kan uitpakken. En in de studie van Rohrer meldden leraren dat gemengde taken meer tijd kostten; die tijd werd niet gemeten. Begin bovendien met blokken als iets helemaal nieuw is, en meng zodra je de basis kent.\n\n## Wat je ermee doet\n\nLeer je een nieuw type opgave? Oefen er eerst een paar na elkaar. Schakel daarna over op gemengde reeksen met oefeningen uit verschillende hoofdstukken. Schud je flashcards over verschillende onderwerpen door elkaar. Zo train je niet alleen het oplossen, maar ook het herkennen van welke aanpak nodig is.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Geblokt vs door elkaar geoefend</text><text x=\"20\" y=\"70\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">blok</text><rect x=\"70\" y=\"50\" width=\"26\" height=\"26\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"83\" y=\"68\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">A</text><rect x=\"100\" y=\"50\" width=\"26\" height=\"26\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"113\" y=\"68\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">A</text><rect x=\"130\" y=\"50\" width=\"26\" height=\"26\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"143\" y=\"68\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">A</text><rect x=\"160\" y=\"50\" width=\"26\" height=\"26\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"173\" y=\"68\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">B</text><rect x=\"190\" y=\"50\" width=\"26\" height=\"26\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"203\" y=\"68\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">B</text><rect x=\"220\" y=\"50\" width=\"26\" height=\"26\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"233\" y=\"68\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">B</text><rect x=\"250\" y=\"50\" width=\"26\" height=\"26\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"263\" y=\"68\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">C</text><rect x=\"280\" y=\"50\" width=\"26\" height=\"26\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"293\" y=\"68\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">C</text><rect x=\"310\" y=\"50\" width=\"26\" height=\"26\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"323\" y=\"68\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">C</text><text x=\"20\" y=\"130\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">mix</text><rect x=\"70\" y=\"110\" width=\"26\" height=\"26\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"83\" y=\"128\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">A</text><rect x=\"100\" y=\"110\" width=\"26\" height=\"26\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"113\" y=\"128\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">B</text><rect x=\"130\" y=\"110\" width=\"26\" height=\"26\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"143\" y=\"128\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">C</text><rect x=\"160\" y=\"110\" width=\"26\" height=\"26\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"173\" y=\"128\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">B</text><rect x=\"190\" y=\"110\" width=\"26\" height=\"26\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"203\" y=\"128\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">C</text><rect x=\"220\" y=\"110\" width=\"26\" height=\"26\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"233\" y=\"128\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">A</text><rect x=\"250\" y=\"110\" width=\"26\" height=\"26\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"263\" y=\"128\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">C</text><rect x=\"280\" y=\"110\" width=\"26\" height=\"26\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"293\" y=\"128\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">A</text><rect x=\"310\" y=\"110\" width=\"26\" height=\"26\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"323\" y=\"128\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">B</text><rect x=\"66\" y=\"46\" width=\"34\" height=\"34\" rx=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"><animateTransform attributeName=\"transform\" type=\"translate\" values=\"0 0;240 0;240 60;0 60;0 0\" dur=\"8s\" repeatCount=\"indefinite\"/></rect><text x=\"180\" y=\"170\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Test een maand later:</text><text x=\"110\" y=\"196\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">blok 38%</text><text x=\"250\" y=\"196\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">mix 61%</text></svg>",
+   "quiz": {
+    "q": "Voor welk soort materiaal raden Brunmair en Richter voorzichtigheid aan met gemengd oefenen?",
+    "o": [
+     "Wiskundige probleemtypes",
+     "Teksten en woordenlijsten",
+     "Schilderstijlen herkennen"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Rohrer e.a. 2020, Journal of Educational Psychology",
+     "u": "https://ies.ed.gov/use-work/awards/efficacy-study-interleaved-mathematics-practice"
+    },
+    {
+     "t": "Brunmair & Richter 2019, Psychological Bulletin",
+     "u": "https://www.psychologie.uni-wuerzburg.de/fileadmin/06020400/2019/Brunmair_Richter_in_press__2019_META-ANALYSIS_OF_INTERLEAVED_LEARNING.pdf"
+    },
+    {
+     "t": "Rohrer e.a., volledige tekst",
+     "u": "https://www.gwern.net/doc/psychology/spaced-repetition/2019-rohrer.pdf"
+    }
+   ],
+   "date": "2026-11-17T10:19:27Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "Een als-dan-plan maakt van voornemens daden",
+   "body": "Medewerkers die op een herinneringsbrief datum en uur noteerden waarop ze hun griepvaccin zouden halen, lieten zich vaker vaccineren: 37,1%, of 4,2 procentpunten meer dan met een gewone herinnering (Milkman e.a., 2011, 3.272 werknemers). Een meta-analyse van 94 tests vond een middelgroot tot groot effect van zulke 'als-dan-plannen' (d = 0,65).",
+   "take": "Schrijf je voornemen als: 'Als het dinsdag 18u is en ik thuiskom, dan trek ik meteen mijn loopschoenen aan.'",
+   "deep": "## Hoe het werkt\n\nEen gewoon doel ('ik wil meer sporten') zegt wat je wilt, maar niet wanneer of hoe. Een implementatie-intentie koppelt een concrete situatie aan een concrete handeling: 'Als situatie X zich voordoet, dan doe ik Y.' Door die koppeling vooraf te maken, wordt de situatie een trigger. Je hoeft op het moment zelf niet meer na te denken of te beslissen; de actie ligt al klaar.\n\n## Een voorbeeld\n\nJe wil elke week je mails over de verbouwing van je huis afhandelen, maar het schiet er telkens bij in. Een als-dan-plan wordt: 'Als ik op vrijdag om 9u mijn eerste koffie op het werk heb, dan open ik eerst de map verbouwing.' Of voor een student: 'Als ik na de les op de tram zit, dan herhaal ik de flashcards van die dag.'\n\n## Wat onderzoek zegt\n\nPeter Gollwitzer en Paschal Sheeran verzamelden in 2006 94 onafhankelijke tests en vonden dat als-dan-plannen gemiddeld een middelgroot tot groot extra effect hadden bovenop een gewoon doel (d = 0,65). Katherine Milkman en collega's testten het in 2011 in een groot bedrijf: 3.272 werknemers kregen een brief over gratis griepvaccinatie. Wie op de brief een datum én uur moest noteren, liet zich in 37,1% van de gevallen vaccineren, 4,2 procentpunten meer dan de groep met een gewone brief. Alleen een datum noteren gaf een kleiner verschil dat niet significant was. In 2024 analyseerden Sheeran, Listrom en Gollwitzer 642 tests; de effecten varieerden van d = 0,27 tot 0,66 naargelang de uitkomst.\n\n## Nuance of misverstand\n\nAls-dan-plannen zijn geen toverformule. Een plan helpt alleen als je het doel zelf echt wilt. En gepubliceerde gemiddelden overschatten vaak het echte effect, omdat studies zonder resultaat minder vaak verschijnen. Verwacht dus een duwtje, geen revolutie. In de vaccinatiestudie ging het om enkele procentpunten, maar over duizenden mensen is dat aanzienlijk.\n\n## Wat je ermee doet\n\nKies één voornemen. Beschrijf een moment en plaats die zeker gaan voorkomen, en verbind er één kleine, concrete eerste handeling aan. Zet je plan op papier of in je agenda, met datum en uur. Bedenk ook een plan voor het grootste obstakel: 'Als het regent, dan doe ik twintig minuten oefeningen thuis.'",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Als-dan-plan koppelt situatie aan actie</text><rect x=\"20\" y=\"70\" width=\"130\" height=\"60\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"85\" y=\"96\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">ALS het maandag</text><text x=\"85\" y=\"114\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">17u is ...</text><rect x=\"210\" y=\"70\" width=\"130\" height=\"60\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"275\" y=\"96\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">DAN ga ik</text><text x=\"275\" y=\"114\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">meteen lopen</text><line x1=\"152\" y1=\"100\" x2=\"200\" y2=\"100\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M208 100 L198 94 L198 106 Z\" fill=\"#fff\"/><circle r=\"5\" fill=\"#ff6b9d\"><animateMotion path=\"M85 135 L85 150 L275 150 L275 135\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"185\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Griepvaccin met datum + uur gepland:</text><text x=\"180\" y=\"203\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">37,1% gevaccineerd (+4,2 punten)</text></svg>",
+   "quiz": {
+    "q": "Wat moesten werknemers noteren om het grootste effect op vaccinatie te krijgen?",
+    "o": [
+     "Alleen hun motivatie",
+     "Alleen een datum",
+     "Een datum én een uur"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Milkman e.a. 2011, PNAS (Harvard Kennedy School)",
+     "u": "https://www.hks.harvard.edu/publications/using-implementation-intentions-prompts-enhance-influenza-vaccination-rates"
+    },
+    {
+     "t": "Gollwitzer & Sheeran 2006, Universiteit Konstanz",
+     "u": "https://www.socmot.uni-konstanz.de/publications/implementation-intentions-and-goal-achievement-meta-analysis-effects-and-processes"
+    },
+    {
+     "t": "Sheeran, Listrom & Gollwitzer 2024, European Review of Social Psychology",
+     "u": "https://informahealthcare.com/doi/full/10.1080/10463283.2024.2334563?src=exp-la"
+    }
+   ],
+   "date": "2026-11-17T10:19:27Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "Elke taakwissel kost je brein opstarttijd",
+   "body": "Wie wisselt tussen taken, verliest telkens tijd om doel en regels om te schakelen. Rubinstein, Meyer en Evans (2001) toonden in vier experimenten dat die wisselkost groeit met de complexiteit van de taak. Mark e.a. (2008) zagen dat onderbroken mensen sneller werken, maar met meer stress, frustratie en tijdsdruk.",
+   "take": "Bundel gelijkaardig werk: beantwoord mails in twee vaste blokken per dag en zet meldingen uit tijdens denkwerk.",
+   "deep": "## Hoe het werkt\n\nJe brein kan niet twee denktaken tegelijk aansturen; bij 'multitasken' wissel je snel heen en weer. Elke wissel heeft volgens Joshua Rubinstein, David Meyer en Jeffrey Evans twee stappen. Eerst verschuif je je doel: 'nu doe ik taak B'. Daarna activeer je de regels van die nieuwe taak: hoe werkt dit ook alweer? Die tweede stap kan pas beginnen als de nieuwe taak voor je neus staat. Elke wissel kost zo een fractie tijd, en die fracties tellen op.\n\n## Een voorbeeld\n\nJe schrijft een rapport, er komt een Teams-bericht binnen, je antwoordt snel, kijkt even naar je gsm en keert terug. Je moet dan eerst opnieuw zoeken waar je was en wat je wilde zeggen. Dat opnieuw opstarten voelt niet als werk, maar het is verloren tijd en energie.\n\n## Wat onderzoek zegt\n\nRubinstein, Meyer en Evans lieten proefpersonen in 2001 in vier experimenten wisselen tussen eenvoudige taken en maten hoeveel tijd elke wissel kostte. De wisselkost werd groter naarmate de regels complexer waren en kleiner als mensen vooraf een hint kregen over welke taak eraan kwam. Volgens de American Psychological Association waren de kosten ook groter bij onbekende taken. Gloria Mark, Daniela Gudith en Ulrich Klocke onderbraken in 2008 proefpersonen tijdens een kantoortaak. Onderbroken deelnemers werkten sneller met vergelijkbare kwaliteit, maar rapporteerden meer stress, frustratie, inspanning en tijdsdruk. Ze compenseren dus, maar betalen een prijs.\n\n## Nuance of misverstand\n\nJe leest vaak dat multitasken '40% van je productiviteit' kost. Dat cijfer komt van Meyer zelf, maar het is een ruwe extrapolatie uit labtaken, geen meting op echte werkvloeren. De kern is wel stevig: wisselen kost tijd en moeite, al verschilt de grootte sterk per situatie. Bovendien zijn heel eenvoudige, geautomatiseerde taken, zoals wandelen terwijl je belt, minder gevoelig.\n\n## Wat je ermee doet\n\nGroepeer gelijkaardige taken: alle telefoontjes na elkaar, alle mails in een vast blok. Zet meldingen uit wanneer je geconcentreerd moet werken, en leg je gsm buiten zicht. Moet je toch onderbreken, noteer dan kort waar je was en wat de volgende stap is: zo wordt de herstart goedkoper.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Wisselen kost telkens opstarttijd</text><rect x=\"20\" y=\"60\" width=\"90\" height=\"34\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"65\" y=\"82\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">taak A</text><rect x=\"130\" y=\"60\" width=\"40\" height=\"34\" rx=\"6\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\" stroke-dasharray=\"4 3\"><animate attributeName=\"width\" values=\"20;40;20\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"150\" y=\"115\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">wissel</text><rect x=\"190\" y=\"60\" width=\"90\" height=\"34\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"235\" y=\"82\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">taak B</text><circle r=\"6\" fill=\"#fff\"><animateMotion path=\"M30 77 L110 77 L130 120 L170 120 L190 77 L280 77\" dur=\"5s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"155\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1. doel omschakelen</text><text x=\"180\" y=\"175\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">2. regels van nieuwe taak laden</text><text x=\"180\" y=\"200\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Complexer of onbekend: duurder</text></svg>",
+   "quiz": {
+    "q": "Wat vonden Mark e.a. (2008) bij mensen die tijdens het werk onderbroken werden?",
+    "o": [
+     "Ze werkten sneller, maar met meer stress",
+     "Ze werkten trager en slordiger",
+     "Ze merkten er niets van"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Rubinstein, Meyer & Evans 2001, J. Exp. Psychology (pdf)",
+     "u": "https://leaddev.com/wp-content/uploads/2023/01/xhp274763.pdf"
+    },
+    {
+     "t": "American Psychological Association, Multitasking",
+     "u": "https://www.apa.org/topics/research/multitasking"
+    },
+    {
+     "t": "Mark, Gudith & Klocke 2008, CHI",
+     "u": "https://interruptions.net/literature/Mark-CHI08.pdf"
+    }
+   ],
+   "date": "2026-11-17T10:19:27Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "Korte pauzes geven energie, niet per se meer werk",
+   "body": "Een meta-analyse van 22 studies met 2.335 deelnemers (Albulescu e.a., 2022) bekeek pauzes van maximaal tien minuten. Ze verhoogden de vitaliteit (d = 0,36) en verlaagden vermoeidheid (d = 0,35). Op prestaties was het effect klein en niet significant (d = 0,16), behalve bij minder zware taken.",
+   "take": "Sta elk uur enkele minuten op, kijk weg van je scherm of haal water. Plan na zwaar denkwerk een langere pauze.",
+   "deep": "## Hoe het werkt\n\nBij langdurig werk raken je energie en aandacht geleidelijk uitgeput. Een microbreak is een korte, zelfgekozen onderbreking: even rekken, wandelen naar de koffieautomaat, uit het raam kijken of een snack eten. Tijdens zo'n pauze herstel je een stukje van de mentale en fysieke middelen die je werk opvreet, zodat je je minder leeg voelt wanneer je weer begint.\n\n## Een voorbeeld\n\nEen boekhouder in Gent werkt een namiddag aan jaarrekeningen. Om de vijftig minuten staat ze op, vult haar drinkfles bij en praat twee minuten met een collega. Ze voelt zich aan het einde van de dag frisser dan op dagen waarop ze vier uur aan één stuk doorwerkt. Of ze daardoor ook meer rekeningen afwerkt, is minder zeker.\n\n## Wat onderzoek zegt\n\nPatricia Albulescu en collega's publiceerden in 2022 in PLOS ONE een meta-analyse van 19 publicaties met samen 22 onafhankelijke steekproeven en 2.335 deelnemers. Microbreaks van maximaal tien minuten verhoogden de vitaliteit (d = 0,36) en verminderden vermoeidheid (d = 0,35): kleine maar significante effecten. Het effect op prestaties was klein en niet significant (d = 0,16), en enkel zichtbaar bij taken met lagere cognitieve eisen. Hoe langer de pauze, hoe groter de prestatiewinst.\n\n## Nuance of misverstand\n\nPauzes zijn dus geen geheime productiviteitsboost voor elk soort werk. Bij zware denktaken herstelt een pauze van een paar minuten waarschijnlijk te weinig; de auteurs suggereren dat daar langere pauzes nodig zijn dan tien minuten. Let ook op claims rond vaste schema's zoals 'precies 52 minuten werken, 17 minuten rust': die specifieke getallen volgen niet uit deze meta-analyse.\n\n## Wat je ermee doet\n\nBouw korte pauzes in voor je welzijn, ook als ze je output niet meteen verhogen. Wissel echt af: weg van het scherm, even bewegen of praten. Plan na intens denkwerk, zoals een complex verslag of een examen voorbereiden, een langere pauze, bijvoorbeeld een wandeling van een kwartier. En meet het effect bij jezelf: noteer een week lang hoe moe je je om 16u voelt, met en zonder korte pauzes, en kijk welk ritme bij jouw werk past.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Microbreaks: energie omhoog, vermoeidheid omlaag</text><line x1=\"30\" y1=\"190\" x2=\"340\" y2=\"190\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"30\" y1=\"190\" x2=\"30\" y2=\"50\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"36\" y=\"46\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">energie</text><path d=\"M30 70 L110 130 L120 80 L200 140 L210 90 L290 150 L300 100 L340 130\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"400\" stroke-dashoffset=\"400\"><animate attributeName=\"stroke-dashoffset\" values=\"400;0;0\" dur=\"6s\" repeatCount=\"indefinite\"/></path><rect x=\"109\" y=\"175\" width=\"12\" height=\"12\" fill=\"#ffd166\"/><rect x=\"199\" y=\"175\" width=\"12\" height=\"12\" fill=\"#ffd166\"/><rect x=\"289\" y=\"175\" width=\"12\" height=\"12\" fill=\"#ffd166\"/><text x=\"200\" y=\"210\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">= pauze van max. 10 minuten</text></svg>",
+   "quiz": {
+    "q": "Welk effect hadden microbreaks volgens Albulescu e.a. (2022) het minst duidelijk?",
+    "o": [
+     "Meer vitaliteit",
+     "Minder vermoeidheid",
+     "Betere prestaties"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Albulescu e.a. 2022, PLOS ONE (DOAJ)",
+     "u": "https://doaj.org/article/c6f37b6ba159469296b2cb968b65505f"
+    },
+    {
+     "t": "EurekAlert! persbericht",
+     "u": "https://www.eurekalert.org/news-releases/962663"
+    },
+    {
+     "t": "ScienceDaily",
+     "u": "https://www.sciencedaily.com/releases/2022/08/220831152754.htm"
+    }
+   ],
+   "date": "2026-11-17T10:19:27Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "'Doe je best' is een slecht doel",
+   "body": "Na 35 jaar onderzoek concludeerden Edwin Locke en Gary Latham (2002): specifieke, moeilijke doelen leiden tot betere prestaties dan 'doe je best'. Meta-analyses vonden effectgroottes van 0,42 tot 0,80. Prestaties vlakken pas af wanneer je de grens van je kunnen bereikt of je engagement verliest.",
+   "take": "Vervang 'meer lezen' door 'twintig bladzijden per avond vóór 22u', en hou bij of je het haalt.",
+   "deep": "## Hoe het werkt\n\nEen specifiek, moeilijk doel werkt via een paar mechanismen. Het richt je aandacht op wat ertoe doet en weg van afleiding. Het verhoogt je inspanning, omdat de lat hoog ligt. Het verlengt je volharding, omdat je weet wanneer je klaar bent. En het zet je aan om strategieën te zoeken. 'Doe je best' heeft geen externe meetlat: je kunt jezelf altijd wijsmaken dat het gelukt is.\n\n## Een voorbeeld\n\nTwee collega's moeten offertes opvolgen. De ene krijgt te horen: 'Doe je best.' De andere: 'Bel deze week 25 klanten terug.' De tweede weet precies waar hij staat op woensdag en kan bijsturen. Hetzelfde voor een loper die zich voorneemt 'wat sneller te lopen' versus '5 kilometer onder 30 minuten tegen juni'.\n\n## Wat onderzoek zegt\n\nEdwin Locke en Gary Latham vatten in 2002 in American Psychologist 35 jaar onderzoek naar doelstellingen samen. Ze stellen dat mensen die gevraagd wordt hun best te doen, dat in de praktijk niet doen, omdat zo'n doel geen referentiepunt heeft. Meta-analyses, gebundeld in hun boek uit 1990, vonden voor specifieke, moeilijke doelen effectgroottes van 0,42 tot 0,80. Prestaties stegen mee met de moeilijkheid van het doel en vlakten pas af wanneer mensen de grens van hun kunnen bereikten of hun engagement voor een zeer moeilijk doel verloren. Feedback over de vooruitgang en echte toewijding aan het doel versterken het effect.\n\n## Nuance of misverstand\n\nHoe moeilijker, hoe beter geldt niet onbeperkt. Een doel dat je als onhaalbaar ervaart, gooi je overboord. Bij complexe, nieuwe taken kan een strikt prestatiedoel zelfs averechts werken, omdat je dan nog niet weet hoe je het moet aanpakken. Daar werkt een leerdoel beter, zoals 'vind drie manieren om dit probleem op te lossen'. En wie alleen op een cijfer mikt, kan andere belangrijke zaken verwaarlozen.\n\n## Wat je ermee doet\n\nFormuleer je doelen meetbaar en uitdagend, maar realistisch. Koppel ze aan een termijn en zorg voor tussentijdse feedback, bijvoorbeeld een wekelijkse check. Bij iets volledig nieuws: begin met een leerdoel, en schakel over op een prestatiedoel zodra je de basis beheerst.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Vaag doel vs specifiek en moeilijk doel</text><circle cx=\"90\" cy=\"110\" r=\"45\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"5 5\"/><text x=\"90\" y=\"114\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">doe je best</text><circle cx=\"270\" cy=\"110\" r=\"45\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"270\" cy=\"110\" r=\"28\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><circle cx=\"270\" cy=\"110\" r=\"10\" fill=\"#ff6b9d\"/><circle r=\"5\" fill=\"#06d6a0\"><animateMotion path=\"M180 200 Q200 120 262 110\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><circle r=\"5\" fill=\"#fff\" opacity=\"0.6\"><animateMotion path=\"M60 200 Q40 140 120 90 Q150 60 70 70\" dur=\"5s\" repeatCount=\"indefinite\"/></circle><text x=\"90\" y=\"180\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">geen meetlat</text><text x=\"270\" y=\"180\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">meetbaar mikpunt</text><text x=\"180\" y=\"210\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Effectgroottes .42 tot .80</text></svg>",
+   "quiz": {
+    "q": "Wanneer vlakken prestaties volgens Locke en Latham af bij moeilijke doelen?",
+    "o": [
+     "Bij het bereiken van je grens of verlies van engagement",
+     "Zodra het doel specifiek is",
+     "Als je feedback krijgt"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Locke & Latham 2002, American Psychologist",
+     "u": "https://home.ubalt.edu/tmitch/642/articles%20syllabus/locke%20pract%20goal%20setting%202002%20am%20psy.pdf"
+    },
+    {
+     "t": "Seijts & Latham 2005, leerdoelen vs prestatiedoelen",
+     "u": "https://wku.edu/cebs/doctorate/documents/readings/seijts_latham_2005_learning_vs_performance_goals.pdf"
+    }
+   ],
+   "date": "2026-11-17T10:19:27Z"
   }
  ],
  "dives": [
