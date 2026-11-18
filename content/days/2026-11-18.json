@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T05:43:00Z",
+ "updated": "2026-11-18T05:43:25Z",
  "cards": [
   {
    "cat": "wetenschap",
@@ -316,6 +316,274 @@
     }
    ],
    "date": "2026-11-18T05:43:00Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Bijna de helft ziet de gorilla gewoon niet",
+   "body": "In 1999 lieten Daniel Simons en Christopher Chabris kijkers passes tellen in een basketbalfilmpje. Midden in beeld liep iemand in een gorillapak door, die zelfs op zijn borst klopte. Van de 192 kijkers zag 46% hem niet. Dat heet onoplettendheidsblindheid: wat je aandacht niet zoekt, bereikt je bewustzijn vaak niet.",
+   "take": "Kijk bij het afslaan of oversteken bewust naar fietsers, ook als je vooral op auto's let: wat je niet zoekt, mis je.",
+   "deep": "## Hoe het werkt\n\nJe ogen registreren veel meer dan je bewust waarneemt. Aandacht werkt als een filter: wat relevant is voor je taak, komt erdoor; de rest blijft vaak onopgemerkt, zelfs als het recht voor je neus gebeurt. Psychologen noemen dit onoplettendheidsblindheid (inattentional blindness). Het verschil met gewoon 'niet goed kijken' is dat je ogen er wel op gericht kunnen zijn. Je ziet het, maar je merkt het niet.\n\n## Een voorbeeld\n\nJe rijdt door een drukke straat in Gent en focust op de auto die voor je invoegt. Een fietser die van rechts komt, valt buiten je aandachtsfilter, terwijl hij duidelijk in je gezichtsveld zat. Achteraf zeg je eerlijk: 'Ik heb hem echt niet gezien.' Dat is geen smoes, maar precies dit mechanisme.\n\n## Wat onderzoek zegt\n\nSimons en Chabris publiceerden hun studie in 1999 in het vakblad Perception. Kijkers telden de passes van het team in witte of in zwarte shirts. Tijdens het filmpje liep een persoon in gorillapak of een vrouw met een paraplu door het beeld. Over alle versies heen merkte 46% van de 192 deelnemers het onverwachte niet op. Hoe moeilijker de teltaak, hoe vaker men het miste.\n\nHet effect is vaak herhaald. In 2013 plaatsten Trafton Drew en collega's een kleine gorilla in longscans: 20 van de 24 radiologen zagen hem niet, hoewel hij 48 keer groter was dan een gemiddeld knobbeltje.\n\n## Nuance of misverstand\n\nHet is geen teken van domheid of slordigheid: het is de prijs van geconcentreerd werken. Je brein kan niet alles tegelijk verwerken. En vooraf weten dat er iets onverwachts kan komen, helpt minder dan je denkt. In een latere variant van Simons zagen mensen die de gorilla al kenden hem wel, maar misten ze andere onverwachte veranderingen even vaak.\n\n## Wat je ermee doet\n\nWees bescheiden over wat je 'zeker' wel gezien zou hebben. Vertrouw in het verkeer en op het werk niet alleen op je aandacht, maar op vaste routines: schouderblik, checklist, een tweede paar ogen. En wees milder voor iemand die oprecht iets gemist heeft.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"20\" y=\"30\" width=\"320\" height=\"140\" rx=\"10\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"80\" cy=\"100\" r=\"9\" fill=\"#fff\"/><circle cx=\"160\" cy=\"70\" r=\"9\" fill=\"#fff\"/><circle cx=\"270\" cy=\"110\" r=\"9\" fill=\"#fff\"/><circle cx=\"120\" cy=\"135\" r=\"9\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"230\" cy=\"65\" r=\"9\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle r=\"7\" fill=\"#ffd166\"><animateMotion dur=\"4s\" repeatCount=\"indefinite\" path=\"M80 100 L160 70 L270 110 L80 100\"/></circle><circle cx=\"195\" cy=\"120\" r=\"16\" fill=\"#ff6b9d\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;0.9;0.9;0\" dur=\"8s\" repeatCount=\"indefinite\"/></circle><text x=\"195\" y=\"152\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">gorilla</text><text x=\"180\" y=\"22\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Tel de passes van het witte team</text><text x=\"180\" y=\"192\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">Je aandacht volgt de bal (geel)</text><text x=\"180\" y=\"210\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">46% zag de gorilla niet</text></svg>",
+   "quiz": {
+    "q": "Wat maakte in de gorillastudie het missen van de gorilla waarschijnlijker?",
+    "o": [
+     "Een moeilijkere teltaak",
+     "Een kleiner scherm",
+     "Een kortere video"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Simons & Chabris (1999), Perception",
+     "u": "https://labs.wsu.edu/attention-perception-performance/documents/2016/05/simons_chabris_99.pdf/"
+    },
+    {
+     "t": "Drew e.a. (2013), The invisible gorilla strikes again",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3964612/"
+    },
+    {
+     "t": "Univ. of Illinois – Expecting the unexpected",
+     "u": "https://news.illinois.edu/expecting-the-unexpected-does-not-improve-ones-chances-of-seeing-it/"
+    }
+   ],
+   "date": "2026-11-18T05:43:25Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Eén werkwoord kan je herinnering aan een ongeval veranderen",
+   "body": "Elizabeth Loftus en John Palmer toonden in 1974 filmpjes van verkeersongevallen. Wie gevraagd werd hoe snel de auto's 'op elkaar knalden', schatte gemiddeld 66 km/u; bij 'raakten' was dat 55 km/u. Een week later 'herinnerde' 32% van de knal-groep zich glasscherven, tegen 14% van de raak-groep. Er lag geen glas.",
+   "take": "Stel na een ongeval of incident open, neutrale vragen ('Wat zag je?') en schrijf je eigen herinnering meteen op.",
+   "deep": "## Hoe het werkt\n\nEen herinnering is geen video die je terugspoelt. Elke keer dat je iets ophaalt, bouw je het opnieuw op uit fragmenten, aangevuld met wat je verwacht of later hoort. Informatie die achteraf binnenkomt, zoals de woordkeuze in een vraag, kan zo in de herinnering zelf sluipen. Psychologen noemen dit het misinformatie-effect.\n\n## Een voorbeeld\n\nNa een aanrijding op een rotonde in Leuven vult een getuige een verklaring in. Vraagt iemand 'Hoe hard knalde die wagen erop?', dan stuurt dat woord niet alleen het antwoord, maar mogelijk ook wat die getuige zich een week later nog 'ziet' gebeuren.\n\n## Wat onderzoek zegt\n\nIn het eerste experiment van Loftus en Palmer (1974, Journal of Verbal Learning and Verbal Behavior) bekeken 45 studenten zeven filmpjes van verkeersongevallen. Alleen het werkwoord in de snelheidsvraag verschilde. Gemiddelde schattingen: 'smashed' 40,8 mijl per uur (ongeveer 66 km/u), 'collided' 39,3, 'bumped' 38,1, 'hit' 34,0 (ongeveer 55 km/u) en 'contacted' 31,8.\n\nIn het tweede experiment zagen 150 studenten één ongeval. Een week later vroeg men of ze gebroken glas hadden gezien. In de 'smashed'-groep zei 32% ja (16 van 50), in de 'hit'-groep 14% en in een controlegroep zonder snelheidsvraag 12%. In de film was er geen glas.\n\n## Nuance of misverstand\n\nDit betekent niet dat al je herinneringen onbetrouwbaar zijn: de kern van wat je meemaakte, blijft vaak overeind. Het effect zit vooral in details. Het oorspronkelijke onderzoek gebruikte studenten en filmpjes, geen echte, emotionele ongevallen. Maar Loftus en vele anderen hebben het misinformatie-effect daarna in honderden studies teruggevonden, en het heeft de manier waarop politie getuigen ondervraagt mee veranderd.\n\n## Wat je ermee doet\n\nNoteer na een belangrijk voorval zo snel mogelijk wat je zelf zag, voor je met anderen praat. Stel als je iemand bevraagt open vragen zonder geladen woorden. En wees voorzichtig met 'ik weet het zeker': zekerheid en juistheid zijn niet hetzelfde.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"90\" y=\"30\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">&#8216;raakten&#8217;</text><text x=\"270\" y=\"30\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">&#8216;knalden&#8217;</text><line x1=\"40\" y1=\"180\" x2=\"320\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"60\" y=\"180\" width=\"60\" height=\"0\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"height\" values=\"0;110;110;0\" keyTimes=\"0;0.4;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;70;70;180\" keyTimes=\"0;0.4;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"240\" y=\"180\" width=\"60\" height=\"0\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"0;132;132;0\" keyTimes=\"0;0.4;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;48;48;180\" keyTimes=\"0;0.4;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"90\" y=\"198\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">55 km/u</text><text x=\"270\" y=\"198\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">66 km/u</text><text x=\"180\" y=\"120\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">zelfde film</text><text x=\"180\" y=\"136\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">ander werkwoord</text><text x=\"180\" y=\"214\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">Glasscherven &#8216;gezien&#8217;: 14% vs 32%</text></svg>",
+   "quiz": {
+    "q": "Wat zagen deelnemers die 'knalden' hoorden een week later vaker?",
+    "o": [
+     "Een ambulance",
+     "Glasscherven die er niet waren",
+     "Een rood licht"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Loftus & Palmer (1974), originele paper",
+     "u": "https://gwern.net/doc/psychology/cognitive-bias/1974-loftus.pdf"
+    },
+    {
+     "t": "Simply Psychology – Loftus and Palmer",
+     "u": "https://simplypsychology.org/loftus-palmer.html"
+    }
+   ],
+   "date": "2026-11-18T05:43:25Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Wat je vaak ziet, ga je vanzelf leuker vinden",
+   "body": "Robert Zajonc toonde in 1968 Chinese tekens aan mensen die geen Chinees lazen, het ene teken nul keer, het andere tot 25 keer. Hoe vaker ze een teken zagen, hoe positiever ze de betekenis inschatten. Een overzicht van ruim 200 experimenten (Bornstein, 1989) bevestigde dit 'mere exposure'-effect, al is het bescheiden.",
+   "take": "Vind je een nieuw liedje, gerecht of collega eerst 'niks'? Geef het een paar kansen voor je oordeelt.",
+   "deep": "## Hoe het werkt\n\nIets herhaaldelijk zien, zonder beloning of uitleg, maakt het vertrouwd. Vertrouwd voelt veilig, en dat gevoel verwarren we gemakkelijk met 'ik vind dit goed'. Een gangbare verklaring is dat je brein bekende dingen vlotter verwerkt, en dat die vlotheid aangenaam aanvoelt.\n\n## Een voorbeeld\n\nHet eerste nummer van een nieuw album vind je na één keer luisteren matig. Na een week op Studio Brussel of MNM zing je mee. Hetzelfde gebeurt met een nieuw logo, een nieuw kapsel of een nieuwe collega op de werkvloer: wat eerst vreemd aanvoelde, wordt gewoon en vaak sympathieker.\n\n## Wat onderzoek zegt\n\nZajonc publiceerde in 1968 'Attitudinal effects of mere exposure'. Proefpersonen zagen Chinese tekens en verzonnen woorden een wisselend aantal keren, van nul tot 25 keer. Daarna moesten ze raden of elk teken iets goeds of slechts betekende. Vaak geziene tekens kregen systematisch een positievere betekenis.\n\nRobert Bornstein bundelde in 1989 in Psychological Bulletin het onderzoek van twintig jaar, ruim 200 experimenten. Het effect bleek betrouwbaar maar bescheiden (een correlatie rond 0,26). Het was sterker bij korte blootstellingen en bereikte meestal een maximum na zo'n tien tot twintig keer.\n\n## Nuance of misverstand\n\nMeer is niet altijd beter. Na veel herhalingen slaat het effect om in verveling of ergernis, denk aan een reclamespotje dat je voor de twintigste keer hoort. Het werkt ook vooral bij neutrale of onbekende dingen: iets wat je echt onaangenaam vindt, ga je door herhaling niet plots graag zien. En het is een duwtje, geen hersenspoeling.\n\n## Wat je ermee doet\n\nGebruik het bewust: geef nieuwe dingen een eerlijke herkansing voor je oordeelt. Wees ook alert: dat een merk of naam 'goed voelt', kan simpelweg komen doordat je het vaak zag. Vraag je bij een aankoop of stemkeuze af of je het echt kent, of alleen herkent.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"30\" y=\"60\" width=\"90\" height=\"90\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M55 85 L95 85 M75 75 L75 130 M58 110 L92 110\" stroke=\"#fff\" stroke-width=\"2\" fill=\"none\"><animate attributeName=\"opacity\" values=\"1;0.2;1\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><text x=\"75\" y=\"172\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">vaak gezien</text><line x1=\"135\" y1=\"105\" x2=\"185\" y2=\"105\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" from=\"24\" to=\"0\" dur=\"2s\" repeatCount=\"indefinite\"/></line><path d=\"M185 99 L195 105 L185 111 Z\" fill=\"#fff\"/><rect x=\"215\" y=\"60\" width=\"30\" height=\"100\" rx=\"4\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"219\" y=\"156\" width=\"22\" height=\"0\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"5;70;5\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"151;86;151\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"300\" y=\"100\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">sympathie</text><text x=\"300\" y=\"116\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">stijgt</text><text x=\"180\" y=\"30\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Herhaling zonder uitleg</text><text x=\"180\" y=\"205\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">Effect bescheiden, piekt na 10 tot 20 keer</text></svg>",
+   "quiz": {
+    "q": "Wat gebeurde er volgens Bornstein na heel veel herhalingen?",
+    "o": [
+     "Het effect bleef eindeloos groeien",
+     "Het effect werd negatief bij iedereen meteen",
+     "Het effect bereikte een maximum en kon omslaan in verveling"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Bornstein (1989), Psychological Bulletin",
+     "u": "https://www.researchgate.net/publication/232497059_Exposure_and_Affect_Overview_and_Meta-Analysis_of_Research_1968-1987"
+    },
+    {
+     "t": "Simply Psychology – Mere exposure effect",
+     "u": "https://www.simplypsychology.org/mere-exposure-effect.html"
+    }
+   ],
+   "date": "2026-11-18T05:43:25Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Je kunt niet stoppen met lezen, zelfs niet expres",
+   "body": "Lees je het woord ROOD in groene letters en moet je de inktkleur zeggen, dan ben je trager en maak je meer fouten. John Ridley Stroop beschreef dit in 1935. Colin MacLeod bekeek in 1991 zo'n 400 studies: het effect is een van de stevigste in de psychologie. Lezen gaat bij volwassenen gewoon vanzelf.",
+   "take": "Wil je iets snel laten herkennen, laat tekst en kleur dan hetzelfde zeggen: groene knop 'ja', rode knop 'nee'.",
+   "deep": "## Hoe het werkt\n\nLezen is voor een geoefende lezer een automatisch proces: je ziet een woord en de betekenis is er al, of je wil of niet. Een kleur benoemen vraagt meer bewuste moeite. Botsen woord en kleur, dan moet je de automatische reactie onderdrukken. Dat kost tijd en levert fouten op.\n\n## Een voorbeeld\n\nJe staat aan een parkeerautomaat waarop de knop 'Annuleren' groen is en 'Bevestigen' rood. Grote kans dat je even aarzelt of de verkeerde knop indrukt. Ontwerpers houden daarom kleur en betekenis gelijk: groen voor doorgaan, rood voor stoppen.\n\n## Wat onderzoek zegt\n\nStroop publiceerde zijn experimenten in 1935 in het Journal of Experimental Psychology. In een van de proeven oefenden deelnemers acht dagen lang: de vertraging nam af, maar verdween niet. Colin MacLeod (Universiteit van Waterloo) bekeek in 1991 in Psychological Bulletin zo'n 400 studies over meer dan vijftig jaar en besloot dat de interferentie opvallend robuust is. De taak wordt nog steeds gebruikt in onderzoek en in neuropsychologische tests om aandacht en zelfcontrole te meten.\n\n## Nuance of misverstand\n\nDat het effect bestaat, staat vast. Waarom precies, daarover discussiëren onderzoekers nog. De eenvoudigste uitleg, 'lezen gaat sneller dan kleuren benoemen', blijkt volgens MacLeod en Dunbar (1984) niet alles te verklaren; modellen over automatisme en concurrerende signalen in de hersenen vullen dat aan. Ook een misverstand: online 'Stroop-spelletjes' maken je niet algemeen slimmer. Je wordt vooral beter in die ene taak, en het effect zelf blijft ook na veel oefening bestaan, zoals Stroop al zag.\n\n## Wat je ermee doet\n\nGebruik het in alles wat je ontwerpt, van een presentatie tot een formulier of een bewegwijzering op een evenement: laat tekst, kleur en symbool hetzelfde vertellen. Een rood bordje met 'uitgang' in een groene huisstijl doet mensen even twijfelen. En onthoud dat gewoontes die automatisch lopen, moeilijk te onderdrukken zijn. Wil je een automatische reactie veranderen, reken dan op moeite en herhaling.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"70\" y=\"70\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"13\">GROEN</text><text x=\"70\" y=\"140\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\">ROOD</text><text x=\"70\" y=\"30\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Noem de inktkleur</text><rect x=\"135\" y=\"55\" width=\"0\" height=\"20\" fill=\"#06d6a0\"><animate attributeName=\"width\" values=\"0;90;90;0\" keyTimes=\"0;0.3;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"135\" y=\"125\" width=\"0\" height=\"20\" fill=\"#ffd166\"><animate attributeName=\"width\" values=\"0;150;150;0\" keyTimes=\"0;0.5;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"135\" y=\"95\" text-anchor=\"start\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">klopt: snel</text><text x=\"135\" y=\"165\" text-anchor=\"start\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">botst: trager en meer fouten</text><line x1=\"20\" y1=\"185\" x2=\"340\" y2=\"185\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"207\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">Lezen gaat vanzelf en stoort het kleuren benoemen</text></svg>",
+   "quiz": {
+    "q": "Wat gebeurde er met het Stroop-effect na dagen oefenen?",
+    "o": [
+     "Het nam af maar bleef bestaan",
+     "Het verdween volledig",
+     "Het werd groter"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "APA – The Stroop effect",
+     "u": "https://www.apa.org/research-practice/conduct-research/stroop-effect"
+    },
+    {
+     "t": "MacLeod (1991), review (Univ. of Waterloo)",
+     "u": "https://uwaterloo.ca/memory-attention-cognition-lab/sites/default/files/uploads/files/strooprev_0.pdf"
+    }
+   ],
+   "date": "2026-11-18T05:43:25Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "Open kantoren doen collega's minder met elkaar praten",
+   "body": "Ethan Bernstein en Stephen Turban (Harvard) lieten werknemers sensorbadges dragen voor en na de overstap naar een open kantoor. Bij twee grote bedrijven daalde het persoonlijke contact met ongeveer 70%. Tegelijk stuurden collega's elkaar meer mails en chatberichten. Wie overal gezien en gehoord wordt, zoekt blijkbaar privacy achter een scherm.",
+   "take": "Werk je in een open ruimte? Spreek af waar en wanneer je ongestoord kunt overleggen, bijvoorbeeld in een vergaderhokje.",
+   "deep": "## Hoe het werkt\n\nOpen kantoren zijn vaak bedoeld om toevallige gesprekken en samenwerking te stimuleren: geen muren, dus meer contact. Maar mensen reageren op het gevoel voortdurend bekeken en gehoord te worden. Ze zetten een koptelefoon op, kijken naar hun scherm en verplaatsen gesprekken naar mail of chat, waar ze wel privacy hebben.\n\n## Een voorbeeld\n\nEen team in een Brussels kantoor verhuist van kleine bureaus naar één grote open verdieping. In plaats van even bij een collega binnen te lopen, sturen mensen nu een Teams-bericht naar iemand die drie meter verderop zit, om de rest niet te storen.\n\n## Wat onderzoek zegt\n\nBernstein (Harvard Business School) en Turban publiceerden in 2018 in Philosophical Transactions of the Royal Society B twee veldstudies. Bij het eerste bedrijf, een Fortune 500-onderneming, droegen 52 werknemers drie weken voor en drie weken na de verbouwing badges met sensoren en microfoons die registreerden wanneer ze met iemand spraken. Met hun toestemming telden de onderzoekers ook mails en chatberichten. Het persoonlijke contact daalde met ongeveer 70%. Er werden 56% meer mails verstuurd en 67% meer chatberichten.\n\nBij een tweede bedrijf, met 100 deelnemers die acht weken voor en na werden gevolgd, daalde het persoonlijke contact eveneens met ruwweg twee derde.\n\n## Nuance of misverstand\n\nHet gaat om twee bedrijven, niet om alle open kantoren. De studie meet hoeveel mensen praten, niet of het werk beter of slechter werd. En een open ruimte kan voor sommige taken prima werken. De les is niet 'muren zijn altijd beter', maar dat weghalen van muren niet vanzelf tot meer samenwerking leidt.\n\n## Wat je ermee doet\n\nGa niet uit van 'open ruimte is samenwerken'. Voorzie ook stille plekken en kleine overlegruimtes, en maak afspraken over wanneer je ongestoord werkt. Moet een team écht samenwerken, plan dan bewust momenten om samen aan tafel te zitten.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"90\" y=\"25\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Met wanden</text><text x=\"270\" y=\"25\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Open kantoor</text><line x1=\"180\" y1=\"35\" x2=\"180\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><rect x=\"30\" y=\"50\" width=\"50\" height=\"40\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"100\" y=\"50\" width=\"50\" height=\"40\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"55\" cy=\"130\" r=\"8\" fill=\"#fff\"/><circle cx=\"125\" cy=\"130\" r=\"8\" fill=\"#fff\"/><line x1=\"65\" y1=\"130\" x2=\"115\" y2=\"130\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" from=\"24\" to=\"0\" dur=\"2s\" repeatCount=\"indefinite\"/></line><text x=\"90\" y=\"160\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">praten</text><circle cx=\"225\" cy=\"130\" r=\"8\" fill=\"#fff\"/><circle cx=\"315\" cy=\"130\" r=\"8\" fill=\"#fff\"/><rect x=\"250\" y=\"60\" width=\"40\" height=\"28\" rx=\"3\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle r=\"4\" fill=\"#ffd166\"><animateMotion dur=\"3s\" repeatCount=\"indefinite\" path=\"M225 122 L270 88 L315 122\"/></circle><text x=\"270\" y=\"160\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">mailen</text><text x=\"180\" y=\"200\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\">Face-to-face circa 70% minder</text></svg>",
+   "quiz": {
+    "q": "Wat gebeurde er met het mailverkeer na de overstap naar een open kantoor?",
+    "o": [
+     "Het daalde ook met 70%",
+     "Het bleef gelijk",
+     "Het steeg"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Bernstein & Turban (2018), Harvard DASH",
+     "u": "https://dash.harvard.edu/entities/publication/890a4d8f-e65b-4c5e-a9d9-884fb1526fab"
+    },
+    {
+     "t": "PBS NewsHour – open office layouts",
+     "u": "https://www.pbs.org/newshour/science/heres-proof-that-open-office-layouts-dont-work-and-how-to-fix-them"
+    }
+   ],
+   "date": "2026-11-18T05:43:25Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "Boven 49 uur per week loont extra werk nauwelijks",
+   "body": "Econoom John Pencavel (Stanford) analyseerde productiecijfers van Britse munitiearbeiders uit de Eerste Wereldoorlog. Tot ongeveer 49 uur per week steeg de output evenredig met de uren. Daarboven leverde elk extra uur steeds minder op. Een week van 70 uur produceerde nauwelijks meer dan een van 56 uur. Het ontbreken van een rustdag woog het zwaarst.",
+   "take": "Plan in drukke periodes liever een vaste vrije dag dan lange avonden: rust levert meer op dan extra uren.",
+   "deep": "## Hoe het werkt\n\nMoe werk is trager werk. Wie lange dagen maakt, verliest per uur aan tempo en nauwkeurigheid, maakt meer fouten en wordt vaker ziek. Tot een bepaald punt telt elk uur volledig mee; daarna gaan de extra uren deels verloren aan vermoeidheid, en op den duur bijna volledig.\n\n## Een voorbeeld\n\nEen voltijdse werkweek in België is wettelijk maximaal 38 uur. Stel dat je in een drukke maand elke dag doorwerkt, ook in het weekend. Op papier werk je dan 70 uur, maar je laatste uren zijn trager en slordiger, en maandag begin je zonder herstel aan een nieuwe week.\n\n## Wat onderzoek zegt\n\nTijdens de Eerste Wereldoorlog verzamelde het Britse Health of Munition Workers Committee nauwkeurige gegevens over werkuren en productie in munitiefabrieken, waar vooral vrouwen werkten. John Pencavel analyseerde die cijfers opnieuw; zijn studie verscheen in 2015 in The Economic Journal. Onder ongeveer 49 uur per week steeg de productie evenredig met de uren. Daarboven nam de opbrengst per extra uur af. Volgens de samenvatting van de Royal Economic Society lag de weekproductie zelfs iets hoger bij 48 uur verspreid over zes dagen dan bij 70 uur over zeven dagen. Het gebrek aan een rustdag bleek de schadelijkste factor.\n\n## Nuance of misverstand\n\nDit zijn gegevens van zwaar fabriekswerk in oorlogstijd. Kenniswerk is anders, en de precieze grens van 49 uur geldt niet voor iedereen. Pencavel zegt zelf dat de drempel bij andere jobs hoger kan liggen. De algemene les, afnemende meeropbrengst en het belang van rust, sluit wel aan bij later onderzoek naar vermoeidheid en fouten.\n\n## Wat je ermee doet\n\nMeet je inzet niet in uren, maar in resultaat. Bescherm minstens één volledige rustdag per week, ook in drukke periodes. En als een deadline extra uren vraagt, beperk die dan tot een korte periode in plaats van ze maandenlang vol te houden.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><line x1=\"40\" y1=\"180\" x2=\"330\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"40\" y1=\"180\" x2=\"40\" y2=\"30\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M40 180 L150 80 Q220 30 320 45\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"150\" y1=\"180\" x2=\"150\" y2=\"80\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"3 4\"/><circle r=\"6\" fill=\"#06d6a0\"><animateMotion dur=\"5s\" repeatCount=\"indefinite\" path=\"M40 180 L150 80 Q220 30 320 45\"/></circle><text x=\"150\" y=\"197\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">~49 u</text><text x=\"300\" y=\"197\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">70 u</text><text x=\"185\" y=\"212\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">Uren per week</text><text x=\"95\" y=\"105\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">evenredig</text><text x=\"250\" y=\"80\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">steeds minder extra</text><text x=\"60\" y=\"25\" text-anchor=\"start\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">Output</text></svg>",
+   "quiz": {
+    "q": "Wat bleek volgens Pencavel het schadelijkst voor de productie?",
+    "o": [
+     "Te korte lunchpauzes",
+     "Geen wekelijkse rustdag",
+     "Te vroeg beginnen"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Stanford SIEPR – The Productivity of Working Hours",
+     "u": "https://siepr.stanford.edu/publications/working-paper/productivity-working-hours"
+    },
+    {
+     "t": "Royal Economic Society – media briefing",
+     "u": "https://res.org.uk/mediabriefing/long-working-hours-take-their-toll-on-people-s-health-and-job-performance-evidence-from-first-world-war-munition-workers/"
+    },
+    {
+     "t": "Quartz – longer hours and productivity",
+     "u": "https://qz.com/313397/you-really-can-work-longer-hours-without-killing-your-productivity"
+    }
+   ],
+   "date": "2026-11-18T05:43:25Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "Drie keer per dag mail checken geeft minder stress",
+   "body": "Psychologen Kostadin Kushlev en Elizabeth Dunn (University of British Columbia) lieten 124 volwassenen een week lang hun mail maar drie keer per dag openen, en een andere week zo vaak ze wilden. In de beperkte week ervoeren ze duidelijk minder stress. Zonder beperking keken ze gemiddeld zo'n dertien keer per dag.",
+   "take": "Zet meldingen van je mail uit en kies drie vaste momenten per dag om je inbox in één keer af te werken.",
+   "deep": "## Hoe het werkt\n\nElke keer dat je je mailbox opent, trek je je aandacht weg van wat je aan het doen was. Bovendien zie je bij elke blik nieuwe vragen en verzoeken die in je hoofd blijven hangen. Door mail te bundelen, komen dezelfde berichten binnen, maar verwerk je ze in minder, geconcentreerde blokken.\n\n## Een voorbeeld\n\nEen bediende bij een Antwerpse kmo houdt Outlook de hele dag open en ziet bij elk belletje een nieuw bericht. Als ze haar inbox alleen om 9, 13 en 16 uur opent, beantwoordt ze dezelfde mails, maar zonder voortdurende onderbrekingen tussendoor.\n\n## Wat onderzoek zegt\n\nKushlev en Dunn publiceerden hun experiment in 2015 in Computers in Human Behavior. Van de 142 deelnemers voltooiden 124 de studie; ongeveer twee derde waren studenten, de rest werkte in uiteenlopende sectoren. In de ene week mochten ze hun mail drie keer per dag bekijken, in de andere onbeperkt; de volgorde werd willekeurig bepaald. Elke dag vulden ze een korte vragenlijst in. In de week met drie checks rapporteerden ze significant minder dagelijkse stress. De onderzoekers spreken van causaal bewijs, omdat dezelfde mensen beide situaties doorliepen.\n\n## Nuance of misverstand\n\nHet is één studie met vooral studenten, en stress werd gemeten met vragenlijsten, niet met productiviteitscijfers. Bovendien vonden de deelnemers het moeilijk om zich aan drie checks te houden; velen keken toch vaker. En in sommige jobs moet je echt snel reageren. Dan helpt het om afspraken te maken over hoe dringende zaken je bereiken, bijvoorbeeld via telefoon.\n\n## Wat je ermee doet\n\nKies vaste momenten voor je mail en zet meldingen uit. Laat collega's weten dat dringende vragen via een ander kanaal kunnen. Probeer het een week en let erop hoe je je aan het eind van de dag voelt. Werkt het, maak er dan een vaste gewoonte van en zet de momenten als terugkerende afspraak in je agenda, zodat ze niet ongemerkt verdwijnen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"90\" y=\"28\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Onbeperkt (~13x)</text><text x=\"270\" y=\"28\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">3x per dag</text><line x1=\"20\" y1=\"110\" x2=\"160\" y2=\"110\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"200\" y1=\"110\" x2=\"340\" y2=\"110\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"28\" y1=\"100\" x2=\"28\" y2=\"120\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"39\" y1=\"100\" x2=\"39\" y2=\"120\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"50\" y1=\"100\" x2=\"50\" y2=\"120\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"61\" y1=\"100\" x2=\"61\" y2=\"120\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"72\" y1=\"100\" x2=\"72\" y2=\"120\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"83\" y1=\"100\" x2=\"83\" y2=\"120\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"94\" y1=\"100\" x2=\"94\" y2=\"120\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"105\" y1=\"100\" x2=\"105\" y2=\"120\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"116\" y1=\"100\" x2=\"116\" y2=\"120\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"127\" y1=\"100\" x2=\"127\" y2=\"120\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"138\" y1=\"100\" x2=\"138\" y2=\"120\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"149\" y1=\"100\" x2=\"149\" y2=\"120\" stroke=\"#ffd166\" stroke-width=\"2\"/><rect x=\"215\" y=\"95\" width=\"14\" height=\"30\" fill=\"#06d6a0\"/><rect x=\"263\" y=\"95\" width=\"14\" height=\"30\" fill=\"#06d6a0\"/><rect x=\"311\" y=\"95\" width=\"14\" height=\"30\" fill=\"#06d6a0\"/><line x1=\"20\" y1=\"70\" x2=\"20\" y2=\"150\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animateTransform attributeName=\"transform\" type=\"translate\" values=\"0 0;140 0\" dur=\"6s\" repeatCount=\"indefinite\"/></line><line x1=\"200\" y1=\"70\" x2=\"200\" y2=\"150\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animateTransform attributeName=\"transform\" type=\"translate\" values=\"0 0;140 0\" dur=\"6s\" repeatCount=\"indefinite\"/></line><text x=\"90\" y=\"175\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">meer stress</text><text x=\"270\" y=\"175\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">minder stress</text><text x=\"180\" y=\"205\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">Zelfde mails, gebundeld gelezen</text></svg>",
+   "quiz": {
+    "q": "Wat vonden de deelnemers volgens Kushlev moeilijk?",
+    "o": [
+     "De vragenlijsten invullen",
+     "Hun mail beantwoorden",
+     "Zich houden aan drie checks per dag"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "ScienceDaily – Check less to reduce email stress",
+     "u": "https://www.sciencedaily.com/releases/2014/12/141203142644.htm"
+    },
+    {
+     "t": "UBC Psychology – Kushlev study",
+     "u": "https://psych.ubc.ca/news/checking-your-email-less-can-help-reduce-stress-new-study-by-phd-candidate-kostadin-kushlev/"
+    },
+    {
+     "t": "CBC News – email checking and stress",
+     "u": "https://www.cbc.ca/news/science/stress-linked-to-frequent-email-checking-1.2861722"
+    }
+   ],
+   "date": "2026-11-18T05:43:25Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Je loon stijgt mee met de prijzen, bijna uniek",
+   "body": "In België stijgen de meeste lonen en uitkeringen automatisch als het leven duurder wordt. Sinds 1994 is de maatstaf de gezondheidsindex: de consumptieprijsindex zonder tabak, alcohol en motorbrandstoffen (behalve lpg). Volgens de federale overheid zijn België en Luxemburg de enige landen waar zo'n automatisme nog algemeen bestaat.",
+   "take": "Kijk in je loonbrief of cao wanneer jouw sector indexeert, zodat je weet wanneer je loon stijgt.",
+   "deep": "## Hoe het werkt\n\nStatbel meet elke maand hoeveel een korf van producten en diensten kost. Voor lonen gebruikt men de gezondheidsindex, waarin producten die schadelijk zijn voor de gezondheid niet meetellen. Om schokken af te zwakken werkt men vaak met de afgevlakte gezondheidsindex: het gemiddelde van de laatste vier maanden.\n\nIn de openbare sector ligt de regeling vast in de wet: overschrijdt de afgevlakte index een drempel, de spilindex, dan stijgen de wedden twee maanden later met 2%. In de privésector beslist elk paritair comité zelf hoe en wanneer er geïndexeerd wordt.\n\n## Een voorbeeld\n\nWerk je als bediende in het grote aanvullend paritair comité 200, dan stijgt je brutoloon één keer per jaar, op 1 januari, op basis van de evolutie van de index in het voorbije jaar. Een ambtenaar krijgt de verhoging niet op een vaste datum, maar telkens als de spilindex overschreden wordt.\n\n## Wat onderzoek zegt\n\nDe Nationale Bank van België schreef dat de automatische indexering de overheidslonen dekt en in de privésector door 98% van de bedrijven wordt toegepast. In de meeste andere landen worden lonen niet automatisch aangepast aan de prijzen, maar via onderhandelingen. Luxemburg kent wel een vergelijkbaar systeem, en ook Cyprus heeft een vorm ervan.\n\n## Nuance of misverstand\n\nIndexering beschermt je koopkracht, maar niet perfect. Ze komt met vertraging, dus bij snelle inflatie loop je eerst achter. Omdat brandstof niet meetelt, wordt een stijging van de pompprijs niet gecompenseerd. Er bestaat ook geen algemene wet die indexering voor alle werknemers verplicht. En de overheid kan ingrijpen: in 2015 werd een indexsprong doorgevoerd, waardoor één indexering van 2% wegviel.\n\n## Wat je ermee doet\n\nZoek op welk paritair comité op je loonbrief staat en wanneer dat comité indexeert. Houd er rekening mee bij grote aankopen of een nieuwe huurprijs, want ook huurprijzen mogen jaarlijks met de gezondheidsindex mee. En vergelijk bij een jobaanbod in het buitenland: daar is een automatische loonstijging niet vanzelfsprekend.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"20\" y=\"60\" width=\"100\" height=\"60\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"70\" y=\"86\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Prijzen</text><text x=\"70\" y=\"102\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"10\">zonder tabak,</text><text x=\"70\" y=\"114\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"10\">drank, brandstof</text><rect x=\"240\" y=\"60\" width=\"100\" height=\"60\" rx=\"8\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"290\" y=\"95\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Brutoloon</text><line x1=\"120\" y1=\"90\" x2=\"230\" y2=\"90\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" from=\"24\" to=\"0\" dur=\"2s\" repeatCount=\"indefinite\"/></line><path d=\"M230 84 L240 90 L230 96 Z\" fill=\"#ffd166\"/><text x=\"180\" y=\"78\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">gezondheidsindex</text><rect x=\"70\" y=\"170\" width=\"20\" height=\"10\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"10;30;10\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"170;150;170\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"270\" y=\"170\" width=\"20\" height=\"10\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"10;10;30;30;10\" keyTimes=\"0;0.3;0.6;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"170;170;150;150;170\" keyTimes=\"0;0.3;0.6;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"180\" y=\"200\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Loon volgt de prijzen, met vertraging</text></svg>",
+   "quiz": {
+    "q": "Welk product telt NIET mee in de Belgische gezondheidsindex?",
+    "o": [
+     "Brood",
+     "Elektriciteit",
+     "Tabak"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "FOD WASO – Automatische loonindexering",
+     "u": "https://werk.belgie.be/nl/themas/verloning/automatische-loonindexering"
+    },
+    {
+     "t": "BOSA – Indexatie, algemene principes",
+     "u": "https://bosa.belgium.be/nl/themas/werken-bij-de-overheid/verloning-en-voordelen/loonwedde/indexatie/indexatie-algemene"
+    },
+    {
+     "t": "NBB – Loonindexering in België en Europa",
+     "u": "https://www.nbb.be/doc/ts/publications/other/indexation/annex1.pdf"
+    }
+   ],
+   "date": "2026-11-18T05:43:25Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Je pensioenbijdrage van vandaag betaalt andermans pensioen",
+   "body": "Het Belgische wettelijk pensioen werkt volgens het repartitiestelsel: de bijdragen die werkenden vandaag betalen, gaan meteen naar de pensioenen van vandaag. Er staat dus geen persoonlijke spaarpot met jouw naam klaar. Volgens de Studiecommissie voor de Vergrijzing kosten de pensioenen ruim 11% van het bbp, de grootste sociale uitgavenpost.",
+   "take": "Bekijk op mypension.be wat je wettelijk pensioen ongeveer wordt, en beslis daarna of je extra wil sparen.",
+   "deep": "## Hoe het werkt\n\nBij een repartitiestelsel (of omslagstelsel) wordt geld niet opzij gezet en belegd, maar meteen herverdeeld. Werknemers, zelfstandigen en ambtenaren dragen bij via hun sociale bijdragen; die bijdragen betalen de uitkeringen van wie nu met pensioen is, aangevuld met belastinggeld. Later betalen de volgende generaties jouw pensioen. Dat heet solidariteit tussen generaties.\n\nTegenover dat systeem staat kapitalisatie: daar spaar je zelf een pot op die belegd wordt. In België werken de tweede pijler (bijvoorbeeld een groepsverzekering via je werkgever) en de derde pijler (pensioensparen) zo.\n\n## Een voorbeeld\n\nEen verpleegkundige in Hasselt ziet op haar loonbrief een bijdrage aan de sociale zekerheid. Dat geld belandt deze maand al bij gepensioneerden, bijvoorbeeld haar eigen grootvader. Haar eigen pensioen wordt over dertig jaar betaald door wie dan werkt.\n\n## Wat onderzoek zegt\n\nDe Studiecommissie voor de Vergrijzing van de Hoge Raad van Financiën berekent elk jaar wat de vergrijzing kost. Volgens haar verslag van 2026 bedragen de pensioenuitgaven in 2025 zo'n 11,3% van het bbp, en ze lopen later nog op. De commissie wijst erop dat het aantal gepensioneerden de komende decennia fors stijgt, terwijl de groep werkenden minder snel groeit. Recente hervormingen remmen de stijging van de kosten af.\n\n## Nuance of misverstand\n\nEen repartitiestelsel is niet 'failliet' omdat er geen pot geld is: dat is net hoe het ontworpen is. De houdbaarheid hangt af van hoeveel mensen werken, hoe de lonen evolueren en welke keuzes de politiek maakt. Kapitalisatie is ook geen wondermiddel: een opgespaarde pot kan lijden onder lage rendementen of een beurscrash. Daarom combineert België beide systemen.\n\n## Wat je ermee doet\n\nLog in op mypension.be om je geschatte wettelijk pensioen en eventuele aanvullende pensioenen te zien. Vergelijk dat bedrag met wat je denkt nodig te hebben. Is er een kloof, dan kan pensioensparen in de derde pijler helpen, met belastingvoordeel.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"20\" y=\"70\" width=\"110\" height=\"70\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"75\" y=\"100\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Werkenden</text><text x=\"75\" y=\"118\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">nu</text><rect x=\"230\" y=\"70\" width=\"110\" height=\"70\" rx=\"8\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"285\" y=\"100\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">Gepensioneerden</text><text x=\"285\" y=\"118\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">nu</text><circle r=\"5\" fill=\"#ffd166\"><animateMotion dur=\"3s\" repeatCount=\"indefinite\" path=\"M130 95 L230 95\"/></circle><circle r=\"5\" fill=\"#ffd166\"><animateMotion dur=\"3s\" begin=\"1s\" repeatCount=\"indefinite\" path=\"M130 95 L230 95\"/></circle><circle r=\"5\" fill=\"#ffd166\"><animateMotion dur=\"3s\" begin=\"2s\" repeatCount=\"indefinite\" path=\"M130 95 L230 95\"/></circle><text x=\"180\" y=\"60\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">bijdragen</text><line x1=\"180\" y1=\"170\" x2=\"180\" y2=\"125\" stroke=\"#06d6a0\" stroke-width=\"2\"/><path d=\"M174 125 L180 115 L186 125 Z\" fill=\"#06d6a0\"/><text x=\"180\" y=\"185\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">+ belastinggeld</text><text x=\"180\" y=\"30\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Repartitie: geen eigen spaarpot</text><text x=\"180\" y=\"208\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">Geld stroomt meteen door</text></svg>",
+   "quiz": {
+    "q": "Waar gaat je bijdrage voor het wettelijk pensioen in een repartitiestelsel naartoe?",
+    "o": [
+     "Naar een persoonlijke spaarpot",
+     "Naar de huidige gepensioneerden",
+     "Naar een beleggingsfonds op je naam"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Hoge Raad van Financiën – Vergrijzingsverslag 2026",
+     "u": "https://www.plan.be/sites/default/files/documents/FOR_VERG2026_13333_NL.pdf"
+    },
+    {
+     "t": "LexGO – De 4 pensioenpijlers",
+     "u": "https://careerguide.lexgo.be/nl/pensioen"
+    }
+   ],
+   "date": "2026-11-18T05:43:25Z"
   }
  ],
  "dives": [
