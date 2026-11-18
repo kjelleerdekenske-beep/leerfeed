@@ -1,6 +1,323 @@
 {
- "updated": "2026-11-18T05:39:07Z",
- "cards": [],
+ "updated": "2026-11-18T05:43:00Z",
+ "cards": [
+  {
+   "cat": "wetenschap",
+   "title": "Herfstgeel zat de hele zomer al in het blad",
+   "body": "Gele en oranje herfstkleuren worden niet in de herfst gemaakt. Carotenoïden zitten het hele jaar in het blad, maar het groene bladgroen overstemt ze. Worden de dagen korter en kouder, dan stopt de boom met bladgroen maken en breekt hij het af. Het geel blijft langer over. Rood ontstaat wél nieuw: uit anthocyanen.",
+   "take": "Hoop je op felrode bomen? Let op een herfst met zonnige dagen en koele nachten: dan kleurt het vaak het mooist.",
+   "deep": "## Hoe het werkt\n\nEen blad is in de zomer groen door chlorofyl, of bladgroen: het pigment waarmee de plant zonlicht opvangt voor fotosynthese. Maar het is niet het enige pigment. Er zitten ook carotenoïden in, die geel en oranje kleuren en meehelpen bij het opvangen van licht. In de zomer zie je ze niet, omdat er veel meer bladgroen is.\n\nAls de dagen korter worden en de temperatuur daalt, begint het blad te verouderen. De boom stopt met de aanmaak van bladgroen en het aanwezige bladgroen wordt afgebroken. Bruikbare voedingsstoffen, vooral stikstof, haalt de boom eerst terug uit het blad voor hij het laat vallen. Carotenoïden worden trager afgebroken, dus het geel en oranje komt tevoorschijn.\n\nRood en paars werken anders. Die kleuren komen van anthocyanen, pigmenten die sommige bomen pas in de herfst aanmaken. Daarvoor zijn suikers nodig die in het blad achterblijven.\n\n## Een voorbeeld\n\nWandel in oktober door een Vlaams park: naast elkaar zie je bomen die botergeel worden en andere die dieprood kleuren. Dat verschil zit in de genen van de soort. Een boom die geen anthocyanen kan maken, wordt ook in de mooiste herfst niet rood. Het geel daarentegen zat er bij alle bladverliezers al sinds de lente.\n\n## Wat onderzoek zegt\n\nPlantkundigen van onder meer het arboretum van UC Davis en de New York Botanical Garden beschrijven hetzelfde mechanisme. Zonnige herfstdagen zorgen voor veel suiker in het blad. Koele nachten vernauwen de nerven, zodat die suiker niet naar de boom wegloopt. Meer opgesloten suiker betekent meer anthocyanen en dus fellere rode tinten. Warm weer daarentegen versnelt de afbraak van bladgroen en laat bladeren sneller vallen, wat de kleurenpracht inkort. Encyclopedie Britannica vat het samen: bladgroen verdwijnt, carotenoïden worden zichtbaar, anthocyanen stapelen zich op.\n\n## Nuance of misverstand\n\nEen hardnekkig idee is dat vorst de bladeren kleurt. Kou speelt mee, maar de verkleuring start door kortere dagen en veroudering van het blad. Strenge vorst kan het blad juist beschadigen voor het mooi kleurt. Ook is nog niet volledig opgehelderd waarom bomen energie steken in rode pigmenten; wetenschappers van de University of Utah noemen het een open onderzoeksvraag.\n\n## Wat je ermee doet\n\nKijk eens naar een geel herfstblad als naar een onthulling, niet als een verandering: je ziet wat er al maanden zat. Wil je zelf kleur in de tuin, kies dan een soort die genetisch rood kan kleuren. En wil je de mooiste herfstwandeling plannen, kijk dan naar het weer: een reeks heldere dagen met frisse nachten belooft meer rood.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><path d=\"M90 40 C40 70 40 150 90 185 C140 150 140 70 90 40 Z\" fill=\"#ffd166\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M90 40 C40 70 40 150 90 185 C140 150 140 70 90 40 Z\" fill=\"#06d6a0\"><animate attributeName=\"opacity\" values=\"1;1;0;0;1\" dur=\"7s\" repeatCount=\"indefinite\"/></path><line x1=\"90\" y1=\"50\" x2=\"90\" y2=\"195\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"90\" y=\"212\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">één blad</text><circle cx=\"180\" cy=\"55\" r=\"7\" fill=\"#06d6a0\"><animate attributeName=\"opacity\" values=\"1;1;0;0;1\" dur=\"7s\" repeatCount=\"indefinite\"/></circle><text x=\"194\" y=\"59\" text-anchor=\"start\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">bladgroen verdwijnt</text><circle cx=\"180\" cy=\"95\" r=\"7\" fill=\"#ffd166\"/><text x=\"194\" y=\"99\" text-anchor=\"start\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">geel: zat er al</text><circle cx=\"180\" cy=\"135\" r=\"7\" fill=\"#ff6b9d\"/><text x=\"194\" y=\"139\" text-anchor=\"start\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">rood: nieuw gemaakt</text><text x=\"250\" y=\"185\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">zomer → herfst</text></svg>",
+   "quiz": {
+    "q": "Waarom wordt een blad in de herfst geel?",
+    "o": [
+     "Het bladgroen verdwijnt en het geel dat er al zat wordt zichtbaar",
+     "De vorst maakt nieuwe gele pigmenten aan",
+     "Het blad droogt uit en verliest al zijn pigmenten"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Britannica – Why do leaves change colour in the fall?",
+     "u": "https://www.britannica.com/story/why-do-leaves-change-colour-in-the-fall"
+    },
+    {
+     "t": "New York Botanical Garden – Why do leaves change color?",
+     "u": "https://libanswers.nybg.org/faq/222691"
+    }
+   ],
+   "date": "2026-11-18T05:43:00Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "De tongkaart met smaakzones klopt niet",
+   "body": "Zoet op de punt, bitter achteraan: die schoolkaart is een misverstand. Alle delen van de tong die smaken, kunnen alle vijf basissmaken waarnemen. De kaart komt van een Duitse studie uit 1901 die slechts kleine verschillen vond, en die de Amerikaan Edwin Boring in 1942 overdreven hertekende. Je hebt 5.000 tot 10.000 smaakpapillen.",
+   "take": "Test het zelf: leg een korreltje zout op het puntje van je tong. Je proeft het meteen, ondanks de 'zoetzone'.",
+   "deep": "## Hoe het werkt\n\nOp je tong, en ook op je verhemelte en in je keel, zitten smaakknopjes. Een mens heeft er 5.000 tot 10.000. Elk knopje bevat tientallen smaakreceptorcellen. Die cellen reageren op vijf basissmaken: zoet, zout, zuur, bitter en umami, de hartige smaak van bijvoorbeeld bouillon of parmezaan.\n\nCruciaal: de cellen voor elke smaak liggen verspreid over alle smaakgevoelige delen van de mond. Er is dus geen zoetzone of bitterstrook. Je hersenen bouwen een smaak op uit signalen van overal.\n\n## Een voorbeeld\n\nIn veel Vlaamse klaslokalen hing ooit een tong met vier gekleurde vakken. Wie het nu thuis test met een wattenstaafje suikerwater op de achterkant van de tong, merkt dat zoet daar ook gewoon binnenkomt. Hetzelfde met een druppel citroensap op het puntje: zuur, zonder omweg.\n\n## Wat onderzoek zegt\n\nDe mythe begon in 1901 met een artikel van de Duitse onderzoeker David Hänig, 'Zur Psychophysik des Geschmackssinnes'. Hij mat langs de rand van de tong hoe gevoelig die was voor verschillende smaken en vond kleine verschillen tussen plekken. Die bevinding wordt nog altijd als grotendeels correct gezien. Het probleem zat in de grafiek: die toonde relatieve verschillen per smaak, niet tussen smaken onderling.\n\nIn 1942 nam de Harvard-psycholoog Edwin G. Boring die grafiek over in zijn boek over de geschiedenis van de experimentele psychologie, zonder bruikbare schaal. Daaruit groeide de kaart waarin elke smaak een eigen vak kreeg. Modern onderzoek, onder meer het overzicht van Chandrashekar, Hoon, Ryba en Zuker in Nature (2006), beschrijft aparte celtypes voor elk van de vijf smaken, maar die zitten niet netjes per regio gegroepeerd.\n\n## Nuance of misverstand\n\nEr zijn wel kleine regionale verschillen in gevoeligheid: Hänig had niet volledig ongelijk. Ze zijn alleen zo klein dat ze geen duidelijke rol spelen in hoe je proeft. Ook belangrijk: wat we in het dagelijks leven 'smaak' noemen, is grotendeels geur. Daarom proeft eten flauw als je verkouden bent. En umami stond helemaal niet op de oude kaart, terwijl het intussen als vijfde basissmaak geldt.\n\n## Wat je ermee doet\n\nLaat je bij het proeven van wijn, koffie of chocolade niet leiden door 'waar' iets op je tong zou moeten landen. Beweeg een slok of hapje rond in je mond en adem door je neus uit: dan krijgen alle smaakknopjes en je reukzin hun kans. Zie je de tongkaart nog in een schoolboek, dan weet je meteen waar die vandaan komt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><path d=\"M110 30 C60 30 50 120 80 170 C100 205 160 205 180 170 C210 120 200 30 150 30 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"130\" y=\"24\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">hele tong</text><circle cx=\"95\" cy=\"70\" r=\"5\" fill=\"#ffd166\"><animate attributeName=\"r\" values=\"4;8;4\" dur=\"3s\" begin=\"0.0s\" repeatCount=\"indefinite\"/></circle><circle cx=\"150\" cy=\"70\" r=\"5\" fill=\"#ffd166\"><animate attributeName=\"r\" values=\"4;8;4\" dur=\"3s\" begin=\"0.4s\" repeatCount=\"indefinite\"/></circle><circle cx=\"90\" cy=\"120\" r=\"5\" fill=\"#ffd166\"><animate attributeName=\"r\" values=\"4;8;4\" dur=\"3s\" begin=\"0.8s\" repeatCount=\"indefinite\"/></circle><circle cx=\"130\" cy=\"110\" r=\"5\" fill=\"#ffd166\"><animate attributeName=\"r\" values=\"4;8;4\" dur=\"3s\" begin=\"1.2s\" repeatCount=\"indefinite\"/></circle><circle cx=\"170\" cy=\"120\" r=\"5\" fill=\"#ffd166\"><animate attributeName=\"r\" values=\"4;8;4\" dur=\"3s\" begin=\"1.6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"110\" cy=\"160\" r=\"5\" fill=\"#ffd166\"><animate attributeName=\"r\" values=\"4;8;4\" dur=\"3s\" begin=\"2.0s\" repeatCount=\"indefinite\"/></circle><circle cx=\"150\" cy=\"160\" r=\"5\" fill=\"#ffd166\"><animate attributeName=\"r\" values=\"4;8;4\" dur=\"3s\" begin=\"2.4s\" repeatCount=\"indefinite\"/></circle><rect x=\"232\" y=\"41\" width=\"100\" height=\"20\" rx=\"6\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"282\" y=\"55\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">zoet</text><rect x=\"232\" y=\"69\" width=\"100\" height=\"20\" rx=\"6\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"282\" y=\"83\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">zout</text><rect x=\"232\" y=\"97\" width=\"100\" height=\"20\" rx=\"6\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"282\" y=\"111\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">zuur</text><rect x=\"232\" y=\"125\" width=\"100\" height=\"20\" rx=\"6\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"282\" y=\"139\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">bitter</text><rect x=\"232\" y=\"153\" width=\"100\" height=\"20\" rx=\"6\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"282\" y=\"167\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">umami</text><text x=\"282\" y=\"205\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">overal te proeven</text></svg>",
+   "quiz": {
+    "q": "Waar op je tong kun je zoet proeven?",
+    "o": [
+     "Alleen op het puntje",
+     "Op alle smaakgevoelige plekken",
+     "Alleen achteraan"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "BrainFacts – Do different parts of the tongue taste different things?",
+     "u": "https://www.brainfacts.org/Thinking-Sensing-and-Behaving/Taste/2018/Do-different-parts-of-the-tongue-taste-different-things-010319"
+    },
+    {
+     "t": "Smithsonian – The tongue map you learned in school is wrong",
+     "u": "https://www.smithsonianmag.com/science-nature/neat-and-tidy-map-tastes-tongue-you-learned-school-all-wrong-180963407/"
+    },
+    {
+     "t": "Chandrashekar e.a. (2006) – The receptors and cells for mammalian taste",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/17108952/"
+    }
+   ],
+   "date": "2026-11-18T05:43:00Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Rimpelvingers in bad zijn een zenuwreflex",
+   "body": "Je vingers rimpelen niet simpelweg omdat je huid water opzuigt. Het is een actieve reactie van je zenuwstelsel: bloedvaatjes in je vingertoppen knijpen samen en de huid plooit. Al in de jaren 1930 zagen artsen dat vingers met een beschadigde zenuw niet rimpelen. Daarom gebruiken artsen de rimpeltest nog om zenuwfunctie na te gaan.",
+   "take": "Rimpelt één vinger opvallend niet mee na een lang bad? Vermeld het bij je huisarts; het kan op een zenuwprobleem wijzen.",
+   "deep": "## Hoe het werkt\n\nLang dacht men dat de huid van je vingertoppen gewoon water opneemt en opzwelt, zoals een spons. Maar dan zouden ook vingers met een beschadigde zenuw moeten rimpelen, en dat doen ze niet. De verklaring ligt bij het autonome zenuwstelsel, het deel dat je lichaam regelt zonder dat je erbij nadenkt.\n\nNa enkele minuten in water geeft dat zenuwstelsel een signaal aan de kleine bloedvaatjes in je vingertoppen, handpalmen en tenen: ze knijpen samen. Het volume onder de huid neemt af, en omdat de bovenste huidlaag stevig vastzit aan de onderliggende lagen, plooit ze in een patroon van groefjes.\n\n## Een voorbeeld\n\nNa een halfuur in het zwembad of in een warm bad zie je het: je vingertoppen lijken op rozijnen, maar je handrug en armen blijven glad. Dat past bij het zenuwverhaal: rimpelen gebeurt waar de huid dik is en rijk aan zulke vaatjes en zenuwuiteinden.\n\n## Wat onderzoek zegt\n\nIn de jaren 1930 beschreven Lewis en Pickering dat patiënten met een verlamming van de mediane zenuw geen rimpels kregen in de getroffen vingers. In 2003 toonden Wilder-Smith en Chow in Muscle & Nerve aan dat de bloeddoorstroming in de vingertop sterk daalt terwijl de huid rimpelt.\n\nWaarom we dit doen, is minder zeker. Kareklas, Nettle en Smulders van Newcastle University lieten deelnemers in 2013 natte en droge knikkers verplaatsen na 30 minuten in warm water. Met gerimpelde vingers ging het verplaatsen van natte voorwerpen sneller, met droge maakte het niets uit. Een team van het Max Delbrück Centrum in Berlijn herhaalde de proef in 2014 met 40 deelnemers en vond geen voordeel. In 2021 rapporteerde Nick Davis (Manchester Metropolitan University) in PLOS ONE dat gerimpelde vingers minder knijpkracht nodig hebben om een nat voorwerp vast te houden.\n\n## Nuance of misverstand\n\nHet mechanisme, zenuwen en bloedvaatjes, staat stevig. De functie, beter grip in natte omstandigheden, is een aantrekkelijke hypothese maar de resultaten spreken elkaar deels tegen. En gerimpelde vingers zijn geen teken van uitdroging of slechte gezondheid: het is een normale reactie.\n\n## Wat je ermee doet\n\nGebruik het als een klein, gratis inkijkje in je zenuwstelsel. Rimpelen al je vingers gelijk mee, dan werkt die reflex. Rimpelt één vinger of een deel van je hand duidelijk niet na een lang bad, zeker samen met tintelingen of gevoelloosheid, vermeld het dan bij je huisarts. Artsen gebruiken deze eenvoudige test nog altijd om de werking van zenuwen te beoordelen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"20\" y=\"40\" width=\"80\" height=\"60\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"60\" y=\"68\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">water</text><text x=\"60\" y=\"84\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">± 5 min</text><line x1=\"100\" y1=\"70\" x2=\"121\" y2=\"70\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" from=\"24\" to=\"0\" dur=\"2s\" repeatCount=\"indefinite\"/></line><path d=\"M130 70 L121 65 L121 75 Z\" fill=\"#ffd166\"/><rect x=\"130\" y=\"40\" width=\"90\" height=\"60\" rx=\"8\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"175\" y=\"68\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">zenuw</text><text x=\"175\" y=\"84\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">geeft signaal</text><line x1=\"220\" y1=\"70\" x2=\"241\" y2=\"70\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" from=\"24\" to=\"0\" dur=\"2s\" repeatCount=\"indefinite\"/></line><path d=\"M250 70 L241 65 L241 75 Z\" fill=\"#ffd166\"/><rect x=\"250\" y=\"40\" width=\"95\" height=\"60\" rx=\"8\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"297\" y=\"68\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">bloedvaatjes</text><text x=\"297\" y=\"84\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">knijpen samen</text><path d=\"M120 170 Q140 150 160 170 Q180 190 200 170 Q220 150 240 170\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"3\"><animate attributeName=\"d\" values=\"M120 170 Q140 170 160 170 Q180 170 200 170 Q220 170 240 170;M120 170 Q140 150 160 170 Q180 190 200 170 Q220 150 240 170;M120 170 Q140 170 160 170 Q180 170 200 170 Q220 170 240 170\" dur=\"5s\" repeatCount=\"indefinite\"/></path><text x=\"180\" y=\"205\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">vingertop rimpelt</text><text x=\"180\" y=\"135\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">zenuw beschadigd? geen rimpels</text></svg>",
+   "quiz": {
+    "q": "Wat toont aan dat rimpelvingers geen gewoon opzwellen zijn?",
+    "o": [
+     "Ze verschijnen ook in droge lucht",
+     "Ze verdwijnen nooit volledig",
+     "Vingers met een beschadigde zenuw rimpelen niet"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Newcastle University – Why we get wrinkly fingers (2013)",
+     "u": "https://www.ncl.ac.uk/press/articles/archive/2013/01/getagrip-whywegetwrinklyfingersandtoes.html"
+    },
+    {
+     "t": "Haseleu e.a. (2014), PLOS ONE – MDC Berlijn",
+     "u": "https://edoc.mdc-berlin.de/id/eprint/13817/1/13817oa.pdf"
+    },
+    {
+     "t": "Davis (2021), PLOS ONE – Finger-wrinkling and grip",
+     "u": "https://e-space.mmu.ac.uk/628178"
+    }
+   ],
+   "date": "2026-11-18T05:43:00Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Boulevard is een Nederlands woord in Franse kleren",
+   "body": "Het Franse 'boulevard' komt van het Middelnederlandse 'bolwerc': een verdedigingswal van planken en aarde. Toen steden hun wallen sloopten, werden er brede wandellanen aangelegd, en de naam ging mee. Later leende het Nederlands het woord terug. Het Engels nam het origineel rechtstreeks over als 'bulwark'. Volgens Nicoline van der Sijs telt het Engels ongeveer 1.500 Nederlandse leenwoorden.",
+   "take": "Rij je over de Brusselse kleine ring of een 'boulevard'? Zoek eens op of daar vroeger een stadswal lag.",
+   "deep": "## Hoe het werkt\n\nLeenwoorden reizen niet altijd in één richting. Soms vertrekt een woord uit een taal, verandert onderweg van vorm en betekenis, en komt het later terug als 'vreemd' woord. Taalkundigen noemen dat een terugontlening.\n\n'Boulevard' is daar een schoolvoorbeeld van. In het Middelnederlands bestond 'bolwerc' of 'bolwerk', een samenstelling van 'bole' (plank, stam) en 'werc' (werk): een verdedigingswal uit hout en aarde. Het Frans nam het woord over in de middeleeuwen; bronnen twijfelen tussen de dertiende en veertiende eeuw. In het Frans sleet het af tot 'boulevard'.\n\n## Een voorbeeld\n\nToen steden hun middeleeuwse wallen niet meer nodig hadden, sloopten ze die en legden ze er brede, met bomen beplante wandelwegen aan. Die lanen erfden de naam van de wal: boulevard. Brussel is een herkenbaar voorbeeld: de kleine ring rond het centrum volgt grotendeels het tracé van de vroegere stadsomwalling. Het Nederlands leende 'boulevard' daarna terug uit het Frans, nu met de betekenis van brede straat. Zo bestaan 'bolwerk' en 'boulevard' vandaag naast elkaar, zonder dat de meeste sprekers weten dat het om hetzelfde woord gaat.\n\n## Wat onderzoek zegt\n\nHet etymologische woordenboek Etymonline dateert de betekenis 'brede laan met bomen' in het Frans rond 1769. Een artikel over terugontlening in het tijdschrift Onze Taal plaatst het eerste gebruik voor een stadswandeling op de vroegere wal in een Franse bron van 1803. Het Engels nam het woord rechtstreeks uit het Nederlands over als 'bulwark', rond 1418.\n\nTaalkundige Nicoline van der Sijs schreef in 2009, op basis van de Oxford English Dictionary, dat het Engels ongeveer 1.500 Nederlandse leenwoorden telt. De invloed was het grootst vóór 1800, toen de Nederlanden een handels-, scheepvaart- en schildersmacht waren. Uit die tijd stammen woorden als 'landscape' (landschap) en 'easel' (ezel, de schildersezel).\n\n## Nuance of misverstand\n\nNiet elk woord dat Nederlands klinkt, is Nederlands, en niet elke populaire lijst klopt. Over de precieze datering van 'boulevard' zijn bronnen het oneens. Het aantal van 1.500 is bovendien een schatting op basis van één woordenboek; andere tellingen kunnen hoger of lager uitvallen.\n\n## Wat je ermee doet\n\nKijk bij een woord dat je 'Frans' of 'Engels' vindt eens in een etymologisch woordenboek zoals de Etymologiebank. Je ontdekt vaak dat de Lage Landen meer hebben uitgevoerd dan je denkt. Dat maakt woorden ook makkelijker te onthouden: wie weet dat een boulevard een gesloopte wal is, ziet de stadsgeschiedenis meteen in het straatbeeld.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"5\" y=\"70\" width=\"100\" height=\"56\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"stroke\" values=\"#fff;#ffd166;#fff;#fff\" dur=\"4.5s\" begin=\"0s\" repeatCount=\"indefinite\"/></rect><text x=\"55\" y=\"96\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\">bolwerc</text><text x=\"55\" y=\"114\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">Middelnl.</text><rect x=\"130\" y=\"70\" width=\"100\" height=\"56\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"stroke\" values=\"#fff;#ffd166;#fff;#fff\" dur=\"4.5s\" begin=\"1.5s\" repeatCount=\"indefinite\"/></rect><text x=\"180\" y=\"96\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\">boulevard</text><text x=\"180\" y=\"114\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">Frans</text><rect x=\"255\" y=\"70\" width=\"100\" height=\"56\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"stroke\" values=\"#fff;#ffd166;#fff;#fff\" dur=\"4.5s\" begin=\"3s\" repeatCount=\"indefinite\"/></rect><text x=\"305\" y=\"96\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\">boulevard</text><text x=\"305\" y=\"114\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">Nederlands</text><line x1=\"105\" y1=\"98\" x2=\"121\" y2=\"98\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" from=\"24\" to=\"0\" dur=\"2s\" repeatCount=\"indefinite\"/></line><path d=\"M130 98 L121 93 L121 103 Z\" fill=\"#06d6a0\"/><line x1=\"230\" y1=\"98\" x2=\"246\" y2=\"98\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" from=\"24\" to=\"0\" dur=\"2s\" repeatCount=\"indefinite\"/></line><path d=\"M255 98 L246 93 L246 103 Z\" fill=\"#06d6a0\"/><text x=\"55\" y=\"150\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">stadswal</text><text x=\"180\" y=\"150\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">brede laan</text><text x=\"305\" y=\"150\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">terug geleend</text><text x=\"180\" y=\"40\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Een woord dat heen en terug reisde</text><text x=\"180\" y=\"195\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">Engels nam 'bulwark' rechtstreeks over</text></svg>",
+   "quiz": {
+    "q": "Wat was een 'bolwerc' oorspronkelijk?",
+    "o": [
+     "Een verdedigingswal",
+     "Een brede winkelstraat",
+     "Een soort zeilschip"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Etymonline – boulevard",
+     "u": "https://www.etymonline.com/word/boulevard"
+    },
+    {
+     "t": "Onze Taal (DBNL) – Terugontlening",
+     "u": "https://dbnl.org/tekst/_taa014199801_01/_taa014199801_01_0062.php"
+    },
+    {
+     "t": "Onze Taal – Van der Sijs over Nederlandse leenwoorden",
+     "u": "https://onzetaal.nl/uploads/editor/0901etymologica.pdf"
+    }
+   ],
+   "date": "2026-11-18T05:43:00Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Zegt je kind 'loopte'? Dan leert het grammatica",
+   "body": "Kinderen die 'loopte' of 'gevalt' zeggen, maken geen domme fout: ze passen een regel toe die niemand hen expliciet leerde. Jean Berko toonde in 1958 met haar 'wug-test' dat kinderen zelfs verzonnen woorden correct vervoegen. Zulke fouten zijn wel zeldzaam: volgens Marcus en collega's (1992) gaat het om zo'n 2,5% van de onregelmatige werkwoorden.",
+   "take": "Verbeter 'loopte' niet streng. Herhaal gewoon de juiste vorm: 'O, je liep naar huis?' Dat werkt beter en houdt het gesprek gaande.",
+   "deep": "## Hoe het werkt\n\nEen kind hoort volwassenen 'liep', 'ging' en 'viel' zeggen en neemt die vormen eerst gewoon over, als losse woorden. Daarna gebeurt er iets opvallends: het kind ontdekt het patroon van regelmatige werkwoorden, zoals 'werkte' en 'gespeeld'. Het brein trekt daaruit een regel, en past die soms ook toe waar ze niet hoort: 'loopte', 'gevalt', 'zwemde'.\n\nTaalkundigen spreken van overregularisatie. Het wordt vaak beschreven als een U-vormige leercurve: eerst correct door nabootsing, dan af en toe fout door de nieuwe regel, en tot slot correct omdat het kind leert welke woorden uitzonderingen zijn.\n\n## Een voorbeeld\n\nEen kleuter in Gent vertelt: 'Ik ben gevalt op de speelplaats.' Niemand in zijn omgeving zegt 'gevalt'. Hij heeft het dus niet nagebootst; hij heeft het zelf gebouwd met de regel 'ge- plus stam plus t'. Dat is precies het bewijs dat er een systeem in zijn hoofd zit.\n\n## Wat onderzoek zegt\n\nIn 1958 publiceerde Jean Berko (later Berko Gleason) haar beroemde 'wug-test'. Ze toonde kinderen van ongeveer 4 tot 7 jaar een tekening van een verzonnen wezentje, een 'wug', en daarna twee ervan: 'Now there are two...?' Meer dan driekwart van de kinderen gaf bij zulke verzonnen woorden dezelfde meervoudsvorm als volwassenen. Ze konden die vorm nooit eerder gehoord hebben, dus ze pasten een regel toe.\n\nGary Marcus, Steven Pinker en collega's analyseerden in 1992 11.521 onregelmatige verleden-tijdsvormen uit de spontane spraak van 83 kinderen. Overregularisaties bleken zeldzaam: mediaan 2,5%. Dat lage percentage bleef ongeveer constant vanaf de leeftijd van twee jaar tot in de schoolleeftijd.\n\n## Nuance of misverstand\n\nOmdat die fouten zo opvallen, denken ouders soms dat hun kind ze voortdurend maakt. Dat klopt niet: meestal gebruiken kinderen de juiste onregelmatige vorm. Onderzoekers discussiëren ook over hoe het brein dit precies doet, met expliciete regels of via patroonherkenning zoals in neurale netwerken. Dat er een generalisatie gebeurt, staat vast; hoe, is nog een debat.\n\n## Wat je ermee doet\n\nZie 'loopte' als een teken van vooruitgang. Kinderen leren uitzonderingen vooral door de juiste vorm vaak te horen. Herhaal dus terloops wat het kind bedoelde, met de correcte vorm erin, zonder les te geven: 'Je bent gevallen? Waar dan?' Zo krijgt het kind het goede voorbeeld zonder dat het gesprek een correctiemoment wordt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><path d=\"M30 60 L120 60 L210 150 L330 60\" fill=\"none\" stroke=\"rgba(255,255,255,0.4)\" stroke-width=\"2\"/><path d=\"M30 60 L120 60 L210 150 L330 60\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"3\" stroke-dasharray=\"420\" stroke-dashoffset=\"420\"><animate attributeName=\"stroke-dashoffset\" values=\"420;0;0\" dur=\"6s\" repeatCount=\"indefinite\"/></path><text x=\"70\" y=\"48\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">'liep'</text><text x=\"70\" y=\"80\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">nagezegd</text><text x=\"210\" y=\"172\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\">'loopte'</text><text x=\"210\" y=\"188\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">regel ontdekt</text><text x=\"310\" y=\"48\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">'liep'</text><text x=\"285\" y=\"30\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">regel + uitzondering</text><line x1=\"30\" y1=\"205\" x2=\"330\" y2=\"205\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"200\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">leeftijd →</text></svg>",
+   "quiz": {
+    "q": "Wat bewees Berko's wug-test?",
+    "o": [
+     "Kinderen bootsen alleen na wat ze horen",
+     "Kinderen passen zelf grammaticaregels toe",
+     "Kinderen leren meervouden pas op school"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Marcus, Pinker e.a. (1992) – Overregularization in language acquisition",
+     "u": "https://stevenpinker.com/publications/year/1992"
+    },
+    {
+     "t": "Xu & Pinker (1995) – Weird past tense forms, J. Child Language",
+     "u": "https://www.cambridge.org/core/journals/journal-of-child-language/article/abs/weird-past-tense-forms/1FAB1AC63AC543C6DA6B9127A3CD4893"
+    },
+    {
+     "t": "Word and Sentence Structures – Theories of grammar and acquisition",
+     "u": "https://pressbooks.openedmb.ca/wordandsentencestructures/?p=1280"
+    }
+   ],
+   "date": "2026-11-18T05:43:00Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Een eurocentje kostte bijna twee cent om te maken",
+   "body": "Volgens de Nationale Bank kostte een munt van 1 of 2 cent de Koninklijke Munt in 2004 gemiddeld 1,81 cent om te maken. De Europese Commissie raamde in 2013 het verlies op die muntjes in de eurozone op 1,4 miljard euro. Daarom rondt België sinds 1 december 2019 contante betalingen af op 5 cent.",
+   "take": "Cash betalen? 1, 2, 6 of 7 cent rondt af naar beneden, 3, 4, 8 of 9 naar boven.",
+   "deep": "## Hoe het werkt\n\nEen munt heeft een nominale waarde, het getal erop, en een kostprijs: metaal, slaan, vervoeren. Bij grote munten blijft er voor de overheid winst over, de zogenoemde muntslag. Bij de kleinste munten draait dat om. Een stuk van 1 of 2 cent kost meer om te maken en te verdelen dan het waard is. Dat noemen economen negatieve muntslag.\n\nDaar komen kosten bij voor handelaars en banken: muntjes sorteren, tellen, opslaan en vervoeren. Bovendien verdwijnen veel centjes in laden en spaarpotten, zodat er steeds nieuwe bijgeslagen moeten worden.\n\n## Een voorbeeld\n\nSinds 1 december 2019 rondt elke Belgische winkel een contante betaling verplicht af op het dichtstbijzijnde veelvoud van 5 cent. Een rekening van 7,92 euro wordt 7,90 euro; een rekening van 7,93 euro wordt 7,95 euro. Op het kasticket staan beide bedragen. Betaal je met kaart of smartphone, dan wordt niets afgerond. Muntjes van 1 en 2 cent blijven wel gewoon wettig betaalmiddel.\n\n## Wat onderzoek zegt\n\nEen document van de Nationale Bank van België becijferde dat de productie van een munt van 1 of 2 cent de Koninklijke Munt in 2004 gemiddeld 1,81 cent per stuk kostte. Daarnaast raamde de NBB de kosten voor handelaars om zo'n muntje te sorteren, te tellen en naar de bank te brengen eveneens op 1,81 cent per stuk.\n\nDe Europese Commissie berekende in 2013 dat de uitgifte van 1- en 2-centmunten de eurozone sinds de invoering van de euro samen ongeveer 1,4 miljard euro had gekost. In een rapport uit 2018 noemde ze het slaan van eurocentjes opnieuw verlieslatend en opperde ze Europese afrondingsregels. Volgens de FOD Financiën lag in 2023 nog zo'n 212 miljoen munten ongebruikt bij de bevolking.\n\n## Nuance of misverstand\n\nAfronden betekent niet dat winkels je systematisch meer aanrekenen: het gaat zowel naar boven als naar beneden, en over veel aankopen middelt dat uit. Ook is de kostprijs geen vast gegeven: in 2017 spraken de eurolanden nieuwe productienormen af om de kleine munten goedkoper te maken. België was trouwens niet de eerste: Finland en Nederland rondden al eerder af.\n\n## Wat je ermee doet\n\nWeet hoe de afronding werkt, zodat je je kasticket kunt controleren. Wil je precies het bedrag betalen, betaal dan elektronisch. En haal die pot met koperen centjes eens uit de kast: ze zijn nog steeds geld, en elke munt die terug in omloop komt, hoeft niet opnieuw geslagen te worden.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><circle cx=\"80\" cy=\"95\" r=\"38\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"80\" y=\"92\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\">1 of 2</text><text x=\"80\" y=\"108\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">cent</text><text x=\"80\" y=\"155\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">waarde</text><rect x=\"190\" y=\"150\" width=\"40\" height=\"0\" fill=\"#ff6b9d\"><animate attributeName=\"height\" values=\"0;0;90;90\" dur=\"5s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"150;150;60;60\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><rect x=\"260\" y=\"150\" width=\"40\" height=\"0\" fill=\"#ff6b9d\"><animate attributeName=\"height\" values=\"0;0;90;90\" dur=\"5s\" begin=\"0.8s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"150;150;60;60\" dur=\"5s\" begin=\"0.8s\" repeatCount=\"indefinite\"/></rect><line x1=\"170\" y1=\"150\" x2=\"320\" y2=\"150\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"210\" y=\"168\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">maken</text><text x=\"280\" y=\"168\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">tellen</text><text x=\"210\" y=\"52\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">1,81 ct</text><text x=\"280\" y=\"52\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">1,81 ct</text><text x=\"180\" y=\"205\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">Cash in België: afgerond op 5 cent</text></svg>",
+   "quiz": {
+    "q": "Je betaalt cash 4,93 euro in een Belgische winkel. Wat betaal je?",
+    "o": [
+     "4,90 euro",
+     "4,93 euro",
+     "4,95 euro"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Nationale Bank van België – Afronding (bijlage)",
+     "u": "https://www.nbb.be/doc/ts/publications/other/principle_rounding_up_down131206nl_bijlage.pdf"
+    },
+    {
+     "t": "FOD Economie – Mandatory rounding since 1 December",
+     "u": "https://economie.fgov.be/en/themes/sales/mandatory-rounding-1-december"
+    },
+    {
+     "t": "Raad van de EU – Commissiemededeling 1- en 2-centmunten (2013)",
+     "u": "https://data.consilium.europa.eu/doc/document/ST-11410-2013-INIT/en/pdf"
+    },
+    {
+     "t": "FOD Financiën – Ik gebruik mijn muntjes",
+     "u": "https://fin.belgium.be/nl/ik-gebruik-mijn-muntjes"
+    }
+   ],
+   "date": "2026-11-18T05:43:00Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Je spaarrente bestaat uit twee delen, met een wachttijd",
+   "body": "Een Belgische gereglementeerde spaarrekening geeft twee vergoedingen. De basisrente krijg je vanaf de dag na je storting. De getrouwheidspremie krijg je alleen op geld dat 12 maanden onafgebroken op de rekening blijft. Haal je het vroeger af, dan verlies je de premie op dat bedrag. Tot 1.020 euro intrest per persoon is belastingvrij (aanslagjaar 2026).",
+   "take": "Zet spaargeld dat je binnen het jaar nodig hebt apart van geld dat 12 maanden kan blijven staan.",
+   "deep": "## Hoe het werkt\n\nIn België zijn de meeste spaarrekeningen 'gereglementeerd': ze volgen wettelijke regels en krijgen daardoor een fiscaal voordeel. Hun vergoeding bestaat uit twee delen.\n\nDe basisrente loopt op elk bedrag dat je stort, ten laatste vanaf de dag na de storting. De getrouwheidspremie is een extra vergoeding voor geduld. Je krijgt ze alleen op bedragen die twaalf maanden onafgebroken op de rekening blijven staan. Het percentage van die premie wordt volgens Wikifin vastgelegd op het moment van je storting, voor die twaalf maanden. Haal je geld vroeger af, dan verlies je de premie op dat geld, maar de basisrente die je al verdiende blijft.\n\n## Een voorbeeld\n\nStel: Lotte uit Hasselt zet in januari 5.000 euro op een spaarrekening met, bij wijze van voorbeeld, 0,5% basisrente en 1% getrouwheidspremie. In augustus haalt ze 2.000 euro af voor een nieuwe auto. Op die 2.000 euro krijgt ze enkel basisrente voor de maanden dat het geld er stond. Op de 3.000 euro die blijft staan tot januari, krijgt ze basisrente én getrouwheidspremie. Haar totale opbrengst ligt dus lager dan de 1,5% die ze in gedachten had.\n\n## Wat onderzoek zegt\n\nWikifin, het financiële-educatieplatform van de toezichthouder FSMA, beschrijft deze opbouw en raadt aan om rekeningen te vergelijken met de officiële vergelijkingstool. Test-Aankoop waarschuwt dat je de basisrente en de getrouwheidspremie niet zomaar mag optellen, omdat de premie aan voorwaarden hangt. Banken als Belfius vermelden in hun productinformatie dat een opname vóór twaalf maanden de premie op dat geld doet vervallen, maar de basisrente niet raakt.\n\nFiscaal is de eerste 1.020 euro intrest per persoon op gereglementeerde spaarrekeningen vrijgesteld voor aanslagjaar 2026, of 2.040 euro voor een koppel. Daarboven betaal je 15% roerende voorheffing. Dat plafond kan jaarlijks wijzigen.\n\n## Nuance of misverstand\n\nEen hoge getrouwheidspremie is niet automatisch een goede deal. Wie vaak geld verschuift, haalt ze nooit. Banken kunnen bovendien hun tarieven aanpassen voor nieuwe stortingen. Er bestaan ook categorieën: bij categorie B-rekeningen gelden extra voorwaarden, zoals een maximumsaldo.\n\n## Wat je ermee doet\n\nVerdeel je spaargeld in twee potjes. Geld voor uitgaven binnen het jaar zet je op een rekening met een behoorlijke basisrente. Geld dat minstens twaalf maanden kan blijven, zet je waar de getrouwheidspremie hoog is. Kijk in de 'essentiële spaardersinformatie' van je bank naar beide percentages, en noteer wanneer grote stortingen hun twaalf maanden bereiken.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><line x1=\"30\" y1=\"150\" x2=\"330\" y2=\"150\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"30\" y1=\"145\" x2=\"30\" y2=\"155\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"55\" y1=\"145\" x2=\"55\" y2=\"155\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"80\" y1=\"145\" x2=\"80\" y2=\"155\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"105\" y1=\"145\" x2=\"105\" y2=\"155\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"130\" y1=\"145\" x2=\"130\" y2=\"155\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"155\" y1=\"145\" x2=\"155\" y2=\"155\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"180\" y1=\"145\" x2=\"180\" y2=\"155\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"205\" y1=\"145\" x2=\"205\" y2=\"155\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"230\" y1=\"145\" x2=\"230\" y2=\"155\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"255\" y1=\"145\" x2=\"255\" y2=\"155\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"280\" y1=\"145\" x2=\"280\" y2=\"155\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"305\" y1=\"145\" x2=\"305\" y2=\"155\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"330\" y1=\"145\" x2=\"330\" y2=\"155\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"30\" y=\"172\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">storting</text><text x=\"330\" y=\"172\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">12 maanden</text><circle cx=\"30\" cy=\"150\" r=\"8\" fill=\"#ffd166\"><animateMotion path=\"M0 0 L300 0\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><rect x=\"30\" y=\"100\" width=\"300\" height=\"20\" rx=\"6\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"180\" y=\"114\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">basisrente: vanaf dag 1</text><rect x=\"285\" y=\"60\" width=\"60\" height=\"24\" rx=\"6\" fill=\"#ffd166\"><animate attributeName=\"opacity\" values=\"0;0;0;1;0\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"250\" y=\"77\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">premie</text><text x=\"180\" y=\"205\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">vroeger afhalen = geen premie op dat bedrag</text></svg>",
+   "quiz": {
+    "q": "Je haalt na 8 maanden spaargeld af. Wat verlies je op dat bedrag?",
+    "o": [
+     "De getrouwheidspremie",
+     "De basisrente",
+     "Beide vergoedingen"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Wikifin – Gereglementeerde spaarrekening",
+     "u": "https://www.wikifin.be/nl/themas/sparen-en-beleggen/spaarrekening/een-gereglementeerde-niet-gereglementeerde-spaarrekening"
+    },
+    {
+     "t": "Belfius – Gereglementeerde spaarrekeningen",
+     "u": "https://www.belfius.be/site/retail/nl/producten/sparen/gereglementeerde-spaarrekeningen"
+    },
+    {
+     "t": "Test-Aankoop – Hoe kies je de beste spaarrekening?",
+     "u": "https://www.test-aankoop.be/geld/spaarrekeningen/hoe-kiezen"
+    },
+    {
+     "t": "KBC – Belastingen op inkomsten uit spaargeld",
+     "u": "https://www.kbcbrussels.be/particulieren/nl/product/sparen/spaarrekeningen/belastingen-op-inkomsten-uit-spaargeld.html"
+    }
+   ],
+   "date": "2026-11-18T05:43:00Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "Werk dijt uit tot de tijd die je geeft",
+   "body": "'Werk dijt uit tot de tijd die ervoor beschikbaar is', schreef historicus C. Northcote Parkinson in 1955 in The Economist. Het was satire over bureaucratie, maar psychologen testten het. In experimenten werkten mensen die meer tijd kregen voor een taak, trager, ook als die extra tijd niet nodig was. Psychologen Bryan en Locke (1967) zagen het als een doelstellingseffect.",
+   "take": "Geef een taak zelf een realistisch, krap tijdvak, bijvoorbeeld 45 minuten in je agenda, in plaats van 'vanmiddag'.",
+   "deep": "## Hoe het werkt\n\nAls je weet hoeveel tijd je hebt, stem je onbewust je tempo daarop af. Een taak die in een uur kan, wordt opgerekt tot drie uur als je drie uur vrij hebt: je herleest meer, je verfijnt details die niemand opmerkt, je laat je sneller afleiden. De beschikbare tijd werkt als een doel voor hoe lang het 'mag' duren.\n\nDe bekende formulering komt uit een essay van de Britse marinehistoricus Cyril Northcote Parkinson, verschenen in The Economist op 19 november 1955. De openingszin luidde dat werk uitdijt om de tijd te vullen die beschikbaar is om het af te ronden. Het grootste deel van het stuk ging over iets anders: hoe overheidsdiensten blijven groeien, ook als er minder te doen is.\n\n## Een voorbeeld\n\nEen student in Leuven heeft een week voor een paper van vijf pagina's en is er de hele week mee bezig. Een collega die dezelfde opdracht pas twee dagen voor de deadline kreeg, levert een vergelijkbaar resultaat af. Of thuis: wie een hele zaterdag reserveert om 'de garage op te ruimen', is daar vaak de hele zaterdag mee bezig.\n\n## Wat onderzoek zegt\n\nSociaal psychologen Elliot Aronson en Harold Gerard publiceerden in 1966 een klassiek experiment: proefpersonen die extra tijd kregen omdat een volgende taak werd geschrapt, deden langer over hun werk dan een controlegroep. In 1967 beschreven Judith Bryan en Edwin Locke het fenomeen als een doelstellingseffect: wie meer tijd krijgt, kiest een lager werktempo. Laura Brannon en collega's toonden in 1999 in Psychonomic Bulletin & Review het effect aan bij individuele studenten, in een opzet zonder de storende factoren van eerdere studies.\n\n## Nuance of misverstand\n\nParkinson schreef geen wetenschappelijke wet maar satire. Het effect is reëel maar niet universeel: niet elke taak dijt uit, en sommige mensen werken net beter zonder tijdsdruk. Een te krappe deadline kan ook averechts werken, met slordig werk of stress tot gevolg. Bovendien is extra tijd niet altijd verspild: soms levert ze echt een beter resultaat.\n\n## Wat je ermee doet\n\nSchat bij een taak hoeveel tijd ze werkelijk vraagt en zet precies dat tijdvak in je agenda, met een duidelijk eindpunt. Bepaal vooraf wat 'af' betekent, zodat je niet blijft verfijnen. Vul vrijgekomen tijd bewust met iets anders, en kijk achteraf of je schatting klopte, zodat je volgende planning realistischer wordt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"30\" y=\"50\" width=\"300\" height=\"34\" rx=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"32\" y=\"52\" width=\"100\" height=\"30\" rx=\"5\" fill=\"#06d6a0\"><animate attributeName=\"width\" values=\"100;296;296;100\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"180\" y=\"40\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">tijd die je krijgt: 3 uur</text><text x=\"80\" y=\"104\" text-anchor=\"start\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">werk zelf: 1 uur</text><rect x=\"30\" y=\"140\" width=\"100\" height=\"34\" rx=\"6\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><rect x=\"32\" y=\"142\" width=\"96\" height=\"30\" rx=\"5\" fill=\"#ffd166\"/><text x=\"30\" y=\"130\" text-anchor=\"start\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">zelf gekozen tijdvak: 1 uur</text><text x=\"240\" y=\"162\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">strakker plan</text><text x=\"180\" y=\"205\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Werk dijt uit tot de tijd die je geeft</text></svg>",
+   "quiz": {
+    "q": "Hoe verklaarden Bryan en Locke (1967) de wet van Parkinson?",
+    "o": [
+     "Als een gevolg van vermoeidheid",
+     "Als luiheid van ambtenaren",
+     "Als een doelstellingseffect: meer tijd, lager tempo"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Brannon, Hershberger & Brock (1999) – Timeless demonstrations of Parkinson's first law",
+     "u": "https://link.springer.com/article/10.3758/BF03210823"
+    },
+    {
+     "t": "Wikipedia – Parkinson's law",
+     "u": "https://en.wikipedia.org/wiki/Parkinson%27s_law"
+    }
+   ],
+   "date": "2026-11-18T05:43:00Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "Dringend wint van belangrijk, ook als het minder oplevert",
+   "body": "Onderzoekers Meng Zhu, Yang Yang en Christopher Hsee toonden in 2018 in vijf experimenten dat mensen een taak met een korte deadline kiezen boven een taak die objectief meer oplevert. Ze noemen het het 'mere urgency effect'. Het effect was sterker bij wie zichzelf erg druk vindt, en zwakker als deelnemers bij hun keuze aan de opbrengst herinnerd werden.",
+   "take": "Vraag bij elke 'dringende' taak: wat levert dit op, vergeleken met mijn belangrijkste taak van vandaag?",
+   "deep": "## Hoe het werkt\n\nEen taak met een korte termijn voelt als een kans die verloopt. Die vervaldatum trekt aandacht, ook als de taak weinig oplevert. Belangrijke taken zonder harde deadline, zoals een studie voorbereiden, een gezondheidscheck plannen of een cursus volgen, voelen nooit acuut en schuiven daardoor steeds op.\n\nHet gaat niet alleen om echte deadlines. Zelfs schijnbare urgentie, een korte tijdspanne die er eigenlijk niet toe doet, volstaat om de keuze te sturen. Mensen kiezen dan een objectief slechtere optie boven een objectief betere.\n\n## Een voorbeeld\n\nJe wil vanochtend je presentatie voor volgende week voorbereiden. Om negen uur komt een mail binnen met 'graag vandaag nog je beschikbaarheid'. Je antwoordt meteen, ziet dan nog drie andere mails, en om half elf heb je niets aan je presentatie gedaan. Die mail had ook om vier uur gekund, maar het woord 'vandaag' won.\n\n## Wat onderzoek zegt\n\nMeng Zhu (Johns Hopkins University), Yang Yang en Christopher K. Hsee (University of Chicago) publiceerden in 2018 'The Mere Urgency Effect' in het Journal of Consumer Research. In vijf experimenten kozen deelnemers vaker voor taken met een korte voltooiingstermijn, ook wanneer een andere taak duidelijk een hogere beloning opleverde. De onderzoekers beschrijven het als een schending van een basisprincipe van rationeel kiezen: neem de optie die beter is.\n\nTwee bevindingen maken het praktisch. Het effect was sterker bij mensen die zichzelf als algemeen druk zagen. En toen deelnemers op het moment van kiezen herinnerd werden aan wat elke taak opleverde, werd het effect kleiner.\n\n## Nuance of misverstand\n\nSommige dringende taken zijn ook echt belangrijk: een factuur die vandaag vervalt, laat je beter niet liggen. Het punt is niet dat urgentie onbelangrijk is, maar dat ze een eigen aantrekkingskracht heeft, los van wat de taak oplevert. Dit is ook geen bewijs dat een specifieke methode zoals de Eisenhower-matrix werkt; het onderzoek toont het probleem, niet één oplossing.\n\n## Wat je ermee doet\n\nMaak de opbrengst zichtbaar op het moment dat je kiest, want dat verzwakte het effect in de studie. Schrijf 's ochtends je belangrijkste taak op een briefje naast je scherm. Komt er iets dringends binnen, vergelijk dan kort: wat levert dit op, wat levert mijn hoofdtaak op? Geef belangrijke taken ook zelf een deadline in je agenda, zodat ze dezelfde trekkracht krijgen als de mailbox.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"25\" y=\"50\" width=\"130\" height=\"70\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"90\" y=\"78\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"13\">dringend</text><text x=\"90\" y=\"96\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">kleine opbrengst</text><rect x=\"205\" y=\"50\" width=\"130\" height=\"70\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"270\" y=\"78\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"13\">belangrijk</text><text x=\"270\" y=\"96\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">grote opbrengst</text><circle cx=\"90\" cy=\"40\" r=\"10\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><line x1=\"90\" y1=\"40\" x2=\"90\" y2=\"33\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animateTransform attributeName=\"transform\" type=\"rotate\" from=\"0 90 40\" to=\"360 90 40\" dur=\"2s\" repeatCount=\"indefinite\"/></line><circle cx=\"180\" cy=\"180\" r=\"7\" fill=\"#ffd166\"><animateMotion path=\"M0 0 Q-40 -30 -90 -55\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"205\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">je aandacht</text><text x=\"270\" y=\"150\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">blijft liggen</text></svg>",
+   "quiz": {
+    "q": "Wat verzwakte het 'mere urgency effect' in de studie?",
+    "o": [
+     "Deelnemers bij hun keuze herinneren aan de opbrengst",
+     "Deelnemers meer taken geven",
+     "Deadlines nog korter maken"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Johns Hopkins Hub – Why we choose urgent over important (2018)",
+     "u": "https://hub.jhu.edu/2018/05/31/meeting-deadlines-time-management-behaviors"
+    },
+    {
+     "t": "Zhu, Yang & Hsee (2018) – The Mere Urgency Effect, JCR",
+     "u": "https://aminer.org/pub/5c757412f56def9798907fe2/the-mere-urgency-effect"
+    }
+   ],
+   "date": "2026-11-18T05:43:00Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Kleine merken worden dubbel gestraft",
+   "body": "Een klein merk heeft niet alleen veel minder kopers dan een groot merk, die kopers kopen het ook iets minder vaak. Marketeers noemen dat 'double jeopardy'. Andrew Ehrenberg, Gerald Goodhardt en Patrick Barwise vonden dit patroon in 1990 terug in tal van productcategorieën. Het verschil in kopers is groot; het verschil in trouw is klein.",
+   "take": "Wil je merk groeien? Investeer eerst in meer en nieuwe kopers bereiken, niet alleen in trouwprogramma's voor bestaande klanten.",
+   "deep": "## Hoe het werkt\n\nNeem twee merken in dezelfde categorie, een groot en een klein. Het grote merk heeft in een bepaalde periode veel meer kopers. Maar daarbovenop kopen die kopers het merk ook nog wat vaker, en blijven ze het iets trouwer. Het kleine merk wordt dus twee keer gestraft: minder kopers en iets minder loyale kopers. Daarom heet het patroon 'double jeopardy', dubbel gevaar.\n\nBelangrijk is de verhouding. Het verschil in aantal kopers tussen groot en klein is enorm. Het verschil in aankoopfrequentie en trouw is klein. Marktaandeel wordt dus vooral bepaald door hoeveel mensen je merk kopen, en veel minder door hoe trouw ze zijn.\n\n## Een voorbeeld\n\nStel: een groot koffiemerk in de Belgische supermarkt en een klein ambachtelijk merk ernaast. Het kleine merk heeft misschien een trouwe kern van fans, en de eigenaar denkt dat zijn klanten loyaler zijn dan die van de grote concurrent. Volgens double jeopardy is dat meestal niet zo: zijn klanten kopen ook geregeld andere merken, en gemiddeld zelfs iets vaker dan de klanten van het grote merk.\n\n## Wat onderzoek zegt\n\nDe socioloog William McPhee beschreef het patroon al in 1963. Andrew Ehrenberg, Gerald Goodhardt en Patrick Barwise publiceerden in 1990 'Double Jeopardy Revisited' in het Journal of Marketing en toonden het aan in uiteenlopende productcategorieën. Byron Sharp van het Ehrenberg-Bass Institute gaf het in zijn boek How Brands Grow (2010) een centrale plaats. Hij beschrijft onder meer Britse waspoederdata: het aantal kopers verschilde enorm tussen marktleider Persil en het kleinere Surf, de aankoopfrequentie maar weinig. Een rapport van het Ehrenberg-Bass Institute voor LinkedIn vond hetzelfde patroon in business-to-business-markten.\n\n## Nuance of misverstand\n\nDouble jeopardy is een empirisch patroon, geen natuurwet. Onderzoekers als Bandyopadhyay, Gupta en Dube stellen dat het nadeel voor kleine merken minder onomkeerbaar is dan de klassieke literatuur suggereert. Nichemerken die bewust een kleine, specifieke doelgroep bedienen, kunnen afwijken. Het betekent ook niet dat trouw onbelangrijk is, wel dat je trouw nauwelijks los van groei kunt opbouwen.\n\n## Wat je ermee doet\n\nKijk bij je eigen merk of product eerst naar het aantal kopers, niet alleen naar herhaalaankopen. Reken niet op een loyaliteitsprogramma om een klein merk groot te maken. Zorg dat je merk makkelijk te vinden, te herkennen en te kopen is voor veel mensen, ook voor wie maar af en toe in je categorie koopt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><line x1=\"40\" y1=\"170\" x2=\"330\" y2=\"170\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"70\" y=\"170\" width=\"50\" height=\"0\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"0;120;120;0\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"170;50;50;170\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"130\" y=\"170\" width=\"50\" height=\"0\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"0;70;70;0\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"170;100;100;170\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"210\" y=\"170\" width=\"50\" height=\"0\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"0;25;25;0\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"170;145;145;170\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"270\" y=\"170\" width=\"50\" height=\"0\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"0;60;60;0\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"170;110;110;170\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"125\" y=\"190\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">groot merk</text><text x=\"265\" y=\"190\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">klein merk</text><rect x=\"60\" y=\"20\" width=\"12\" height=\"12\" fill=\"#06d6a0\"/><text x=\"78\" y=\"30\" text-anchor=\"start\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">kopers</text><rect x=\"190\" y=\"20\" width=\"12\" height=\"12\" fill=\"#ffd166\"/><text x=\"208\" y=\"30\" text-anchor=\"start\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">aankopen per koper</text><text x=\"180\" y=\"212\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">kleiner = minder kopers én iets minder trouw</text></svg>",
+   "quiz": {
+    "q": "Wat is volgens double jeopardy het grootste verschil tussen een groot en een klein merk?",
+    "o": [
+     "De prijs per product",
+     "Het aantal kopers",
+     "De trouw van de kopers"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Ehrenberg, Goodhardt & Barwise (1990) – Double Jeopardy Revisited",
+     "u": "https://www.deepdyve.com/lp/sage/double-jeopardy-revisited-M5fQR2kwNT"
+    },
+    {
+     "t": "Wikipedia – Double jeopardy (marketing)",
+     "u": "https://en.wikipedia.org/wiki/Double_jeopardy_(marketing)"
+    },
+    {
+     "t": "LinkedIn B2B Institute / Ehrenberg-Bass – B2B buying behaviour",
+     "u": "https://business.linkedin.com/content/dam/lem/business/en/advertise/resources/b2b-institute/b2b-buying-behaviour-double-jeopardy.pdf"
+    }
+   ],
+   "date": "2026-11-18T05:43:00Z"
+  }
+ ],
  "dives": [
   {
    "id": "2026-11-18",
