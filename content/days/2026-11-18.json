@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T05:43:31Z",
+ "updated": "2026-11-18T05:44:09Z",
  "cards": [
   {
    "cat": "wetenschap",
@@ -868,6 +868,354 @@
     }
    ],
    "date": "2026-11-18T05:43:31Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Quarantaine duurde eerst dertig dagen, niet veertig",
+   "body": "In 1377 besliste de Grote Raad van Ragusa, het huidige Dubrovnik, dat wie uit een pestgebied kwam eerst dertig dagen apart moest blijven: de 'trentino'. Later werd dat veertig dagen. Uit het Italiaanse 'quaranta giorni' groeide ons woord quarantaine. Venetië opende in 1423 met het Lazzaretto Vecchio een vast pestziekenhuis op een eiland.",
+   "take": "Hoor je 'quarantaine', denk dan aan het idee erachter: afzondering die ruim langer duurt dan de incubatietijd van de ziekte.",
+   "deep": "## Hoe het werkt\n\nIn de veertiende eeuw wist niemand dat bacteriën de pest veroorzaakten. Wel zagen havensteden dat de ziekte vaak met schepen en reizigers meekwam. Ragusa, een rijke handelsrepubliek aan de Adriatische kust, koos daarom voor een eenvoudige regel: wie uit een besmet gebied kwam, mocht de stad niet meteen in. Schepen, bemanning en reizigers moesten eerst een maand apart blijven, buiten de stadsmuren. Werd in die periode niemand ziek, dan mocht men verder.\n\nHet principe is nog altijd hetzelfde: je houdt mensen die mogelijk besmet zijn lang genoeg apart om zeker te zijn dat ze de ziekte niet dragen, zonder iedereen te moeten onderzoeken.\n\n## Een voorbeeld\n\nTijdens de coronapandemie in 2020 moesten ook Belgen die terugkeerden uit een zogenoemde rode zone in quarantaine. Het woord dat je toen dagelijks in het nieuws hoorde, verwijst rechtstreeks naar die middeleeuwse havenregels: 'quaranta giorni', veertig dagen in het Italiaans.\n\n## Wat onderzoek zegt\n\nVolgens historisch onderzoek, onder meer van de Kroatische historicus Gordan Ravančić, nam de Grote Raad van Ragusa het besluit op 27 juli 1377. De Latijnse titel betekent ongeveer 'wie uit pestgebieden komt, mag Ragusa of zijn district niet binnen'. De tekst staat in het stedelijke wetboek Liber Viridis. De periode van dertig dagen heette 'trentino', en de overheid kon die ook korter of langer maken.\n\nVenetië ging een stap verder. In 1423 besliste de Senaat om op het eiland Santa Maria di Nazareth in de lagune een vast pestziekenhuis in te richten: het Lazzaretto Vecchio. Later volgde een tweede eiland, het Lazzaretto Nuovo. Een isolatie van veertig dagen ging ruim over de korte incubatietijd van de pest, die volgens bronnen slechts enkele dagen bedraagt.\n\n## Nuance of misverstand\n\nWie de stap van dertig naar veertig dagen zette, en waarom, is niet helemaal zeker. Sommige bronnen schrijven de veertig dagen toe aan Venetië, andere aan een latere aanpassing in Ragusa zelf. Het getal veertig had ook een sterke symbolische lading, bijvoorbeeld de veertig dagen van de vasten, maar dat het daarom gekozen werd, is niet bewezen. Ook was Ragusa niet de eerste plek die zieken afzonderde: melaatsen werden al eerder apart gehouden. Nieuw was de systematische regel voor iedereen die uit een besmet gebied kwam.\n\n## Wat je ermee doet\n\nGebruik dit verhaal als geheugensteun voor hoe volksgezondheid werkt: lang voor men de oorzaak van een ziekte kende, kon een slimme regel al besmettingen tegenhouden. En corrigeer gerust wie zegt dat quarantaine 'altijd veertig dagen' was: de allereerste versie duurde er dertig.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><path d=\"M0 150 Q90 140 180 150 T360 150\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"4 6\"/><rect x=\"20\" y=\"40\" width=\"80\" height=\"50\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"60\" y=\"62\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">Pestgebied</text><text x=\"60\" y=\"78\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">schip vertrekt</text><ellipse cx=\"280\" cy=\"80\" rx=\"62\" ry=\"30\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"280\" y=\"77\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">Isolatie-</text><text x=\"280\" y=\"92\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">eiland</text><path d=\"M100 65 Q180 20 214 70\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" from=\"24\" to=\"0\" dur=\"2s\" repeatCount=\"indefinite\"/></path><path d=\"M206 66 L216 74 L218 62 Z\" fill=\"#ffd166\"/><circle r=\"6\" fill=\"#ffd166\"><animateMotion path=\"M100 65 Q180 20 214 70\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><text x=\"90\" y=\"185\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">Ragusa 1377: 30 dagen</text><g opacity=\"0.2\"><text x=\"270\" y=\"185\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\">Venetië: 40 dagen</text><animate attributeName=\"opacity\" values=\"0.2;0.2;1;1;0.2\" dur=\"6s\" repeatCount=\"indefinite\"/></g><text x=\"180\" y=\"210\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">quaranta giorni = quarantaine</text></svg>",
+   "quiz": {
+    "q": "Hoe lang duurde de eerste isolatieregel van Ragusa in 1377?",
+    "o": [
+     "Dertig dagen",
+     "Veertig dagen",
+     "Zeven dagen"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Medievalists.net – The medieval origins of quarantine",
+     "u": "https://www.medievalists.net/2020/03/medieval-origins-quarantine/"
+    },
+    {
+     "t": "Ravančić – artikel over de pestverordening van 1377 (Hrčak)",
+     "u": "https://hrcak.srce.hr/file/398280"
+    },
+    {
+     "t": "Wikipedia – Lazzaretto Vecchio",
+     "u": "https://en.wikipedia.org/wiki/Lazzaretto_Vecchio"
+    }
+   ],
+   "date": "2026-11-18T05:44:09Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Romeins beton kon zijn eigen barsten dichten",
+   "body": "Witte kalkbrokjes in Romeins beton leken lang op slordig mengwerk. Een team rond Admir Masic (MIT) toonde in 2023 in Science Advances dat ze ontstaan door 'heet mengen' met ongebluste kalk. Dringt water in een barst, dan lost wat kalk op en kristalliseert het als calciumcarbonaat. In hun test was een gebarsten proefstuk binnen twee weken waterdicht.",
+   "take": "Zie je oude Romeinse ruïnes, kijk dan naar witte puntjes in de mortel: dat is mogelijk het ingebouwde reparatiemiddel.",
+   "deep": "## Hoe het werkt\n\nRomeins beton bestond uit kalk, water, steenbrokken en vulkanische as, de zogenaamde pozzolaan uit de buurt van Pozzuoli. Die as reageert met kalk en maakt het materiaal sterk. Al lang vielen onderzoekers kleine witte brokjes kalk in het beton op. De gangbare uitleg was dat de Romeinen gewoon niet goed mengden.\n\nHet team van het MIT ontdekte dat de brokjes ontstaan bij hoge temperaturen. Dat wijst op ongebluste kalk (calciumoxide) die rechtstreeks met de rest werd gemengd. Die reactie geeft veel warmte af: 'heet mengen'. Daarbij krijgen de brokjes een broze, poreuze structuur. Ontstaat er een barst, dan loopt die vaak door zo'n brokje. Komt er water bij, dan lost calcium op en slaat het neer als calciumcarbonaat, dat de barst opvult.\n\n## Een voorbeeld\n\nHet bekendste bewijs van de duurzaamheid is het Pantheon in Rome, gebouwd onder keizer Hadrianus in de jaren 120 na Christus. De koepel heeft een diameter van ongeveer 43 meter en is nog altijd de grootste koepel van ongewapend beton ter wereld, bijna negentien eeuwen na de bouw.\n\n## Wat onderzoek zegt\n\nDe studie verscheen in januari 2023 in Science Advances. Auteurs waren onder meer Linda Seymour en Admir Masic van het MIT, met collega's uit Italië, Zwitserland en het Wyss Institute van Harvard. Ze maakten zelf beton volgens het oude recept en volgens een modern recept zonder ongebluste kalk. Na het barsten lieten ze water door de proefstukken stromen. Het heet gemengde beton was binnen twee weken volledig gedicht, terwijl water door het controlestuk bleef lopen. Het team wil het recept nu commercieel inzetten.\n\n## Nuance of misverstand\n\nHet is geen wondermateriaal. Romeins beton is minder sterk onder druk dan modern beton en bevat geen stalen wapening, waardoor je er geen slanke torens mee bouwt. Dat het niet roest, komt net doordat er geen staal in zit. Bovendien is het zelfherstel in een laboratorium aangetoond, niet gemeten in eeuwenoude gebouwen. De vulkanische as blijft ook een belangrijk deel van de verklaring. En veel Romeins beton is wel degelijk vergaan: we zien vooral wat overleefd heeft.\n\n## Wat je ermee doet\n\nOnthoud dat 'oud' niet automatisch 'primitief' betekent: wat eruitziet als een fout, kan een slimme eigenschap zijn. Wie in de bouw werkt, kan volgen hoe ingenieurs dit principe nu proberen toe te passen in moderne cementsoorten en 3D-geprint beton.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"40\" y=\"40\" width=\"280\" height=\"120\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M150 40 L170 80 L160 110 L180 160\" fill=\"none\" stroke=\"#fff\" stroke-width=\"3\"/><circle cx=\"168\" cy=\"95\" r=\"14\" fill=\"#fff\" opacity=\"0.85\"/><text x=\"230\" y=\"100\" text-anchor=\"start\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">kalkbrokje</text><line x1=\"226\" y1=\"96\" x2=\"186\" y2=\"95\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M188 90 L180 95 L188 100 Z\" fill=\"#fff\"/><circle r=\"5\" fill=\"#06d6a0\"><animateMotion path=\"M150 20 L150 40 L170 80 L162 100\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><text x=\"110\" y=\"28\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">water</text><path d=\"M150 40 L170 80 L160 110 L180 160\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"6\" stroke-dasharray=\"190\" stroke-dashoffset=\"190\" opacity=\"0.9\"><animate attributeName=\"stroke-dashoffset\" values=\"190;0;0;190\" dur=\"7s\" repeatCount=\"indefinite\"/></path><text x=\"70\" y=\"180\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">barst</text><text x=\"250\" y=\"180\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">calciet dicht de barst</text><text x=\"180\" y=\"207\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Heet gemengd beton herstelt zich</text></svg>",
+   "quiz": {
+    "q": "Wat bleken de witte kalkbrokjes in Romeins beton te doen?",
+    "o": [
+     "Ze maakten het beton lichter",
+     "Ze dichtten barsten als er water bijkwam",
+     "Ze waren alleen versiering"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "MIT – Riddle solved: Why was Roman concrete so durable?",
+     "u": "https://sustainability.mit.edu/article/riddle-solved-why-was-roman-concrete-so-durable"
+    },
+    {
+     "t": "EurekAlert – persbericht MIT (2023)",
+     "u": "https://www.eurekalert.org/news-releases/975532"
+    },
+    {
+     "t": "Wikipedia – Pantheon, Rome",
+     "u": "https://en.wikipedia.org/wiki/Pantheon,_Rome"
+    }
+   ],
+   "date": "2026-11-18T05:44:09Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Het woord 'beurs' begon wellicht in een Brugse herberg",
+   "body": "Al in 1285 baatte Robrecht van der Beurze in Brugge een herberg uit. Rond dat plein vestigden kooplui uit Genua, Venetië en Florence hun handelshuizen. 'Ter Beurze' werd zo dé plek om geld en wissels te verhandelen, en volgens de bekendste verklaring kregen beurzen overal die naam: borsa, Börse, bourse. In 1531 opende Antwerpen het eerste speciaal gebouwde beursgebouw.",
+   "take": "Wandel je in Brugge over het Oude Beursplein, zoek dan het Huis ter Beurze: daar stond een wieg van de internationale handel.",
+   "deep": "## Hoe het werkt\n\nIn de late middeleeuwen was Brugge een van de drukste handelssteden van Europa. Buitenlandse kooplui hadden een vaste plek nodig om elkaar te ontmoeten, prijzen te horen en wissels te sluiten: papieren beloften om op een andere plaats geld uit te betalen. De herberg van de familie Van der Beurze lag ideaal. Rond het plein vestigden de Italiaanse handelsnaties uit Genua, Venetië en Florence hun huizen. Wie zaken wilde doen, ging 'ter Beurze'.\n\nZo groeide een plaatsnaam uit tot een begrip. De bekendste verklaring luidt dat het woord voor een vergaderplaats van handelaars zich vandaar over Europa verspreidde: borsa in het Italiaans, Börse in het Duits, bourse in het Frans.\n\n## Een voorbeeld\n\nHet Huis ter Beurze staat nog altijd op het Oude Beursplein in Brugge. Een eindje verder in de tijd en in Vlaanderen staat de Antwerpse Handelsbeurs. Toen de handel in de zestiende eeuw naar Antwerpen verschoof, kreeg die stad in 1531 een gebouw dat speciaal voor de handel was ontworpen: een binnenplaats met galerijen waar kooplui samenkwamen. De Royal Exchange in Londen werd later naar dat Antwerpse voorbeeld gebouwd.\n\n## Wat onderzoek zegt\n\nArchiefstukken tonen dat Robrecht van der Beurze de herberg al in 1285 uitbaatte. De familie runde die volgens historici vijf generaties lang. De Florentijnse geschiedschrijver Lodovico Guicciardini beschreef in de zestiende eeuw hoe het woord 'beurs' de betekenis kreeg van een openbare ontmoetingsplaats voor kooplieden. Een wetenschappelijk artikel van het Max-Planck-Instituut voor rechtsgeschiedenis benadrukt dat het Brugse huis een van drie herbergen van de familie was, en niet zomaar 'de oudste beurs ter wereld'.\n\n## Nuance of misverstand\n\nDe herkomst van het woord is omstreden. 'Beurs' betekende in het Middelnederlands al 'geldbuidel', en volgens een Deens naslagwerk kreeg de familie haar naam juist van dat woord. Het is dus mogelijk dat de familie niet het woord bedacht, maar dat het plein de betekenis 'handelsplaats' versterkte. Ook was het in Brugge geen aandelenbeurs zoals vandaag: men handelde in goederen, wissels en geld. Ook voor de titel 'eerste beurs' wijzen veel historici eerder naar het Antwerpse gebouw.\n\n## Wat je ermee doet\n\nVertel dit verhaal met de juiste voorzichtigheid: 'het woord beurs komt waarschijnlijk uit Brugge'. En onthoud het grotere punt: financiële markten begonnen niet in een glazen toren, maar op een plein waar vreemde handelaars elkaar leerden vertrouwen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"135\" y=\"80\" width=\"90\" height=\"50\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"101\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Ter Beurze</text><text x=\"180\" y=\"118\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">Brugge</text><rect x=\"20\" y=\"20\" width=\"76\" height=\"30\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"58\" y=\"40\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">Genua</text><rect x=\"142\" y=\"10\" width=\"76\" height=\"30\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"30\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">Venetië</text><rect x=\"264\" y=\"20\" width=\"76\" height=\"30\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"302\" y=\"40\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">Florence</text><circle r=\"5\" fill=\"#ffd166\"><animateMotion path=\"M58 50 L140 90\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><circle r=\"5\" fill=\"#ffd166\"><animateMotion path=\"M180 40 L180 80\" dur=\"3s\" begin=\"1s\" repeatCount=\"indefinite\"/></circle><circle r=\"5\" fill=\"#ffd166\"><animateMotion path=\"M302 50 L220 90\" dur=\"3s\" begin=\"2s\" repeatCount=\"indefinite\"/></circle><line x1=\"180\" y1=\"130\" x2=\"180\" y2=\"162\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"5 5\"><animate attributeName=\"stroke-dashoffset\" from=\"20\" to=\"0\" dur=\"2s\" repeatCount=\"indefinite\"/></line><path d=\"M174 160 L180 170 L186 160 Z\" fill=\"#06d6a0\"/><text x=\"180\" y=\"188\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">borsa · Börse · bourse · beurs</text><text x=\"180\" y=\"210\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">1531: eerste beursgebouw in Antwerpen</text></svg>",
+   "quiz": {
+    "q": "Welke stad opende in 1531 het eerste speciaal gebouwde beursgebouw?",
+    "o": [
+     "Brugge",
+     "Londen",
+     "Antwerpen"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Wikipedia – Bourse at Bruges",
+     "u": "https://en.wikipedia.org/wiki/Bourse_at_Bruges"
+    },
+    {
+     "t": "The Low Countries – The Handelsbeurs in Antwerp",
+     "u": "https://www.the-low-countries.com/article/the-handelsbeurs-in-antwerp-the-worlds-first-stock-exchange/"
+    },
+    {
+     "t": "Rechtsgeschichte (MPI) – Constructing the Stock Exchange",
+     "u": "https://rg.lhlt.mpg.de/index.php/rg/article/download/197/2670?inline=1"
+    },
+    {
+     "t": "Lex.dk – Børs (etymologie)",
+     "u": "https://lex.dk/b%C3%B8rs"
+    }
+   ],
+   "date": "2026-11-18T05:44:09Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Hiërogliefen kraken begon met de naam van een koning",
+   "body": "De Steen van Rosetta, gevonden in 1799, draagt één decreet uit 196 voor Christus in drie schriften: hiërogliefen, demotisch en Grieks. In 1822 toonde Jean-François Champollion in zijn 'Lettre à M. Dacier' dat hiërogliefen ook klanken weergeven. Zijn sleutel: koningsnamen zoals Ptolemaios, omringd door een ovale cartouche, die hij kon vergelijken met de Griekse tekst.",
+   "take": "Leer een onbekend schrift ontcijferen zoals Champollion: begin bij eigennamen, want die klinken in elke taal ongeveer hetzelfde.",
+   "deep": "## Hoe het werkt\n\nEeuwenlang dachten geleerden dat hiërogliefen puur symbolisch waren: elk tekentje een idee. De Steen van Rosetta bood een uitweg, omdat hij dezelfde tekst in drie versies bevat. Het Grieks konden geleerden gewoon lezen. In de hiërogliefentekst stonden enkele groepjes tekens binnen een ovale ring, een cartouche. Die bleken namen van heersers te bevatten.\n\nEen naam als Ptolemaios moet je in elke taal klank voor klank weergeven. Door de tekens in de cartouche te vergelijken met de Griekse letters, kon Champollion aan individuele tekens een klankwaarde koppelen. Met andere koningsnamen, zoals die van Cleopatra, kon hij die waarden controleren en uitbreiden.\n\n## Een voorbeeld\n\nWie in het museum Kunst & Geschiedenis in het Brusselse Jubelpark de Egyptische collectie bezoekt, ziet op beelden en stèles vaak precies zulke ovale ringen rond een groepje tekens. Elke keer gaat het om een koningsnaam: het eerste wat Champollion leerde lezen.\n\n## Wat onderzoek zegt\n\nDe steen werd in 1799 gevonden door Franse soldaten bij Rashid (Rosetta) in Egypte. Na de Franse nederlaag ging hij naar Groot-Brittannië en sinds 1802 staat hij in het British Museum in Londen. Het decreet werd uitgevaardigd in 196 voor Christus voor koning Ptolemaios V.\n\nChampollion schreef in september 1822 een brief aan Bon-Joseph Dacier, secretaris van de Académie des Inscriptions et Belles-Lettres, die op 27 september aan de academie werd voorgelezen. Hij bouwde voort op eerder werk van de Britse geleerde Thomas Young, die al had vermoed dat sommige tekens in de cartouche van Ptolemaios een klankwaarde hadden.\n\n## Nuance of misverstand\n\nHet verhaal van één geniale doorbraak is te simpel. De Duitse egyptoloog Joachim Quack stelt dat Champollion in 1822 vooral de klankwaarde van tekens voor Griekse en Romeinse namen vastlegde: met die brief alleen kon je nog geen enkele Egyptische tekst lezen. Champollion werkte de rest uit in de jaren daarna, mede dankzij zijn kennis van het Koptisch. Ook bevatten hiërogliefen zowel klanktekens als betekenistekens: beide ideeën klopten dus deels.\n\n## Wat je ermee doet\n\nGebruik dit als strategie bij elke puzzel met onbekende tekens of codes: zoek eerst naar iets wat je al kent, zoals namen, getallen of herhaalde stukken. En onthoud dat grote ontdekkingen bijna altijd voortbouwen op het werk van anderen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"30\" y=\"20\" width=\"150\" height=\"170\" rx=\"10\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"30\" y1=\"76\" x2=\"180\" y2=\"76\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"30\" y1=\"133\" x2=\"180\" y2=\"133\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"105\" y=\"46\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">hiërogliefen</text><text x=\"105\" y=\"109\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">demotisch</text><text x=\"105\" y=\"166\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">Grieks</text><ellipse cx=\"62\" cy=\"64\" rx=\"22\" ry=\"8\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"stroke-width\" values=\"2;4;2\" dur=\"3s\" repeatCount=\"indefinite\"/></ellipse><ellipse cx=\"275\" cy=\"70\" rx=\"64\" ry=\"24\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"275\" y=\"74\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">cartouche</text><rect x=\"215\" y=\"140\" width=\"120\" height=\"36\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"275\" y=\"162\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">PTOLEMAIOS</text><path d=\"M180 160 L212 158\" stroke=\"#06d6a0\" stroke-width=\"2\"/><line x1=\"240\" y1=\"138\" x2=\"240\" y2=\"102\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"5 5\"><animate attributeName=\"stroke-dashoffset\" from=\"20\" to=\"0\" dur=\"2s\" repeatCount=\"indefinite\"/></line><path d=\"M234 104 L240 96 L246 104 Z\" fill=\"#ffd166\"/><text x=\"300\" y=\"122\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">naam = klanken</text><text x=\"180\" y=\"210\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Eén decreet, drie schriften</text></svg>",
+   "quiz": {
+    "q": "Wat gebruikte Champollion als sleutel om hiërogliefen te lezen?",
+    "o": [
+     "Getallen op de steen",
+     "Koningsnamen in cartouches",
+     "Een Arabische vertaling"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Wikipedia – Lettre à M. Dacier",
+     "u": "https://en.wikipedia.org/wiki/Lettre_%C3%A0_M._Dacier"
+    },
+    {
+     "t": "Quack – Champollion's Decipherment. Is 1822 the Epochal Year?",
+     "u": "https://journals.ekb.eg/article_410062.html"
+    },
+    {
+     "t": "World History Encyclopedia – Rosetta Stone",
+     "u": "https://www.worldhistory.org/Rosetta_Stone/"
+    }
+   ],
+   "date": "2026-11-18T05:44:09Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Het vakje dat al aangevinkt staat, wint meestal",
+   "body": "Eric Johnson en Daniel Goldstein lieten mensen online kiezen of ze orgaandonor wilden zijn. Moesten ze zelf 'ja' aanvinken, dan koos ongeveer 42% voor donatie. Stond 'donor' al als standaard, dan bleef ongeveer 82% donor. Dat heet het standaardeffect (default effect). Bedrijven gebruiken het bij abonnementen, extra opties en nieuwsbrieven.",
+   "take": "Controleer bij elke online bestelling welke vakjes al aangevinkt staan en of een abonnement automatisch verlengt.",
+   "deep": "## Hoe het werkt\n\nEen standaardoptie is wat er gebeurt als je niets doet. Mensen houden die keuze opvallend vaak, om drie redenen. Iets veranderen kost moeite. De standaard voelt als een stille aanbeveling: 'dit is wat de meeste mensen doen'. En afwijken voelt als een actieve beslissing waar je verantwoordelijk voor bent, terwijl de standaard laten staan voelt als niets doen.\n\nMarketeers weten dat goed. Daarom staat het duurste pakket soms vooraf geselecteerd, verlengt een proefabonnement zich automatisch en is 'houd mij op de hoogte' vaak al aangevinkt.\n\n## Een voorbeeld\n\nBelgië werkt sinds een wet van 13 juni 1986 met een opt-outsysteem voor orgaandonatie: wie niet uitdrukkelijk bezwaar heeft laten registreren, kan na overlijden donor zijn. Ook op Belgische webwinkels zie je het principe: een verzekering of extra garantie die al in je winkelmandje staat, tenzij je ze zelf wegklikt.\n\n## Wat onderzoek zegt\n\nJohnson en Goldstein publiceerden in 2003 in Science het artikel 'Do Defaults Save Lives?'. Ze vergeleken Europese landen met opt-in en opt-out en zagen grote verschillen in toestemming die religie, inkomen of opleiding niet verklaarden. In hun online-experiment koos 42% voor donatie bij opt-in, 82% bij opt-out en 79% als mensen zonder standaard moesten kiezen.\n\nIn de Europese Unie besliste het Hof van Justitie in 2019 in de zaak Planet49 dat een vooraf aangevinkt vakje geen geldige toestemming is voor cookies. Toestemming vraagt een actieve handeling.\n\n## Nuance of misverstand\n\nMeer 'ja' op papier betekent niet automatisch meer donaties. Een studie in PNAS Nexus (2025, Güntürkün en collega's) over 24 landen tussen 2000 en 2023 vond na een overstap naar opt-out slechts een kleine, niet-significante stijging van overleden donoren, en een daling van levende donoren met 29%. Ook familie, ziekenhuisorganisatie en communicatie spelen mee. Het standaardeffect is sterk voor wat mensen aanduiden, maar het gedrag erna hangt van meer af.\n\n## Wat je ermee doet\n\nAls consument: lees elk vooraf aangevinkt vakje alsof iemand anders voor jou koos, want dat is ook zo. Als ondernemer: kies standaarden die je klant echt helpen, zoals de meest gekozen maat of de veiligste instelling. Verborgen kosten of ongewilde abonnementen als standaard kosten je vertrouwen, en zijn in de EU vaak ook gewoon niet toegelaten.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><line x1=\"60\" y1=\"170\" x2=\"320\" y2=\"170\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"90\" y=\"170\" width=\"60\" height=\"0\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"height\" values=\"0;63;63;0\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"170;107;107;170\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"220\" y=\"170\" width=\"60\" height=\"0\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"0;123;123;0\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"170;47;47;170\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"120\" y=\"96\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\">42%</text><text x=\"250\" y=\"38\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\">82%</text><text x=\"120\" y=\"188\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">zelf aanvinken</text><text x=\"250\" y=\"188\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">al aangevinkt</text><rect x=\"40\" y=\"20\" width=\"14\" height=\"14\" rx=\"2\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"60\" y=\"32\" text-anchor=\"start\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">standaard = nee</text><text x=\"180\" y=\"210\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">Ja-stemmen voor orgaandonatie</text></svg>",
+   "quiz": {
+    "q": "Wat besliste het Europese Hof van Justitie in 2019 over vooraf aangevinkte vakjes voor cookies?",
+    "o": [
+     "Ze zijn geen geldige toestemming",
+     "Ze zijn verplicht voor elke site",
+     "Ze gelden alleen voor reclame"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Johnson & Goldstein – Defaults and donation decisions (2004)",
+     "u": "https://www.dangoldstein.com/papers/JohnsonGoldstein_Defaults_Transplantation2004.pdf"
+    },
+    {
+     "t": "The Decision Lab – Can defaults save lives?",
+     "u": "https://thedecisionlab.com/insights/health/can-defaults-save-lives-the-power-of-default-options-on-life-saving-decisions"
+    },
+    {
+     "t": "PNAS Nexus – opt-out en levende donoren (2025)",
+     "u": "https://academic.oup.com/pnasnexus/article/4/10/pgaf311/8303887"
+    },
+    {
+     "t": "Hof van Justitie EU – persbericht Planet49 (2019)",
+     "u": "https://curia.europa.eu/jcms/upload/docs/application/pdf/2019-10/cp190125en.pdf"
+    },
+    {
+     "t": "De Morgen via LEIF – orgaandonatie in België",
+     "u": "https://leif.be/data/press-articles/De_Morgen/De_Morgen_-_Goedkeuring_van_familie_niet_vereist_voor_orgaandonatie_10-01-12.pdf"
+    }
+   ],
+   "date": "2026-11-18T05:44:09Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "'A Diamond Is Forever' verkocht vooral een gewoonte",
+   "body": "In 1938 huurde diamantbedrijf De Beers het Amerikaanse reclamebureau N.W. Ayer in: Amerikanen kochten sinds de Eerste Wereldoorlog minder en goedkopere diamanten. Ayer liet filmsterren diamanten dragen en organiseerde lezingen op scholen. In 1947 bedacht copywriter Frances Gerety de slogan 'A Diamond Is Forever'. Advertising Age riep hem in 1999 uit tot slogan van de eeuw.",
+   "take": "Vraag je bij een 'traditie' rond een aankoop af: wie heeft die bedacht, en verdient iemand eraan dat je ze volgt?",
+   "deep": "## Hoe het werkt\n\nDe slimste reclame verkoopt geen product, maar een betekenis. De Beers wilde niet alleen dat mensen diamanten kochten, maar dat een diamanten verlovingsring een vanzelfsprekend onderdeel van liefde werd. N.W. Ayer werkte daarom op meerdere fronten: diamanten op het witte doek en bij beroemdheden, verhalen in kranten en tijdschriften, en voorlichting op scholen. Het product werd gekoppeld aan een emotie en een levensmoment.\n\nDe slogan voegde er iets subtiels aan toe. 'Forever' suggereert dat liefde blijvend is, maar ook dat je een diamant houdt. Wie zijn diamant niet verkoopt, houdt het aanbod op de tweedehandsmarkt klein.\n\n## Een voorbeeld\n\nAntwerpen is al eeuwen een van de belangrijkste diamantcentra ter wereld. Kijk in de etalages rond de Antwerpse diamantwijk en je ziet dezelfde boodschap terug: verlovingsringen met één steen, gepresenteerd als symbool van eeuwige liefde. Dat beeld is voor een groot deel gevormd door Amerikaanse reclame uit de twintigste eeuw.\n\n## Wat onderzoek zegt\n\nJournalist Edward Jay Epstein reconstrueerde de campagne in 1982 in een lang artikel in The Atlantic, 'Have You Ever Tried to Sell a Diamond?'. Volgens hem reisde Harry Oppenheimer, zoon van de oprichter van De Beers, in september 1938 naar New York om N.W. Ayer in te schakelen. Interne documenten van Ayer beschreven hoe lezingen duizenden meisjes bereikten. Frances Gerety werkte van 1943 tot 1970 als copywriter bij Ayer. Haar slogan verscheen vanaf 1948 in nationale campagnes.\n\n## Nuance of misverstand\n\nDe Beers heeft de verlovingsring niet uitgevonden: ringen bij een verloving bestonden al eeuwen. Wat de campagne veranderde, was de verwachting dat het een diamant moest zijn, en een dure. De bekende 'regel' dat een ring twee maanden salaris moet kosten, kwam pas veel later in reclame naar voren en is geen oude traditie. Wees ook voorzichtig met precieze cijfers over hoeveel verlovingsringen er dankzij de campagne bijkwamen: die circuleren vaak zonder goede bron.\n\n## Wat je ermee doet\n\nGebruik dit als denkoefening bij grote aankopen die 'zo horen': trouwringen, geboortelijsten, feesten. Vraag je af welk deel jouw eigen wens is en welk deel een aangeleerde norm. Als marketeer leer je eruit hoe krachtig het is om een product te koppelen aan een moment in iemands leven, maar ook hoe snel zo'n verhaal later kritisch onderzocht wordt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><line x1=\"40\" y1=\"110\" x2=\"320\" y2=\"110\" stroke=\"#fff\" stroke-width=\"2\"/><g opacity=\"0.3\"><circle cx=\"70\" cy=\"110\" r=\"10\" fill=\"#ffd166\"/><text x=\"70\" y=\"88\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">1938</text><text x=\"70\" y=\"138\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">De Beers +</text><text x=\"70\" y=\"152\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">N.W. Ayer</text><animate attributeName=\"opacity\" values=\"0.3;1;1;1;0.3\" keyTimes=\"0;0.1;0.5;0.9;1\" dur=\"8s\" repeatCount=\"indefinite\"/></g><g opacity=\"0.3\"><circle cx=\"180\" cy=\"110\" r=\"10\" fill=\"#06d6a0\"/><text x=\"180\" y=\"88\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">1947</text><text x=\"180\" y=\"138\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">slogan van</text><text x=\"180\" y=\"152\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">Frances Gerety</text><animate attributeName=\"opacity\" values=\"0.3;0.3;1;1;0.3\" keyTimes=\"0;0.3;0.4;0.9;1\" dur=\"8s\" repeatCount=\"indefinite\"/></g><g opacity=\"0.3\"><circle cx=\"290\" cy=\"110\" r=\"10\" fill=\"#ff6b9d\"/><text x=\"290\" y=\"88\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\">1999</text><text x=\"290\" y=\"138\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">slogan van</text><text x=\"290\" y=\"152\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">de eeuw</text><animate attributeName=\"opacity\" values=\"0.3;0.3;1;1;0.3\" keyTimes=\"0;0.6;0.7;0.9;1\" dur=\"8s\" repeatCount=\"indefinite\"/></g><path d=\"M180 20 L200 38 L180 62 L160 38 Z\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"160\" y1=\"38\" x2=\"200\" y2=\"38\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"195\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\">A Diamond Is Forever</text></svg>",
+   "quiz": {
+    "q": "Wie schreef de slogan 'A Diamond Is Forever'?",
+    "o": [
+     "Harry Oppenheimer",
+     "Edward Jay Epstein",
+     "Frances Gerety"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Wikipedia – Mary Frances Gerety",
+     "u": "https://en.wikipedia.org/wiki/Mary_Frances_Gerety"
+    },
+    {
+     "t": "Daily Maverick – The history of the diamond engagement ring",
+     "u": "https://www.dailymaverick.co.za/article/2021-09-20-the-history-of-the-diamond-engagement-ring/"
+    },
+    {
+     "t": "Quartz – What the diamond industry is really selling",
+     "u": "https://qz.com/614214/what-the-diamond-industry-is-really-selling"
+    },
+    {
+     "t": "Kottke – Have you ever tried to sell a diamond? (Epstein, 1982)",
+     "u": "https://kottke.org/11/08/have-you-ever-tried-to-sell-a-diamond"
+    }
+   ],
+   "date": "2026-11-18T05:44:09Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Google begon met links te tellen als stemmen",
+   "body": "In 1998 beschreven de Stanford-studenten Sergey Brin en Larry Page PageRank: een pagina is belangrijk als andere belangrijke pagina's ernaar linken. Ze stelden zich een surfer voor die met 85% kans een link volgt en anders naar een willekeurige pagina springt. Google zegt PageRank nog altijd intern te gebruiken, als één signaal tussen honderden.",
+   "take": "Zoek voor je website links van relevante, betrouwbare sites, zoals je gemeente of vakvereniging, in plaats van zoveel mogelijk links.",
+   "deep": "## Hoe het werkt\n\nVoor Google waren zoekmachines vooral bezig met woorden tellen: hoe vaak komt je zoekterm op een pagina voor? Dat was makkelijk te misbruiken. Brin en Page voegden een tweede vraag toe: wie verwijst naar deze pagina? Elke link werkt als een stem. Maar niet elke stem weegt even zwaar: een link van een pagina die zelf veel stemmen krijgt, telt meer. En een pagina die naar honderd andere linkt, verdeelt haar gewicht over die honderd.\n\nWiskundig rekent PageRank uit hoe vaak een denkbeeldige surfer op elke pagina belandt. Die surfer klikt met een kans van 85% op een willekeurige link en springt anders naar een willekeurige pagina. Pagina's waar hij vaak uitkomt, krijgen een hoge score.\n\n## Een voorbeeld\n\nStel dat een bakker in Leuven een eigen website heeft. Linkt de website van de stad of een regionale krant naar zijn zaak, dan is dat een sterk signaal. Honderd links van onbekende, nietszeggende sites die enkel bestaan om links te verkopen, zeggen veel minder en kunnen zelfs als spam worden gezien.\n\n## Wat onderzoek zegt\n\nHet artikel 'The Anatomy of a Large-Scale Hypertextual Web Search Engine' verscheen in 1998 in het tijdschrift Computer Networks. Brin en Page werkten toen aan de informaticafaculteit van Stanford University. In de tekst schrijven ze dat ze de dempingsfactor d 'meestal op 0,85 zetten'.\n\nGoogle toonde jarenlang een PageRank-score van 0 tot 10 in zijn browserwerkbalk, maar schrapte die publieke score in 2016. Volgens Search Engine Land bleef Google PageRank intern gebruiken, en Google-medewerker Gary Illyes bevestigde in 2017 dat het nog een rangschikkingssignaal is, één van honderden.\n\n## Nuance of misverstand\n\nPageRank is niet hét Google-algoritme. De huidige versie verschilt sterk van die uit 1998, en Google weegt honderden andere signalen mee, zoals de inhoud van de pagina, of ze goed werkt op een smartphone en of ze past bij wat iemand zoekt. Google zegt ook dat het geen betaling aanvaardt voor crawlen, indexeren of rangschikken. Links kopen om hoger te scoren gaat in tegen de richtlijnen van Google en kan net schade doen.\n\n## Wat je ermee doet\n\nWil je beter gevonden worden, maak dan iets waar anderen graag naar verwijzen: een handige gids, een lokale agenda, eerlijke prijsinformatie. Vraag partners, leveranciers en lokale organisaties om een link als die echt nuttig is voor hun lezers. Eén relevante link van een betrouwbare bron is meer waard dan tientallen uit het niets.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><path d=\"M70 60 L180 110 M70 160 L180 110 M290 60 L180 110 M180 110 L290 160 M70 60 L290 60\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M168 100 L180 110 L165 113 Z\" fill=\"#fff\"/><circle cx=\"70\" cy=\"60\" r=\"14\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"70\" cy=\"160\" r=\"14\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"290\" cy=\"60\" r=\"18\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"290\" cy=\"160\" r=\"20\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"180\" cy=\"110\" r=\"26\" fill=\"#ffd166\"><animate attributeName=\"r\" values=\"22;30;22\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"114\" text-anchor=\"middle\" fill=\"#000\" font-family=\"Inter,sans-serif\" font-size=\"13\">B</text><circle r=\"5\" fill=\"#06d6a0\"><animateMotion path=\"M70 60 L180 110 L290 160 M70 160 L180 110\" dur=\"5s\" repeatCount=\"indefinite\"/></circle><text x=\"70\" y=\"30\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">link = stem</text><text x=\"290\" y=\"30\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">85%: volg link</text><text x=\"70\" y=\"196\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">15%: spring</text><text x=\"250\" y=\"205\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">veel stemmen = belangrijk</text></svg>",
+   "quiz": {
+    "q": "Wanneer weegt een link volgens PageRank zwaarder?",
+    "o": [
+     "Als de link in het vet staat",
+     "Als de linkende pagina zelf belangrijk is",
+     "Als de link recent is toegevoegd"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Google Research – The Anatomy of a Large-Scale Hypertextual Web Search Engine",
+     "u": "https://research.google/pubs/the-anatomy-of-a-large-scale-hypertextual-web-search-engine/"
+    },
+    {
+     "t": "Search Engine Land – Google removes Toolbar PageRank (2016)",
+     "u": "https://searchengineland.com/google-has-confirmed-they-are-removing-toolbar-pagerank-244230"
+    },
+    {
+     "t": "Search Engine Land – Why we shouldn't forget about PageRank",
+     "u": "https://searchengineland.com/why-we-shouldnt-forget-about-pagerank-in-2019-315443"
+    },
+    {
+     "t": "Google Search Central – How Search Works",
+     "u": "https://developers.google.com/search/docs/fundamentals/how-search-works"
+    }
+   ],
+   "date": "2026-11-18T05:44:09Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Je inductieplaat verwarmt de pan, niet het glas",
+   "body": "Onder het glas zit een koperen spoel met wisselstroom van ongeveer 20 tot 100 kilohertz. Het snel wisselende magneetveld wekt in de bodem van een ijzerhoudende pan wervelstromen op. Die stromen botsen op de weerstand van het metaal en maken de pan zelf warm. Het glas wordt alleen warm doordat de hete pan erop staat.",
+   "take": "Twijfel je of een pan werkt op inductie? Houd er een magneet tegen: blijft hij goed plakken aan de bodem, dan meestal wel.",
+   "deep": "## Hoe het werkt\n\nEen inductiekookplaat werkt met hetzelfde principe als een transformator. In de kookplaat zit een spoel waar wisselstroom door loopt. Die stroom maakt een magneetveld dat tienduizenden keren per seconde van richting wisselt. Plaats je een pan met een ijzerhoudende bodem op de zone, dan wekt dat veld elektrische stromen op in het metaal zelf: wervelstromen. Het metaal biedt weerstand aan die stromen en wordt warm.\n\nBij ijzer en de meeste soorten staal komt er nog een tweede effect bij: magnetische hysterese. De magnetische structuur in het metaal wordt voortdurend omgedraaid, en ook dat levert warmte op. De warmte ontstaat dus in de pan, niet in een gloeiende plaat eronder.\n\nDe frequentie ligt boven wat ons oor hoort. Bij lagere frequenties zouden onderdelen hoorbaar gaan trillen.\n\n## Een voorbeeld\n\nWie in een Vlaamse keuken overstapt van gas of keramisch naar inductie, merkt het meteen: water kookt snel en de kookplaat koelt snel af zodra je de pan wegneemt. Een oude aluminium kookpot blijft echter koud, of de plaat geeft een foutmelding.\n\n## Wat onderzoek zegt\n\nHet Duitse federale agentschap BGE beschrijft dat kookplaten werken met frequenties van ongeveer 20 tot 100 kilohertz. Over het rendement lopen de cijfers uiteen. Een vaak geciteerde test van het Amerikaanse Department of Energy kwam op 84% voor inductie tegenover 74% voor een gladde elektrische kookplaat, maar een andere DOE-meting gaf gemiddeld 72,2% voor inductie, nauwelijks meer dan klassieke elektrische platen. Gas haalt volgens schattingen gemiddeld ongeveer 40%, omdat veel warmte langs de pan heen verdwijnt.\n\n## Nuance of misverstand\n\nAluminium en koper zijn wel geleidend, maar hun lage weerstand en het ontbreken van magnetisme zorgen dat ze op een gewone inductieplaat amper warm worden. Er bestaan wel pannen met een ingewerkte ijzerhoudende plaat in de bodem, en Panasonic bracht in 2009 een kookplaat op de markt die met frequenties van 60 kilohertz of meer ook aluminium kon verwarmen. Het glas is ook niet koud na het koken: het neemt warmte op van de hete pan. Pas dus op met aanraken.\n\n## Wat je ermee doet\n\nTest je pannen met een magneet voor je een inductieplaat koopt. Kies een pan waarvan de bodem minstens zo groot is als de kookzone, zodat het veld goed benut wordt. En gebruik het snelle reageren in je voordeel: zet de stand meteen lager zodra iets kookt, want de pan reageert vrijwel onmiddellijk.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"90\" y=\"50\" width=\"180\" height=\"40\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"stroke-width\" values=\"2;5;2\" dur=\"3s\" repeatCount=\"indefinite\"/></rect><text x=\"180\" y=\"75\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">pan (ijzer)</text><line x1=\"40\" y1=\"110\" x2=\"295\" y2=\"110\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"330\" y=\"114\" text-anchor=\"end\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">glas</text><path d=\"M110 160 A70 40 0 0 1 250 160 M140 160 A40 25 0 0 1 220 160\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" from=\"24\" to=\"0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><path d=\"M100 165 L260 165 M110 175 L250 175 M120 185 L240 185\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"205\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">spoel: 20-100 kHz</text><ellipse cx=\"180\" cy=\"82\" rx=\"50\" ry=\"5\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"1.5\"/><circle r=\"4\" fill=\"#ff6b9d\"><animateMotion path=\"M130 82 A50 5 0 1 0 230 82 A50 5 0 1 0 130 82\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><text x=\"60\" y=\"30\" text-anchor=\"start\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">wervelstroom = warmte</text><text x=\"20\" y=\"140\" text-anchor=\"start\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">magneetveld</text></svg>",
+   "quiz": {
+    "q": "Waar ontstaat de warmte bij koken op inductie?",
+    "o": [
+     "In de bodem van de pan",
+     "In het glas van de kookplaat",
+     "In een verwarmingsdraad onder het glas"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Wikipedia – Induction cooking",
+     "u": "https://en.wikipedia.org/wiki/Induction_cooking"
+    },
+    {
+     "t": "BGE (Duitsland) – Induction hob",
+     "u": "https://www.bge.de/archiv/www.asse.bund.de/EN/topics/emf/lff/application/induction-hob/induction-hob.html"
+    },
+    {
+     "t": "Explain that Stuff – Induction cooktops",
+     "u": "https://explainthatstuff.com/induction-cooktops.html"
+    },
+    {
+     "t": "Bosch – Pans for induction hobs",
+     "u": "https://www.bosch-home.com/ae/en/customer-service/get-support/what-is-induction-cookware"
+    }
+   ],
+   "date": "2026-11-18T05:44:09Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Je smartphonescherm voelt geen druk, maar lading",
+   "body": "Onder het glas van je smartphone ligt een raster van doorzichtige elektroden in rijen en kolommen. Een chip meet voortdurend hun capaciteit: hoeveel elektrische lading ze vasthouden. Je vinger geleidt en trekt een deel van het elektrische veld weg. Uit waar dat gebeurt, berekent de chip de X- en Y-coördinaat. Een gewone wollen handschoen isoleert, dus merkt het scherm niets.",
+   "take": "Koop voor de winter handschoenen met geleidende vingertoppen, of tik met een speciale stylus in plaats van je nagel.",
+   "deep": "## Hoe het werkt\n\nBijna elke smartphone en tablet gebruikt een projected capacitive touchscreen. Onder het beschermglas ligt een dun raster van transparante geleidende banen, meestal in rijen en kolommen. Waar die banen elkaar kruisen, vormen ze kleine condensatoren: ze houden een bepaalde elektrische lading vast. De controller-chip tast het hele raster voortdurend af en meet die capaciteit op elk kruispunt.\n\nJe lichaam is een redelijke geleider. Brengt je vingertop zich dicht bij het glas, dan leidt ze een deel van het elektrische veld weg. De capaciteit op de kruispunten onder je vinger verandert een beetje. De chip vergelijkt alle metingen en berekent waar het midden van je aanraking ligt. Omdat elk kruispunt apart gemeten wordt, kan het scherm ook meerdere vingers tegelijk volgen: zo werkt knijpen om in te zoomen.\n\n## Een voorbeeld\n\nOp een koude ochtend aan de bushalte in Gent probeer je met wollen handschoenen je ticket te tonen in de app. Er gebeurt niets. Trek je één handschoen uit, dan werkt het meteen. Tik je met je nagel, dan reageert het scherm ook slecht: nagel is geen goede geleider.\n\n## Wat onderzoek zegt\n\nHet idee is ouder dan je denkt. De Britse ingenieur E.A. Johnson van het Royal Radar Establishment in Malvern beschreef al in 1965 in het tijdschrift Electronics Letters een capacitief aanraakscherm, bedoeld voor luchtverkeersleiding. Zijn versie gebruikte draden over het scherm en was nog geen raster zoals vandaag. In 1973 publiceerden Frank Beck en Bent Stumpe een ander capacitief ontwerp. Technische uitleg van fabrikanten van aanraakschermen beschrijft hoe de controller verschuivingen in capaciteit omzet in X- en Y-posities.\n\n## Nuance of misverstand\n\nHarder drukken helpt dus niet: het scherm meet geen kracht maar lading. Toch werken sommige handschoenen wel. Dunne latex- of nitrilhandschoenen laten soms genoeg koppeling door, en speciale handschoenen hebben geleidende draden of een geleidende laag in de vingertoppen. Oudere resistieve schermen, die je nog ziet in sommige automaten, werken wel op druk, en daar maakt een handschoen niet uit.\n\n## Wat je ermee doet\n\nKies winterhandschoenen met een geleidende vingertop, of gebruik een stylus met een geleidende punt. Werkt je scherm grillig, kijk dan of het glas nat is of of een dikke screenprotector loskomt: water en luchtbellen verstoren de metingen van het elektrische veld.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><line x1=\"120\" y1=\"40\" x2=\"120\" y2=\"170\" stroke=\"#fff\" stroke-width=\"1.5\"/><line x1=\"160\" y1=\"40\" x2=\"160\" y2=\"170\" stroke=\"#fff\" stroke-width=\"1.5\"/><line x1=\"200\" y1=\"40\" x2=\"200\" y2=\"170\" stroke=\"#fff\" stroke-width=\"1.5\"/><line x1=\"240\" y1=\"40\" x2=\"240\" y2=\"170\" stroke=\"#fff\" stroke-width=\"1.5\"/><line x1=\"280\" y1=\"40\" x2=\"280\" y2=\"170\" stroke=\"#fff\" stroke-width=\"1.5\"/><line x1=\"100\" y1=\"60\" x2=\"300\" y2=\"60\" stroke=\"#06d6a0\" stroke-width=\"1.5\"/><line x1=\"100\" y1=\"90\" x2=\"300\" y2=\"90\" stroke=\"#06d6a0\" stroke-width=\"1.5\"/><line x1=\"100\" y1=\"120\" x2=\"300\" y2=\"120\" stroke=\"#06d6a0\" stroke-width=\"1.5\"/><line x1=\"100\" y1=\"150\" x2=\"300\" y2=\"150\" stroke=\"#06d6a0\" stroke-width=\"1.5\"/><circle cx=\"200\" cy=\"120\" r=\"6\" fill=\"#ffd166\"><animate attributeName=\"r\" values=\"4;14;4\" dur=\"3s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"0.3;1;0.3\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><ellipse cx=\"200\" cy=\"20\" rx=\"16\" ry=\"12\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"cy\" values=\"10;108;10\" dur=\"3s\" repeatCount=\"indefinite\"/></ellipse><text x=\"50\" y=\"64\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">rijen</text><text x=\"50\" y=\"140\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">kolommen</text><text x=\"200\" y=\"192\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">vinger verandert lading</text><text x=\"200\" y=\"210\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">chip berekent X en Y</text></svg>",
+   "quiz": {
+    "q": "Waarom werkt een smartphonescherm niet met een gewone wollen handschoen?",
+    "o": [
+     "De handschoen drukt te zacht",
+     "De wol isoleert en blokkeert de ladingsverandering",
+     "Het scherm herkent geen stof"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Mouser – Resistive and Capacitive Touch Technology",
+     "u": "https://www.mouser.com/applications/touch_touchscreen_technology/"
+    },
+    {
+     "t": "Nelson Miller – How does a projected capacitive touchscreen work?",
+     "u": "https://nelson-miller.com/how-does-a-projected-capacitive-touchscreen-work"
+    },
+    {
+     "t": "Nelson Miller – Why can't I wear gloves with my touchscreen?",
+     "u": "https://nelson-miller.com/why-cant-i-wear-gloves-with-my-touchscreen"
+    },
+    {
+     "t": "Embedded Computing – The RAF and the invention of the touchscreen",
+     "u": "https://embeddedcomputing.com/home-page/the-royal-air-force-and-the-invention-of-the-modern-touch-screen"
+    }
+   ],
+   "date": "2026-11-18T05:44:09Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Een JPEG gooit weg wat je oog toch mist",
+   "body": "JPEG, sinds september 1992 een officiële standaard, knipt een foto in blokjes van 8 bij 8 pixels. Elk blokje wordt omgerekend naar patronen van grof tot fijn. Fijne details en kleurinformatie, waarvoor ons oog minder gevoelig is, worden sterk afgerond of weggegooid. Zo wordt een foto vaak ongeveer tien keer kleiner, met weinig zichtbaar verlies.",
+   "take": "Bewaar screenshots en tekst als PNG en foto's als JPEG, en bewerk telkens vanaf het origineel, niet vanaf een opnieuw opgeslagen JPEG.",
+   "deep": "## Hoe het werkt\n\nJPEG maakt gebruik van de zwakke plekken van ons zicht. Eerst splitst het de foto in helderheid en kleur. Ons oog is gevoeliger voor verschillen in licht dan voor verschillen in kleur, dus de kleurkanalen worden vaak meteen met een lagere resolutie bewaard: chroma-subsampling.\n\nDaarna wordt het beeld opgedeeld in blokjes van 8 bij 8 pixels. Op elk blokje past de software een discrete cosinustransformatie (DCT) toe. Die beschrijft het blokje niet meer als 64 pixels, maar als een mengsel van golfpatronen: van één egale kleur tot steeds fijnere strepen en ruitjes. Dan volgt de eigenlijke besparing, de kwantisatie: elke waarde wordt gedeeld door een getal uit een tabel en afgerond. Voor fijne patronen zijn die delers groot, waardoor veel waarden nul worden. Tot slot comprimeert een verliesvrije codering, een variant van Huffman-codering, alle nullen en getallen compact.\n\n## Een voorbeeld\n\nJe trekt een foto van het Belfort van Brugge met je smartphone. De lucht is een vlak met nauwelijks fijne details: daar blijven per blokje maar een paar getallen over. De bakstenen en ramen hebben meer details en kosten meer ruimte. Stel je de kwaliteit lager in, dan zie je in de lucht soms vierkante blokjes verschijnen: de 8x8-indeling wordt zichtbaar.\n\n## Wat onderzoek zegt\n\nDe Joint Photographic Experts Group werkte de standaard uit; de tekst werd op 18 september 1992 goedgekeurd als ITU-T-aanbeveling T.81 en in 1994 ook als ISO/IEC 10918-1. Volgens veelgebruikte naslagwerken haalt JPEG typisch een compressie van ongeveer 10 op 1 met weinig zichtbaar kwaliteitsverlies. De verhouding hangt sterk af van de gekozen kwaliteit en van de foto zelf. Universitaire cursussen beelden het principe uit met dezelfde stappen: kleurconversie, DCT, kwantisatie en entropiecodering.\n\n## Nuance of misverstand\n\nJPEG is verliesgevend: wat bij de kwantisatie wegvalt, krijg je nooit terug. Een foto telkens opnieuw opslaan als JPEG na een bewerking kan de kwaliteit stap voor stap verder doen dalen. JPEG is bovendien slecht voor scherpe randen zoals tekst, logo's en schermafbeeldingen: rond letters ontstaan wazige vlekjes. Daarvoor is een verliesvrij formaat zoals PNG beter.\n\n## Wat je ermee doet\n\nBewaar je originele foto's en bewerk altijd vanaf het origineel. Kies voor een website een kwaliteit die er op normaal formaat goed uitziet, want elke kilobyte minder laadt sneller. En gebruik PNG voor schermafbeeldingen, schema's en alles met tekst.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"30\" y=\"40\" width=\"24\" height=\"24\" fill=\"rgba(255,255,255,0.10)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"56\" y=\"40\" width=\"24\" height=\"24\" fill=\"rgba(255,255,255,0.45)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"82\" y=\"40\" width=\"24\" height=\"24\" fill=\"rgba(255,255,255,0.38)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"108\" y=\"40\" width=\"24\" height=\"24\" fill=\"rgba(255,255,255,0.31)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"30\" y=\"66\" width=\"24\" height=\"24\" fill=\"rgba(255,255,255,0.31)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"56\" y=\"66\" width=\"24\" height=\"24\" fill=\"rgba(255,255,255,0.24)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"82\" y=\"66\" width=\"24\" height=\"24\" fill=\"rgba(255,255,255,0.17)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"108\" y=\"66\" width=\"24\" height=\"24\" fill=\"rgba(255,255,255,0.10)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"30\" y=\"92\" width=\"24\" height=\"24\" fill=\"rgba(255,255,255,0.10)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"56\" y=\"92\" width=\"24\" height=\"24\" fill=\"rgba(255,255,255,0.45)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"82\" y=\"92\" width=\"24\" height=\"24\" fill=\"rgba(255,255,255,0.38)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"108\" y=\"92\" width=\"24\" height=\"24\" fill=\"rgba(255,255,255,0.31)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"30\" y=\"118\" width=\"24\" height=\"24\" fill=\"rgba(255,255,255,0.31)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"56\" y=\"118\" width=\"24\" height=\"24\" fill=\"rgba(255,255,255,0.24)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"82\" y=\"118\" width=\"24\" height=\"24\" fill=\"rgba(255,255,255,0.17)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"108\" y=\"118\" width=\"24\" height=\"24\" fill=\"rgba(255,255,255,0.10)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"210\" y=\"40\" width=\"24\" height=\"24\" fill=\"#06d6a0\"/><rect x=\"236\" y=\"40\" width=\"24\" height=\"24\" fill=\"#06d6a0\"/><rect x=\"262\" y=\"40\" width=\"24\" height=\"24\" fill=\"#06d6a0\"/><rect x=\"288\" y=\"40\" width=\"24\" height=\"24\" fill=\"#ffd166\"><animate attributeName=\"opacity\" values=\"1;1;0.1;0.1;1\" keyTimes=\"0;0.30;0.45;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"210\" y=\"66\" width=\"24\" height=\"24\" fill=\"#06d6a0\"/><rect x=\"236\" y=\"66\" width=\"24\" height=\"24\" fill=\"#06d6a0\"/><rect x=\"262\" y=\"66\" width=\"24\" height=\"24\" fill=\"#ffd166\"><animate attributeName=\"opacity\" values=\"1;1;0.1;0.1;1\" keyTimes=\"0;0.30;0.45;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"288\" y=\"66\" width=\"24\" height=\"24\" fill=\"#ffd166\"><animate attributeName=\"opacity\" values=\"1;1;0.1;0.1;1\" keyTimes=\"0;0.40;0.55;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"210\" y=\"92\" width=\"24\" height=\"24\" fill=\"#06d6a0\"/><rect x=\"236\" y=\"92\" width=\"24\" height=\"24\" fill=\"#ffd166\"><animate attributeName=\"opacity\" values=\"1;1;0.1;0.1;1\" keyTimes=\"0;0.30;0.45;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"262\" y=\"92\" width=\"24\" height=\"24\" fill=\"#ffd166\"><animate attributeName=\"opacity\" values=\"1;1;0.1;0.1;1\" keyTimes=\"0;0.40;0.55;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"288\" y=\"92\" width=\"24\" height=\"24\" fill=\"#ffd166\"><animate attributeName=\"opacity\" values=\"1;1;0.1;0.1;1\" keyTimes=\"0;0.50;0.65;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"210\" y=\"118\" width=\"24\" height=\"24\" fill=\"#ffd166\"><animate attributeName=\"opacity\" values=\"1;1;0.1;0.1;1\" keyTimes=\"0;0.30;0.45;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"236\" y=\"118\" width=\"24\" height=\"24\" fill=\"#ffd166\"><animate attributeName=\"opacity\" values=\"1;1;0.1;0.1;1\" keyTimes=\"0;0.40;0.55;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"262\" y=\"118\" width=\"24\" height=\"24\" fill=\"#ffd166\"><animate attributeName=\"opacity\" values=\"1;1;0.1;0.1;1\" keyTimes=\"0;0.50;0.65;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"288\" y=\"118\" width=\"24\" height=\"24\" fill=\"#ffd166\"><animate attributeName=\"opacity\" values=\"1;1;0.1;0.1;1\" keyTimes=\"0;0.60;0.75;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><line x1=\"140\" y1=\"92\" x2=\"196\" y2=\"92\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"5 5\"><animate attributeName=\"stroke-dashoffset\" from=\"20\" to=\"0\" dur=\"2s\" repeatCount=\"indefinite\"/></line><path d=\"M196 86 L206 92 L196 98 Z\" fill=\"#fff\"/><text x=\"170\" y=\"80\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">DCT</text><text x=\"82\" y=\"165\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">pixels (8x8)</text><text x=\"262\" y=\"165\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">grof → fijn</text><text x=\"222\" y=\"30\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">grof</text><text x=\"305\" y=\"30\" text-anchor=\"end\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">fijn</text><text x=\"180\" y=\"200\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">Fijne details worden afgerond of weggegooid</text></svg>",
+   "quiz": {
+    "q": "Welke informatie gooit JPEG vooral weg?",
+    "o": [
+     "De randen van de foto",
+     "De helderheid van grote vlakken",
+     "Fijne details en kleurverschillen"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "ITU-T Recommendation T.81 (JPEG-standaard, via W3C)",
+     "u": "https://www.w3.org/graphics/jpeg/itu-t81.pdf"
+    },
+    {
+     "t": "Queen's University – JPEG encoding (cursusnota's)",
+     "u": "https://watkins.cs.queensu.ca/~jstewart/457/notes/30/30-jpeg-encoding.html"
+    },
+    {
+     "t": "NYU – Lecture notes JPEG compression",
+     "u": "https://cs.nyu.edu/home/people/in_memoriam/roweis/csc310-2006/notes/lec23x.pdf"
+    }
+   ],
+   "date": "2026-11-18T05:44:09Z"
   }
  ],
  "dives": [
