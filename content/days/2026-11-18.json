@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T05:44:09Z",
+ "updated": "2026-11-18T05:45:23Z",
  "cards": [
   {
    "cat": "wetenschap",
@@ -1216,6 +1216,314 @@
     }
    ],
    "date": "2026-11-18T05:44:09Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Voyager 1 staat vandaag één lichtdag van huis",
+   "body": "Op 18 november 2026 wordt NASA's Voyager 1, gelanceerd in 1977, het eerste ruimtetuig op één lichtdag van de aarde: ongeveer 25,9 miljard kilometer, of 173 keer de afstand aarde-zon. Een commando van de aarde doet er nu een volle dag over om de sonde te bereiken, en het antwoord nog een dag om terug te komen.",
+   "take": "Reken bij ruimtenieuws afstand om naar lichttijd: zo voel je meteen hoe ver iets is en hoe traag communicatie wordt.",
+   "deep": "## Hoe het werkt\n\nEen lichtdag is geen tijdsduur maar een afstand: de weg die licht in 24 uur aflegt. Licht reist ongeveer 300.000 kilometer per seconde. Vermenigvuldig dat met de 86.400 seconden van een dag en je komt uit op zo'n 25,9 miljard kilometer. Radiosignalen reizen even snel als licht, dus een bericht naar Voyager 1 is nu een volle dag onderweg.\n\nVoyager 1 werd in 1977 gelanceerd, scheerde langs Jupiter en Saturnus en vliegt sindsdien met ruwweg 61.000 kilometer per uur van ons weg. Na bijna vijftig jaar heeft die snelheid de sonde voorbij de grens van één lichtdag gebracht.\n\n## Een voorbeeld\n\nStel dat een ingenieur bij NASA op woensdagochtend een opdracht verstuurt om een instrument uit te zetten. Pas donderdagochtend komt die bij de sonde aan, en pas vrijdagochtend weet men op aarde of het gelukt is. Ter vergelijking: een radiosignaal naar de maan doet er iets meer dan een seconde over. Elk foutje in een commando kost dus minstens twee dagen om vast te stellen.\n\n## Wat onderzoek zegt\n\nVolgens de berekening van het NASA-team, gemeld door onder meer EarthSky en de Australische ABC op 17 en 18 november 2026, bereikt Voyager 1 de grens op 18 november rond 10.16 uur UTC. De afstand is dan ongeveer 25,9 miljard kilometer of 173,14 astronomische eenheden. In een interview met Sky & Telescope blikte projectwetenschapper Linda Spilker op de mijlpaal vooruit. Voyager 2 bereikt dezelfde afstand volgens NASA pas in november 2035. ScienceDaily (3 november 2026) wees erop dat de ingenieurs ondertussen kampen met een krimpend stroombudget en technische problemen.\n\n## Nuance of misverstand\n\nOp het moment zelf verandert er fysiek niets: de lichtdag is een symbolische, menselijke grens. Voyager 1 verliet in 2012 al de heliosfeer, de bel van zonnewind rond ons zonnestelsel, maar zit nog binnen de zwaartekrachtinvloed van de zon. De verre Oortwolk ligt nog veel verder. Een JPL-verklaring uit 2022 stelde dat de sondes misschien tot in de jaren 2030 werken, en dat het signaal rond 2036 te zwak wordt om nog op te vangen.\n\n## Wat je ermee doet\n\nGebruik lichttijd als meetlat. Een lichtseconde is ongeveer de afstand tot de maan, een lichtdag is waar ons verste ruimtetuig na een halve eeuw is aangekomen, en de dichtstbijzijnde ster staat ruim vier lichtjaar ver. Zo zie je meteen hoe klein onze reikwijdte in de ruimte nog is, en waarom verre sondes zelfstandig moeten kunnen werken.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><circle cx=\"40\" cy=\"100\" r=\"16\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"40\" y=\"140\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Aarde</text><rect x=\"300\" y=\"88\" width=\"28\" height=\"24\" rx=\"3\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"314\" y=\"140\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Voyager 1</text><line x1=\"56\" y1=\"100\" x2=\"300\" y2=\"100\" stroke=\"#fff\" stroke-width=\"1\" stroke-dasharray=\"3 5\"/><circle cx=\"56\" cy=\"94\" r=\"5\" fill=\"#ffd166\"><animateMotion path=\"M0 0 L244 0\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"300\" cy=\"106\" r=\"5\" fill=\"#06d6a0\"><animateMotion path=\"M0 0 L-244 0\" dur=\"6s\" begin=\"3s\" repeatCount=\"indefinite\"/></circle><text x=\"178\" y=\"76\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">commando: 1 dag onderweg</text><text x=\"178\" y=\"130\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">antwoord: nog 1 dag terug</text><text x=\"180\" y=\"180\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">1 lichtdag = 25,9 miljard km</text><text x=\"180\" y=\"200\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">gelanceerd in 1977</text></svg>",
+   "quiz": {
+    "q": "Hoe lang doet een commando van de aarde er nu over om Voyager 1 te bereiken?",
+    "o": [
+     "Ongeveer één dag",
+     "Ongeveer acht minuten",
+     "Ongeveer één week"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Sky & Telescope – Linda Spilker over de lichtdag",
+     "u": "https://skyandtelescope.org/astronomy-news/voyager-1s-linda-spilker-on-the-light-day-milestone/"
+    },
+    {
+     "t": "ABC News – Voyager 1 bereikt lichtdag (18 nov 2026)",
+     "u": "https://www.abc.net.au/news/science/2026-11-18/nasa-voyager-one-light-day-from-earth-milestone/107154162"
+    },
+    {
+     "t": "EarthSky – Voyager 1 one light-day (nov 2026)",
+     "u": "https://earthsky.org/space/voyager-1-1-light-day-from-earth-november-17-18-2026/"
+    }
+   ],
+   "date": "2026-11-18T05:45:23Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Eén paddenstoel maakt zowel tripstof als levergif",
+   "body": "Onderzoekers van de University of Florida tonen in Current Biology (11 november 2026) aan dat de paddenstoel Galerina indica zowel psilocybine, de stof in 'magic mushrooms', als dodelijke amatoxinen aanmaakt. Die combinatie was nooit eerder in één soort gevonden. De genen kwamen volgens het team via minstens twee keer horizontale genoverdracht in het geslacht terecht.",
+   "take": "Eet nooit zelfgeplukte paddenstoelen op basis van een foto of app; laat twijfelgevallen altijd door een ervaren kenner controleren.",
+   "deep": "## Hoe het werkt\n\nPaddenstoelen maken stoffen aan die dieren afschrikken. Psilocybine verstoort bij zoogdieren de waarneming via de serotoninereceptoren in de hersenen. Amatoxinen zijn veel gevaarlijker: ze blokkeren een enzym dat cellen nodig hebben om eiwitten te maken, waardoor vooral de lever kapotgaat. Tot nu toe kwamen die twee stofgroepen voor in verschillende, ver uit elkaar liggende takken van de schimmelstamboom, nooit samen.\n\nDe verklaring die het team voorstelt, is horizontale genoverdracht: genen die niet van ouder op nakomeling gaan, maar zijdelings tussen soorten overspringen. Binnen het geslacht Galerina zou dat minstens twee keer gebeurd zijn, één keer per stofgroep.\n\n## Een voorbeeld\n\nOok in Belgische bossen groeit een gevaarlijk familielid: het bundelmosklokje (Galerina marginata), dat amatoxinen bevat en op hout groeit. Het lijkt op het eetbare stobbezwammetje, waardoor verwisseling tot zware vergiftigingen kan leiden. De groene knolamaniet, de beruchtste amatoxinepaddenstoel, komt hier ook algemeen voor.\n\n## Wat onderzoek zegt\n\nDe studie 'The dark magic mushroom co-produces amatoxins and psilocybin' verscheen op 11 november 2026 in Current Biology. Eerste auteur is Andrew Kunik, die het werk deed aan de University of Florida in het lab van plantpatholoog Matthew Smith; mycoloog Bryn Dentinger van de University of Utah werkte mee. De exemplaren groeiden op bemoste palmstammen in Floridaanse moerassen. Bij de analyse vonden de onderzoekers bovendien een amatoxine die nog nooit in paddenstoelen beschreven was. Dentinger noemde twee aparte genoverdrachten in één geslacht volgens de berichtgeving 'ongehoord'.\n\n## Nuance of misverstand\n\nDe bijnaam 'dark magic mushroom' klinkt spannend, maar het gaat om een giftige soort, niet om een interessante variant van magic mushrooms. Kunik waarschuwde letterlijk: eet deze paddenstoel niet. Waarom de soort beide stoffen maakt, is nog niet bewezen. Een tweeledige verdediging tegen verschillende vraatdieren is een hypothese: een dier dat ongevoelig is voor de ene stof, kan nog last hebben van de andere. En waarom paddenstoelen überhaupt psilocybine maken, begrijpen onderzoekers nog altijd niet volledig.\n\n## Wat je ermee doet\n\nPaddenstoelen plukken in het Zoniënwoud of de Kempen is in veel bossen niet eens toegestaan, en eten op gevoel is levensgevaarlijk: amatoxinevergiftiging geeft pas uren later klachten, wanneer de lever al schade oploopt. Vermoed je toch een vergiftiging, bel dan meteen het Antigifcentrum op 070 245 245.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><path d=\"M110 110 Q180 30 250 110 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"168\" y=\"110\" width=\"24\" height=\"60\" rx=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"155\" cy=\"88\" r=\"6\" fill=\"#ffd166\"><animate attributeName=\"r\" values=\"4;9;4\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><circle cx=\"205\" cy=\"88\" r=\"6\" fill=\"#ff6b9d\"><animate attributeName=\"r\" values=\"4;9;4\" dur=\"3s\" begin=\"1.5s\" repeatCount=\"indefinite\"/></circle><text x=\"70\" y=\"60\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">psilocybine</text><text x=\"295\" y=\"60\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\">amatoxine</text><line x1=\"100\" y1=\"66\" x2=\"148\" y2=\"84\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"262\" y1=\"66\" x2=\"212\" y2=\"84\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"180\" y=\"195\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">twee afweerstoffen in één soort</text><text x=\"180\" y=\"212\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">Galerina indica (Florida)</text></svg>",
+   "quiz": {
+    "q": "Wat maakt Galerina indica volgens de studie uniek?",
+    "o": [
+     "Ze is de grootste paddenstoel van Florida",
+     "Ze maakt psilocybine én amatoxinen",
+     "Ze groeit alleen op menselijk afval"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Current Biology – The 'dark magic mushroom' (nov 2026)",
+     "u": "https://www.cell.com/current-biology/fulltext/S0960-9822(26)01428-4"
+    },
+    {
+     "t": "Live Science – Florida's 'dark magic' mushrooms",
+     "u": "https://www.livescience.com/chemistry/floridas-dark-magic-mushrooms-have-a-deadly-combination-of-chemicals-never-seen-before"
+    },
+    {
+     "t": "University of Utah – @theU",
+     "u": "https://attheu.utah.edu/science-technology/dark-magic-mushroom-first-to-contain-psychedelic-and-toxic-compounds/"
+    }
+   ],
+   "date": "2026-11-18T05:45:23Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "BMI alleen zegt weinig over je sterfterisico",
+   "body": "Een studie in Nature (11 november 2026) bij 844.108 volwassenen uit China, het VK, de VS en Spanje testte een nieuwe definitie van obesitas: BMI plus tailleomvang, en dan nagaan of organen al schade hebben. 'Klinische' obesitas ging samen met 69% meer sterfte, 'preklinische' met 19%. Met BMI alleen verdween het verband met sterfte.",
+   "take": "Meet je tailleomvang en bespreek die met je huisarts, ook als je BMI normaal is.",
+   "deep": "## Hoe het werkt\n\nDe body mass index deelt je gewicht door het kwadraat van je lengte. Dat is snel, maar het onderscheidt spieren niet van vet en zegt niets over waar het vet zit. Buikvet rond de organen hangt sterker samen met hart- en stofwisselingsziekten dan vet op de heupen.\n\nIn januari 2025 stelde een commissie van The Lancet Diabetes & Endocrinology daarom een tweestappenmodel voor. Eerst stel je overtollig lichaamsvet vast met BMI plus een lichaamsmaat zoals tailleomvang. Daarna kijk je of dat vet al organen of dagelijkse functies aantast. Is dat zo, dan spreek je van klinische obesitas, een ziekte. Zo niet, dan is het preklinische obesitas: een verhoogd risico, maar nog geen ziekte.\n\n## Een voorbeeld\n\nNeem twee collega's in Gent met hetzelfde BMI van 31. De ene is een amateurwielrenner met veel spiermassa en een normale bloeddruk. De andere heeft een grote buikomvang, slaapapneu en beginnende diabetes. Op basis van BMI krijgen ze hetzelfde label; in het nieuwe model heeft alleen de tweede klinische obesitas en heeft die als eerste behandeling nodig.\n\n## Wat onderzoek zegt\n\nDe studie verscheen op 11 november 2026 in Nature, met An Pan (Huazhong University of Science and Technology) als eerste auteur en Francesco Rubino (King's College London), voorzitter van de Lancet-commissie, als senior auteur. Ze volgde 844.108 volwassenen uit vier cohorten in China, het Verenigd Koninkrijk, de Verenigde Staten en Spanje. BMI bleek obesitas in alle vier de groepen zowel te overschatten als te onderschatten. Klinische obesitas ging samen met een 69% hoger sterfterisico, preklinische obesitas met 19%. Van de mensen met preklinische obesitas ontwikkelde 77 tot 91% binnen tien jaar geen klinische obesitas.\n\n## Nuance of misverstand\n\nHet gaat om observationeel onderzoek: het toont samenhang, geen bewijs dat het vet zelf de sterfte veroorzaakt. De nieuwe definitie maakt ook niet iedereen 'gezonder' of 'zieker': volgens de berichtgeving stijgt het geschatte aantal mensen met obesitas zelfs licht wanneer je lichaamsmaten toevoegt. Het doel is vooral juister kiezen wie behandeling nodig heeft en wie vooral opvolging.\n\n## Wat je ermee doet\n\nMeet je taille ter hoogte van je navel, met een lintmeter en na een normale uitademing. Een veelgebruikte vuistregel is dat je tailleomvang onder de helft van je lengte hoort te blijven. Zit je erboven, bespreek dat dan met je huisarts, samen met bloeddruk, bloedsuiker en hoe je je in het dagelijkse leven voelt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"30\" y=\"40\" width=\"90\" height=\"40\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"75\" y=\"65\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">BMI</text><rect x=\"135\" y=\"40\" width=\"90\" height=\"40\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"65\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">+ taille</text><line x1=\"120\" y1=\"60\" x2=\"133\" y2=\"60\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"225\" y1=\"60\" x2=\"258\" y2=\"60\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"5 5\"><animate attributeName=\"stroke-dashoffset\" from=\"20\" to=\"0\" dur=\"2s\" repeatCount=\"indefinite\"/></line><path d=\"M258 54 L268 60 L258 66 Z\" fill=\"#ffd166\"/><text x=\"310\" y=\"56\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">organen</text><text x=\"310\" y=\"72\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">nagaan</text><rect x=\"60\" y=\"120\" width=\"40\" height=\"0\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"0;38;38\" dur=\"4s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"160;122;122\" dur=\"4s\" repeatCount=\"indefinite\"/></rect><rect x=\"230\" y=\"120\" width=\"40\" height=\"0\" fill=\"#ff6b9d\"><animate attributeName=\"height\" values=\"0;69;69\" dur=\"4s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"160;91;91\" dur=\"4s\" repeatCount=\"indefinite\"/></rect><line x1=\"40\" y1=\"160\" x2=\"320\" y2=\"160\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"80\" y=\"178\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">preklinisch</text><text x=\"80\" y=\"194\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">+19% sterfte</text><text x=\"250\" y=\"178\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">klinisch</text><text x=\"250\" y=\"194\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">+69% sterfte</text></svg>",
+   "quiz": {
+    "q": "Wat voegt het nieuwe obesitasmodel als eerste stap toe aan het BMI?",
+    "o": [
+     "Een DNA-test",
+     "Je bloedgroep",
+     "Een lichaamsmaat zoals tailleomvang"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "King's College London – New clinical definition outperforms BMI",
+     "u": "https://www.kcl.ac.uk/news/new-clinical-definition-outperforms-bmi-in-diagnosing-obesity"
+    },
+    {
+     "t": "Time – Why BMI is not the best measure (13 nov 2026)",
+     "u": "https://time.com/article/2026/11/13/why-bmi-is-not-the-most-accurate-measure-of-health/"
+    },
+    {
+     "t": "Euronews – BMI alone misses obesity diagnoses (12 nov 2026)",
+     "u": "https://www.euronews.com/2026/11/12/bmi-alone-misses-obesity-diagnoses-international-study-finds"
+    }
+   ],
+   "date": "2026-11-18T05:45:23Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Bloeddrukpil overslaan voor een operatie kan helpen",
+   "body": "In een Chinese studie in The BMJ (11 november 2026) kregen 2.012 patiënten van 60 tot 80 jaar die een ACE-remmer of sartaan namen, op de ochtend van hun operatie hun pil of niet. Zonder ochtendpil had 31,2% een behandelingswaardige bloeddrukdaling tijdens de ingreep, met pil 45,5%. Complicaties en sterfte na 30 dagen verschilden niet duidelijk.",
+   "take": "Neem je een ACE-remmer of sartaan en staat er een operatie gepland? Vraag vooraf je arts of je die ochtend moet overslaan.",
+   "deep": "## Hoe het werkt\n\nACE-remmers (zoals lisinopril) en sartanen (zoals losartan) verlagen de bloeddruk door het renine-angiotensinesysteem af te remmen, een hormonaal systeem dat de bloedvaten aanspant. Bij een narcose valt een deel van de natuurlijke spanning van de bloedvaten ook weg. Komen beide effecten samen, dan kan de bloeddruk tijdens de operatie te laag zakken. Dat moet de anesthesist dan bijsturen met vocht of bloeddrukverhogende middelen, omdat organen als hersenen en nieren een goede doorbloeding nodig hebben.\n\n## Een voorbeeld\n\nEen 72-jarige man uit Leuven neemt al jaren elke ochtend een sartaan en krijgt een nieuwe heup. Op het preoperatieve consult wordt besproken welke medicatie hij op de dag zelf neemt. Volgens deze studie kan het weglaten van die ene ochtendpil de kans verkleinen dat zijn bloeddruk tijdens de ingreep te diep zakt. Maar dat beslissen hij en zijn arts samen, niet hij alleen.\n\n## Wat onderzoek zegt\n\nDe studie verscheen rond 11 november 2026 in The BMJ: een gerandomiseerde, dubbelblinde trial in meerdere grote Chinese ziekenhuizen, met deelnemers gerekruteerd tussen november 2020 en december 2023. De 2.012 patiënten waren gemiddeld 69 jaar en namen hun medicatie al gemiddeld tien jaar. Een bloeddrukdaling tijdens de operatie die behandeling vroeg, kwam voor bij 314 van de 1.008 mensen die hun ochtenddosis oversloegen (31,2%) tegenover 457 van de 1.004 die ze wel namen (45,5%). Bloeddrukdalingen na de operatie, complicaties en sterfte binnen 30 dagen verschilden niet significant. De auteurs spreken van bewijs met hoge zekerheid en vinden dat stoppen overwogen moet worden waar een te lage bloeddruk een zorg is.\n\n## Nuance of misverstand\n\nDit geldt voor ACE-remmers en sartanen bij 60- tot 80-jarigen die een niet-hartchirurgische ingreep ondergaan, niet voor alle bloeddrukmedicatie. Bètablokkers bijvoorbeeld worden vaak net wel doorgenomen. De opvolging stopte na 30 dagen, en wie de pil oversloeg, kan in de dagen erna een hogere bloeddruk hebben. Het is dus een afweging, geen algemene regel om zelf medicatie te schrappen.\n\n## Wat je ermee doet\n\nNeem voor een geplande operatie een volledige lijst van je medicatie mee naar het consult bij de anesthesist of chirurg. Vraag uitdrukkelijk welke pillen je op de dag van de ingreep wel en niet neemt, en wanneer je ze hervat. Stop nooit op eigen houtje.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><polyline points=\"20,70 80,70 110,70 140,70\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"/><path d=\"M20 150 L80 150 Q110 150 140 185 L200 185 Q230 150 340 150\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" from=\"24\" to=\"0\" dur=\"2s\" repeatCount=\"indefinite\"/></path><path d=\"M140 70 Q170 70 200 92 Q230 70 340 70\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" from=\"24\" to=\"0\" dur=\"2s\" repeatCount=\"indefinite\"/></path><rect x=\"140\" y=\"30\" width=\"60\" height=\"190\" fill=\"rgba(255,255,255,0.14)\"/><text x=\"170\" y=\"24\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">operatie</text><text x=\"20\" y=\"58\" text-anchor=\"start\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">pil overgeslagen: 31%</text><text x=\"20\" y=\"138\" text-anchor=\"start\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">pil genomen: 46%</text><text x=\"270\" y=\"205\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">te lage bloeddruk</text></svg>",
+   "quiz": {
+    "q": "Welk effect had het overslaan van de ochtendpil in de BMJ-studie?",
+    "o": [
+     "Minder vaak een te lage bloeddruk tijdens de operatie",
+     "Minder sterfte na 30 dagen",
+     "Kortere ziekenhuisopname voor iedereen"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "BMJ Group – Pausing blood pressure meds on day of surgery",
+     "u": "https://bmjgroup.com/pausing-blood-pressure-meds-on-day-of-surgery-benefits-older-adults/"
+    },
+    {
+     "t": "EurekAlert – persbericht BMJ",
+     "u": "https://www.eurekalert.org/news-releases/1151274"
+    },
+    {
+     "t": "News-Medical – Skipping antihypertensive medication (11 nov 2026)",
+     "u": "https://www.news-medical.net/news/20261111/Skipping-antihypertensive-medication-reduces-surgical-hypotension-in-older-adults.aspx"
+    }
+   ],
+   "date": "2026-11-18T05:45:23Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Google betrapt AI die zelf patches omzet in aanvallen",
+   "body": "In zijn AI Threat Tracker van 16 november 2026 beschrijft Google Threat Intelligence Group een framework, 'exploit_agent', gevonden op een onbeveiligde testserver. Het vergelijkt webcode voor en na een beveiligingsupdate, schrijft daarmee een aanval en probeert die uit, met meerdere taalmodellen en zonder dat een mens elke stap stuurt. Google noemt dat een primeur.",
+   "take": "Zet automatische updates aan op je toestellen, website en plug-ins, en installeer beveiligingsupdates binnen dagen in plaats van weken.",
+   "deep": "## Hoe het werkt\n\nWanneer een softwaremaker een beveiligingslek dicht, publiceert hij een patch. Wie de oude en de nieuwe code naast elkaar legt, ziet precies welke regels veranderd zijn, en dus waar het lek zat. Aanvallers gebruiken die 'patch diffing' al jaren om aanvallen te bouwen tegen systemen die de update nog niet installeerden. Dat vroeg tot nu toe veel handwerk van ervaren specialisten.\n\nHet framework dat Google vond, automatiseert die keten: het vergelijkt de code, laat taalmodellen een exploit opstellen en test die zelf. Een mens moet niet elke tussenstap goedkeuren.\n\n## Een voorbeeld\n\nStel: een Vlaamse vzw draait haar website op een populair contentbeheersysteem met een handvol plug-ins. Een plug-in krijgt op maandag een beveiligingsupdate. Vroeger had de vzw vaak nog enige tijd voor iemand een werkende aanval bouwde. Met zo'n geautomatiseerde pijplijn kan dat venster veel korter worden, zeker voor websites die niemand actief onderhoudt.\n\n## Wat onderzoek zegt\n\nGoogle Threat Intelligence Group (GTIG) publiceerde zijn bevindingen op 16 november 2026 in de AI Threat Tracker, waarover onder meer SiliconANGLE dezelfde dag berichtte. GTIG vond exploit_agent op een blootgestelde stagingserver. Het werkt met verschillende grote taalmodellen, zowel commerciële als lokaal gedraaide. Volgens telemetrie van slachtoffers lag de focus op Franse websites in media, entertainment en onderwijs, en een configuratiebestand bevatte Russischtalig commentaar. In zijn vorige kwartaalrapport schreef Google nog dat het geen volledig autonome aanvalspijplijnen in het wild had gezien.\n\n## Nuance of misverstand\n\nHet rapport geeft geen slaagpercentage: niet elke gegenereerde exploit werkte noodzakelijk. Google meet ook niet hoe snel het framework van patch naar aanval gaat. 'Autonoom' betekent hier dat geen mens elke stap stuurt, niet dat de AI zelf doelwitten bedenkt of op eigen houtje een campagne start. Iemand zette het framework op en koos de modellen en sleutels.\n\n## Wat je ermee doet\n\nDe tijd tussen een patch en een aanval wordt korter, dus je updatebeleid moet sneller. Zet automatische updates aan op je laptop, smartphone en router. Beheer je een website, houd dan het aantal plug-ins klein, verwijder wat je niet gebruikt en installeer beveiligingsupdates zo snel mogelijk. Werk je in een organisatie, vraag dan na binnen hoeveel dagen kritieke patches worden uitgerold.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"20\" y=\"40\" width=\"80\" height=\"44\" rx=\"8\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"60\" y=\"60\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">code</text><text x=\"60\" y=\"76\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">vóór patch</text><rect x=\"20\" y=\"120\" width=\"80\" height=\"44\" rx=\"8\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"60\" y=\"140\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">code</text><text x=\"60\" y=\"156\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">na patch</text><rect x=\"145\" y=\"78\" width=\"80\" height=\"50\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"185\" y=\"100\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">AI-agent</text><text x=\"185\" y=\"116\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">vergelijkt</text><line x1=\"100\" y1=\"62\" x2=\"145\" y2=\"95\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"100\" y1=\"142\" x2=\"145\" y2=\"112\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"225\" y1=\"103\" x2=\"268\" y2=\"103\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><path d=\"M268 97 L278 103 L268 109 Z\" fill=\"#ff6b9d\"/><text x=\"310\" y=\"100\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\">exploit</text><text x=\"310\" y=\"116\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">+ test</text><circle cx=\"185\" cy=\"103\" r=\"38\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"10 10\"><animateTransform attributeName=\"transform\" type=\"rotate\" from=\"0 185 103\" to=\"360 185 103\" dur=\"8s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"200\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">geen mens per stap nodig</text></svg>",
+   "quiz": {
+    "q": "Wat doet het 'exploit_agent'-framework dat Google beschreef?",
+    "o": [
+     "Het installeert automatisch patches bij slachtoffers",
+     "Het bouwt aanvallen uit het verschil tussen oude en gepatchte code",
+     "Het kraakt wachtwoorden met brute kracht"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "SiliconANGLE – AI framework turned patches into exploits (16 nov 2026)",
+     "u": "https://siliconangle.com/2026/11/16/google-says-an-ai-framework-turned-security-patches-into-exploits-with-no-human-in-the-loop/"
+    },
+    {
+     "t": "Hackread – Google spots AI agent turning patches into exploits",
+     "u": "https://hackread.com/google-ai-agent-turning-security-patches-exploits/"
+    }
+   ],
+   "date": "2026-11-18T05:45:23Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Een bug uit juli legde in november Outlook plat",
+   "body": "Op 12 en 13 november 2026 lagen Outlook, Teams en Copilot wereldwijd ruim een dag deels plat. Volgens Microsofts voorlopige rapport zat de oorzaak in een Windows-update van juli op netwerkgateways: een sluimerende fout die testen miste omdat testmachines minder processorkernen hadden. Extra verkeer en al 14% uitgevallen capaciteit maakten meer dan 80% van de gateways onbereikbaar.",
+   "take": "Bewaar je belangrijkste documenten, agenda en contactgegevens ook offline, zodat een cloudstoring je werkdag niet volledig stillegt.",
+   "deep": "## Hoe het werkt\n\nGrote clouddiensten sturen je verkeer via 'gateways': servers die verzoeken ontvangen en doorgeven aan de juiste machines. Valt een gateway uit, dan verdeelt automatische software het verkeer over de andere. Normaal is dat een veiligheidsnet. Maar als de resterende servers het extra werk niet aankunnen, vallen ook zij om, en schuift het verkeer weer door. Zo ontstaat een cascade: een kleine storing groeit vanzelf uit tot een grote.\n\nEen sluimerende bug maakt het extra lastig. Omdat de fout al maanden in productie zat, kon Microsoft niet zomaar terugkeren naar 'de vorige versie': die bevatte de fout ook al.\n\n## Een voorbeeld\n\nVoor een kantoor in Antwerpen dat volledig op Microsoft 365 draait, betekende zo'n storing dat mails niet binnenkwamen en vergaderingen in Teams niet doorgingen. Wie zijn presentatie alleen in de cloud bewaarde, kon er niet bij. Een collega met een lokale kopie en een telefoonnummer van de klant kon gewoon verder.\n\n## Wat onderzoek zegt\n\nMicrosoft deelde een voorlopig post-incidentrapport in het Microsoft 365-beheercentrum; BleepingComputer en iTnews berichtten erover op 16 november 2026. Het rapport noemt drie oorzaken samen. Ten eerste een softwarefout in een Windows-update die in juli 2026 op de netwerkgateways werd uitgerold en ruim drie maanden onopgemerkt bleef. Die ontsnapte aan de tests omdat de testlabs vooral minder krachtige hardware met minder processorkernen gebruikten, terwijl het probleem op nieuwere machines met meer kernen erger werd. Ten tweede een failover van Microsoft Teams die extra verkeer naar de Exchange Online-gateway stuurde. Ten derde was bijna 14% van de gatewaycapaciteit al offline door een ander probleem. Meer dan 80% van de gateways werd onbereikbaar. Microsoft sloot een cyberaanval uit.\n\n## Nuance of misverstand\n\nHet rapport is voorlopig; de analyse loopt nog. Bronnen verschillen ook over de exacte duur, van ruim een dag tot zowat 36 uur. En 'de cloud is onbetrouwbaar' is te kort door de bocht: zulke storingen zijn zeldzaam, maar wanneer ze gebeuren, raken ze door de schaal miljoenen mensen tegelijk.\n\n## Wat je ermee doet\n\nZet op je laptop de offline-synchronisatie aan voor de mappen die je dagelijks nodig hebt. Noteer een paar cruciale telefoonnummers buiten je mailprogramma. Werk je in een team, spreek dan af welk alternatief kanaal jullie gebruiken als mail en chat wegvallen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"30\" y=\"70\" width=\"46\" height=\"46\" rx=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"92\" y=\"70\" width=\"46\" height=\"46\" rx=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"154\" y=\"70\" width=\"46\" height=\"46\" rx=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"216\" y=\"70\" width=\"46\" height=\"46\" rx=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"278\" y=\"70\" width=\"46\" height=\"46\" rx=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"30\" y=\"70\" width=\"46\" height=\"46\" rx=\"6\" fill=\"#ff6b9d\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;0.8;0.8\" keyTimes=\"0;0.15;0.20;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"92\" y=\"70\" width=\"46\" height=\"46\" rx=\"6\" fill=\"#ff6b9d\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;0.8;0.8\" keyTimes=\"0;0.30;0.35;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"154\" y=\"70\" width=\"46\" height=\"46\" rx=\"6\" fill=\"#ff6b9d\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;0.8;0.8\" keyTimes=\"0;0.45;0.50;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"216\" y=\"70\" width=\"46\" height=\"46\" rx=\"6\" fill=\"#ff6b9d\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;0.8;0.8\" keyTimes=\"0;0.60;0.65;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"278\" y=\"70\" width=\"46\" height=\"46\" rx=\"6\" fill=\"#ff6b9d\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;0.8;0.8\" keyTimes=\"0;0.75;0.80;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"180\" y=\"50\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">server valt uit, verkeer schuift door</text><line x1=\"40\" y1=\"140\" x2=\"320\" y2=\"140\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" from=\"24\" to=\"0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></line><path d=\"M320 134 L330 140 L320 146 Z\" fill=\"#ffd166\"/><text x=\"180\" y=\"165\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">extra verkeer na Teams-failover</text><text x=\"180\" y=\"200\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">fout uit juli, zichtbaar in november</text></svg>",
+   "quiz": {
+    "q": "Waarom ontdekte Microsoft de fout niet tijdens het testen?",
+    "o": [
+     "Er werd helemaal niet getest",
+     "De fout zat in de code van een concurrent",
+     "Testmachines hadden minder processorkernen dan de echte servers"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "BleepingComputer – Months-old bug caused global M365 outage",
+     "u": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/"
+    },
+    {
+     "t": "iTnews – Three-month-old bug behind global M365 outage",
+     "u": "https://www.itnews.com.au/news/microsoft-says-three-month-old-bug-behind-global-m365-outage-630382"
+    },
+    {
+     "t": "CNBC – Microsoft apologizes for massive outage (12 nov 2026)",
+     "u": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html"
+    }
+   ],
+   "date": "2026-11-18T05:45:23Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Amerika's inflatiecijfer mist een jaarcijfer door de shutdown",
+   "body": "Het Amerikaanse Bureau of Labor Statistics meldde op 10 november 2026 dat de consumentenprijzen in oktober 0,4% stegen tegenover september. Een jaarcijfer voor de meeste categorieën ontbrak: tijdens de shutdown van oktober 2025 werden geen prijzen verzameld, en die gegevens zijn nooit gerecupereerd. Zonder vergelijkingspunt valt er geen jaar-op-jaarverandering te berekenen.",
+   "take": "Check bij elk inflatiecijfer of het om een maand- of jaarverandering gaat: 0,4% per maand komt neer op bijna 5% per jaar.",
+   "deep": "## Hoe het werkt\n\nEen consumentenprijsindex volgt de prijs van een vast mandje goederen en diensten. Statistici noteren elke maand duizenden prijzen en berekenen daaruit één indexgetal. Het bekende inflatiecijfer is de procentuele verandering van dat getal tegenover dezelfde maand een jaar eerder. Ontbreekt die vroegere meting, dan heb je geen noemer en dus geen jaarcijfer. Een maandcijfer kan wel, omdat september 2026 gewoon gemeten werd.\n\n## Een voorbeeld\n\nIn België berekent Statbel elke maand de consumptieprijsindex, en via de afgeleide gezondheidsindex hangen lonen, uitkeringen en huurindexering ervan af. Stel dat Statbel een maand lang geen prijzen kon verzamelen: een jaar later zou niemand precies weten met hoeveel de prijzen sinds die maand gestegen zijn. Dat is wat in de Verenigde Staten nu gebeurt.\n\n## Wat onderzoek zegt\n\nHet Bureau of Labor Statistics (BLS) publiceerde op dinsdag 10 november 2026 de cijfers voor oktober: de algemene prijsindex steeg 0,4% op maandbasis, de kerninflatie zonder voeding en energie 0,3%, volgens CNBC hoger dan verwacht. BLS kon voor de meeste categorieën geen twaalfmaandsverandering geven, omdat de prijzen van oktober 2025 tijdens de begrotingsimpasse niet werden verzameld. Woordvoerder Cody Parkinson bevestigde dat. Smallere reeksen waarvoor wel een meting van oktober 2025 bestaat, kregen wel een jaarcijfer; benzine lag zo 37,4% hoger dan een jaar eerder. De markten reageerden: de rente op tweejarige staatsobligaties steeg en beleggers rekenden sterker op een renteverhoging door de Federal Reserve in december.\n\n## Nuance of misverstand\n\nHet ontbrekende jaarcijfer betekent niet dat de inflatie onbekend of verborgen is. Je kunt ze benaderen door maandcijfers aan elkaar te rijgen, en BLS heeft een methode om ontbrekende data te schatten; sommige economen gebruiken die voor een eigen schatting. Maar zo'n schatting is geen officieel cijfer. Het voorval toont vooral hoe kwetsbaar statistieken zijn: één gemiste maand blijft een jaar lang zichtbaar.\n\n## Wat je ermee doet\n\nLees bij inflatienieuws altijd welke vergelijking gemaakt wordt. Een maandstijging van 0,4% lijkt klein, maar twaalf keer na elkaar is dat ongeveer 4,9% per jaar. Volg je de Belgische index voor je huur of loon, kijk dan op de website van Statbel naar de gezondheidsindex en niet alleen naar de krantenkop.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"24\" y=\"60\" width=\"20\" height=\"60\" rx=\"3\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"50\" y=\"60\" width=\"20\" height=\"60\" rx=\"3\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"76\" y=\"60\" width=\"20\" height=\"60\" rx=\"3\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"102\" y=\"60\" width=\"20\" height=\"60\" rx=\"3\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"128\" y=\"60\" width=\"20\" height=\"60\" rx=\"3\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"154\" y=\"60\" width=\"20\" height=\"60\" rx=\"3\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"180\" y=\"60\" width=\"20\" height=\"60\" rx=\"3\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"206\" y=\"60\" width=\"20\" height=\"60\" rx=\"3\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"232\" y=\"60\" width=\"20\" height=\"60\" rx=\"3\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"258\" y=\"60\" width=\"20\" height=\"60\" rx=\"3\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"284\" y=\"60\" width=\"20\" height=\"60\" rx=\"3\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"310\" y=\"60\" width=\"20\" height=\"60\" rx=\"3\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"24\" y=\"60\" width=\"20\" height=\"60\" rx=\"3\" fill=\"#ff6b9d\" opacity=\"0.3\"><animate attributeName=\"opacity\" values=\"0.2;0.9;0.2\" dur=\"3s\" repeatCount=\"indefinite\"/></rect><text x=\"34\" y=\"140\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"13\">?</text><rect x=\"310\" y=\"60\" width=\"20\" height=\"60\" rx=\"3\" fill=\"#06d6a0\"/><text x=\"34\" y=\"50\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">okt 2025</text><text x=\"320\" y=\"50\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">okt 2026</text><path d=\"M44 165 Q180 120 316 165\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" from=\"24\" to=\"0\" dur=\"2s\" repeatCount=\"indefinite\"/></path><text x=\"180\" y=\"180\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">jaarvergelijking onmogelijk</text><text x=\"180\" y=\"205\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">maandcijfer wel: +0,4%</text></svg>",
+   "quiz": {
+    "q": "Waarom gaf de VS geen jaarinflatie voor oktober 2026?",
+    "o": [
+     "De prijzen van oktober 2025 werden nooit verzameld",
+     "De inflatie was precies nul",
+     "De Federal Reserve verbood de publicatie"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "CNBC – October 2026 CPI breakdown (10 nov 2026)",
+     "u": "https://www.cnbc.com/2026/11/10/october-2026-cpi-inflation-breakdown.html"
+    },
+    {
+     "t": "Axios – Price pressures persisted in October (10 nov 2026)",
+     "u": "https://www.axios.com/2026/11/10/cpi-october-inflation-fed"
+    },
+    {
+     "t": "Quartz – BLS skips 12-month CPI figures",
+     "u": "https://qz.com/bls-skip-12-month-cpi-october-inflation-report-110926"
+    }
+   ],
+   "date": "2026-11-18T05:45:23Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Waarom goud daalt als de rente stijgt",
+   "body": "Goud zakte op 16 tot 18 november 2026 naar het laagste peil in ruim een jaar: termijncontracten voor december verloren 1,7% tot 3.799 dollar per ounce. De dollar stond op een hoogste peil in 19 maanden en beleggers rekenden op een Amerikaanse renteverhoging in december. Goud levert geen rente op, dus hogere rente maakt het minder aantrekkelijk.",
+   "take": "Overweeg je goud, vergelijk dan eerst wat een spaarrekening of staatsobligatie op dezelfde termijn aan rente oplevert.",
+   "deep": "## Hoe het werkt\n\nEen baar goud betaalt geen rente, geen dividend en geen huur. Je verdient er alleen aan als de prijs stijgt. Economen spreken van opportuniteitskost: wat je misloopt door je geld in goud te stoppen in plaats van in iets dat wel rendement geeft. Stijgt de rente op obligaties en spaarproducten, dan wordt die gemiste opbrengst groter en verkopen sommige beleggers hun goud.\n\nDaarbovenop speelt de dollar. Goud wordt wereldwijd in dollar geprijsd. Wordt de dollar duurder, dan kost goud meer voor wie met euro's of andere munten betaalt, wat de vraag kan drukken.\n\n## Een voorbeeld\n\nStel dat je 10.000 euro hebt. Levert een staatsbon of termijnrekening 3% op, dan mis je met goud 300 euro per jaar aan zekere rente. Stijgt die rente naar 4%, dan mis je 400 euro. Goud moet dus sneller in prijs stijgen om de moeite waard te blijven. Voor een Belgische belegger komt daar nog het wisselkoerseffect tussen euro en dollar bij.\n\n## Wat onderzoek zegt\n\nVolgens CNBC daalde goud op 16 november 2026 naar het laagste niveau in meer dan een jaar, door een sterkere dollar en verwachtingen van een Amerikaanse renteverhoging; CME FedWatch gaf toen 95% kans op een verhoging met 0,25 procentpunt in december. Reuters (via MarketScreener) meldde op 17 november dat de dollar een hoogste peil in 19 maanden bereikte en dat goud op het laagste niveau sinds oktober 2025 had gestaan. Op 18 november zakten goudfutures voor december volgens CNBC nog 1,7% tot 3.799,30 dollar per ounce. De Amerikaanse tienjaarsrente schommelde rond 5,1%.\n\n## Nuance of misverstand\n\nHet verband tussen rente en goud is een neiging, geen natuurwet. In crisistijd kopen mensen goud als veilige haven, ook bij hoge rente, en centrale banken kopen soms grote hoeveelheden om andere redenen. Bovendien staat goud na de daling nog altijd veel hoger dan enkele jaren geleden. Eén slechte week zegt weinig over de lange termijn.\n\n## Wat je ermee doet\n\nBeschouw goud als een verzekering in je spaarpot, niet als een rentemachine. Wie het koopt, houdt het best als klein deel van een gespreid geheel. Vergelijk vooraf de rente op een termijnrekening of staatsbon, en reken ook de aankoop- en bewaarkosten van fysiek goud mee.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"40\" y=\"60\" width=\"280\" height=\"8\" rx=\"4\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><g><animateTransform attributeName=\"transform\" type=\"rotate\" values=\"0 180 64;-10 180 64;-10 180 64;0 180 64\" dur=\"6s\" repeatCount=\"indefinite\"/><line x1=\"50\" y1=\"64\" x2=\"310\" y2=\"64\" stroke=\"#fff\" stroke-width=\"3\"/><rect x=\"50\" y=\"34\" width=\"70\" height=\"28\" rx=\"4\" fill=\"#ffd166\"/><text x=\"85\" y=\"53\" text-anchor=\"middle\" fill=\"#000\" font-family=\"Inter,sans-serif\" font-size=\"12\">goud</text><rect x=\"240\" y=\"34\" width=\"70\" height=\"28\" rx=\"4\" fill=\"#06d6a0\"/><text x=\"275\" y=\"53\" text-anchor=\"middle\" fill=\"#000\" font-family=\"Inter,sans-serif\" font-size=\"12\">rente</text></g><path d=\"M170 140 L180 70 L190 140 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"85\" y=\"110\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">geen rente,</text><text x=\"85\" y=\"126\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">geen dividend</text><text x=\"280\" y=\"110\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">VS-rente 10 jaar</text><text x=\"280\" y=\"126\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">rond 5,1%</text><text x=\"180\" y=\"180\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">hogere rente = goud vasthouden kost meer</text><text x=\"180\" y=\"200\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">laagste goudprijs sinds okt 2025</text></svg>",
+   "quiz": {
+    "q": "Waarom wordt goud vaak minder aantrekkelijk als de rente stijgt?",
+    "o": [
+     "Omdat goud dan sneller roest",
+     "Omdat goud zelf geen rente oplevert",
+     "Omdat banken dan geen goud meer verkopen"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "CNBC – Gold drops to more than one-year low (16 nov 2026)",
+     "u": "https://www.cnbc.com/2026/11/16/gold-holds-steady-as-investors-await-warsh-remarks-for-rate-signals.html"
+    },
+    {
+     "t": "CNBC – Gold slides to over one-year low (18 nov 2026)",
+     "u": "https://www.cnbc.com/2026/11/18/gold-slides-to-over-one-year-low-on-firm-dollar-us-rate-outlook.html"
+    },
+    {
+     "t": "MarketScreener/Reuters – Gold lingers near one-year low",
+     "u": "https://www.marketscreener.com/news/gold-lingers-near-more-than-one-year-low-on-fed-hike-bets-ce785edfde8ffe21"
+    }
+   ],
+   "date": "2026-11-18T05:45:23Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Instagram laat makers verdienen met Amazon-links in reels",
+   "body": "Sinds 16 november 2026 kunnen makers op Instagram tot 30 Amazon-producten taggen in een reel en tot 20 in een gewone post. Bij een aankoop krijgen ze commissie van Amazon; Instagram neemt zelf geen deel. Meta zegt dat productlinks in posts ongeveer twee keer zoveel klikken krijgen als een link in de bio. De lancering komt vlak voor Black Friday.",
+   "take": "Zie je een productlink bij een maker? Ga ervan uit dat die er commissie op verdient, en vergelijk de prijs elders.",
+   "deep": "## Hoe het werkt\n\nAffiliatemarketing is betalen per resultaat. Een webwinkel geeft een maker een persoonlijke link. Klikt iemand daarop en koopt hij iets, dan krijgt de maker een percentage van het aankoopbedrag. Voor de winkel is dat goedkope reclame, want hij betaalt alleen bij verkoop.\n\nTot nu toe moesten makers op Instagram vaak verwijzen naar 'de link in mijn bio', een extra stap waarbij veel kijkers afhaken. Nu hangt de link rechtstreeks aan het product in de video of post. Hoe minder klikken tussen interesse en aankoop, hoe hoger de kans op verkoop: dat is het hele idee achter 'social commerce'.\n\n## Een voorbeeld\n\nEen Vlaamse kookinfluencer maakt een reel over een nieuwe airfryer, een snijplank en een set messen. Ze tagt alle drie de producten. Een kijker tikt op de airfryer, belandt op de productpagina en bestelt. De maker krijgt een commissie, de kijker betaalt hetzelfde als zonder link, en Amazon wint een klant via een video die aanvoelt als advies, niet als reclame.\n\n## Wat onderzoek zegt\n\nTechCrunch berichtte op 16 november 2026 over de lancering, MediaPost op 17 november. Makers koppelen een Amazon-account aan Instagram, waarna links automatisch worden toegevoegd wanneer ze Amazon-producten taggen. Ze kunnen ook collecties van affiliatediensten zoals LTK en ShopMy toevoegen. Instagram rekent geen commissie of transactiekost aan. De claim dat productlinks in posts ongeveer twee keer zoveel klikken opleveren als links in de bio, komt van Meta zelf, niet van onafhankelijk onderzoek.\n\n## Nuance of misverstand\n\nDe berichtgeving verschilt over wie de functie meteen kan gebruiken: sommige media spreken over in aanmerking komende makers in de VS, andere over productlinks in 26 landen. Of en wanneer Vlaamse makers dit krijgen, is dus niet zeker. Belangrijker: een link betekent niet dat het product slecht is, maar wel dat de aanbeveling niet neutraal is. In België moet reclame herkenbaar zijn, en de FOD Economie vraagt influencers om commerciële samenwerkingen duidelijk te vermelden.\n\n## Wat je ermee doet\n\nAls kijker: let op labels als 'reclame' of 'affiliate', lees reviews van andere kopers en vergelijk de prijs bij andere winkels voor je klikt. Als ondernemer: denk na of affiliatelinks via makers goedkoper zijn dan advertenties, maar spreek vooraf duidelijke afspraken over transparantie af.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"30\" y=\"40\" width=\"80\" height=\"140\" rx=\"12\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"70\" y=\"112\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">reel</text><rect x=\"270\" y=\"80\" width=\"70\" height=\"60\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"305\" y=\"108\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">webshop</text><text x=\"305\" y=\"124\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">aankoop</text><path d=\"M110 100 Q190 60 270 105\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1\" stroke-dasharray=\"3 5\"/><circle r=\"5\" fill=\"#ffd166\"><animateMotion path=\"M110 100 Q190 60 270 105\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><path d=\"M270 125 Q190 170 110 130\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" from=\"24\" to=\"0\" dur=\"2s\" repeatCount=\"indefinite\"/></path><path d=\"M118 125 L108 130 L118 136 Z\" fill=\"#06d6a0\"/><text x=\"190\" y=\"62\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">klik</text><text x=\"190\" y=\"178\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">commissie naar maker</text><text x=\"180\" y=\"208\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">tot 30 producten per reel</text></svg>",
+   "quiz": {
+    "q": "Hoeveel Amazon-producten kan een maker maximaal taggen in één reel?",
+    "o": [
+     "5",
+     "10",
+     "30"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "TechCrunch – Instagram Amazon affiliate links (16 nov 2026)",
+     "u": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/"
+    },
+    {
+     "t": "MediaPost – Instagram enables creators' Amazon affiliate links (17 nov 2026)",
+     "u": "https://www.mediapost.com/publications/article/419481/instagram-enables-creators-amazon-affiliate-links.html"
+    },
+    {
+     "t": "NetInfluencer – Amazon links in reels, LTK en ShopMy",
+     "u": "https://www.netinfluencer.com/instagram-amazon-affiliate-links-reels-feed-posts-ltk-shopmy/"
+    }
+   ],
+   "date": "2026-11-18T05:45:23Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Een baas die zijn goede daden ophemelt, stoot af",
+   "body": "Onderzoek in het Journal of Applied Psychology, besproken door PsyPost op 17 november 2026, toont dat een leidinggevende die over zijn eigen goede daden vertelt twee tegengestelde emoties kan opwekken: bewondering of afkeer. Het verschil zat erin of hij ook de goede daden van anderen in de verf zette. Bleef de spotlight op hemzelf, dan verdween het inspirerende effect.",
+   "take": "Vertel je als leidinggevende iets goeds dat je deed? Noem in hetzelfde gesprek ook concreet wat collega's goed deden.",
+   "deep": "## Hoe het werkt\n\nPsychologen kennen 'morele verheffing' (moral elevation): het warme, ontroerde gevoel wanneer je iemand iets goeds ziet doen, vaak met de neiging om zelf ook te helpen. De tegenhanger is morele afkeer, wanneer iemands gedrag als schijnheilig of zelfingenomen overkomt. Een leidinggevende die over zijn eigen goede daden praat, speelt op beide in. Of medewerkers zich geïnspireerd of afgestoten voelen, hangt af van hoe ze zijn motief inschatten: gaat het om de zaak, of om zijn imago?\n\n## Een voorbeeld\n\nDe teamleider van een Brugse kmo vertelt op de maandagvergadering dat hij in het weekend vrijwilligerswerk deed bij de voedselbank. Doet hij dat terwijl hij het werk van zijn team alleen afdoet als 'routine', dan kan dat als opschepperij overkomen. Vertelt hij hetzelfde verhaal en vermeldt hij ook dat een collega spontaan een nieuwe medewerker opving, dan klinkt het eerder als een gedeelde waarde.\n\n## Wat onderzoek zegt\n\nDe studie, met de titel 'Uplifting or Off-Putting?', verscheen in het Journal of Applied Psychology en werd op 17 november 2026 besproken door PsyPost. De onderzoekers stellen dat zelfgerichte verhalen over goede daden twee tegengestelde morele emoties kunnen oproepen. De sleutel was of de leidinggevende ook de goede daden van anderen benadrukte. Bij leidinggevenden die de morele spotlight vooral op zichzelf hielden, was het verband tussen hun verhalen en morele verheffing bij medewerkers niet langer statistisch significant. Als oplossing stellen de auteurs formele erkenning voor, zoals publieke prijzen, zodat leiders hun eigen ethiek niet zelf hoeven te promoten.\n\n## Nuance of misverstand\n\nDe boodschap is niet dat leiders moeten zwijgen over waarden of goede daden. Voorbeeldgedrag werkt wel degelijk inspirerend, zolang het niet alleen om de eigen persoon draait. Het gaat ook om gemiddelde effecten: hoe een verhaal valt, hangt af van de relatie, de toon en de bedrijfscultuur. Eén onderzoek is bovendien geen wet; de bevindingen moeten in andere landen en sectoren bevestigd worden.\n\n## Wat je ermee doet\n\nWil je als leidinggevende waarden overbrengen, maak dan van anderen de held van je verhaal. Benoem concreet wat een collega deed en waarom dat telde. Vertel je toch over jezelf, koppel het dan aan wat het team samen bereikte. En werk je in een organisatie, stel dan voor om goede daden formeel te erkennen, zodat niemand zijn eigen trompet hoeft te blazen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><circle cx=\"180\" cy=\"60\" r=\"22\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"64\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">baas</text><line x1=\"165\" y1=\"80\" x2=\"95\" y2=\"130\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><path d=\"M98 122 L90 134 L104 130 Z\" fill=\"#ff6b9d\"/><line x1=\"195\" y1=\"80\" x2=\"265\" y2=\"130\" stroke=\"#06d6a0\" stroke-width=\"2\"/><path d=\"M256 130 L270 134 L262 122 Z\" fill=\"#06d6a0\"/><rect x=\"20\" y=\"138\" width=\"140\" height=\"44\" rx=\"8\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"1;0.3;1\" dur=\"4s\" repeatCount=\"indefinite\"/></rect><text x=\"90\" y=\"156\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">alleen eigen daden</text><text x=\"90\" y=\"172\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">kans op afkeer</text><rect x=\"200\" y=\"138\" width=\"140\" height=\"44\" rx=\"8\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0.3;1;0.3\" dur=\"4s\" repeatCount=\"indefinite\"/></rect><text x=\"270\" y=\"156\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">ook collega's eren</text><text x=\"270\" y=\"172\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">inspireert meer</text><text x=\"180\" y=\"210\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">zelfde verhaal, ander effect</text></svg>",
+   "quiz": {
+    "q": "Wanneer verdween het inspirerende effect van de verhalen van een baas?",
+    "o": [
+     "Als hij de spotlight vooral op zichzelf hield",
+     "Als hij zijn verhaal per mail stuurde",
+     "Als hij jonger was dan zijn team"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "PsyPost – Bosses who brag about their own good deeds (17 nov 2026)",
+     "u": "https://www.psypost.org/new-study-finds-bosses-who-brag-about-their-own-good-deeds-risk-disgusting-their-employees/"
+    }
+   ],
+   "date": "2026-11-18T05:45:23Z"
   }
  ],
  "dives": [
