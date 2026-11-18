@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T05:43:25Z",
+ "updated": "2026-11-18T05:43:31Z",
  "cards": [
   {
    "cat": "wetenschap",
@@ -584,6 +584,290 @@
     }
    ],
    "date": "2026-11-18T05:43:25Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "De zee is zout omdat regen rotsen oplost",
+   "body": "Regen neemt een beetje CO₂ op en wordt zo licht zuur. Dat zure water vreet aan gesteente en voert opgeloste mineralen via rivieren naar zee. Daar verdampt het water, maar het zout blijft achter. Gemiddeld is zeewater zo'n 3,5% zout; natrium en chloride vormen samen meer dan 90% van de opgeloste ionen.",
+   "take": "Proef je zout op je lippen na een duik in Oostende? Dat is eeuwenlang verweerd gesteente van het vasteland.",
+   "deep": "## Hoe het werkt\n\nRegendruppels nemen onderweg wat koolstofdioxide uit de lucht op. Daardoor wordt regenwater licht zuur, en dat zure water tast gesteente heel langzaam aan. Bij die verwering komen ionen vrij, zoals natrium, calcium en kalium, die met het water meegaan naar beken en rivieren.\n\nRivieren smaken niet zout, omdat er voortdurend nieuw regenwater bijkomt en de concentratie laag blijft. De zee is echter het eindpunt. Water verdampt aan het oppervlak en valt elders weer als regen, maar de opgeloste zouten kunnen niet mee de lucht in. Zo hoopten ze zich in de loop van miljoenen jaren op.\n\n## Een voorbeeld\n\nDenk aan de Maas of de Schelde. Het water dat je bij Namen of Antwerpen ziet, bevat kleine hoeveelheden opgeloste mineralen uit de Ardennen en de rest van het stroomgebied. Je proeft er niets van. Maar alles wat die rivieren meevoeren, komt uiteindelijk in de Noordzee terecht, en die bevat per liter wel tientallen grammen zout.\n\n## Wat onderzoek zegt\n\nVolgens de Amerikaanse geologische dienst USGS en de oceaandienst van NOAA is het gesteente op land de belangrijkste bron van de zouten in zeewater. Daarnaast leveren hydrothermale bronnen op de zeebodem en onderzeese vulkanen extra mineralen. De gemiddelde zoutgraad bedraagt ongeveer 35 promille: zo'n 3,5% van het gewicht van zeewater bestaat uit opgeloste zouten. Chloride en natrium zijn de twee meest voorkomende ionen en maken samen meer dan 90% van alle opgeloste ionen uit.\n\n## Nuance of misverstand\n\nJe zou denken dat de zee dan elk jaar zouter wordt. Volgens NOAA is dat vandaag waarschijnlijk niet zo: ongeveer evenveel zout als er jaarlijks bijkomt, verdwijnt weer als bezinksel op de zeebodem. De zee is dus eerder een systeem in evenwicht dan een pot die steeds voller raakt.\n\nOok de zoutgraad verschilt per plek. Waar veel rivierwater instroomt of veel regen valt, is het water zoeter; in warme, droge zeeën met veel verdamping is het zouter. Het gemiddelde van 3,5% is dus precies dat: een gemiddelde.\n\n## Wat je ermee doet\n\nOnthoud de kringloop in één zin: water reist rond, zout blijft liggen. Dat helpt je ook andere dingen te begrijpen, zoals waarom zoutvlakten ontstaan in warme gebieden zonder afvoer naar zee, of waarom ontzilting zoveel energie kost: je moet het werk van de zon nabootsen om water en zout weer te scheiden. Leg het eens uit aan een kind dat aan het strand vraagt waarom de zee zo vies smaakt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><path d=\"M20 150 L70 80 L120 150 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"70\" y=\"170\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">rots</text><line x1=\"50\" y1=\"20\" x2=\"44\" y2=\"36\" stroke=\"#06d6a0\" stroke-width=\"2\"/><line x1=\"70\" y1=\"20\" x2=\"64\" y2=\"36\" stroke=\"#06d6a0\" stroke-width=\"2\"/><line x1=\"90\" y1=\"20\" x2=\"84\" y2=\"36\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"70\" y=\"52\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">zure regen</text><path d=\"M120 150 C170 150 190 130 240 140\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" from=\"24\" to=\"0\" dur=\"2s\" repeatCount=\"indefinite\"/></path><text x=\"180\" y=\"128\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">rivier</text><rect x=\"240\" y=\"120\" width=\"105\" height=\"60\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"292\" y=\"148\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">zee</text><text x=\"292\" y=\"166\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">3,5% zout</text><circle r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M110 140 C170 150 190 130 260 150\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><circle r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M110 140 C170 150 190 130 260 150\" dur=\"3s\" begin=\"1.5s\" repeatCount=\"indefinite\"/></circle><path d=\"M292 112 L292 70\" stroke=\"#ff6b9d\" stroke-width=\"2\" stroke-dasharray=\"4 4\"><animate attributeName=\"stroke-dashoffset\" from=\"0\" to=\"16\" dur=\"2s\" repeatCount=\"indefinite\"/></path><path d=\"M286 74 L292 64 L298 74 Z\" fill=\"#ff6b9d\"/><text x=\"292\" y=\"56\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">water verdampt</text><text x=\"180\" y=\"208\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Zout blijft achter, water gaat weer op reis</text></svg>",
+   "quiz": {
+    "q": "Waar komt het meeste zout in zeewater vandaan?",
+    "o": [
+     "Van verweerd gesteente op het land",
+     "Van zoutmijnen onder de zeebodem",
+     "Van vissen en zeewier"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "USGS – Why is the ocean salty?",
+     "u": "https://www.usgs.gov/faqs/why-ocean-salty"
+    },
+    {
+     "t": "NOAA – Why is the ocean salty?",
+     "u": "https://oceanservice.noaa.gov/facts/whysalty.html"
+    }
+   ],
+   "date": "2026-11-18T05:43:31Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Bijen tekenen een kaart met hun dans",
+   "body": "Een honingbij die voedsel vond, danst op de verticale raat een kwispeldans. De hoek ten opzichte van 'recht omhoog' geeft de hoek ten opzichte van de zon aan; hoe lang ze kwispelt, zegt iets over de afstand. Karl von Frisch kreeg er in 1973 de Nobelprijs voor, samen met Konrad Lorenz en de Nederlander Niko Tinbergen.",
+   "take": "Zie je bijen bij een bijenhal of imker? Vraag of je in een kijkkast de kwispeldans live mag zien.",
+   "deep": "## Hoe het werkt\n\nIn het donker van de bijenkast danst een verkenster die een rijke voedselbron vond op de verticale wand van de raat. Bij de kwispeldans loopt ze een recht stuk terwijl ze met haar achterlijf schudt, draait dan in een boog terug, loopt opnieuw het rechte stuk en draait naar de andere kant. Zo ontstaat een soort acht.\n\nDe richting van dat rechte stuk is de code. 'Recht omhoog' op de raat staat voor de richting van de zon. Loopt de bij 40 graden rechts van de verticaal, dan ligt het voedsel 40 graden rechts van de zon, gezien vanaf de kast. De duur van het kwispelen hangt samen met de afstand: langer kwispelen betekent verder vliegen.\n\n## Een voorbeeld\n\nStel dat een imker in het Pajottenland een kast heeft staan en een veld bloeiend koolzaad ligt een paar honderd meter verderop. De eerste bij die het veld vindt, danst in de kast. Haar zusters volgen haar bewegingen met hun voelsprieten, vliegen uit in de aangegeven richting en vinden het veld zonder zelf te moeten zoeken.\n\n## Wat onderzoek zegt\n\nDe Oostenrijkse bioloog Karl von Frisch ontcijferde de dans in de twintigste eeuw met geduldige proeven met voederplaatsjes. In 1973 deelde hij de Nobelprijs voor Fysiologie of Geneeskunde met Konrad Lorenz en Niko Tinbergen, voor hun werk over gedrag bij dieren. Het Nobelcomité sprak van de 'taal' van bijen. Volgens het Nobelpersbericht gebruiken bijen de kwispeldans voor voedsel op meer dan ongeveer 50 meter; dichterbij doen ze een eenvoudiger rondedans zonder richtingsinformatie.\n\n## Nuance of misverstand\n\nDe precieze afstandsgrens tussen rondedans en kwispeldans verschilt per bron en per bijenras: je vindt waarden tussen ongeveer 50 en 100 meter. Bovendien is de dans geen perfect GPS-signaal. Opeenvolgende rondjes wijken een beetje van elkaar af, en de bijen die volgen, middelen als het ware die informatie.\n\nEen deel van het latere onderzoek naar hoe bijen afstand precies meten, ligt onder vuur: een preprint uit 2024 van Caltech-onderzoekers vond inconsistenties in enkele studies uit 1996 tot 2010. De kern van von Frisch, de hoek ten opzichte van de zon, staat daarbij niet ter discussie.\n\n## Wat je ermee doet\n\nGebruik het als voorbeeld van hoe dieren abstracte informatie doorgeven: een richting op de grond wordt vertaald naar een richting op een verticale wand. Wil je bijen helpen, zorg dan voor bloeiende planten verspreid over het seizoen. Hoe dichter het voedsel ligt, hoe minder energie het hele volk kwijt is aan vliegen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"20\" y=\"30\" width=\"150\" height=\"160\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"95\" y=\"22\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">raat (verticaal)</text><line x1=\"95\" y1=\"170\" x2=\"95\" y2=\"50\" stroke=\"#fff\" stroke-width=\"1\" stroke-dasharray=\"3 4\"/><text x=\"95\" y=\"46\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">boven</text><g transform=\"rotate(40 95 120)\"><line x1=\"95\" y1=\"160\" x2=\"95\" y2=\"80\" stroke=\"#ffd166\" stroke-width=\"2\"/><circle cx=\"95\" cy=\"150\" r=\"6\" fill=\"#ffd166\"><animate attributeName=\"cy\" values=\"155;85;155\" dur=\"3s\" repeatCount=\"indefinite\"/></circle></g><text x=\"130\" y=\"180\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">hoek 40°</text><circle cx=\"330\" cy=\"40\" r=\"14\" fill=\"#ffd166\"/><text x=\"330\" y=\"72\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">zon</text><line x1=\"210\" y1=\"190\" x2=\"330\" y2=\"60\" stroke=\"#fff\" stroke-width=\"1\" stroke-dasharray=\"3 4\"/><line x1=\"210\" y1=\"190\" x2=\"320\" y2=\"176\" stroke=\"#06d6a0\" stroke-width=\"2\"/><path d=\"M314 170 L328 175 L315 182 Z\" fill=\"#06d6a0\"/><text x=\"295\" y=\"165\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">bloemen</text><text x=\"262\" y=\"150\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">40°</text><text x=\"210\" y=\"208\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">kast</text></svg>",
+   "quiz": {
+    "q": "Wat betekent 'recht omhoog' in de kwispeldans op de raat?",
+    "o": [
+     "Het voedsel ligt hoog in een boom",
+     "De richting van de zon",
+     "Het noorden"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "NobelPrize.org – Nobelprijs Fysiologie of Geneeskunde 1973, persbericht",
+     "u": "https://www.nobelprize.org/prizes/medicine/1973/press-release/"
+    },
+    {
+     "t": "Britannica – Karl von Frisch",
+     "u": "https://www.britannica.com/biography/Karl-von-Frisch"
+    }
+   ],
+   "date": "2026-11-18T05:43:31Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "De geur van regen komt uit de grond",
+   "body": "Die frisse geur na een bui op droge grond heet petrichor, een woord dat Australische chemici Isabel Bear en Richard Thomas in 1964 bedachten. Een belangrijk ingrediënt is geosmine, gemaakt door bodembacteriën (Streptomyces). MIT-onderzoekers filmden in 2015 hoe vallende druppels luchtbelletjes vangen die geurdeeltjes de lucht in spatten.",
+   "take": "Ruik je na een droge periode die aardse geur? Dan zijn het bodembacteriën en spattende luchtbelletjes, niet de regen zelf.",
+   "deep": "## Hoe het werkt\n\nRegenwater zelf ruikt nauwelijks ergens naar. De geur komt van de grond. Als een druppel op droge, poreuze aarde valt, sluit hij kleine luchtbelletjes in. Die stijgen door de druppel omhoog en barsten aan het oppervlak open, een beetje zoals de belletjes in een glas bruiswater. Daarbij komt een fijne nevel van minuscule deeltjes vrij: aerosolen. Die nemen geurstoffen uit de bodem mee.\n\nEen van de belangrijkste geurstoffen is geosmine. Die wordt gemaakt door Streptomyces, bacteriën die in vrijwel elke bodem leven. Onze neus is er uitzonderlijk gevoelig voor.\n\n## Een voorbeeld\n\nNa een paar warme, droge dagen in de zomer valt in Gent een lichte bui op de grasvelden van het Citadelpark. Binnen een minuut ruik je die typische aardse geur. Bij een stevige wolkbreuk op een al natte bodem merk je er veel minder van: dan zijn de poriën al gevuld met water.\n\n## Wat onderzoek zegt\n\nDe naam petrichor komt van de Australische CSIRO-chemici Isabel 'Joy' Bear en Richard Thomas, die in 1964 in Nature publiceerden over 'argillaceous odour', de geur van klei. Ze combineerden het Griekse petra (steen) met ichor, het vocht dat volgens de mythen door de aderen van de goden stroomde.\n\nIn 2015 filmden Youngsoo Joung en Cullen Buie van het MIT duizenden druppelinslagen met hogesnelheidscamera's (Nature Communications). Lichte en matige regen op zand- en kleibodems leverde de meeste aerosolen op. In 2020 toonde een team met onder meer het John Innes Centre in Nature Microbiology aan dat geosmine springstaarten aantrekt, kleine bodemdiertjes die de bacteriën eten en zo hun sporen verspreiden.\n\n## Nuance of misverstand\n\nVaak hoor je dat je 'de regen' ruikt. Strikt genomen ruik je de bodem. Ook ozon wordt soms genoemd: dat is een andere, scherpe geur die je eerder bij onweer opmerkt en die niets met geosmine te maken heeft.\n\nOver hoe gevoelig onze neus precies is, verschillen de cijfers. Smithsonian vermeldt dat sommige mensen geosmine al ruiken bij enkele deeltjes per biljoen; andere bronnen geven hogere drempels. Zeker is wel dat het om extreem kleine hoeveelheden gaat. Datzelfde verklaart waarom kraantjeswater soms 'aards' smaakt: ook daar is geosmine meestal de boosdoener.\n\n## Wat je ermee doet\n\nGebruik de geur als natuurlijk weerbericht: ruik je hem sterk, dan was de bodem droog en is de bui licht. En smaakt je water eens naar aarde, weet dan dat het meestal om een onschuldige maar heel goed waarneembare stof gaat.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><line x1=\"20\" y1=\"160\" x2=\"340\" y2=\"160\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"185\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">droge grond met bacteriën</text><circle cx=\"180\" cy=\"40\" r=\"7\" fill=\"#06d6a0\"><animate attributeName=\"cy\" values=\"20;150;150\" keyTimes=\"0;0.5;1\" dur=\"4s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;1;0\" keyTimes=\"0;0.5;0.55\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><text x=\"215\" y=\"40\" text-anchor=\"start\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">regendruppel</text><circle cx=\"165\" cy=\"150\" r=\"3\" fill=\"#ffd166\" opacity=\"0\"><animate attributeName=\"cy\" values=\"150;150;90\" keyTimes=\"0;0.5;1\" dur=\"4s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"0;0;1;0\" keyTimes=\"0;0.5;0.7;1\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><circle cx=\"180\" cy=\"150\" r=\"3\" fill=\"#ffd166\" opacity=\"0\"><animate attributeName=\"cy\" values=\"150;150;90\" keyTimes=\"0;0.5;1\" dur=\"4s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"0;0;1;0\" keyTimes=\"0;0.5;0.7;1\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><circle cx=\"195\" cy=\"150\" r=\"3\" fill=\"#ffd166\" opacity=\"0\"><animate attributeName=\"cy\" values=\"150;150;90\" keyTimes=\"0;0.5;1\" dur=\"4s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"0;0;1;0\" keyTimes=\"0;0.5;0.7;1\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><text x=\"90\" y=\"100\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">luchtbelletjes</text><text x=\"90\" y=\"116\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">spatten geur op</text><text x=\"280\" y=\"110\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\">geosmine</text><text x=\"180\" y=\"208\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Lichte regen op droge grond: de typische geur</text></svg>",
+   "quiz": {
+    "q": "Welke stof is een belangrijk ingrediënt van de geur na regen?",
+    "o": [
+     "Ozon uit de wolken",
+     "Chloor uit regenwater",
+     "Geosmine van bodembacteriën"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "MIT News – Rainfall can release aerosols (2015)",
+     "u": "https://news.mit.edu/2015/rainfall-can-release-aerosols-0114"
+    },
+    {
+     "t": "CSIRO – The smell of rain: how our scientists invented a new word",
+     "u": "https://www.csiro.au/en/news/all/articles/2015/march/the-smell-of-rain-how-our-scientists-invented-a-new-word"
+    },
+    {
+     "t": "Lund University – The story behind the earthy smell",
+     "u": "https://www.lunduniversity.lu.se/article/story-behind-earthy-smell-spring"
+    },
+    {
+     "t": "Smithsonian – High-speed video shows when the smell of rain begins",
+     "u": "https://www.smithsonianmag.com/smart-news/high-speed-video-shows-when-smell-rain-begins-180953958/"
+    }
+   ],
+   "date": "2026-11-18T05:43:31Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Tien decibel meer is tien keer korter veilig",
+   "body": "De WHO rekent voor volwassenen met 80 decibel gedurende 40 uur per week als veilige grens. Bij 90 dB zakt dat al naar ongeveer 4 uur per week. Volgens de WHO lopen meer dan een miljard jongeren risico op gehoorschade door onveilig luisteren. Die schade is blijvend, maar wel te voorkomen.",
+   "take": "Neem oordopjes mee naar concerten en fuiven, en zet de volumebegrenzing van je smartphone aan.",
+   "deep": "## Hoe het werkt\n\nDecibel is een logaritmische schaal. Tien decibel erbij betekent tien keer zoveel geluidsenergie. Je oor reageert op de totale dosis: hoe luid en hoe lang. De haarcellen in je slakkenhuis raken bij een te hoge dosis beschadigd, en die groeien niet terug.\n\nDaarom werkt de WHO met een weekbudget. Wie het geluid hoger zet, verbruikt dat budget veel sneller.\n\n## Een voorbeeld\n\nOp een fuif in Vlaanderen mag de muziek volgens de Vlaamse milieuregels (VLAREM) maximaal 100 dB(A) halen, gemiddeld over 60 minuten. Organisatoren moeten dan het geluid meten en gratis oordopjes voorzien. Volgens dezelfde rekenregel als die van de WHO is je volledige weekbudget bij 100 dB na ongeveer een halfuur op. Na een avond dansen zonder bescherming zit je er dus ruim boven, en dat merk je soms aan suizende oren de ochtend erna.\n\n## Wat onderzoek zegt\n\nDe WHO en de Internationale Telecommunicatie-Unie publiceerden in 2019 een standaard voor veilige luisterapparaten. Voor volwassenen geldt 80 dB gedurende 40 uur per week als referentie, voor kinderen 75 dB gedurende 40 uur. Bij 90 dB daalt de veilige tijd tot ongeveer vier uur per week. Een meta-analyse in opdracht van de WHO schatte dat wereldwijd zo'n 1,1 miljard jongeren risico lopen door onveilige luistergewoonten, via oortjes en luide uitgaansplekken. De onderzoekers noemen dat zelf een onderschatting.\n\n## Nuance of misverstand\n\nEen suizend oor dat de volgende dag weer stil is, betekent niet dat er niets gebeurd is. Ook tijdelijke klachten wijzen erop dat je oren een te hoge dosis kregen, en herhaalde blootstelling telt op.\n\nLet ook op met de cijfers: de veilige tijden zijn afspraken op basis van gemiddelden, geen harde grens waaronder niemand schade oploopt. De waarden voor concertzalen gaan over een gemiddelde over 15 of 60 minuten, dus korte pieken kunnen hoger liggen.\n\n## Wat je ermee doet\n\nDraag oordopjes bij luide muziek; goede muziekoordopjes dempen het geluid zonder dat het dof klinkt. Gebruik de functie 'gehoorgezondheid' of volumebegrenzing op je smartphone, die je weekdosis bijhoudt. Las pauzes in op plekken waar het stiller is, en ga op een concert niet vlak naast de boxen staan.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Veilige luistertijd per week (WHO)</text><text x=\"20\" y=\"64\" text-anchor=\"start\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">80 dB</text><rect x=\"80\" y=\"50\" width=\"180\" height=\"20\" rx=\"4\" fill=\"#ffd166\" opacity=\"0.3\"><animate attributeName=\"opacity\" values=\"0.3;1;0.3\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/></rect><text x=\"270\" y=\"64\" text-anchor=\"start\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">40 u</text><text x=\"20\" y=\"109\" text-anchor=\"start\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">90 dB</text><rect x=\"80\" y=\"95\" width=\"90\" height=\"20\" rx=\"4\" fill=\"#ffd166\" opacity=\"0.3\"><animate attributeName=\"opacity\" values=\"0.3;1;0.3\" dur=\"6s\" begin=\"2s\" repeatCount=\"indefinite\"/></rect><text x=\"180\" y=\"109\" text-anchor=\"start\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">4 u</text><text x=\"20\" y=\"154\" text-anchor=\"start\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">100 dB</text><rect x=\"80\" y=\"140\" width=\"36\" height=\"20\" rx=\"4\" fill=\"#ffd166\" opacity=\"0.3\"><animate attributeName=\"opacity\" values=\"0.3;1;0.3\" dur=\"6s\" begin=\"4s\" repeatCount=\"indefinite\"/></rect><text x=\"126\" y=\"154\" text-anchor=\"start\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">±24 min</text><text x=\"180\" y=\"195\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">+10 dB = tien keer zoveel geluidsenergie</text><text x=\"180\" y=\"212\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">= tien keer korter veilig</text></svg>",
+   "quiz": {
+    "q": "Hoeveel veilige luistertijd per week geeft de WHO bij 90 dB?",
+    "o": [
+     "Ongeveer 40 uur",
+     "Ongeveer 4 uur",
+     "Ongeveer 20 uur"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "WHO – Deafness and hearing loss: Safe listening (Q&A)",
+     "u": "https://www.who.int/news-room/questions-and-answers/item/deafness-and-hearing-loss-safe-listening"
+    },
+    {
+     "t": "WHO – Safe listening devices and systems: a WHO-ITU standard",
+     "u": "https://www.who.int/publications/i/item/9789241515276"
+    },
+    {
+     "t": "Omgeving Vlaanderen – FAQ geluidsnormen muziekactiviteiten (2025)",
+     "u": "https://omgeving.vlaanderen.be/sites/default/files/2025-08/FAQ_Geluid_Muziekactiviteiten_aug2025.pdf"
+    }
+   ],
+   "date": "2026-11-18T05:43:31Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Suiker maakt kinderen niet druk, verwachting wel",
+   "body": "Een meta-analyse in JAMA (Wolraich e.a., 1995) van dubbelblinde studies vond geen effect van suiker op gedrag of denkvermogen van kinderen. In een proef uit 1994 kregen alle jongens een placebo, maar moeders die dachten dat hun zoon veel suiker had gekregen, beoordeelden hem als drukker.",
+   "take": "Is je kind druk op een verjaardagsfeest? Kijk eerst naar de opwinding, drukte en het late uur, niet naar de taart.",
+   "deep": "## Hoe het werkt\n\nHet idee is eenvoudig: suiker geeft energie, dus kinderen gaan 'stuiteren'. Maar het lichaam houdt de bloedsuikerspiegel binnen nauwe grenzen, en gedrag hangt van veel meer af. Wat wel sterk meespeelt, is wat volwassenen verwachten. Wie denkt dat een kind suiker heeft gehad, kijkt anders naar hetzelfde gedrag.\n\n## Een voorbeeld\n\nOp een kinderfeestje in een speeltuin in Hasselt zijn er snoep, cola, taart, twintig opgewonden kinderen en geen vaste structuur. Een kind dat daar uitgelaten rondrent, zou dat met of zonder suiker waarschijnlijk ook doen. Toch geeft de ouder achteraf vaak de snoepzak de schuld.\n\n## Wat onderzoek zegt\n\nMark Wolraich, David Wilson en J. Wade White bundelden in 1995 in JAMA zestien dubbelblinde studies waarin kinderen suiker of een placebo kregen, zonder dat kinderen, ouders of onderzoekers wisten wie wat kreeg. Hun conclusie: suiker had geen aantoonbaar effect op gedrag of cognitieve prestaties. Ze sloten een klein effect of een effect bij een kleine groep kinderen wel niet volledig uit.\n\nIn 1994 deden Daniel Hoover en Richard Milich een slimme proef met 35 jongens van 5 tot 7 jaar wier moeders hen 'suikergevoelig' vonden. Alle jongens kregen een drankje met zoetstof, dus zonder suiker. De helft van de moeders kreeg echter te horen dat er veel suiker in zat. Die moeders vonden hun zoon duidelijk drukker, hielden hem dichter bij zich en waren kritischer.\n\n## Nuance of misverstand\n\nDat suiker je kind niet hyper maakt, betekent niet dat suiker gezond is. Voor tanden, gewicht en een gevarieerd eetpatroon blijft minder suiker een goed idee. De onderzoeken gaan alleen over gedrag op korte termijn.\n\nOok voor kinderen met ADHD is er geen bewijs dat suiker de klachten verergert, al zaten niet in alle studies kinderen met een formele diagnose.\n\n## Wat je ermee doet\n\nWordt een kind druk, zoek dan naar de echte oorzaken: veel prikkels, vermoeidheid, honger of gewoon een leuk feest. Wees je bewust van je eigen bril: als je verwacht dat iets misloopt, zie je sneller bewijs. En beperk zoetigheid gerust, maar dan om de juiste reden.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"20\" y=\"50\" width=\"120\" height=\"60\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"80\" y=\"76\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">kind krijgt</text><text x=\"80\" y=\"94\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">placebo</text><rect x=\"220\" y=\"50\" width=\"120\" height=\"60\" rx=\"8\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"280\" y=\"76\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">mama denkt:</text><text x=\"280\" y=\"94\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\">veel suiker</text><line x1=\"280\" y1=\"110\" x2=\"280\" y2=\"140\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M274 138 L280 148 L286 138 Z\" fill=\"#fff\"/><rect x=\"200\" y=\"152\" width=\"160\" height=\"34\" rx=\"8\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"stroke-width\" values=\"2;5;2\" dur=\"3s\" repeatCount=\"indefinite\"/></rect><text x=\"280\" y=\"174\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">ziet meer drukte</text><line x1=\"140\" y1=\"80\" x2=\"220\" y2=\"80\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><text x=\"180\" y=\"72\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">zelfde kind</text><text x=\"80\" y=\"174\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">gedrag: gewoon</text><text x=\"180\" y=\"212\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">De verwachting kleurt wat je ziet</text></svg>",
+   "quiz": {
+    "q": "Wat kregen de jongens in de proef van Hoover en Milich (1994)?",
+    "o": [
+     "Een grote dosis suiker",
+     "Afwisselend suiker en placebo",
+     "Allemaal een placebo"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "PubMed – Wolraich e.a., The effect of sugar on behavior or cognition in children (JAMA, 1995)",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/7474248/"
+    },
+    {
+     "t": "PubMed – Hoover & Milich, Effects of sugar ingestion expectancies on mother-child interactions (1994)",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/7963081/"
+    }
+   ],
+   "date": "2026-11-18T05:43:31Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Antibiotica doen niets tegen je griep",
+   "body": "Antibiotica doden bacteriën of remmen hun groei, maar griep en verkoudheid worden door virussen veroorzaakt. Volgens het ECDC is tot 80% van de winterkwalen aan neus, oren, keel en longen viraal. Onnodig slikken geeft wel kans op bijwerkingen en helpt bacteriën resistent te worden: in de EU sterven jaarlijks ruim 35.000 mensen aan resistente infecties.",
+   "take": "Vraag je huisarts bij een verkoudheid niet om antibiotica, maar wel wat je zelf kunt doen om je beter te voelen.",
+   "deep": "## Hoe het werkt\n\nBacteriën zijn zelfstandige levende cellen met een celwand en een eigen stofwisseling. Antibiotica grijpen daarop in: ze breken bijvoorbeeld de celwand af of blokkeren de eiwitaanmaak van de bacterie. Virussen hebben geen eigen stofwisseling. Ze kapen jouw cellen om zich te vermenigvuldigen. Een antibioticum vindt bij een virus dus niets om aan te vallen.\n\nOndertussen raakt het antibioticum wel de bacteriën in je lichaam die je niet ziek maken. Bacteriën die toevallig iets beter bestand zijn, overleven en vermenigvuldigen zich. Zo kweek je resistentie.\n\n## Een voorbeeld\n\nIn januari heb je koorts, spierpijn en een loopneus. Je huisarts in Leuven stelt griep vast en schrijft geen antibiotica voor. Dat is geen zuinigheid: de Belgische campagne van BAPCOC zegt al sinds 2004 dat antibiotica niet helpen bij verkoudheid, acute bronchitis en griep.\n\n## Wat onderzoek zegt\n\nHet Europees Centrum voor ziektepreventie en -bestrijding (ECDC) zegt dat antibiotica bij verkoudheid of griep je klachten niet milder maken en je niet sneller beter doen voelen. Ze kunnen wel bijwerkingen geven zoals diarree, misselijkheid of huiduitslag. Volgens een ECDC-rapport uit 2022 sterven in de EU en de EER elk jaar meer dan 35.000 mensen als direct gevolg van infecties met resistente bacteriën. Dat is vergelijkbaar met griep, tuberculose en hiv samen. Uit een ECDC-enquête bleek dat maar iets meer dan de helft van het publiek weet dat antibiotica niet werken tegen verkoudheid.\n\n## Nuance of misverstand\n\nSoms krijgt iemand met griep toch antibiotica. Dat is geen tegenspraak: na een virusinfectie kan er een bacteriële infectie bovenop komen, zoals een longontsteking, en dan kunnen antibiotica net nodig zijn. Het oordeel daarover hoort bij de arts.\n\nHet cijfer van 35.000 doden is een modelschatting met een onzekerheidsmarge, geen exacte telling.\n\n## Wat je ermee doet\n\nGebruik antibiotica alleen op voorschrift en volg de instructies van je arts of apotheker. Bewaar geen restjes voor de volgende keer en geef ze niet door aan anderen; breng overschotten terug naar de apotheek. Bij een verkoudheid helpen rust, voldoende drinken en eventueel een pijnstiller of neusspray. Ga terug naar de huisarts als je na enkele dagen slechter wordt in plaats van beter.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"20\" y=\"40\" width=\"130\" height=\"110\" rx=\"10\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"85\" y=\"30\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">bacterie</text><rect x=\"210\" y=\"40\" width=\"130\" height=\"110\" rx=\"10\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"275\" y=\"30\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">virus (griep)</text><ellipse cx=\"85\" cy=\"95\" rx=\"34\" ry=\"18\" fill=\"#06d6a0\"><animate attributeName=\"rx\" values=\"34;6;34\" dur=\"4s\" repeatCount=\"indefinite\"/><animate attributeName=\"ry\" values=\"18;4;18\" dur=\"4s\" repeatCount=\"indefinite\"/></ellipse><circle cx=\"275\" cy=\"95\" r=\"16\" fill=\"#ff6b9d\"/><line x1=\"291\" y1=\"95\" x2=\"299\" y2=\"95\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><line x1=\"259\" y1=\"95\" x2=\"251\" y2=\"95\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><line x1=\"275\" y1=\"111\" x2=\"275\" y2=\"119\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><line x1=\"275\" y1=\"79\" x2=\"275\" y2=\"71\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><line x1=\"286.2\" y1=\"106.2\" x2=\"291.8\" y2=\"111.8\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><line x1=\"263.8\" y1=\"83.8\" x2=\"258.2\" y2=\"78.2\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><line x1=\"286.2\" y1=\"83.8\" x2=\"291.8\" y2=\"78.2\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><line x1=\"263.8\" y1=\"106.2\" x2=\"258.2\" y2=\"111.8\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"85\" y=\"172\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">antibioticum werkt</text><text x=\"275\" y=\"172\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">geen effect</text><text x=\"180\" y=\"205\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Antibiotica richten zich op bacteriën</text></svg>",
+   "quiz": {
+    "q": "Waarom werken antibiotica niet tegen griep?",
+    "o": [
+     "Griep wordt veroorzaakt door een virus",
+     "De griepbacterie is altijd resistent",
+     "Antibiotica werken alleen in de zomer"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "ECDC – Key messages for the general public",
+     "u": "https://antibiotic.ecdc.europa.eu/en/get-informed/key-messages/general-public"
+    },
+    {
+     "t": "ECDC – 35 000 annual deaths from antimicrobial resistance in the EU/EEA",
+     "u": "https://www.ecdc.europa.eu/en/news-events/eaad-2022-launch"
+    },
+    {
+     "t": "BCFI Folia – campagne antibiotica bij verkoudheid en griep",
+     "u": "https://www.bcfi.be/folia_pdfs/NL/P33N10B.pdf"
+    }
+   ],
+   "date": "2026-11-18T05:43:31Z"
+  },
+  {
+   "cat": "taal",
+   "title": "'U' begon als 'Uwe Edelheid' in brieven",
+   "body": "Volgens de klassieke verklaring komt de beleefde vorm u van 'Uwe Edelheid'. In zeventiende-eeuwse brieven werd dat afgekort tot UE, uitgesproken als 'uwee', en in de spreektaal sleet dat af tot u. Daarom kan u nog met een werkwoord in de derde persoon: 'u heeft', net zoals je 'Uwe Edelheid heeft' zou zeggen.",
+   "take": "Twijfel je tussen 'u hebt' en 'u heeft'? Beide zijn correct; 'u heeft' is een overblijfsel van die oude titel.",
+   "deep": "## Hoe het werkt\n\nVroeger sprak je iemand van hogere stand niet aan met een gewoon voornaamwoord, maar met een titel: Uwe Edelheid, Uwe Excellentie, Uwe Majesteit. In brieven schreef men die titels af tot letters, zoals UE of UEd. Die afkorting werd hardop gelezen als 'uwee'. Door een klemtoonverschuiving en verkorting werd 'uwee' uiteindelijk 'u', en zo schoof een titel de rij van persoonlijke voornaamwoorden binnen.\n\n## Een voorbeeld\n\nIn Vlaanderen hoor je vaak 'gij' en 'ge' als je-vorm in de spreektaal, terwijl 'u' de beleefde vorm in de standaardtaal is. Een Vlaming die tegen de dokter 'hebt u nog een afspraak vrij?' zegt, gebruikt dus zonder het te weten een woord dat ooit een adellijke titel was.\n\n## Wat onderzoek zegt\n\nDe klassieke verklaring staat onder meer in de Historische grammatica van het Nederlands van Cor van Bree en in de etymologische naslag die via Etymologiebank te raadplegen is. UE en UL komen in brieven voor vanaf de zeventiende eeuw, eerst in de deftige kanselarijstijl. Nog in het begin van de twintigste eeuw werd 'uwee' gebruikt als heel eerbiedige aanspreekvorm.\n\nOok een Vlaamse lezing uit 1928 in de Koninklijke Vlaamse Academie noemt Uwé, ontstaan uit Uwe Edelheid, als voorloper van u. Dat verklaart meteen waarom 'u heeft' kan: een titel is grammaticaal een derde persoon.\n\n## Nuance of misverstand\n\nNiet alle taalkundigen vinden de afkorting het hele verhaal. Er bestond ook al een oudere vorm 'u', het voorwerp van 'gij' (zoals in 'ik zie u'). Sommige onderzoekers denken dat die vorm meehielp of zelfs de hoofdbron was, toen het onderscheid tussen onderwerp en voorwerp vervaagde. In achttiende-eeuwse brieven staan U, Uw en UE soms door elkaar in dezelfde zin. De etymologie is dus waarschijnlijk, maar niet helemaal beslecht.\n\n## Wat je ermee doet\n\nGebruik dit verhaal om 'u heeft' en 'u hebt' te onthouden: allebei goed, met een historische reden voor het verschil. Volgens Onze Taal is 'u hebt' gebruikelijker omdat het past bij 'u bent' en 'u kunt'. En besef dat beleefdheid in taal vaak zo ontstaat: eerbiedige titels slijten tot gewone woordjes.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"30\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Van titel tot voornaamwoord</text><circle cx=\"60\" cy=\"100\" r=\"30\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\" opacity=\"0.3\"><animate attributeName=\"opacity\" values=\"0.3;1;1;0.3\" keyTimes=\"0;0.15;0.25;1\" dur=\"8s\" begin=\"0s\" repeatCount=\"indefinite\"/></circle><text x=\"60\" y=\"150\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">Uwe Edelheid</text><circle cx=\"150\" cy=\"100\" r=\"30\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\" opacity=\"0.3\"><animate attributeName=\"opacity\" values=\"0.3;1;1;0.3\" keyTimes=\"0;0.15;0.25;1\" dur=\"8s\" begin=\"2s\" repeatCount=\"indefinite\"/></circle><text x=\"150\" y=\"150\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">UE</text><circle cx=\"230\" cy=\"100\" r=\"30\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\" opacity=\"0.3\"><animate attributeName=\"opacity\" values=\"0.3;1;1;0.3\" keyTimes=\"0;0.15;0.25;1\" dur=\"8s\" begin=\"4s\" repeatCount=\"indefinite\"/></circle><text x=\"230\" y=\"150\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">uwee</text><circle cx=\"310\" cy=\"100\" r=\"30\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\" opacity=\"0.3\"><animate attributeName=\"opacity\" values=\"0.3;1;1;0.3\" keyTimes=\"0;0.15;0.25;1\" dur=\"8s\" begin=\"6s\" repeatCount=\"indefinite\"/></circle><text x=\"310\" y=\"150\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">u</text><line x1=\"92\" y1=\"100\" x2=\"114\" y2=\"100\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M112 95 L120 100 L112 105 Z\" fill=\"#fff\"/><line x1=\"182\" y1=\"100\" x2=\"194\" y2=\"100\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M192 95 L200 100 L192 105 Z\" fill=\"#fff\"/><line x1=\"262\" y1=\"100\" x2=\"274\" y2=\"100\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M272 95 L280 100 L272 105 Z\" fill=\"#fff\"/><text x=\"60\" y=\"104\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">titel</text><text x=\"150\" y=\"104\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">brief</text><text x=\"230\" y=\"104\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">spraak</text><text x=\"310\" y=\"104\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\">u</text><text x=\"180\" y=\"195\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">Daarom kan het nog: u heeft (3e persoon)</text></svg>",
+   "quiz": {
+    "q": "Uit welke titel is de beleefde vorm 'u' volgens de klassieke verklaring ontstaan?",
+    "o": [
+     "Uwe Majesteit",
+     "Uwe Edelheid",
+     "Uwe Heiligheid"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Etymologiebank – u",
+     "u": "https://www.etymologiebank.nl/trefwoord/u"
+    },
+    {
+     "t": "Onze Taal – u hebt / u heeft",
+     "u": "https://onzetaal.nl/taalloket/u-hebt-heeft"
+    },
+    {
+     "t": "DBNL – Cor van Bree, Historische grammatica van het Nederlands",
+     "u": "https://www.dbnl.org/tekst/bree001hist02_01/bree001hist02_01_0042.php"
+    }
+   ],
+   "date": "2026-11-18T05:43:31Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Een Amerikaanse cookie is gewoon een Nederlands koekje",
+   "body": "Het Engelse cookie komt van het Nederlandse koekje, verkleinwoord van koek; in Amerika is het zo gebruikt sinds minstens 1808. Ook boss komt uit het Nederlands: baas, via de Nederlandse kolonisten in New York en New Jersey. En yacht is het Nederlandse jacht, letterlijk een schip om mee te jagen.",
+   "take": "Zoek bij een Engels woord dat 'Nederlands' klinkt eens de herkomst op via Etymonline: vaak zie je een Nederlands spoor.",
+   "deep": "## Hoe het werkt\n\nTalen lenen woorden waar mensen elkaar ontmoeten. In de zeventiende eeuw hadden de Nederlanden een van de grootste handelsvloten ter wereld en een kolonie in Noord-Amerika: Nieuw-Nederland, met Nieuw-Amsterdam als hoofdstad, het latere New York. Engelstalige buren namen daar alledaagse woorden over van hun Nederlandstalige buren, en zeelieden brachten scheepstermen mee.\n\n## Een voorbeeld\n\nBestel je in Antwerpen een 'cookie' bij je koffie, dan gebruik je een woord dat ooit van hier vertrok, over de Atlantische Oceaan reisde en terugkwam als Engels leenwoord. Hetzelfde geldt voor een collega die het over 'de boss' heeft: hij zegt eigenlijk gewoon 'baas', in een Amerikaans jasje.\n\n## Wat onderzoek zegt\n\nVolgens Etymonline komt het Amerikaanse 'cookie', in de betekenis van een klein, plat en zoet koekje, uit het Nederlandse 'koekje', en is die betekenis aangetroffen vanaf 1808. De Oxford English Dictionary spreekt van onafhankelijke ontleningen in het Schots en het Amerikaans-Engels. Een vroeger vermoed verband met het Latijnse coquere (koken) wordt niet meer aangenomen.\n\nMerriam-Webster noemt 'boss' misschien het meest verspreide Nederlandse leenwoord in het Amerikaans-Engels. Het kwam eind zeventiende en in de achttiende eeuw in gebruik via het Nederlands van New York en New Jersey; de spelling 'boss' verschijnt in 1806. 'Yacht' dook al in de jaren 1550 op, uit het Nederlands 'jaght', een verkorting van 'jachtschip': een snel schip om te achtervolgen.\n\n## Nuance of misverstand\n\nNiet elk woord dat Nederlands lijkt, is het ook. De verdere oorsprong van 'baas' zelf is onzeker. En bij 'cookie' is het Schotse woord voor een eenvoudig broodje misschien wel, misschien niet hetzelfde woord: daar zijn de woordenboeken voorzichtig over.\n\nDat Engelstaligen 'boss' verkozen boven 'master', heeft volgens Etymonline mogelijk ook te maken met een egalitaire afkeer van dat laatste woord in de jonge Verenigde Staten.\n\n## Wat je ermee doet\n\nGebruik zulke woorden als geheugensteun bij het leren van Engels, of als leuk weetje bij een etentje. Zoek bij twijfel altijd de herkomst op in een etymologisch woordenboek, want leuke verhalen over woordherkomst kloppen lang niet altijd.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"90\" y=\"30\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">Nederlands</text><text x=\"270\" y=\"30\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">Engels</text><rect x=\"30\" y=\"48\" width=\"120\" height=\"26\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"90\" y=\"65\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">koekje</text><rect x=\"210\" y=\"48\" width=\"120\" height=\"26\" rx=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"270\" y=\"65\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">cookie</text><circle r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M152 61 L206 61\" dur=\"2s\" begin=\"0.0s\" repeatCount=\"indefinite\"/></circle><rect x=\"30\" y=\"93\" width=\"120\" height=\"26\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"90\" y=\"110\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">baas</text><rect x=\"210\" y=\"93\" width=\"120\" height=\"26\" rx=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"270\" y=\"110\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">boss</text><circle r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M152 106 L206 106\" dur=\"2s\" begin=\"0.6s\" repeatCount=\"indefinite\"/></circle><rect x=\"30\" y=\"138\" width=\"120\" height=\"26\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"90\" y=\"155\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">jacht</text><rect x=\"210\" y=\"138\" width=\"120\" height=\"26\" rx=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"270\" y=\"155\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">yacht</text><circle r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M152 151 L206 151\" dur=\"2s\" begin=\"1.2s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"200\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Via Nieuw-Nederland (New York) en de zeevaart</text></svg>",
+   "quiz": {
+    "q": "Van welk Nederlands woord komt het Engelse 'yacht'?",
+    "o": [
+     "Jacht",
+     "Jacket",
+     "Jaagpad"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Etymonline – cookie",
+     "u": "https://www.etymonline.com/word/cookie"
+    },
+    {
+     "t": "Etymonline – yacht",
+     "u": "https://www.etymonline.com/word/yacht"
+    },
+    {
+     "t": "Merriam-Webster – boss",
+     "u": "https://www.merriam-webster.com/dictionary/boss"
+    },
+    {
+     "t": "Etymonline – boss",
+     "u": "https://www.etymonline.com/word/boss"
+    }
+   ],
+   "date": "2026-11-18T05:43:31Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Pannenkoek krijgt een n, ook met één pan",
+   "body": "De tussen-n gaat niet over hoeveel pannen er zijn, maar over het meervoud van het eerste deel. Heeft dat alleen een meervoud op -en, dan schrijf je -en-: pan wordt pannen, dus pannenkoek. Sinds de spelling van 1995 is 'pannekoek' officieel niet meer correct; in 2005 werd ook 'paardebloem' 'paardenbloem'.",
+   "take": "Twijfel je bij een samenstelling? Zeg het meervoud van het eerste woord hardop; eindigt het alleen op -en, schrijf dan -en-.",
+   "deep": "## Hoe het werkt\n\nVeel Nederlandse samenstellingen hebben een klank tussen de twee delen, de zogenoemde tussenklank. In de uitspraak is dat vaak gewoon een doffe e, de n hoor je meestal niet. De spelling moest dus een afspraak maken. De hoofdregel van de officiële spelling luidt: heeft het eerste deel alleen een meervoud op -en, en niet ook op -s, dan schrijf je -en-. Boek wordt boeken, dus boekenkast. Pan wordt pannen, dus pannenkoek. Het gaat om de vorm, niet om de betekenis.\n\n## Een voorbeeld\n\nOp de menukaart van een Brugse tearoom staat 'pannenkoeken met suiker'. Wie op school 'pannekoek' leerde schrijven, vindt dat vreemd. Maar de spelling volgt hier gewoon de regel, ook al bak je de pannenkoek in één enkele pan.\n\n## Wat onderzoek zegt\n\nDe huidige regel stamt uit het Groene Boekje van 1995, toen de Nederlandse Taalunie de spelling herzag. Volgens het Genootschap Onze Taal leidde vooral de tussen-n toen tot veel ophef. In 2005 werd de regeling bijgesteld. Volgens Onze Taal verdween toen de oude uitzondering voor een dierennaam gevolgd door een plantennaam: 'paardebloem' werd officieel 'paardenbloem', want paard heeft alleen het meervoud paarden.\n\nEr blijven uitzonderingen. Is het eerste deel iets wat maar één keer bestaat, zoals de zon, dan komt er geen n: zonnestraal. Taaladvies.net, de taaladviesdienst van de Taalunie, waarschuwt bovendien dat er geen echte regels zijn voor het al dan niet voorkomen van een tussenklank: het gebruik bepaalt welke vorm gangbaar is. De spellingregel bepaalt daarna hoe je die klank schrijft.\n\n## Nuance of misverstand\n\nEen veelgehoord misverstand is dat de n 'meervoud' betekent, en dat pannenkoek dus 'koek van meerdere pannen' zou zijn. Dat klopt niet: de regel kijkt alleen naar de meervoudsvorm, niet naar wat je bedoelt. Daarom is het ook boekenkast, zelfs als er maar één boek in staat.\n\nVerder geldt de officiële spelling verplicht voor overheid en onderwijs. Volgens Onze Taal mag wie daar niet werkt ook 'pannekoek' schrijven, al is dat dan niet de officiële spelling.\n\n## Wat je ermee doet\n\nBij twijfel zeg je het meervoud van het eerste deel. Alleen -en? Dan -en-. Kan het ook op -s, zoals bij 'gedachte' (gedachten en gedachtes)? Dan geen n. Raadpleeg voor de lastige gevallen de officiële Woordenlijst Nederlandse Taal, die gratis online staat.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"28\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Kijk naar het meervoud van het eerste deel</text><rect x=\"20\" y=\"50\" width=\"140\" height=\"40\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"90\" y=\"75\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">pan → pannen</text><rect x=\"200\" y=\"50\" width=\"140\" height=\"40\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"270\" y=\"75\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">boek → boeken</text><line x1=\"90\" y1=\"92\" x2=\"90\" y2=\"122\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M84 120 L90 130 L96 120 Z\" fill=\"#fff\"/><line x1=\"270\" y1=\"92\" x2=\"270\" y2=\"122\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M264 120 L270 130 L276 120 Z\" fill=\"#fff\"/><text x=\"90\" y=\"152\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\">pannenkoek</text><text x=\"270\" y=\"152\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\">boekenkast</text><circle cx=\"90\" cy=\"175\" r=\"6\" fill=\"#06d6a0\"><animate attributeName=\"r\" values=\"3;9;3\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><circle cx=\"270\" cy=\"175\" r=\"6\" fill=\"#06d6a0\"><animate attributeName=\"r\" values=\"3;9;3\" dur=\"3s\" begin=\"1.5s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"208\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Alleen meervoud op -en? Dan schrijf je -en-</text></svg>",
+   "quiz": {
+    "q": "Waarom schrijf je 'pannenkoek' met een n?",
+    "o": [
+     "Omdat er meerdere pannen gebruikt worden",
+     "Omdat je de n duidelijk hoort",
+     "Omdat 'pan' alleen het meervoud 'pannen' heeft"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Onze Taal – pannekoek / pannenkoek",
+     "u": "https://onzetaal.nl/taalloket/pannekoek-pannenkoek"
+    },
+    {
+     "t": "Onze Taal – paardebloem / paardenbloem",
+     "u": "https://onzetaal.nl/taalloket/paardebloem-paardenbloem"
+    },
+    {
+     "t": "Taaladvies.net – Tussenklanken in samenstellingen",
+     "u": "https://taaladvies.net/tussenklanken-in-samenstellingen-van-zelfstandige-naamwoorden-algemeen/"
+    }
+   ],
+   "date": "2026-11-18T05:43:31Z"
   }
  ],
  "dives": [
