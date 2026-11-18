@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T05:45:23Z",
+ "updated": "2026-11-18T05:45:30Z",
  "cards": [
   {
    "cat": "wetenschap",
@@ -1524,6 +1524,74 @@
     }
    ],
    "date": "2026-11-18T05:45:23Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Een flamingo is roze door wat hij eet",
+   "body": "Flamingokuikens komen grijswit uit het ei. Hun roze kleur halen ze later uit hun voedsel: algen, pekelkreeftjes en larven vol carotenoïden zoals bètacaroteen. Enzymen breken die pigmenten af, de lever neemt ze op en zet ze af in veren en huid. Krijgen flamingo's die stoffen niet meer binnen, dan verbleekt hun verenkleed geleidelijk.",
+   "take": "Zie je in een dierentuin knalroze flamingo's? Dan krijgen ze waarschijnlijk extra carotenoïden in hun voer.",
+   "deep": "## Hoe het werkt\n\nCarotenoïden zijn rode, oranje en gele pigmenten die algen en planten aanmaken. Dieren kunnen ze niet zelf maken; ze moeten ze eten. Flamingo's filteren hun voedsel uit ondiep, vaak zout water: microscopische algen, pekelkreeftjes en vliegenlarven die op hun beurt algen eten.\n\nIn het lichaam van de flamingo breken spijsverteringsenzymen de carotenoïden af tot pigmenten die in vet oplossen. De lever neemt ze op en het lichaam zet ze af in nieuwe veren, in de huid en in de snavel. Omdat veren telkens opnieuw groeien, moet de vogel die kleurstof blijven binnenkrijgen.\n\n## Een voorbeeld\n\nIn dierentuinen, ook in België en Nederland, kun je flamingo's zien die vaak verrassend fel roze zijn. Ze leven daar niet in een zoutmeer vol pekelkreeftjes. Om die kleur te behouden, mengen verzorgers carotenoïden zoals bètacaroteen of canthaxanthine door hun voer. Zonder dat zouden ze er na een tijd een stuk bleker uitzien.\n\n## Wat onderzoek zegt\n\nVolgens het Smithsonian's National Zoo in Washington komen flamingokuikens uit met grijswitte donsveren en een rechte snavel. De roze kleur ontwikkelt zich langzaam: de eerste roze veren verschijnen rond een half jaar, en pas rond twee à drie jaar krijgt het verenkleed een diepere roze tint. De zoo noemt bètacaroteen, een roodoranje pigment dat in grote hoeveelheden in algen, pekelkreeftjes en larven van pekelvliegen zit, als bron van de kleur.\n\nBritannica en Smithsonian Magazine beschrijven hetzelfde mechanisme. Smithsonian vermeldt ook dat gevangen flamingo's carotenoïdesupplementen krijgen, omdat hun verenkleed anders zou verbleken.\n\n## Nuance of misverstand\n\nHet is niet zo dat flamingo's roze worden van garnalen alleen; algen en andere kleine diertjes spelen een even grote rol. Het is ook geen kwestie van 'te veel' eten: het gaat om pigment dat over maanden en jaren in nieuwe veren belandt.\n\nEen felroze flamingo is vaak een goed gevoede flamingo. Toch is kleur niet alles: jonge vogels zijn van nature nog bleek, dus een bleker exemplaar is niet automatisch slecht gevoed.\n\n## Wat je ermee doet\n\nOnthoud het principe: sommige dieren dragen letterlijk hun menu. Het zijn dezelfde soort pigmenten die je ook in oranje groenten zoals wortels vindt. Kijk bij je volgende dierentuinbezoek eens naar het verschil tussen jonge, grijze flamingo's en de volwassen dieren ernaast.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"15\" y=\"70\" width=\"80\" height=\"44\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"55\" y=\"90\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">algen</text><text x=\"55\" y=\"106\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"10\">carotenoïden</text><rect x=\"135\" y=\"70\" width=\"90\" height=\"44\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"90\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">pekel-</text><text x=\"180\" y=\"106\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">kreeftjes</text><line x1=\"95\" y1=\"92\" x2=\"128\" y2=\"92\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M126 86 L135 92 L126 98 Z\" fill=\"#fff\"/><line x1=\"225\" y1=\"92\" x2=\"258\" y2=\"92\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M256 86 L265 92 L256 98 Z\" fill=\"#fff\"/><circle r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M55 70 C90 40 150 40 180 68 C220 40 270 40 300 70\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><ellipse cx=\"305\" cy=\"100\" rx=\"34\" ry=\"20\" stroke=\"#fff\" stroke-width=\"2\" fill=\"#cccccc\"><animate attributeName=\"fill\" values=\"#cccccc;#ff6b9d;#ff6b9d;#cccccc\" keyTimes=\"0;0.5;0.9;1\" dur=\"8s\" repeatCount=\"indefinite\"/></ellipse><path d=\"M325 88 C340 60 330 40 318 40\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"295\" y1=\"120\" x2=\"295\" y2=\"170\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"312\" y1=\"120\" x2=\"312\" y2=\"170\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"305\" y=\"190\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">flamingo</text><text x=\"150\" y=\"160\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">Lever zet pigment af</text><text x=\"150\" y=\"176\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">in veren en huid</text><text x=\"180\" y=\"212\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Geen kleurrijk voedsel = verbleken</text></svg>",
+   "quiz": {
+    "q": "Welke kleur heeft een flamingokuiken als het uit het ei komt?",
+    "o": [
+     "Felroze",
+     "Grijswit",
+     "Oranje"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Smithsonian's National Zoo – Why are flamingos pink?",
+     "u": "https://nationalzoo.si.edu/animals/news/why-are-flamingos-pink-and-other-flamingo-facts"
+    },
+    {
+     "t": "Britannica – Why are flamingos pink?",
+     "u": "https://www.britannica.com/story/why-are-flamingos-pink"
+    },
+    {
+     "t": "Smithsonian Magazine – For some species, you really are what you eat",
+     "u": "https://www.smithsonianmag.com/science-nature/for-some-species-you-really-are-what-you-eat-40747423/"
+    }
+   ],
+   "date": "2026-11-18T05:45:30Z"
+  },
+  {
+   "cat": "geld",
+   "title": "De kartelrand op munten was een antidiefstalsysteem",
+   "body": "Toen munten nog van echt zilver en goud waren, sneden oplichters stukjes van de rand af en verkochten dat metaal: 'clipping'. Een gekartelde rand maakte die diefstal meteen zichtbaar. De Britse Royal Mint gebruikte zo'n rand vanaf de jaren 1660. Isaac Newton vond hem niet uit, maar joeg later als muntbeheerder op valsemunters.",
+   "take": "Voel aan de rand van je euromunten: elk opeenvolgend muntstuk heeft een andere rand, zodat je ze zelfs blind uit elkaar houdt.",
+   "deep": "## Hoe het werkt\n\nEeuwenlang was de waarde van een munt grotendeels de waarde van het edelmetaal erin. Wie van elke munt die door zijn handen ging een dun randje afschaafde, verzamelde na een tijd een hoopje zilver, terwijl hij de munten zelf gewoon weer uitgaf. Dat heette clipping. Een gladde munt verraadde dat nauwelijks: hij werd gewoon een tikje kleiner.\n\nEen gekartelde of beschreven rand loste dat op. Schaaf je er iets af, dan verdwijnen de ribbels of de letters en ziet iedereen dat er met de munt geknoeid is.\n\n## Een voorbeeld\n\nNeem een handvol euromunten uit je portemonnee. Je hoeft niet meer bang te zijn dat iemand zilver afknipt, want ze bevatten geen edelmetaal. Toch hebben ze nog randen met ribbels, inkepingen of een gladde rand. Die erfenis kreeg een nieuwe functie: de randen helpen blinden en slechtzienden de munten te herkennen, en de randbelettering op de munt van 2 euro bemoeilijkt namaak.\n\n## Wat onderzoek zegt\n\nDe Royal Mint schrijft dat gekartelde randen vanaf de zeventiende eeuw werden ingevoerd tegen het waardeverlies door clipping, en op Britse munten werden gebruikt vanaf de jaren 1660. Op sommige zilveren en gouden munten stond op de rand het Latijnse motto 'Decus et Tutamen': een sieraad en een beveiliging. Dat motto stond later nog op de Britse pondmunt van 1983.\n\nIsaac Newton werd in 1696 warden van de Royal Mint en in 1699 Master of the Mint. Volgens de Royal Mint was bij zijn aankomst naar schatting tot één op de tien munten in omloop vals. Newton liet valsemunters opsporen en vervolgen.\n\nBij de euro ontwierpen de Europese Commissie en de ECB de munten zo dat elke opeenvolgende munt in de reeks een andere rand heeft. Samen met de grootte moet dat blinden en slechtzienden helpen de waarden te onderscheiden.\n\n## Nuance of misverstand\n\nJe leest vaak dat Newton de kartelrand heeft uitgevonden. Volgens de eigen geschiedschrijving van de Royal Mint klopt dat niet: de rand bestond al voor hij er in 1696 begon. Newton bestreed vooral valsemunterij en hielp de munt te hervormen.\n\nOok vandaag is de rand geen sluitende beveiliging. Moderne munten krijgen daarnaast andere kenmerken, zoals speciale legeringen en de combinatie van twee metalen.\n\n## Wat je ermee doet\n\nOnthoud het principe achter de kartelrand: maak fraude zichtbaar in plaats van onmogelijk. Dat idee zie je terug in verzegelingen op verpakkingen en in het watermerk op een bankbiljet. En wie zijn kleingeld snel wil tellen zonder te kijken, kan oefenen met de randen te voelen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><circle cx=\"90\" cy=\"95\" r=\"50\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"90\" cy=\"95\" r=\"50\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"6\" stroke-dasharray=\"3 3\"><animateTransform attributeName=\"transform\" type=\"rotate\" from=\"0 90 95\" to=\"360 90 95\" dur=\"8s\" repeatCount=\"indefinite\"/></circle><text x=\"90\" y=\"99\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">gekarteld</text><text x=\"90\" y=\"168\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">knippen valt op</text><circle cx=\"270\" cy=\"95\" r=\"50\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"r\" values=\"50;38;50\" dur=\"5s\" repeatCount=\"indefinite\"/></circle><text x=\"270\" y=\"99\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">gladde rand</text><text x=\"270\" y=\"168\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\">stilletjes kleiner</text><text x=\"180\" y=\"30\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Zilver afknippen = gratis metaal</text><text x=\"180\" y=\"205\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">De rand verraadt wie aan de munt zat</text></svg>",
+   "quiz": {
+    "q": "Waarom kregen zilveren munten vroeger een gekartelde rand?",
+    "o": [
+     "Om ze beter te kunnen vastnemen",
+     "Om ze mooier te maken voor verzamelaars",
+     "Om het afknippen van metaal zichtbaar te maken"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "The Royal Mint – The Milled Edge Motif",
+     "u": "https://886.royalmint.com/blogs/the-journal/the-milled-edge-motif"
+    },
+    {
+     "t": "The Royal Mint – Sir Isaac Newton: did you know?",
+     "u": "https://blog.royalmint.com/sir-isaac-newton-did-you-know-this-about-him/"
+    },
+    {
+     "t": "Europese Commissie – Types of euro coins",
+     "u": "https://economy-finance.ec.europa.eu/euro/euro-coins-and-notes/euro-coins/types-euro-coins_en"
+    },
+    {
+     "t": "ECB – Visually impaired people",
+     "u": "https://www.ecb.europa.eu/euro/visually/html/index.en.html"
+    }
+   ],
+   "date": "2026-11-18T05:45:30Z"
   }
  ],
  "dives": [
