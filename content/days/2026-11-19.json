@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T05:45:18Z",
+ "updated": "2026-11-19T05:46:06Z",
  "cards": [
   {
    "cat": "wetenschap",
@@ -1192,6 +1192,334 @@
     }
    ],
    "date": "2026-11-19T05:45:18Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Homo erectus overleefde in het Chinese regenwoud",
+   "body": "Twee studies in Nature (18 november) beschrijven negen tanden uit twee grotten in Guangxi, Zuid-China. Acht zijn van Homo erectus, 324.000 tot 184.000 jaar oud. Isotopen in het tandglazuur tonen een dieet uit dicht, schaduwrijk bos. Dat ondergraaft het idee dat alleen onze eigen soort het regenwoud aankon.",
+   "take": "Lees 'de oudste' of 'de laatste' in een krantenkop als 'de oudste die we tot nu toe vonden en betrouwbaar dateerden'.",
+   "deep": "## Hoe het werkt\n\nEen fossiele tand is een klein archief. Tandglazuur is het hardste weefsel van het lichaam en verandert na de dood nauwelijks. Bij het eten bouw je atomen uit je voedsel in je glazuur in. Planten in een dicht, schaduwrijk bos hebben een andere verhouding tussen zware en lichte koolstofatomen dan grassen op een open vlakte. Meet je die koolstofisotopen in het glazuur, dan weet je ongeveer waar het dieet vandaan kwam. Strontiumisotopen werken als een geologische vingerafdruk: ze verraden op welk soort gesteente iemand als kind opgroeide.\n\nDe ouderdom bepalen is een apart vak. Onderzoekers combineren meerdere dateringsmethoden op de tanden zelf en op de lagen en kalkafzettingen in de grot eromheen. Kloppen de uitkomsten met elkaar, dan wordt de leeftijd betrouwbaar.\n\n## Een voorbeeld\n\nHet team, geleid door Kira Westaway van Macquarie University, vond negen tanden in de grotten Baxian en Naxian, zo'n 15 kilometer van elkaar. Acht zijn van Homo erectus, de negende is mogelijk van een Denisovamens. In dezelfde lagen lagen fossielen van orang-oetans en een uitgestorven bosolifant: typische regenwouddieren. Vergelijk het met een rijk gevuld Vlaams leemlaagje bij een opgraving: wat ernaast ligt, vertelt hoe het landschap eruitzag.\n\n## Wat onderzoek zegt\n\nDe twee artikels verschenen op 18 november 2026 in Nature. De tanden van Homo erectus zijn 324.000 tot 184.000 jaar oud, dateringen gebaseerd op vijf technieken. De koolstofisotopen van de dieren wijzen op een dieet volledig uit schaduwrijk bos, zonder graslandsignaal, en de mensentanden geven een gelijkaardig beeld. Strontium suggereert dat sommige individuen als kind grote afstanden aflegden. Tot nu toe dachten onderzoekers dat het oprukkende regenwoud de laatste Homo erectus in de regio net mee de das omdeed, en dat alleen Homo sapiens zulk bos kon benutten.\n\n## Nuance of misverstand\n\nHet bewijs voor het regenwoud steunt vooral op de dierenfossielen en de isotopen. Er zijn geen stenen werktuigen beschreven, dus hoe ze er precies leefden, blijft open. De identificatie van de negende tand als Denisovaan wordt nog verder onderzocht. En 'laatste' betekent hier: de jongste stevig gedateerde vondst op het Chinese vasteland, niet het absolute einde van de soort.\n\n## Wat je ermee doet\n\nOnthoud dat menselijke evolutie geen rechte ladder is, maar een struik met soorten die lang naast elkaar leefden. Zie je een museumtijdlijn met één mens per tijdvak, vraag je dan af welke takken er tegelijk waren. En als je zelf iets dateert of meet: vertrouw meer op meerdere onafhankelijke methoden die hetzelfde zeggen dan op één spectaculaire meting.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><line x1=\"30\" y1=\"120\" x2=\"330\" y2=\"120\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"105\" y=\"108\" width=\"120\" height=\"24\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"105\" y=\"150\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">324.000</text><text x=\"225\" y=\"150\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">184.000</text><text x=\"320\" y=\"150\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">nu</text><text x=\"165\" y=\"98\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">tanden in grotten</text><circle cx=\"105\" cy=\"120\" r=\"7\" fill=\"#ffd166\"><animate attributeName=\"cx\" values=\"105;225;225;105\" keyTimes=\"0;0.6;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><path d=\"M55 70 L45 90 L65 90 Z\" fill=\"#06d6a0\"/><line x1=\"55\" y1=\"90\" x2=\"55\" y2=\"100\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M80 62 L68 90 L92 90 Z\" fill=\"#06d6a0\"/><line x1=\"80\" y1=\"90\" x2=\"80\" y2=\"100\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"40\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\">Homo erectus in het regenwoud</text><text x=\"180\" y=\"185\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">jaren geleden (Guangxi, Zuid-China)</text></svg>",
+   "quiz": {
+    "q": "Hoe weten onderzoekers dat deze Homo erectus in dicht bos leefde?",
+    "o": [
+     "Uit koolstofisotopen in tandglazuur en de dieren ernaast",
+     "Uit stenen bijlen voor het kappen van bomen",
+     "Uit DNA van bladeren in hun tandsteen"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "CNN – Teeth Homo erectus China",
+     "u": "https://edition.cnn.com/2026/11/18/science/teeth-homo-erectus-china"
+    },
+    {
+     "t": "Nature – Rainforest adaptation in late Homo erectus",
+     "u": "https://www.nature.com/articles/s41586-026-11155-6"
+    },
+    {
+     "t": "Phys.org – Ancient teeth confirm Homo erectus",
+     "u": "https://phys.org/news/2026-11-ancient-teeth-homo-erectus-survived.html"
+    }
+   ],
+   "date": "2026-11-19T05:46:06Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Ouder brein spoelt zich 's nachts minder goed",
+   "body": "MIT-onderzoekers (Nature Aging, 13 november) maten tijdens de slaap tegelijk hersengolven en de stroom van hersenvocht. Bij volwassenen van 60 tot 84 jaar waren de vochtgolven die afval wegvoeren zwakker dan bij jongeren. Dat lag niet louter aan minder slaap, maar aan zwakkere trage hersengolven en een minder soepele bloedstroom.",
+   "take": "Bescherm je diepe slaap: vaste bedtijden, een koele donkere kamer en geen alcohol vlak voor het slapengaan.",
+   "deep": "## Hoe het werkt\n\nJe hersenen verbruiken veel energie en maken daarbij afvalstoffen. Ze hebben geen klassiek lymfestelsel zoals de rest van je lichaam. In plaats daarvan stroomt hersenvocht (cerebrospinaal vocht) langs en door het hersenweefsel en neemt het afval mee. In de diepe, droomloze slaap gebeurt iets bijzonders: grote groepen zenuwcellen vuren tegelijk en vallen dan tegelijk stil. Dat zijn de trage golven die je op een EEG ziet. Telkens als de activiteit wegzakt, daalt de hoeveelheid bloed in de hersenen even. In die vrijgekomen ruimte golft hersenvocht naar binnen. Zo ontstaat een ritmische spoelbeweging, ongeveer zoals een golf die op het strand komt en weer terugtrekt.\n\n## Een voorbeeld\n\nDenk aan een vaatwasser die 's nachts draait. Bij een jong brein is het een krachtig programma met stevige spoelstoten. Bij veel oudere hersenen draait hetzelfde programma, maar met minder waterdruk. De vaat wordt nog wel nat, maar het vuil gaat er minder goed af. Je grootouders slapen misschien even lang als vroeger, maar het spoelen zelf kan zwakker zijn.\n\n## Wat onderzoek zegt\n\nHet team van Laura Lewis aan MIT publiceerde de studie in november 2026 in Nature Aging. Deelnemers sliepen 's nachts in een MRI-scanner terwijl een EEG hun hersengolven registreerde. Bij oudere volwassenen (60 tot 84 jaar, zonder diagnose van een neurodegeneratieve ziekte) waren de vochtgolven tijdens de slaap duidelijk kleiner. Bij jongeren hoorden sterkere trage golven bij grotere vochtgolven. Een statistisch model wees erop dat een zwakkere koppeling tussen zenuwactiviteit en bloedstroom een groot deel van de daling verklaarde. Opvallend: sommige ouderen hadden nog vochtgolven zoals jonge mensen.\n\n## Nuance of misverstand\n\nKrantenkoppen leggen snel een link met alzheimer of dementie. Deze studie toont dat verband niet aan: ze meet vochtstroming bij gezonde ouderen, geen ziekte of geheugenverlies. Ze meet ook niet rechtstreeks hoeveel afval er wordt afgevoerd. Eerder werk van hetzelfde lab toonde dat korte stootjes roze ruis tijdens de slaap de vochtstroom bij jongeren versterkten, maar of dat bij ouderen werkt, is niet getest. Koop dus nog geen gadget op basis van dit onderzoek.\n\n## Wat je ermee doet\n\nDiepe slaap is geen verloren tijd, maar onderhoud. Je kunt je eigen trage-golfslaap niet meten met een gewone smartwatch, maar je kunt hem wel kansen geven: regelmatige slaaptijden, voldoende beweging overdag, en geen alcohol of zware maaltijd vlak voor bed. Het lab onderzoekt nu waarom sommige ouderen hun sterke spoelgolven behouden; dat kan later concrete tips opleveren.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"90\" y=\"30\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">jonger</text><text x=\"270\" y=\"30\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">ouder (60-84)</text><ellipse cx=\"90\" cy=\"85\" rx=\"55\" ry=\"38\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><ellipse cx=\"270\" cy=\"85\" rx=\"55\" ry=\"38\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M30 160 Q45 125 60 160 T90 160 T120 160 T150 160\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"6 4\"><animate attributeName=\"stroke-dashoffset\" values=\"0;-40\" dur=\"2s\" repeatCount=\"indefinite\"/></path><path d=\"M210 160 Q225 150 240 160 T270 160 T300 160 T330 160\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"6 4\"><animate attributeName=\"stroke-dashoffset\" values=\"0;-40\" dur=\"2s\" repeatCount=\"indefinite\"/></path><circle r=\"5\" fill=\"#06d6a0\"><animateMotion dur=\"3s\" repeatCount=\"indefinite\" path=\"M40 110 Q90 60 140 110\"/></circle><circle r=\"3\" fill=\"#ffd166\"><animateMotion dur=\"3s\" repeatCount=\"indefinite\" path=\"M220 110 Q270 90 320 110\"/></circle><text x=\"90\" y=\"90\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">hersenvocht</text><text x=\"270\" y=\"90\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">hersenvocht</text><text x=\"180\" y=\"195\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">diepe slaap: trage golven duwen vocht</text><text x=\"180\" y=\"212\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">ouder brein: kleinere golven</text></svg>",
+   "quiz": {
+    "q": "Wat drijft volgens het onderzoek de spoelgolven van hersenvocht tijdens de slaap?",
+    "o": [
+     "Snelle oogbewegingen tijdens het dromen",
+     "Trage hersengolven in de diepe slaap",
+     "Het aantal uren dat je in bed ligt"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "MIT News – Waste-clearing waves impaired in older adults",
+     "u": "https://news.mit.edu/2026/waste-clearing-waves-in-brain-during-sleep-are-impaired-in-older-adults-1113"
+    },
+    {
+     "t": "Nature Aging – The aging human brain exhibits reduced CSF flow waves",
+     "u": "https://www.nature.com/articles/s43587-026-01270-4"
+    }
+   ],
+   "date": "2026-11-19T05:46:06Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Eén testscript liet 178 grote sites malware serveren",
+   "body": "Op 16 november liep er kwaadaardige code mee in het A/B-testplatform Optimizely Web Experimentation. Beveiligingsonderzoeker Scott Helme vond besmette scripts bij 178 organisaties, onder wie Zoom, BBC, CNN en IKEA. De code probeerde betaalkaartgegevens te stelen en cryptoadressen te vervangen. Optimizely wijt het aan een lek in het aanmeldproces.",
+   "take": "Bouw je zelf een website? Lijst alle externe scripts op en schrap wat je niet echt nodig hebt.",
+   "deep": "## Hoe het werkt\n\nModerne websites bestaan voor een groot deel uit code van anderen. Wil een merk testen of een groene of een blauwe knop beter verkoopt, dan plakt het een klein stukje JavaScript van een testbedrijf in zijn pagina. Elke bezoeker laadt dat script rechtstreeks van de servers van de leverancier. Daar zit de zwakke plek: zo'n script draait in je browser met dezelfde rechten als de site zelf. Het kan alles lezen wat je intypt, ook je kaartnummer, en de pagina ongemerkt aanpassen.\n\nDit heet een aanval via de toeleveringsketen. De aanvaller hoeft de bank of de krant niet zelf te kraken; het volstaat om één leverancier binnen te dringen die bij honderden klanten op de pagina staat. Omdat de code van een vertrouwd domein komt, ziet je browser niets verdachts.\n\n## Een voorbeeld\n\nStel dat je in een webwinkel je bankkaart invult. De winkel is veilig, het slotje staat in de adresbalk. Maar een extern testscript op dezelfde pagina leest elk cijfer mee en stuurt het door. Dat is een 'skimmer', de digitale versie van een valse kaartlezer op een bankautomaat.\n\n## Wat onderzoek zegt\n\nScott Helme van Report URI controleerde 1.611 verschillende Optimizely-scripts en vond er 188 met kwaadaardige code, van 178 organisaties, onder wie Zoom, BBC, CNN, Salesforce, IKEA, HSBC en Air France-KLM. Hij waarschuwt dat het echte aantal waarschijnlijk hoger ligt. Volgens onderzoekers stond de code zo'n 17 uur live. Ze beschrijven een kaartskimmer en een 'clipper' die gekopieerde cryptoadressen vervangt door die van de aanvaller. Optimizely meldde op 17 november dat een onbevoegde partij een kwetsbaarheid in de aanmeldflow had misbruikt om code toe te voegen aan klantprojecten; het lek is gedicht. Zoom schakelde Optimizely uit voorzorg uit.\n\n## Nuance of misverstand\n\nEr werden geen servers van de getroffen merken gehackt; de code kwam via de leverancier. Dat betekent niet dat elke bezoeker in die uren slachtoffer werd: hoeveel mensen echt gegevens kwijt zijn, is nog onbekend. Ook 'https' of het slotje helpt hier niet. Dat beschermt de verbinding, niet wat er op de pagina draait.\n\n## Wat je ermee doet\n\nAls websitebeheerder of marketeer: houd een lijst bij van alle externe scripts, beperk wie ze mag aanpassen en gebruik tweestapsverificatie op die accounts. Een Content Security Policy beperkt van waar scripts mogen komen en waarheen ze data mogen sturen. Als gebruiker: kijk je kaartafschriften na, en betaal online liefst met een methode waarbij je bank elke betaling apart laat bevestigen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"15\" y=\"80\" width=\"80\" height=\"44\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"140\" y=\"80\" width=\"80\" height=\"44\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"265\" y=\"80\" width=\"80\" height=\"44\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"55\" y=\"106\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">leverancier</text><text x=\"180\" y=\"106\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">merksite</text><text x=\"305\" y=\"106\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">jouw browser</text><line x1=\"95\" y1=\"102\" x2=\"133\" y2=\"102\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M140 102 L132 97 L132 107 Z\" fill=\"#fff\"/><line x1=\"220\" y1=\"102\" x2=\"258\" y2=\"102\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M265 102 L257 97 L257 107 Z\" fill=\"#fff\"/><circle r=\"6\" fill=\"#ff6b9d\"><animateMotion dur=\"4s\" repeatCount=\"indefinite\" path=\"M55 70 Q180 20 305 70\"/></circle><text x=\"180\" y=\"40\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">script met volle rechten</text><text x=\"55\" y=\"150\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">aanvaller kaapt</text><text x=\"55\" y=\"164\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">account</text><text x=\"305\" y=\"150\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">skimmer leest</text><text x=\"305\" y=\"164\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">kaartgegevens</text><text x=\"180\" y=\"200\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">178 organisaties, ongeveer 17 uur</text></svg>",
+   "quiz": {
+    "q": "Waarom was deze aanval zo moeilijk te zien voor bezoekers?",
+    "o": [
+     "De aanvallers schakelden het slotje in de adresbalk uit",
+     "De websites van de merken zelf waren volledig overgenomen",
+     "De code kwam van een vertrouwde leverancier die al op de pagina stond"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "The Register – Optimizely hack",
+     "u": "https://www.theregister.com/cyber-crime/2026/11/17/optimizely-hack-turns-worlds-biggest-websites-into-malware-dispensers/5310448"
+    },
+    {
+     "t": "Report URI – Brands infected via Optimizely",
+     "u": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/"
+    },
+    {
+     "t": "CMSWire – Optimizely signup flaw",
+     "u": "https://www.cmswire.com/digital-experience/optimizely-works-through-web-experimentation-security-incident/"
+    }
+   ],
+   "date": "2026-11-19T05:46:06Z"
+  },
+  {
+   "cat": "tech",
+   "title": "De grootste datacenters slurpen 1,8% van Amerika's stroom",
+   "body": "Een Harvard-studie in Nature Sustainability (16 november) schat dat 403 Amerikaanse 'hyperscale' datacenters tussen mei 2024 en april 2025 zo'n 82 terawattuur stroom gebruikten: 1,8% van het Amerikaanse verbruik. Goed voor ongeveer 26 miljoen ton CO2. Ongeveer 54% van die stroom kwam uit fossiele centrales.",
+   "take": "Zie je een stroomcijfer van een techbedrijf? Vraag of het gemeten, geschat of zelf gerapporteerd is.",
+   "deep": "## Hoe het werkt\n\nEen datacenter is een gebouw vol servers: computers zonder scherm die dag en nacht rekenen, opslaan en doorsturen. Bijna alle stroom die erin gaat, wordt uiteindelijk warmte. Daarom gaat een flink deel van het verbruik ook naar koeling. 'Hyperscale' slaat op de allergrootste installaties van cloud- en AI-bedrijven, met tienduizenden servers per site.\n\nHet lastige: niemand publiceert per gebouw hoeveel stroom er echt van het net komt. Bedrijven rapporteren wel totalen in duurzaamheidsverslagen, maar zelden per locatie. De Harvard-onderzoekers bouwden daarom een schatting op uit drie stukken: het maximale vermogen van elke site, vermenigvuldigd met het aantal uren in een jaar, vermenigvuldigd met een inschatting van hoe zwaar het datacenter gemiddeld draait. Om de uitstoot te berekenen, koppelden ze elke site aan de centrales in haar regio via gegevens van het Amerikaanse milieuagentschap EPA.\n\n## Een voorbeeld\n\nVergelijk het met je eigen elektrische auto. Je weet het vermogen van de laadpaal en hoeveel uur hij aan de lader hangt, maar niet hoe vol de batterij al was. Met een redelijke gok over dat laatste kom je toch dicht bij je verbruik. Hoe beter die gok, hoe beter de schatting.\n\n## Wat onderzoek zegt\n\nHet team vertrok van 675 mogelijke locaties uit een commerciële databank en bevestigde er 403 met satellietbeelden en kaarten van gebouwen. In het centrale scenario verbruikten ze zo'n 82 TWh tussen mei 2024 en april 2025, ongeveer 1,8% van alle Amerikaanse elektriciteit, met circa 25,7 miljoen ton CO2. Afhankelijk van de aannames ligt het verbruik tussen 68 en 99 TWh. Zo'n 54% van de toegewezen stroom kwam uit fossiele bronnen. De auteurs gebruikten bewust geen cijfers uit de eigen verslagen van de bedrijven.\n\n## Nuance of misverstand\n\nDe 1,8% geldt alleen voor deze 403 grootste sites, niet voor alle datacenters in de VS. Het is ook een momentopname van een sector die snel groeit. En het is een schatting: kleine wijzigingen in de aangenomen benuttingsgraad verschuiven het resultaat stevig, vandaar de bandbreedte van 68 tot 99 TWh. De studie mat geen gezondheidseffecten.\n\n## Wat je ermee doet\n\nLeer bij elk groot energiecijfer drie vragen stellen: wat is precies gemeten, wat is geschat, en wie levert de data? Bij AI hoor je vaak dat 'de cloud' immaterieel is; dit onderzoek toont dat er gebouwen, stroomkabels en centrales achter zitten. Ook in Vlaanderen komen datacenters in het debat over stroomnet en vergunningen: kijk dan naar het verwachte vermogen én naar waar die stroom vandaan komt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"28\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">stroomverbruik schatten zonder meter</text><rect x=\"20\" y=\"60\" width=\"90\" height=\"40\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"65\" y=\"85\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">capaciteit</text><text x=\"125\" y=\"85\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\">×</text><rect x=\"140\" y=\"60\" width=\"80\" height=\"40\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"85\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">uren/jaar</text><text x=\"235\" y=\"85\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\">×</text><rect x=\"250\" y=\"60\" width=\"90\" height=\"40\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"295\" y=\"85\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">benutting</text><line x1=\"180\" y1=\"105\" x2=\"180\" y2=\"128\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M180 135 L175 127 L185 127 Z\" fill=\"#fff\"/><rect x=\"110\" y=\"140\" width=\"140\" height=\"40\" rx=\"6\" fill=\"rgba(255,209,102,0.25)\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0.4;1;0.4\" dur=\"3s\" repeatCount=\"indefinite\"/></rect><text x=\"180\" y=\"165\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">± 82 TWh per jaar</text><text x=\"180\" y=\"205\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">403 datacenters = 1,8% van VS-stroom</text></svg>",
+   "quiz": {
+    "q": "Hoe schatten de onderzoekers het stroomverbruik van de datacenters?",
+    "o": [
+     "Ze lazen de elektriciteitsmeters van elk gebouw af",
+     "Ze namen de cijfers uit de duurzaamheidsverslagen van de bedrijven",
+     "Capaciteit maal uren per jaar maal een geschatte benuttingsgraad"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Harvard Chan School – Hyperscale data centers",
+     "u": "https://hsph.harvard.edu/news/hyperscale-data-centers-energy-consumption-carbon-emissions-newly-estimated-by-researchers/"
+    },
+    {
+     "t": "The Washington Post – Data centers 2 percent",
+     "u": "https://www.washingtonpost.com/technology/2026/11/16/data-centers-take-up-almost-2-percent-us-electricity-use-study-shows/"
+    },
+    {
+     "t": "Tom's Hardware – 403 hyperscale data centers",
+     "u": "https://www.tomshardware.com/tech-industry/data-centers/403-hyperscale-us-data-centers-used-staggering-82-terawatts-of-electricity-in-a-year-more-than-80-percent-of-michigans-entire-consumption-generated-26-million-tons-of-co2-in-a-single-year-gas-and-coal-supplied-54-percent-of-the-power-harvard-led-study-estimates"
+    }
+   ],
+   "date": "2026-11-19T05:46:06Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Niet elke BRCA2-fout geeft hetzelfde kankerrisico",
+   "body": "Mayo Clinic onderzocht 70 BRCA2-varianten die het gen maar gedeeltelijk uitschakelen (Nature Communications, gemeld op 17 november). Draagsters hebben naar schatting 20 tot 25% levenslang risico op borstkanker, tegenover 50 tot 70% bij klassieke BRCA2-fouten en ongeveer 13% gemiddeld. Dat kan keuzes over screening en preventieve operaties veranderen.",
+   "take": "Krijg je een DNA-uitslag met 'BRCA2'? Vraag je arts of genetisch counselor welke variant het is en welk risico daarbij hoort.",
+   "deep": "## Hoe het werkt\n\nBRCA2 is geen 'kankergen' maar juist een herstelgen. Het eiwit dat het aanmaakt, helpt breuken in beide strengen van het DNA netjes te repareren. Daarbij gebruikt de cel de intacte kopie van het chromosoom als sjabloon. Werkt BRCA2 niet, dan valt de cel terug op slordigere herstelmethoden. Er stapelen zich fouten op, en vroeg of laat kan een cel ontsporen tot kanker.\n\nJe erft van elke ouder een kopie. Wie één kapotte kopie erft, heeft in elke cel nog één goede. Pas als in een borstcel ook die tweede kopie uitvalt, gaat het mis. Daarom is het een verhoogd risico en geen zekerheid.\n\nNu blijkt: niet elke fout schakelt het gen volledig uit. Sommige varianten laten een deel van de herstelfunctie intact. Die heten hypomorf of varianten met verminderde penetrantie.\n\n## Een voorbeeld\n\nVergelijk het met de remmen van een auto. Een klassieke BRCA2-fout is als een remleiding die volledig lek is. Een hypomorfe variant is als versleten remblokken: je remt nog, maar minder goed. Beide zijn een probleem, maar je hoeft er niet hetzelfde mee te doen.\n\n## Wat onderzoek zegt\n\nHet team rond Fergus Couch van Mayo Clinic, samen met Ambry Genetics, bekeek 70 zulke BRCA2-varianten. Draagsters hebben naar schatting 20 tot 25% kans om ooit borstkanker te krijgen. Bij de bekende, schadelijke BRCA2-varianten is dat 50 tot 70%, bij een gemiddelde vrouw ongeveer 13%. De onderzoekers zeggen dat deze draagsters nog baat kunnen hebben bij regelmatige mammografie en MRI. Sommige tumoren die bij deze varianten horen, kunnen reageren op PARP-remmers: geneesmiddelen die net cellen met een zwak DNA-herstel uitschakelen.\n\n## Nuance of misverstand\n\nLager is niet laag: 20 tot 25% is nog steeds bijna dubbel het gemiddelde. De cijfers zijn schattingen voor een groep, geen voorspelling voor één persoon; familiegeschiedenis en andere factoren spelen mee. En het onderzoek is nog niet af: volgens Couch moeten er nog meer zulke varianten geïdentificeerd worden.\n\n## Wat je ermee doet\n\nEen genetische test geeft niet alleen 'ja of nee' maar een specifieke variant. Vraag bij een uitslag altijd welke variant het is, hoe goed het risico ervan gekend is, en wat dat betekent voor screening. Vooral bij de ingrijpende keuze voor een preventieve borstamputatie kan een preciezere risicoschatting het verschil maken. In België lopen zulke vragen via de centra voor menselijke erfelijkheid.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"30\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\">Levenslang risico op borstkanker</text><line x1=\"120\" y1=\"50\" x2=\"120\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"120\" y=\"60\" width=\"0\" height=\"26\" fill=\"#06d6a0\"><animate attributeName=\"width\" values=\"0;39;39;0\" keyTimes=\"0;0.3;0.9;1\" begin=\"0s\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"112\" y=\"78\" text-anchor=\"end\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">gemiddeld</text><text x=\"167\" y=\"78\" text-anchor=\"start\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">13%</text><rect x=\"120\" y=\"100\" width=\"0\" height=\"26\" fill=\"#ffd166\"><animate attributeName=\"width\" values=\"0;68;68;0\" keyTimes=\"0;0.3;0.9;1\" begin=\"0s\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"112\" y=\"118\" text-anchor=\"end\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">mildere BRCA2</text><text x=\"196\" y=\"118\" text-anchor=\"start\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">20-25%</text><rect x=\"120\" y=\"140\" width=\"0\" height=\"26\" fill=\"#ff6b9d\"><animate attributeName=\"width\" values=\"0;180;180;0\" keyTimes=\"0;0.3;0.9;1\" begin=\"0s\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"112\" y=\"158\" text-anchor=\"end\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">klassieke BRCA2</text><text x=\"308\" y=\"158\" text-anchor=\"start\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">50-70%</text><text x=\"180\" y=\"205\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">70 varianten die het gen half laten werken</text></svg>",
+   "quiz": {
+    "q": "Wat doet het BRCA2-gen normaal in een gezonde cel?",
+    "o": [
+     "Het helpt breuken in het DNA te herstellen",
+     "Het zorgt ervoor dat borstweefsel groeit",
+     "Het maakt hormonen aan voor de borstklier"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Mayo Clinic News Network – BRCA2 gene changes",
+     "u": "https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-study-finds-some-brca2-gene-changes-carry-lower-breast-cancer-risk/"
+    },
+    {
+     "t": "KIMT – Rochester study breast cancer screening",
+     "u": "https://www.kimt.com/news/rochester-study-may-reshape-breast-cancer-screening-for-some-patients/article_04a3d59d-d7d8-4d47-80f8-b15b8786df14.html"
+    }
+   ],
+   "date": "2026-11-19T05:46:06Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Afslankprik werkt ook bij kinderen van zes",
+   "body": "In de STEP Young-studie (NEJM, 16 november) kregen 167 kinderen van 6 tot 11 jaar met obesitas semaglutide of een placebo. Na 68 weken daalde hun BMI met 13,5%, tegenover een stijging van 2,7% bij placebo. Na twee jaar was het verschil kleiner. Bijwerkingen, vooral maag en darmen, kwamen vaker voor.",
+   "take": "Bij een kind met overgewicht: bekijk de groeicurve samen met je huisarts of kinderarts, vóór je over medicatie begint.",
+   "deep": "## Hoe het werkt\n\nSemaglutide, bekend van Ozempic en Wegovy, bootst het darmhormoon GLP-1 na. Dat hormoon maakt je lichaam normaal aan na het eten. Het remt het legen van de maag, zodat je langer vol zit, en het geeft in de hersenen een signaal van verzadiging. Het natuurlijke hormoon is binnen enkele minuten afgebroken. Semaglutide is chemisch aangepast zodat het dagenlang blijft werken; daarom volstaat één prik per week.\n\nBij kinderen gebruiken artsen niet gewoon de BMI, want die verandert vanzelf met de leeftijd en verschilt tussen jongens en meisjes. Ze vergelijken de BMI met groeicurves van leeftijdsgenoten. Een kind dat groeit en tegelijk zijn gewicht behoudt, gaat al vooruit.\n\n## Een voorbeeld\n\nEen kind van negen in het derde leerjaar weegt fors meer dan zijn klasgenoten. Gezonder eten en meer bewegen hielpen onvoldoende. Een wekelijkse prik zou zijn honger dempen. De vraag waar deze studie op antwoordt: werkt dat ook zo jong, en is het verdraagbaar?\n\n## Wat onderzoek zegt\n\nIn de STEP Young-studie, gepubliceerd in The New England Journal of Medicine, kregen 112 kinderen semaglutide en 55 een placebo, naast begeleiding rond leefstijl. Na 68 weken daalde de BMI gemiddeld met 13,5% met het middel, en steeg ze met 2,7% met placebo: een verschil van ruim 16 procentpunten. Bij 79% van de kinderen met semaglutide zakte de BMI-categorie, tegenover 23% met placebo. Na 104 weken was het effect kleiner: -9,4% tegenover +8,4%. Bijwerkingen kwamen vaker voor met het middel, vooral misselijkheid en andere maag-darmklachten.\n\n## Nuance of misverstand\n\nDe studie betekent niet dat het middel nu goedgekeurd of standaard is voor kinderen onder 12 jaar. Fabrikant Novo Nordisk communiceerde eerder hogere cijfers, maar die gingen uit van kinderen die de behandeling volledig volhielden; de NEJM-cijfers tellen iedereen mee. Zoals bij volwassenen weten we nog weinig over gebruik over vele jaren, en de afname van het effect na twee jaar is een aandachtspunt. Obesitas bij kinderen blijft ook een kwestie van slaap, schermtijd, voeding en omgeving.\n\n## Wat je ermee doet\n\nLeer het verschil tussen 'werkt in een studie' en 'is goedgekeurd en aangewezen voor mijn kind'. Bezorgd over het gewicht van je kind? Begin bij de huisarts, kinderarts of het CLB, met de groeicurve als vertrekpunt. Medicatie kan in de toekomst een extra hulpmiddel worden, maar komt bovenop begeleiding, niet in de plaats ervan.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"28\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\">Verandering in BMI na 68 weken</text><line x1=\"40\" y1=\"100\" x2=\"320\" y2=\"100\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"90\" y=\"100\" width=\"60\" height=\"0\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"0;81;81;0\" keyTimes=\"0;0.35;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"210\" y=\"100\" width=\"60\" height=\"16\" fill=\"#ff6b9d\"><animate attributeName=\"y\" values=\"100;84;84;100\" keyTimes=\"0;0.35;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"height\" values=\"0;16;16;0\" keyTimes=\"0;0.35;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"120\" y=\"200\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">semaglutide: -13,5%</text><text x=\"240\" y=\"70\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">placebo: +2,7%</text><text x=\"180\" y=\"215\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">167 kinderen van 6 tot 11 jaar</text></svg>",
+   "quiz": {
+    "q": "Hoe werkt semaglutide vooral?",
+    "o": [
+     "Het verbrandt vet sneller tijdens het sporten",
+     "Het bootst een darmhormoon na dat verzadiging geeft",
+     "Het blokkeert de opname van suiker in de darm"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "NEJM – Semaglutide in children 6 to <12 years",
+     "u": "https://www.nejm.org/doi/full/10.1056/NEJMoa2604058"
+    },
+    {
+     "t": "Contemporary Pediatrics – Semaglutide cuts BMI 13.5%",
+     "u": "https://www.contemporarypediatrics.com/view/semaglutide-cuts-bmi-13-5-in-children-aged-6-to-11-with-obesity"
+    }
+   ],
+   "date": "2026-11-19T05:46:06Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Energie duwt de inflatie in de eurozone naar 4%",
+   "body": "Volgens de raming van Eurostat lagen de prijzen in de eurozone in oktober 4,0% hoger dan een jaar eerder, na 3,8% in september. Een jaar eerder was dat nog 2,1%. Energie is de grote drijver: volgens de snelle raming +20,8% op jaarbasis, tegenover +3,3% voor diensten en +1,6% voor voeding.",
+   "take": "Kijk naar je eigen grootste uitgaven: weegt energie zwaarder dan bij het gemiddelde gezin, dan voel je deze inflatie sterker.",
+   "deep": "## Hoe het werkt\n\nInflatie is hoeveel duurder een vaste boodschappenmand in een jaar is geworden. In de eurozone meet Eurostat dat met de geharmoniseerde consumptieprijsindex (HICP). Statistici volgen elke maand de prijzen van honderden soorten goederen en diensten: brood, huur, treinkaartjes, kappers, stroom. Elk onderdeel krijgt een gewicht volgens hoeveel huishoudens er gemiddeld aan uitgeven. Het jaarcijfer vergelijkt het gewogen totaal met dezelfde maand een jaar eerder.\n\nEurostat publiceert eerst een snelle raming, begin van de maand, en ongeveer twee weken later het definitieve cijfer met alle details per land. Zo werd 4,0% eerst geraamd op 4 november; het definitieve cijfer volgt een tweetal weken later.\n\nEnergie heeft een beperkt gewicht in de mand, maar haar prijzen schommelen enorm. Een sterke stijging trekt het totaal dus snel omhoog. Na een tijd sijpelt duurdere energie ook door in andere prijzen, zoals transport en voeding.\n\n## Een voorbeeld\n\nEen gezin dat vooral geld uitgeeft aan stookolie, gas en tanken, ziet zijn eigen kosten veel sneller stijgen dan 4%. Een student in een kot met vaste huur en weinig verplaatsingen merkt er minder van. Het officiële cijfer is een gemiddelde over miljoenen huishoudens; niemand koopt precies de officiële mand.\n\n## Wat onderzoek zegt\n\nVolgens Eurostat kwam de inflatie in de eurozone in oktober 2026 uit op 4,0%, na 3,8% in september en 2,1% een jaar eerder. Ook in de hele EU was het 4,0%. In de snelle raming stegen energieprijzen met 20,8% op jaarbasis, diensten met 3,3%, voeding, alcohol en tabak met 1,6% en overige goederen met 1,2%. Het definitieve cijfer bevestigde de raming.\n\n## Nuance of misverstand\n\n4% inflatie betekent niet dat alles 4% duurder is: de spreiding is groot, zoals de cijfers per onderdeel tonen. Een dalende inflatie betekent ook niet dat prijzen dalen, enkel dat ze trager stijgen. En jaarcijfers hebben een basiseffect: als energie een jaar geleden heel goedkoop of heel duur was, beïnvloedt dat het vergelijkingspunt en dus het percentage.\n\n## Wat je ermee doet\n\nLeg je eigen uitgaven naast de officiële mand: waar gaat jouw geld naartoe? In België volgt je loon via de automatische indexering de prijzen, maar met vertraging, en de Belgische index wijkt wat af van de Europese HICP. Spaargeld met een rente onder de inflatie verliest koopkracht. Vergelijk dus elke rente, huurverhoging of loonsverhoging met dit soort cijfers.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"28\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\">Inflatie eurozone, oktober 2026: 4,0%</text><line x1=\"40\" y1=\"170\" x2=\"330\" y2=\"170\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"55\" y=\"170\" width=\"50\" height=\"0\" fill=\"#ff6b9d\"><animate attributeName=\"height\" values=\"0;125;125;0\" keyTimes=\"0;0.3;0.9;1\" begin=\"0s\" dur=\"7s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"170;45;45;170\" keyTimes=\"0;0.3;0.9;1\" begin=\"0s\" dur=\"7s\" repeatCount=\"indefinite\"/></rect><text x=\"80\" y=\"190\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">energie</text><text x=\"80\" y=\"205\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">+20,8%</text><rect x=\"135\" y=\"170\" width=\"50\" height=\"0\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"0;20;20;0\" keyTimes=\"0;0.3;0.9;1\" begin=\"0.5s\" dur=\"7s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"170;150;150;170\" keyTimes=\"0;0.3;0.9;1\" begin=\"0.5s\" dur=\"7s\" repeatCount=\"indefinite\"/></rect><text x=\"160\" y=\"190\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">diensten</text><text x=\"160\" y=\"205\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">+3,3%</text><rect x=\"215\" y=\"170\" width=\"50\" height=\"0\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"0;10;10;0\" keyTimes=\"0;0.3;0.9;1\" begin=\"1s\" dur=\"7s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"170;160;160;170\" keyTimes=\"0;0.3;0.9;1\" begin=\"1s\" dur=\"7s\" repeatCount=\"indefinite\"/></rect><text x=\"240\" y=\"190\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">voeding</text><text x=\"240\" y=\"205\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">+1,6%</text><rect x=\"285\" y=\"170\" width=\"50\" height=\"0\" fill=\"#fff\"><animate attributeName=\"height\" values=\"0;8;8;0\" keyTimes=\"0;0.3;0.9;1\" begin=\"1.5s\" dur=\"7s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"170;162;162;170\" keyTimes=\"0;0.3;0.9;1\" begin=\"1.5s\" dur=\"7s\" repeatCount=\"indefinite\"/></rect><text x=\"310\" y=\"190\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">goederen</text><text x=\"310\" y=\"205\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">+1,2%</text></svg>",
+   "quiz": {
+    "q": "Wat betekent een jaarinflatie van 4,0%?",
+    "o": [
+     "Alle producten zijn precies 4% duurder geworden",
+     "Een gewogen mand van goederen en diensten kost 4% meer dan een jaar eerder",
+     "De prijzen stijgen elke maand met 4%"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Eurostat – Flash estimate October 2026",
+     "u": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-04112026-ap"
+    },
+    {
+     "t": "investingLive – Eurozone inflation hits 4%",
+     "u": "https://investinglive.com/news/eurozone-inflation-hits-4-for-first-time-since-2023-piling-pressure-on-ecb/"
+    }
+   ],
+   "date": "2026-11-19T05:46:06Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Zelfde reclamebudget, 30% meer bekendheid door slimmer verdelen",
+   "body": "Een Britse studie in opdracht van tv-organisatie Thinkbox, uitgevoerd door Ebiquity, Gain Theory en WPP Media, analyseerde 1.478 merken in 120 categorieën. Conclusie: door het mediabudget te herverdelen, vooral weg van betaalde sociale media, kan advertentiebekendheid 30% stijgen en de kortetermijnwinst 7%. Aandacht verklaart volgens de studie 86% van de impact.",
+   "take": "Vergelijk kanalen niet op prijs per vertoning, maar op wat een vertoning aan aandacht en herinnering oplevert.",
+   "deep": "## Hoe het werkt\n\nAdverteerders kopen vertoningen: het aantal keer dat een advertentie op een scherm verschijnt. Maar een vertoning is niet hetzelfde als een mens die kijkt. Een tv-spot die je in de zetel helemaal ziet, krijgt meer aandacht dan een advertentie waar je in een halve seconde voorbij scrolt. Advertentiebekendheid meet of mensen zich herinneren dat ze reclame van een merk zagen.\n\nOnderzoekers gebruiken hiervoor 'marketing mix modelling': statistische modellen die wekelijkse uitgaven per kanaal koppelen aan resultaten, zoals bekendheid of verkoop. Zo schatten ze wat een extra euro in elk kanaal oplevert, en wanneer dat rendement afvlakt. Daarna kun je doorrekenen wat er gebeurt als je hetzelfde budget anders verdeelt.\n\n## Een voorbeeld\n\nEen Vlaamse supermarktketen besteedt een groot deel van haar budget aan korte video's op sociale media, omdat die goedkoop per vertoning zijn. Als mensen er nauwelijks naar kijken, moet de keten ze heel vaak tonen voor hetzelfde effect. Een deel van dat geld naar tv of online video met meer aandacht verschuiven, kan dan meer opleveren zonder extra uitgaven.\n\n## Wat onderzoek zegt\n\nDe studie 'The Awareness Effect' gebruikte YouGov-data over 1.478 merken in 120 Britse categorieën en 12 kanalen. Het model, op basis van een jaarbudget van 15 miljoen pond, voorspelt 30% meer advertentiebekendheid en 7% meer winst op korte termijn, alleen door te herverdelen. Het voorgestelde plan snijdt gemiddeld 71% in betaalde sociale media. Tv levert meer dan de helft van de winst in bekendheid, en lineaire tv alleen ongeveer 39%. Aandacht bepaalt volgens de studie 86% van de 'bekendheidskracht' van een vertoning. TikTok had bijna tien keer zoveel vertoningen per persoon nodig als adresseerbare tv voor hetzelfde effect.\n\n## Nuance of misverstand\n\nDe opdrachtgever Thinkbox promoot commerciële tv in het Verenigd Koninkrijk. Het werk werd wel door drie onafhankelijke bureaus gedaan, maar een onafhankelijke herhaling ontbreekt nog. Het gaat om modelresultaten, geen echt experiment. En bekendheid is niet alles: sociale media kunnen sterk zijn voor directe verkoop of voor kleine merken met een smal publiek.\n\n## Wat je ermee doet\n\nVraag bij elk mediaplan wat er per kanaal echt gezien en onthouden wordt, niet alleen hoeveel vertoningen het oplevert. Test herverdelingen op kleine schaal, met een controleregio of -periode. En wees bij elke studie extra kritisch op wie ze betaalde.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"28\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\">Zelfde budget, andere mix</text><text x=\"90\" y=\"55\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">nu</text><text x=\"270\" y=\"55\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">herverdeeld</text><rect x=\"50\" y=\"70\" width=\"80\" height=\"60\" fill=\"#ff6b9d\"/><rect x=\"50\" y=\"130\" width=\"80\" height=\"50\" fill=\"#06d6a0\"/><rect x=\"230\" y=\"70\" width=\"80\" height=\"20\" fill=\"#ff6b9d\"/><rect x=\"230\" y=\"90\" width=\"80\" height=\"90\" fill=\"#06d6a0\"/><text x=\"90\" y=\"105\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">sociale media</text><text x=\"90\" y=\"160\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">tv</text><text x=\"270\" y=\"140\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">tv</text><line x1=\"140\" y1=\"125\" x2=\"212\" y2=\"125\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M220 125 L212 120 L212 130 Z\" fill=\"#fff\"/><circle cx=\"180\" cy=\"160\" r=\"14\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"r\" values=\"10;22;10\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"205\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">+30% advertentiebekendheid (model)</text></svg>",
+   "quiz": {
+    "q": "Wat is volgens de studie de belangrijkste factor achter de impact van een advertentievertoning?",
+    "o": [
+     "De prijs per vertoning",
+     "De lengte van de advertentie",
+     "De aandacht van de kijker"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Marketing Week – Ad awareness media spend",
+     "u": "https://www.marketingweek.com/ad-awareness-media-spend/"
+    },
+    {
+     "t": "The Media Leader – Attention and scale key",
+     "u": "https://uk.themedialeader.com/attention-and-scale-key-to-driving-ad-awareness/"
+    }
+   ],
+   "date": "2026-11-19T05:46:06Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Merken geven dit jaar 116 miljard uit aan creators",
+   "body": "Volgens Madison & Wall geven merken in 2026 wereldwijd 116 miljard dollar uit aan creators, 15% meer dan de 101 miljard van 2025. Tegen 2030 zou dat 178 miljard zijn: ongeveer 12% groei per jaar, dubbel zo snel als de totale reclamemarkt. De grootste post (44%) is geld om creatorcontent als betaalde advertentie te verspreiden.",
+   "take": "Werk je met influencers? Spreek vooraf af of je hun video ook als advertentie mag inzetten, en voor hoelang.",
+   "deep": "## Hoe het werkt\n\nEen creator, of influencer, is iemand die een eigen publiek opbouwt met video's, foto's of podcasts. Merken betalen creators op verschillende manieren. De klassieke manier: een gesponsorde post waarbij je betaalt om het publiek van de creator te bereiken. Steeds vaker betalen merken ook om de video zelf te gebruiken als advertentie, verspreid via hun eigen reclamebudget naar mensen die de creator niet volgen. En soms koopt een merk gewoon content: de creator maakt filmpjes zoals een klein productiehuis.\n\nWaarom werkt dat? Creatorvideo's ogen als gewone posts in je feed, voelen persoonlijker dan een gepolijste spot en zijn vaak goedkoper te maken. Het merk leent zo de geloofwaardigheid en de stijl van de creator.\n\n## Een voorbeeld\n\nEen Belgisch cosmeticamerk vraagt een bekende TikTokker om een eerlijke review. In plaats van die video alleen op het account van de creator te laten staan, koopt het merk het recht om hem drie maanden als advertentie te tonen aan vrouwen tussen 18 en 34 in Vlaanderen. Zo betaalt het merk voor de content én voor het bereik.\n\n## Wat onderzoek zegt\n\nMadison & Wall, het analysebureau van mediaonderzoeker Brian Wieser, raamt de uitgaven van adverteerders aan creators op 116 miljard dollar in 2026, na 101 miljard in 2025. Tegen 2030 verwacht het 178 miljard, zo'n 12% groei per jaar, tegenover 6% voor de totale reclamemarkt. Content verspreiden als betaalde media is de grootste post: 44% of 52 miljard dollar. De klassieke gesponsorde post via het publiek van de creator volgt met 28%. Content kopen zonder bereik is 12% van de markt, maar groeide tussen 2020 en 2025 met zo'n 20% per jaar. De VS waren vorig jaar goed voor 43% van de uitgaven. Volgens het bureau komt de groei vooral uit herverdeling van bestaand budget, onder meer weg van tv.\n\n## Nuance of misverstand\n\nDit zijn ramingen van één bureau, geen geteld totaal; vooral China is moeilijk te meten. Het bureau waarschuwt zelf dat de vergelijking met de reclamemarkt niet perfect is, omdat die cijfers bijvoorbeeld productiekosten niet meetellen. Meer geld betekent ook niet automatisch meer effect: deel twee van het rapport gaat net over versnippering, prijzen zonder standaard en moeilijke meting.\n\n## Wat je ermee doet\n\nBekijk een creatorvideo in je feed met nieuwe ogen: is het een spontane post of een advertentie die een merk verder verspreidt? In België moeten zulke samenwerkingen duidelijk als reclame herkenbaar zijn. Als marketeer: leg vooraf vast wie de rechten op de content heeft, hoe lang je hem mag gebruiken en hoe je het resultaat meet.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"28\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">Merkuitgaven aan creators (miljard dollar)</text><line x1=\"40\" y1=\"180\" x2=\"330\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"60\" y=\"180\" width=\"60\" height=\"0\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"0;71;71;0\" keyTimes=\"0;0.3;0.9;1\" begin=\"0s\" dur=\"7s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;109;109;180\" keyTimes=\"0;0.3;0.9;1\" begin=\"0s\" dur=\"7s\" repeatCount=\"indefinite\"/></rect><text x=\"90\" y=\"198\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">2025</text><text x=\"90\" y=\"101\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">101</text><rect x=\"150\" y=\"180\" width=\"60\" height=\"0\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"0;81;81;0\" keyTimes=\"0;0.3;0.9;1\" begin=\"0.6s\" dur=\"7s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;99;99;180\" keyTimes=\"0;0.3;0.9;1\" begin=\"0.6s\" dur=\"7s\" repeatCount=\"indefinite\"/></rect><text x=\"180\" y=\"198\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">2026</text><text x=\"180\" y=\"91\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">116</text><rect x=\"240\" y=\"180\" width=\"60\" height=\"0\" fill=\"#ff6b9d\"><animate attributeName=\"height\" values=\"0;125;125;0\" keyTimes=\"0;0.3;0.9;1\" begin=\"1.2s\" dur=\"7s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;55;55;180\" keyTimes=\"0;0.3;0.9;1\" begin=\"1.2s\" dur=\"7s\" repeatCount=\"indefinite\"/></rect><text x=\"270\" y=\"198\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">2030</text><text x=\"270\" y=\"47\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\">178</text><text x=\"180\" y=\"214\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">creators groeien 12%/jaar, reclamemarkt 6%</text></svg>",
+   "quiz": {
+    "q": "Wat is volgens Madison & Wall de grootste post in de creatoruitgaven van 2026?",
+    "o": [
+     "Creatorcontent verspreiden als betaalde advertentie",
+     "Gratis producten opsturen naar influencers",
+     "Klassieke gesponsorde posts op het account van de creator"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Madison and Wall – Marketers to spend $116 billion on creators",
+     "u": "https://madisonandwall.substack.com/p/marketers-to-spend-116-billion-on"
+    },
+    {
+     "t": "VideoWeek – Creator marketing cannibalising TV",
+     "u": "https://videoweek.com/2026/11/18/creator-marketing-is-cannibalising-tv-spend-finds-madison-wall/"
+    },
+    {
+     "t": "Digiday – $116B influencer market",
+     "u": "https://digiday.com/media-buying/brands-booking-creators-to-make-their-ads-are-pushing-up-116b-global-influencer-market/"
+    }
+   ],
+   "date": "2026-11-19T05:46:06Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Langdurige eenzaamheid weegt zwaarder dan af en toe eenzaam",
+   "body": "Onderzoekers uit Bordeaux volgden 3.777 Franse ouderen van 1988 tot 2018 (Aging & Mental Health, 17 november). Wie bij drie of vier metingen eenzaam was, had 38% meer kans op dementie dan wie nooit eenzaam was: 49% tegenover 33% kreeg dementie. Af en toe eenzaam zijn hing niet samen met een hoger risico.",
+   "take": "Ken je een oudere die al lang alleen lijkt te staan? Plan een vast, terugkerend contact in plaats van één losse bezoek.",
+   "deep": "## Hoe het werkt\n\nEenzaamheid is niet hetzelfde als alleen zijn. Psychologen omschrijven eenzaamheid als het pijnlijke gevoel dat je contacten niet zijn wat je zou willen, in aantal of in diepgang. Iemand kan alleen wonen en zich niet eenzaam voelen, en iemand kan in een druk gezin of huwelijk diep eenzaam zijn. Sociale isolatie is het objectieve deel: hoe weinig contacten je hebt. Eenzaamheid is het subjectieve deel.\n\nKortstondige eenzaamheid is een normaal signaal, zoals honger: een seintje om contact te zoeken. Het wordt een probleem als dat seintje jarenlang blijft aanstaan. Onderzoekers vermoeden dat chronische eenzaamheid het stress- en afweersysteem langdurig activeert, wat ontstekingen in het lichaam kan aanwakkeren. Dat is een mogelijke verklaring, niet iets wat deze studie zelf heeft getest.\n\n## Een voorbeeld\n\nEen weduwnaar voelt zich het eerste jaar na het overlijden van zijn vrouw erg eenzaam, maar vindt daarna aansluiting bij een wandelclub. Zijn buurvrouw woont al twintig jaar samen met haar man, maar ze praten nauwelijks en ze voelt zich bij elke bevraging eenzaam. Volgens deze studie hoort vooral zij bij de groep met een verhoogd risico.\n\n## Wat onderzoek zegt\n\nHet team uit Bordeaux gebruikte gegevens van een Franse studie die 3.777 ouderen volgde van 1988 tot 2018, met herhaalde bezoeken. Wie bij drie of vier metingen eenzaamheid meldde, gold als chronisch eenzaam: 17,3% van de deelnemers. In die groep kreeg 49,1% dementie, tegenover 33,1% bij wie nooit eenzaam was, wat neerkomt op een 38% hoger risico. Wie af en toe eenzaam was, had geen significant hoger risico. Een Noorse studie, HUNT, vond eerder een gelijkaardig patroon: aanhoudende eenzaamheid hing samen met meer dementie, voorbijgaande niet.\n\n## Nuance of misverstand\n\nDit is observationeel onderzoek: het toont een verband, geen oorzaak. Het kan ook omgekeerd werken, want beginnende hersenveranderingen kunnen mensen zich al terug laten trekken jaren voor de diagnose. Eenzaamheid werd bovendien met één enkele vraag gemeten. En 'alleen wonen' is niet het probleem; het gaat om het gevoel, dat ook binnen een relatie kan bestaan.\n\n## Wat je ermee doet\n\nKijk niet alleen naar óf iemand mensen ziet, maar naar hoe hij of zij die contacten ervaart. Een vaste wekelijkse wandeling, telefoon of activiteit helpt meer dan één groot bezoek per jaar, omdat het patroon telt. Voor jezelf: voel je je al maanden eenzaam, behandel dat dan als een signaal dat aandacht verdient, net zoals aanhoudende slapeloosheid. Praat erover met je huisarts of zoek een vereniging met vaste momenten.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"28\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\">Eenzaam bij elke meting? Dat telt.</text><line x1=\"70\" y1=\"70\" x2=\"290\" y2=\"70\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"90\" cy=\"70\" r=\"9\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"fill\" values=\"rgba(255,255,255,0.14);#ff6b9d;#ff6b9d;rgba(255,255,255,0.14)\" keyTimes=\"0;0.15;0.85;1\" begin=\"0.0s\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"150\" cy=\"70\" r=\"9\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"fill\" values=\"rgba(255,255,255,0.14);#ff6b9d;#ff6b9d;rgba(255,255,255,0.14)\" keyTimes=\"0;0.15;0.85;1\" begin=\"0.8s\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"210\" cy=\"70\" r=\"9\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"fill\" values=\"rgba(255,255,255,0.14);#ff6b9d;#ff6b9d;rgba(255,255,255,0.14)\" keyTimes=\"0;0.15;0.85;1\" begin=\"1.6s\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"270\" cy=\"70\" r=\"9\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"fill\" values=\"rgba(255,255,255,0.14);#ff6b9d;#ff6b9d;rgba(255,255,255,0.14)\" keyTimes=\"0;0.15;0.85;1\" begin=\"2.4000000000000004s\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><text x=\"90\" y=\"98\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">1988</text><text x=\"270\" y=\"98\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">2018</text><text x=\"180\" y=\"118\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">kreeg dementie, per groep</text><rect x=\"80\" y=\"135\" width=\"0\" height=\"20\" fill=\"#06d6a0\"><animate attributeName=\"width\" values=\"0;132;132;0\" keyTimes=\"0;0.3;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"80\" y=\"165\" width=\"0\" height=\"20\" fill=\"#ff6b9d\"><animate attributeName=\"width\" values=\"0;196;196;0\" keyTimes=\"0;0.3;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"74\" y=\"150\" text-anchor=\"end\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">nooit</text><text x=\"74\" y=\"180\" text-anchor=\"end\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">chronisch</text><text x=\"218\" y=\"150\" text-anchor=\"start\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">33%</text><text x=\"282\" y=\"180\" text-anchor=\"start\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">49%</text><text x=\"180\" y=\"208\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">chronisch = eenzaam bij 3 of 4 metingen</text></svg>",
+   "quiz": {
+    "q": "Welke vorm van eenzaamheid hing in deze studie samen met een hoger dementierisico?",
+    "o": [
+     "Alleen wonen, ook zonder je eenzaam te voelen",
+     "Langdurige eenzaamheid bij meerdere metingen",
+     "Af en toe eenzaam zijn, bijvoorbeeld na een verhuis"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "EurekAlert – Chronic loneliness increases dementia risk by 38%",
+     "u": "https://www.eurekalert.org/news-releases/1152057"
+    },
+    {
+     "t": "Scimex – Chronic loneliness linked to dementia",
+     "u": "https://www.scimex.org/newsfeed/chronic-loneliness-linked-to-dementia-and-its-not-just-people-who-live-alone"
+    }
+   ],
+   "date": "2026-11-19T05:46:06Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Elke lening van jou staat bij de Nationale Bank",
+   "body": "Sluit je in België een consumentenkrediet of woonlening af, dan komt die automatisch in de Centrale voor kredieten aan particulieren van de Nationale Bank. Dus niet alleen wanbetalers: iedereen met een krediet. Een kredietgever moet die Centrale raadplegen voor hij je iets leent. Je eigen dossier inkijken is gratis.",
+   "take": "Plan je een woonlening of autolening? Bekijk eerst gratis je eigen dossier met je eID en laat fouten tijdig rechtzetten.",
+   "deep": "## Hoe het werkt\n\nDe Centrale is een register met twee soorten gegevens. Ten eerste alle lopende kredietovereenkomsten: woonleningen, autoleningen, persoonlijke leningen, kredietopeningen. Ten tweede betalingsachterstanden op die kredieten.\n\nVraag je een nieuw krediet aan, dan moet de kredietgever vóór het afsluiten de Centrale raadplegen. Hij ziet dan welke andere kredieten je al hebt en of er achterstanden zijn. Zo kan hij inschatten of je de nieuwe lening kunt dragen. Het idee: overmatige schuldenlast voorkomen voor ze ontstaat, zowel bij jou als bij de kredietgever.\n\n## Een voorbeeld\n\nLien wil een woonlening voor een appartement in Mechelen. Ze heeft nog een autolening lopen en betaalde twee jaar geleden enkele maanden een kredietopening te laat terug. De bank ziet beide in de Centrale. De lopende autolening telt mee in haar maandlasten. De oude achterstand, die intussen is betaald, kan nog zichtbaar zijn en de beslissing beïnvloeden.\n\n## Wat onderzoek zegt\n\nDe Centrale steunt op de wet van 10 augustus 2001 en registreert sinds 2003 ook alle kredieten, niet alleen de problemen. Volgens een overzicht van cijfers over schuldoverlast begon het aantal contracten en personen met achterstand in datzelfde jaar te dalen, mede door de start van die volledige registratie. Toch staan er elk jaar nog honderdduizenden Belgen met een betalingsachterstand in het register.\n\nHoe lang blijft een achterstand staan? Volgens Wikifin, het educatieve platform van de FSMA, kan een betalingsprobleem tot tien jaar in je dossier blijven, gerekend vanaf de eerste wanbetaling. Betaal je de schuld volledig terug, dan moet de kredietgever dat binnen acht dagen melden. Daarna blijft de achterstand nog een jaar geregistreerd, zo staat op de website van de Vlaamse overheid.\n\n## Nuance of misverstand\n\nDe Centrale wordt vaak 'de zwarte lijst' genoemd, maar dat is maar de helft van het verhaal. Wie gewoon een lening afbetaalt zoals afgesproken, staat er ook in. Dat is geen negatief punt. Wat telt voor een kredietgever is het totaalbeeld: hoeveel je al leent en of je dat netjes terugbetaalt. Verder beslist de Nationale Bank niet over je aanvraag. Ze bewaart alleen de gegevens. De kredietgever beslist.\n\n## Wat je ermee doet\n\nBekijk je dossier gratis, bijvoorbeeld online met je eID, of op papier met een ondertekende brief en een kopie van je identiteitskaart. Doe dat liefst ruim voor je een grote lening aanvraagt. Klopt er iets niet, vraag dan eerst aan de betrokken kredietgever om het recht te zetten. En betaal je een achterstand af, bewaar dan het bewijs, zodat je kunt nagaan of de melding binnen acht dagen gebeurde.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Eerst kijken, dan lenen</text><rect x=\"15.0\" y=\"52\" width=\"90\" height=\"36\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"60\" y=\"74\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">jij</text><rect x=\"250.0\" y=\"52\" width=\"100\" height=\"36\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"300\" y=\"74\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">kredietgever</text><rect x=\"105.0\" y=\"142\" width=\"150\" height=\"36\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"164\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Centrale (NBB)</text><line x1=\"105\" y1=\"70\" x2=\"248\" y2=\"70\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M248 70 L240 66 L240 74Z\" fill=\"#fff\"/><text x=\"176\" y=\"62\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">aanvraag</text><path d=\"M290 88 L215 142\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"3\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"24;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><text x=\"290\" y=\"124\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">raadpleegt</text><circle r=\"5\" fill=\"#06d6a0\"><animateMotion path=\"M215 142 L290 88\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><text x=\"48\" y=\"124\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">lopende kredieten</text><text x=\"48\" y=\"138\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">achterstanden</text><text x=\"180\" y=\"206\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">je eigen dossier inkijken is gratis</text></svg>",
+   "quiz": {
+    "q": "Wie staat er in de Centrale voor kredieten aan particulieren?",
+    "o": [
+     "Alleen mensen met betalingsachterstand",
+     "Iedereen met een consumentenkrediet of woonlening",
+     "Alleen mensen met een spaarrekening"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Wikifin (FSMA): je kredietdossier",
+     "u": "https://www.wikifin.be/nl/budget-betalen-lenen-en-verzekeren/lening-en-krediet/hoe-sluit-je-een-lening-af-praktische-6"
+    },
+    {
+     "t": "Vlaanderen.be: 'zwarte lijst' van wanbetalers",
+     "u": "https://www.vlaanderen.be/consumentenzaken/zwarte-lijst-van-wanbetalers"
+    },
+    {
+     "t": "POD Armoedebestrijding: cijfers schuldoverlast",
+     "u": "https://www.armoedebestrijding.be/wp-content/uploads/2020/02/cijfers_schuldoverlast.pdf"
+    }
+   ],
+   "date": "2026-11-19T05:46:06Z"
   }
  ],
  "dives": [
