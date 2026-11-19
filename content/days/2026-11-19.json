@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T05:44:47Z",
+ "updated": "2026-11-19T05:45:18Z",
  "cards": [
   {
    "cat": "wetenschap",
@@ -884,6 +884,314 @@
     }
    ],
    "date": "2026-11-19T05:44:47Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Een giraffe heeft evenveel nekwervels als jij",
+   "body": "De nek van een giraffe telt zeven wervels, net als die van jou, een muis of een walvis. Het verschil zit in de lengte: bij een giraffe wordt elke nekwervel tot zo'n 25 centimeter lang. Bijna alle zoogdieren houden zich strikt aan zeven. Alleen luiaards en lamantijnen wijken daar duidelijk van af.",
+   "take": "Sta je in de zoo bij de giraffen? Tel in gedachten mee: zeven wervels, elk tot zo'n 25 centimeter lang.",
+   "deep": "## Hoe het werkt\n\nJe wervelkolom wordt al in het embryo aangelegd als een rij blokjes. Genen, waaronder de zogenoemde Hox-genen, bepalen welk blokje een nekwervel wordt, welk een borstwervel met ribben en welk een lendenwervel. Bij zoogdieren ligt die grens opvallend vast: na zeven nekwervels begint de borstkas.\n\nEen giraffe kreeg haar lange nek dus niet door extra wervels toe te voegen. De bestaande zeven werden gewoon veel langer. Volgens de Giraffe Conservation Foundation kan elke nekwervel zo'n 25 centimeter lang worden. Bij een mens zijn ze veel korter.\n\nDie lengte heeft een prijs. Het hoofd van een giraffe zit doorgaans zo'n twee meter boven het hart. Het hart, dat rond de 11 kilogram weegt, moet daarom een bloeddruk opbouwen die ongeveer het dubbele is van die van andere zoogdieren.\n\n## Een voorbeeld\n\nLeg in gedachten een muis, een mens, een giraffe en een walvis naast elkaar. Hun nekken verschillen enorm in lengte, maar je telt telkens zeven nekwervels. Bij de muis zijn ze piepklein, bij de giraffe zo lang als een flinke liniaal.\n\n## Wat onderzoek zegt\n\nDe Nederlandse bioloog Frietson Galis publiceerde in 1999 een invloedrijk artikel met een eenvoudige vraag: waarom hebben bijna alle zoogdieren zeven nekwervels? Haar verklaring: een ander aantal ontstaat door een verstoring in de vroege ontwikkeling, en die gaat vaak samen met ernstige problemen elders in het lichaam. Een studie uit 2011 in het tijdschrift EvoDevo, met Galis als coauteur, bevestigde dat afwijkende nekwervels bij zoogdieren meestal samengaan met meer doodgeboorte, kinderkanker en zenuwproblemen. Luiaards en lamantijnen ontsnappen daaraan: hun trage stofwisseling en lage activiteit zouden de natuurlijke selectie tegen zulke afwijkingen sterk verzwakken.\n\n## Nuance of misverstand\n\nHelemaal afgesloten is het debat niet. Sommige onderzoekers merken op dat de eerste borstwervel van een giraffe zich gedraagt als een extra nekwervel. Dat idee van een 'achtste nekwervel' wordt echter niet algemeen aanvaard. En 'zeven' geldt voor zoogdieren: vogels en reptielen hebben vaak een heel ander aantal.\n\n## Wat je ermee doet\n\nGebruik de giraffe als geheugensteun voor hoe evolutie werkt: ze bouwt zelden iets helemaal nieuws, maar rekt, plooit en hergebruikt wat er al is. Zie je een dier met een opvallend lichaamsdeel, vraag je dan af welk bestaand onderdeel daarvoor is aangepast.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"70\" y=\"176\" width=\"40\" height=\"9\" rx=\"3\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"70\" y=\"164\" width=\"40\" height=\"9\" rx=\"3\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"70\" y=\"152\" width=\"40\" height=\"9\" rx=\"3\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"70\" y=\"140\" width=\"40\" height=\"9\" rx=\"3\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"70\" y=\"128\" width=\"40\" height=\"9\" rx=\"3\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"70\" y=\"116\" width=\"40\" height=\"9\" rx=\"3\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"70\" y=\"104\" width=\"40\" height=\"9\" rx=\"3\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"90\" y=\"205\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">mens: 7 wervels</text><g transform=\"translate(250,186)\"><g><animateTransform attributeName=\"transform\" type=\"scale\" values=\"1 0.35;1 1;1 1;1 0.35\" keyTimes=\"0;0.4;0.8;1\" dur=\"6s\" repeatCount=\"indefinite\"/><rect x=\"-22\" y=\"-22\" width=\"44\" height=\"19\" rx=\"4\" fill=\"#ffd166\" stroke=\"#fff\" stroke-width=\"2\" opacity=\"0.85\"/><rect x=\"-22\" y=\"-44\" width=\"44\" height=\"19\" rx=\"4\" fill=\"#ffd166\" stroke=\"#fff\" stroke-width=\"2\" opacity=\"0.85\"/><rect x=\"-22\" y=\"-66\" width=\"44\" height=\"19\" rx=\"4\" fill=\"#ffd166\" stroke=\"#fff\" stroke-width=\"2\" opacity=\"0.85\"/><rect x=\"-22\" y=\"-88\" width=\"44\" height=\"19\" rx=\"4\" fill=\"#ffd166\" stroke=\"#fff\" stroke-width=\"2\" opacity=\"0.85\"/><rect x=\"-22\" y=\"-110\" width=\"44\" height=\"19\" rx=\"4\" fill=\"#ffd166\" stroke=\"#fff\" stroke-width=\"2\" opacity=\"0.85\"/><rect x=\"-22\" y=\"-132\" width=\"44\" height=\"19\" rx=\"4\" fill=\"#ffd166\" stroke=\"#fff\" stroke-width=\"2\" opacity=\"0.85\"/><rect x=\"-22\" y=\"-154\" width=\"44\" height=\"19\" rx=\"4\" fill=\"#ffd166\" stroke=\"#fff\" stroke-width=\"2\" opacity=\"0.85\"/></g></g><text x=\"250\" y=\"205\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">giraffe: ook 7</text><text x=\"180\" y=\"22\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">zelfde aantal, langere stukken</text><text x=\"180\" y=\"112\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">tot 25 cm</text><text x=\"180\" y=\"126\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">per wervel</text></svg>",
+   "quiz": {
+    "q": "Hoeveel nekwervels heeft een giraffe?",
+    "o": [
+     "Zeven, net als een mens",
+     "Ongeveer twintig",
+     "Veertien, het dubbele van een mens"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Giraffe Conservation Foundation – Why do giraffe have such a long neck?",
+     "u": "https://giraffeconservation.org/facts-about-giraffe/why-do-giraffe-have-such-a-long-neck/"
+    },
+    {
+     "t": "Giraffe Conservation Foundation – How does a giraffe's heart work?",
+     "u": "https://giraffeconservation.org/facts-about-giraffe/how-does-a-giraffes-heart-work/"
+    },
+    {
+     "t": "EurekAlert – Sloths and manatees break the neck rule (2011)",
+     "u": "https://www.eurekalert.org/news-releases/806384"
+    }
+   ],
+   "date": "2026-11-19T05:45:18Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Beerdiertjes drogen helemaal uit en worden later weer wakker",
+   "body": "Beerdiertjes of tardigraden zijn diertjes van zo'n halve millimeter met acht pootjes. Ze leven in het waterlaagje op mos en korstmos. Droogt dat op, dan trekken ze kop en poten in en worden ze een tonnetje. Hun stofwisseling valt bijna stil. Krijgen ze jaren later water, dan kruipen veel van hen gewoon weer rond.",
+   "take": "Week een plukje droog mos van je dak of muur een nacht in water en bekijk het met een loep of zakmicroscoop.",
+   "deep": "## Hoe het werkt\n\nEen beerdiertje heeft een laagje water rond zich nodig om te bewegen, te eten en zich voort te planten. Valt dat water weg, dan dreigt de cel kapot te gaan. Het diertje trekt dan zijn kop en zijn acht pootjes in en rolt zich op tot een compact, uitgedroogd bolletje: een tun, of tonnetje. Daarbij verliest het het grootste deel van zijn lichaamswater en zakt de stofwisseling tot een fractie van normaal.\n\nOm dat te overleven, gebruiken beerdiertjes beschermende stoffen. Bij sommige soorten speelt de suiker trehalose mee. Daarnaast maken ze eiwitten die je alleen bij tardigraden vindt, zoals CAHS-eiwitten. Tijdens het uitdrogen vormen die eiwitten gelachtige draden, die de vorm van de cellen helpen bewaren. Komt er weer water, dan zwelt het tonnetje op en wordt het diertje opnieuw actief.\n\n## Een voorbeeld\n\nHet groene mos op een oud dak, een tuinmuur of een boomstam in je buurt droogt in de zomer regelmatig volledig uit. Toch kunnen er beerdiertjes in leven. Na een regenbui worden ze weer actief, tot het mos opnieuw verdroogt.\n\n## Wat onderzoek zegt\n\nDe Duitse dominee en natuuronderzoeker Johann Goeze beschreef de diertjes in 1773 en noemde ze 'kleiner Wasserbär', kleine waterbeer. De Italiaan Lazzaro Spallanzani gaf de groep enkele jaren later de naam Tardigrada: trage stappers. Moderne studies tonen dat uitgedroogde exemplaren lang kunnen wachten. Een artikel in Scientific Reports vermeldt records van twintig jaar voor de ene groep beerdiertjes en vijftien jaar voor een andere. Scheikundigen van de University of North Carolina zagen tardigraden binnen twintig minuten na contact met een waterdruppel opnieuw tot leven komen. Ze onderzoeken of de typische tardigradeneiwitten kunnen helpen om medicijnen of vaccins droog en stabiel te bewaren.\n\n## Nuance of misverstand\n\nBeerdiertjes worden vaak 'onverwoestbaar' genoemd, maar dat klopt niet. Hoe langer ze uitgedroogd liggen, hoe minder er weer wakker worden. Niet elke soort gebruikt bovendien hetzelfde trucje: bij sommige zeesoorten verloopt het uitdrogen anders. En in actieve toestand zijn ze gewoon kwetsbare, kleine waterdiertjes.\n\n## Wat je ermee doet\n\nWil je ze zelf zien, leg dan droog mos een nacht in een schaaltje kraanwater of regenwater. Schud het uit, en zoek in het water met een loep of een eenvoudige microscoop naar traag kruipende diertjes met stompe pootjes. Geduld helpt: ze zijn klein, maar onmiskenbaar.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">nat → droog → nat</text><ellipse cx=\"180\" cy=\"110\" rx=\"70\" ry=\"34\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"rx\" values=\"70;70;28;28;70\" keyTimes=\"0;0.2;0.4;0.75;1\" dur=\"8s\" repeatCount=\"indefinite\"/><animate attributeName=\"ry\" values=\"34;34;22;22;34\" keyTimes=\"0;0.2;0.4;0.75;1\" dur=\"8s\" repeatCount=\"indefinite\"/></ellipse><g stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"1;1;0;0;1\" keyTimes=\"0;0.2;0.35;0.8;1\" dur=\"8s\" repeatCount=\"indefinite\"/><line x1=\"135\" y1=\"138\" x2=\"135\" y2=\"156\"/><line x1=\"165\" y1=\"138\" x2=\"165\" y2=\"156\"/><line x1=\"195\" y1=\"138\" x2=\"195\" y2=\"156\"/><line x1=\"225\" y1=\"138\" x2=\"225\" y2=\"156\"/></g><path d=\"M0 -8 C5 -2 6 2 0 6 C-6 2 -5 -2 0 -8 Z\" fill=\"#06d6a0\"><animateMotion path=\"M180 42 L180 42 L180 82 L180 42\" keyPoints=\"0;0;1;1\" keyTimes=\"0;0.6;0.75;1\" dur=\"8s\" repeatCount=\"indefinite\"/></path><text x=\"180\" y=\"186\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">droog: tonnetje, bijna geen stofwisseling</text><text x=\"180\" y=\"206\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">water erbij: weer actief</text></svg>",
+   "quiz": {
+    "q": "Wat doet een beerdiertje als zijn omgeving uitdroogt?",
+    "o": [
+     "Het graaft zich diep in de aarde in",
+     "Het rolt zich op tot een uitgedroogd tonnetje en wacht op water",
+     "Het legt snel eitjes en sterft"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Britannica – Tardigrade",
+     "u": "https://www.britannica.com/animal/tardigrade"
+    },
+    {
+     "t": "UNC Chemistry – Tardigrades and vaccine distribution",
+     "u": "https://chem.unc.edu/2021/02/17/tardigrades-ability-to-survive-extreme-environments-could-impact-the-future-of-vaccine-transportation/"
+    },
+    {
+     "t": "Scientific Reports – Snails dispersing tardigrades (2022)",
+     "u": "https://www.nature.com/articles/s41598-022-08265-2"
+    }
+   ],
+   "date": "2026-11-19T05:45:18Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Een bladluis wordt geboren terwijl ze al zwanger is",
+   "body": "Bladluizen planten zich een groot deel van het jaar voort zonder mannetjes. De moeder baart levende jongen. In haar groeien dochters, en in die dochters ontwikkelen de embryo's van de kleindochters zich al. Biologen noemen dat telescopische generaties. Het verklaart waarom een paar luizen op je rozen zo snel een hele kolonie worden.",
+   "take": "Zie je de eerste bladluizen op een plant? Grijp meteen in: wachten geeft de telescoop-kolonie een flinke voorsprong.",
+   "deep": "## Hoe het werkt\n\nIn het groeiseizoen bestaat een bladluiskolonie vooral uit vrouwtjes die zich ongeslachtelijk voortplanten: zonder bevruchting, zonder mannetje. Hun dochters zijn genetisch identieke klonen. Ze leggen ook geen eitjes, maar baren levende jongen.\n\nDaar zit de truc. In het lichaam van een volwassen moeder groeien bijna volgroeide dochters. En in die dochters zitten al vroege embryo's van de volgende generatie. Een bladluis draagt dus haar kinderen én kleinkinderen tegelijk in zich, zoals in elkaar geschoven delen van een telescoop. Haar eierstokbuisjes werken als aparte productielijnen die net niet gelijk lopen, waardoor de jongen een voor een geboren worden.\n\nOmdat het volgende geslacht al op weg is vóór de dochter zelf geboren wordt, gaat de tijd tussen twee generaties sterk omlaag.\n\n## Een voorbeeld\n\nJe ziet in het voorjaar een handvol groene luisjes op de knoppen van een rozenstruik. Een week of twee later zitten de stengels vol. Er hoeft geen enkel mannetje bij te zijn: elke moeder levert dochters die zelf al zwanger zijn.\n\n## Wat onderzoek zegt\n\nHet begrip 'telescoping of generations' werd onder meer uitgewerkt door de ecologen Pavel Kindlmann en Tony Dixon in een artikel uit 1989 in Functional Ecology. Recenter onderzoek, onder meer bij de erwtenluis, beschrijft hoe een typische jaarcyclus bestaat uit zo'n tien tot dertig ongeslachtelijke generaties, gevolgd door één geslachtelijke generatie. De overstap gebeurt in de herfst en wordt vooral gestuurd door de daglengte. Biologen denken dat de ongeslachtelijke voortplanting in de evolutie eerst kwam en het levend baren pas later. Verwante groepen, zoals de familie van de druifluis, leggen nog steeds eitjes.\n\n## Nuance of misverstand\n\nBladluizen zijn niet altijd klonen. In de herfst verschijnen mannetjes en eierleggende vrouwtjes, en dan ontstaat er via gewone bevruchting genetische variatie. Die ene geslachtelijke ronde per jaar is belangrijk om zich aan te passen. Het 'zwanger geboren worden' gaat dus over de zomerse vorm, niet over elke bladluis.\n\n## Wat je ermee doet\n\nSnelle aanwas is het kenmerk van telescopische generaties, dus vroeg ingrijpen loont. Spuit kleine aantallen weg met een harde waterstraal of laat lieveheersbeestjes en hun larven hun werk doen. Hoe eerder je ingrijpt, hoe minder generaties er al klaarzitten.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">drie generaties in één lijf</text><ellipse cx=\"160\" cy=\"118\" rx=\"120\" ry=\"70\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><ellipse cx=\"185\" cy=\"118\" rx=\"62\" ry=\"36\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\" opacity=\"0.3\"><animate attributeName=\"opacity\" values=\"0.3;1;1;0.3\" keyTimes=\"0;0.15;0.6;1\" dur=\"6s\" begin=\"1s\" repeatCount=\"indefinite\"/></ellipse><circle cx=\"200\" cy=\"118\" r=\"14\" fill=\"#ff6b9d\" opacity=\"0.3\"><animate attributeName=\"opacity\" values=\"0.3;1;1;0.3\" keyTimes=\"0;0.15;0.6;1\" dur=\"6s\" begin=\"2s\" repeatCount=\"indefinite\"/></circle><text x=\"80\" y=\"122\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">moeder</text><text x=\"150\" y=\"100\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">dochter</text><text x=\"200\" y=\"150\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">kleindochter</text><text x=\"330\" y=\"70\" text-anchor=\"end\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">geen</text><text x=\"330\" y=\"84\" text-anchor=\"end\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">mannetje</text><text x=\"330\" y=\"98\" text-anchor=\"end\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">nodig</text><text x=\"180\" y=\"210\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">zo groeit een kolonie razendsnel</text></svg>",
+   "quiz": {
+    "q": "Wat zit er in een volwassen ongeslachtelijke bladluismoeder?",
+    "o": [
+     "Alleen eitjes die nog bevrucht moeten worden",
+     "Mannetjes en vrouwtjes in gelijke aantallen",
+     "Dochters met daarin al de embryo's van kleindochters"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Development Genes and Evolution – Aphid parthenogenesis and viviparity (2022)",
+     "u": "https://link.springer.com/article/10.1007/s00427-022-00690-7"
+    },
+    {
+     "t": "PMC – Aphid polyphenisms: regulation through viviparity",
+     "u": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3900772/"
+    }
+   ],
+   "date": "2026-11-19T05:45:18Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Met je vingers knakken geeft geen artrose",
+   "body": "Arts Donald Unger kraakte zestig jaar lang de knokkels van zijn linkerhand, nooit die van zijn rechter. Resultaat: in geen van beide handen artrose en geen verschil. Een studie uit 2011 bij 215 mensen vond evenmin een verband. De knak zelf ontstaat wanneer er plots een gasholte vormt in het gewrichtsvocht.",
+   "take": "Knakken mag je gerust laten of doen; krijg je pijn, zwelling of minder kracht in een gewricht, ga dan naar je huisarts.",
+   "deep": "## Hoe het werkt\n\nTussen twee vingerkootjes zit een gewricht, omsloten door een kapsel en gevuld met gewrichtsvocht. In dat vocht zitten opgeloste gassen. Trek je een vinger uit of buig je hem ver door, dan worden de gewrichtsvlakken uit elkaar getrokken en daalt de druk in het vocht.\n\nOp een bepaald moment ontstaat dan plots een holte gevuld met gas. Dat gebeurt razendsnel en gaat gepaard met het bekende knakgeluid. Daarna duurt het een tijd voor je hetzelfde gewricht opnieuw kunt laten knakken.\n\n## Een voorbeeld\n\nJe zit in de klas of in een vergadering en iemand laat al zijn vingers een voor een knakken. Prompt klinkt het: 'Stop, daar krijg je later artrose van.' Dat verwijt hoorde Donald Unger als kind ook van zijn moeder en andere familieleden. Hij besloot het te testen.\n\n## Wat onderzoek zegt\n\nUnger, een Amerikaanse arts, kraakte decennialang alleen de knokkels van zijn linkerhand. In 1998 rapporteerde hij in het tijdschrift Arthritis and Rheumatism dat geen van beide handen artrose vertoonde en dat er geen verschil was. In 2009 kreeg hij er een Ig Nobelprijs voor, een prijs voor onderzoek dat eerst doet lachen en dan nadenken. Zijn dankwoord begon met: 'Moeder, je had ongelijk.'\n\nEen grotere studie volgde in 2011 in het Journal of the American Board of Family Medicine. Onderzoekers rond Kevin deWeber bevroegen 215 mensen tussen 50 en 89 jaar van wie een röntgenfoto van de hand bestond. Ongeveer één op vijf was een gewoontekraker. Knakken bleek geen risicofactor voor handartrose, ook niet na vele jaren.\n\nIn 2015 filmde een team van de University of Alberta onder leiding van Gregory Kawchuk knakkende vingers in een MRI-scanner. Ze zagen dat de knak samenvalt met het ontstaan van een nieuwe holte in het gewrichtsvocht, en niet met het knappen van een bestaande bel. Het knakken zelf duurde minder dan 310 milliseconden.\n\n## Nuance of misverstand\n\nUnger was één persoon met twee handen: een anekdote, geen bewijs. De studie uit 2011 steunt op herinneringen van deelnemers en toont een gebrek aan verband, geen garantie dat knakken voor iedereen onschuldig is. Ook de MRI-studie gebruikte maar één proefpersoon. En of de gasholte precies het geluid maakt, wordt nog onderzocht.\n\n## Wat je ermee doet\n\nJe hoeft je niet schuldig te voelen over een knakkende vinger, en je kunt anderen geruststellen. Let wel op signalen die niets met knakken te maken hebben: pijn, zwelling of stijfheid die blijft, verdienen een bezoek aan de dokter.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">trekken → holte → knak</text><rect x=\"30\" y=\"92\" width=\"120\" height=\"36\" rx=\"18\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><g><animateTransform attributeName=\"transform\" type=\"translate\" values=\"0 0;0 0;22 0;22 0;0 0\" keyTimes=\"0;0.2;0.45;0.8;1\" dur=\"6s\" repeatCount=\"indefinite\"/><rect x=\"166\" y=\"92\" width=\"120\" height=\"36\" rx=\"18\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"296\" y1=\"110\" x2=\"336\" y2=\"110\" stroke=\"#ffd166\" stroke-width=\"2\"/><path d=\"M336 110 L330 106 L330 114 Z\" fill=\"#ffd166\"/></g><circle cx=\"168\" cy=\"110\" r=\"0\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"r\" values=\"0;0;0;12;12;0\" keyTimes=\"0;0.2;0.4;0.47;0.8;1\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><text x=\"90\" y=\"150\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">vingerkootje</text><text x=\"168\" y=\"175\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">gasholte in gewrichtsvocht</text><text x=\"180\" y=\"205\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">60 jaar kraken: geen artrose</text></svg>",
+   "quiz": {
+    "q": "Wat ontdekte Donald Unger na decennia lang één hand te laten knakken?",
+    "o": [
+     "Alleen de geknakte hand had artrose",
+     "Geen van beide handen had artrose en er was geen verschil",
+     "Beide handen hadden evenveel artrose"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Journal of the American Board of Family Medicine – Knuckle cracking and hand osteoarthritis (2011)",
+     "u": "https://www.jabfm.org/content/24/2/169"
+    },
+    {
+     "t": "Smithsonian – Scientists take a crack at the knuckle-popping noise",
+     "u": "https://www.smithsonianmag.com/smart-news/scientists-take-crack-explaining-knuckle-popping-noise-180955013/"
+    },
+    {
+     "t": "Improbable Research – Ig Nobel acceptance speech: knuckle-cracking",
+     "u": "https://improbable.com/2010/02/15/ig-nobel-acceptance-speech-knuckle-cracking/"
+    }
+   ],
+   "date": "2026-11-19T05:45:18Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Wortels geven je geen nachtzicht: dat was oorlogspropaganda",
+   "body": "In de Tweede Wereldoorlog schoten Britse nachtjagers zoals John Cunningham opvallend veel Duitse vliegtuigen neer. Hun echte geheim was radar aan boord. Naar buiten toe heette het dat ze veel wortelen aten. De mythe bleef hangen. Een tekort aan vitamine A maakt je zicht in het donker wel slechter, maar extra wortels geven geen supersicht.",
+   "take": "Eet wortels omdat ze gezond en lekker zijn, niet om beter te zien; zie je plots slecht in de schemer, ga dan naar een oogarts.",
+   "deep": "## Hoe het werkt\n\nJe netvlies heeft twee soorten lichtgevoelige cellen. Kegeltjes zien kleur en werken bij daglicht. Staafjes zijn gevoelig voor weinig licht en zorgen ervoor dat je in de schemer nog iets ziet. Staafjes bevatten één lichtgevoelig pigment: rodopsine.\n\nRodopsine bestaat uit een eiwit, opsine, gekoppeld aan retinal, een stof die je lichaam maakt uit vitamine A. Wortels bevatten geen vitamine A zelf, maar bètacaroteen. Je darm zet dat om in vitamine A. Heb je te weinig vitamine A, dan kan je lichaam niet genoeg rodopsine maken en ga je slechter zien in het donker. Dat heet nachtblindheid. Heb je al genoeg, dan maakt extra bètacaroteen geen verschil.\n\n## Een voorbeeld\n\nVeel Vlaamse kinderen kregen het te horen aan tafel: 'Eet je worteltjes op, dan zie je goed in het donker.' Dat zinnetje is een rechtstreekse erfenis van een Brits oorlogsverhaal uit de jaren 1940.\n\n## Wat onderzoek zegt\n\nIn 1940 ontwikkelden John Randall en Harry Boot aan de University of Birmingham de holtemagnetron, die radars klein genoeg maakte om in vliegtuigen te monteren. Volgens het Smithsonian Magazine liet het Britse ministerie van Informatie het succes van nachtjagers als John Cunningham, die een twintigtal Duitse vliegtuigen neerhaalde, toeschrijven aan een dieet vol wortelen. Zo bleef de radar uit beeld. Het verhaal sloeg vooral aan bij de Britse bevolking, die zo ook het overschot aan wortelen in oorlogstijd mee wegat.\n\nHet Amerikaanse National Institutes of Health bevestigt het biologische deel: een tekort aan vitamine A leidt tot lage rodopsine in het netvlies en dus tot nachtblindheid.\n\n## Nuance of misverstand\n\nDe mythe is dus niet helemaal uit de lucht gegrepen: vitamine A is echt nodig om in het donker te zien. Het misverstand is dat méér altijd beter is. Wie gevarieerd eet, heeft doorgaans genoeg. Of de Duitsers zelf ooit in het verhaal trapten, is twijfelachtig; historici denken van niet.\n\n## Wat je ermee doet\n\nWortels blijven een prima bron van bètacaroteen. Verwacht er alleen geen superkrachten van. Merk je dat je opvallend slecht ziet bij weinig licht, laat dat dan nakijken in plaats van extra wortelen te eten.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"10\" y=\"70\" width=\"80\" height=\"40\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"50\" y=\"94\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">wortel</text><rect x=\"100\" y=\"70\" width=\"80\" height=\"40\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"140\" y=\"94\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">vitamine A</text><rect x=\"190\" y=\"70\" width=\"80\" height=\"40\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"230\" y=\"94\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">rhodopsine</text><rect x=\"276\" y=\"70\" width=\"80\" height=\"40\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"316\" y=\"86\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">zien bij</text><text x=\"316\" y=\"106\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">schemer</text><line x1=\"90\" y1=\"90\" x2=\"96\" y2=\"90\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M96 90 L90 86 L90 94 Z\" fill=\"#fff\"/><line x1=\"180\" y1=\"90\" x2=\"186\" y2=\"90\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M186 90 L180 86 L180 94 Z\" fill=\"#fff\"/><line x1=\"270\" y1=\"90\" x2=\"276\" y2=\"90\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M276 90 L270 86 L270 94 Z\" fill=\"#fff\"/><circle r=\"5\" fill=\"#ffd166\"><animateMotion path=\"M50 120 L316 120\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"30\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">bètacaroteen wordt vitamine A</text><rect x=\"60\" y=\"150\" width=\"240\" height=\"40\" rx=\"8\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"180\" y=\"168\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">tekort: slecht zicht in het donker</text><text x=\"180\" y=\"183\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">genoeg + extra: geen supersicht</text></svg>",
+   "quiz": {
+    "q": "Wat was het echte geheim van de Britse nachtjagers in de Tweede Wereldoorlog?",
+    "o": [
+     "Radar aan boord van hun vliegtuigen",
+     "Een dieet met heel veel wortelen",
+     "Speciale nachtkijkers met infrarood"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Smithsonian – Carrots can't help you see in the dark",
+     "u": "https://www.smithsonianmag.com/history/carrots-cant-help-you-see-in-the-dark-heres-how-a-world-war-ii-propaganda-campaign-popularized-the-myth-28812484/"
+    },
+    {
+     "t": "NIH Office of Dietary Supplements – Vitamin A and carotenoids",
+     "u": "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/"
+    },
+    {
+     "t": "ScienceNorway – Where the carrot myth comes from",
+     "u": "https://www.sciencenorway.no/culture-food-and-health-war/where-the-carrot-myth-comes-from/2665915"
+    }
+   ],
+   "date": "2026-11-19T05:45:18Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Acht glazen water per dag is geen wetenschappelijke regel",
+   "body": "Het advies om elke dag acht glazen water te drinken heeft geen stevige wetenschappelijke basis, concludeerde nierspecialist Heinz Valtin in 2002. De Europese voedselautoriteit EFSA rekent op ongeveer 2 liter water per dag voor vrouwen en 2,5 liter voor mannen, maar dan alles samen: alle dranken én het water in je eten, goed voor zo'n 20 tot 30 procent.",
+   "take": "Drink verspreid over de dag, vooral water, en extra bij hitte of sport; tel soep, fruit en groenten gewoon mee.",
+   "deep": "## Hoe het werkt\n\nJe lichaam verliest elke dag water via urine, zweet, adem en ontlasting. Dat moet je aanvullen. Dat gebeurt niet alleen met water uit een glas. Ook koffie, thee, melk en soep leveren vocht, en vast voedsel bevat verrassend veel water. Denk aan fruit, groenten, yoghurt of pasta.\n\nJe nieren regelen de balans. Drink je meer dan nodig, dan plas je meer en lichter. Drink je weinig, dan houden je nieren water vast en wordt je urine donkerder. Bij gezonde mensen is dat systeem erg nauwkeurig.\n\n## Een voorbeeld\n\nEen Vlaamse kantoormedewerker drinkt op een gewone dag twee koffies, een paar glazen water bij de lunch, een kom soep en 's avonds een glas melk. Samen met het water uit brood, fruit en groenten komt die persoon makkelijk in de buurt van de Europese referentie, zonder ooit acht glazen te hebben geteld.\n\n## Wat onderzoek zegt\n\nHeinz Valtin, een nierspecialist van Dartmouth Medical School, zocht in 2002 voor het American Journal of Physiology naar het bewijs achter de '8 x 8'-regel: acht glazen van acht ounce, telkens zo'n 2,4 deciliter. Hij vond geen wetenschappelijk bewijs dat iedereen zoveel moet drinken. Zijn conclusie gold voor gezonde volwassenen in een gematigd klimaat met weinig lichaamsbeweging. Volgens Valtin gaat de regel misschien terug op een Amerikaans advies uit 1945 van één milliliter water per calorie voedsel, waarbij men vergat dat een groot deel daarvan al in het eten zit.\n\nDe Europese voedselautoriteit EFSA legde in 2010 referentiewaarden vast: ongeveer 2,0 liter totaal water per dag voor vrouwen en 2,5 liter voor mannen, bij gematigde temperatuur en matige activiteit. Volgens EFSA komt in Europa zo'n 20 tot 30 procent van dat water uit voeding. Een enquête bij ruim 16.000 volwassenen in 13 landen vond dat veel mensen toch onder de waarde uit dranken blijven.\n\n## Nuance of misverstand\n\n'Geen vaste regel' betekent niet 'drinken is onbelangrijk'. Valtin benadrukte zelf dat je meer moet drinken bij warm weer en zware inspanning, en dat er aanwijzingen zijn dat voldoende drinken het risico op sommige aandoeningen verlaagt. Omgekeerd is overdreven veel drinken ook niet zonder risico, zeker als je nieren niet goed werken.\n\n## Wat je ermee doet\n\nGebruik 2 tot 2,5 liter als ruwe richtlijn voor alles samen, niet als telwerk voor glazen water. Kies vooral water, drink meer als het warm is of als je sport, en laat bij nierproblemen of bepaalde medicatie je arts bepalen hoeveel je drinkt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">dagelijkse waterbehoefte (EFSA)</text><rect x=\"75\" y=\"65\" width=\"70\" height=\"125\" rx=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"75\" y=\"159\" width=\"70\" height=\"31\" fill=\"#ffd166\" opacity=\"0.8\"/><rect x=\"75\" y=\"159\" width=\"70\" height=\"0\" fill=\"#06d6a0\" opacity=\"0.8\"><animate attributeName=\"height\" values=\"0;94;94;0\" keyTimes=\"0;0.5;0.85;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"159;65;65;159\" keyTimes=\"0;0.5;0.85;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"110\" y=\"208\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">vrouw ± 2,0 l</text><rect x=\"215\" y=\"34\" width=\"70\" height=\"156\" rx=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"215\" y=\"151\" width=\"70\" height=\"39\" fill=\"#ffd166\" opacity=\"0.8\"/><rect x=\"215\" y=\"151\" width=\"70\" height=\"0\" fill=\"#06d6a0\" opacity=\"0.8\"><animate attributeName=\"height\" values=\"0;117;117;0\" keyTimes=\"0;0.5;0.85;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"151;34;34;151\" keyTimes=\"0;0.5;0.85;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"250\" y=\"208\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">man ± 2,5 l</text><rect x=\"300\" y=\"60\" width=\"12\" height=\"12\" fill=\"#06d6a0\"/><text x=\"316\" y=\"70\" text-anchor=\"start\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">drank</text><rect x=\"300\" y=\"84\" width=\"12\" height=\"12\" fill=\"#ffd166\"/><text x=\"316\" y=\"94\" text-anchor=\"start\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">eten</text></svg>",
+   "quiz": {
+    "q": "Wat telt mee in de EFSA-referentie van ongeveer 2 à 2,5 liter water per dag?",
+    "o": [
+     "Alleen zuiver water uit de kraan of fles",
+     "Alleen water en thee, geen koffie",
+     "Alle dranken plus het water in je eten"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Dartmouth Medical School – Persuasive evidence lacking for 8x8 (2002)",
+     "u": "https://geiselmed.dartmouth.edu/news/2002_h2/08aug2002_water.shtml"
+    },
+    {
+     "t": "PMC – Total fluid intake in 13 countries (EFSA-waarden)",
+     "u": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4472938/"
+    }
+   ],
+   "date": "2026-11-19T05:45:18Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Dollar betekent eigenlijk: munt uit het dal",
+   "body": "Rond 1520 sloeg men in Joachimsthal, een Boheems mijnstadje (nu Jáchymov in Tsjechië), zilveren munten: Joachimsthalers, kortweg thalers. Tal is Duits voor dal. In de Lage Landen werd dat daalder, het Engels maakte er dollar van. De Verenigde Staten kozen dat woord in 1785 voor hun munt.",
+   "take": "Zie je 'thal' of 'dal' in een naam, zoals Neanderthal? Dan weet je meteen: dat was ooit een vallei.",
+   "deep": "## Hoe het werkt\n\nMunten kregen vroeger vaak de naam van de plek waar ze geslagen werden. In het Ertsgebergte in Bohemen werd begin zestiende eeuw een rijke zilvermijn ontgonnen bij het stadje Sankt Joachimsthal: het dal van de heilige Joachim. De graven van Schlick, die de mijn uitbaatten, lieten er vanaf ongeveer 1519 grote zilveren munten slaan. Die heetten Joachimsthaler.\n\nLange woorden worden in de mond korter. Joachimsthaler werd taler, later thaler gespeld. Via handel kwam de munt en de naam in heel Europa terecht. In het Nederlands en het Nederduits werd het daler of daalder, in de Scandinavische talen daler. Het Engels nam rond 1550 de vorm daler over, die rond 1600 dollar werd.\n\n## Een voorbeeld\n\nHet Duitse Tal, het Nederlandse dal en het Engelse dale zijn familie. Datzelfde woorddeel zit in Neanderthal: een kloof bij Düsseldorf waar in 1856 fossielen van de beroemde oermens gevonden werden. Het dal is genoemd naar Joachim Neumann, een zeventiende-eeuwse dominee die zijn naam vergriekste tot Neander. De oermens en de Amerikaanse munt danken hun naam dus allebei aan een dal van een Joachim.\n\n## Wat onderzoek zegt\n\nHet etymologisch woordenboek Etymonline dateert de eerste munt op 1519, geslagen uit zilver van een mijn die in 1516 openging. Britannica geeft voor de eerste aanmunting 1517; de precieze startdatum verschilt dus per bron. De Australische Perth Mint beschrijft hoe het woord in Holland als daalder werd uitgesproken. Volgens Merriam-Webster werd de naam in de Amerikaanse kolonies ook gebruikt voor gelijkaardige munten, onder meer het Spaanse stuk van acht. In 1785 koos het Amerikaanse Congres de dollar als munteenheid.\n\n## Nuance of misverstand\n\nHet dollarteken $ heeft een eigen, onzekere geschiedenis. De meest geciteerde verklaring verbindt het met een afkorting voor de Spaanse peso, maar dat is niet bewezen. Het teken heeft dus niets met de thaler te maken. En hoewel de naam via Nederland en Duitsland reisde, kozen de Verenigde Staten hem vooral omdat 'dollar' in de kolonies al ingeburgerd was.\n\n## Wat je ermee doet\n\nWoorden voor geld vertellen vaak waar het vandaan komt. Let eens op muntnamen en plaatsnamen in je omgeving. Kom je een naam tegen die op -dal, -tal of -thal eindigt, dan zie je in gedachten meteen een vallei, en misschien een munt die van daaruit de wereld rondging.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">van dal naar dollar</text><rect x=\"20\" y=\"50\" width=\"120\" height=\"36\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"20\" y=\"50\" width=\"120\" height=\"36\" rx=\"8\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"3\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;1;0;0\" keyTimes=\"0;0.08;0.25;0.33;1\" dur=\"6s\" begin=\"0.0s\" repeatCount=\"indefinite\"/></rect><text x=\"80.0\" y=\"72.0\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Joachimsthaler</text><rect x=\"160\" y=\"50\" width=\"70\" height=\"36\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"160\" y=\"50\" width=\"70\" height=\"36\" rx=\"8\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"3\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;1;0;0\" keyTimes=\"0;0.08;0.25;0.33;1\" dur=\"6s\" begin=\"1.5s\" repeatCount=\"indefinite\"/></rect><text x=\"195.0\" y=\"72.0\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">thaler</text><rect x=\"250\" y=\"50\" width=\"80\" height=\"36\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"250\" y=\"50\" width=\"80\" height=\"36\" rx=\"8\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"3\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;1;0;0\" keyTimes=\"0;0.08;0.25;0.33;1\" dur=\"6s\" begin=\"3.0s\" repeatCount=\"indefinite\"/></rect><text x=\"290.0\" y=\"72.0\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">daalder</text><line x1=\"140\" y1=\"68\" x2=\"156\" y2=\"68\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M156 68 L150 64 L150 72 Z\" fill=\"#fff\"/><line x1=\"230\" y1=\"68\" x2=\"246\" y2=\"68\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M246 68 L240 64 L240 72 Z\" fill=\"#fff\"/><line x1=\"290\" y1=\"90\" x2=\"290\" y2=\"130\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M290 130 L286 124 L294 124 Z\" fill=\"#fff\"/><rect x=\"240\" y=\"134\" width=\"100\" height=\"36\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"240\" y=\"134\" width=\"100\" height=\"36\" rx=\"8\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"3\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;1;0;0\" keyTimes=\"0;0.08;0.25;0.33;1\" dur=\"6s\" begin=\"4.5s\" repeatCount=\"indefinite\"/></rect><text x=\"290.0\" y=\"156.0\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">dollar</text><text x=\"20\" y=\"120\" text-anchor=\"start\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">Tal = dal</text><text x=\"20\" y=\"140\" text-anchor=\"start\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">Boheemse zilvermijn</text><text x=\"20\" y=\"156\" text-anchor=\"start\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">rond 1520</text><text x=\"180\" y=\"205\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">VS kiezen dollar in 1785</text></svg>",
+   "quiz": {
+    "q": "Waar verwijst het woord dollar oorspronkelijk naar?",
+    "o": [
+     "Een Spaanse koning",
+     "Een dal in Bohemen met een zilvermijn",
+     "Het Engelse woord voor 'deel'"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Etymonline – Dollar",
+     "u": "https://www.etymonline.com/word/dollar"
+    },
+    {
+     "t": "Perth Mint – Where does the term dollar originate?",
+     "u": "https://www.perthmint.com/news/collector/coin-collecting/where-does-the-term-dollar-originate/"
+    },
+    {
+     "t": "Etymonline – Why is a dollar like a Neanderthal?",
+     "u": "https://www.etymonline.com/columns/post/why-is-a-dollar-like-a-neanderthal"
+    }
+   ],
+   "date": "2026-11-19T05:45:18Z"
+  },
+  {
+   "cat": "taal",
+   "title": "OK begon in 1839 als een flauwe spellinggrap",
+   "body": "Op 23 maart 1839 schreef de krant Boston Morning Post 'o.k.' als afkorting van 'oll korrect', een expres foute spelling van 'all correct'. Grappige afkortingen waren toen een rage in Boston. De meeste verdwenen snel. OK overleefde, onder meer dankzij een presidentscampagne, en kwam als 'oké' ook in het Nederlands terecht.",
+   "take": "Schrijf in het Nederlands 'oké' of 'OK'; vormen als 'okay', 'okee' of 'o.k.' gelden niet als correcte spelling.",
+   "deep": "## Hoe het werkt\n\nIn de jaren 1830 hadden Amerikaanse kranteneditors een eigenaardige hobby: ze kortten uitdrukkingen af tot initialen, vaak via een opzettelijk foute spelling. Zo stond O.W. voor 'oll wright', all right, en dook dat al op in februari 1839. Het was een soort taalgrapje voor ingewijden.\n\nO.K. werkte op dezelfde manier. Neem 'all correct', spel het fout als 'oll korrect' en hou alleen de beginletters over. Wie het grapje kende, moest erom glimlachen. De meeste van zulke afkortingen stierven een stille dood. O.K. kreeg een tweede leven in de verkiezingscampagne van 1840: aanhangers van president Martin Van Buren, die de bijnaam 'Old Kinderhook' droeg naar zijn geboortedorp, gebruikten O.K. als slogan. Dat maakte het woord in heel het land bekend.\n\n## Een voorbeeld\n\nVandaag zeg je 'oké' tegen een collega, typ je 'ok' in een chat en klik je op een knop met OK erop. Weinig mensen beseffen dat ze daarmee een grap uit een Bostonse krant van bijna twee eeuwen geleden herhalen.\n\n## Wat onderzoek zegt\n\nLang deden er tal van verklaringen de ronde: een woord uit de Choctaw-taal, een indianenleider of de verkiezingsslogan van Van Buren. De Amerikaanse taalkundige Allen Walker Read zocht het uit in oude kranten. In een reeks artikels in het tijdschrift American Speech in 1963 en 1964 toonde hij aan dat het oudste gedrukte voorbeeld in de Boston Morning Post stond, op 23 maart 1839, in een satirisch stukje van redacteur Charles Gordon Greene. Read ontkrachtte daarmee de andere theorieën. Het Smithsonian Magazine en andere bronnen volgen zijn verklaring.\n\n## Nuance of misverstand\n\nVan Buren heeft OK niet uitgevonden, al hoor je dat vaak. Zijn campagne maakte het woord wel populair, een jaar nadat het al in de krant stond. Read bewees ook niet dat niemand OK ooit eerder had uitgesproken; hij vond de oudste gedrukte vindplaats. Dat is het sterkste bewijs dat taalkundigen hebben.\n\n## Wat je ermee doet\n\nIn het Nederlands schrijf je volgens de taaladviesdiensten 'oké' of 'OK'. Gebruik het gerust in informele teksten. In een formele brief klinkt 'in orde' of 'akkoord' vaak beter. En de volgende keer dat iemand je vraagt waar OK vandaan komt, heb je een verrassend antwoord klaar.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">Boston, 23 maart 1839</text><rect x=\"20\" y=\"60\" width=\"90\" height=\"36\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"20\" y=\"60\" width=\"90\" height=\"36\" rx=\"8\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"3\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;1;0;0\" keyTimes=\"0;0.08;0.25;0.33;1\" dur=\"6s\" begin=\"0.0s\" repeatCount=\"indefinite\"/></rect><text x=\"65.0\" y=\"82.0\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">all correct</text><rect x=\"135\" y=\"60\" width=\"90\" height=\"36\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"135\" y=\"60\" width=\"90\" height=\"36\" rx=\"8\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"3\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;1;0;0\" keyTimes=\"0;0.08;0.25;0.33;1\" dur=\"6s\" begin=\"1.5s\" repeatCount=\"indefinite\"/></rect><text x=\"180.0\" y=\"82.0\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">oll korrect</text><rect x=\"250\" y=\"60\" width=\"90\" height=\"36\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"250\" y=\"60\" width=\"90\" height=\"36\" rx=\"8\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"3\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;1;0;0\" keyTimes=\"0;0.08;0.25;0.33;1\" dur=\"6s\" begin=\"3.0s\" repeatCount=\"indefinite\"/></rect><text x=\"295.0\" y=\"82.0\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">o.k.</text><line x1=\"112\" y1=\"78\" x2=\"131\" y2=\"78\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M131 78 L125 74 L125 82 Z\" fill=\"#fff\"/><line x1=\"227\" y1=\"78\" x2=\"246\" y2=\"78\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M246 78 L240 74 L240 82 Z\" fill=\"#fff\"/><line x1=\"295\" y1=\"100\" x2=\"295\" y2=\"134\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M295 134 L291 128 L299 128 Z\" fill=\"#fff\"/><rect x=\"250\" y=\"138\" width=\"90\" height=\"36\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"250\" y=\"138\" width=\"90\" height=\"36\" rx=\"8\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"3\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;1;0;0\" keyTimes=\"0;0.08;0.25;0.33;1\" dur=\"6s\" begin=\"4.5s\" repeatCount=\"indefinite\"/></rect><text x=\"295.0\" y=\"160.0\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">oké</text><text x=\"20\" y=\"140\" text-anchor=\"start\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">1: echte woorden</text><text x=\"20\" y=\"156\" text-anchor=\"start\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">2: grappig fout gespeld</text><text x=\"20\" y=\"172\" text-anchor=\"start\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">3: afgekort</text><text x=\"180\" y=\"205\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">één grap overleefde de rage</text></svg>",
+   "quiz": {
+    "q": "Waar stond O.K. oorspronkelijk voor?",
+    "o": [
+     "Old Kinderhook, de bijnaam van een president",
+     "Een woord uit de Choctaw-taal",
+     "Oll korrect, een grappig fout gespeld 'all correct'"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Smithsonian – How one man discovered the origins of OK",
+     "u": "https://www.smithsonianmag.com/smart-news/how-one-man-discovered-the-obscure-origins-of-the-word-ok-180953258/"
+    },
+    {
+     "t": "Wordorigins.org – OK / okay",
+     "u": "https://wordorigins.org/big-list-entries/ok-okay"
+    }
+   ],
+   "date": "2026-11-19T05:45:18Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Waarom het Latijn pater zegt en wij vader",
+   "body": "Latijn pater, Nederlands vader. Latijn piscis, Nederlands vis. Latijn cornu, Nederlands hoorn. Geen toeval: in het Germaans, de voorouder van onder meer Nederlands, Duits en Engels, verschoof een reeks medeklinkers heel regelmatig. Een p werd f, een k werd h. Jacob Grimm, bekend van de sprookjes, beschreef die regel in 1822.",
+   "take": "Twijfel je of een woord verwant is met Latijn? Vervang p door f/v en k door h, en kijk of het klikt.",
+   "deep": "## Hoe het werkt\n\nNederlands, Latijn, Grieks en Sanskriet stammen allemaal af van één oude taal, het Proto-Indo-Europees. Toen de Germaanse tak zich afsplitste, ergens in het eerste millennium voor Christus, veranderde de uitspraak van een hele groep medeklinkers. Dat gebeurde niet woord per woord, maar systematisch.\n\nDe bekendste stap: de harde klanken p, t en k werden wrijfklanken. Een p werd f, een t werd een th-klank zoals in het Engelse 'thing', en een k werd een keelklank die later h werd. Het Latijn deed die verschuiving niet mee en bewaarde de oude klanken. Daarom staan pater en vader, pes en voet, piscis en vis, cornu en hoorn netjes tegenover elkaar. Dat het Nederlands vaak een v schrijft waar het Engels een f heeft, zoals in vader tegenover father, is een latere, eigen ontwikkeling.\n\n## Een voorbeeld\n\nHet Nederlands heeft soms beide vormen naast elkaar. 'Vaderlijk' is een erfwoord dat de verschuiving onderging. 'Paternalistisch' is veel later uit het Latijn geleend en hield de p. Zo ook 'voet' tegenover 'pedaal' en 'pedicure'. Leenwoorden ontsnapten aan de klankwet, omdat ze pas binnenkwamen toen die al lang voorbij was.\n\n## Wat onderzoek zegt\n\nJacob Grimm formuleerde de regel in 1822, voortbouwend op eerder werk van de Deense taalkundige Rasmus Rask. Taalkundigen noemen het sindsdien de wet van Grimm. Ze was een van de eerste sterke aanwijzingen dat klankverandering regelmatig en voorspelbaar verloopt, en hielp zo de vergelijkende taalwetenschap op een stevige basis zetten. Universitaire handboeken over historische taalkunde gebruiken nog steeds dezelfde reeksen voorbeelden.\n\n## Nuance of misverstand\n\nDe wet kent uitzonderingen. De t in pater werd in het Germaans geen th, maar een d, zoals in vader. De taalkundige Karl Verner verklaarde later waarom: de plaats van de klemtoon in het oude woord speelde mee. Dat heet de wet van Verner. Klankwetten zijn dus regelmatig, maar niet blind.\n\n## Wat je ermee doet\n\nGebruik de wet als detectivetrucje. Leer je Latijn, Frans of Italiaans, zoek dan naar verborgen familie: Frans 'père' en vader, Italiaans 'pesce' en vis. Zulke koppelingen maken nieuwe woorden makkelijker te onthouden.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"90\" y=\"26\" text-anchor=\"middle\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">Latijn</text><text x=\"270\" y=\"26\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">Nederlands</text><rect x=\"40\" y=\"50\" width=\"100\" height=\"34\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"90\" y=\"72\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\">pater</text><rect x=\"220\" y=\"50\" width=\"100\" height=\"34\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"270\" y=\"72\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\">vader</text><line x1=\"146\" y1=\"67\" x2=\"208\" y2=\"67\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"24;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></line><path d=\"M214 67 L207 63 L207 71 Z\" fill=\"#ffd166\"/><text x=\"180\" y=\"60\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">p → f/v</text><rect x=\"40\" y=\"102\" width=\"100\" height=\"34\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"90\" y=\"124\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\">piscis</text><rect x=\"220\" y=\"102\" width=\"100\" height=\"34\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"270\" y=\"124\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\">vis</text><line x1=\"146\" y1=\"119\" x2=\"208\" y2=\"119\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"24;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></line><path d=\"M214 119 L207 115 L207 123 Z\" fill=\"#ffd166\"/><text x=\"180\" y=\"112\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">p → f/v</text><rect x=\"40\" y=\"154\" width=\"100\" height=\"34\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"90\" y=\"176\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\">cornu</text><rect x=\"220\" y=\"154\" width=\"100\" height=\"34\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"270\" y=\"176\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\">hoorn</text><line x1=\"146\" y1=\"171\" x2=\"208\" y2=\"171\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"24;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></line><path d=\"M214 171 L207 167 L207 175 Z\" fill=\"#ffd166\"/><text x=\"180\" y=\"164\" text-anchor=\"middle\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">k → h</text><text x=\"180\" y=\"210\" text-anchor=\"middle\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">Germaanse klankverschuiving (Grimm, 1822)</text></svg>",
+   "quiz": {
+    "q": "Welke klankverschuiving verklaart het paar Latijn piscis en Nederlands vis?",
+    "o": [
+     "Een p werd in het Germaans een f-klank",
+     "Een s werd in het Latijn een p",
+     "Het Nederlands leende het woord uit het Frans"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "UT Austin – A Grammar of Proto-Germanic: phonology",
+     "u": "https://lrc.la.utexas.edu/books/pgmc/2-phonology"
+    },
+    {
+     "t": "University of Pennsylvania – Grimm's Law handout",
+     "u": "https://ling.upenn.edu/%7Ekroch/courses/lx411/handouts/GRIMM.pdf"
+    },
+    {
+     "t": "University of Vermont – Grimm's law notes and examples",
+     "u": "https://www.uvm.edu/~jbailly/courses/Etymology/additionalNotes/grimm%27sLawNOTESEXAMPLES.html"
+    }
+   ],
+   "date": "2026-11-19T05:45:18Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Brussel betekent: de woning bij het moeras",
+   "body": "De naam Brussel gaat terug op een oude vorm Bruocsella. Daarin zitten twee Oudnederlandse woorden: broek, drassig moerasland, en sele, een woning of zaal. Taalkundige A. Carnoy vond de vorm 'Bruocsella' in een oorkonde die op 966 gedateerd is. De stad groeide in het natte dal van de Zenne.",
+   "take": "Zie je 'broek' in een Vlaamse plaats- of straatnaam? Grote kans dat daar ooit nat, laaggelegen land lag.",
+   "deep": "## Hoe het werkt\n\nVeel plaatsnamen zijn kleine beschrijvingen van het landschap of van wie er woonde. Brussel is daar een mooi voorbeeld van. De oude vorm Bruocsella of Broekzele bestaat uit twee delen.\n\nHet eerste deel, broek, betekent drassig, laaggelegen land dat vaak onder water staat. Het woord leeft nog in veldnamen en straatnamen. Het tweede deel, sele of zele, is verwant met ons woord zaal. Het duidde een woning aan, volgens Carnoy een woonplaats die groter was dan een gewone hoeve. Samen geeft dat: de woning bij het moeras.\n\nDoorheen de eeuwen sleet de naam af in de mond van de sprekers: van Bruocsella over Broekzele naar Brussel. Het Franse Bruxelles gaat op dezelfde wortels terug.\n\n## Een voorbeeld\n\nWie vandaag door de Brusselse benedenstad wandelt, ziet weinig moeras. Toch lag de oudste kern in het dal van de Zenne, een rivier die nu grotendeels overwelfd onder de stad stroomt. Volgens het Brusselse stadsmagazine Brusseleir en de nieuwssite Bruzz was de omgeving van de vroegere nederzetting nat en moerassig.\n\n## Wat onderzoek zegt\n\nTaalkundige A. Carnoy schreef in 1925 een studie over de plaatsnamen rond Brussel in de Verslagen en Mededelingen van de Koninklijke Vlaamse Academie voor Taal- en Letterkunde. Hij noemt als oudste vorm 'Bruocsella super fluvium Braina' uit een oorkonde van 966, en leest de naam als 'de zele bij het broek'. Hij merkt zelf op dat die oorkonde misschien later is opgesteld dan haar datum. Ook het tijdschrift Naamkunde rekent namen op -zele, -heem, -hove en -stede tot de nederzettingsnamen. Andere voorbeelden zijn Bissezele en Oudezele in Frans-Vlaanderen.\n\n## Nuance of misverstand\n\nHet 'geboortejaar' van Brussel is minder zeker dan het lijkt. Een artikel in Ons Erfdeel noemt een burcht van hertog Karel in 977, terwijl de stad zelf de eerste betrouwbare vermelding rond 1015-1020 plaatst. Ook de precieze betekenis van zele verschilt per bron: sommigen denken aan een groot huis, anderen aan een eenvoudig huisje.\n\n## Wat je ermee doet\n\nKijk eens naar de plaats- en straatnamen in je eigen buurt. Woorden als broek, donk, beek, heide of zele vertellen vaak wat er vroeger lag: moeras, een droge hoogte in nat land, een waterloop, woeste grond of een woning. Zo wordt een straatnaambordje een klein stukje landschapsgeschiedenis.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" text-anchor=\"middle\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">broek + sele = Bruocsella</text><path d=\"M20 150 Q45 142 70 150 T120 150 T170 150 T220 150 T270 150 T320 150\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"10 6\"><animate attributeName=\"stroke-dashoffset\" values=\"32;0\" dur=\"3s\" repeatCount=\"indefinite\"/></path><path d=\"M20 166 Q45 158 70 166 T120 166 T170 166 T220 166 T270 166 T320 166\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"10 6\"><animate attributeName=\"stroke-dashoffset\" values=\"32;0\" dur=\"4s\" repeatCount=\"indefinite\"/></path><path d=\"M20 182 Q45 174 70 182 T120 182 T170 182 T220 182 T270 182 T320 182\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"10 6\"><animate attributeName=\"stroke-dashoffset\" values=\"32;0\" dur=\"5s\" repeatCount=\"indefinite\"/></path><text x=\"60\" y=\"205\" text-anchor=\"start\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">broek: drassig land</text><path d=\"M150 130 L150 92 L180 68 L210 92 L210 130 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"172\" y=\"106\" width=\"16\" height=\"24\" fill=\"#ffd166\"><animate attributeName=\"opacity\" values=\"0.3;1;0.3\" dur=\"4s\" repeatCount=\"indefinite\"/></rect><text x=\"225\" y=\"92\" text-anchor=\"start\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">sele: woning, zaal</text><text x=\"20\" y=\"70\" text-anchor=\"start\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Bruocsella</text><line x1=\"20\" y1=\"82\" x2=\"20\" y2=\"104\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M20 104 L16 98 L24 98 Z\" fill=\"#fff\"/><text x=\"20\" y=\"120\" text-anchor=\"start\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Brussel</text></svg>",
+   "quiz": {
+    "q": "Wat betekent het 'broek' in de oude naam van Brussel?",
+    "o": [
+     "Een brug over de rivier",
+     "Drassig, moerassig land",
+     "Een broek als kledingstuk"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "DBNL – A. Carnoy, De plaatsnamen van de Brusselsche omgeving (KVATL, 1925)",
+     "u": "https://www.dbnl.org/tekst/_ver025192501_01/_ver025192501_01_0032.php"
+    },
+    {
+     "t": "Stad Brussel – Brusseleir magazine 164",
+     "u": "https://www.brussel.be/sites/default/files/bxl/Brusseleir_164_accNL.pdf"
+    },
+    {
+     "t": "Bruzz – Op zoek naar nat Brussel: moerassen op de kaart",
+     "u": "https://www.bruzz.be/samenleving/op-zoek-naar-nat-brussel-moerassen-op-de-kaart-2011-08-03"
+    }
+   ],
+   "date": "2026-11-19T05:45:18Z"
   }
  ],
  "dives": [
