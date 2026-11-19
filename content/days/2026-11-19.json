@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T05:44:26Z",
+ "updated": "2026-11-19T05:44:47Z",
  "cards": [
   {
    "cat": "wetenschap",
@@ -576,6 +576,314 @@
     }
    ],
    "date": "2026-11-19T05:44:26Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Het eerste volledig synthetische plastic kwam van een Gentenaar",
+   "body": "Leo Baekeland, in 1863 in Gent geboren als zoon van een schoenmaker, zocht in Amerika een vervanger voor schellak. In juli 1907 vroeg hij patent aan op bakeliet: fenol en formaldehyde die onder hitte en druk uitharden tot een harde kunststof. Celluloid bestond al, maar kwam uit plantaardig materiaal. Bakeliet was volledig synthetisch.",
+   "take": "Vind je op een rommelmarkt een oude bruine radio of telefoon? Grote kans dat het bakeliet is: hard, en niet om te smelten.",
+   "deep": "## Hoe het werkt\n\nBakeliet ontstaat uit twee chemische stoffen: fenol, gewonnen uit koolteer, en formaldehyde. Laat je die met elkaar reageren, dan koppelen de moleculen aan elkaar. Baekelands eerste poging leverde Novolak op, een oplosbare soort kunstschellak die commercieel flopte.\n\nZijn doorbraak kwam met een drukketel die hij de 'Bakelizer' noemde. Door het mengsel onder hitte én druk te laten reageren, groeiden de moleculen uit tot een driedimensionaal netwerk. Het resultaat was hard, vormvast en isolerend. Belangrijk: zo'n thermoharder kan je na het uitharden niet opnieuw smelten, anders dan de meeste plastics van vandaag, die bij verwarming weer zacht worden.\n\n## Een voorbeeld\n\nHet Londense Science Museum toont een Philco-radio uit omstreeks 1936 met een gegoten bakelieten behuizing. Bakeliet werd verkocht als 'het materiaal van 1000 toepassingen' en dook op in auto's, radio's en zelfs doodskisten. Dat alles begon bij een Gentenaar die aan de Gentse universiteit zijn doctoraat behaalde en er een tijd les gaf, voor hij naar de Verenigde Staten vertrok.\n\n## Wat onderzoek zegt\n\nVolgens het Science History Institute verdiende Baekeland eerst een fortuin met Velox, fotopapier dat je bij kunstlicht kon ontwikkelen. Eastman Kodak kocht dat bedrijf rond 1899; de meeste bronnen noemen 750.000 dollar. Met dat geld kon hij zelfstandig onderzoek doen. Zijn beroemde patent op 'hitte en druk' diende hij in op 13 juli 1907, toegekend werd het op 7 december 1909. Britannica beschrijft hoe zijn zoektocht naar een synthetisch alternatief voor schellak, begonnen in 1905, tot bakeliet leidde. Ondanks de vrij hoge prijs vond het snel zijn weg naar de snelgroeiende auto- en radio-industrie. In 1939 verkocht Baekeland zijn bedrijf aan Union Carbide.\n\n## Nuance of misverstand\n\nBakeliet wordt vaak 'het eerste plastic' genoemd, maar dat klopt niet helemaal. Celluloid was ouder. Alleen werd celluloid gemaakt van natuurlijke grondstoffen, terwijl bakeliet volledig uit synthetische ingrediënten bestond. Daarom spreken historici van het eerste volledig synthetische plastic. Ook de data verschillen soms per bron, omdat uitvinding, patentaanvraag en toekenning in verschillende jaren vielen.\n\n## Wat je ermee doet\n\nOnthoud dat 'plastic' twee grote families kent: kunststoffen die zacht worden als je ze verwarmt, en thermoharders zoals bakeliet die blijvend hard zijn. Dat verklaart waarom de ene soort makkelijk om te smelten en te recycleren is en de andere niet. En vertel bij een volgend bezoek aan Gent gerust dat de plastic eeuw daar een beetje begon.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Bakelizer: hitte + druk</text><rect x=\"140\" y=\"70\" width=\"80\" height=\"80\" rx=\"10\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"115\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">reactor</text><circle cx=\"40\" cy=\"80\" r=\"9\" fill=\"#ffd166\"/><text x=\"40\" y=\"60\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">fenol</text><circle cx=\"40\" cy=\"150\" r=\"9\" fill=\"#06d6a0\"/><text x=\"40\" y=\"178\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">formaldehyde</text><circle r=\"6\" fill=\"#ffd166\"><animateMotion dur=\"4s\" repeatCount=\"indefinite\" path=\"M40 80 L150 105\"/></circle><circle r=\"6\" fill=\"#06d6a0\"><animateMotion dur=\"4s\" repeatCount=\"indefinite\" path=\"M40 150 L150 115\"/></circle><path d=\"M180 160 q-6 10 0 20 q6 10 0 20\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0.3;1;0.3\" dur=\"2s\" repeatCount=\"indefinite\"/></path><text x=\"205\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">hitte</text><line x1=\"225\" y1=\"110\" x2=\"255\" y2=\"110\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M255 104 L265 110 L255 116 Z\" fill=\"#fff\"/><g stroke=\"#ffd166\" stroke-width=\"2\" fill=\"none\"><path d=\"M275 80 h60 M275 110 h60 M275 140 h60 M285 70 v80 M305 70 v80 M325 70 v80\"/><animate attributeName=\"opacity\" values=\"0;1;1;0\" keyTimes=\"0;0.5;0.9;1\" dur=\"4s\" repeatCount=\"indefinite\"/></g><text x=\"305\" y=\"172\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">hard netwerk</text><text x=\"305\" y=\"188\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">smelt niet meer</text></svg>",
+   "quiz": {
+    "q": "Waarom noemen historici bakeliet het eerste vólledig synthetische plastic?",
+    "o": [
+     "Omdat het in Gent werd uitgevonden",
+     "Omdat oudere celluloid uit natuurlijke grondstoffen kwam",
+     "Omdat het als eerste bij verwarming smolt"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Science History Institute",
+     "u": "https://sciencehistory.org/historical-profile/leo-hendrik-baekeland"
+    },
+    {
+     "t": "Science Museum blog",
+     "u": "https://blog.sciencemuseum.org.uk/bakelite-the-first-synthetic-plastic/"
+    },
+    {
+     "t": "Britannica",
+     "u": "https://www.britannica.com/biography/Leo-Baekeland"
+    }
+   ],
+   "date": "2026-11-19T05:44:47Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Voor de trein had elke stad haar eigen uur",
+   "body": "Vroeger was het middag als de zon het hoogst stond, en dat moment verschilt per lengtegraad. Treinen maakten dat onwerkbaar. Amerikaanse en Canadese spoorwegen voerden op 18 november 1883 standaardtijdzones in, in 1884 werd Greenwich de nulmeridiaan. België stapte op 1 mei 1892 over van Brusselse tijd naar Greenwichtijd.",
+   "take": "Wil je de zon op haar hoogst zien in Brussel? Kijk rond kwart voor één in de winter, kwart voor twee in de zomer.",
+   "deep": "## Hoe het werkt\n\nDe aarde draait in 24 uur rond haar as, dus de zon schuift 15 lengtegraden per uur op, of één graad per vier minuten. Wie de klok op de zon zet, krijgt dus in elke stad een iets ander uur. Zolang je te voet of met de koets reisde, was dat geen probleem. Met de trein wel: een dienstregeling vraagt één tijd voor iedereen. Daarom werkten spoorwegen eerst met een eigen standaardtijd, vaak die van hun hoofdkantoor. De volgende stap was de wereld in zones van ongeveer één uur te verdelen, met één referentiepunt.\n\n## Een voorbeeld\n\nBrussel ligt ongeveer 4,35 graden ten oosten van Greenwich. De zon staat er dus zo'n 17 minuten vroeger op haar hoogst. Tot 1892 gold in België de gemiddelde zonnetijd van Brussel, ook voor de spoorwegen. Toen het land overstapte op Greenwichtijd, schoof de officiële klok een kwartier en meer op. Ook binnen België speelde het verschil: Oostende en Aarlen liggen bijna drie lengtegraden uit elkaar, goed voor ruim tien minuten zonnetijd.\n\n## Wat onderzoek zegt\n\nVolgens de Library of Congress voerden de Amerikaanse spoorwegen het systeem zelf in, op 18 november 1883. Sommige steden kregen die dag twee keer 'middag', toen de klokken werden bijgesteld. Op de Internationale Meridiaanconferentie in Washington in 1884 werd Greenwich gekozen als nulpunt voor de lengtegraden. Pas in 1918 legde het Amerikaanse Congres de tijdzones wettelijk vast met de Standard Time Act. De Koninklijke Sterrenwacht van België vermeldt dat de wet van 28 april 1892, van kracht op 1 mei 1892, de Greenwichtijd tot wettelijke tijd voor heel het land maakte.\n\n## Nuance of misverstand\n\nTijdzones zijn geen natuurwet maar afspraken, en die volgen eerder landsgrenzen dan nette lijnen van 15 graden. Dat België vandaag in de winter een uur vóór de universele tijd loopt en in de zomer twee, kwam pas later. Daardoor valt de zonnemiddag bij ons een stuk na 12 uur op de klok. Door de elliptische baan van de aarde schuift dat moment bovendien over het jaar nog tot een kwartier heen en weer.\n\n## Wat je ermee doet\n\nWil je een schaduw zien op haar kortst, voor een foto of een eenvoudig zonnewijzerproefje? Reken dan niet op 12 uur. In Brussel staat de zon in de winter rond kwart voor één op haar hoogst, in de zomer rond kwart voor twee. Hoe verder naar het westen, hoe later.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Zon schuift 1 lengtegraad per 4 minuten</text><line x1=\"30\" y1=\"150\" x2=\"330\" y2=\"150\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"290\" cy=\"150\" r=\"5\" fill=\"#ffd166\"/><text x=\"290\" y=\"172\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Brussel</text><text x=\"290\" y=\"188\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">4,35° O</text><circle cx=\"80\" cy=\"150\" r=\"5\" fill=\"#06d6a0\"/><text x=\"80\" y=\"172\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Greenwich</text><text x=\"80\" y=\"188\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">0°</text><circle r=\"12\" fill=\"#ffd166\"><animateMotion dur=\"6s\" repeatCount=\"indefinite\" path=\"M330 70 L30 70\"/></circle><line x1=\"290\" y1=\"85\" x2=\"290\" y2=\"140\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><line x1=\"80\" y1=\"85\" x2=\"80\" y2=\"140\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><text x=\"185\" y=\"120\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">± 17 min later middag</text><line x1=\"270\" y1=\"128\" x2=\"105\" y2=\"128\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><path d=\"M105 122 L95 128 L105 134 Z\" fill=\"#ff6b9d\"/><text x=\"180\" y=\"210\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Sinds 1 mei 1892: heel België op Greenwichtijd</text></svg>",
+   "quiz": {
+    "q": "Wat gebeurde er in België op 1 mei 1892?",
+    "o": [
+     "De eerste trein reed tussen Brussel en Mechelen",
+     "De zomertijd werd ingevoerd",
+     "Heel het land schakelde over op Greenwichtijd"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Koninklijke Sterrenwacht van België",
+     "u": "https://robinfo.oma.be/nl/astro-info/tijd/universele-tijd-en-legale-tijd-in-belgie/"
+    },
+    {
+     "t": "Library of Congress",
+     "u": "https://blogs.loc.gov/law/2024/11/whose-time-is-it-anyway-a-brief-history-of-standardized-time-zones-in-the-united-states/"
+    }
+   ],
+   "date": "2026-11-19T05:44:47Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Vroeger betaalde de ontvanger de brief, niet de afzender",
+   "body": "Voor 1840 rekende de Britse post per blad papier en per afstand, en meestal betaalde de ontvanger. Rowland Hill stelde één laag, vooraf betaald tarief voor. Vanaf 10 januari 1840 kostte een brief overal in Groot-Brittannië één penny, vanaf 6 mei gold de Penny Black. Het aantal brieven steeg van 76 naar 169 miljoen per jaar.",
+   "take": "Wil je dat mensen iets vaker doen? Maak de prijs eenvoudig, laag en vooraf te betalen, zoals de penny post deed.",
+   "deep": "## Hoe het werkt\n\nIn het oude systeem moest de postbode bij elke deur afrekenen. De prijs hing af van de afstand en van het aantal velletjes papier. Dat maakte post duur en omslachtig, en de ontvanger kon een brief ook gewoon weigeren. Rowland Hill draaide het om: de afzender betaalt vooraf, aan één vast tarief, ongeacht de afstand. Een klein klevend zegeltje diende als bewijs van betaling. De postbode hoefde niets meer te innen, alleen nog te bezorgen.\n\n## Een voorbeeld\n\nBelgië volgde negen jaar later. Op 1 juli 1849 werden de eerste Belgische postzegels geldig, de zogenoemde Epauletten: een bruine van 10 centiemen en een blauwe van 20 centiemen, met koning Leopold I in uniform. De koning was er naar verluidt niet blij mee, omdat de epauletten hem een kinderlijk uiterlijk gaven. Dezelfde logica stak dus snel het Kanaal over.\n\n## Wat onderzoek zegt\n\nVolgens het Londense Postal Museum en het London Museum ging het aantal brieven in Groot-Brittannië van ongeveer 76 miljoen in 1839 naar 169 miljoen in 1840. Op de eerste dag van de penny post werden 112.000 brieven gepost, meer dan drie keer zoveel als op dezelfde dag een jaar eerder. De voorraad postzegels ging op 1 mei 1840 naar de postkantoren, op 6 mei werden ze officieel geldig. Rond die tijd werden er dagelijks zo'n 600.000 zegels gedrukt. De Penny Black zelf bleef maar kort in gebruik: van mei 1840 tot februari 1841.\n\n## Nuance of misverstand\n\nDe Penny Black is beroemd als eerste klevende postzegel, maar de echte hervorming kwam eerder: het uniforme penny-tarief gold al vanaf 10 januari 1840, maanden voor er zegels waren. Het zegeltje was dus het middel, niet het idee. En 'één penny voor alles' gold niet onbeperkt: het tarief was gekoppeld aan een maximumgewicht.\n\n## Wat je ermee doet\n\nHet verhaal is een les in drempels verlagen. Post werd niet populair door betere brieven, maar doordat betalen simpel, voorspelbaar en goedkoop werd. Ontwerp je een lidmaatschap, een prijslijst of een inschrijving voor je vereniging? Kijk dan welke rekenwerk of verrassing je bij de klant kunt weghalen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Wie betaalt de brief?</text><text x=\"20\" y=\"62\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">voor 1840</text><text x=\"20\" y=\"152\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">na 1840</text><text x=\"60\" y=\"95\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">afzender</text><text x=\"300\" y=\"95\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ontvanger</text><text x=\"60\" y=\"185\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">afzender</text><text x=\"300\" y=\"185\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ontvanger</text><line x1=\"90\" y1=\"78\" x2=\"265\" y2=\"78\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"5 5\"/><line x1=\"90\" y1=\"168\" x2=\"265\" y2=\"168\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"5 5\"/><g><rect x=\"-14\" y=\"-9\" width=\"28\" height=\"18\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><animateMotion dur=\"5s\" repeatCount=\"indefinite\" path=\"M90 78 L265 78\"/></g><g><rect x=\"-14\" y=\"-9\" width=\"28\" height=\"18\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"5\" y=\"-7\" width=\"7\" height=\"8\" fill=\"#ffd166\"/><animateMotion dur=\"5s\" repeatCount=\"indefinite\" path=\"M90 168 L265 168\"/></g><circle cx=\"300\" cy=\"60\" r=\"9\" fill=\"#ff6b9d\"><animate attributeName=\"opacity\" values=\"0;0;1;1\" keyTimes=\"0;0.8;0.9;1\" dur=\"5s\" repeatCount=\"indefinite\"/></circle><circle cx=\"60\" cy=\"150\" r=\"9\" fill=\"#06d6a0\"><animate attributeName=\"opacity\" values=\"1;1;0;0\" keyTimes=\"0;0.15;0.25;1\" dur=\"5s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"60\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">betaalt bij levering</text><text x=\"180\" y=\"150\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">vooraf: 1 penny-zegel</text></svg>",
+   "quiz": {
+    "q": "Wie betaalde in Groot-Brittannië meestal de post vóór 1840?",
+    "o": [
+     "De ontvanger, bij levering",
+     "De afzender, met een postzegel",
+     "De gemeente, via belastingen"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "London Museum",
+     "u": "https://www.londonmuseum.org.uk/collections/london-stories/penny-post-sparked-letter-writing-revolution/"
+    },
+    {
+     "t": "Postal Museum",
+     "u": "https://www.postalmuseum.org/?p=24603"
+    },
+    {
+     "t": "Epauletten (Wikipedia)",
+     "u": "https://en.wikipedia.org/wiki/Epaulettes_(stamp)"
+    }
+   ],
+   "date": "2026-11-19T05:44:47Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Een koopmanszoon uit Pisa bracht onze cijfers naar Europa",
+   "body": "Leonardo van Pisa, bekend als Fibonacci, leerde in Bugia (het huidige Bejaia in Algerije), waar zijn vader handel dreef, het Indisch-Arabische talstelsel kennen. In 1202 schreef hij Liber Abaci: tien cijfers met een nul en plaatswaarde, vol rekenvoorbeelden voor kooplui. Toch verbood het Florentijnse wisselaarsgilde rond 1299 die cijfers nog in de boekhouding.",
+   "take": "Schrijf op een overschrijving of contract het bedrag ook voluit in woorden: cijfers zijn makkelijker te vervalsen dan woorden.",
+   "deep": "## Hoe het werkt\n\nIn ons talstelsel bepaalt de plaats van een cijfer zijn waarde. In 205 staat de 2 voor tweehonderd, de 0 voor nul tientallen en de 5 voor vijf eenheden. De nul is cruciaal: ze houdt een lege plaats vast, zodat 25 en 205 niet verward raken. Daardoor kan je op papier optellen en vermenigvuldigen per kolom, met onthouden en lenen. Met Romeinse cijfers lukt dat niet: CCV heeft geen kolommen. Wie in Romeinse cijfers boekhield, rekende meestal op een telraam en noteerde enkel de uitkomst.\n\n## Een voorbeeld\n\nProbeer MCCII maal XII uit te rekenen zonder om te zetten. Daarna 1202 maal 12. Het tweede gaat op een kladblaadje in een halve minuut. Precies dat voordeel zag Fibonacci bij de handelaars rond de Middellandse Zee, en precies daarom vulde hij zijn boek met praktische vraagstukken over prijzen, munten en winstverdeling.\n\n## Wat onderzoek zegt\n\nDe wiskundehistorici van de University of St Andrews beschrijven hoe Fibonacci het stelsel in Bugia leerde en daarna langs de Middellandse Zee reisde om de rekenmethodes van kooplui te bestuderen. Van de editie van 1202 bestaat geen exemplaar meer; we kennen de herziene versie uit 1228. Wiskundige Norman Biggs wijst er in een Gresham-lezing op dat het verbod van het Florentijnse wisselaarsgilde vooral gold voor de officiële boeken, niet voor het rekenen zelf. Bedragen moesten in Romeinse cijfers of voluit in woorden. Tegelijk volgden rond 1350 al meer dan duizend leerlingen in Florence les in speciale rekenscholen.\n\n## Nuance of misverstand\n\nFibonacci was niet de eerste Europeaan die de cijfers kende, en zijn boek veroverde Europa niet in één klap: de overstap duurde eeuwen. Het vaak herhaalde verhaal dat Florence de cijfers verbood omdat een 0 makkelijk in een 6 te veranderen was, is plausibel maar niet uit een document van toen bewezen. En Fibonacci is vandaag vooral bekend van zijn konijnenrij, terwijl dat maar één vraagstuk uit het boek was.\n\n## Wat je ermee doet\n\nDe middeleeuwse wisselaars hadden een punt: cijfers zijn snel, maar kwetsbaar voor knoeiwerk. Daarom vraagt een cheque of contract vaak het bedrag in cijfers én in woorden. Gebruik dat principe zelf bij belangrijke bedragen, en geniet ondertussen van het gemak van een nul.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Plaatswaarde: de positie telt</text><rect x=\"70\" y=\"50\" width=\"70\" height=\"70\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"stroke\" values=\"#fff;#ffd166;#fff\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/></rect><rect x=\"145\" y=\"50\" width=\"70\" height=\"70\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"stroke\" values=\"#fff;#ffd166;#fff\" dur=\"6s\" begin=\"2s\" repeatCount=\"indefinite\"/></rect><rect x=\"220\" y=\"50\" width=\"70\" height=\"70\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"stroke\" values=\"#fff;#ffd166;#fff\" dur=\"6s\" begin=\"4s\" repeatCount=\"indefinite\"/></rect><text x=\"105\" y=\"98\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"30\" text-anchor=\"middle\">2</text><text x=\"180\" y=\"98\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"30\" text-anchor=\"middle\">0</text><text x=\"255\" y=\"98\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"30\" text-anchor=\"middle\">5</text><text x=\"105\" y=\"140\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">honderd</text><text x=\"180\" y=\"140\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">tien</text><text x=\"255\" y=\"140\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">een</text><text x=\"180\" y=\"165\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">200 + 0 + 5 = 205</text><text x=\"180\" y=\"195\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Romeins: CCV</text><text x=\"180\" y=\"212\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">de nul houdt een lege plaats vast</text></svg>",
+   "quiz": {
+    "q": "Wat maakt de nul zo belangrijk in ons talstelsel?",
+    "o": [
+     "Ze staat voor het getal tien",
+     "Ze houdt een lege plaats vast, zodat 25 en 205 verschillen",
+     "Ze vervangt het Romeinse cijfer M"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "MacTutor, St Andrews",
+     "u": "https://mathshistory.st-andrews.ac.uk/Biographies/Fibonacci/"
+    },
+    {
+     "t": "Gresham College, Norman Biggs",
+     "u": "https://www.gresham.ac.uk/sites/default/files/25apr08_-_mathematics_of_currency_and_exchange_-_norman_biggs_0.pdf"
+    }
+   ],
+   "date": "2026-11-19T05:44:47Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Zelfde prijs, minder erin: zo werkt krimpflatie",
+   "body": "Bij krimpflatie blijft de prijs gelijk, maar zit er minder in de verpakking. Het Britse statistiekbureau ONS vond tussen september 2015 en juni 2017 206 producten die kleiner werden, en 79 die groter werden, vooral voeding en drank. Op het prijskaartje zie je dat niet, wel aan de prijs per kilo of liter.",
+   "take": "Vergelijk in de winkel niet de prijs op het kaartje, maar de eenheidsprijs per kilo of liter op het schapetiket.",
+   "deep": "## Hoe het werkt\n\nKlanten letten vooral op het bedrag dat ze aan de kassa betalen, veel minder op het gewicht. Een prijsverhoging van 2,49 naar 2,79 euro valt op. Een zak chips die van 300 naar 260 gram gaat aan dezelfde prijs, valt veel minder op, zeker als de verpakking even groot oogt. Toch komt het op hetzelfde neer: je betaalt meer per gram. Fabrikanten kunnen zo stijgende kosten doorrekenen zonder die gevoelige prijsgrens te raken.\n\n## Een voorbeeld\n\nNeem die zak chips. Bij 300 gram aan 2,49 euro betaal je 8,30 euro per kilo. Bij 260 gram aan dezelfde prijs is dat 9,58 euro per kilo, een stijging van ruim 15 procent. Test Aankoop raadt Belgische consumenten daarom aan om producten te vergelijken op hun prijs per eenheid, om trucjes als krimpflatie of duurdere maxiverpakkingen te ontmaskeren.\n\n## Wat onderzoek zegt\n\nHet ONS analyseerde in 2019 ongeveer 17.000 prijzen. Tussen september 2015 en juni 2017 krompen 206 producten en werden er 79 groter, de meeste in voeding en drank. Er was geen trend rond het Brexit-referendum te zien. Per periode ging het om een klein aandeel: zowat 1 tot 2,1 procent van de voedingsproducten kromp. Volgens Euronews (oktober 2026) heeft België nog geen specifieke wet tegen krimpflatie, al werd er wel over gepraat. Oostenrijk verplicht sinds april 2026 grotere supermarkten om producten te markeren die krimpen terwijl hun eenheidsprijs met minstens 3 procent stijgt.\n\n## Nuance of misverstand\n\nKrimpflatie is meestal niet illegaal: het gewicht staat op de verpakking en de eenheidsprijs op het schap. Het is dus eerder een kwestie van aandacht dan van bedrog. Producten worden ook soms groter, en niet elke krimping is stiekem. Volgens het ONS ging het bovendien niet om een wijdverspreid fenomeen. Voor jou als klant kan het per product wel flink tellen.\n\n## Wat je ermee doet\n\nKijk bij je vaste producten af en toe naar het gewicht en de eenheidsprijs. Noteer desnoods wat je normaal betaalt per kilo voor koffie, chips of wasmiddel. Zie je de eenheidsprijs stijgen, vergelijk dan met een ander merk of het huismerk. Zo laat het kaartje je niet meer in de luren leggen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Zelfde prijs, minder inhoud</text><rect x=\"70\" y=\"60\" width=\"80\" height=\"120\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"height\" values=\"120;104;104;120\" keyTimes=\"0;0.4;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"60;76;76;60\" keyTimes=\"0;0.4;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"110\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">300 g → 260 g</text><rect x=\"200\" y=\"60\" width=\"110\" height=\"34\" rx=\"6\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"255\" y=\"82\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">€ 2,49</text><text x=\"255\" y=\"125\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">prijs per kilo</text><text x=\"255\" y=\"150\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">€ 8,30/kg<animate attributeName=\"opacity\" values=\"1;0;0;1\" keyTimes=\"0;0.4;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></text><text x=\"255\" y=\"150\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\" opacity=\"0\">€ 9,58/kg<animate attributeName=\"opacity\" values=\"0;1;1;0\" keyTimes=\"0;0.4;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></text><text x=\"255\" y=\"180\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">daar zie je het</text></svg>",
+   "quiz": {
+    "q": "Een product gaat van 300 naar 260 gram aan dezelfde prijs. Wat gebeurt er?",
+    "o": [
+     "Niets, de prijs blijft gelijk",
+     "De prijs per kilo daalt",
+     "De prijs per kilo stijgt met ruim 15%"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "ONS",
+     "u": "https://www.ons.gov.uk/economy/inflationandpriceindices/articles/theimpactofshrinkflationoncpihuk/howmanyofourproductsaregettingsmaller"
+    },
+    {
+     "t": "Test Aankoop",
+     "u": "https://www.test-aankoop.be/familie-prive/supermarkten/dossier/inflatie-in-belgie"
+    },
+    {
+     "t": "Euronews",
+     "u": "https://euronews.com/2026/10/23/less-product-same-price-what-is-supermarket-shrinkflation"
+    }
+   ],
+   "date": "2026-11-19T05:44:47Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Twee koekjes in een pot smaken beter dan tien",
+   "body": "In 1975 lieten psychologen Worchel, Lee en Adewole proefpersonen een koekje beoordelen uit een pot met tien of met twee identieke koekjes. Het koekje uit de bijna lege pot scoorde beter. Nog sterker: zagen deelnemers de voorraad slinken van tien naar twee, omdat anderen ze wilden, dan steeg de waardering nog meer.",
+   "take": "Zie je 'nog 2 beschikbaar'? Vraag jezelf af of je het ook zou kopen als er nog honderd waren.",
+   "deep": "## Hoe het werkt\n\nSchaarste werkt als een signaal. Als iets bijna op is, leidt ons brein af dat anderen het blijkbaar goed vinden. Dat is vaak een handige vuistregel: wat populair is, is dikwijls ook goed. Daarbij komt de angst om iets mis te lopen. Wat we misschien niet meer kunnen krijgen, lijkt meer waard. Marketeers spelen daarop in met beperkte voorraden, tijdelijke acties en teksten als 'op = op'.\n\n## Een voorbeeld\n\nJe zoekt een hotelkamer voor een weekendje Gent en ziet in het rood: 'Nog 1 kamer aan deze prijs'. Of de supermarkt kondigt een actie aan 'zolang de voorraad strekt'. Hetzelfde product voelt plots aantrekkelijker, ook al is er aan de kamer of het product niets veranderd. Je reageert op de pot, niet op het koekje.\n\n## Wat onderzoek zegt\n\nDe studie verscheen in 1975 in het Journal of Personality and Social Psychology. Het abstract spreekt van twee experimenten met 200 studentes. Wie een koekje kreeg uit de pot met twee, vond het aantrekkelijker en wenselijker dan wie hetzelfde koekje uit de pot met tien kreeg. In een tweede deel veranderde de voorraad voor de ogen van de deelnemers. Ging die van tien naar twee, dan werden de overgebleven koekjes nog hoger gewaardeerd dan koekjes die altijd al schaars waren. Ging de voorraad van twee naar tien, dan daalde de waardering. Ook de reden telde: als de koekjes verdwenen door grote vraag, scoorden ze hoger dan wanneer het om een vergissing ging.\n\n## Nuance of misverstand\n\nHet blijft één klassiek experiment met koekjes en studenten, en secundaire bronnen geven soms andere deelnemersaantallen. Het effect is ook geen toverformule: schaarste werkte het sterkst wanneer ze veroorzaakt leek door populariteit. Een tekort door een fout overtuigde minder. En wie te vaak 'laatste kans' roept, verliest geloofwaardigheid.\n\n## Wat je ermee doet\n\nBij een aankoop helpt een eenvoudige test: zou ik dit even graag willen als het ruim op voorraad was? Is het antwoord nee, dan koop je de schaarste en niet het product. Verkoop je zelf iets, wees dan eerlijk: echte beperkte reeksen mag je vermelden, nep-schaarste ondergraaft vertrouwen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Zelfde koekje, ander oordeel</text><path d=\"M55 90 v95 h80 v-95\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"75\" cy=\"130\" r=\"7\" fill=\"#ffd166\"/><circle cx=\"75\" cy=\"150\" r=\"7\" fill=\"#ffd166\"/><circle cx=\"75\" cy=\"170\" r=\"7\" fill=\"#ffd166\"/><circle cx=\"95\" cy=\"130\" r=\"7\" fill=\"#ffd166\"/><circle cx=\"95\" cy=\"150\" r=\"7\" fill=\"#ffd166\"/><circle cx=\"95\" cy=\"170\" r=\"7\" fill=\"#ffd166\"/><circle cx=\"115\" cy=\"130\" r=\"7\" fill=\"#ffd166\"/><circle cx=\"115\" cy=\"150\" r=\"7\" fill=\"#ffd166\"/><circle cx=\"115\" cy=\"170\" r=\"7\" fill=\"#ffd166\"/><circle cx=\"95\" cy=\"110\" r=\"7\" fill=\"#ffd166\"/><text x=\"95\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">pot met 10</text><path d=\"M225 90 v95 h80 v-95\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"255\" cy=\"170\" r=\"7\" fill=\"#ffd166\"/><circle cx=\"275\" cy=\"170\" r=\"7\" fill=\"#ffd166\"/><text x=\"265\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">pot met 2</text><rect x=\"55\" y=\"50\" width=\"40\" height=\"12\" fill=\"#06d6a0\"/><rect x=\"225\" y=\"50\" width=\"40\" height=\"12\" fill=\"#ff6b9d\"><animate attributeName=\"width\" values=\"40;80;80;40\" keyTimes=\"0;0.5;0.9;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"180\" y=\"45\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">waardering</text></svg>",
+   "quiz": {
+    "q": "Wanneer werd een koekje in het experiment het hoogst gewaardeerd?",
+    "o": [
+     "Als de pot van tien naar twee slonk door grote vraag",
+     "Als de pot altijd tien koekjes bevatte",
+     "Als de pot van twee naar tien aangevuld werd"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Worchel, Lee & Adewole (1975)",
+     "u": "https://uni-muenster.de/imperia/md/content/psyifp/aeechterhoff/vorlesungkommunikation/worchelleeeta_suppdemanobjval_jpsp1975.pdf"
+    },
+    {
+     "t": "Stafforini (samenvatting)",
+     "u": "https://stafforini.com/works/worchel-1975-effects-supply-demand/"
+    }
+   ],
+   "date": "2026-11-19T05:44:47Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Franse accordeonmuziek liet klanten Franse wijn kopen",
+   "body": "Onderzoekers speelden twee weken lang om de dag Franse of Duitse muziek bij een supermarktrek met Franse en Duitse wijn. Op Franse dagen gingen 40 Franse en 8 Duitse wijnen mee, op Duitse dagen 12 Franse en 22 Duitse. Volgens een vragenlijst hadden klanten zelf niet door dat de muziek hun keuze stuurde.",
+   "take": "Merk je in de winkel achtergrondmuziek op? Pak je boodschappenlijstje erbij: je keuze wordt mogelijk zachtjes bijgestuurd.",
+   "deep": "## Hoe het werkt\n\nMuziek doet twee dingen in een winkel. Ze roept associaties op: een accordeon doet aan Frankrijk denken, en dat maakt Franse producten net iets aantrekkelijker op het moment dat je kiest. Daarnaast beïnvloedt het tempo hoe snel je stapt. Trage muziek vertraagt je, waardoor je langer in de winkel blijft en meer ziet. Beide effecten werken grotendeels onbewust.\n\n## Een voorbeeld\n\nHet Belgische Retail Design Lab vat onderzoek samen waarin klanten duidelijk trager bewegen bij een laag tempo, rond 72 slagen per minuut, en sneller bij muziek vanaf ongeveer 92 slagen per minuut. Denk aan het verschil tussen een rustig jazznummer in een wijnwinkel en een opzwepende hit in een kledingketen tijdens de solden.\n\n## Wat onderzoek zegt\n\nAdrian North, David Hargreaves en Jennifer McKendrick publiceerden hun wijnproef in 1997 kort in Nature, met een uitgebreider artikel in 1999 in het Journal of Applied Psychology. Ze stalden vier Franse en vier Duitse wijnen uit en wisselden dagelijks tussen Franse accordeonmuziek en Duitse Bierkeller-muziek. Ongeveer de helft van de kopers vulde een vragenlijst in, en daaruit bleek dat ze zich niet bewust waren van het effect. Al in 1982 beschreef Ronald Milliman in het Journal of Marketing een supermarkt die negen weken lang traag, snel of geen muziek draaide. Op dagen met trage muziek lag de omzet gemiddeld zo'n 38 procent hoger dan op dagen met snelle muziek.\n\n## Nuance of misverstand\n\nDe aantallen zijn klein: in de wijnstudie ging het om enkele tientallen flessen. Latere studies vonden dat het tempo-effect afhangt van de toonaard. In majeur maakte het tempo weinig uit, in mineur werkte traag duidelijk beter. Een overzicht uit 2025 merkt op dat maar weinig veldstudies het effect van trage muziek op omzet bevestigen. Muziek is dus een duwtje, geen afstandsbediening.\n\n## Wat je ermee doet\n\nAls klant: ga met een lijstje naar de winkel en wees extra alert bij impulsaankopen zoals wijn of snoep, waar je geen vaste voorkeur hebt. Als handelaar: kies muziek die past bij wat je verkoopt en bij het tempo dat je wilt, en test het zelf door te vergelijken over verschillende dagen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Muziek stuurt de keuze aan het rek</text><path d=\"M30 90 h20 l20 -18 v56 l-20 -18 h-20 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"55\" y=\"150\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Franse muziek</text><circle r=\"5\" fill=\"#ffd166\"><animateMotion dur=\"3s\" repeatCount=\"indefinite\" path=\"M80 100 Q130 60 180 100\"/></circle><line x1=\"200\" y1=\"180\" x2=\"340\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"220\" y=\"140\" width=\"40\" height=\"40\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"8;40;40;8\" keyTimes=\"0;0.5;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"172;140;140;172\" keyTimes=\"0;0.5;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"285\" y=\"172\" width=\"40\" height=\"8\" fill=\"#06d6a0\"/><text x=\"240\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Frans: 40</text><text x=\"305\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Duits: 8</text><text x=\"270\" y=\"60\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">verkochte flessen</text></svg>",
+   "quiz": {
+    "q": "Wat gebeurde er op dagen met Franse muziek in de wijnstudie?",
+    "o": [
+     "Klanten kochten minder wijn",
+     "Franse wijn verkocht veel beter dan Duitse",
+     "Klanten gaven aan dat de muziek hen beïnvloedde"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Spokesman-Review (AP)",
+     "u": "https://spokesman.com/stories/1997/nov/13/study-pairs-wine-type-with-music"
+    },
+    {
+     "t": "Nature",
+     "u": "https://www.nature.com/articles/36484"
+    },
+    {
+     "t": "Retail Design Lab",
+     "u": "https://retaildesignlab.be/en/speed-movement-consumer"
+    }
+   ],
+   "date": "2026-11-19T05:44:47Z"
+  },
+  {
+   "cat": "tech",
+   "title": "In je gsm-batterij pendelen lithiumionen heen en weer",
+   "body": "Een lithiumionbatterij verbruikt haar elektroden niet. Bij het laden schuiven lithiumionen naar de ene elektrode, bij gebruik weer terug. Daarvoor kregen Stanley Whittingham, John Goodenough en Akira Yoshino in 2019 de Nobelprijs Chemie. Goodenough verdubbelde de spanning tot 4 volt met kobaltoxide; in 1991 kwamen de batterijen op de markt.",
+   "take": "Laat je smartphone in de zomer niet in de zon of op het dashboard liggen: hitte boven 35 °C beschadigt de batterij blijvend.",
+   "deep": "## Hoe het werkt\n\nEen batterij heeft twee elektroden met daartussen een elektrolyt. In een lithiumionbatterij zijn beide elektroden gelaagde materialen waar lithiumionen tussen kunnen schuiven, zoals kaarten in een stapel. Bij het laden duw je met de lader ionen van de kathode naar de anode. Bij gebruik wandelen ze vanzelf terug door het elektrolyt, terwijl de elektronen de omweg nemen via je toestel: dat is de stroom die je scherm laat oplichten. Omdat de elektroden niet chemisch worden afgebroken, kan je zo'n batterij honderden keren herladen.\n\n## Een voorbeeld\n\nJe gsm, laptop, elektrische fiets en elektrische auto werken allemaal volgens dit principe. Apple raadt aan om toestellen te gebruiken bij een omgevingstemperatuur tussen 0 en 35 °C, met 16 tot 22 °C als ideale zone. Boven 35 °C kan de batterijcapaciteit blijvend dalen, en zelfs het bewaren van een batterij in een warme omgeving kan onomkeerbare schade geven. Een telefoon die achter de voorruit ligt te bakken, verliest dus echt levensduur.\n\n## Wat onderzoek zegt\n\nHet werk begon in de jaren 1970, kort voor de oliecrisis van 1973. Whittingham bouwde een batterij met een kathode van titaandisulfide en een anode van metallisch lithium, goed voor ongeveer 2 volt. Maar dat lithiummetaal kon ontploffen. Goodenough verving de kathode door kobaltoxide, wat de spanning verdubbelde tot 4 volt. Yoshino gebruikte in 1985 petroleumcokes als anode: een gelaagd koolstofmateriaal dat zelf geen lithium is, maar lithiumionen kan opslaan. Dat maakte de batterij veiliger en duurzamer. Dat basisontwerp zat in de eerste commerciële lithiumionbatterijen van 1991.\n\n## Nuance of misverstand\n\nKou en hitte doen niet hetzelfde. Een koude batterij levert tijdelijk minder; komt ze weer op normale temperatuur, dan herstelt de prestatie. Hitte daarentegen veroorzaakt blijvende schade. Een lege batterij in de winter is dus meestal geen kapotte batterij. Ook belangrijk: lithiumionbatterijen bevatten geen metallisch lithium meer, precies om het brandgevaar van de eerste ontwerpen te vermijden.\n\n## Wat je ermee doet\n\nLeg je toestel niet in de volle zon, laad het niet onder een kussen of in een hete auto, en haal het uit een dikke hoes als het tijdens het laden warm wordt. Lege batterij in de vrieskou? Warm het toestel rustig op in je binnenzak in plaats van het meteen op te geven.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Laden: ionen schuiven naar de anode</text><rect x=\"40\" y=\"50\" width=\"80\" height=\"130\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"80\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">kathode</text><rect x=\"240\" y=\"50\" width=\"80\" height=\"130\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"280\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">anode</text><line x1=\"180\" y1=\"55\" x2=\"180\" y2=\"175\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><text x=\"180\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">elektrolyt</text><circle r=\"7\" fill=\"#ffd166\"><animateMotion dur=\"5s\" begin=\"0s\" repeatCount=\"indefinite\" path=\"M90 80 L270 80 L90 80\"/></circle><circle r=\"7\" fill=\"#ffd166\"><animateMotion dur=\"5s\" begin=\"0.6s\" repeatCount=\"indefinite\" path=\"M90 115 L270 115 L90 115\"/></circle><circle r=\"7\" fill=\"#ffd166\"><animateMotion dur=\"5s\" begin=\"1.2s\" repeatCount=\"indefinite\" path=\"M90 150 L270 150 L90 150\"/></circle><text x=\"180\" y=\"42\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Li⁺ heen bij laden, terug bij gebruik</text></svg>",
+   "quiz": {
+    "q": "Wat gebeurt er met lithiumionen als je je gsm gebruikt?",
+    "o": [
+     "Ze bewegen terug door het elektrolyt naar de kathode",
+     "Ze verbranden en worden opgebruikt",
+     "Ze worden omgezet in elektronen"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Science News",
+     "u": "https://www.sciencenews.org/article/lithium-ion-battery-chemistry-nobel-prize"
+    },
+    {
+     "t": "Scientific American",
+     "u": "https://www.scientificamerican.com/article/high-energy-award-lithium-batteries-win-2019-nobel-prize-in-chemistry1/"
+    },
+    {
+     "t": "Apple",
+     "u": "https://www.apple.com/me/batteries/maximizing-performance/"
+    }
+   ],
+   "date": "2026-11-19T05:44:47Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Het draaiplateau in je magnetron bestaat door koude plekken",
+   "body": "Een magnetron stuurt microgolven van 2,45 gigahertz rond, die watermoleculen in je eten heen en weer doen draaien; die beweging wordt warmte. De golven weerkaatsen tegen de metalen wanden en vormen een staande golf: plekken met veel en weinig energie, telkens zo'n 6 centimeter uit elkaar. Het draaiplateau sleept je eten door dat patroon.",
+   "take": "Roer halverwege en laat je bord daarna een minuutje rusten: zo verdeelt de warmte zich over de koude plekken.",
+   "deep": "## Hoe het werkt\n\nHet hart van het toestel is een magnetron, een buis die microgolven opwekt. Die hebben een frequentie van 2,45 gigahertz: het elektrische veld wisselt 2,45 miljard keer per seconde van richting. Watermoleculen hebben een licht positieve en een licht negatieve kant en proberen telkens mee te draaien met dat veld. Die gejaagde beweging wordt wrijving en dus warmte. In de metalen doos weerkaatsen de golven en vallen ze over elkaar heen. Zo ontstaat een staande golf met vaste plekken waar de energie hoog is en plekken waar ze bijna nul is. De afstand tussen twee hete plekken is een halve golflengte, zowat 6 centimeter.\n\n## Een voorbeeld\n\nJe kan het thuis zien. Haal het draaiplateau eruit, leg een omgekeerd bord met een reep chocolade in de magnetron en zet hem enkele seconden aan. De chocolade smelt eerst op enkele plekken. Meet de afstand ertussen, verdubbel die en vermenigvuldig met de frequentie op het typeplaatje: je komt in de buurt van de lichtsnelheid, 300.000 kilometer per seconde. Boston University gebruikt die proef in de klas.\n\n## Wat onderzoek zegt\n\nDe magnetron werd bij toeval een keukentoestel. Percy Spencer, ingenieur bij de Amerikaanse firma Raytheon, merkte rond 1945 dat een reep in zijn zak gesmolten was terwijl hij bij een werkende radarbuis stond. Hij testte daarna popcornkorrels. Het patent werd in 1950 toegekend. Het eerste commerciële toestel, de Radarange, was ongeveer 1,7 meter hoog en woog zo'n 340 kilo. Een lezersbrief in een vakblad van de University of Waterloo waarschuwt wel dat de hete plekken in een echte oven grillig verdeeld liggen, zodat de chocoladeproef een ruwe meting blijft.\n\n## Nuance of misverstand\n\nEen magnetron kookt niet 'van binnen naar buiten'. De golven dringen maar een paar centimeter in je eten door; de kern wordt vooral warm doordat die buitenlaag haar warmte doorgeeft. En 2,45 gigahertz is geen magische trilfrequentie van water. Het is een praktisch gekozen frequentie die water goed opwarmt en toch voldoende diep doordringt.\n\n## Wat je ermee doet\n\nEen draaiplateau of roerwaaier vermindert koude plekken, maar wist ze niet uit. Roer daarom halverwege, verdeel eten in een ring met het midden vrij, en laat het na afloop even staan. Zo krijgt de warmte tijd om naar de koude zones te lopen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Staande golf: warme en koude plekken</text><rect x=\"40\" y=\"40\" width=\"280\" height=\"150\" rx=\"8\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M50 90 Q75 60 100 90 T150 90 T200 90 T250 90 T300 90\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0.3;1;0.3\" dur=\"2s\" repeatCount=\"indefinite\"/></path><circle cx=\"75\" cy=\"125\" r=\"5\" fill=\"#ff6b9d\"/><circle cx=\"125\" cy=\"125\" r=\"5\" fill=\"#ff6b9d\"/><circle cx=\"175\" cy=\"125\" r=\"5\" fill=\"#ff6b9d\"/><circle cx=\"225\" cy=\"125\" r=\"5\" fill=\"#ff6b9d\"/><circle cx=\"275\" cy=\"125\" r=\"5\" fill=\"#ff6b9d\"/><text x=\"180\" y=\"115\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">hete plekken ± 6 cm uit elkaar</text><g><ellipse cx=\"180\" cy=\"160\" rx=\"70\" ry=\"14\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"235\" cy=\"160\" r=\"5\" fill=\"#06d6a0\"><animateMotion dur=\"6s\" repeatCount=\"indefinite\" path=\"M0 0 Q-55 12 -110 0 Q-55 -12 0 0\"/></circle></g><text x=\"180\" y=\"208\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">draaiplateau sleept eten door het patroon</text></svg>",
+   "quiz": {
+    "q": "Waarom draait het bord in een magnetron rond?",
+    "o": [
+     "Om de microgolven sneller te maken",
+     "Om het eten van binnen naar buiten te koken",
+     "Om het eten door hete en koude plekken van de staande golf te bewegen"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Boston University",
+     "u": "https://www.bu.edu/gk12/loren/lesson_microwave.html"
+    },
+    {
+     "t": "IEEE Spectrum",
+     "u": "https://spectrum.ieee.org/a-history-of-the-microwave-oven"
+    },
+    {
+     "t": "University of Waterloo, Chem 13 News",
+     "u": "https://uwaterloo.ca/chem13-news-magazine/node/619"
+    }
+   ],
+   "date": "2026-11-19T05:44:47Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Je internet reist onder de zee, niet via satellieten",
+   "body": "Meer dan 99 procent van het intercontinentale dataverkeer loopt via kabels op de zeebodem. TeleGeography telde begin 2025 570 werkende onderzeese kabelsystemen. Binnenin dragen glasvezels lichtpulsen; versterkers onderweg poetsen het verzwakte licht op. Ook Oostende is een landingsplaats, onder meer voor een nieuwe kabel van 115 kilometer uit het Engelse Margate.",
+   "take": "Hoor je over een kabelbreuk? Denk niet meteen aan sabotage: volgens de ITU zitten er meestal ongelukken of natuurgeweld achter.",
+   "deep": "## Hoe het werkt\n\nEen onderzeese internetkabel is in essentie een bundel glasvezels. Data reist erdoor als lichtpulsen. Over duizenden kilometers verzwakt dat licht, dus liggen er onderweg versterkers, repeaters, die het signaal weer krachtiger maken. In de diepzee, waar weinig kan gebeuren, is de kabel verrassend dun: soms minder dan 2 centimeter. Dichter bij de kust, waar schepen ankeren en vissers sleepnetten gebruiken, krijgt hij extra bepantsering met staaldraad. Aan land komt de kabel aan in een landingsstation dat hem met het netwerk op het vasteland verbindt.\n\n## Een voorbeeld\n\nOostende is al decennia een landingsplaats voor kabels uit Groot-Brittannië. In 2025 legde EXA Infrastructure een nieuwe zeekabel van 115 kilometer tussen Margate en Oostende, als deel van een route van 1.200 kilometer tussen Londen, Amsterdam, Brussel en Frankfurt. Het was volgens de betrokkenen de eerste nieuwe zeekabel op die route in 25 jaar. Een video die je in Vlaanderen bekijkt van een Amerikaanse server, kan dus via de bodem van de Atlantische Oceaan en de Noordzee reizen.\n\n## Wat onderzoek zegt\n\nMarktonderzoeker TeleGeography onderzocht in 2023 zelf de vaak geciteerde 99 procent en besloot dat het cijfer klopt, al is een precieze berekening onmogelijk zonder data over intercontinentaal satellietverkeer. Een bron is een vaststelling van de Amerikaanse telecomtoezichthouder FCC dat satellieten 0,37 procent van de Amerikaanse internationale capaciteit vertegenwoordigen. De Internationale Telecommunicatie-Unie (ITU) noemt kabels goed voor meer dan 99 procent van de internationale gegevensuitwisseling. Volgens ITU-cijfers waren er in 2023 ongeveer 200 kabelstoringen, en zo'n 80 procent van de onderbrekingen komt door natuurgeweld of ongelukken.\n\n## Nuance of misverstand\n\nDie 99 procent geldt voor verkeer tussen continenten, niet voor al je internet. Een bericht naar je buurman blijft gewoon op het land. Satellietinternet is nuttig voor afgelegen plekken, schepen en vliegtuigen, maar vervoert maar een fractie van het wereldwijde verkeer. En bij een storing denken velen meteen aan sabotage, terwijl de ITU de meeste onderbrekingen toeschrijft aan ongelukken en natuurgeweld.\n\n## Wat je ermee doet\n\nBegrijp waarom een land na één kabelbreuk soms half offline gaat: niet elk land heeft genoeg alternatieve routes. Spreid zelf, als het belangrijk is, je kritieke diensten over meerdere aanbieders en regio's, zodat één breuk niet alles platlegt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Licht door glasvezel op de zeebodem</text><path d=\"M10 60 q20 -8 40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"30\" y=\"50\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">VS</text><text x=\"330\" y=\"50\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">BE</text><path d=\"M20 70 L60 170 L300 170 L340 70\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"113\" y=\"164\" width=\"14\" height=\"12\" fill=\"#ff6b9d\"/><rect x=\"173\" y=\"164\" width=\"14\" height=\"12\" fill=\"#ff6b9d\"/><rect x=\"233\" y=\"164\" width=\"14\" height=\"12\" fill=\"#ff6b9d\"/><text x=\"180\" y=\"195\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">versterkers poetsen het licht op</text><circle r=\"5\" fill=\"#ffd166\"><animateMotion dur=\"4s\" repeatCount=\"indefinite\" path=\"M20 70 L60 170 L300 170 L340 70\"/></circle><circle r=\"5\" fill=\"#ffd166\"><animateMotion dur=\"4s\" begin=\"2s\" repeatCount=\"indefinite\" path=\"M20 70 L60 170 L300 170 L340 70\"/></circle><text x=\"180\" y=\"120\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">> 99% intercontinentaal verkeer</text></svg>",
+   "quiz": {
+    "q": "Hoeveel van het intercontinentale dataverkeer loopt via onderzeese kabels?",
+    "o": [
+     "Ongeveer de helft",
+     "Meer dan 99 procent",
+     "Ongeveer 80 procent"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "TeleGeography (mythbusting)",
+     "u": "https://blog.telegeography.com/2023-mythbusting-part-3"
+    },
+    {
+     "t": "TeleGeography (aantal kabels)",
+     "u": "https://blog.telegeography.com/how-many-submarine-cables-are-there-anyway"
+    },
+    {
+     "t": "ISPreview (EXA Margate-Oostende)",
+     "u": "https://www.ispreview.co.uk/index.php/2025/07/exa-infrastructure-deploys-new-subsea-fibre-optic-route-from-london-to-europe.html"
+    }
+   ],
+   "date": "2026-11-19T05:44:47Z"
   }
  ],
  "dives": [
