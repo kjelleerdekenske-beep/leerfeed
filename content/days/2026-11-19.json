@@ -1,6 +1,327 @@
 {
- "updated": "2026-11-19T05:39:37Z",
- "cards": [],
+ "updated": "2026-11-19T05:43:55Z",
+ "cards": [
+  {
+   "cat": "wetenschap",
+   "title": "Regendruppels zijn geen tranen, maar broodjes",
+   "body": "De klassieke druppel met een puntje bestaat niet in de lucht. Kleine druppels, onder ongeveer 1 millimeter, zijn bolletjes. Grotere druppels worden onderaan platgedrukt door de luchtweerstand en lijken op een hamburgerbroodje. Worden ze groter dan zo'n 4 à 5 millimeter, dan bolt de onderkant als een parachute in en valt de druppel uiteen.",
+   "take": "Teken je regen met je kind? Teken bolletjes en broodjes: dat is wat er echt valt.",
+   "deep": "## Hoe het werkt\n\nEen vallende druppel is een touwtrekwedstrijd tussen twee krachten. Oppervlaktespanning trekt het water naar binnen, naar de vorm met het kleinste oppervlak: een bol. Luchtweerstand duwt van onderen tegen de druppel terwijl hij valt.\n\nBij een kleine druppel wint de oppervlaktespanning makkelijk. Druppels met een straal van ongeveer een millimeter of minder blijven netjes rond. Hoe groter de druppel, hoe sneller hij valt en hoe harder de lucht tegen de onderkant drukt. Die onderkant wordt plat, terwijl de bovenkant rond blijft. Zo krijg je de vorm van een hamburgerbroodje.\n\nGroeit de druppel nog verder, dan duwt de lucht een kuil in de onderkant. De druppel lijkt dan op een parachute of een omgekeerde zak. Dat houdt geen stand: het water scheurt open en valt uiteen in kleinere druppels, die op hun beurt weer bolletjes of broodjes vormen.\n\n## Een voorbeeld\n\nBij een fijne motregen aan de kust vallen vooral kleine druppels: dat zijn bijna perfecte bolletjes. Bij een stevige zomerse onweersbui in de Kempen vallen veel dikkere druppels. Die zijn onderweg platgedrukt, en een deel ervan is in de lucht al uit elkaar gespat voor het je jas raakt. De traan met puntje die je op weerkaartjes en in kinderboeken ziet, vind je in geen van beide buien.\n\n## Wat onderzoek zegt\n\nMeteorologen bekijken druppels met hogesnelheidscamera's en met radar en satellieten. Het Amerikaanse ruimteagentschap NASA bracht voor zijn neerslagsatelliet GPM een filmpje uit dat de broodjesvorm toont, en Live Science en weerzenders verspreidden die beelden. De indeling is overal dezelfde: kleiner dan ongeveer 1 millimeter is rond, tussen ongeveer 1 en 4 millimeter plat aan de onderkant, en vanaf ongeveer 4 à 5 millimeter breekt de druppel op. De exacte grens verschilt een beetje tussen bronnen, omdat ze ook afhangt van turbulentie en botsingen.\n\n## Nuance of misverstand\n\nWaarom tekent iedereen dan een traan? Een druppel die aan een kraan of een blad hangt, krijgt wel een puntje: zwaartekracht trekt hem uit terwijl hij nog vastzit. Dat beeld hebben we doorgetrokken naar vallende regen.\n\n## Wat je ermee doet\n\nKijk bij de volgende bui eens naar de grootte van de spatten op een terras. Kleine, fijne vlekjes wijzen op motregen met bolletjes; grote spatten op dikke druppels die onderweg platgedrukt zijn. En wie iets tekent of ontwerpt rond regen, weet nu dat het puntje eigenlijk een fabeltje is.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Vorm van een vallende regendruppel</text><circle cx=\"60\" cy=\"110\" r=\"10\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M140,122 Q140,88 180,88 Q220,88 220,122 Q180,112 140,122 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"d\" values=\"M140,122 Q140,88 180,88 Q220,88 220,122 Q180,112 140,122 Z;M140,122 Q140,96 180,96 Q220,96 220,122 Q180,114 140,122 Z;M140,122 Q140,88 180,88 Q220,88 220,122 Q180,112 140,122 Z\" dur=\"3s\" repeatCount=\"indefinite\"/></path><path d=\"M270,124 Q270,82 300,82 Q330,82 330,124 Q300,96 270,124 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><circle cx=\"288\" cy=\"172\" r=\"7\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0;1;0\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><circle cx=\"314\" cy=\"172\" r=\"7\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0;1;0\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><text x=\"60\" y=\"150\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">klein: bol</text><text x=\"60\" y=\"166\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">&lt; 1 mm</text><text x=\"180\" y=\"150\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">middel: broodje</text><text x=\"180\" y=\"166\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1 tot 4 mm</text><text x=\"300\" y=\"150\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">groot: splitst</text><text x=\"300\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">&gt; 4 à 5 mm</text><g><line x1=\"180\" y1=\"196\" x2=\"180\" y2=\"176\" stroke=\"#06d6a0\" stroke-width=\"2\"/><path d=\"M175,182 L180,174 L185,182 Z\" fill=\"#06d6a0\"/></g><text x=\"180\" y=\"212\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">luchtweerstand duwt de onderkant plat</text><circle r=\"4\" fill=\"#06d6a0\"><animateMotion path=\"M60,40 L60,96\" dur=\"2s\" repeatCount=\"indefinite\"/></circle></svg>",
+   "quiz": {
+    "q": "Wat gebeurt er met een regendruppel die groter wordt dan ongeveer 4 à 5 millimeter?",
+    "o": [
+     "Hij valt uiteen in kleinere druppels",
+     "Hij krijgt een scherpe punt bovenaan",
+     "Hij wordt een perfecte bol"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Live Science",
+     "u": "https://www.livescience.com/43340-true-shape-of-raindrop-revealed-in-video.html"
+    },
+    {
+     "t": "Spectrum News",
+     "u": "https://spectrumnews1.com/ky/louisville/weather/2021/02/24/the-shape-of-a-raindrop--it-s-not-what-you-think"
+    },
+    {
+     "t": "ScienceABC",
+     "u": "https://www.scienceabc.com/pure-sciences/shape-falling-raindrop-pressure-sphere-surface-tension-hydrostatics-aerodynamics-gravity-myth"
+    }
+   ],
+   "date": "2026-11-19T05:43:55Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Strooizout smelt geen ijs, het maakt pekel",
+   "body": "Zout op een ijzige stoep werkt alleen als er al een dun laagje water is. Daarin lost het op tot pekel, en pekel bevriest pas onder 0 °C. Die oplossing vreet zich dan in het ijs. Bij strenge vorst werkt gewoon zout steeds slechter. Calciumchloride werkt kouder, omdat het in drie deeltjes uiteenvalt in plaats van twee.",
+   "take": "Strooi vóór de vorst of na wat zon of verkeer, en gebruik bij strenge vorst liever zand voor grip.",
+   "deep": "## Hoe het werkt\n\nIJs is water waarin de moleculen in een vast rooster zitten. Bij 0 °C is er een evenwicht: aan het oppervlak smelten moleculen los en haken andere weer vast. Opgeloste zoutdeeltjes zitten in de weg. Ze maken het moeilijker voor watermoleculen om zich in dat stijve rooster te schikken. Het water blijft dan vloeibaar bij temperaturen onder 0 °C. Dat heet vriespuntsverlaging.\n\nBelangrijk: zout moet eerst oplossen. Vast zout op droog, hard ijs doet weinig. Het heeft een dun laagje vloeibaar water nodig, dat ontstaat door zon, door de warmte van het wegdek of door de wrijving van banden. In dat laagje lost het zout op tot pekel. Die pekel smelt het ijs eronder verder weg, waardoor er meer vloeistof komt en het proces zich uitbreidt.\n\n## Een voorbeeld\n\nJe ziet strooiwagens soms al rijden vóór het begint te vriezen of te sneeuwen. Het wegdek is dan nog warm genoeg om de eerste sneeuw te laten smelten, zodat het zout meteen pekel vormt. Op bruggen werkt dat minder goed: een brug is vaak kouder dan de weg ervoor. Daarom staan bruggen en viaducten vaak bekend als de eerste plekken waar het glad wordt.\n\n## Wat onderzoek zegt\n\nChemici en wegbeheerders, geciteerd door onder meer Scientific American, Popular Science en Britannica, leggen het allemaal zo uit: zout smelt ijs niet rechtstreeks, het verlaagt het vriespunt van het water. Hoe koud het mag worden, hangt af van de zoutconcentratie en het soort zout. De grens voor gewoon steenzout ligt volgens de bronnen ergens tussen ongeveer -9 en -15 °C; daaronder bevriest ook de pekel. Calciumchloride splitst in water in drie ionen, keukenzout in twee. Meer opgeloste deeltjes betekent meer verstoring van de ijsvorming, dus calciumchloride blijft bij lagere temperaturen werken.\n\n## Nuance of misverstand\n\nZand is geen alternatief smeltmiddel. Het verlaagt het smeltpunt niet, het geeft je banden en schoenen alleen ruwheid om grip op te krijgen. En meer zout is niet altijd beter: zonder vloeibaar water blijft een dikke laag korrels gewoon op het ijs liggen.\n\n## Wat je ermee doet\n\nStrooi je stoep bij voorkeur preventief, vóór de vorst intreedt, of wanneer er al wat dooi of zon is geweest. Voorspellen ze een echte koudegolf, dan heb je meer aan zand of grit voor grip dan aan een extra emmer zout. Veeg eerst de losse sneeuw weg, zodat het zout bij het ijs kan.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Zout verlaagt het vriespunt</text><rect x=\"30\" y=\"130\" width=\"300\" height=\"50\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"height\" values=\"50;30;50\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"130;150;130\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"180\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">ijs</text><path d=\"M30,118 Q180,108 330,118\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"250\" y=\"104\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">dun laagje water</text><circle r=\"5\" fill=\"#ffd166\"><animateMotion path=\"M80,40 L80,118\" dur=\"3s\" begin=\"0s\" repeatCount=\"indefinite\"/></circle><circle r=\"5\" fill=\"#ffd166\"><animateMotion path=\"M140,40 L140,118\" dur=\"3s\" begin=\"1s\" repeatCount=\"indefinite\"/></circle><circle r=\"5\" fill=\"#ffd166\"><animateMotion path=\"M200,40 L200,118\" dur=\"3s\" begin=\"2s\" repeatCount=\"indefinite\"/></circle><circle r=\"5\" fill=\"#ffd166\"><animateMotion path=\"M220,40 L220,118\" dur=\"3s\" begin=\"0.5s\" repeatCount=\"indefinite\"/></circle><text x=\"40\" y=\"60\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">zout</text><text x=\"300\" y=\"70\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">lost op = pekel</text><text x=\"180\" y=\"215\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">pekel bevriest pas onder 0 °C</text></svg>",
+   "quiz": {
+    "q": "Waarom werkt calciumchloride bij lagere temperaturen dan gewoon keukenzout?",
+    "o": [
+     "Het is warmer van zichzelf",
+     "Het valt in water uiteen in meer deeltjes",
+     "Het maakt het ijs ruwer"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Scientific American",
+     "u": "https://www.scientificamerican.com/article/salt-doesnt-melt-ice-heres-how-it-makes-winter-streets-safer/"
+    },
+    {
+     "t": "Popular Science",
+     "u": "https://www.popsci.com/road-salt-ice-how-it-works/"
+    },
+    {
+     "t": "Britannica",
+     "u": "https://www.britannica.com/story/why-does-salt-melt-ice"
+    }
+   ],
+   "date": "2026-11-19T05:43:55Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Een AED start geen stilstaand hart opnieuw",
+   "body": "In films schokt men een vlakke lijn weer tot leven. In het echt werkt een defibrillator net andersom: hij legt een hart stil dat chaotisch fibrilleert. De schok brengt een groot deel van de hartspier tegelijk in rust, zodat de sinusknoop, de natuurlijke gangmaker, het ritme kan overnemen. Bij een echte vlakke lijn helpt een schok niet.",
+   "take": "Zie je iemand neervallen? Bel 112, start hartmassage en laat de AED zelf beslissen of een schok nodig is.",
+   "deep": "## Hoe het werkt\n\nEen gezond hart klopt op het ritme van de sinusknoop, een groepje cellen dat elektrische prikkels uitstuurt die netjes door de hartspier lopen. Bij ventrikelfibrillatie loopt dat volledig mis: de elektrische activiteit is chaotisch, de hartkamers trillen alleen nog en pompen geen bloed rond.\n\nEen defibrillator stuurt een sterke stroomstoot door de borstkas. Die zorgt ervoor dat een groot deel van de hartspier tegelijk depolariseert: alle cellen worden in één klap 'gereset'. De chaos stopt. Daarna krijgt de sinusknoop de kans om opnieuw het normale ritme te geven. Je kunt het zien als een resetknop, niet als een startmotor. Hoe dat precies verloopt in het hart, is volgens bronnen zelfs vandaag niet volledig begrepen.\n\n## Een voorbeeld\n\nIn Vlaamse sporthallen, stations en winkelcentra hangen AED's aan de muur. Een omstander kleeft de elektroden op de borst. Het toestel meet zelf het hartritme. Ziet het fibrillatie, dan zegt het dat een schok nodig is. Ziet het geen schokbaar ritme, dan vraagt het om de hartmassage voort te zetten. Daarom hoef je als omstander zelf geen hartritme te kunnen lezen.\n\n## Wat onderzoek zegt\n\nMedische richtlijnen delen hartstilstanden op in schokbare ritmes, zoals ventrikelfibrillatie, en niet-schokbare, zoals asystolie (de vlakke lijn) en elektrische activiteit zonder pols. Bij asystolie zijn hartmassage en medicatie zoals adrenaline de behandeling, niet stroom. In de rubriek over medische mythes van The Conversation noemen artsen het tv-beeld van een vlakke lijn die met een schok herleeft 'compleet fout'. Volgens Resus Australia overleeft slechts 0 tot 2 procent van de patiënten in asystolie tot het ontslag uit het ziekenhuis.\n\n## Nuance of misverstand\n\nNiet elke 'vlakke lijn' op een monitor is echt vlak. Heel fijne fibrillatie kan erop lijken, en sommige artsen wijzen erop dat een echo dan toch beweging kan tonen. Dat is een discussie voor specialisten. Voor jou als omstander verandert er niets: het toestel analyseert het ritme, jij volgt de stem.\n\n## Wat je ermee doet\n\nWeet waar de dichtstbijzijnde AED hangt op je werk, in je sportclub of in je straat. Bij een hartstilstand: bel 112, begin meteen met hartmassage, laat iemand de AED halen en zet hem aan. Stop niet met duwen tot het toestel het vraagt. Een reanimatiecursus van een paar uur maakt dat allemaal veel minder eng.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Een AED reset, hij start niet</text><path d=\"M20,100 L35,80 L45,118 L55,74 L66,112 L76,86 L86,108 L98,82 L110,104 L120,96\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\" stroke-dasharray=\"220\" stroke-dashoffset=\"220\"><animate attributeName=\"stroke-dashoffset\" values=\"220;0;0\" dur=\"6s\" repeatCount=\"indefinite\"/></path><path d=\"M150,60 L140,96 L156,96 L146,132\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"3\"><animate attributeName=\"opacity\" values=\"0;0;1;0;0\" keyTimes=\"0;0.35;0.4;0.5;1\" dur=\"6s\" repeatCount=\"indefinite\"/></path><path d=\"M180,100 L200,100 L206,92 L212,100 L222,100 L228,64 L236,124 L242,100 L270,100 L276,92 L282,100 L292,100 L298,64 L306,124 L312,100 L340,100\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"300\" stroke-dashoffset=\"300\"><animate attributeName=\"stroke-dashoffset\" values=\"300;300;0\" keyTimes=\"0;0.5;1\" dur=\"6s\" repeatCount=\"indefinite\"/></path><text x=\"70\" y=\"150\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">chaos (fibrillatie)</text><text x=\"150\" y=\"150\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">schok</text><text x=\"260\" y=\"150\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">sinusknoop neemt over</text><line x1=\"40\" y1=\"190\" x2=\"140\" y2=\"190\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"150\" y=\"194\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">vlakke lijn: geen schok,</text><text x=\"150\" y=\"209\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">wel hartmassage</text><text x=\"90\" y=\"210\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\"></text></svg>",
+   "quiz": {
+    "q": "Wat doet de schok van een defibrillator eigenlijk met het hart?",
+    "o": [
+     "Hij start een stilgevallen hart weer op",
+     "Hij versterkt elke hartslag",
+     "Hij zet de chaotische elektrische activiteit even stil"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Science Focus",
+     "u": "https://www.sciencefocus.com/science/how-does-a-defibrillator-work"
+    },
+    {
+     "t": "The Conversation",
+     "u": "https://theconversation.com/mondays-medical-myth-flatlining-patients-can-be-shocked-back-to-life-13662"
+    },
+    {
+     "t": "Resus Australia",
+     "u": "https://resus.com.au/?p=13790"
+    }
+   ],
+   "date": "2026-11-19T05:43:55Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "SPF 50 beschermt amper meer dan SPF 30",
+   "body": "Een zonnecrème met SPF 30 houdt in de labotest ongeveer 97 procent van de UVB-straling tegen, SPF 50 ongeveer 98 procent. Dat verschil is één procentpunt. Veel belangrijker is hoeveel je smeert: de test gebeurt met 2 milligram per vierkante centimeter huid. Voor je hele lichaam is dat ongeveer een shotglaasje vol.",
+   "take": "Smeer royaal, een shotglaasje voor je lichaam, en smeer om de twee uur en na het zwemmen opnieuw.",
+   "deep": "## Hoe het werkt\n\nSPF staat voor sun protection factor. In een labo meet men hoeveel UV-straling nodig is voor de huid net zichtbaar rood wordt, eerst zonder en dan met zonnecrème. Volgens de Amerikaanse regelgeving gebeurt dat met 2 milligram crème per vierkante centimeter huid. De SPF is de verhouding tussen die twee doses. Een SPF van 30 betekent dus dat je onder testomstandigheden dertig keer meer straling nodig hebt voor je verbrandt.\n\nOmgerekend naar wat er wordt tegengehouden: SPF 30 laat ongeveer 3 procent van de UVB-straling door, SPF 50 ongeveer 2 procent. Je ziet hoe de winst afvlakt naarmate het getal stijgt.\n\n## Een voorbeeld\n\nJe staat in de supermarkt voor een fles SPF 30 en een fles SPF 50. Op de strandbaan in Knokke maakt het grootste verschil niet de fles, maar je smeergedrag. Wie een dun laagje aanbrengt en de rest van de dag niet meer smeert, haalt bij geen van beide de belofte op het etiket. Wie royaal smeert en na het zwemmen opnieuw begint, is met SPF 30 al goed beschermd.\n\n## Wat onderzoek zegt\n\nDe Amerikaanse Skin Cancer Foundation geeft de cijfers: SPF 30 houdt zo'n 97 procent van de UVB tegen, SPF 50 zo'n 98 procent. Factcheckers van PolitiFact herhaalden die getallen in 2026 en wezen erop dat het om labometingen onder gecontroleerde omstandigheden gaat. De stichting raadt aan om zonnecrème een halfuur voor je naar buiten gaat aan te brengen en om de twee uur opnieuw te smeren, en meteen na zwemmen of zweten.\n\n## Nuance of misverstand\n\nEén procentpunt klinkt als niets, maar je kunt het ook anders bekijken: SPF 30 laat ongeveer de helft meer straling door dan SPF 50, namelijk 3 tegenover 2 procent. Voor mensen met een heel lichte huid of een hoog risico op huidkanker kan dat tellen. Daarnaast meet SPF enkel UVB, de straling die vooral verbranding veroorzaakt. Over bescherming tegen UVA zegt het getal niets; daarvoor kijk je naar een aparte vermelding op de verpakking.\n\n## Wat je ermee doet\n\nKies een crème met minstens SPF 30 en een vermelding van UVA-bescherming. Gebruik genoeg: ongeveer een shotglaasje voor het hele lichaam en een kwart theelepel voor het gezicht. Zet een herinnering om de twee uur, en smeer opnieuw na elke duik. Schaduw en kleding blijven daarbij je beste bondgenoten.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Hoeveel UVB komt er nog door?</text><line x1=\"110\" y1=\"40\" x2=\"110\" y2=\"170\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"110\" y=\"50\" width=\"0\" height=\"26\" fill=\"#ff6b9d\"><animate attributeName=\"width\" values=\"0;200;200\" keyTimes=\"0;0.4;1\" dur=\"5s\" begin=\"0s\" repeatCount=\"indefinite\"/></rect><text x=\"100\" y=\"68\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"end\">zonder</text><text x=\"318\" y=\"68\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">100%</text><rect x=\"110\" y=\"95\" width=\"0\" height=\"26\" fill=\"#ffd166\"><animate attributeName=\"width\" values=\"0;6;6\" keyTimes=\"0;0.4;1\" dur=\"5s\" begin=\"0s\" repeatCount=\"indefinite\"/></rect><text x=\"100\" y=\"113\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"end\">SPF 30</text><text x=\"124\" y=\"113\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">3%</text><rect x=\"110\" y=\"140\" width=\"0\" height=\"26\" fill=\"#06d6a0\"><animate attributeName=\"width\" values=\"0;4;4\" keyTimes=\"0;0.4;1\" dur=\"5s\" begin=\"0s\" repeatCount=\"indefinite\"/></rect><text x=\"100\" y=\"158\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"end\">SPF 50</text><text x=\"122\" y=\"158\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">2%</text><text x=\"180\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Labotest met 2 mg crème per cm² huid</text></svg>",
+   "quiz": {
+    "q": "Hoeveel UVB-straling laat SPF 30 ongeveer door in de labotest?",
+    "o": [
+     "Ongeveer 30 procent",
+     "Ongeveer 3 procent",
+     "Ongeveer 0,3 procent"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Skin Cancer Foundation",
+     "u": "https://www.skincancer.org/press/the-skin-cancer-foundation-offers-tips-on-choosing-and-using-sunscreen-2/"
+    },
+    {
+     "t": "PolitiFact",
+     "u": "https://www.politifact.com/article/2026/may/22/do-i-need-spf-30-50-or-100-we-answer-your-burning/"
+    },
+    {
+     "t": "21 CFR 352.3 (Cornell LII)",
+     "u": "https://www.law.cornell.edu/cfr/text/21/352.3"
+    }
+   ],
+   "date": "2026-11-19T05:43:55Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Btw betaal je één keer, maar in stukjes",
+   "body": "Btw wordt in elke schakel van een productieketen aangerekend, van molenaar tot bakker. Toch betaalt niemand belasting op belasting: elk bedrijf mag de btw die het zelf betaalde aftrekken van de btw die het ontvangt. Zo int de staat telkens alleen op de toegevoegde waarde. Wie de rekening echt draagt? De eindklant, in België meestal tegen 21 of 6 procent.",
+   "take": "Kijk op je volgende kasticket hoeveel btw erin zit: dat bedrag gaat naar de staat.",
+   "deep": "## Hoe het werkt\n\nBtw staat voor belasting over de toegevoegde waarde. Elke onderneming rekent btw aan op wat ze verkoopt; dat heet output-btw. Ze betaalt ook btw op wat ze inkoopt; dat is input-btw. Aan de belastingdienst stort ze alleen het verschil. Dat verschil komt precies overeen met de belasting op de waarde die zij zelf heeft toegevoegd.\n\nZo betaalt elke schakel een stukje, maar wordt de belasting nergens opgestapeld. Bij een klassieke omzetbelasting die op elke verkoop opnieuw wordt geheven, betaal je wel belasting op belasting: het zogenaamde cascade-effect. De btw vermijdt dat. Pas de consument, die niets kan aftrekken, draagt het volledige bedrag.\n\n## Een voorbeeld\n\nNeem een eenvoudige rekensom, met even een rond tarief van 10 procent. Een molenaar verkoopt meel voor 100 euro aan een bakker en rekent 10 euro btw aan, die hij doorstort. De bakker verkoopt brood voor 300 euro en rekent 30 euro btw aan. Hij stort niet 30 maar 20 euro: hij mag de 10 euro aftrekken die hij aan de molenaar betaalde. De staat krijgt in totaal 30 euro, precies 10 procent van de eindprijs. In België ligt het normale tarief op 21 procent, en voor de meeste basisvoedingsmiddelen zoals brood geldt 6 procent. Restaurants rekenen 12 procent voor maaltijden.\n\n## Wat onderzoek zegt\n\nDe moderne btw wordt meestal toegeschreven aan de Franse belastingambtenaar Maurice Lauré, die het systeem in de jaren 1950 uitwerkte. Frankrijk testte het onder meer in zijn kolonie Ivoorkust en voerde het daarna breder in. Een onderzoeksartikel van de London School of Economics nuanceert dat: het idee van een belasting op toegevoegde waarde circuleerde al langer. De vernieuwing van Lauré en de Amerikaanse econoom Carl Shoup was vooral dat ze het voorstelden als een belasting die investeringen spaart, met consumptie als basis. Intussen is de btw uitgegroeid tot een van de meest gebruikte consumptiebelastingen ter wereld.\n\n## Nuance of misverstand\n\nOndernemers zeggen soms dat ze 'btw betalen', maar voor een btw-plichtig bedrijf is btw grotendeels doorgeefgeld: het int de belasting voor de staat. De echte last ligt bij wie niet kan aftrekken, de eindverbruiker. Btw-tarieven worden ook geregeld aangepast, dus check bij twijfel het actuele tarief.\n\n## Wat je ermee doet\n\nVergelijk je prijzen van particulieren en bedrijven, let dan op of een prijs inclusief of exclusief btw is. Een offerte van 1.000 euro exclusief 21 procent btw kost jou als particulier 1.210 euro. Als zelfstandige houd je de btw op je aankopen bij, want die mag je aftrekken.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Btw: elke schakel betaalt alleen op zijn meerwaarde</text><rect x=\"15\" y=\"70\" width=\"80\" height=\"44\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"55\" y=\"90\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">molenaar</text><text x=\"55\" y=\"106\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">verkoopt 100</text><rect x=\"140\" y=\"70\" width=\"80\" height=\"44\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"90\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">bakker</text><text x=\"180\" y=\"106\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">verkoopt 300</text><rect x=\"265\" y=\"70\" width=\"80\" height=\"44\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"305\" y=\"90\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">klant</text><text x=\"305\" y=\"106\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">betaalt 300</text><line x1=\"97\" y1=\"92\" x2=\"132\" y2=\"92\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M130,87 L138,92 L130,97 Z\" fill=\"#fff\"/><line x1=\"222\" y1=\"92\" x2=\"257\" y2=\"92\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M255,87 L263,92 L255,97 Z\" fill=\"#fff\"/><text x=\"55\" y=\"150\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">btw op 100</text><text x=\"180\" y=\"150\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">btw op 300</text><text x=\"180\" y=\"166\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">min btw op 100</text><text x=\"305\" y=\"150\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">draagt alles</text><text x=\"180\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">De staat int stukje per stukje, telkens op het verschil</text><circle r=\"6\" fill=\"#ffd166\"><animateMotion path=\"M55,124 L180,124 L305,124\" dur=\"5s\" repeatCount=\"indefinite\"/></circle></svg>",
+   "quiz": {
+    "q": "Hoeveel btw stort de bakker in het voorbeeld door: meel 100 euro, brood 300 euro, 10 procent btw?",
+    "o": [
+     "30 euro",
+     "10 euro",
+     "20 euro"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Wikipedia: Value-added tax",
+     "u": "https://en.wikipedia.org/wiki/Value-added_tax"
+    },
+    {
+     "t": "LSE Research Online",
+     "u": "https://researchonline.lse.ac.uk/id/eprint/130664"
+    },
+    {
+     "t": "VLAIO: btw",
+     "u": "https://www.vlaio.be/nl/begeleiding-advies/start/opstart-van-je-onderneming/btw-belasting-op-de-toegevoegde-waarde"
+    }
+   ],
+   "date": "2026-11-19T05:43:55Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Op de bloemenveiling daalt de prijs tot iemand drukt",
+   "body": "Bij de bloemenveiling in Aalsmeer bieden kopers niet steeds hoger. Een grote klok start bij een hoge prijs en de wijzer zakt naar steeds lagere bedragen. Wie eerst op de knop drukt, stopt de klok en koopt de gekozen hoeveelheid aan die prijs. Zo levert elke klok om de paar seconden een verkoop op.",
+   "take": "Moet jij iets snel en eerlijk verdelen? Een dalende prijs dwingt kopers om hun echte maximum te kiezen.",
+   "deep": "## Hoe het werkt\n\nBij een gewone veiling roept de veilingmeester steeds hogere bedragen en wint wie het laatst blijft bieden. De klokveiling, in het Engels een Dutch auction, draait het om. De verkoper start bij een prijs waarvan iedereen weet dat die te hoog is. De wijzer van de klok loopt dan terug naar lagere prijzen.\n\nElke koper zit klaar met een knop. Wie vindt dat de prijs nu goed genoeg is, drukt. De klok stopt meteen, en die koper krijgt het aantal eenheden dat hij heeft ingegeven, aan precies de prijs waarop de klok stilviel. Daarna begint de klok voor de rest van de partij opnieuw.\n\nDe spanning zit in het wachten. Wie te vroeg drukt, betaalt meer dan nodig. Wie te lang wacht, ziet een concurrent de bloemen wegkapen.\n\n## Een voorbeeld\n\nStel dat een groothandelaar die Vlaamse bloemisten bevoorraadt, rozen nodig heeft. De klok start hoog en zakt. Hij weet hoeveel hij er maximaal voor wil geven, maar ook dat andere kopers dezelfde partij willen. Hij drukt net boven zijn grens van 'liever niet', en de rozen zijn van hem. Zijn concurrent, die op een nog lagere prijs gokte, grijpt naast deze partij.\n\n## Wat onderzoek zegt\n\nRoyal FloraHolland, de coöperatie achter de grote Nederlandse bloemenveilingen, noemt de klok haar belangrijkste verkoopinstrument. National Geographic beschreef hoe in Aalsmeer de wijzer bovenaan begint bij de startprijs en tegen de klok in naar lagere prijzen draait, en hoe elke klok om de paar seconden een transactieprijs oplevert. Het economisch lesmateriaal van EconPort, van Georgia State University, beschrijft de klokveiling als een veiling waarbij de prijs daalt tot een deelnemer de prijs van de veilingmeester aanvaardt.\n\n## Nuance of misverstand\n\nDe klok is geen museumstuk. De veiling experimenteert met nieuwe vormen, zoals meerdere transacties tegelijk op een centrale rozenklok. Het basisidee van een dalende prijs blijft wel overeind. Een klokveiling is ook niet automatisch goedkoper voor kopers: omdat wachten riskant is, drukken mensen vaak zodra de prijs hun eigen grens bereikt.\n\n## Wat je ermee doet\n\nJe kent het principe misschien van uitverkoop met wekelijks dalende kortingen: wie wacht, betaalt minder maar loopt het risico dat zijn maat weg is. Weet bij zo'n systeem vooraf wat iets jou waard is, en koop wanneer die prijs bereikt is. Zo laat je je niet meeslepen door de klok.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Klokveiling: de prijs zakt tot iemand drukt</text><circle cx=\"110\" cy=\"120\" r=\"70\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"110\" y=\"62\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">hoog</text><text x=\"48\" y=\"124\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\"></text><text x=\"110\" y=\"186\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">laag</text><line x1=\"110\" y1=\"120\" x2=\"110\" y2=\"60\" stroke=\"#ffd166\" stroke-width=\"3\"><animateTransform attributeName=\"transform\" type=\"rotate\" values=\"0 110 120;-200 110 120;-200 110 120\" keyTimes=\"0;0.7;1\" dur=\"6s\" repeatCount=\"indefinite\"/></line><circle cx=\"110\" cy=\"120\" r=\"5\" fill=\"#ffd166\"/><rect x=\"230\" y=\"96\" width=\"100\" height=\"44\" rx=\"10\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"><animate attributeName=\"fill\" values=\"rgba(255,255,255,0.14);rgba(255,255,255,0.14);#06d6a0;rgba(255,255,255,0.14)\" keyTimes=\"0;0.68;0.72;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"280\" y=\"123\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">KOPEN</text><text x=\"280\" y=\"165\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">eerste druk wint</text><text x=\"280\" y=\"181\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">aan die prijs</text><text x=\"110\" y=\"210\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">wijzer draait terug naar lagere prijzen</text></svg>",
+   "quiz": {
+    "q": "Wie koopt de partij bloemen bij een klokveiling?",
+    "o": [
+     "De eerste die drukt terwijl de prijs zakt",
+     "Wie het hoogste bod op papier indient",
+     "Wie als laatste overblijft bij stijgende biedingen"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "National Geographic",
+     "u": "https://www.nationalgeographic.com/culture/article/aalsmeer-flower-auction"
+    },
+    {
+     "t": "Royal FloraHolland",
+     "u": "https://www.royalfloraholland.com/en/buying/logistics/logistic-handling/clock-distribution"
+    },
+    {
+     "t": "EconPort (Georgia State University)",
+     "u": "https://econport.gsu.edu/content/handbook/auctions/commntypes/dutchauction.html"
+    }
+   ],
+   "date": "2026-11-19T05:43:55Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Het conservenblik bestond 48 jaar vóór de blikopener",
+   "body": "In 1810 kreeg de Brit Peter Durand een patent op voedsel bewaren in metalen blikken. Een blikopener bestond nog niet: soldaten en koks sloegen de dikke blikken open met hamer en beitel, of zelfs met een bajonet. Pas in 1858 patenteerde de Amerikaan Ezra Warner een echte opener, een hefboom met een sikkelvormig mes.",
+   "take": "Een uitvinding vraagt soms om een tweede uitvinding. Vraag je bij nieuwe tools af: wat ontbreekt er nog om ze echt bruikbaar te maken?",
+   "deep": "## Hoe het werkt\n\nConserveren in blik draait om twee stappen: voedsel luchtdicht afsluiten en verhitten. Durand vulde een blik met voedsel, sloot het gedeeltelijk af en dompelde het onder in kokend water. Het afgesloten blik hield bederf buiten.\n\nDie eerste blikken waren stevig: dikwandig ijzer bekleed met tin. Dat was handig om ze op lange reizen en tijdens veldtochten heel te houden, maar lastig om ze open te krijgen. De etiketten uit die tijd gaven gewoon de instructie om de bovenkant open te snijden met een beitel en een hamer. Een opener zoals wij die kennen, had op zo'n dikke wand ook weinig kans gemaakt.\n\nVolgens Smithsonian Magazine werd een handig keukengereedschap pas zinvol toen blikken in de loop van de negentiende eeuw dunner werden.\n\n## Een voorbeeld\n\nStel je een legerkok voor die een blik vlees wil openen. Hij zet een beitel op het deksel en slaat erop met een hamer, of hij hakt het open met een bajonet. Vergelijk dat met je eigen keukenlade vandaag, waarin een draaiopener ligt, of met een blik soep met trekring dat je zonder enig gereedschap opentrekt.\n\n## Wat onderzoek zegt\n\nSmithsonian Magazine en historici van de New England Historical Society beschrijven hoe Ezra Warner uit Waterbury, Connecticut, op 5 januari 1858 een Amerikaans patent kreeg, nummer 19.063, voor een blikopener. Zijn toestel was een hefboom met een gebogen, sikkelvormig mes dat je in het deksel prikte en rond het blik werkte. Tussen het patent van Durand in 1810 en dat van Warner zat 48 jaar.\n\n## Nuance of misverstand\n\nWas Warner echt de allereerste? Niet helemaal. Bronnen vermelden dat in Engeland al in 1855 een opener werd gepatenteerd. Warner had wel het eerste Amerikaanse patent. Let ook op bronnen die het blik van 1810 toeschrijven aan de Fransman Nicolas Appert: het patent op het metalen blik stond op naam van Durand.\n\n## Wat je ermee doet\n\nHet verhaal toont een patroon dat je overal terugziet: een product wordt pas echt alledaags wanneer ook het hulpmiddel errond bestaat. Introduceer je zelf iets nieuws, op je werk of thuis, denk dan niet alleen aan het ding zelf, maar ook aan hoe mensen het in de praktijk gaan openen, gebruiken en onderhouden.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Eerst het blik, pas veel later de opener</text><line x1=\"40\" y1=\"110\" x2=\"320\" y2=\"110\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"50\" cy=\"110\" r=\"7\" fill=\"#ffd166\"/><circle cx=\"290\" cy=\"110\" r=\"7\" fill=\"#06d6a0\"/><text x=\"50\" y=\"90\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">1810</text><text x=\"50\" y=\"140\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">blik (Durand)</text><text x=\"50\" y=\"156\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">open met hamer</text><text x=\"50\" y=\"172\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">en beitel</text><text x=\"290\" y=\"90\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">1858</text><text x=\"290\" y=\"140\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">opener (Warner)</text><text x=\"290\" y=\"156\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">hefboom met mes</text><text x=\"170\" y=\"90\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">48 jaar</text><circle cx=\"50\" cy=\"110\" r=\"4\" fill=\"#ff6b9d\"><animate attributeName=\"cx\" values=\"50;290;290\" keyTimes=\"0;0.8;1\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Blikken werden dunner: toen pas loonde een opener</text></svg>",
+   "quiz": {
+    "q": "Hoe openden mensen de eerste conservenblikken?",
+    "o": [
+     "Met een draaiopener",
+     "Met hamer en beitel",
+     "Met een trekring"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Smithsonian Magazine",
+     "u": "https://www.smithsonianmag.com/smart-news/why-can-opener-wasnt-invented-until-almost-50-years-after-can-180964590/"
+    },
+    {
+     "t": "New England Historical Society",
+     "u": "https://newenglandhistoricalsociety.com/connecticuts-uncanny-ezra-warner/"
+    },
+    {
+     "t": "Today I Found Out",
+     "u": "https://www.todayifoundout.com/?p=11285"
+    }
+   ],
+   "date": "2026-11-19T05:43:55Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Noorwegen eert de verkeerde uitvinder van de paperclip",
+   "body": "In Noorwegen geldt Johan Vaaler als uitvinder van de paperclip, en er staat een paperclip van 7 meter te zijner ere. Maar Vaaler patenteerde rond 1900 een ander model dat nooit verkocht werd. De klassieke Gem-clip met dubbele lus bestond al: in 1899 vroeg de Amerikaan William Middlebrook een patent aan op een machine om ze te maken.",
+   "take": "Hoor je een sterk 'eerste uitvinder'-verhaal? Vraag naar het patent of het product, niet alleen naar de naam.",
+   "deep": "## Hoe het werkt\n\nDe paperclip die je nu in elke lade vindt, is het zogenaamde Gem-model: een draad die in twee in elkaar liggende lussen is gebogen. Het papier wordt tussen de lussen geklemd door de veerkracht van het staal.\n\nJohan Vaaler was een Noor die op een octrooibureau in Kristiania, het huidige Oslo, werkte. Hij kreeg in Duitsland en de Verenigde Staten een patent op een eigen klemmetje. Zijn ontwerp miste de cruciale tweede lus en werd volgens bronnen nooit geproduceerd of verkocht. Zijn patenten liepen gewoon af.\n\n## Een voorbeeld\n\nOp de campus van de Noorse handelshogeschool BI werd in 1989 een paperclip van 7 meter hoog opgericht, als eerbetoon aan Vaaler. Het standbeeld stond eerst in Sandvika en verhuisde later naar Oslo. Ironisch genoeg toont het geen Vaaler-ontwerp, maar een licht aangepaste Gem-clip. Ook de Noorse postzegel uit 1999, die de honderdste verjaardag van zijn Duitse patent vierde, beeldde een Gem-clip af.\n\n## Wat onderzoek zegt\n\nVolgens historisch werk, samengevat door onder meer Gizmodo en Today I Found Out, verschijnt een herkenbare Gem-clip voor het eerst in de patentliteratuur in 1899. Op 27 april van dat jaar diende William Middlebrook uit Waterbury, Connecticut, een aanvraag in voor een 'machine voor het maken van paperclips', met in de tekening precies het Gem-model. De clip zelf was toen dus al in omloop. Het Vaaler-verhaal dook later op in Noorse naslagwerken.\n\n## Nuance of misverstand\n\nWaarom hield de mythe zo goed stand? Tijdens de Duitse bezetting in de Tweede Wereldoorlog werd de paperclip in Noorwegen een stil symbool van verzet. Het verhaal over een Noorse uitvinder smolt samen met die verzetsverhalen, en de clip werd bijna een nationaal symbool. Vaaler heeft wel echt iets uitgevonden en gepatenteerd; alleen was het niet het voorwerp dat de wereld veroverde.\n\n## Wat je ermee doet\n\nBij uitvindingen ligt de eer vaak bij wie het beste verhaal heeft, niet bij wie het eerst was. Een snelle controle helpt: wie had het patent, en vooral, welk ontwerp werd effectief gemaakt en verkocht? Die vraag kun je stellen bij elke 'wist je dat hij het uitvond'-anekdote.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Het Gem-model, niet het Noorse ontwerp</text><path d=\"M70,150 L70,70 Q70,50 90,50 Q110,50 110,70 L110,140 Q110,155 98,155 Q86,155 86,140 L86,80\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"4\" stroke-dasharray=\"400\" stroke-dashoffset=\"400\"><animate attributeName=\"stroke-dashoffset\" values=\"400;0;0\" keyTimes=\"0;0.6;1\" dur=\"5s\" repeatCount=\"indefinite\"/></path><text x=\"90\" y=\"185\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Gem-paperclip</text><text x=\"170\" y=\"70\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">1899</text><text x=\"210\" y=\"70\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">Middlebrook: machine</text><text x=\"210\" y=\"84\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">voor Gem-clips</text><text x=\"170\" y=\"115\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">1901</text><text x=\"210\" y=\"115\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">Vaaler: ander model,</text><text x=\"210\" y=\"129\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">nooit verkocht</text><text x=\"170\" y=\"160\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">1989</text><text x=\"210\" y=\"160\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">standbeeld van 7 m</text><text x=\"210\" y=\"174\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">toont toch Gem-vorm</text></svg>",
+   "quiz": {
+    "q": "Waarom klopt het niet dat Johan Vaaler de gewone paperclip uitvond?",
+    "o": [
+     "Zijn patent was ouder dan dat van Middlebrook",
+     "Hij was een Zweed",
+     "Zijn ontwerp was een ander model dat nooit verkocht werd"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Today I Found Out",
+     "u": "https://www.todayifoundout.com/?p=8208"
+    },
+    {
+     "t": "Gizmodo",
+     "u": "https://gizmodo.com/how-the-humble-paperclip-became-a-secret-world-war-ii-s-1276972660"
+    },
+    {
+     "t": "Great Patent",
+     "u": "https://greatpatent.com/the-paper-clip-was-not-invented-by-the-man-norway-built-a-statue-to"
+    }
+   ],
+   "date": "2026-11-19T05:43:55Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Koreaanse letters tekenen de vorm van je mond",
+   "body": "Het Koreaanse schrift Hangul werd niet langzaam gegroeid, maar bewust ontworpen. Koning Sejong stelde het rond 1443 voor en liet het in 1446 officieel afkondigen. Medeklinkers tonen de stand van tong of lippen: ㄱ is de tongrug tegen het gehemelte, ㅁ de gesloten lippen. Letters worden per lettergreep in een vierkant blokje gezet.",
+   "take": "Wil je Koreaans proberen? Leer eerst de 24 letters en de bouw van een blokje: dan kun je al woorden ontcijferen.",
+   "deep": "## Hoe het werkt\n\nHangul is een alfabet: elk teken staat voor een klank. Wat het bijzonder maakt, is dat de basismedeklinkers de spraakorganen nabootsen. De letter ㄱ (een k- of g-klank) tekent de achterkant van de tong die tegen het zachte gehemelte drukt. De letter ㄴ (n) toont de tong tegen de rand achter je boventanden. De letter ㅁ (m) is een vierkantje: de gesloten lippen.\n\nDaarnaast worden de letters niet op een rij geschreven zoals bij ons, maar gegroepeerd in vierkante blokjes. Elk blokje is één lettergreep: een beginmedeklinker, een klinker en soms een slotmedeklinker onderaan. Zo bestaat 한, de eerste lettergreep van 'Hangul', uit ㅎ (h), ㅏ (a) en ㄴ (n).\n\n## Een voorbeeld\n\nWie in Brussel of Antwerpen een Koreaans restaurant binnenloopt, ziet die blokjes op de kaart. Ze lijken op Chinese karakters, maar zijn het niet. Wie de 24 letters kent, kan elk blokje ontcijferen. Bij Chinese karakters moet je duizenden tekens apart leren.\n\n## Wat onderzoek zegt\n\nVolgens historische bronnen, zoals de Annalen van koning Sejong, schiep de koning persoonlijk 28 letters. Het schrift werd aan het hof voorgesteld eind 1443 en officieel bekendgemaakt in 1446 in een document met de naam Hunminjeongeum. Het doel was geletterdheid. Wie in Chinese karakters, in het Koreaans hanja, wou leren lezen, had een dure opleiding nodig, waardoor lezen voorbehouden bleef aan een elite. Vandaag telt het standaardalfabet 24 letters: 14 medeklinkers en 10 klinkers; enkele oorspronkelijke letters raakten in onbruik. Zuid-Korea viert op 9 oktober Hangul-dag.\n\n## Nuance of misverstand\n\nHangul wordt soms 'het makkelijkste schrift ter wereld' genoemd, maar leren lezen is nog geen taal spreken. En wie precies hoeveel aan het ontwerp bijdroeg, Sejong zelf of geleerden rond hem, daarover verschillen historici van mening. Het blijft wel een zeldzaam voorbeeld van een schrift dat met een duidelijke bedoeling is uitgedacht.\n\n## Wat je ermee doet\n\nKijk bij de letters ㄱ, ㄴ en ㅁ eens in een spiegel terwijl je k, n en m zegt: je ziet het ontwerp terug. Wil je Koreaans leren, begin dan met de letters en de bouw van een blokje. Dat voelt meteen als een snelle overwinning, en die motivatie heb je nodig voor de grammatica die volgt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Letters die de mond tekenen</text><path d=\"M30,120 Q30,70 70,70 Q110,70 115,100 L104,104 L112,116 Q100,140 70,140\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M48,112 Q80,96 96,114\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"3\"><animate attributeName=\"d\" values=\"M48,112 Q80,96 96,114;M48,112 Q70,92 90,100;M48,112 Q80,96 96,114\" dur=\"4s\" repeatCount=\"indefinite\"/></path><text x=\"72\" y=\"165\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">tongstand</text><rect x=\"150\" y=\"60\" width=\"44\" height=\"44\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"stroke\" values=\"#fff;#ffd166;#fff;#fff\" keyTimes=\"0;0.15;0.3;1\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/></rect><text x=\"172\" y=\"89\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">ㄱ</text><rect x=\"210\" y=\"60\" width=\"44\" height=\"44\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"stroke\" values=\"#fff;#ffd166;#fff;#fff\" keyTimes=\"0;0.15;0.3;1\" dur=\"6s\" begin=\"1s\" repeatCount=\"indefinite\"/></rect><text x=\"232\" y=\"89\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">ㄴ</text><rect x=\"270\" y=\"60\" width=\"44\" height=\"44\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"stroke\" values=\"#fff;#ffd166;#fff;#fff\" keyTimes=\"0;0.15;0.3;1\" dur=\"6s\" begin=\"2s\" repeatCount=\"indefinite\"/></rect><text x=\"292\" y=\"89\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">ㅁ</text><text x=\"172\" y=\"124\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">tong achter</text><text x=\"232\" y=\"124\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">tong boven</text><text x=\"292\" y=\"124\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">lippen</text><text x=\"240\" y=\"165\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">ㅎ + ㅏ + ㄴ = 한</text><text x=\"240\" y=\"185\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">letters vormen blokjes per lettergreep</text></svg>",
+   "quiz": {
+    "q": "Wat stelt de Koreaanse letter ㅁ (m) voor?",
+    "o": [
+     "Een gesloten mond, de lippen",
+     "Het puntje van de neus",
+     "Een open keel"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Asia Society",
+     "u": "https://asiasociety.org/node/12287"
+    },
+    {
+     "t": "South China Morning Post",
+     "u": "https://www.scmp.com/magazines/post-magazine/short-reads/article/3103832/how-15th-century-king-sejong-great-helped-make"
+    },
+    {
+     "t": "Milwaukee Independent",
+     "u": "https://www.milwaukeeindependent.com/articles/creation-hangul-linguistic-masterpiece-designed-king-sejong-increase-korean-literacy/"
+    }
+   ],
+   "date": "2026-11-19T05:43:55Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "Een gewoonte vormen duurt eerder 66 dan 21 dagen",
+   "body": "In een studie van Phillippa Lally en collega's (2010) herhaalden 96 deelnemers elke dag een gezonde gewoonte, gekoppeld aan een vast moment. Gemiddeld duurde het 66 dagen voor ze het bijna automatisch deden, met een spreiding van 18 tot naar schatting 254 dagen. En één dag overslaan bleek het proces niet te ruïneren.",
+   "take": "Koppel je nieuwe gewoonte aan een vast moment, reken op een paar maanden en ga gewoon verder na een gemiste dag.",
+   "deep": "## Hoe het werkt\n\nEen gewoonte is gedrag dat je automatisch doet zodra een bepaalde situatie zich voordoet. Je denkt er niet meer over na. Die koppeling tussen situatie en gedrag bouw je op door herhaling: telkens als je na het ontbijt een glas water drinkt, wordt de link tussen 'ontbijt klaar' en 'glas water' wat sterker.\n\nHet verloop is geen rechte lijn. In het begin levert elke herhaling veel op, daarna wordt de winst kleiner tot het gedrag een plateau van automatisme bereikt. Je kunt het vergelijken met een paadje door het gras: de eerste keren maak je het meeste verschil.\n\n## Een voorbeeld\n\nStel dat je elke ochtend na het koffiezetten tien squats wil doen. De eerste weken moet je er bewust aan denken; misschien plak je een briefje op de koffiezet. Na een paar weken gaat het al vlotter. Maar het kan best twee of drie maanden duren voor je benen bijna vanzelf in beweging komen terwijl de koffie doorloopt.\n\n## Wat onderzoek zegt\n\nLally en haar collega's lieten 96 studenten een gedrag kiezen, rond eten, drinken of bewegen, en dat 84 dagen lang elke dag doen bij een vaste aanleiding. Onderweg werd gemeten hoe automatisch het gedrag aanvoelde. 82 deelnemers maakten de studie af. Gemiddeld werd het plateau na 66 dagen bereikt, maar de spreiding was groot: van 18 dagen tot een geschatte 254 dagen. Een gemiste dag had geen merkbare invloed op het verdere verloop. De British Psychological Society en andere vakbronnen besteedden er ruime aandacht aan.\n\n## Nuance of misverstand\n\nHet getal 66 is geen nieuwe magische grens. Kritische lezers wijzen erop dat dit gemiddelde gebaseerd is op de deelnemers bij wie de curve goed paste, 39 mensen, en dat het om berekende schattingen gaat. De bovengrens van 254 dagen valt bovendien buiten de 84 dagen van de studie en is dus een extrapolatie. De echte les is dat het sterk verschilt per persoon en per gedrag, en dat het populaire getal 21 dagen te optimistisch is.\n\n## Wat je ermee doet\n\nKies één concreet gedrag en hang het aan iets wat je al elke dag doet. Verwacht dat het enkele maanden duurt en wees niet streng voor jezelf na een gemiste dag: pak de draad gewoon de volgende dag weer op. Houd eventueel bij hoe vanzelfsprekend het voelt, zodat je ziet dat het groeit.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Een gewoonte groeit snel, en vlakt dan af</text><line x1=\"40\" y1=\"180\" x2=\"330\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"40\" y1=\"180\" x2=\"40\" y2=\"45\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M40,178 C80,100 130,72 200,64 S300,60 330,60\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"/><circle r=\"6\" fill=\"#ffd166\"><animateMotion path=\"M40,178 C80,100 130,72 200,64 S300,60 330,60\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><line x1=\"200\" y1=\"64\" x2=\"200\" y2=\"180\" stroke=\"#ff6b9d\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><text x=\"200\" y=\"198\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">gemiddeld 66 dagen</text><text x=\"330\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">dagen</text><text x=\"48\" y=\"52\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">automatisch</text><text x=\"120\" y=\"140\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">grootste winst</text><text x=\"120\" y=\"154\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">in het begin</text><text x=\"270\" y=\"90\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">plateau</text></svg>",
+   "quiz": {
+    "q": "Wat gebeurde er in de studie van Lally als deelnemers één dag oversloegen?",
+    "o": [
+     "Ze moesten volledig opnieuw beginnen",
+     "Het had geen merkbare invloed op het verdere verloop",
+     "Het verdubbelde de benodigde tijd"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "British Psychological Society",
+     "u": "https://bps.org.uk/research-digest/how-form-habit"
+    },
+    {
+     "t": "The Behavioral Scientist",
+     "u": "https://www.thebehavioralscientist.com/articles/how-long-to-form-a-habit"
+    },
+    {
+     "t": "PsyBlog",
+     "u": "https://spring.org.uk/?p=107834"
+    }
+   ],
+   "date": "2026-11-19T05:43:55Z"
+  }
+ ],
  "dives": [
   {
    "id": "2026-11-19",
