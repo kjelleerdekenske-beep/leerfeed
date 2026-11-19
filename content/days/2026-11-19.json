@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T05:43:55Z",
+ "updated": "2026-11-19T05:44:26Z",
  "cards": [
   {
    "cat": "wetenschap",
@@ -320,6 +320,262 @@
     }
    ],
    "date": "2026-11-19T05:43:55Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Wat van jou is, lijkt meteen meer waard",
+   "body": "In 1990 gaven Kahneman, Knetsch en Thaler willekeurig de helft van een groep studenten een koffiemok. Wie een mok had gekregen, wilde hem pas kwijt voor ongeveer het dubbele van wat de anderen ervoor wilden betalen. Daardoor wisselden veel minder mokken van eigenaar dan verwacht. Dat heet het bezitseffect.",
+   "take": "Verkoop je iets tweedehands? Vraag jezelf: zou ik dit vandaag aan deze prijs kopen? Zo niet, dan vraag je waarschijnlijk te veel.",
+   "deep": "## Hoe het werkt\n\nZodra iets van jou is, verschuift je referentiepunt. Afstand doen van de mok voelt als een verlies, terwijl hem kopen voelt als een winst die je misschien misloopt. Omdat verliezen voor de meeste mensen zwaarder wegen dan even grote winsten, vraag je als eigenaar meer dan je als koper zou bieden.\n\nHet resultaat is een kloof tussen twee prijzen voor exact hetzelfde voorwerp: de prijs waarvoor je wilt verkopen (willingness to accept) en de prijs die je wilt betalen (willingness to pay). In een vrije markt zou je verwachten dat ongeveer de helft van de mokken van eigenaar wisselt. In de proeven gebeurde dat veel minder.\n\n## Een voorbeeld\n\nJe verkoopt je oude fiets via een zoekertjessite. Jij vindt 200 euro redelijk: je kent de fiets, je herinnert je de mooie ritten. Kopers bieden 120 euro. Volgens het bezitseffect zitten beide partijen niet per se fout, maar kijkt elk vanuit een ander vertrekpunt. Jij verliest iets, zij winnen iets.\n\n## Wat onderzoek zegt\n\nDaniel Kahneman, Jack Knetsch en Richard Thaler publiceerden hun mokproeven in 1990 in het Journal of Political Economy. Ze lieten zien dat de kloof bleef bestaan, ook in marktsituaties waarin deelnemers konden bijleren. Samenvattingen spreken van verkopers die ongeveer twee keer zoveel vroegen als kopers wilden betalen. Een derde groep, de 'kiezers', mocht kiezen tussen de mok of geld zonder er eerst eigenaar van te zijn. Hun waardering leek op die van de kopers, niet op die van de eigenaars.\n\n## Nuance of misverstand\n\nHet effect is vaak gevonden, maar de verklaring staat ter discussie. Charles Plott en Kathryn Zeiler vonden in 2005 geen kloof voor mokken wanneer deelnemers vooraf uitgebreid uitleg en training kregen over de verkoopprocedure. Zij stelden dat een deel van het effect uit misverstanden over de procedure kon komen. Andere onderzoekers, zoals Isoni, Loomes en Sugden, reageerden in 2011 met nieuwe data en een meer gemengd beeld. Ook de oorzaak is niet zeker: sommigen wijzen op verliesaversie, anderen op eigenaarschap zelf of op traagheid. Het fenomeen is dus robuust genoeg om rekening mee te houden, maar niet zo eenvoudig als 'alles wat je hebt is dubbel zoveel waard'.\n\n## Wat je ermee doet\n\nGebruik het effect als controlevraag. Twijfel je om iets weg te doen, vraag dan niet 'wat is het waard?', maar 'zou ik dit vandaag kopen voor wat het opbrengt?'. Bij onderhandelen helpt het om te beseffen dat de andere partij oprecht een andere prijs kan voelen, zonder dat iemand oneerlijk is.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Hoeveel is deze mok waard?</text><rect x=\"62\" y=\"44\" width=\"36\" height=\"34\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M98 52 h8 a8 8 0 0 1 0 16 h-8\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"80\" y=\"98\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Koper</text><rect x=\"242\" y=\"44\" width=\"36\" height=\"34\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M278 52 h8 a8 8 0 0 1 0 16 h-8\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"260\" y=\"98\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Eigenaar</text><line x1=\"40\" y1=\"190\" x2=\"320\" y2=\"190\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"60\" y=\"154\" width=\"40\" height=\"36\" fill=\"#06d6a0\"/><text x=\"80\" y=\"146\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">ca. x</text><rect x=\"240\" y=\"154\" width=\"40\" height=\"36\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"36;72;72;36\" keyTimes=\"0;0.4;0.8;1\" dur=\"5s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"154;118;118;154\" keyTimes=\"0;0.4;0.8;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"260\" y=\"110\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">ca. 2x</text><text x=\"80\" y=\"210\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">wil betalen</text><text x=\"260\" y=\"210\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">wil ontvangen</text><text x=\"180\" y=\"150\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">zelfde mok,</text><text x=\"180\" y=\"164\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">andere prijs</text></svg>",
+   "quiz": {
+    "q": "Wat gebeurde er in de mokproef van Kahneman, Knetsch en Thaler?",
+    "o": [
+     "Kopers boden meer dan eigenaars vroegen",
+     "Eigenaars vroegen ongeveer het dubbele van wat kopers boden",
+     "Ongeveer de helft van de mokken werd verhandeld"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Kahneman (Princeton), publicatie",
+     "u": "https://kahneman.scholar.princeton.edu/document/9"
+    },
+    {
+     "t": "The Decision Lab: endowment effect",
+     "u": "https://thedecisionlab.com/biases/endowment-effect/"
+    },
+    {
+     "t": "Plott & Zeiler 2005 (RePEc)",
+     "u": "https://econpapers.repec.org/RePEc:aea:aecrev:v:95:y:2005:i:3:p:530-545"
+    }
+   ],
+   "date": "2026-11-19T05:44:26Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Het midden van een lijstje vergeet je het eerst",
+   "body": "Hoor je een lange lijst woorden en mag je die meteen opnoemen, dan onthoud je vooral het begin en het einde. Dat heet het seriëlepositie-effect. Glanzer en Cunitz toonden in 1966 dat het voordeel van de laatste woorden verdwijnt als je eerst 30 seconden moet tellen. Het voordeel van het begin blijft.",
+   "take": "Geef je een presentatie of briefing? Zet je belangrijkste punt vooraan en herhaal het op het einde, niet alleen in het midden.",
+   "deep": "## Hoe het werkt\n\nHet effect heeft twee delen. Het primacy-effect: de eerste woorden krijg je het vaakst in je hoofd herhaald, omdat er nog weinig concurrentie is. Daardoor raken ze beter verankerd in je langetermijngeheugen.\n\nHet recency-effect: de laatste woorden zitten nog vers in je kortetermijngeheugen als je meteen begint op te noemen. Je 'leest' ze er als het ware gewoon uit. Het midden heeft geen van beide voordelen: te laat voor veel herhaling, te vroeg om nog vers te zijn. Zet je de herinneringen in een grafiek, dan krijg je een U-vorm.\n\n## Een voorbeeld\n\nJe partner roept vanuit de keuken wat je in de Delhaize moet halen: melk, eieren, bloem, citroenen, pesto, wc-papier. In de winkel weet je nog melk en wc-papier, maar wat zat er in het midden? Precies het patroon uit het lab. Schrijf je het lijstje niet op, dan zit je risico vooral in het midden.\n\n## Wat onderzoek zegt\n\nMurray Glanzer en Anita Cunitz lieten proefpersonen in 1966 woordenlijsten onthouden en vergeleken drie situaties: meteen opnoemen, na 10 seconden, of na 30 seconden. Tijdens de wachttijd moesten de deelnemers hardop tellen, zodat ze de woorden niet konden herhalen. Na 10 seconden was het recency-effect al veel kleiner, na 30 seconden was het verdwenen. Het primacy-effect bleef in alle groepen bestaan. Zij lazen dat als bewijs dat begin en einde van een lijst uit verschillende geheugensystemen komen.\n\n## Nuance of misverstand\n\nHet tellen tijdens de pauze is meer dan alleen 'tijd'. Het is ook een storende taak. Uit deze proef kun je dus niet afleiden dat louter wachten het einde van een lijst uitwist; het kan ook de inmenging van het tellen zijn. Verder is het model met twee aparte geheugensystemen een vereenvoudiging waar geheugenonderzoekers vandaag genuanceerder over denken. De U-vorm zelf is wel een van de best gekende patronen in geheugenonderzoek.\n\n## Wat je ermee doet\n\nLeer je een reeks begrippen, wissel dan regelmatig de volgorde, zodat niet altijd dezelfde items in het zwakke midden belanden. Moet iemand iets onthouden van wat jij zegt, begin dan met de kern en sluit ermee af. En bij een mondeling boodschappenlijstje: herhaal het midden nog eens hardop, of schrijf het gewoon op.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Wat onthoud je van een lijst?</text><line x1=\"40\" y1=\"180\" x2=\"330\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"40\" y1=\"40\" x2=\"40\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"185\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">positie in de lijst</text><text x=\"40\" y=\"212\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">begin</text><text x=\"330\" y=\"212\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">einde</text><path d=\"M50 60 C90 120 110 150 150 155 S230 155 260 140 S310 70 320 55\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"3\" stroke-dasharray=\"360\" stroke-dashoffset=\"360\"><animate attributeName=\"stroke-dashoffset\" values=\"360;0;0\" keyTimes=\"0;0.6;1\" dur=\"6s\" repeatCount=\"indefinite\"/></path><path d=\"M50 60 C90 120 110 150 150 155 S250 160 320 158\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\" stroke-dasharray=\"4 4\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1\" keyTimes=\"0;0.6;0.7;1\" dur=\"6s\" repeatCount=\"indefinite\"/></path><text x=\"70\" y=\"52\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">begin blijft</text><text x=\"318\" y=\"44\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">einde vers</text><text x=\"185\" y=\"140\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">midden zakt weg</text><g opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1\" keyTimes=\"0;0.6;0.7;1\" dur=\"6s\" repeatCount=\"indefinite\"/><text x=\"300\" y=\"170\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">na 30 s tellen</text></g></svg>",
+   "quiz": {
+    "q": "Wat gebeurde in de proef van Glanzer en Cunitz na 30 seconden tellen?",
+    "o": [
+     "Het begin van de lijst werd vergeten",
+     "Alle woorden werden even goed onthouden",
+     "Het voordeel van de laatste woorden verdween"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Simply Psychology: Glanzer & Cunitz",
+     "u": "https://www.simplypsychology.org/primacy-recency.html"
+    },
+    {
+     "t": "Themantic Education: primacy en recency",
+     "u": "https://www.themantic-education.com/ibpsych/2018/11/18/key-study-multi-store-model-the-primacy-and-recency-effects/"
+    }
+   ],
+   "date": "2026-11-19T05:44:26Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Slechts een derde hoort zijn naam in het rumoer",
+   "body": "Het 'cocktailparty-effect': je volgt één gesprek en hoort plots je naam ergens anders. Maar in de klassieke proef van Neville Moray uit 1959 merkte maar 33% de eigen naam op in het genegeerde oor. Wood en Cowan vonden in 1995 ongeveer 35%, een voorgeregistreerde herhaling uit 2021 kwam op 29%.",
+   "take": "Wil je iemands aandacht in een druk lokaal of een vergadering? Noem eerst de naam, wacht even, en stel dan pas je vraag.",
+   "deep": "## Hoe het werkt\n\nOnderzoekers testen dit met 'dichotisch luisteren'. Je krijgt een koptelefoon met in elk oor een andere tekst. Eén tekst moet je hardop nazeggen, de andere moet je negeren. Ergens in die genegeerde tekst duikt plots je eigen naam op.\n\nJe aandacht werkt als een filter: wat je niet volgt, wordt grotendeels weggefilterd. Maar je naam is een van de meest vertrouwde en belangrijke woorden die je kent, en kan soms door die filter glippen. Het verrassende is niet dat het gebeurt, maar hoe vaak het niet gebeurt.\n\n## Een voorbeeld\n\nJe zit op een terras in Gent en luistert naar een vriendin. Aan de toog roept iemand 'Lotte!'. Soms draai je meteen je hoofd, soms merk je het pas als iemand op je schouder tikt. Volgens het onderzoek is dat tweede eigenlijk het normale geval.\n\n## Wat onderzoek zegt\n\nNeville Moray vond in 1959 dat 33% van de proefpersonen hun naam hoorde in het oor dat ze moesten negeren. Noelle Wood en Nelson Cowan herhaalden de proef in 1995 met betere technologie en kwamen uit op ongeveer 35%. In 2001 vonden Andrew Conway, Cowan en Michael Bunting een opvallend verschil: 65% van de mensen met een klein werkgeheugen hoorde de eigen naam, tegenover 20% van de mensen met een groot werkgeheugen. Een voorgeregistreerde herhaling door Jan Philipp Röer en Cowan uit 2021 kwam op 29%. Wie de naam opmerkte, maakte rond dat moment ook meer fouten in de taak die hij wél moest doen.\n\n## Nuance of misverstand\n\nHet populaire beeld is dat je je naam altijd opvangt, hoe luid het ook is. Dat klopt niet: ongeveer twee op de drie mensen merken hem in deze proeven niet op. En opmerken is niet per se een teken van een scherp brein. Het kan er juist op wijzen dat je aandacht even wegdwaalde van de taak. Mensen die hun aandacht beter op één ding houden, filteren ook hun eigen naam vaker weg. Onverwachte woorden die geen naam waren, werden in de herhaling uit 2021 bijna nooit opgemerkt.\n\n## Wat je ermee doet\n\nGa er niet van uit dat iemand je gehoord heeft omdat je zijn naam riep. Maak oogcontact of wacht tot iemand reageert. En moet jij zelf geconcentreerd werken in een druk kantoor, weet dan dat je hoofd nog altijd meeluistert, ook als je dat niet merkt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Twee gesprekken, één aandacht</text><circle cx=\"180\" cy=\"120\" r=\"34\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"124\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">jij</text><rect x=\"20\" y=\"60\" width=\"90\" height=\"34\" rx=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"65\" y=\"82\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">gesprek</text><rect x=\"250\" y=\"60\" width=\"90\" height=\"34\" rx=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"295\" y=\"82\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">genegeerd</text><path d=\"M110 85 L150 105\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"3\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"24;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><path d=\"M250 85 L210 105\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1\" stroke-dasharray=\"2 6\" opacity=\"0.5\"/><g><animateMotion path=\"M0 0 L-40 22\" dur=\"4s\" repeatCount=\"indefinite\"/><rect x=\"236\" y=\"98\" width=\"58\" height=\"20\" rx=\"10\" fill=\"#ffd166\"/><text x=\"265\" y=\"112\" fill=\"#000\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">je naam</text></g><text x=\"180\" y=\"180\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">ongeveer 1 op 3 merkt de eigen naam op</text><text x=\"180\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">(Moray 1959; herhaald in 1995 en 2021)</text></svg>",
+   "quiz": {
+    "q": "Hoeveel procent hoorde in de proef van Moray (1959) de eigen naam in het genegeerde oor?",
+    "o": [
+     "Ongeveer 33%",
+     "Ongeveer 75%",
+     "Bijna iedereen"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Röer & Cowan 2021 (PMC)",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8908911"
+    },
+    {
+     "t": "Conway, Cowan & Bunting 2001",
+     "u": "https://memory.psych.missouri.edu/assets/doc/articles/2001/conway-et-al-pbr-2001.pdf"
+    }
+   ],
+   "date": "2026-11-19T05:44:26Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Je ogen veranderen welke klank je hoort",
+   "body": "Zet het geluid van 'ba' onder beelden van lippen die 'ga' zeggen, en veel mensen horen 'da'. Harry McGurk en John MacDonald beschreven dat in 1976 in Nature: 98% van de volwassenen in hun proef liet zich zo misleiden. Je brein smelt beeld en geluid samen tot één klank die niemand uitsprak.",
+   "take": "Gesprek in lawaai of via video? Kijk naar de mond van wie spreekt en vraag om de camera aan te zetten.",
+   "deep": "## Hoe het werkt\n\nSpraak verstaan is niet alleen een zaak van je oren. Je brein gebruikt ook wat je ziet: de vorm van de lippen, de tong, de kaak. Meestal kloppen beeld en geluid, en dan helpt het beeld je om beter te verstaan.\n\nBij het McGurk-effect botsen ze. Je oren krijgen 'ba', een klank die met de lippen wordt gemaakt. Je ogen zien een mond die 'ga' vormt, een klank van achter in de keel. Je brein kiest geen van beide, maar zoekt een compromis: 'da', een klank die er qua plaats in de mond tussenin ligt. Je hoort dat echt zo, ook als je weet hoe de truc werkt.\n\n## Een voorbeeld\n\nZoek online een filmpje van het McGurk-effect. Kijk eerst met open ogen en luister: je hoort waarschijnlijk 'da'. Sluit dan je ogen bij hetzelfde fragment: plots hoor je 'ba'. Het geluid veranderde niet, alleen wat je zag.\n\n## Wat onderzoek zegt\n\nHarry McGurk en John MacDonald publiceerden 'Hearing lips and seeing voices' in 1976 in Nature. In hun eerste studie trapte 98% van de volwassenen erin. Later werk liet meer variatie zien. Een studie in PLoS ONE uit 2018 vat samen dat de vatbaarheid tussen personen varieert van 0% tot 100%. Die vatbaarheid hing samen met hoe goed iemand fijne details van liplezen oppikte, niet met gehoor of algemene cognitieve tests. Een tweelingstudie met 324 deelnemers vond dat de mate waarin iemand het effect ervaart redelijk stabiel bleef bij een nieuwe test twee jaar later.\n\n## Nuance of misverstand\n\nHet idee dat 'iedereen' het effect ervaart, klopt niet. Sommige mensen horen gewoon 'ba', anderen bijna altijd 'da'. Het hangt ook af van de gebruikte opnames en mogelijk van taal en cultuur. Verder is het een kunstmatige laboproef: in het dagelijks leven kloppen beeld en geluid bijna altijd. De les is dus niet dat je oren onbetrouwbaar zijn, maar dat horen een samenwerking is tussen zintuigen.\n\n## Wat je ermee doet\n\nBesef dat zien meehelpt bij verstaan. Zet bij een videogesprek met slechte verbinding je camera aan en zorg dat je gezicht goed belicht is. Spreek je iemand aan die slechthorend is, kijk hem dan aan en draai je niet weg terwijl je praat.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Oor en oog smelten samen</text><rect x=\"20\" y=\"50\" width=\"96\" height=\"36\" rx=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"68\" y=\"73\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">oor: &quot;ba&quot;</text><rect x=\"20\" y=\"130\" width=\"96\" height=\"36\" rx=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"68\" y=\"153\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">lippen: &quot;ga&quot;</text><circle cx=\"200\" cy=\"108\" r=\"30\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"200\" y=\"112\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">brein</text><path d=\"M116 68 L168 98\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"3\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"24;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><path d=\"M116 148 L168 118\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"3\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"24;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><line x1=\"232\" y1=\"108\" x2=\"268\" y2=\"108\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M268 108 L260 104 L260 112Z\" fill=\"#fff\"/><circle cx=\"305\" cy=\"108\" r=\"28\" fill=\"#ffd166\"><animate attributeName=\"r\" values=\"22;30;22\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><text x=\"305\" y=\"113\" fill=\"#000\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">&quot;da&quot;</text><text x=\"180\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">je hoort een klank die niemand uitsprak</text></svg>",
+   "quiz": {
+    "q": "Wat horen veel mensen bij geluid 'ba' en lippen die 'ga' zeggen?",
+    "o": [
+     "'ba'",
+     "'da'",
+     "'ga'"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Britannica: McGurk effect",
+     "u": "https://www.britannica.com/science/McGurk-effect"
+    },
+    {
+     "t": "Brown e.a. 2018, PLoS ONE (PMC)",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6231656"
+    }
+   ],
+   "date": "2026-11-19T05:44:26Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "Een nieuwe week geeft je doelen een duwtje",
+   "body": "Onderzoekers van Wharton (Hengchen Dai, Katherine Milkman en Jason Riis, 2014) zagen dat mensen vaker naar de fitness gaan, vaker 'dieet' googelen en vaker doelen vastleggen net na een tijdsmijlpaal: het begin van een week, maand of jaar, een verjaardag of een feestdag. Ze noemden het het 'fresh start-effect'.",
+   "take": "Plan een nieuwe gewoonte bewust op een betekenisvol startpunt, zoals 1 september of je verjaardag, maar zet vandaag al een eerste kleine stap.",
+   "deep": "## Hoe het werkt\n\nWe delen onze tijd mentaal op in hoofdstukken. Een tijdsmijlpaal, zoals een nieuwe maand of een verjaardag, sluit een hoofdstuk af en opent een nieuw. De onderzoekers spreken van een nieuwe 'mentale boekhoudperiode'.\n\nDaardoor voelen eerdere mislukkingen als iets van een vorige versie van jezelf. Je hebt het gevoel dat je met een schone lei begint. Dat geeft tijdelijk extra motivatie om aan doelen te werken die je belangrijk vindt, zoals sporten, gezonder eten of sparen.\n\n## Een voorbeeld\n\nIn Vlaanderen is 1 september voor veel gezinnen een tweede nieuwjaar. Het schooljaar begint, het ritme verandert, en plots lijkt het een goed moment om opnieuw te beginnen met lopen of minder schermtijd. Ook een nieuwe job of een verhuis kan zo'n startschot zijn.\n\n## Wat onderzoek zegt\n\nDai, Milkman en Riis publiceerden in 2014 in Management Science drie studies met echte gedragsdata. Ze bekeken Google-zoekopdrachten naar 'diet', bezoeken aan een universitaire fitness en het vastleggen van doelen op een website voor doelen. Alle drie stegen ze na tijdsmijlpalen: het begin van een week, maand of jaar, na een feestdag en na een verjaardag. Milkman vertelde later aan Knowledge at Wharton dat de grootte van het effect afhangt van hoe groot de mijlpaal voelt: het effect van nieuwjaar is groter en duurt langer dan dat van een maandag.\n\n## Nuance of misverstand\n\nDit zijn vooral correlaties uit grote datasets: ze tonen dat motivatie piekt rond die momenten, niet dat elke nieuwe start ook lukt. Een piek in bezoeken aan de fitness in januari zegt niets over februari. En een schone lei kan ook een valkuil worden: wie altijd 'vanaf maandag' wil beginnen, kan het blijven uitstellen. Het effect geeft vooral een duwtje, geen garantie.\n\n## Wat je ermee doet\n\nGebruik mijlpalen bewust. Kies een concreet startpunt voor een nieuwe gewoonte en noteer het. Liep het mis, zoek dan het volgende kleine startpunt in plaats van op nieuwjaar te wachten: elke maandag en elke eerste van de maand telt. Combineer dat met een kleine eerste stap vandaag, zodat de schone lei geen excuus wordt om uit te stellen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Motivatie piekt na een mijlpaal</text><line x1=\"30\" y1=\"170\" x2=\"330\" y2=\"170\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"60\" y1=\"60\" x2=\"60\" y2=\"170\" stroke=\"#fff\" stroke-width=\"1\" stroke-dasharray=\"3 4\"/><text x=\"60\" y=\"188\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ma</text><line x1=\"150\" y1=\"60\" x2=\"150\" y2=\"170\" stroke=\"#fff\" stroke-width=\"1\" stroke-dasharray=\"3 4\"/><text x=\"150\" y=\"188\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ma</text><line x1=\"240\" y1=\"60\" x2=\"240\" y2=\"170\" stroke=\"#fff\" stroke-width=\"1\" stroke-dasharray=\"3 4\"/><text x=\"240\" y=\"188\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1 jan</text><path d=\"M30 160 L60 160 L64 110 L150 155 L154 112 L240 150 L244 70 L330 140\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"3\"/><circle r=\"6\" fill=\"#06d6a0\"><animateMotion path=\"M30 160 L60 160 L64 110 L150 155 L154 112 L240 150 L244 70 L330 140\" dur=\"7s\" repeatCount=\"indefinite\"/></circle><text x=\"250\" y=\"62\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">nieuw jaar</text><text x=\"180\" y=\"210\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">begin van week, maand, jaar</text></svg>",
+   "quiz": {
+    "q": "Wanneer stegen fitnessbezoeken en doelen volgens Dai, Milkman en Riis?",
+    "o": [
+     "Na tijdsmijlpalen zoals een nieuwe week of verjaardag",
+     "Vooral midden in de maand",
+     "Alleen in de zomervakantie"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Knowledge at Wharton: fresh start",
+     "u": "https://knowledge.wharton.upenn.edu/article/need-fresh-start-heres-begin/"
+    },
+    {
+     "t": "Dai, Milkman & Riis 2014 (RePEc)",
+     "u": "https://econpapers.repec.org/RePEc:inm:ormnsc:v:60:y:2014:i:10:p:2563-2582"
+    }
+   ],
+   "date": "2026-11-19T05:44:26Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "Rond 22 graden werk je op kantoor het best",
+   "body": "Onderzoekers van het Amerikaanse Lawrence Berkeley National Laboratory bundelden studies over temperatuur en kantoorwerk, zoals typen, rekenen en callcenterwerk. Prestaties stegen tot zo'n 21 à 22 °C en daalden boven 23 à 24 °C. Bij 30 °C lag de prestatie 8,9% lager dan op het optimum.",
+   "take": "Op een hete dag? Plan je moeilijkste denkwerk in de koele ochtend en verlucht vroeg, voor het binnen opwarmt.",
+   "deep": "## Hoe het werkt\n\nJe lichaam besteedt energie aan het op temperatuur houden van zichzelf. Is het binnen te warm, dan word je trager en verlies je makkelijker je aandacht. Ook te koud is niet ideaal. Daartussen ligt een zone waarin je het best presteert.\n\nOmdat de onderzoekers resultaten uit verschillende studies samenlegden, kregen ze een curve: stijgende prestaties tot ongeveer 21 à 22 °C, een top rond 22 °C, en daarna een geleidelijke daling. Hoe verder je boven het optimum zit, hoe groter het verlies.\n\n## Een voorbeeld\n\nTijdens een Belgische hittegolf loopt de temperatuur in een kantoor of klaslokaal zonder airco makkelijk op tot 28 °C of meer. Volgens de curve werk je dan merkbaar minder efficiënt dan op een normale dag, zelfs als je dat zelf niet zo aanvoelt.\n\n## Wat onderzoek zegt\n\nOlli Seppänen, William Fisk en Q.H. Lei publiceerden in 2006 een analyse van studies over temperatuur en kantoorprestaties. Ze gebruikten taken die relevant zijn voor kantoorwerk: tekstverwerking, eenvoudige berekeningen en de tijd die callcentermedewerkers per klant nodig hadden. Studies over industrieel werk lieten ze weg. De prestatie steeg tot 21 à 22 °C en daalde boven 23 à 24 °C. Bij 30 °C bedroeg de prestatie nog 91,1% van het maximum. Een eerder model van dezelfde groep vond geen effect tussen 21 en 25 °C, maar wel ongeveer 2% verlies per graad tussen 25 en 32 °C.\n\n## Nuance of misverstand\n\nHet optimum van 22 °C is een schatting uit een mix van studies met verschillende taken en omstandigheden, geen exacte wet. Mensen verschillen ook: kleding, activiteit en persoonlijke voorkeur spelen mee. Bovendien is de temperatuur waarbij je het meest presteert niet noodzakelijk dezelfde als die waarbij je je het comfortabelst voelt. Een kantoor op 22 °C zetten garandeert dus geen productievere dag, maar te warm werken kost wel meetbaar.\n\n## Wat je ermee doet\n\nHou bij warm weer de binnentemperatuur in het oog en verlucht vroeg op de dag. Leg concentratiewerk in de koelste uren en schuif routineklussen naar de warme namiddag. Werk je thuis, zet dan een eenvoudige thermometer op je bureau: wat je meet, kun je bijsturen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Prestatie versus kamertemperatuur</text><line x1=\"40\" y1=\"180\" x2=\"330\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"40\" y1=\"40\" x2=\"40\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M50 120 C120 60 150 55 170 55 S250 70 320 100\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"3\"/><circle r=\"7\" fill=\"#06d6a0\"><animateMotion path=\"M50 120 C120 60 150 55 170 55 S250 70 320 100\" dur=\"6s\" repeatCount=\"indefinite\" keyPoints=\"0;1;0\" keyTimes=\"0;0.5;1\" calcMode=\"linear\"/></circle><text x=\"60\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">18°</text><text x=\"170\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">22°</text><text x=\"300\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">30°</text><line x1=\"170\" y1=\"55\" x2=\"170\" y2=\"180\" stroke=\"#fff\" stroke-width=\"1\" stroke-dasharray=\"3 4\"/><text x=\"178\" y=\"48\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">optimum</text><text x=\"318\" y=\"90\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"end\">-8,9%</text><text x=\"185\" y=\"214\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">temperatuur</text></svg>",
+   "quiz": {
+    "q": "Hoeveel lager lag de prestatie bij 30 °C volgens Seppänen en collega's?",
+    "o": [
+     "Ongeveer 1%",
+     "Ongeveer 30%",
+     "Ongeveer 9%"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "LBNL: Room temperature and productivity",
+     "u": "https://eta-publications.lbl.gov/publications/room-temperature-and-productivity"
+    },
+    {
+     "t": "Seppänen e.a. 2006 (OSTI)",
+     "u": "https://www.osti.gov/servlets/purl/903490"
+    }
+   ],
+   "date": "2026-11-19T05:44:26Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "Wandelen levert meer ideeën op dan stilzitten",
+   "body": "Stanford-onderzoekers Marily Oppezzo en Daniel Schwartz lieten 176 studenten en volwassenen nieuwe toepassingen bedenken voor gewone voorwerpen. Wie wandelde, zelfs op een loopband tegen een blinde muur, kwam gemiddeld met 60% meer creatieve ideeën. Voor gericht denkwerk, waarbij je één juist antwoord zoekt, hielp wandelen niet.",
+   "take": "Moet je brainstormen? Maak er een wandelvergadering van. Moet je daarna kiezen en uitwerken? Ga dan weer zitten.",
+   "deep": "## Hoe het werkt\n\nPsychologen onderscheiden divergent en convergent denken. Divergent denken is veel mogelijkheden bedenken, zoals bij brainstormen. Convergent denken is naar één juist antwoord toewerken, zoals een raadsel oplossen.\n\nWandelen lijkt vooral het eerste te helpen: ideeën stromen vrijer. Opvallend is dat het niet om de natuur of de frisse lucht ging. Ook wandelen op een loopband in een saai lokaal werkte. En het effect bleef even hangen: wie na een wandeling ging zitten, bleef nog een tijdje creatiever.\n\n## Een voorbeeld\n\nJe team moet een naam bedenken voor een nieuw project. In plaats van rond de vergadertafel te zitten, maken jullie een rondje van twintig minuten door het park naast het kantoor en noteren de ideeën op je gsm. Terug binnen kies je samen de beste.\n\n## Wat onderzoek zegt\n\nMarily Oppezzo en Daniel Schwartz publiceerden in 2014 in het Journal of Experimental Psychology: Learning, Memory, and Cognition. Ze deden vier experimenten met in totaal 176 studenten en andere volwassenen. Een belangrijke test was Guilfords 'alternatieve toepassingen'-test: in vier minuten zo veel mogelijk ongewone toepassingen bedenken voor bijvoorbeeld een knoop of een band. Volgens Stanford steeg de creatieve output gemiddeld met 60% bij wandelen. In het artikel zelf staat dat bij 81% van de deelnemers de creativiteit op die test toenam. Voor gericht denkwerk vonden ze geen positief effect.\n\n## Nuance of misverstand\n\nDe 60% gaat over het aantal bruikbare, nieuwe ideeën op een laboratoriumtaak, niet over betere beslissingen of beter werk in het algemeen. Wandelen helpt niet bij elke denktaak: voor nauwkeurig rekenwerk of een complexe tekst nalezen zit je beter neer. En het gaat om één reeks experimenten met een beperkte groep, al zijn de resultaten in vier proeven gelijkaardig.\n\n## Wat je ermee doet\n\nSplits je denkwerk. Bedenk ideeën al wandelend, alleen of met anderen, en spreek ze in of noteer ze. Kies en werk uit aan je bureau. Zelfs een korte wandeling naar de koffieautomaat of rond het blok kan een vastgelopen brainstorm weer op gang trekken.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Ideeën onderweg</text><path d=\"M30 180 C90 180 100 120 160 130 S250 170 330 110\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"6 6\"/><circle r=\"8\" fill=\"#06d6a0\"><animateMotion path=\"M30 180 C90 180 100 120 160 130 S250 170 330 110\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><g opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;1;0.2\" dur=\"6s\" begin=\"0.0s\" repeatCount=\"indefinite\"/><circle cx=\"95\" cy=\"95\" r=\"11\" fill=\"#ffd166\"/><rect x=\"90\" y=\"106\" width=\"10\" height=\"6\" fill=\"#ffd166\"/></g><g opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;1;0.2\" dur=\"6s\" begin=\"1.3s\" repeatCount=\"indefinite\"/><circle cx=\"165\" cy=\"90\" r=\"11\" fill=\"#ffd166\"/><rect x=\"160\" y=\"101\" width=\"10\" height=\"6\" fill=\"#ffd166\"/></g><g opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;1;0.2\" dur=\"6s\" begin=\"2.6s\" repeatCount=\"indefinite\"/><circle cx=\"245\" cy=\"120\" r=\"11\" fill=\"#ffd166\"/><rect x=\"240\" y=\"131\" width=\"10\" height=\"6\" fill=\"#ffd166\"/></g><g opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;1;0.2\" dur=\"6s\" begin=\"3.9s\" repeatCount=\"indefinite\"/><circle cx=\"305\" cy=\"70\" r=\"11\" fill=\"#ffd166\"/><rect x=\"300\" y=\"81\" width=\"10\" height=\"6\" fill=\"#ffd166\"/></g><text x=\"180\" y=\"210\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">wandelen: gemiddeld 60% meer ideeën</text></svg>",
+   "quiz": {
+    "q": "Bij welk soort denken hielp wandelen in het Stanford-onderzoek?",
+    "o": [
+     "Bij nauwkeurig rekenwerk",
+     "Bij veel nieuwe ideeën bedenken",
+     "Bij het oplossen van raadsels met één antwoord"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Stanford News 2014",
+     "u": "https://news.stanford.edu/stories/2014/04/walking-vs-sitting-042414"
+    },
+    {
+     "t": "Stanford GSE: walking boosts creativity",
+     "u": "https://ed.stanford.edu/news/study-finds-walking-boosts-creativity"
+    }
+   ],
+   "date": "2026-11-19T05:44:26Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Je spaargeld is beschermd tot 100.000 euro per bank",
+   "body": "Gaat een Belgische bank failliet, dan betaalt het Garantiefonds tot 100.000 euro per persoon en per bank terug, binnen zeven werkdagen. Die grens geldt voor je zicht-, spaar- en termijnrekeningen en kasbons samen, niet per rekening. Bij een gezamenlijke rekening heeft elke houder recht op maximaal 100.000 euro.",
+   "take": "Staat er meer dan 100.000 euro bij één bank? Verdeel het over meerdere banken met een eigen vergunning.",
+   "deep": "## Hoe het werkt\n\nEen bank houdt niet al het geld van haar klanten klaar in een kluis. Gaat een bank failliet, dan kunnen spaarders hun geld niet zomaar meteen terugkrijgen. Daarom bestaat er in elk EU-land een depositogarantiestelsel. In België is dat het Garantiefonds voor financiële diensten.\n\nHet principe: per persoon en per instelling tel je al je deposito's samen. Tot 100.000 euro betaalt het fonds terug als de bank dat niet meer kan. Wat erboven zit, is niet gegarandeerd.\n\n## Een voorbeeld\n\nStel: je hebt 60.000 euro op een spaarrekening en 70.000 euro op een termijnrekening bij dezelfde bank. Samen is dat 130.000 euro. Bij een faillissement krijg je 100.000 euro terug via het Garantiefonds. De overige 30.000 euro is niet beschermd. Had je de termijnrekening bij een andere bank, dan was alles gedekt.\n\n## Wat onderzoek zegt\n\nHet Garantiefonds moet wettelijk binnen zeven werkdagen terugbetalen. Om dat te testen, voerde het in oktober 2024 stresstests uit bij 29 banken. Volgens Test Aankoop bleek dat niet alle banken even snel hun gegevens aanleverden: 10 van de 29 deden het binnen de gevraagde drie dagen. Voor bepaalde tijdelijk hoge saldi bestaat een hogere bescherming tot 500.000 euro, als het geld in de zes maanden voor het faillissement op de rekening kwam, bijvoorbeeld door de verkoop van een woning. Daar gelden strikte voorwaarden.\n\n## Nuance of misverstand\n\nDe 100.000 euro beschermt deposito's, niet beleggingen tegen koersdalingen. Zakt je fonds of aandeel in waarde, dan vergoedt niemand dat verlies. Voor effecten die een bank bij faillissement niet meer kan teruggeven, bestaat een aparte regeling met een lager maximum van 20.000 euro. En de grens geldt per instelling: twee producten bij dezelfde bank tellen samen.\n\n## Wat je ermee doet\n\nTel eens op hoeveel je bij elke bank hebt staan, inclusief termijnrekeningen en kasbons. Zit je boven de 100.000 euro, spreid dan over meerdere banken. Verkoop je een woning, vraag dan na welke extra bescherming van toepassing is en hoe je dat aantoont.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Wat het Garantiefonds terugbetaalt</text><path d=\"M30 80 L80 55 L130 80 Z\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"38\" y=\"80\" width=\"84\" height=\"60\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"80\" y=\"115\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">bank</text><line x1=\"180\" y1=\"190\" x2=\"320\" y2=\"190\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"220\" y=\"90\" width=\"60\" height=\"100\" fill=\"#06d6a0\"/><rect x=\"220\" y=\"90\" width=\"60\" height=\"0\" fill=\"#ff6b9d\"><animate attributeName=\"height\" values=\"0;40;40;0\" keyTimes=\"0;0.4;0.8;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"90;50;50;90\" keyTimes=\"0;0.4;0.8;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><line x1=\"200\" y1=\"90\" x2=\"300\" y2=\"90\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><text x=\"304\" y=\"94\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">100.000</text><text x=\"250\" y=\"145\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">beschermd</text><text x=\"250\" y=\"42\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">boven de grens</text><circle r=\"5\" fill=\"#ffd166\"><animateMotion path=\"M125 110 L215 150\" dur=\"2s\" repeatCount=\"indefinite\"/></circle><text x=\"80\" y=\"170\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">per persoon,</text><text x=\"80\" y=\"186\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">per bank</text><text x=\"250\" y=\"210\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">binnen 7 werkdagen</text></svg>",
+   "quiz": {
+    "q": "Je hebt 130.000 euro verdeeld over twee rekeningen bij één bank. Hoeveel is gegarandeerd?",
+    "o": [
+     "100.000 euro",
+     "130.000 euro",
+     "200.000 euro"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "news.belgium.be: Garantiefonds",
+     "u": "https://news.belgium.be/nl/node/38071/pdf"
+    },
+    {
+     "t": "Test Aankoop: stresstests Garantiefonds",
+     "u": "https://www.test-aankoop.be/invest/fiscaliteit-en-wetgeving/veiligheid-van-uw-beleggings-en-spaartegoeden/news/2024/10/spaargeld-beschermd-deposito-garantie-fonds-tests-snel-inlichtingen-terugbetaling-faillissement"
+    },
+    {
+     "t": "Belfius: beschermingsregelingen",
+     "u": "https://www.belfius.be/retail/nl/producten/sparen-beleggen/info-publicaties/risicos/beschermingsregelingen/index.aspx"
+    }
+   ],
+   "date": "2026-11-19T05:44:26Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Alles ineens beleggen wint meestal van spreiden",
+   "body": "Vanguard vergeleek in 2023 twee manieren om een som geld te beleggen: alles meteen, of gespreid over twaalf maanden. Met historische en gesimuleerde marktdata deed 'alles ineens' het in 68% van de gevallen beter. De reden: markten stijgen vaker dan ze dalen, dus gespreid geld staat langer stil.",
+   "take": "Grote som gekregen? Spreiden mag als het je geruststelt, maar hou de periode kort en laat het niet jaren wachten.",
+   "deep": "## Hoe het werkt\n\nStel dat je een som hebt die je voor lange tijd wilt beleggen. Je kunt alles meteen investeren, of het in gelijke stukken over een aantal maanden verdelen. Dat tweede heet gespreid instappen, in het Engels 'cost averaging'.\n\nOmdat aandelen op lange termijn gemiddeld meer opbrengen dan cash, kost elke maand wachten verwacht rendement. Gespreid instappen betekent eigenlijk: je neemt het risico later, en zolang je wacht, staat een deel van je geld op een lager renderende plek. Alleen als de markt net na je instap zakt, pakt spreiden beter uit.\n\n## Een voorbeeld\n\nJe erft 30.000 euro en wilt die beleggen in een wereldwijd gespreid fonds. Optie één: in januari alles ineens. Optie twee: elke maand 2.500 euro, een jaar lang. Stijgt de markt dat jaar, dan heeft optie één meer opgebracht. Zakt ze in het voorjaar flink, dan had optie twee je pijn verzacht.\n\n## Wat onderzoek zegt\n\nMegan Finlay en Josef Zorn van Vanguard publiceerden in februari 2023 een analyse op basis van historische en gesimuleerde marktdata. Alles ineens beleggen deed het in 68% van de gevallen beter dan twaalf maanden spreiden. Ook interessant: alles ineens deed het in 70% van de gevallen beter dan het geld in cash te houden, en spreiden versloeg cash in 69% van de gevallen. Beleggen, op welke manier ook, deed het dus meestal beter dan blijven wachten.\n\n## Nuance of misverstand\n\n68% betekent ook dat spreiden in ongeveer een derde van de gevallen beter was, vooral bij dalende markten. Spreiden verliest daar minder vaak geld en geeft minder spijt als het net na je instap slecht gaat. Dat is een echte, psychologische waarde. Let ook op: maandelijks beleggen uit je loon is iets anders. Dan beleg je gewoon zodra je het geld hebt, en dat is in feite hetzelfde als 'alles ineens'.\n\n## Wat je ermee doet\n\nKies bewust. Kun je een flinke daling vlak na je instap verdragen, dan geeft alles ineens statistisch de beste kansen. Word je daar slapeloos van, spreid dan over een korte, vaste periode met een plan dat je vooraf vastlegt. Het slechtste scenario is meestal niet kiezen en het geld jaren laten wachten.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Alles ineens of gespreid?</text><line x1=\"40\" y1=\"180\" x2=\"330\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"40\" y1=\"40\" x2=\"40\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M40 170 L40 110 L330 110\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"3\" stroke-dasharray=\"420\" stroke-dashoffset=\"420\"><animate attributeName=\"stroke-dashoffset\" values=\"420;0;0\" keyTimes=\"0;0.5;1\" dur=\"6s\" repeatCount=\"indefinite\"/></path><path d=\"M40 170 L64 170 L64 165 L88 165 L88 160 L112 160 L112 155 L136 155 L136 150 L160 150 L160 145 L184 145 L184 140 L208 140 L208 135 L232 135 L232 130 L256 130 L256 125 L280 125 L280 120 L304 120 L304 110 L330 110\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"3\" stroke-dasharray=\"420\" stroke-dashoffset=\"420\"><animate attributeName=\"stroke-dashoffset\" values=\"420;0;0\" keyTimes=\"0;0.5;1\" dur=\"6s\" repeatCount=\"indefinite\"/></path><text x=\"60\" y=\"100\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">ineens: meteen op de markt</text><text x=\"320\" y=\"160\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">gespreid: 12 stappen</text><text x=\"185\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">belegd bedrag over 12 maanden</text><text x=\"185\" y=\"214\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ineens won in 68% van de gevallen</text></svg>",
+   "quiz": {
+    "q": "Hoe vaak deed 'alles ineens' het beter dan twaalf maanden spreiden in de Vanguard-analyse?",
+    "o": [
+     "In ongeveer 32% van de gevallen",
+     "In ongeveer 50% van de gevallen",
+     "In ongeveer 68% van de gevallen"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Vanguard 2023: invest now or hold cash",
+     "u": "https://corporate.vanguard.com/content/dam/corp/research/pdf/cost_averaging_invest_now_or_temporarily_hold_your_cash.pdf"
+    }
+   ],
+   "date": "2026-11-19T05:44:26Z"
   }
  ],
  "dives": [
