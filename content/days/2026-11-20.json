@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T05:45:23Z",
+ "updated": "2026-11-20T05:46:55Z",
  "cards": [
   {
    "cat": "taal",
@@ -937,6 +937,318 @@
     {
      "t": "Wikifin: persbericht vergelijkingstool",
      "u": "https://www.wikifin.be/nl/over-wikifin/persberichten/fsma-lanceert-vergelijkingstool-verzekeringen-ba-familiale"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Een 2000 jaar oud tandwielkastje voorspelde eclipsen",
+   "body": "In 1901 vonden sponsduikers bij het Griekse eiland Antikythera een wrak uit de Romeinse tijd. Tussen de beelden lag een klomp gecorrodeerd brons: een rekentoestel met een slinger, in een kast ter grootte van een schoenendoos. Met minstens 30 bronzen tandwielen toonde het de maanstand, voorspelde het eclipsen en volgde het de vierjaarlijkse cyclus van de Spelen.",
+   "take": "Kijk eens in een oud uurwerk: elk paar tandwielen is een deling. Zo rekende dit kastje hemelcycli uit.",
+   "deep": "## Hoe het werkt\n\nWie aan de slinger draaide, zette een reeks tandwielen in beweging. Het idee is eenvoudig: drijft een wiel met veel tanden een wiel met weinig tanden aan, dan draait het kleine wiel sneller rond. De verhouding tussen de tanden is dus een rekensom. Door wielen met slim gekozen aantallen tanden te koppelen, konden de makers de verhouding tussen bijvoorbeeld een zonnejaar en een maanmaand nabootsen.\n\nOp de achterkant zat een grote wijzerplaat met een spiraal van vier omwentelingen. Die duidde maanden aan waarin een zons- of maansverduistering te verwachten was, gebaseerd op de saroscyclus van ongeveer 18,2 jaar. Een kleinere wijzerplaat met een cyclus van vier jaar gaf aan wanneer de Panhelleense spelen, waaronder de Olympische, plaatsvonden.\n\n## Een voorbeeld\n\nDenk aan een horloge met een maanfase-aanduiding: een klein venstertje waarin de maan langzaam voller wordt en weer verdwijnt. Daar zit hetzelfde principe achter. Een tandwieltrein vertaalt het tikken van dagen naar het ritme van de maan. Het Antikythera-mechanisme deed dat zo'n twee millennia eerder, maar dan voor meerdere hemelcycli tegelijk.\n\n## Wat onderzoek zegt\n\nEr bleef maar ongeveer een derde van het toestel over, verdeeld in 82 fragmenten met 30 overgebleven tandwielen. Röntgenscans brachten duizenden letters aan het licht die in de brokstukken verborgen zaten, waaronder een beschrijving van een kosmosweergave met planeten als kraaltjes op ringen. In 2021 publiceerde een team van University College London in Scientific Reports een reconstructie van die voorkant, met zo weinig mogelijk tandwielen zodat alles in de krappe ruimte past.\n\nDe datering is niet zeker. Op basis van de lettervorm schatte men eerst tussen 150 en 100 voor Christus. Een astronomische analyse van James Evans en Christián Carman kwam uit op 205 voor Christus.\n\n## Nuance of misverstand\n\nHet wordt vaak de eerste computer genoemd, maar het was geen programmeerbare machine. Het was een analoog rekenmodel dat precies deed waarvoor het gebouwd was. Het nam ook de fouten van de Griekse sterrenkunde over: volgens één studie kon de Mars-aanwijzer tot 38 graden afwijken. En ook de UCL-onderzoekers zeggen dat hun model nog met oude technieken nagebouwd moet worden om te bewijzen dat het echt werkt.\n\n## Wat je ermee doet\n\nBekijk tandwielen in een fiets of een klok eens als rekenmachines: elke koppeling vermenigvuldigt of deelt. En onthoud dat ingenieurs in de oudheid veel verder stonden dan we vaak denken. Een museum met oude uurwerken of astronomische klokken laat je dat principe met eigen ogen zien.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Tandwielen rekenen cycli uit</text><g><circle cx=\"110\" cy=\"110\" r=\"46\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"6 4\"/><line x1=\"110\" y1=\"110\" x2=\"110\" y2=\"70\" stroke=\"#ffd166\" stroke-width=\"2\"/><animateTransform attributeName=\"transform\" type=\"rotate\" from=\"0 110 110\" to=\"360 110 110\" dur=\"8s\" repeatCount=\"indefinite\"/></g><g><circle cx=\"186\" cy=\"110\" r=\"28\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><line x1=\"186\" y1=\"110\" x2=\"186\" y2=\"86\" stroke=\"#06d6a0\" stroke-width=\"2\"/><animateTransform attributeName=\"transform\" type=\"rotate\" from=\"0 186 110\" to=\"-600 186 110\" dur=\"8s\" repeatCount=\"indefinite\"/></g><circle cx=\"110\" cy=\"110\" r=\"4\" fill=\"#fff\"/><circle cx=\"186\" cy=\"110\" r=\"4\" fill=\"#fff\"/><rect x=\"240\" y=\"60\" width=\"100\" height=\"100\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"290\" y=\"84\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">wijzerplaten</text><circle cx=\"290\" cy=\"122\" r=\"22\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><circle cx=\"290\" cy=\"122\" r=\"9\" fill=\"#fff\"><animate attributeName=\"r\" values=\"3;10;3\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><text x=\"110\" y=\"178\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">groot wiel: draai</text><text x=\"186\" y=\"160\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">klein wiel:</text><text x=\"186\" y=\"174\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">sneller rond</text><text x=\"290\" y=\"176\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">maanstand</text><text x=\"180\" y=\"205\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">verhouding tanden = verhouding van de cycli</text></svg>",
+   "quiz": {
+    "q": "Waarop baseerde de eclipswijzer van het Antikythera-mechanisme zijn voorspellingen?",
+    "o": [
+     "Op de saroscyclus van ongeveer 18 jaar",
+     "Op de stand van de sterrenbeelden bij geboorte",
+     "Op een zonnewijzer die elk jaar werd bijgesteld"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Computer History Museum",
+     "u": "https://www.computerhistory.org/revolution/calculators/1/42"
+    },
+    {
+     "t": "UCL News (2021)",
+     "u": "https://www.ucl.ac.uk/news/2021/mar/experts-recreate-mechanical-cosmos-worlds-first-computer"
+    },
+    {
+     "t": "History.com",
+     "u": "https://history.com/news/antikythera-mechanism-ancient-computer-secrets"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "De Inca's boekhielden met knopen in touwtjes",
+   "body": "De Inca's schreven niet zoals wij, maar ze hadden khipu: koorden met knopen, in een tiendelig systeem. Op de onderste rij stonden de eenheden: een 'lange knoop' met 2 tot 9 windingen, een achtknoop voor 1 en een lege plek voor 0. Hogere rijen telden tientallen en honderdtallen met groepjes gewone knopen.",
+   "take": "Schrijf een getal eens als knopen op een touw: je voelt meteen waarom een nul, zelfs als lege plek, onmisbaar is.",
+   "deep": "## Hoe het werkt\n\nEen khipu bestaat uit een hoofdkoord waaraan tientallen hangende koorden vastzitten. Op elk koord stelt de positie van een knoop een macht van tien voor. De rij het verst van het hoofdkoord is de eenhedenrij, de rij erboven de tientallen, dan de honderdtallen, enzovoort.\n\nHet type knoop doet ook mee. In de eenhedenrij staat een lange knoop, met zoveel windingen als het cijfer, van 2 tot 9. Een achtvormige knoop betekent 1. Geen knoop is 0. In de hogere rijen stelt een groepje van gewone knopen het cijfer voor: drie knoopjes in de tientallenrij betekenen 30. Sommige khipu hebben ook bovenkoorden die de som bevatten van de koorden waaraan ze vastzitten.\n\n## Een voorbeeld\n\nVergelijk het met een gemeente die haar cijfers doorgeeft aan de provincie, die ze optelt en naar Brussel stuurt. Bij de Inca's gebeurde iets gelijkaardigs: lokale boekhouders legden hun resultaten vast op een khipu, en een hoger niveau knoopte de totalen op een nieuwe khipu. Zo'n bovenkoord is eigenlijk een subtotaal, net als de somregel onderaan in een rekenblad.\n\n## Wat onderzoek zegt\n\nDe Amerikaan Leland Locke ontcijferde in 1912 de betekenis van de drie knoopsoorten. In 2005 publiceerden Gary Urton en Carrie Brezine een analyse van 21 khipu uit Puruchuco, een Inca-bestuurscentrum bij het huidige Lima. Zeven ervan pasten in een hiërarchie van drie niveaus: elk lager khipu kwam overeen met een stuk van het khipu erboven, en totalen schoven zo naar boven. Khipu op hetzelfde niveau leken sterk op elkaar, wat erop wijst dat de Inca's kopieën bijhielden.\n\nHoeveel khipu bewaard bleven, is niet precies bekend. Een artikel van de Universiteit van Cambridge uit 2005 spreekt van zo'n 600. In een steekproef van ongeveer 420 khipu uit de Harvard Khipu Database had een khipu gemiddeld 84 koorden.\n\n## Nuance of misverstand\n\nEen khipu was niet alleen een telraam. Het meeste wat onderzoekers kunnen lezen zijn getallen, maar of er ook namen, verhalen of andere niet-numerieke informatie in zitten, is nog altijd een open vraag. Urton opperde dat sommige khipu een soort binaire code gebruikten, maar dat is niet bewezen.\n\n## Wat je ermee doet\n\nGebruik het khipu-principe als controle: laat elk niveau zijn subtotalen bijhouden en tel ze bovenaan opnieuw op. Klopt de som niet, dan weet je meteen op welk niveau de fout zit. Dat deden de Inca's vijf eeuwen geleden al met touw.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Een khipu-koord leest als een getal</text><line x1=\"40\" y1=\"44\" x2=\"320\" y2=\"44\" stroke=\"#ffd166\" stroke-width=\"4\"/><text x=\"320\" y=\"38\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">hoofdkoord</text><line x1=\"180\" y1=\"44\" x2=\"180\" y2=\"200\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"180\" cy=\"70\" r=\"5\" fill=\"#06d6a0\"/><circle cx=\"180\" cy=\"80\" r=\"5\" fill=\"#06d6a0\"/><circle cx=\"180\" cy=\"112\" r=\"5\" fill=\"#06d6a0\"/><circle cx=\"180\" cy=\"122\" r=\"5\" fill=\"#06d6a0\"/><circle cx=\"180\" cy=\"132\" r=\"5\" fill=\"#06d6a0\"/><rect x=\"174\" y=\"158\" width=\"12\" height=\"28\" rx=\"5\" fill=\"#ff6b9d\"/><text x=\"80\" y=\"80\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">honderdtallen: 2 knopen</text><text x=\"80\" y=\"126\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">tientallen: 3 knopen</text><text x=\"80\" y=\"176\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">eenheden: lange knoop</text><text x=\"80\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">met 4 windingen</text><text x=\"290\" y=\"80\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">2&#215;100</text><text x=\"290\" y=\"126\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">3&#215;10</text><text x=\"290\" y=\"176\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">4</text><text x=\"290\" y=\"205\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">= 234</text><rect x=\"250\" y=\"60\" width=\"80\" height=\"128\" rx=\"6\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;1;0\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><circle r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M180,50 L180,196\" dur=\"6s\" repeatCount=\"indefinite\"/></circle></svg>",
+   "quiz": {
+    "q": "Wat betekende een lege plek op een khipu-koord?",
+    "o": [
+     "Een fout van de boekhouder",
+     "Het cijfer nul",
+     "Het einde van de rekening"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Plus Magazine (Cambridge)",
+     "u": "https://plus.maths.org/content/not-just-knots-secrets-khipu"
+    },
+    {
+     "t": "Scientific American",
+     "u": "https://www.scientificamerican.com/article/knotty-incan-accounting-u/"
+    },
+    {
+     "t": "History of Information",
+     "u": "https://historyofinformation.com/detail.php?entryid=2447"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Perzen leidden water ondergronds door de woestijn, zonder pomp",
+   "body": "Een qanat is een bijna horizontale tunnel die grondwater aftapt aan de voet van een helling en het enkel door zwaartekracht naar dorpen en velden leidt. Op regelmatige afstanden loopt een verticale schacht naar boven, om grond af te voeren en te verluchten. Iran telt er meer dan 37.000; elf staan sinds 2016 op de werelderfgoedlijst van UNESCO.",
+   "take": "Zie je vanuit het vliegtuig rijen kratertjes in een woestijn? Dan kijk je waarschijnlijk naar de schachten van een qanat.",
+   "deep": "## Hoe het werkt\n\nBouwers zochten eerst een plek waar grondwater zit, vaak in een puinwaaier aan de voet van een berg. Daar groeven ze een diepe moederput tot in die waterhoudende laag. Daarna groeven ze een tunnel die van die put licht hellend naar beneden loopt, tot hij lager in de vallei aan de oppervlakte komt.\n\nDe helling was het moeilijkste deel. Is ze te steil, dan schuurt het water de tunnel kapot. Is ze te vlak, dan blijft het water staan en slibt de gang dicht. Om de zoveel meter groeven de bouwers een verticale schacht: daarlangs haalden ze grond naar boven en kwam er verse lucht binnen. Van bovenaf zie je die schachten als lange rijen kraters. Omdat het water onder de grond stroomt, blijft het uit de felle zon.\n\n## Een voorbeeld\n\nStel je voor dat een dorp in een droge vlakte ligt, kilometers van de bergen waar het grondwater zit. In plaats van elke dag emmers aan te slepen, graaf je een ondergrondse goot die vanzelf water aanvoert, dag en nacht, zonder motor. Rond het uiteinde van zo'n tunnel ontstonden in Iran tuinen, badhuizen, waterreservoirs en zelfs watermolens.\n\n## Wat onderzoek zegt\n\nUNESCO schreef de Perzische qanat in 2016 in als werelderfgoed. Het gaat om elf qanats in de provincies Khorasan, Yazd, Markazi, Isfahan en Kerman, gekozen uit meer dan 37.000 in heel Iran. In de nominatiedossiers staan moederputten die 200 tot 300 meter diep gaan. Bij de inschrijving horen ook rusthuizen voor de qanatwerkers, badhuizen en reservoirs.\n\nUNESCO wijst er ook op dat elke qanat een eigen lokale raad heeft. Dat traditionele, gemeenschappelijke beheer zorgt al eeuwen voor een eerlijke verdeling van het water.\n\n## Nuance of misverstand\n\nHet is niet precies bekend hoe oud de oudste qanats zijn. Bronnen geven uiteenlopende dateringen, vaak in het eerste millennium voor Christus. Het systeem is ook niet onkwetsbaar: een Iraans beheerplan noemt onder meer vervuiling door industrieel en huishoudelijk afvalwater als bedreiging. En de techniek werkt alleen waar er genoeg grondwater is en het terrein helt.\n\n## Wat je ermee doet\n\nEen qanat herinnert je eraan dat een goede oplossing niet altijd energie hoeft te kosten. Zwaartekracht, geduld en vakmanschap brachten eeuwenlang water naar de woestijn. Wie iets duurzaams ontwerpt, kan zich afvragen: welk werk kan de natuur hier gratis voor mij doen?",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Een qanat: water stroomt vanzelf bergaf</text><path d=\"M10,70 L120,70 Q200,100 350,150\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"40\" y=\"62\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">helling</text><path d=\"M10,180 L350,180\" fill=\"none\" stroke=\"rgba(255,255,255,0.4)\" stroke-width=\"2\"/><line x1=\"60\" y1=\"70\" x2=\"60\" y2=\"180\" stroke=\"#06d6a0\" stroke-width=\"3\"/><text x=\"66\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">moederput</text><text x=\"66\" y=\"214\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">tot grondwater</text><line x1=\"140\" y1=\"76\" x2=\"140\" y2=\"162\" stroke=\"#fff\" stroke-width=\"1.5\"/><line x1=\"200\" y1=\"94\" x2=\"200\" y2=\"156\" stroke=\"#fff\" stroke-width=\"1.5\"/><line x1=\"260\" y1=\"114\" x2=\"260\" y2=\"150\" stroke=\"#fff\" stroke-width=\"1.5\"/><path d=\"M60,168 L340,148\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"4\" stroke-dasharray=\"10 8\"><animate attributeName=\"stroke-dashoffset\" from=\"36\" to=\"0\" dur=\"2s\" repeatCount=\"indefinite\"/></path><path d=\"M332,142 L346,148 L332,154 Z\" fill=\"#ffd166\"/><text x=\"200\" y=\"80\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">schachten</text><text x=\"305\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">dorp en velden</text><text x=\"190\" y=\"176\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">licht dalende tunnel</text></svg>",
+   "quiz": {
+    "q": "Wat duwt het water door een qanat?",
+    "o": [
+     "Windmolens bovenop de schachten",
+     "Dieren die een waterrad draaien",
+     "Zwaartekracht, via een licht dalende tunnel"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "UNESCO World Heritage",
+     "u": "https://whc.unesco.org/en/list/1506"
+    },
+    {
+     "t": "UNESCO nieuws (2016)",
+     "u": "https://whc.unesco.org/en/news/1524"
+    },
+    {
+     "t": "World History Encyclopedia",
+     "u": "https://www.worldhistory.org/qanat/"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "China koos ambtenaren 1300 jaar lang via examens",
+   "body": "Vanaf 605, onder de Sui-dynastie, kon je in China een staatsfunctie verdienen met een examen over de confucianistische klassiekers en literaire stijl. Het systeem liep bijna ononderbroken tot 1905. Onder de Song-dynastie groeide het aantal deelnemers van minder dan 30.000 tot ongeveer 400.000, en werden namen vervangen door nummers.",
+   "take": "Beoordeel je sollicitaties of toetsen? Verberg eerst de namen: de Song-keizers deden dat al tegen vooringenomenheid.",
+   "deep": "## Hoe het werkt\n\nWie ambtenaar wilde worden, moest examens afleggen over de klassieke teksten van het confucianisme en bewijzen dat hij in een verzorgde literaire stijl kon schrijven. De examens werden op verschillende niveaus afgenomen, en alleen wie slaagde, kwam in aanmerking voor de hogere functies in het rijk. Het idee: de staat zou bestuurd worden door mensen met dezelfde kennis van teksten en waarden, en niet alleen door wie de juiste familie of vrienden had.\n\nOnder de Song-dynastie (960-1279) maakte de overheid het systeem strenger. Namen van kandidaten werden vervangen door nummers, en klerken schreven elk examen over, zodat de examinator het handschrift niet kon herkennen.\n\n## Een voorbeeld\n\nJe kent het principe misschien van examens aan de universiteit of hogeschool, waar je soms alleen je studentennummer noteert. Of van sollicitaties waarbij een werkgever cv's eerst zonder naam en foto bekijkt. Het doel is hetzelfde als duizend jaar geleden in China: de beoordelaar laten kijken naar wat er op papier staat, niet naar wie het schreef.\n\n## Wat onderzoek zegt\n\nVolgens het lesmateriaal van Columbia University groeide het aantal mannen dat aan de examens deelnam onder de Song van minder dan 30.000 vroeg in de dynastie tot ongeveer 400.000 aan het einde ervan. Een werkdocument van het Amerikaanse National Bureau of Economic Research uit 2026 onderzoekt de hervormingen van de Noordelijke Song, die inzendingen anoniem maakten en lokale ambtenaren het recht ontnamen om zelf kandidaten voor te dragen.\n\nIn september 1905 keurde keizer Guangxu een verzoek van Yuan Shikai en Zhang Zhidong goed om de examens af te schaffen en nieuwe scholen op te richten.\n\n## Nuance of misverstand\n\nHet systeem was meritocratischer dan veel alternatieven in die tijd, maar niet eerlijk voor iedereen. Vrouwen mochten niet deelnemen, en wie jarenlang kon studeren zonder te werken, had een duidelijke voorsprong. Bovendien garandeerde een diploma geen aanstelling. En wat getest werd, was vooral kennis van klassieke teksten en schrijfstijl, niet per se bestuurstalent.\n\n## Wat je ermee doet\n\nWil je eerlijker beoordelen, op het werk of in een vereniging? Maak namen onzichtbaar tot je een oordeel hebt geveld, en spreek vooraf af waarop je let. Zo haal je een eeuwenoud trucje uit China in huis.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Anoniem verbeteren onder de Song</text><rect x=\"20\" y=\"70\" width=\"80\" height=\"90\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"60\" y=\"92\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">examen</text><text x=\"60\" y=\"110\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">naam: Li</text><rect x=\"140\" y=\"70\" width=\"80\" height=\"90\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"92\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">nummer</text><text x=\"180\" y=\"110\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">nr. 0417</text><text x=\"180\" y=\"140\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">klerk schrijft</text><text x=\"180\" y=\"153\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">over</text><rect x=\"260\" y=\"70\" width=\"80\" height=\"90\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"300\" y=\"92\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">examinator</text><text x=\"300\" y=\"110\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ziet geen</text><text x=\"300\" y=\"124\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">naam of hand</text><line x1=\"102\" y1=\"115\" x2=\"132\" y2=\"115\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M132,110 L140,115 L132,120 Z\" fill=\"#fff\"/><line x1=\"222\" y1=\"115\" x2=\"252\" y2=\"115\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M252,110 L260,115 L252,120 Z\" fill=\"#fff\"/><circle r=\"6\" fill=\"#ffd166\"><animateMotion path=\"M60,180 L180,180 L300,180\" dur=\"5s\" repeatCount=\"indefinite\"/></circle><line x1=\"40\" y1=\"180\" x2=\"320\" y2=\"180\" stroke=\"rgba(255,255,255,0.4)\" stroke-width=\"2\"/><text x=\"180\" y=\"206\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">605: start · 1905: afgeschaft</text></svg>",
+   "quiz": {
+    "q": "Waarom lieten de Song-examinatoren examens overschrijven door klerken?",
+    "o": [
+     "Om een kopie naar de keizer te sturen",
+     "Zodat het handschrift de kandidaat niet verraadde",
+     "Omdat kandidaten zelf niet mochten schrijven"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Columbia University, Asia for Educators",
+     "u": "https://afe.easia.columbia.edu/songdynasty-module/confucian-scholar.html"
+    },
+    {
+     "t": "NBER working paper (2026)",
+     "u": "https://nber.org/papers/w35531"
+    },
+    {
+     "t": "New World Encyclopedia",
+     "u": "https://www.newworldencyclopedia.org/entry/Keju"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Gillette gaf zijn scheermes níét weg, integendeel",
+   "body": "Het bekende verhaal: Gillette verkocht goedkope houders en verdiende aan dure mesjes. Rechtsgeleerde Randal Picker zocht het uit. Tussen 1904 en 1921, toen Gillettes patenten liepen, was de houder juist duur. Pas toen de patenten afliepen en concurrenten passende mesjes konden maken, verlaagde Gillette de prijs van zijn houders.",
+   "take": "Lijkt een printer of koffiemachine spotgoedkoop? Reken de navullingen van een paar jaar mee voor je beslist.",
+   "deep": "## Hoe het werkt\n\nHet scheermes-en-mesjesmodel werkt zo: je verkoopt het basistoestel goedkoop, soms zelfs met verlies, en verdient aan de verbruiksartikelen die de klant steeds opnieuw moet kopen. Dat werkt alleen als de klant vastzit aan jouw navullingen. Kan hij ook goedkopere mesjes van een ander merk gebruiken, dan verdien je niets terug op die goedkope houder.\n\nPrecies daar wringt het oude verhaal. Gillettes patenten uit 1904 dekten de houder, de dunne dubbelzijdige mesjes én de combinatie van beide. Zolang die patenten liepen, had Gillette dus een monopolie op allebei. Het hoefde de houder niet weg te geven om klanten te binden.\n\n## Een voorbeeld\n\nJe kent het model van printers met dure inktpatronen, of van koffiemachines die alleen met één soort capsules werken. Een spelconsole die onder de kostprijs verkocht wordt, terwijl de spellen het geld opbrengen, is een ander voorbeeld. Telkens is de vraag: hoe goed zit de klant vast aan de navullingen?\n\n## Wat onderzoek zegt\n\nRandal Picker, hoogleraar aan de University of Chicago Law School, publiceerde in 2011 'The Razors-and-Blades Myth(s)' in de University of Chicago Law Review. Zijn conclusie: Gillette volgde de strategie niet tijdens de patentjaren van 1904 tot 1921. Integendeel, het vroeg een hoge prijs voor de houder. Toen de patenten afliepen, moest Gillette vrezen dat concurrenten goedkopere houders zouden maken. Het verlaagde daarom zijn eigen houderprijzen tot het niveau van de concurrentie. Pas toen begon iets dat op het klassieke model leek.\n\n## Nuance of misverstand\n\nPicker zegt niet dat het model nooit werkt, wel dat de beroemde ontstaansgeschiedenis niet klopt. Critici, zoals het techblog Techdirt, vinden dat hij merkentrouw en gemak onderschat: klanten blijven vaak bij hetzelfde merk mesjes, ook als er alternatieven zijn. Het model hangt dus af van hoe sterk de klant gebonden is, door een patent, een technisch slot of gewoon gewoonte.\n\n## Wat je ermee doet\n\nKijk bij elke aankoop naar de totale kosten over de levensduur, niet alleen naar de prijs vandaag. Zet de prijs van het toestel en die van de navullingen van een paar jaar naast elkaar. En wantrouw ontstaansverhalen van bedrijven die net iets te mooi klinken.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Gillette: wanneer was de houder duur?</text><line x1=\"40\" y1=\"170\" x2=\"330\" y2=\"170\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"60\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1904</text><text x=\"200\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1921</text><text x=\"310\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">later</text><text x=\"130\" y=\"208\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">patenten lopen</text><rect x=\"60\" y=\"60\" width=\"140\" height=\"110\" fill=\"rgba(6,214,160,0.18)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><rect x=\"90\" y=\"80\" width=\"30\" height=\"90\" fill=\"#ffd166\"/><text x=\"105\" y=\"74\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">houder</text><rect x=\"240\" y=\"80\" width=\"30\" height=\"90\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"90;24;24;90\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"80;146;146;80\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"255\" y=\"74\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">houder</text><rect x=\"150\" y=\"120\" width=\"20\" height=\"50\" fill=\"#ff6b9d\"/><rect x=\"290\" y=\"120\" width=\"20\" height=\"50\" fill=\"#ff6b9d\"/><text x=\"160\" y=\"114\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">mesjes</text><text x=\"300\" y=\"114\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">mesjes</text></svg>",
+   "quiz": {
+    "q": "Wanneer verlaagde Gillette volgens Randal Picker de prijs van zijn houders?",
+    "o": [
+     "Toen zijn patenten rond 1921 afliepen",
+     "Meteen bij de lancering in 1904",
+     "Pas na de Tweede Wereldoorlog"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "University of Chicago Law Review (Picker, 2011)",
+     "u": "https://chicagounbound.uchicago.edu/journal_articles/1717"
+    },
+    {
+     "t": "Techdirt",
+     "u": "https://www.techdirt.com/2010/09/17/the-myth-of-razors-and-razor-blades"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Zelfgebouwd voelt waardevoller: het IKEA-effect",
+   "body": "Michael Norton, Daniel Mochon en Dan Ariely lieten mensen IKEA-dozen in elkaar zetten, origami vouwen en Lego bouwen. Wie zelf bouwde, wilde meer betalen voor het resultaat en vond zijn amateuristische origami ongeveer even waardevol als werk van experts. Maar het effect verdween als mensen hun bouwwerk niet afmaakten of het weer afbraken.",
+   "take": "Laat klanten of collega's een klein, haalbaar stuk zelf afwerken. Afmaken is de sleutel tot meer waardering.",
+   "deep": "## Hoe het werkt\n\nMoeite die je in iets steekt, verandert hoe je het bekijkt. De onderzoekers vatten het samen als 'labor leads to love': arbeid leidt tot liefde. Wie iets zelf in elkaar zet, ziet er ook een stukje van zichzelf in. Je kent elk schroefje en elke stap, en het eindresultaat bewijst dat je het kon. Dat gevoel van bekwaamheid wordt mee in de waarde van het voorwerp gerekend.\n\n## Een voorbeeld\n\nJe zet een kast van IKEA in elkaar, met een handleiding, een inbussleutel en een uurtje gevloek. Hangt hij een beetje scheef? Toch vind je hem mooier dan het identieke exemplaar in de winkel. Hetzelfde zie je bij een maaltijdbox: je kookt het recept zelf, en dat voelt anders dan een afhaalmaaltijd, ook al zijn de ingrediënten voorgesneden.\n\n## Wat onderzoek zegt\n\nNorton, Mochon en Ariely publiceerden hun studie in 2012 in het Journal of Consumer Psychology, onder de titel 'The IKEA effect: When labor leads to love'. In vier experimenten bouwden deelnemers IKEA-opbergdozen, origami en Legosets. Bouwers waren bereid meer te betalen voor hun eigen werk dan voor gelijkaardige producten die al klaar waren. Ze zagen hun amateuristische creaties als ongeveer even waardevol als die van experts, en verwachtten dat anderen dat ook zouden vinden.\n\nVolgens een samenvatting in Psychology Today schatten de origamivouwers hun kikkers en kraanvogels ongeveer vijf keer zo hoog in als andere deelnemers. Belangrijk: wie zijn bouwwerk niet afmaakte of het meteen weer afbrak, vertoonde het effect niet.\n\n## Nuance of misverstand\n\nHet IKEA-effect is niet hetzelfde als het bezitseffect, waarbij iets meer waard lijkt zodra het van jou is. Hier gaat het om de moeite die je erin stak. En meer moeite is niet altijd beter: het effect verdween als het resultaat niet af was. Een product dat te moeilijk is om te bouwen, levert dus geen trots op maar frustratie. Let ook op de keerzijde: omdat je je eigen werk overschat, denk je ten onrechte dat anderen het even goed vinden.\n\n## Wat je ermee doet\n\nBetrek mensen bij het eindresultaat, maar zorg dat ze het kunnen afmaken. Laat een team zelf een stuk van een plan uitwerken, of een klant iets personaliseren. En vraag je bij je eigen projecten af of je ze niet overschat, gewoon omdat je er zelf aan zwoegde.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Zelf bouwen verhoogt de waarde</text><rect x=\"40\" y=\"60\" width=\"110\" height=\"80\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"95\" y=\"96\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">kant-en-klaar</text><text x=\"95\" y=\"114\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">waarde: x</text><g><rect x=\"210\" y=\"60\" width=\"50\" height=\"38\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><rect x=\"210\" y=\"102\" width=\"50\" height=\"38\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0;1;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"264\" y=\"60\" width=\"50\" height=\"80\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0;0;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect></g><text x=\"262\" y=\"160\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">zelf gebouwd</text><rect x=\"230\" y=\"176\" width=\"10\" height=\"20\" fill=\"#06d6a0\"><animate attributeName=\"width\" values=\"10;60;90\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"220\" y=\"190\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">waarde</text><text x=\"95\" y=\"190\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">afmaken = sleutel</text></svg>",
+   "quiz": {
+    "q": "Wanneer verdween het IKEA-effect in de experimenten?",
+    "o": [
+     "Als het product duur was",
+     "Als de bouwer een expert was",
+     "Als mensen hun bouwwerk niet afmaakten of afbraken"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Harvard DASH (Norton, Mochon, Ariely)",
+     "u": "https://dash.harvard.edu/bitstream/handle/1/12136084/norton%20mochon%20ariely%20third%20round[1].pdf"
+    },
+    {
+     "t": "Psychology Today",
+     "u": "https://www.psychologytoday.com/au/blog/make-up-your-mind/201209/the-ikea-effect-why-we-cherish-things-we-build"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "'De meeste gasten doen het' verslaat het milieuargument",
+   "body": "Onderzoekers Noah Goldstein, Robert Cialdini en Vladas Griskevicius hingen kaartjes in hotelbadkamers. Een standaard milieuboodschap bracht ongeveer 35% van de gasten ertoe hun handdoek te hergebruiken. 'De meeste gasten hergebruiken hun handdoek' haalde ongeveer 44%. Ging het over vorige gasten in déze kamer, dan steeg het naar bijna 50%. Een Duitse herhaling vond die voorsprong wel niet terug.",
+   "take": "Vertel eerlijk wat de meeste mensen al doen als je gedrag wil veranderen, maar test of het bij jouw publiek werkt.",
+   "deep": "## Hoe het werkt\n\nEen beschrijvende sociale norm vertelt je wat anderen doen. Mensen gebruiken dat als snelle gids: als de meesten iets doen, is het waarschijnlijk normaal en verstandig. Een milieuboodschap zegt wat je zou moeten doen, een sociale norm zegt wat mensen zoals jij echt doen. Hoe meer de groep op jou lijkt of in jouw situatie zat, hoe sterker het effect, zo luidt de theorie.\n\n## Een voorbeeld\n\nDenk aan een bord op een Vlaamse camping of in een sporthal: 'Help het milieu, spaar water' tegenover 'De meeste bezoekers houden hun douche onder de 5 minuten'. Het tweede bord vertelt niet alleen wat goed is, maar ook wat normaal is. Dat principe zie je ook in reclame, met zinnen als 'meest gekozen' of 'populair in jouw buurt'.\n\n## Wat onderzoek zegt\n\nDe studie 'A Room with a Viewpoint' verscheen in 2008 in het Journal of Consumer Research. Volgens een samenvatting in Psychology Today steeg het hergebruik van ongeveer 35% met het milieukaartje naar ongeveer 44% met de normboodschap. Een kaartje dat zei dat 75% van de gasten in die specifieke kamer zijn handdoek hergebruikte, duwde het percentage naar bijna 50%.\n\nGerd Bohner en Lena Schlüter herhaalden het experiment in 2014 in twee Duitse hotels, met 724 en 204 gasten. Het hergebruik lag er hoog. Zowel het standaardkaartje als de normboodschap deden beter dan geen kaartje, maar de normboodschap deed niet beter dan het standaardkaartje, en het effect van 'deze kamer' was niet consistent.\n\n## Nuance of misverstand\n\nSociale normen zijn geen toverformule. Wat in Amerikaanse hotels werkte, werkte niet zomaar in Duitse. De cultuur, het type gasten en hoe vaak mensen al hergebruiken spelen mee. Pas ook op met een norm die tegen je werkt: wie zegt 'veel mensen doen het fout', vertelt eigenlijk dat fout doen normaal is. En verzin nooit cijfers; een norm moet kloppen.\n\n## Wat je ermee doet\n\nAls je mensen iets wil laten doen, vermeld dan wat de meerderheid al goed doet, met een echte, controleerbare score. Maak de groep herkenbaar, zoals 'je buren' of 'collega's op jouw afdeling'. En meet zelf of het werkt, want dit effect verschilt van plek tot plek.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Hergebruik van handdoeken per kaartje</text><line x1=\"40\" y1=\"180\" x2=\"330\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"70\" y=\"180\" width=\"50\" height=\"0\" fill=\"rgba(255,255,255,0.4)\"><animate attributeName=\"height\" values=\"0;70;70\" keyTimes=\"0;0.4;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;110;110\" keyTimes=\"0;0.4;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"160\" y=\"180\" width=\"50\" height=\"0\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"0;88;88\" keyTimes=\"0;0.4;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;92;92\" keyTimes=\"0;0.4;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"250\" y=\"180\" width=\"50\" height=\"0\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"0;98;98\" keyTimes=\"0;0.4;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;82;82\" keyTimes=\"0;0.4;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"95\" y=\"104\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">ca. 35%</text><text x=\"185\" y=\"86\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">ca. 44%</text><text x=\"275\" y=\"76\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">bijna 50%</text><text x=\"95\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">milieu</text><text x=\"185\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">meeste gasten</text><text x=\"275\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">gasten in</text><text x=\"275\" y=\"212\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">deze kamer</text><text x=\"180\" y=\"44\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Goldstein, Cialdini &amp; Griskevicius, 2008</text></svg>",
+   "quiz": {
+    "q": "Welk kaartje deed in de oorspronkelijke studie meer gasten hun handdoek hergebruiken?",
+    "o": [
+     "Een uitleg over het milieu",
+     "Een bericht dat de meeste gasten het al deden",
+     "Een korting op de kamerprijs"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Psychology Today",
+     "u": "https://psychologytoday.com/sg/blog/sex-murder-and-the-meaning-life/201111/and-the-year-s-best-paper-consumer-psychology-is"
+    },
+    {
+     "t": "PLOS ONE (Bohner & Schlüter, 2014)",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4118982"
+    },
+    {
+     "t": "University of Minnesota",
+     "u": "https://experts.umn.edu/en/publications/a-room-with-a-viewpoint-using-social-norms-to-motivate-environmen/"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Wifi-kanalen 1, 6 en 11 storen elkaar niet",
+   "body": "De 2,4 GHz-band van wifi is opgedeeld in kanalen die maar 5 MHz uit elkaar liggen, terwijl één wifisignaal zo'n 20 tot 22 MHz breed is. Buurkanalen overlappen dus. Alleen 1, 6 en 11 liggen ver genoeg uit elkaar om elkaar niet te storen. De 5 GHz-band heeft veel meer ruimte, maar een kleiner bereik.",
+   "take": "Traag netwerk in je appartement? Zet je router op 2,4 GHz op kanaal 1, 6 of 11, of schakel over naar 5 GHz.",
+   "deep": "## Hoe het werkt\n\nWifi is radio. Je router en je toestellen zenden op een bepaalde frequentie, in een smalle strook die we een kanaal noemen. In de 2,4 GHz-band liggen de middens van de kanalen telkens 5 MHz uit elkaar. Maar een wifisignaal neemt veel meer plaats in: ongeveer 20 MHz bij de modernere standaarden en 22 MHz bij het oude 802.11b.\n\nEen signaal op kanaal 3 lekt daardoor over in de kanalen 1 tot 5, en meer. Kanalen 1, 6 en 11 liggen telkens vijf stappen, dus 25 MHz, uit elkaar. Dat is genoeg om naast elkaar te bestaan zonder te overlappen. Daarom noemt men ze de drie niet-overlappende kanalen.\n\n## Een voorbeeld\n\nJe woont in een appartement in Antwerpen en ziet op je laptop twintig wifinetwerken van buren. Staan er een paar op kanaal 3 of 4, terwijl jij op kanaal 1 zit, dan overlappen jullie signalen deels en storen ze elkaar. Kies je het kanaal dat het minst gebruikt wordt binnen 1, 6 en 11, of schakel je over naar 5 GHz, dan gaat je verbinding vaak merkbaar beter.\n\n## Wat onderzoek zegt\n\nHoeveel 2,4 GHz-kanalen je mag gebruiken, verschilt per regio. In Noord-Amerika zijn alleen de kanalen 1 tot 11 toegelaten. In Europa en het grootste deel van de wereld mag je doorgaans 1 tot 13 gebruiken. Kanaal 14 is alleen in Japan standaard en werkt dan meestal enkel met 802.11b.\n\nDe 5 GHz-band is veel breder, meer dan 500 MHz, en daar liggen de kanalen 20 MHz uit elkaar, zodat er veel meer niet-overlappende kanalen zijn. Sommige ervan vereisen wel een techniek die controleert of er geen radar op die frequentie actief is. Fabrikanten als D-Link wijzen erop dat hogere frequenties slechter door beton en vloeren gaan, waardoor het bereik kleiner is.\n\n## Nuance of misverstand\n\nVijf gigahertz is niet altijd beter. Door dikke muren kan 2,4 GHz verder reiken, terwijl 5 GHz sneller is op korte afstand. Volgens provider CenturyLink halen nieuwere routers onder goede omstandigheden wel een vergelijkbaar bereik. Veel moderne routers kiezen hun kanaal ook automatisch, dus handmatig ingrijpen is pas nodig als je echt problemen hebt.\n\n## Wat je ermee doet\n\nOpen de instellingen van je router of gebruik een wifiscanner-app om te zien welke kanalen je buren gebruiken. Kies op 2,4 GHz een van de kanalen 1, 6 of 11 en zet toestellen die dicht bij de router staan op 5 GHz.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">2,4 GHz: kanalen overlappen</text><line x1=\"20\" y1=\"170\" x2=\"340\" y2=\"170\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M25,170 Q80,40 135,170\" fill=\"rgba(255,255,255,0.08)\" stroke=\"#06d6a0\" stroke-width=\"2\"></path><path d=\"M125,170 Q180,40 235,170\" fill=\"rgba(255,255,255,0.08)\" stroke=\"#06d6a0\" stroke-width=\"2\"></path><path d=\"M225,170 Q280,40 335,170\" fill=\"rgba(255,255,255,0.08)\" stroke=\"#06d6a0\" stroke-width=\"2\"></path><path d=\"M65,170 Q120,40 175,170\" fill=\"rgba(255,255,255,0.08)\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0;1;1;0\" dur=\"6s\" repeatCount=\"indefinite\"/></path><text x=\"80\" y=\"188\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">1</text><text x=\"180\" y=\"188\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">6</text><text x=\"280\" y=\"188\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">11</text><text x=\"120\" y=\"204\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">3: botst met 1 en 6</text><text x=\"180\" y=\"44\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">elk kanaal 5 MHz verder, signaal ca. 20 MHz breed</text></svg>",
+   "quiz": {
+    "q": "Hoe ver liggen de middens van de 2,4 GHz-wifikanalen uit elkaar?",
+    "o": [
+     "5 MHz",
+     "20 MHz",
+     "2,4 GHz"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "University of Michigan EECS wiki",
+     "u": "https://wics-wiki.eecs.umich.edu/index.php/IEEE_802.11:_Channels"
+    },
+    {
+     "t": "D-Link FAQ",
+     "u": "https://www.dlink.com/en/support/faq/aquilaproai/device-configuration/wifi-connection/new-article_what-are-the-primary-differences-between-2-ghz-5-ghz-and-6-ghz-bands"
+    },
+    {
+     "t": "CenturyLink",
+     "u": "https://www.centurylink.com/home/help/internet/wireless/which-frequency-should-you-use.html"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Je koptelefoon dempt lawaai door extra geluid te maken",
+   "body": "Een koptelefoon met actieve ruisonderdrukking heeft kleine microfoons die het omgevingsgeluid opvangen. Een chip maakt daarvan een spiegelbeeld: dezelfde golf, maar 180 graden verschoven. Toppen en dalen heffen elkaar op. Dat lukt het best bij lage, regelmatige tonen zoals het gebrom van een vliegtuig. Hoge klanken worden vooral door de oorkussens tegengehouden.",
+   "take": "Verwacht van ruisonderdrukking stilte bij motorgebrom, niet bij stemmen of babygehuil. Goed afsluitende kussens doen de rest.",
+   "deep": "## Hoe het werkt\n\nGeluid is een drukgolf: de lucht wordt afwisselend samengeperst en verdund. Een microfoon op of in de koptelefoon meet die golf. Een chip berekent razendsnel een tegengolf met precies omgekeerde vorm: waar het lawaai een top heeft, maakt de luidspreker een dal. Komen die twee samen bij je trommelvlies, dan heffen ze elkaar grotendeels op.\n\nTiming is alles. Komt de tegengolf te laat, dan vallen toppen niet meer samen met dalen, en kan het lawaai zelfs versterken. Bij lage tonen zijn de golven lang, waardoor de elektronica tijd genoeg heeft. Hoge tonen hebben korte golven die uit alle richtingen komen en veel moeilijker te voorspellen zijn. Daarom combineren koptelefoons deze actieve techniek met passieve isolatie: goed afsluitende kussens houden hoge tonen tegen.\n\n## Een voorbeeld\n\nOp de trein van Gent naar Brussel hoor je het lage, constante rommelen van de wielen en de motor. Met ruisonderdrukking aan wordt dat bijna onhoorbaar. Maar het gesprek van twee passagiers achter je of de omroeper in het station hoor je nog steeds, alleen wat gedempter door de kussens.\n\n## Wat onderzoek zegt\n\nHet idee is ouder dan je denkt. De Duitse uitvinder Paul Lueg vroeg in 1933 een patent aan op het principe, dat in 1936 werd toegekend. De techniek van toen kon het nog niet in de praktijk brengen. Volgens Bose kreeg Amar Bose het idee in 1978 tijdens een vlucht van Europa naar de VS, toen de koptelefoon van de luchtvaartmaatschappij het vliegtuiglawaai niet kon overstemmen. Hij schetste zijn concept tijdens die vlucht. Bose leverde prototypes aan piloten Dick Rutan en Jeana Yeager voor hun recordvlucht zonder tussenlanding rond de wereld met de Voyager, en bracht in 1989 zijn eerste headset voor piloten op de markt.\n\n## Nuance of misverstand\n\nRuisonderdrukking maakt geen absolute stilte en blokkeert niet alle geluid even goed. Het is ook geen synoniem voor gewoon goed afsluitende oordopjes: dat is passieve isolatie. De beste resultaten krijg je met de combinatie. Wie ruisonderdrukking gebruikt om lawaai weg te nemen, hoeft wel minder hard te zetten om zijn muziek te horen.\n\n## Wat je ermee doet\n\nGebruik ruisonderdrukking vooral waar het lawaai laag en constant is: trein, vliegtuig, een zoemende ventilatie op kantoor. Zet in het verkeer liever de transparantiemodus aan, zodat je stemmen en waarschuwingssignalen nog hoort.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Antigeluid heft lawaai op</text><path d=\"M20,70 Q40,40 60,70 T100,70 T140,70 T180,70 T220,70 T260,70 T300,70 T340,70\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\" stroke-dasharray=\"8 4\"><animate attributeName=\"stroke-dashoffset\" from=\"24\" to=\"0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><text x=\"20\" y=\"104\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">lawaai</text><path d=\"M20,130 Q40,160 60,130 T100,130 T140,130 T180,130 T220,130 T260,130 T300,130 T340,130\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"8 4\"><animate attributeName=\"stroke-dashoffset\" from=\"24\" to=\"0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><text x=\"20\" y=\"120\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">antigeluid (180° verschoven)</text><line x1=\"20\" y1=\"185\" x2=\"340\" y2=\"185\" stroke=\"#ffd166\" stroke-width=\"3\"/><text x=\"180\" y=\"208\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">samen: (bijna) stilte</text><line x1=\"180\" y1=\"150\" x2=\"180\" y2=\"172\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M175,168 L180,178 L185,168 Z\" fill=\"#fff\"/></svg>",
+   "quiz": {
+    "q": "Welk geluid dempt actieve ruisonderdrukking het best?",
+    "o": [
+     "Een plots, hoog gegil",
+     "Gesprekken van mensen rondom je",
+     "Het lage, constante gebrom van een motor"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Beyerdynamic",
+     "u": "https://blog-na.beyerdynamic.com/what-is-active-noise-cancelling/"
+    },
+    {
+     "t": "Bose Aviation, geschiedenis",
+     "u": "https://boseaviation.com/about/history/"
+    },
+    {
+     "t": "Popular Mechanics via PressReader",
+     "u": "https://www.pressreader.com/south-africa/popular-mechanics-south-africa/20210901/281543703985383"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Twee soorten rookmelders reageren elk op ander vuur",
+   "body": "Een optische rookmelder schijnt licht door een donker kamertje. Komt er rook binnen, dan verstrooien de deeltjes dat licht naar een sensor. Een ionisatiemelder maakt lucht geleidend met wat americium-241; rook verstoort dat stroompje. Optisch reageert sneller op smeulend vuur, ionisatie op snel vlammend vuur. In Vlaanderen moet je rookmelder niet-ionisch zijn.",
+   "take": "Hang op elke verdieping een optische rookmelder en druk geregeld op de testknop.",
+   "deep": "## Hoe het werkt\n\nIn een optische rookmelder zit een lichtbron en een lichtsensor die er niet rechtstreeks naar kijkt. Zolang de lucht schoon is, valt er geen licht op de sensor. Dringt er rook binnen, dan botst het licht tegen de rookdeeltjes en wordt het alle kanten op verstrooid. Een deel ervan valt nu wel op de sensor, en het alarm gaat af.\n\nEen ionisatiemelder werkt anders. Een kleine hoeveelheid van het radioactieve americium-241 maakt de lucht in een kamertje elektrisch geleidend, zodat er een zwak stroompje loopt. Rookdeeltjes verstoren die stroom, en die verandering activeert het alarm. Elk type is gevoeliger voor andere deeltjesgroottes, en dus voor een ander soort brand.\n\n## Een voorbeeld\n\nEen sigaret valt 's nachts in een zetel en gaat smeulen. Er komt veel rook vrij, maar nog nauwelijks vlammen. Een optische melder pikt dat meestal sneller op. Vat er daarentegen papier of een brandbare vloeistof vlam, dan ontstaat snel een vlammend vuur met kleine roetdeeltjes, en daar reageert een ionisatiemelder doorgaans eerder op.\n\n## Wat onderzoek zegt\n\nHet Amerikaanse National Institute of Standards and Technology (NIST) testte rookmelders in grootschalige brandproeven. Ionisatiemelders reageerden er sneller op vlammende branden, optische sneller op smeulende. NIST merkt ook op dat de meeste gangbare ionisatiemelders vaker vals alarm geven bij het koken. Brandveiligheidsorganisaties raden daarom aan om beide types te combineren, of een melder met twee sensoren te nemen.\n\nIn Vlaanderen moet sinds 1 januari 2020 elke woning op elke verdieping minstens één rookmelder hebben. Volgens Test-Aankoop moeten rookmelders in Vlaanderen en Brussel niet-ionisch zijn. In Brussel gelden de regels sinds januari 2025 voor alle woningen.\n\n## Nuance of misverstand\n\nGeen van beide types is slecht; ze zijn gewoon op een ander soort vuur afgestemd. Een rookmelder blust ook niets: hij koopt je tijd om buiten te raken. Die tijd telt vooral 's nachts, als je slaapt en de rook zelf niet ruikt. Een melder met lege batterij of zonder batterij omdat hij te vaak afging, beschermt niemand.\n\n## Wat je ermee doet\n\nControleer of er op elke verdieping een werkende rookmelder hangt, bij voorkeur optisch en met het label van de norm NBN EN 14604. Druk regelmatig op de testknop. En spreek met je huisgenoten af hoe jullie buiten raken als hij ooit afgaat.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Optische rookmelder: rook verstrooit licht</text><rect x=\"60\" y=\"50\" width=\"240\" height=\"130\" rx=\"10\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"90\" cy=\"115\" r=\"10\" fill=\"#ffd166\"/><text x=\"90\" y=\"150\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">lamp</text><line x1=\"100\" y1=\"115\" x2=\"270\" y2=\"115\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"6 4\"><animate attributeName=\"stroke-dashoffset\" from=\"20\" to=\"0\" dur=\"1s\" repeatCount=\"indefinite\"/></line><rect x=\"170\" y=\"150\" width=\"30\" height=\"16\" fill=\"#06d6a0\"/><text x=\"185\" y=\"196\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">sensor</text><circle cx=\"180\" cy=\"115\" r=\"5\" fill=\"#ff6b9d\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1;0\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><line x1=\"180\" y1=\"120\" x2=\"185\" y2=\"148\" stroke=\"#ff6b9d\" stroke-width=\"2\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1;0\" dur=\"6s\" repeatCount=\"indefinite\"/></line><text x=\"240\" y=\"80\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">rookdeeltje</text><circle r=\"5\" fill=\"#ff6b9d\"><animateMotion path=\"M180,40 L180,115\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;1;0;0;0\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"212\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">licht raakt de sensor = alarm</text></svg>",
+   "quiz": {
+    "q": "Welk type rookmelder reageert meestal sneller op een smeulend vuur?",
+    "o": [
+     "Een ionisatiemelder",
+     "Een optische melder",
+     "Er is nooit verschil tussen beide"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Vlaanderen.be",
+     "u": "https://www.vlaanderen.be/woningkwaliteitsnormen/rookmelders"
+    },
+    {
+     "t": "Test-Aankoop",
+     "u": "https://www.test-aankoop.be/woning-energie/huren/dossier/rookmelders"
+    },
+    {
+     "t": "NIST",
+     "u": "https://www.nist.gov/document/smokedetectorsq-asfeb2008pdf"
     }
    ],
    "date": "2026-11-20T06:00:00Z"
