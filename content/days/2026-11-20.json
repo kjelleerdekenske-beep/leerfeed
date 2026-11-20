@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T05:46:55Z",
+ "updated": "2026-11-20T05:48:34Z",
  "cards": [
   {
    "cat": "taal",
@@ -1249,6 +1249,318 @@
     {
      "t": "NIST",
      "u": "https://www.nist.gov/document/smokedetectorsq-asfeb2008pdf"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Het Amazonewoud is minder groenblijvend dan gedacht",
+   "body": "Op 18 november 2026 verscheen in Nature een studie van Guangqin Song en collega's. Met scherpe satellietbeelden brachten ze het hele Amazonebekken in kaart. In 70% van het gebied laten bomen hun bladeren vallen minstens drie maanden voordat er nieuwe uitlopen. Het 'altijd groene' regenwoud zit dus vol bomen die een tijd kaal staan.",
+   "take": "Lees je over 'het groenblijvende regenwoud'? Onthoud dat veel Amazonebomen elk jaar een kale periode hebben, en dat dat normaal is.",
+   "deep": "## Hoe het werkt\n\nEen boom die zijn bladeren laat vallen, bespaart water. Blad verdampt voortdurend vocht via kleine huidmondjes. In een droog seizoen is het voor sommige bomen voordeliger om even zonder blad te leven en later nieuw blad te maken. Dat noem je bladverliezend gedrag.\n\nVan bovenaf lijkt het Amazonewoud toch altijd groen. Dat komt doordat niet alle bomen tegelijk kaal staan: de ene boom verliest zijn blad, de buurboom is net volop groen. Op grove satellietbeelden middelt dat uit tot één groene vlek. Pas met scherpere beelden zie je de afzonderlijke kale kruinen.\n\nDe onderzoekers gebruikten beelden van de Europese Sentinel-2-satellieten en controleerden die met camera's op de grond die kale boomkruinen fotografeerden. Zo konden ze per gebied bepalen hoe lang bomen tussen bladval en nieuw blad kaal blijven.\n\n## Een voorbeeld\n\nDenk aan een beukenbos in het Zoniënwoud: daar valt in de herfst bijna al het blad tegelijk, en in de lente loopt alles samen uit. In grote delen van de Amazone werkt het anders. Daar is het alsof elke boom zijn eigen kalender volgt. Wandel je er in het droge seizoen, dan zie je tussen het groen geregeld kale reuzen staan.\n\n## Wat onderzoek zegt\n\nHet artikel 'Widespread deciduousness reveals diverse Amazonian phenological strategies' van Guangqin Song en collega's verscheen op 18 november 2026 online in Nature, samen met een begeleidend commentaar. In 70,0% van het Amazonebekken gaat bladval minstens drie maanden vooraf aan het uitlopen van nieuw blad. In de rest van het bekken gebeuren bladval en nieuw blad ongeveer tegelijk. Jaarlijkse neerslag bepaalt dat gedrag sterker dan de bodem of de hoeveelheid licht. Toen de onderzoekers dit kaal-patroon inbouwden in modellen van het bos, klopten die modellen in 79,9% van het bekken beter met wat satellieten meten over fotosynthese door het jaar heen. Ter vergelijking: een studie uit 2011 op één meetplek in de centrale Amazone vond een kale fase van gemiddeld maar 36 dagen.\n\n## Nuance of misverstand\n\nKale bomen betekenen hier geen ziek of stervend bos. Het is een normale strategie om droogte te overleven. Wetenschappers discussiëren al jaren over seizoenen in de Amazone, omdat wolken en zonnehoek satellietmetingen kunnen vertekenen. Deze studie gebruikt scherpere beelden en grondcontrole, maar het blijft één (grote) analyse die door anderen bevestigd moet worden.\n\n## Wat je ermee doet\n\nZie je beelden van een 'bruiner wordende' Amazone, vraag je dan af of het om een seizoenspatroon gaat of om echte schade zoals ontbossing of uitzonderlijke droogte. En weet dat klimaatmodellen die het woud als altijd groen behandelen, de opname van CO2 door het jaar heen verkeerd kunnen inschatten.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Amazone: eerst kaal, pas later nieuw blad</text><line x1=\"30\" y1=\"170\" x2=\"330\" y2=\"170\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"70\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">regenseizoen</text><text x=\"180\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">droog seizoen</text><text x=\"290\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">nieuw blad</text><line x1=\"180\" y1=\"170\" x2=\"180\" y2=\"110\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"180\" y1=\"125\" x2=\"160\" y2=\"105\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"180\" y1=\"125\" x2=\"200\" y2=\"105\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"180\" cy=\"95\" r=\"34\" fill=\"rgba(6,214,160,0.5)\" stroke=\"#06d6a0\" stroke-width=\"2\"><animate attributeName=\"r\" values=\"34;34;6;6;34\" keyTimes=\"0;0.3;0.45;0.8;1\" dur=\"8s\" repeatCount=\"indefinite\"/></circle><circle cx=\"150\" cy=\"80\" r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M0,0 L-10,85\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><circle cx=\"210\" cy=\"85\" r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M0,0 L12,80\" dur=\"4s\" begin=\"1s\" repeatCount=\"indefinite\"/></circle><line x1=\"220\" y1=\"205\" x2=\"294\" y2=\"205\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><path d=\"M292,200 L300,205 L292,210 Z\" fill=\"#ff6b9d\"/><text x=\"120\" y=\"209\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">minstens 3 maanden kaal</text><text x=\"180\" y=\"45\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">70% van het bekken</text></svg>",
+   "quiz": {
+    "q": "Wat ontdekten de onderzoekers in Nature over het Amazonewoud?",
+    "o": [
+     "In 70% van het bekken staan bomen minstens drie maanden kaal voor nieuw blad komt",
+     "Alle bomen verliezen tegelijk hun blad in het droge seizoen",
+     "Bladval in de Amazone is een teken van ziekte door ontbossing"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Nature (Song et al., 2026)",
+     "u": "https://www.nature.com/articles/s41586-026-11284-y"
+    },
+    {
+     "t": "Nature News & Views",
+     "u": "https://www.nature.com/articles/d41586-026-03490-5"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Astronomen zagen een ster wegzinken in een reuzenster",
+   "body": "In Nature van 18 november 2026 beschrijft een team rond Viraj Karambelkar (Columbia University) het object 'Bao' in het Andromedastelsel. Een ster van ongeveer 0,7 zonsmassa draaide binnen de opgezwollen buitenlaag van een reus van zo'n 7 zonsmassa. Wrijving deed haar baan krimpen: na ongeveer zeven omlopen in zeven jaar dook ze richting de kern.",
+   "take": "Lees je over een plotse uitbarsting aan de hemel? Soms gaf de ster al jaren vooraf signalen, zoals hier sinds 2018.",
+   "deep": "## Hoe het werkt\n\nVeel sterren leven in paren die om elkaar draaien. Wanneer de zwaarste ster oud wordt, zwelt ze op tot een reus. Haar buitenlaag kan dan zo groot worden dat de kleinere partner erin terechtkomt. Astronomen noemen dat een gemeenschappelijke omhulling.\n\nIn die ijle gaslaag ondervindt de kleine ster weerstand, net zoals iets dat door lucht beweegt. Die wrijving neemt energie uit haar baan en geeft die aan het gas. De baan wordt kleiner en de ster spiraalt naar binnen. Een deel van het gas wordt daarbij weggeblazen, wat een felle uitbarsting kan geven. Uiteindelijk overleeft de kleine ster in een heel nauwe baan, of ze versmelt met de kern van de reus.\n\n## Een voorbeeld\n\nVergelijk het met een satelliet in een lage baan rond de aarde. De dunne bovenste atmosfeer remt hem een beetje af, waardoor zijn baan langzaam zakt tot hij opbrandt. Bij Bao gebeurt iets gelijkaardigs, maar dan met een hele ster die door de buitenlaag van een andere ster ploegt.\n\n## Wat onderzoek zegt\n\nHet artikel 'An inspiral of a star inside a common envelope with its giant companion' verscheen op 18 november 2026 in Nature. Hoofdauteur is Viraj Karambelkar, een NASA Hubble Fellow aan Columbia University, met collega's van onder meer de Universiteit van Barcelona en de Radboud Universiteit. Het team modelleert de reus op ongeveer zeven zonsmassa's en de begeleider op ongeveer 0,7. Volgens het team begon het naar binnen spiralen in 2018 en duurde het ongeveer zeven omlopen of zeven jaar. Bij de afloop werd ongeveer de buitenste 10% van de omhulling weggeblazen. Na de uitbarsting volgden de Swift-satelliet en de Gemini North-telescoop het object in november 2025. De James Webb-ruimtetelescoop keek op 24 december 2025, 47 dagen na de piek, naar het stof dat de reus eeuwenlang had uitgestoten. Volgens de onderzoekers is dit de eerste keer dat zo'n spiraal binnen een gemeenschappelijke omhulling rechtstreeks gevolgd is.\n\n## Nuance of misverstand\n\nHet is nog niet helemaal zeker dat de kleine ster echt met de kern versmolten is. Ze kan ook in een veel kleinere, snellere baan zijn beland. Toekomstige waarnemingen moeten dat uitwijzen. En 'ster in een ster' klinkt alsof de kleine ster in dicht materiaal zit, maar de buitenlaag van een reus is extreem ijl gas.\n\n## Wat je ermee doet\n\nOnthoud dat sterrenuitbarstingen niet uit het niets komen: in dit geval waren er jaren vooraf al signalen te zien in oude beelden. Volg je sterrenkundig nieuws, let dan op de woorden 'dubbelster' en 'gemeenschappelijke omhulling': ze helpen sommige van de vreemdste flitsen aan de hemel te verklaren.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Een ster spiraalt een reuzenster in</text><circle cx=\"180\" cy=\"115\" r=\"75\" fill=\"rgba(255,107,157,0.18)\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><circle cx=\"180\" cy=\"115\" r=\"14\" fill=\"#ffd166\"/><path d=\"M245,115 C245,60 115,60 115,115 C115,160 230,160 225,115 C222,80 140,80 140,115 C140,140 210,140 205,115 C202,100 160,100 165,115\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1.5\" stroke-dasharray=\"4 4\"/><circle r=\"5\" fill=\"#06d6a0\"><animateMotion path=\"M245,115 C245,60 115,60 115,115 C115,160 230,160 225,115 C222,80 140,80 140,115 C140,140 210,140 205,115 C202,100 160,100 165,115\" dur=\"7s\" repeatCount=\"indefinite\"/></circle><text x=\"300\" y=\"70\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">buitenlaag</text><text x=\"300\" y=\"84\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">remt af</text><text x=\"180\" y=\"205\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">~7 omlopen in ~7 jaar, dan naar de kern</text><text x=\"60\" y=\"115\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">kern</text></svg>",
+   "quiz": {
+    "q": "Waarom kromp de baan van de kleine ster bij Bao?",
+    "o": [
+     "De zwaartekracht van het Andromedastelsel trok haar weg",
+     "Wrijving met de gaslaag van de reus nam energie uit haar baan",
+     "Ze verloor massa door een supernova-explosie"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Nature News & Views",
+     "u": "https://www.nature.com/articles/d41586-026-03273-y"
+    },
+    {
+     "t": "NASA Science (Webb)",
+     "u": "https://science.nasa.gov/asset/webb/at-2025abao-in-the-andromeda-galaxy/"
+    },
+    {
+     "t": "IEEC",
+     "u": "https://www.ieec.cat/en/astronomers-detect-first-of-its-kind-stellar-merger/"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Eén hoofd-CT bij kinderen: klein, maar meetbaar extra tumorrisico",
+   "body": "JAMA publiceerde op 19 november 2026 een studie van UC Davis en UCSF met de dossiers van meer dan 3,7 miljoen kinderen, gemiddeld 12,3 jaar gevolgd. Een stralingsdosis op de hersenen gelijk aan één hoofd-CT ging samen met een 1,8 keer hoger risico op een hersentumor. In absolute termen blijft dat risico klein.",
+   "take": "Stelt een arts een scan voor bij je kind? Vraag of hij nodig is en of echo of MRI kan, maar weiger geen noodzakelijke scan.",
+   "deep": "## Hoe het werkt\n\nEen CT-scan en een gewone röntgenfoto gebruiken ioniserende straling. Die straling kan het DNA in cellen beschadigen. Meestal herstelt het lichaam die schade, maar heel af en toe blijft er een fout achter die later tot kanker kan leiden. Kinderen zijn gevoeliger dan volwassenen: hun cellen delen sneller en ze hebben nog een heel leven voor zich waarin een tumor kan ontstaan.\n\nDe dosis die een orgaan krijgt, druk je uit in milligray (mGy). In deze studie kregen de hersenen bij een hoofd-CT gemiddeld 66,2 mGy. Echografie en MRI gebruiken geen ioniserende straling.\n\n## Een voorbeeld\n\nEen kind valt van de fiets en stoot hard met het hoofd. Op de spoed moet de arts afwegen: is er kans op een hersenbloeding, dan is een CT snel en levensreddend. Gaat het om een lichte val zonder alarmsignalen, dan kan observeren soms volstaan. Precies die afweging willen de onderzoekers scherper maken.\n\n## Wat onderzoek zegt\n\nHet team van UC Davis en UC San Francisco analyseerde elektronische medische dossiers van meer dan 3,7 miljoen kinderen, gevolgd vanaf de geboorte gedurende gemiddeld 12,3 jaar. In die periode werden 1.536 hersentumoren vastgesteld. Een cumulatieve hersendosis gelijk aan één hoofd-CT ging samen met een 1,8 keer hoger risico. Het verband was sterker voor agressieve tumoren. De onderzoekers schatten dat 10,1% van de hersentumoren bij kinderen en jongeren toe te schrijven kan zijn aan straling van medische beeldvorming. Een eerdere Britse studie over CT-scans bij kinderen vond al dat een dosis van ongeveer 60 mGy het risico op hersenkanker zou kunnen verdrievoudigen. De nieuwe studie is groter en kijkt naar alle beeldvorming met ioniserende straling, niet alleen CT.\n\n## Nuance of misverstand\n\n1,8 keer hoger klinkt groot, maar het vertrekpunt is heel laag. 1.536 tumoren op 3,7 miljoen kinderen is ruwweg 4 op 10.000 over ruim twaalf jaar. Een verdubbeling van een klein risico blijft een klein risico. Bovendien is dit observationeel onderzoek: kinderen die scans krijgen, zijn vaak om een reden ziek, en dat kan een verband deels verklaren. De auteurs benadrukken zelf dat noodzakelijke scans niet vermeden mogen worden.\n\n## Wat je ermee doet\n\nVraag bij een voorgestelde scan rustig: waarom is hij nodig, verandert de uitslag de behandeling, en kan het ook met echo of MRI? Vraag ook of er al recente beelden bestaan, bijvoorbeeld uit een ander ziekenhuis, zodat een scan niet dubbel gebeurt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Relatief risico versus absoluut risico</text><rect x=\"40\" y=\"60\" width=\"120\" height=\"120\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"100\" y=\"50\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">zonder extra dosis</text><rect x=\"96\" y=\"166\" width=\"8\" height=\"8\" fill=\"#ffd166\"/><rect x=\"200\" y=\"60\" width=\"120\" height=\"120\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"260\" y=\"50\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">dosis van 1 hoofd-CT</text><rect x=\"256\" y=\"166\" width=\"8\" height=\"8\" fill=\"#ffd166\"/><rect x=\"266\" y=\"166\" width=\"7\" height=\"8\" fill=\"#ff6b9d\"><animate attributeName=\"opacity\" values=\"0;1;1;0\" dur=\"4s\" repeatCount=\"indefinite\"/></rect><line x1=\"165\" y1=\"120\" x2=\"189\" y2=\"120\" stroke=\"#06d6a0\" stroke-width=\"2\"/><path d=\"M187,115 L195,120 L187,125 Z\" fill=\"#06d6a0\"/><text x=\"180\" y=\"200\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1,8 keer zo hoog, maar het vakje blijft klein</text></svg>",
+   "quiz": {
+    "q": "Welke beeldvorming gebruikt GEEN ioniserende straling?",
+    "o": [
+     "CT-scan",
+     "Röntgenfoto",
+     "MRI"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "UC Davis Health",
+     "u": "https://health.ucdavis.edu/news/headlines/children-exposed-to-more-radiation-from-medical-scans-may-face-higher-brain-tumor-risk/2026/11"
+    },
+    {
+     "t": "JAMA",
+     "u": "https://jamanetwork.com/journals/jama/article-abstract/2857040"
+    },
+    {
+     "t": "News-Medical",
+     "u": "https://www.news-medical.net/news/20261119/Higher-radiation-from-childhood-imaging-may-increase-brain-tumor-risk.aspx"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "173 landen hebben een superbacterieplan, weinigen voeren het uit",
+   "body": "De WHO maakte op 16 november 2026, vlak voor de Wereldweek rond antimicrobiële resistentie (18 tot 24 november), nieuwe cijfers bekend. 173 landen hebben een actieplan tegen resistente bacteriën, tegenover 79 in 2017. Maar slechts 22% heeft zowel de financiering als een volledige uitvoering, en maar 36% heeft een referentielabo dat de belangrijkste bacteriën en schimmels kan testen.",
+   "take": "Krijg je antibiotica? Neem ze precies zoals voorgeschreven en breng overschotten terug naar de apotheek in plaats van ze later zelf te gebruiken.",
+   "deep": "## Hoe het werkt\n\nAntimicrobiële resistentie betekent dat bacteriën, schimmels of andere microben niet meer reageren op de middelen die hen vroeger doodden. Het mechanisme is selectie. Elke keer dat je een antibioticum neemt, sterven de gevoelige bacteriën. De paar die toevallig beter bestand zijn, overleven en vermenigvuldigen zich. Ze kunnen hun resistentiegenen zelfs doorgeven aan andere bacteriën.\n\nTesten is daarbij cruciaal. Zonder labo weet een arts niet welke bacterie een infectie veroorzaakt en welk middel nog werkt. Dan wordt vaak een breed werkend antibioticum gegeven, en dat zet net extra druk op resistentie.\n\n## Een voorbeeld\n\nIemand met een hardnekkige blaasontsteking gaat naar de huisarts. Werkt het eerste antibioticum niet, dan stuurt de arts urine naar het labo. Daar kweken ze de bacterie en testen ze welke middelen haar nog afremmen. In België is dat routine. In veel landen bestaat zo'n test niet of is hij onbetaalbaar, en blijft het gokken.\n\n## Wat onderzoek zegt\n\nDe nieuwe cijfers komen uit de TrACSS-bevraging van 2026, waarop 183 landen antwoordden, samen 94% van de WHO-lidstaten. 173 landen hebben een nationaal actieplan, meer dan het dubbele van de 79 in 2017. Maar slechts 22% heeft zowel geld als een volledige uitvoering. Maar 36% heeft een nationaal referentielabo dat uitgerust is om geselecteerde bacteriën en schimmels te testen. 63% heeft richtlijnen voor correct gebruik van antimicrobiële middelen en iets meer dan de helft heeft een systeem om gebruik en resistentie op te volgen. De WHO publiceerde tegelijk een basispakket van diagnostische tests voor bacteriële en schimmelinfecties en resistentie. Het thema van de Wereldweek 2026 is 'One Health, One Action: Prevent AMR Now'. Eerder schatte een grote studie dat resistentie de komende 25 jaar 39 miljoen levens kan kosten.\n\n## Nuance of misverstand\n\nEen veelgehoord misverstand: 'mijn lichaam raakt gewend aan antibiotica'. Niet jij wordt resistent, de bacteriën worden het. En die resistente bacteriën kunnen zich verspreiden naar anderen. Het gaat ook niet alleen om mensen: het thema benadrukt dat dieren, planten en het milieu meetellen. Een plan op papier lost niets op zonder geld, labo's en opvolging.\n\n## Wat je ermee doet\n\nVraag geen antibiotica voor een verkoudheid of griep: die worden door virussen veroorzaakt. Krijg je ze wel, maak de kuur af zoals je arts zegt, deel ze niet en bewaar geen restjes voor later. Overschotten breng je terug naar de apotheek.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Van plan naar praktijk (WHO 2026)</text><line x1=\"40\" y1=\"180\" x2=\"330\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"60\" y=\"180\" width=\"50\" height=\"0\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"0;125;125\" keyTimes=\"0;0.3;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;55;55\" keyTimes=\"0;0.3;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"155\" y=\"180\" width=\"50\" height=\"0\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"0;0;36;36\" keyTimes=\"0;0.3;0.55;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;180;144;144\" keyTimes=\"0;0.3;0.55;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"250\" y=\"180\" width=\"50\" height=\"0\" fill=\"#ff6b9d\"><animate attributeName=\"height\" values=\"0;0;0;22;22\" keyTimes=\"0;0.3;0.55;0.8;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;180;180;158;158\" keyTimes=\"0;0.3;0.55;0.8;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"85\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">plan</text><text x=\"85\" y=\"211\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">173 landen</text><text x=\"180\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">goed labo</text><text x=\"180\" y=\"211\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">36%</text><text x=\"275\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">geld + uitvoering</text><text x=\"275\" y=\"211\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">22%</text></svg>",
+   "quiz": {
+    "q": "Wat wordt er resistent bij antimicrobiële resistentie?",
+    "o": [
+     "Je eigen lichaam, dat aan antibiotica gewend raakt",
+     "De bacteriën en andere microben zelf",
+     "Het antibioticum, dat na verloop van tijd uitgewerkt raakt"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "WHO (16 november 2026)",
+     "u": "https://www.who.int/news/item/16-11-2026-more-countries-have-antimicrobial-resistance-plans-but-patients-still-lack-testing-and-treatment"
+    },
+    {
+     "t": "UN News",
+     "u": "https://news.un.org/en/story/2026/11/1168819"
+    },
+    {
+     "t": "Al Jazeera",
+     "u": "https://www.aljazeera.com/news/2026/11/16/un-health-agency-sounds-alarm-on-antimicrobial-resistance-threat"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Apple onderzoekt of je AI met gezondheidsvragen vertrouwt",
+   "body": "Op 15 november 2026 lanceerde Apple in de VS de Apple Health AI Usage Study, samen met het klinische AI-bedrijf OpenEvidence. Tot 200.000 volwassenen vanaf 21 jaar met een iPhone 15 Pro of nieuwer stellen gezondheidsvragen aan een chatbot die antwoordt met verwijzingen naar vakliteratuur. Apple wil meten wanneer mensen zo'n AI vertrouwen en wat ze ermee doen.",
+   "take": "Vraag je een chatbot iets over je gezondheid? Klik door naar de bron en neem het antwoord mee naar je huisarts.",
+   "deep": "## Hoe het werkt\n\nIn de studie-app stel je een gewone gezondheidsvraag, bijvoorbeeld over een medicijn of een bloedwaarde. Een taalmodel van OpenEvidence zoekt antwoorden in medische vakliteratuur en formuleert die in begrijpelijke taal. Bij het antwoord staan links naar de wetenschappelijke artikels waarop het steunt.\n\nWie wil, kan ook gegevens uit de Gezondheid-app delen, zoals hartslag in rust, beweging, slaap of labresultaten. Je kiest zelf wat je deelt. Apple zegt dat de studiegegevens niet gebruikt worden om AI-modellen te trainen. De app is uitdrukkelijk geen diagnose-instrument.\n\nOndertussen meten de onderzoekers wat er gebeurt: vertrouwen mensen het antwoord, begrijpen ze het, bereiden ze zich er beter mee voor op een doktersbezoek en veranderen ze hun gedrag?\n\n## Een voorbeeld\n\nStel: je krijgt labresultaten met een licht verhoogde leverwaarde en je afspraak bij de huisarts is pas volgende week. Vroeger googelde je in paniek en las je de ergste verhalen op fora. Een chatbot met bronnen kan uitleggen wat die waarde meestal betekent en welke vragen je best stelt. Precies dat soort gebruik wil Apple in kaart brengen.\n\n## Wat onderzoek zegt\n\nApple maakte de studie bekend op 15 november 2026, rond de gezondheidsconferentie HLTH in Las Vegas. Deelnemers moeten minstens 21 jaar zijn, in de Verenigde Staten wonen en een iPhone hebben die Apple Intelligence ondersteunt, dus een iPhone 15 Pro of nieuwer met iOS 26 of later. Er kunnen tot 200.000 mensen meedoen. De studie onderzoekt wat het vertrouwen van consumenten bepaalt, hoe goed de antwoorden zijn en of een gesprek met AI gedrag kan veranderen. Ze zit nog in de rekruteringsfase: resultaten zijn er nog niet.\n\n## Nuance of misverstand\n\nEen antwoord met bronvermelding voelt betrouwbaar, maar een taalmodel kan een bron verkeerd samenvatten of een artikel aanhalen dat niet over jouw situatie gaat. Een link is dus pas nuttig als je hem ook leest. Verder is dit een studie van een bedrijf met commerciële belangen, en ze loopt enkel in de VS. Of de resultaten gelden voor Vlaamse patiënten, met een andere zorgorganisatie, is nog een open vraag.\n\n## Wat je ermee doet\n\nGebruik een chatbot als voorbereiding, niet als vervanging van je arts. Schrijf je vragen op, kijk of de bron het antwoord echt ondersteunt en deel geen gevoelige gegevens zonder te weten waar ze terechtkomen. Bij alarmsignalen bel je gewoon je huisarts of 1733.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Hoe de studie-app antwoordt</text><rect x=\"20\" y=\"80\" width=\"80\" height=\"50\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"60\" y=\"102\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">jouw</text><text x=\"60\" y=\"117\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">vraag</text><rect x=\"140\" y=\"80\" width=\"80\" height=\"50\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"180\" y=\"102\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">AI zoekt in</text><text x=\"180\" y=\"117\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">vakliteratuur</text><rect x=\"260\" y=\"80\" width=\"80\" height=\"50\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"300\" y=\"102\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">antwoord</text><text x=\"300\" y=\"117\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">+ bronnen</text><line x1=\"102\" y1=\"105\" x2=\"132\" y2=\"105\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M130,100 L138,105 L130,110 Z\" fill=\"#fff\"/><line x1=\"222\" y1=\"105\" x2=\"252\" y2=\"105\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M250,100 L258,105 L250,110 Z\" fill=\"#fff\"/><circle r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M60,135 L60,160 L300,160 L300,135\" dur=\"5s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"180\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">studie meet: vertrouwen, begrip, wat je daarna doet</text><text x=\"180\" y=\"205\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">geen diagnose: check bij je arts</text></svg>",
+   "quiz": {
+    "q": "Wat wil Apple met deze studie vooral te weten komen?",
+    "o": [
+     "Hoe mensen AI gebruiken en vertrouwen bij gezondheidsvragen",
+     "Of een chatbot ziektes beter kan diagnosticeren dan een arts",
+     "Hoeveel gezondheidsdata nodig zijn om een AI-model te trainen"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Apple Newsroom",
+     "u": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/"
+    },
+    {
+     "t": "Healthcare Dive",
+     "u": "https://www.healthcaredive.com/news/apple-openevidence-conversational-health-ai-study-app/874714/"
+    },
+    {
+     "t": "MobiHealthNews",
+     "u": "https://www.mobihealthnews.com/news/apple-launches-research-study-openevidence"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Jodium levert dubbel werk in een nieuwe waterbatterij",
+   "body": "Half november 2026 beschreef een team rond Guanjie He (University College London) in Nature een nieuwe elektrolyt voor batterijen op waterbasis. Daarin wisselt jodium per molecule vier in plaats van twee elektronen uit bij laden en ontladen, zonder de bijtende halogeenoplossingen die daar vroeger voor nodig waren. Zink-jodiumtestcellen hielden 94% capaciteit na 2.000 laadcycli.",
+   "take": "Lees je over 'de batterij die lithium vervangt'? Check of het om een labotest of een product gaat: dit is nog labowerk.",
+   "deep": "## Hoe het werkt\n\nEen batterij slaat energie op in een chemische reactie. Bij laden duw je elektronen de ene kant op, bij ontladen komen ze terug en doen ze werk. Hoe meer elektronen elke actieve stof kan uitwisselen, hoe meer energie je in dezelfde hoeveelheid materiaal stopt.\n\nGewone lithium-ionbatterijen gebruiken een brandbare organische vloeistof als elektrolyt. Batterijen op waterbasis zijn veiliger en vaak goedkoper, maar slaan doorgaans minder energie op. Jodium is een interessante kandidaat. Klassiek gaat jodide (I⁻) over in jodium (I₂): twee elektronen per molecule. Je kunt nog verder gaan, naar positief geladen jodium (I⁺), en dan wissel je vier elektronen uit. Het probleem: I⁺ is in water heel onstabiel. Tot nu toe hield men het stabiel met sterk geconcentreerde, bijtende oplossingen vol chloride of andere halogenen.\n\nHet UCL-team ontwierp een elektrolyt die het I⁺ stabiliseert via andere negatieve ionen, zonder halogenen en bij een lage concentratie.\n\n## Een voorbeeld\n\nDenk aan een thuisbatterij in een Vlaamse garage, gekoppeld aan zonnepanelen. Veiligheid telt daar: een brand in een batterij is moeilijk te blussen. Een batterij met water als elektrolyt brandt niet zoals een lithium-ionbatterij. Als zo'n waterbatterij ook meer energie per kilo haalt, wordt ze interessanter voor zulke vaste opslag.\n\n## Wat onderzoek zegt\n\nHet artikel 'Non-halogen aqueous electrolytes for four-electron iodine conversion' van Ruwei Chen, Guanjie He en collega's verscheen half november 2026 in Nature. Volgens UCL laat de nieuwe chemie jodium vier in plaats van twee elektronen overdragen, waardoor er meer energie opgeslagen kan worden. In een laboratoriumtest hielden zink-jodiumcellen 94% van hun capaciteit na 2.000 laad- en ontlaadcycli. Het team testte ook kleine pouchcellen, en de aanpak kan mogelijk aangepast worden voor aluminium-jodiumbatterijen. Al in 2020 beschreef een andere studie een zink-jodiumbatterij met vier elektronen, maar die steunde nog op chloride.\n\n## Nuance of misverstand\n\nDit is geen batterij die morgen in je auto of gsm zit. De onderzoekers zeggen zelf dat ze de technologie nog op grotere schaal moeten testen en onder realistische omstandigheden moeten verbeteren. In de berichtgeving staat ook geen energiedichtheid per kilo die je naast lithium-ion kunt leggen. 'Vier elektronen' betekent dus niet automatisch een batterij die dubbel zo lang meegaat.\n\n## Wat je ermee doet\n\nLees batterijnieuws met drie vragen: hoeveel energie per kilo of liter, hoeveel laadcycli, en is het een labocel of een product? Voor vaste opslag, zoals thuis of naast een windpark, wegen veiligheid en levensduur vaak zwaarder dan gewicht.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Jodium: twee extra elektronen per molecule</text><rect x=\"30\" y=\"70\" width=\"80\" height=\"44\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"70\" y=\"97\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">2 I⁻</text><rect x=\"140\" y=\"70\" width=\"80\" height=\"44\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"180\" y=\"97\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">I₂</text><rect x=\"250\" y=\"70\" width=\"80\" height=\"44\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"290\" y=\"97\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">2 I⁺</text><line x1=\"112\" y1=\"92\" x2=\"132\" y2=\"92\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M130,87 L138,92 L130,97 Z\" fill=\"#fff\"/><line x1=\"222\" y1=\"92\" x2=\"242\" y2=\"92\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M240,87 L248,92 L240,97 Z\" fill=\"#fff\"/><text x=\"125\" y=\"135\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">2 e⁻</text><text x=\"235\" y=\"135\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">+2 e⁻</text><circle r=\"5\" fill=\"#ffd166\"><animateMotion path=\"M70,150 L180,150\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><circle r=\"5\" fill=\"#06d6a0\"><animateMotion path=\"M180,150 L290,150\" dur=\"3s\" begin=\"1.5s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"182\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">klassiek: alleen de eerste stap</text><text x=\"180\" y=\"202\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">nieuw: beide stappen, zonder bijtende zouten</text></svg>",
+   "quiz": {
+    "q": "Wat is het grote voordeel van een batterij op waterbasis tegenover lithium-ion?",
+    "o": [
+     "Ze slaat altijd meer energie op per kilo",
+     "Ze laadt volledig op in enkele seconden",
+     "De elektrolyt is niet brandbaar, dus veiliger"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "UCL News",
+     "u": "https://www.ucl.ac.uk/news/2026/nov/breakthrough-opens-new-possibilities-safer-water-based-batteries"
+    },
+    {
+     "t": "Nature (Chen et al., 2026)",
+     "u": "https://www.nature.com/articles/s41586-026-11282-0"
+    },
+    {
+     "t": "TechXplore",
+     "u": "https://techxplore.com/news/2026-11-based-batteries-energy-iodine-electrolyte.html"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "geld",
+   "title": "ECB ziet bij AI-schulden parallellen met 2008",
+   "body": "Op 18 november 2026 publiceerde de Europese Centrale Bank haar halfjaarlijkse Financial Stability Review. Grootste zorgen: hoog gewaardeerde AI-bedrijven, overheidsschulden en geopolitieke spanningen. AI-investeringen worden steeds vaker met schuld betaald, soms buiten de balans. Eurozonebanken hebben ongeveer 75 miljard euro aan AI-leningen uitstaan, zo'n 1,1% van hun kredieten aan bedrijven.",
+   "take": "Belegt je spaar- of pensioenfonds wereldwijd? Kijk eens hoeveel er in een handvol techbedrijven zit voor je extra bijstort.",
+   "deep": "## Hoe het werkt\n\nDe beurswaarde van een bedrijf weerspiegelt de winst die beleggers in de toekomst verwachten. Bij AI-bedrijven zijn die verwachtingen zeer hoog. Vallen de winsten tegen, dan kunnen koersen snel en hard dalen. Dat is het eerste risico waar de ECB op wijst.\n\nHet tweede zit in de financiering. Bouwers van datacenters en eigenaars van chips lenen geld met als onderpand de beloofde betalingen van grote techbedrijven die hun capaciteit huren. Die verplichtingen werken als schuld, maar staan volgens de Amerikaanse boekhoudregels niet op de balans van die techreuzen. Zo bouwt er zich schuld op buiten het zicht en vaak buiten de banken.\n\n## Een voorbeeld\n\nStel dat je maandelijks spaart in een wereldwijd aandelenfonds of een pensioenspaarfonds. Een groot deel van zo'n fonds zit vandaag in Amerikaanse techbedrijven. Valt de AI-euforie stil, dan voel jij dat rechtstreeks in de waarde van je fonds, ook al heb je zelf nooit een AI-aandeel gekocht. De ECB wijst er precies op dat gezinnen zowel rechtstreeks als via fondsen blootgesteld zijn.\n\n## Wat onderzoek zegt\n\nIn de Financial Stability Review van 18 november 2026 zegt ECB-vicevoorzitter Boris Vujčić dat de risico's voor de financiële stabiliteit hoog blijven door geo-economische onzekerheid en groeiende blootstelling aan AI. Een apart hoofdstuk over de schuldfinanciering van AI ziet 'historische parallellen' met de dotcombubbel en de subprimecrisis van 2008, zoals verplichtingen die als schuld werken maar niet zo geboekt worden. Volgens de review maken Amerikaanse tech- en AI-bedrijven 16 tot 26% uit van de aandelenbeleggingen van niet-banken in de eurozone, zoals fondsen en verzekeraars. Banken blijven volgens de ECB stevig dankzij goede winsten, kapitaal en liquiditeit. Hun AI-leningen worden geschat op zo'n 75 miljard euro, ongeveer 1,1% van hun kredietverplichtingen aan bedrijven. De volgende editie verschijnt op 26 mei 2027.\n\n## Nuance of misverstand\n\nDe ECB voorspelt geen crash. Een stabiliteitsrapport somt op wat er mis kan gaan, net zoals een brandweerinspectie. Parallellen met 2008 betekenen ook niet dat het hetzelfde afloopt: de directe blootstelling van banken is klein. De ECB waarschuwt wel dat haar smalle meting de echte blootstelling kan onderschatten.\n\n## Wat je ermee doet\n\nSpreid je beleggingen, ook over regio's en sectoren, en beleg alleen geld dat je jaren kunt missen. Een koersdaling is vervelend, maar pas echt pijnlijk als je op het slechtste moment moet verkopen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Hoe AI-schuld buiten beeld blijft</text><rect x=\"20\" y=\"70\" width=\"90\" height=\"50\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"65\" y=\"92\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">techreus</text><text x=\"65\" y=\"107\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">belooft huur</text><rect x=\"135\" y=\"70\" width=\"90\" height=\"50\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"180\" y=\"92\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">eigenaar</text><text x=\"180\" y=\"107\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">datacenter</text><rect x=\"250\" y=\"70\" width=\"90\" height=\"50\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"295\" y=\"92\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">leent geld</text><text x=\"295\" y=\"107\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">op die belofte</text><line x1=\"112\" y1=\"95\" x2=\"127\" y2=\"95\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M125,90 L133,95 L125,100 Z\" fill=\"#fff\"/><line x1=\"227\" y1=\"95\" x2=\"242\" y2=\"95\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M240,90 L248,95 L240,100 Z\" fill=\"#fff\"/><rect x=\"20\" y=\"140\" width=\"90\" height=\"30\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><text x=\"65\" y=\"160\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">balans: leeg?</text><circle r=\"4\" fill=\"#ff6b9d\"><animateMotion path=\"M295,125 L295,185 L65,185 L65,172\" dur=\"5s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"208\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">werkt als schuld, maar staat niet op de balans</text></svg>",
+   "quiz": {
+    "q": "Welk risico rond AI-financiering benadrukt de ECB?",
+    "o": [
+     "Banken hebben de helft van hun kredieten aan AI uitgeleend",
+     "Verplichtingen die als schuld werken, staan niet altijd op de balans",
+     "AI-bedrijven mogen in Europa geen geld lenen"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "ECB persbericht",
+     "u": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html"
+    },
+    {
+     "t": "ECB: debt financing of AI",
+     "u": "https://www.ecb.europa.eu/press/financial-stability-publications/fsr/focus/2026/html/ecb.fsrbox202611_03~4fd1449eaa.en.html"
+    },
+    {
+     "t": "Fortune",
+     "u": "https://fortune.com/2026/11/18/ecb-financial-stability-review-ai-debt-subprime-2008-off-balance-sheet/"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Nvidia haalde 115,8 miljard dollar omzet in één kwartaal",
+   "body": "Chipmaker Nvidia maakte op 17 november 2026 zijn cijfers bekend voor het kwartaal tot 25 oktober: 115,8 miljard dollar omzet, 103% meer dan een jaar eerder. Datacenters, vooral AI-chips, leverden 107,6 miljard. Analisten hadden ongeveer 109 miljard verwacht. Voor het volgende kwartaal mikt Nvidia op 130 miljard, plus of min 3%.",
+   "take": "Lees je 'beter dan verwacht'? Vergelijk met de analistenverwachting én met de vooruitzichten: daar reageert de beurs vooral op.",
+   "deep": "## Hoe het werkt\n\nBeursgenoteerde bedrijven publiceren elk kwartaal hun cijfers. Drie begrippen helpen je die te lezen. Omzet is alles wat er binnenkomt uit verkopen. De brutomarge is het deel van die omzet dat overblijft na de directe productiekosten. En de vooruitzichten of guidance zijn wat het bedrijf verwacht voor het volgende kwartaal.\n\nDe koers reageert niet zozeer op hoe goed de cijfers zijn, maar op hoeveel beter of slechter ze zijn dan verwacht. Analisten maken vooraf ramingen. Haalt een bedrijf die vlot, maar valt de guidance tegen, dan kan het aandeel toch dalen.\n\n## Een voorbeeld\n\nVergelijk het met een examen. Een student die 15 op 20 haalt terwijl iedereen 12 verwachtte, is een positieve verrassing. Haalt de beste van de klas 17 terwijl men op 19 rekende, dan voelt dat als een tegenvaller, ook al is 17 een prachtig cijfer. Bij Nvidia liggen de verwachtingen extreem hoog, dus elk detail telt.\n\n## Wat onderzoek zegt\n\nVolgens het persbericht van Nvidia van 17 november 2026 bedroeg de omzet in het derde kwartaal van boekjaar 2027 115,8 miljard dollar: 20% meer dan het kwartaal ervoor en 103% meer dan een jaar eerder. De datacenterafdeling haalde 107,6 miljard dollar, 110% meer dan een jaar eerder. De brutomarge bedroeg 74,8%. De aangepaste winst per aandeel was 2,68 dollar, tegenover verwachtingen van 2,48 dollar. Analisten hadden ongeveer 109 miljard dollar omzet verwacht. Nvidia gaf 28,1 miljard dollar terug aan aandeelhouders via inkoop van eigen aandelen en dividenden. Voor het vierde kwartaal, dat een extra week telt, verwacht het bedrijf 130 miljard dollar omzet, plus of min 3%, zonder datacenteromzet uit China. De brutomarge zou dan dalen naar 71 à 72%.\n\n## Nuance of misverstand\n\nRecordomzet betekent niet automatisch een stijgend aandeel: het aandeel stond voor de cijfers volgens berichtgeving al zo'n 17% lager dan begin dit jaar. Let ook op de extra week in het volgende kwartaal: die blaast de groei wat op. En omzet is geen winst; een dalende marge kan winstgroei afremmen. Ten slotte hangt veel af van een kleine groep grote klanten die datacenters bouwen, precies het concentratierisico waar de ECB deze week voor waarschuwde.\n\n## Wat je ermee doet\n\nLees bij kwartaalcijfers altijd drie dingen: de groei tegenover vorig jaar, het verschil met de verwachting en de vooruitzichten. Bezit je een wereldwijd indexfonds, dan zit Nvidia er waarschijnlijk al in; extra bijkopen vergroot je blootstelling aan één verhaal.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Nvidia-omzet per kwartaal (miljard dollar)</text><line x1=\"40\" y1=\"180\" x2=\"330\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"60\" y=\"71\" width=\"50\" height=\"109\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><rect x=\"155\" y=\"64\" width=\"50\" height=\"116\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"155\" y=\"180\" width=\"50\" height=\"0\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"0;108;108\" keyTimes=\"0;0.5;1\" dur=\"5s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;72;72\" keyTimes=\"0;0.5;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><rect x=\"250\" y=\"50\" width=\"50\" height=\"130\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><text x=\"85\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">verwacht ~109</text><text x=\"180\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Q3: 115,8</text><text x=\"275\" y=\"198\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Q4-doel 130</text><text x=\"180\" y=\"56\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">geel = datacenter 107,6</text></svg>",
+   "quiz": {
+    "q": "Waarop reageert een aandelenkoers bij kwartaalcijfers meestal het sterkst?",
+    "o": [
+     "Op het verschil tussen de cijfers en wat analisten verwachtten",
+     "Op de omzet van exact één jaar geleden",
+     "Op het aantal werknemers van het bedrijf"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Nvidia Investor Relations",
+     "u": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/default.aspx"
+    },
+    {
+     "t": "CIO Dive",
+     "u": "https://www.ciodive.com/news/nvidia-earnings-show-strong-ai-demand/806100/"
+    },
+    {
+     "t": "Newsquawk",
+     "u": "https://www.newsquawk.com/headlines/nvidia-corporation-nvda-q3-fy27-usd-adj-eps-268-exp-248-revenue-1158bln-exp-109bln"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Testaankoop: vroege Black Friday-deals zijn zelden echte koopjes",
+   "body": "Testaankoop volgt promoties bij Belgische winkels. In een persbericht van 19 november 2026 blijft het aandeel goede deals hangen rond 17%, terwijl dat vorig jaar rond deze tijd al boven 28% lag. Voorbeeld: een microgolfoven 'van 189 voor 108 euro' die zelden 189 euro kostte en eerder al voor 94 euro te koop stond.",
+   "take": "Zie je een Black Friday-korting? Vergelijk met de prijs van de voorbije maanden, niet met de doorstreepte 'van'-prijs.",
+   "deep": "## Hoe het werkt\n\nEen korting werkt via een vergelijkingsprijs. De doorstreepte 'van'-prijs is een anker: je brein beoordeelt de nieuwe prijs ten opzichte van dat getal. Hoe hoger het anker, hoe groter de korting lijkt. Een winkel die een product kort tegen een hoge prijs aanbiedt en daarna 'verlaagt', creëert zo een indrukwekkende korting die eigenlijk nauwelijks voordeel geeft.\n\nTestaankoop beoordeelt daarom niet de doorstreepte prijs, maar de prijsgeschiedenis. In zijn 'Rate my deal'-tool is een deal pas goed als het product in hun tests 'goed' of 'uitstekend' scoort én de actieprijs hoogstens 1% boven het gemiddelde van de laagste prijzen van de voorbije twaalf maanden ligt.\n\n## Een voorbeeld\n\nTestaankoop vond een microgolfoven die als Black Friday-promotie van 189 naar 108 euro ging. Klinkt als 43% korting. Maar de oven werd zelden voor 189 euro verkocht en stond eerder al voor 94 euro in de winkel. Wie nu 108 euro betaalt, betaalt dus meer dan een tijd geleden, ondanks het label 'promo'.\n\n## Wat onderzoek zegt\n\nIn zijn persbericht van 19 november 2026 stelt Testaankoop dat het aandeel goede deals rond de gebruikelijke 17% blijft hangen. Vorig jaar was dat rond dezelfde periode al gestegen tot ruim 28%, zegt woordvoerder Laura Clays. Volgens de organisatie zijn er in de weken voor Black Friday tot nu toe ook niet meer promoties dan op andere momenten van het jaar. Tegelijk zegt 64% van de ondervraagden iets te willen kopen, 10 procentpunten meer dan vorig jaar. Black Friday valt dit jaar op 27 november.\n\n## Nuance of misverstand\n\nNiet elke Black Friday-deal is nep. Bijna één op de zes deals is volgens Testaankoop wel echt goed, en sommige producten halen hun laagste prijs van het jaar. De cijfers zijn bovendien een momentopname uit de eerste helft van november: het aandeel goede deals kan nog stijgen naarmate Black Friday nadert. En een goede prijs is pas een goede deal als je het product echt nodig had.\n\n## Wat je ermee doet\n\nMaak vooraf een lijstje van wat je echt wilt kopen en noteer nu al de prijs. Gebruik een prijsvergelijker of prijsgeschiedenis, of de tool van Testaankoop, om te zien wat het product de voorbije maanden kostte. Valt de 'korting' weg zodra je verder kijkt dan de doorstreepte prijs, dan laat je hem liggen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Een 'korting' op een microgolfoven</text><line x1=\"40\" y1=\"180\" x2=\"330\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"60\" y=\"86\" width=\"60\" height=\"94\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"55\" y1=\"135\" x2=\"125\" y2=\"125\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"90\" y=\"78\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">€189</text><text x=\"90\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">'van'-prijs</text><rect x=\"150\" y=\"133\" width=\"60\" height=\"47\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"125\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">€94</text><text x=\"180\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">eerder</text><rect x=\"240\" y=\"126\" width=\"60\" height=\"54\" fill=\"#ffd166\"><animate attributeName=\"opacity\" values=\"0.3;1;0.3\" dur=\"3s\" repeatCount=\"indefinite\"/></rect><text x=\"270\" y=\"118\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">€108</text><text x=\"270\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">'Black Friday'</text><text x=\"180\" y=\"214\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">duurder dan eerder, maar toch 'korting'</text></svg>",
+   "quiz": {
+    "q": "Waarom was de microgolfoven 'van 189 voor 108 euro' geen echt koopje?",
+    "o": [
+     "Omdat Black Friday dit jaar pas in december valt",
+     "Omdat 108 euro hoger lag dan de 94 euro die hij eerder kostte",
+     "Omdat microgolfovens nooit in promotie mogen"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Testaankoop (persbericht)",
+     "u": "https://www.test-aankoop.be/familie-prive/black-friday/pers/vroege-black-friday-promoties-stellen-teleur"
+    },
+    {
+     "t": "Business AM",
+     "u": "https://businessam.be/testaankoop-waarschuwt-voor-gebrek-aan-echte-kortingen-tijdens-black-friday/"
+    },
+    {
+     "t": "Belga",
+     "u": "https://www.belganewsagency.eu/press-releases/38864/consumer-organisation-warns-of-fake-promotions-looks-like-worst-black-friday-yet/"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Eén op zes shoppers raadpleegt eerst een chatbot",
+   "body": "Advertentiemeetbedrijf DoubleVerify publiceerde op 19 november 2026 een enquête bij 22.000 consumenten en 2.020 marketeers in 25 landen. 17% gebruikt AI-chat om producten op te zoeken voor ze kopen. Online reviews (40%) en zoekmachines (39%) blijven wel de grootste bronnen. En 52% kocht het voorbije jaar iets in een fysieke winkel.",
+   "take": "Verkoop je iets? Zorg dat je productinfo en reviews helder online staan: daar halen zowel mensen als chatbots hun antwoorden.",
+   "deep": "## Hoe het werkt\n\nMarketeers spreken van het aankooppad: je ontdekt een product, je zoekt informatie op en je koopt. Lange tijd liep dat zoekwerk vooral via zoekmachines, reviews en de winkel zelf. Nu komt er een nieuwe tussenstap bij: een AI-chatbot die informatie uit websites en reviews samenvat tot één advies.\n\nVoor merken verandert dat de spelregels. Bij een zoekmachine zie je tien links en kies je zelf. Bij een chatbot krijg je vaak een kort lijstje. Een merk dat daar niet in voorkomt, valt meteen af. Daarom willen bedrijven weten hoeveel mensen zo zoeken en in welke fase.\n\n## Een voorbeeld\n\nJe zoekt een nieuwe steelstofzuiger. Je vraagt een chatbot welke modellen goed zijn voor een appartement met parket, leest daarna reviews en gaat dan in een elektrozaak kijken hoe zwaar hij in de hand ligt. Drie kanalen voor één aankoop: precies het versnipperde pad dat de enquête beschrijft.\n\n## Wat onderzoek zegt\n\nHet rapport van DoubleVerify verscheen op 19 november 2026 als slot van de reeks Global Insights 2026. Het steunt op enquêtes bij 22.000 consumenten en 2.020 marketeers in 25 landen, aangevuld met data van het eigen meetplatform. 17% van de consumenten gebruikt AI-chat om producten te onderzoeken voor een aankoop, vooral oudere Gen Z'ers en jongere millennials. Online reviews (40%) en zoekmachines (39%) blijven de belangrijkste bronnen, en ook informatie zoeken in de winkel (30%) scoort hoger dan AI-chat. 52% kocht in de voorbije twaalf maanden iets in een fysieke winkel, tegenover 47% via online marktplaatsen en 25% via sociale media. 74% shopt het hele jaar door; slechts een kwart koopt vooral rond feestdagen of acties.\n\n## Nuance of misverstand\n\nDoubleVerify verkoopt meetdiensten aan adverteerders en heeft er belang bij dat marketeers zich zorgen maken over nieuwe kanalen. Het gaat om wat mensen zelf zeggen te doen, niet om gemeten gedrag. 'AI-chat gebruiken' betekent ook niet dat mensen blind volgen wat de chatbot zegt. De kop 'AI verovert het winkelen' klopt dus nog niet: zoekmachines en reviews blijven ruim groter.\n\n## Wat je ermee doet\n\nAls consument: vraag een chatbot gerust om een eerste lijstje, maar check prijzen en reviews zelf. Als ondernemer: zorg voor duidelijke productpagina's, eerlijke specificaties en echte reviews. Dat helpt klanten, zoekmachines én chatbots tegelijk.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Waar zoeken shoppers info voor ze kopen?</text><text x=\"20\" y=\"64\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">reviews</text><text x=\"20\" y=\"99\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">zoekmachine</text><text x=\"20\" y=\"134\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">in de winkel</text><text x=\"20\" y=\"169\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">AI-chat</text><rect x=\"110\" y=\"52\" width=\"0\" height=\"16\" fill=\"rgba(255,255,255,0.5)\"><animate attributeName=\"width\" values=\"0;200;200\" keyTimes=\"0;0.4;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"110\" y=\"87\" width=\"0\" height=\"16\" fill=\"rgba(255,255,255,0.5)\"><animate attributeName=\"width\" values=\"0;195;195\" keyTimes=\"0;0.4;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"110\" y=\"122\" width=\"0\" height=\"16\" fill=\"rgba(255,255,255,0.5)\"><animate attributeName=\"width\" values=\"0;150;150\" keyTimes=\"0;0.4;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"110\" y=\"157\" width=\"0\" height=\"16\" fill=\"#ffd166\"><animate attributeName=\"width\" values=\"0;85;85\" keyTimes=\"0;0.4;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"330\" y=\"64\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">40%</text><text x=\"330\" y=\"99\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">39%</text><text x=\"330\" y=\"134\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">30%</text><text x=\"330\" y=\"169\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">17%</text><text x=\"180\" y=\"205\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">22.000 consumenten in 25 landen</text></svg>",
+   "quiz": {
+    "q": "Welke bron gebruikten consumenten volgens DoubleVerify het vaakst om producten op te zoeken?",
+    "o": [
+     "AI-chatbots",
+     "Sociale media",
+     "Online reviews"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "DoubleVerify (persbericht)",
+     "u": "https://ir.doubleverify.com/news-events/press-releases/press-releases-details/2026/STUDY-From-AI-to-In-Store-New-Research-Reveals-How-Consumers-Research-and-Shop-Across-Channels/default.aspx"
+    },
+    {
+     "t": "PPC Land",
+     "u": "https://ppc.land/ai-chat-trails-search-engines-17-to-39-in-product-research-dv-finds/"
     }
    ],
    "date": "2026-11-20T06:00:00Z"
