@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T05:45:09Z",
+ "updated": "2026-11-20T05:45:23Z",
  "cards": [
   {
    "cat": "taal",
@@ -629,6 +629,314 @@
     {
      "t": "Lund University: Dutch loanwords in modern Japanese (2024)",
      "u": "https://lup.lub.lu.se/student-papers/record/9149455"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Bijna niemand ziet die vlek op je hemd",
+   "body": "In 2000 lieten psychologen van Cornell studenten een gênant T-shirt met zanger Barry Manilow dragen in een lokaal vol medestudenten. De dragers schatten dat bijna de helft het shirt had opgemerkt. In werkelijkheid kon maar ongeveer een kwart zeggen wie erop stond. Psychologen noemen dat het spotlight-effect: we overschatten hoeveel anderen op ons letten.",
+   "take": "Versprak je je in een presentatie? Ga rustig door: de meeste luisteraars hebben het niet eens gemerkt.",
+   "deep": "## Hoe het werkt\n\nJij zit de hele dag in je eigen hoofd. Je weet precies dat je haar vandaag raar zit, dat je een vlek op je hemd hebt of dat je net over een woord struikelde. Omdat dat voor jou zo opvalt, ga je ervan uit dat het voor anderen even zichtbaar is.\n\nPsychologen noemen dat een egocentrische vertekening. We vertrekken van onze eigen beleving en passen die te weinig aan voor het feit dat anderen vooral met zichzelf bezig zijn. Het resultaat: we denken dat er een spot op ons gericht staat, terwijl het publiek nauwelijks kijkt.\n\n## Een voorbeeld\n\nJe komt een vergadering binnen met koffie op je witte hemd en je bent er het hele uur mee bezig. Achteraf vraag je een collega of het erg opviel. Grote kans dat die zegt: welke vlek? Hetzelfde geldt voor die ene keer dat je stem oversloeg tijdens een toost op een familiefeest.\n\n## Wat onderzoek zegt\n\nThomas Gilovich, Victoria Medvec en Kenneth Savitsky publiceerden het klassieke onderzoek in 2000 in het Journal of Personality and Social Psychology. Studenten van Cornell trokken een T-shirt met de beeltenis van Barry Manilow aan, toen voor studenten een pijnlijke keuze, en stapten een lokaal binnen waar medestudenten zaten. Daarna schatten de dragers hoeveel aanwezigen het shirt hadden opgemerkt: bijna de helft, dachten ze. In werkelijkheid kon ongeveer een kwart zeggen wie er op het shirt stond. Volgens samenvattingen van het onderzoek trad het effect ook op bij shirts waar mensen net trots op waren, dus het gaat niet alleen om schaamte.\n\n## Nuance of misverstand\n\nDe exacte percentages verschillen wat tussen samenvattingen, maar de richting is steeds dezelfde: de drager schat ongeveer het dubbele van wat echt opviel. Het betekent niet dat niemand ooit iets ziet. Een kwart van de aanwezigen is nog altijd een aantal mensen. Het punt is dat je de impact systematisch te hoog inschat.\n\n## Wat je ermee doet\n\nMerk je dat je blijft malen over een klein foutje, stel jezelf dan de vraag: hoeveel mensen zijn hier nu echt mee bezig? Waarschijnlijk minder dan de helft van wat je denkt. Dat geeft je meer ruimte om iets nieuws te proberen, een vraag te stellen in een volle zaal of gewoon door te gaan na een verspreking.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Hoeveel mensen zagen het T-shirt?</text><line x1=\"60\" y1=\"180\" x2=\"300\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"90\" y=\"70\" width=\"60\" height=\"110\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"height\" values=\"0;110;110\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;70;70\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><rect x=\"210\" y=\"125\" width=\"60\" height=\"55\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"><animate attributeName=\"height\" values=\"0;0;55;55\" keyTimes=\"0;0.4;0.7;1\" dur=\"5s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;180;125;125\" keyTimes=\"0;0.4;0.7;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"120\" y=\"60\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">bijna 50%</text><text x=\"240\" y=\"115\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">ongeveer 25%</text><text x=\"120\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">geschat door drager</text><text x=\"240\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">echt opgemerkt</text><text x=\"180\" y=\"214\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">we overschatten hoeveel anderen op ons letten</text></svg>",
+   "quiz": {
+    "q": "Wat stelden Gilovich en collega's vast met het Barry Manilow-shirt?",
+    "o": [
+     "Dragers schatten ongeveer het dubbele van wie het echt had opgemerkt",
+     "Bijna iedereen in het lokaal had het shirt gezien",
+     "Dragers onderschatten hoeveel mensen het opmerkten"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Kellogg School of Management",
+     "u": "https://www.kellogg.northwestern.edu/academics-research/research/detail/2000/the-spotlight-effect-in-social-judgment-an-egocentric-bias/?p=1"
+    },
+    {
+     "t": "Wikipedia: Spotlight effect",
+     "u": "https://en.wikipedia.org/wiki/Spotlight_effect"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Je oordeelt over karakter, terwijl de situatie stuurt",
+   "body": "In 1967 lazen proefpersonen opstellen voor of tegen Fidel Castro. Zelfs wie hoorde dat de schrijver zijn standpunt niet zelf had gekozen, dacht toch dat een pro-Castro-schrijver echt pro-Castro was. Lee Ross gaf dat in 1977 een naam: de fundamentele attributiefout. We verklaren gedrag van anderen te snel met hun karakter en te weinig met hun situatie.",
+   "take": "Snijdt iemand je af in het verkeer? Bedenk eerst drie omstandigheden die het verklaren, voor je 'egoïst' denkt.",
+   "deep": "## Hoe het werkt\n\nAls je iemand iets ziet doen, heb je twee mogelijke verklaringen. Ofwel komt het door wie die persoon is: lui, onbeleefd, slim. Ofwel komt het door de situatie: tijdsdruk, een opdracht, een slechte dag.\n\nHet karakter van de ander zie je meteen, want die persoon staat voor je. De situatie is vaak onzichtbaar. Je weet niet dat de kassierster al acht uur recht staat of dat je collega 's nachts wakker lag van een ziek kind. Daardoor weegt de persoon zwaarder door in je oordeel dan de omstandigheden.\n\n## Een voorbeeld\n\nEen chauffeur in Antwerpen haalt je gevaarlijk in. Je eerste gedachte: wat een egoïst. Als jij zelf eens te snel rijdt, weet je wel waarom: je was te laat voor de crèche. Bij jezelf zie je de situatie, bij de ander alleen het gedrag.\n\n## Wat onderzoek zegt\n\nEdward Jones en Victor Harris lieten in 1967 proefpersonen opstellen lezen over Fidel Castro. Ze verwachtten dat mensen het standpunt van de schrijver alleen aan zijn mening zouden toeschrijven als hij het vrij had gekozen. Toch dachten proefpersonen ook bij een opgelegd standpunt dat wie positief over Castro schreef, positiever over Castro dacht. Lee Ross noemde dit in 1977 de fundamentele attributiefout. Datzelfde jaar toonden Ross, Teresa Amabile en Julia Steinmetz het in een quizspel: deelnemers kregen willekeurig de rol van vragensteller of kandidaat. De vragenstellers bedachten vragen uit hun eigen kennis. Zowel kandidaten als toeschouwers vonden daarna de vragenstellers slimmer, hoewel de rolverdeling duidelijk toeval was.\n\n## Nuance of misverstand\n\nDe naam is omstreden. Jones zelf vond 'fundamenteel' te sterk, en sommige onderzoekers maken een onderscheid met het verwante begrip correspondentiebias. Een Australische replicatie van de quizstudie uit 1996 vond het effect wel bij oordelen over het verleden, maar niet bij voorspellingen. Karakter speelt natuurlijk ook mee: de fout is dat we het te veel gewicht geven, niet dat het nooit telt.\n\n## Wat je ermee doet\n\nStel bij ergernis de vraag: in welke situatie zou ik dit zelf doen? Dat helpt bij collega's, kinderen en klanten. Ook bij sollicitaties of evaluaties loont het om te kijken welke omstandigheden een prestatie makkelijker of moeilijker maakten, voor je conclusies trekt over iemands talent.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Waarom deed hij dat?</text><circle cx=\"70\" cy=\"80\" r=\"26\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"r\" values=\"26;31;26\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><text x=\"70\" y=\"84\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">karakter</text><rect x=\"30\" y=\"140\" width=\"80\" height=\"44\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"70\" y=\"166\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">situatie</text><rect x=\"240\" y=\"100\" width=\"90\" height=\"44\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"285\" y=\"126\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">gedrag</text><line x1=\"100\" y1=\"86\" x2=\"228.2\" y2=\"112.4\" stroke=\"#ffd166\" stroke-width=\"2\"/><path d=\"M227.3,116.8 L236,114 L229.1,108.0 Z\" fill=\"#ffd166\"/><line x1=\"112\" y1=\"160\" x2=\"230\" y2=\"132\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"24;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></line><path d=\"M228,127 L238,130 L230,137 Z\" fill=\"#06d6a0\"/><text x=\"170\" y=\"82\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">wat we zien</text><text x=\"178\" y=\"174\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">wat vaak meetelt</text><text x=\"180\" y=\"210\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">we onderschatten de omstandigheden</text></svg>",
+   "quiz": {
+    "q": "Wat toonde de quizstudie van Ross, Amabile en Steinmetz uit 1977?",
+    "o": [
+     "Kandidaten scoorden beter dan vragenstellers",
+     "Vragenstellers werden slimmer gevonden, hoewel hun rol toeval was",
+     "Toeschouwers merkten meteen dat de rollen willekeurig waren en oordeelden neutraal"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Wikipedia: Fundamental attribution error",
+     "u": "https://en.wikipedia.org/wiki/Fundamental_attribution_error"
+    },
+    {
+     "t": "Ross, Amabile & Steinmetz 1977 (pdf)",
+     "u": "https://www.gwern.net/doc/psychology/1977-ross.pdf"
+    },
+    {
+     "t": "Jones & Harris 1967 (pdf)",
+     "u": "https://is.muni.cz/el/phil/jaro2018/PSX_512/um/Jones_Harris_Attribution_error.pdf"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Je verdedigt vlot een keuze die je nooit maakte",
+   "body": "Onderzoekers van de universiteit van Lund lieten 120 mensen telkens de mooiste van twee gezichten kiezen. Soms gaven ze stiekem de andere foto terug. Minder dan 10% van die trucs werd meteen opgemerkt. Veel deelnemers legden zelfs uit waarom ze 'dit' gezicht kozen. De onderzoekers noemen het keuzeblindheid.",
+   "take": "Vraagt iemand waarom je iets koos? Besef dat je uitleg soms achteraf gebouwd is, niet altijd je echte reden.",
+   "deep": "## Hoe het werkt\n\nWanneer je een keuze maakt, denk je dat je precies weet waarom. Keuzeblindheid laat zien dat dat minder vanzelfsprekend is. Als het resultaat van je keuze ongemerkt wordt omgewisseld, merk je dat vaak niet.\n\nErger nog: je brein vult de leemte meteen op. Gevraagd naar je reden, geef je een verklaring die past bij wat er voor je ligt, ook al is dat net wat je afwees. Die uitleg voelt even echt als een uitleg bij een keuze die je wel maakte. Psychologen noemen zo'n verzonnen maar oprecht gemeende verklaring confabulatie.\n\n## Een voorbeeld\n\nStel dat je op een markt in Gent twee confituren proeft en de aardbei kiest. De verkoper laat je nog eens proeven, maar heeft ongemerkt de potjes verwisseld. Grote kans dat je enthousiast zegt dat je de zoete smaak zo lekker vindt, terwijl je nu de confituur proeft die je net afwees.\n\n## Wat onderzoek zegt\n\nPetter Johansson en Lars Hall van de universiteit van Lund publiceerden in 2005 in Science. Ze toonden 120 deelnemers telkens twee foto's van vrouwengezichten en vroegen welke ze aantrekkelijker vonden. Bij sommige paren gaf de onderzoeker met een goochelaarstruc de afgewezen foto terug. Minder dan 10% van de verwisselingen werd meteen opgemerkt, en alles meegeteld werd hooguit een vijfde ontdekt. In 2010 herhaalde het team het in een supermarkt met confituur en thee. De potjes werden na het proeven stiekem omgewisseld. Hooguit een derde van de verwisselingen werd ontdekt, zelfs bij zeer verschillende smaken zoals kaneel-appel tegenover bittere pompelmoes.\n\n## Nuance of misverstand\n\nKeuzeblindheid betekent niet dat je voorkeuren nep zijn. Bij zeer verschillende smaken werd tot de helft van de wissels ontdekt, meer dan gemiddeld. Opvallend: wie het gekozen potje als beloning mocht meenemen, merkte de wissel niet vaker op. Het onderzoek toont vooral dat je inzicht in je eigen redenen beperkter is dan je denkt, en dat een vlotte uitleg geen bewijs is dat die uitleg klopt.\n\n## Wat je ermee doet\n\nWees mild voor jezelf en anderen als redenen achteraf niet helemaal kloppen. Wil je weten wat je echt wilt, noteer dan je keuze en je reden meteen, voor je erover praat. Bij belangrijke beslissingen, zoals een huis of een job, helpt het om je criteria vooraf op papier te zetten en daarna te vergelijken.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">De foto wordt stiekem omgewisseld</text><g><rect x=\"70\" y=\"50\" width=\"70\" height=\"90\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><circle cx=\"105\" cy=\"85\" r=\"16\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"105\" y=\"128\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">A: gekozen</text><animateTransform attributeName=\"transform\" type=\"translate\" values=\"0,0;0,0;150,0;150,0;0,0\" keyTimes=\"0;0.3;0.45;0.85;1\" dur=\"6s\" repeatCount=\"indefinite\"/></g><g><rect x=\"220\" y=\"50\" width=\"70\" height=\"90\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><rect x=\"241\" y=\"70\" width=\"28\" height=\"28\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"255\" y=\"128\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">B</text><animateTransform attributeName=\"transform\" type=\"translate\" values=\"0,0;0,0;-150,0;-150,0;0,0\" keyTimes=\"0;0.3;0.45;0.85;1\" dur=\"6s\" repeatCount=\"indefinite\"/></g><g opacity=\"0\"><rect x=\"60\" y=\"158\" width=\"240\" height=\"30\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"180\" y=\"178\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">“Ik koos haar omdat ze lacht”</text><animate attributeName=\"opacity\" values=\"0;0;1;1;0\" keyTimes=\"0;0.5;0.6;0.85;1\" dur=\"6s\" repeatCount=\"indefinite\"/></g><text x=\"180\" y=\"210\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">minder dan 10% merkt het meteen</text></svg>",
+   "quiz": {
+    "q": "Welk deel van de stiekem verwisselde foto's werd in de studie van 2005 meteen opgemerkt?",
+    "o": [
+     "Ongeveer de helft",
+     "Bijna allemaal",
+     "Minder dan 10%"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Lund University (LUP)",
+     "u": "https://lup.lub.lu.se/record/220623"
+    },
+    {
+     "t": "Hall e.a. 2010, Cognition (pdf)",
+     "u": "https://www.lucs.lu.se/fileadmin/user_upload/lucs/2011/01/Hall-et-al.-2010-Magic-at-the-Marketplace-Choice-Blindness-for-the-Taste-of-Jam-and-the-Smell-of-Tea.pdf"
+    },
+    {
+     "t": "ScienceDaily",
+     "u": "https://www.sciencedaily.com/releases/2005/10/051007091302.htm"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "Tien minuten piekeren op papier helpt bij examens",
+   "body": "In 2011 lieten psychologen van de University of Chicago leerlingen biologie vlak voor hun examen tien minuten over hun zorgen schrijven. Vooral de meest faalangstige leerlingen deden het daarna beter: ze scoorden ongeveer even goed als hun minder angstige klasgenoten. De verklaring: zorgen nemen werkgeheugen in beslag, en opschrijven maakt dat geheugen deels weer vrij.",
+   "take": "Zet voor een examen of presentatie tien minuten je zorgen op papier, eerlijk en concreet, en leg het blad dan weg.",
+   "deep": "## Hoe het werkt\n\nJe werkgeheugen is de kladblok van je brein: daar hou je tijdelijk informatie vast terwijl je redeneert of rekent. Die ruimte is beperkt.\n\nBij stress gaat een deel van dat kladblok naar piekergedachten: wat als ik blokkeer, wat als ik zak? Die gedachten concurreren met de opgave. Zo kan iemand die de stof kent toch onder zijn niveau presteren. Door de zorgen vooraf uit te schrijven, kijk je ze recht in de ogen en lijken ze tijdens het examen minder ruimte in te nemen.\n\n## Een voorbeeld\n\nEen student in Leuven zit de ochtend van een moeilijk examen te wachten in de gang. In plaats van nog snel samenvattingen door te bladeren, schrijft ze tien minuten op wat haar echt ongerust maakt: de vraag over statistiek, de angst om tijd tekort te komen. Daarna gaat ze binnen met een hoofd dat iets rustiger is.\n\n## Wat onderzoek zegt\n\nGerardo Ramirez en Sian Beilock publiceerden hun resultaten in 2011 in Science. In het labo zakte de nauwkeurigheid van de controlegroep onder druk met 12 procent. Daarna testten ze het in een echte school: negendejaars (vergelijkbaar met ons derde middelbaar) schreven voor hun eindexamen biologie ofwel tien minuten over hun examenzorgen, ofwel over een neutraal onderwerp. Leerlingen die het meest faalangstig waren en over hun zorgen schreven, presteerden ongeveer even goed als minder angstige klasgenoten. Bij de controlegroep bleven de angstige leerlingen achter. Hoe meer negatieve inhoud iemand opschreef, hoe groter de winst.\n\n## Nuance of misverstand\n\nHet werkt niet overal even sterk. Een studie van Myers, Davis en Chan uit 2021 testte expressief schrijven in een universitaire les en vond geen effect op examenangst of resultaten. Het is dus geen wondermiddel, en het vervangt geen goede voorbereiding. Het lijkt vooral te helpen bij mensen die echt veel last hebben van faalangst.\n\n## Wat je ermee doet\n\nProbeer het bij een moment waarop je weet dat zenuwen je parten spelen: een examen, een sollicitatiegesprek, een presentatie. Schrijf tien minuten zonder te verbeteren, wees eerlijk over wat je vreest, en kijk achteraf of je verschil merkt. Kost niets, en je leert jezelf beter kennen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Eerst piekeren op papier, dan het examen</text><circle cx=\"70\" cy=\"100\" r=\"34\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"r\" values=\"34;14;34\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><text x=\"70\" y=\"104\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">zorgen</text><rect x=\"140\" y=\"55\" width=\"80\" height=\"100\" rx=\"4\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"150\" y1=\"75\" x2=\"210\" y2=\"75\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"60\" stroke-dashoffset=\"60\"><animate attributeName=\"stroke-dashoffset\" values=\"60;0;0\" keyTimes=\"0;0.5;1\" begin=\"0.0s\" dur=\"6s\" repeatCount=\"indefinite\"/></line><line x1=\"150\" y1=\"92\" x2=\"210\" y2=\"92\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"60\" stroke-dashoffset=\"60\"><animate attributeName=\"stroke-dashoffset\" values=\"60;0;0\" keyTimes=\"0;0.5;1\" begin=\"0.6s\" dur=\"6s\" repeatCount=\"indefinite\"/></line><line x1=\"150\" y1=\"109\" x2=\"210\" y2=\"109\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"60\" stroke-dashoffset=\"60\"><animate attributeName=\"stroke-dashoffset\" values=\"60;0;0\" keyTimes=\"0;0.5;1\" begin=\"1.2s\" dur=\"6s\" repeatCount=\"indefinite\"/></line><line x1=\"150\" y1=\"126\" x2=\"210\" y2=\"126\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"60\" stroke-dashoffset=\"60\"><animate attributeName=\"stroke-dashoffset\" values=\"60;0;0\" keyTimes=\"0;0.5;1\" begin=\"1.7999999999999998s\" dur=\"6s\" repeatCount=\"indefinite\"/></line><text x=\"180\" y=\"172\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">10 minuten schrijven</text><line x1=\"226\" y1=\"105\" x2=\"254.0\" y2=\"105.0\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M254.0,109.5 L262,105 L254.0,100.5 Z\" fill=\"#fff\"/><rect x=\"268\" y=\"80\" width=\"70\" height=\"50\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"303\" y=\"110\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">examen</text><line x1=\"108\" y1=\"105\" x2=\"126.0\" y2=\"105.0\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M126.0,109.5 L134,105 L126.0,100.5 Z\" fill=\"#fff\"/><text x=\"180\" y=\"204\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">minder ruimte in je hoofd voor zorgen</text></svg>",
+   "quiz": {
+    "q": "Voor wie werkte het opschrijven van zorgen in de studie van Ramirez en Beilock het best?",
+    "o": [
+     "Leerlingen zonder examenangst",
+     "De meest faalangstige leerlingen",
+     "Alleen leerlingen die al hoge punten haalden"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "University of Chicago News",
+     "u": "https://news.uchicago.edu/story/writing-about-worries-eases-anxiety-and-improves-test-performance"
+    },
+    {
+     "t": "PubMed: Ramirez & Beilock 2011",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/21233387/"
+    },
+    {
+     "t": "PMC: Myers e.a. 2021",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8192598"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "Je gedachten dwalen bijna de helft van de tijd",
+   "body": "Harvard-psychologen Matthew Killingsworth en Daniel Gilbert stuurden 2.250 mensen via een iPhone-app op willekeurige momenten een vraag: wat doe je, waar denk je aan, hoe gelukkig ben je? In 46,9% van de metingen waren mensen met iets anders bezig dan wat ze deden. En met dwalende gedachten voelden ze zich gemiddeld minder gelukkig.",
+   "take": "Merk je tijdens een taak dat je afdwaalt? Benoem het kort ('ik dwaal') en keer zonder verwijt terug naar je taak.",
+   "deep": "## Hoe het werkt\n\nJe brein draait ook als je niets bijzonders vraagt. Terwijl je afwast of een rapport leest, springt het naar het weekend, een discussie van gisteren of een mail die nog moet vertrekken. Dat heet gedachtedwalen.\n\nHet onderzoek van Killingsworth en Gilbert werkte met ervaringssteekproeven. In plaats van mensen achteraf te vragen hoe hun dag was, vroeg een app hen op willekeurige momenten wat ze op dat ogenblik deden en dachten. Zo meet je wat er echt in je hoofd gebeurt, niet wat je je later herinnert.\n\n## Een voorbeeld\n\nJe zit op de trein van Brugge naar Brussel met een dossier op schoot. Na tien minuten besef je dat je drie bladzijden gelezen hebt zonder iets te onthouden: je zat met je hoofd bij de verbouwing thuis. Volgens het onderzoek ben je daarin geen uitzondering, maar de regel.\n\n## Wat onderzoek zegt\n\nDe studie verscheen in november 2010 in Science onder de titel 'A Wandering Mind Is an Unhappy Mind'. De 2.250 deelnemers waren tussen 18 en 88 jaar. In 46,9% van de metingen dwaalden de gedachten af, en bij bijna elke activiteit lag dat aandeel op minstens 30%. Mensen waren minder gelukkig wanneer hun gedachten dwaalden, en zelfs aangename dagdromen maakten hen niet gelukkiger dan bij hun taak blijven. Analyses met tijdsverschuiving suggereerden dat het dwalen meestal aan de mindere stemming voorafging, eerder dan omgekeerd.\n\n## Nuance of misverstand\n\nHet blijft correlationeel onderzoek, met deelnemers die zelf een iPhone-app installeerden, dus geen doorsnee van de bevolking. De studie mat alleen stemming, niet of dwalen ook nut had, zoals vooruit plannen of op ideeën komen. Ze zegt dus iets over hoe je je op dat moment voelt, niet dat je dagdromen moet uitbannen.\n\n## Wat je ermee doet\n\nGebruik het inzicht bij werk dat focus vraagt. Leg je telefoon uit het zicht, werk in blokken met een duidelijk doel, en zie afdwalen als een signaal, niet als een mislukking. Plan daarnaast bewust momenten waarop je gedachten vrij mogen lopen, zoals een wandeling zonder koptelefoon.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Waar zijn je gedachten nu?</text><circle cx=\"120\" cy=\"115\" r=\"60\" fill=\"none\" stroke=\"rgba(255,255,255,0.14)\" stroke-width=\"18\"/><circle cx=\"120\" cy=\"115\" r=\"60\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"18\" stroke-dasharray=\"177 200\" transform=\"rotate(-90 120 115)\"/><text x=\"120\" y=\"112\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">47%</text><text x=\"120\" y=\"128\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">elders</text><circle r=\"6\" fill=\"#ffd166\"><animateMotion path=\"M120,55 A60,60 0 1,1 119.9,55\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><rect x=\"210\" y=\"70\" width=\"14\" height=\"14\" fill=\"#ff6b9d\"/><text x=\"232\" y=\"82\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">dwalend</text><rect x=\"210\" y=\"96\" width=\"14\" height=\"14\" fill=\"rgba(255,255,255,0.3)\"/><text x=\"232\" y=\"108\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">bij de taak</text><text x=\"210\" y=\"140\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">2.250 mensen</text><text x=\"210\" y=\"156\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">willekeurig gepingd</text><text x=\"180\" y=\"206\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">dwalen ging samen met minder geluk</text></svg>",
+   "quiz": {
+    "q": "In welk deel van de metingen dwaalden de gedachten af in de studie van Killingsworth en Gilbert?",
+    "o": [
+     "Ongeveer 10%",
+     "Ongeveer 75%",
+     "Bijna de helft (46,9%)"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Harvard Gazette",
+     "u": "https://news.harvard.edu/gazette/story/2010/11/wandering-mind-not-a-happy-mind/"
+    },
+    {
+     "t": "Harvard DASH",
+     "u": "https://dash.harvard.edu/handle/1/33431727"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "Met de hand noteren wint minder dan je hoorde",
+   "body": "Een bekende studie uit 2014 van Pam Mueller en Daniel Oppenheimer vond dat studenten met een laptop slechter scoorden op inzichtsvragen, omdat ze lessen letterlijk overtikten. Het werd wereldnieuws. Maar latere replicaties, onder meer van Morehead en collega's in 2019 en Urry en collega's in 2021, vonden geen duidelijk verschil tussen pen en laptop.",
+   "take": "Noteer je op laptop? Typ geen transcript, maar vat elke paar minuten samen in je eigen woorden.",
+   "deep": "## Hoe het werkt\n\nHet idee achter de oorspronkelijke studie is logisch. De meeste mensen typen sneller dan ze schrijven. Wie typt, kan dus bijna alles letterlijk meenemen zonder er veel bij na te denken.\n\nWie met de hand schrijft, is trager en moet kiezen: wat is de kern, hoe zeg ik dit korter? Dat herformuleren is een vorm van verwerken, en verwerken helpt om stof te begrijpen en te onthouden. Het verschil zit dus niet in het toestel zelf, maar in wat je ermee doet.\n\n## Een voorbeeld\n\nTwee studenten volgen in Gent dezelfde les economie. De ene tikt elke zin van de prof over op haar laptop, de andere schrijft per dia een paar kernwoorden en een eigen voorbeeld op papier. Volgens de theorie onthoudt de tweede meer. Maar als de eerste haar notities later actief herwerkt en zichzelf overhoort, kan ze dat verschil ruim goedmaken.\n\n## Wat onderzoek zegt\n\nMueller (Princeton) en Oppenheimer (UCLA) publiceerden 'The Pen Is Mightier Than the Keyboard' in 2014 in Psychological Science. In drie studies scoorden laptopgebruikers slechter op conceptuele vragen, en hoe meer letterlijke overlap met de les, hoe slechter. Kevin Morehead, John Dunlosky en Katherine Rawson herhaalden het werk in 2019 in Educational Psychology Review: de resultaten verschilden niet consequent tussen de groepen, en een meta-analyse vond alleen een klein, niet-significant voordeel voor handschrift. Heather Urry en collega's lieten in 2021 145 studenten van Tufts deelnemen en vonden geen verband tussen typen of schrijven en conceptueel begrip.\n\n## Nuance of misverstand\n\nHet misverstand is dat een pen op zich slimmer maakt. Het onderliggende mechanisme, dat letterlijk overschrijven minder leert dan herformuleren, blijft wel plausibel. Daarnaast speelt afleiding mee: een laptop in een les biedt ook mail en sociale media, en dat is een ander probleem dan de manier van noteren.\n\n## Wat je ermee doet\n\nKies het hulpmiddel dat bij je past, en focus op verwerken. Schrijf of typ in eigen woorden, voeg een voorbeeld toe, en sluit na de les je notities en probeer de kern uit het hoofd op te schrijven. Zet meldingen uit als je op een laptop werkt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Laptop of pen: wat doe je met de les?</text><rect x=\"20\" y=\"90\" width=\"70\" height=\"40\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"55\" y=\"114\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">les</text><path d=\"M92,100 C140,60 180,60 220,70\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><path d=\"M92,120 C140,160 180,160 220,150\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"/><circle r=\"4\" fill=\"#ff6b9d\"><animateMotion path=\"M92,100 C140,60 180,60 220,70\" dur=\"2s\" repeatCount=\"indefinite\"/></circle><circle r=\"4\" fill=\"#06d6a0\"><animateMotion path=\"M92,120 C140,160 180,160 220,150\" dur=\"3.5s\" repeatCount=\"indefinite\"/></circle><rect x=\"224\" y=\"52\" width=\"120\" height=\"36\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"284\" y=\"74\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">letterlijk overtikken</text><rect x=\"224\" y=\"132\" width=\"120\" height=\"36\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"284\" y=\"154\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">in eigen woorden</text><text x=\"150\" y=\"60\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">snel typen</text><text x=\"150\" y=\"174\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">trager schrijven</text><text x=\"180\" y=\"206\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">het verwerken telt, niet het toestel</text></svg>",
+   "quiz": {
+    "q": "Wat vonden latere replicaties van de pen-versus-laptopstudie uit 2014?",
+    "o": [
+     "Geen duidelijk of consequent verschil tussen pen en laptop",
+     "Dat laptopgebruikers veel beter scoorden",
+     "Dat handschrift het geheugen verdubbelt"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "APS: replicatie Urry e.a.",
+     "u": "https://www.psychologicalscience.org/?p=177582"
+    },
+    {
+     "t": "Morehead e.a. 2019, Springer",
+     "u": "https://link.springer.com/content/pdf/10.1007%2Fs10648-019-09468-2.pdf"
+    },
+    {
+     "t": "Mueller & Oppenheimer 2014 (pdf)",
+     "u": "https://linguistics.ucla.edu/people/hayes/Teaching/papers/MuellerAndOppenheimer2014OnTakingNotesByHand.pdf"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Bij pensioensparen is meer storten niet altijd voordeliger",
+   "body": "Voor pensioensparen kies je in België tussen twee plafonds: tot 1.050 euro per jaar met 30% belastingvermindering, of tot 1.350 euro met 25%. Wie 1.050 euro stort, krijgt 315 euro terug. Het hogere plafond loont pas boven 1.260 euro, want 25% daarvan is ook 315 euro. Bij 1.350 euro wordt het 337,50 euro.",
+   "take": "Kan je geen 1.260 euro per jaar missen? Kies dan het basisplafond van 1.050 euro met 30% vermindering.",
+   "deep": "## Hoe het werkt\n\nPensioensparen is een fiscaal voordelige spaarformule voor later. Wat je stort in een pensioenspaarfonds of -verzekering, levert je een belastingvermindering op. Je kiest tussen twee formules: het basisplafond, waarbij je tot 1.050 euro per jaar stort en 30% terugkrijgt, en het verhoogde plafond, tot 1.350 euro met 25%. Die bedragen gelden volgens de FOD Financiën zowel voor 2025 als voor 2026.\n\nDe val zit in het lagere percentage. Wie het verhoogde plafond kiest maar weinig stort, krijgt per euro minder terug. Je krijgt de vermindering bovendien maar voor één pensioenspaarcontract per jaar.\n\n## Een voorbeeld\n\nSarah uit Mechelen kiest uit enthousiasme voor het hoge plafond, maar stort uiteindelijk 1.100 euro. Met 25% krijgt ze 275 euro vermindering. Had ze het basisplafond gekozen en 1.050 euro gestort, dan kreeg ze 315 euro, voor minder inleg. Pas vanaf 1.260 euro is 25% evenveel waard als 30% op 1.050 euro.\n\n## Wat onderzoek zegt\n\nDe FOD Financiën rekent het zelf voor: 30% op 1.050 euro is 315 euro, en de keuze voor 25% is alleen voordeliger als je meer dan 1.260 euro spaart. Wikifin, het educatieve platform van de financiële toezichthouder FSMA, bevestigt de twee plafonds en geeft 337,50 euro als maximale vermindering bij 1.350 euro. Wikifin wijst ook op de keerzijde: meestal op je 60ste verjaardag betaal je een eindbelasting van in principe 8%, op kapitaal en rendement samen. Stortingen tussen je 60ste en 65ste geven nog wel belastingvermindering.\n\n## Nuance of misverstand\n\nDe bedragen worden geïndexeerd, eerdere jaren lagen lager, zoals 1.020 en 1.310 euro. Kijk dus elk jaar het actuele plafond na op de site van de FOD Financiën. Er liggen ook voorstellen in het parlement die het systeem kunnen wijzigen. En een belastingvermindering is geen rendement: wat je fonds opbrengt, hangt af van de markten en de kosten.\n\n## Wat je ermee doet\n\nKies het plafond dat past bij wat je echt kan sparen, en stort liefst niet meer dan het plafond van je formule, want daarboven krijg je geen extra voordeel. Twijfel je, vraag je bank of verzekeraar welk plafond nu op je contract staat.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Belastingvermindering per gestorte euro</text><line x1=\"40\" y1=\"180\" x2=\"336\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"40\" y1=\"180\" x2=\"40\" y2=\"40\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M40,180 L258,54 L330,54\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"/><path d=\"M40,180 L320,45 L330,45\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><circle cx=\"301\" cy=\"54\" r=\"5\" fill=\"#ffd166\"><animate attributeName=\"r\" values=\"4;8;4\" dur=\"2s\" repeatCount=\"indefinite\"/></circle><line x1=\"301\" y1=\"54\" x2=\"301\" y2=\"180\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><text x=\"301.0\" y=\"196\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1.260</text><text x=\"251.5\" y=\"196\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">1.050</text><text x=\"165\" y=\"140\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">30% tot 1.050 euro</text><text x=\"165\" y=\"158\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">25% tot 1.350 euro</text><text x=\"36\" y=\"58.0\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">315</text><text x=\"180\" y=\"214\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">pas boven 1.260 euro wint 25%</text></svg>",
+   "quiz": {
+    "q": "Vanaf welk gestort bedrag levert het verhoogde plafond (25%) meer op dan het basisplafond (30% op 1.050 euro)?",
+    "o": [
+     "Vanaf 1.050 euro",
+     "Vanaf 1.260 euro",
+     "Vanaf 1.350 euro"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "FOD Financiën: pensioensparen",
+     "u": "https://fin.belgium.be/nl/particulieren/belastingvoordelen/pensioensparen"
+    },
+    {
+     "t": "Wikifin (FSMA): pensioensparen",
+     "u": "https://www.wikifin.be/nl/belasting-werk-en-inkomen/belastingaangifte/belastingverminderingen/pensioensparen"
+    },
+    {
+     "t": "Wikifin: belasting pensioensparen",
+     "u": "https://www.wikifin.be/nl/pensioen-en-pensioenvoorbereiding/pensioensparen/hoe-wordt-je-pensioensparen-belast"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Je eerste huis: 2% belasting, je tweede: 12%",
+   "body": "Wie in Vlaanderen zijn enige eigen woning koopt, betaalt sinds 1 januari 2025 nog 2% registratiebelasting, het verkooprecht. Wie al een andere woning of bouwgrond bezit, valt in principe onder het algemene tarief van 12%. Op een huis van 300.000 euro is dat 6.000 tegenover 36.000 euro. Dat verschil bepaalt mee hoeveel eigen inbreng je nodig hebt.",
+   "take": "Koop je een eerste woning in Vlaanderen? Vraag het verlaagd tarief uitdrukkelijk aan bij de notaris en controleer of je aan de voorwaarden voldoet.",
+   "deep": "## Hoe het werkt\n\nBij de aankoop van een bestaande woning betaal je bovenop de prijs registratiebelasting. In Vlaanderen heet dat het verkooprecht, en het is een percentage van de aankoopprijs. Het tarief hangt af van wat je al bezit.\n\nKoop je je enige eigen woning, dan geldt voor authentieke aktes vanaf 1 januari 2025 een tarief van 2%. Tussen 2022 en 2024 was dat nog 3%. Bezit je al een andere woning of bouwgrond, ook in het buitenland, dan betaal je in principe het algemene tarief van 12%. Voor een woning die je nog bezit, kan je het verlaagd tarief toch krijgen als je die binnen twee jaar na de akte verkoopt. Je moet het verlaagd tarief zelf uitdrukkelijk vragen, en bij meerdere kopers wordt het per koper beoordeeld.\n\n## Een voorbeeld\n\nEen koppel uit Hasselt koopt samen een rijwoning van 300.000 euro. Geen van beiden bezit ander vastgoed. Ze betalen 2%, dus 6.000 euro verkooprecht. Een belegger die dezelfde woning koopt om te verhuren, terwijl hij zelf al een huis heeft, betaalt 12%: 36.000 euro. Het moment van de notariële akte telt, niet dat van het compromis.\n\n## Wat onderzoek zegt\n\nDe Vlaamse Belastingdienst bevestigt op vlaanderen.be het tarief van 2% voor aktes vanaf 1 januari 2025, ook als het compromis eerder getekend werd. Het extra verlaagde tarief voor wie zich engageerde tot een grondige energetische renovatie, geldt alleen nog voor overeenkomsten van vóór 2025. Op 1 januari 2026 werden de voorwaarden verstrengd: je moet de woning in volle eigendom kopen, en enkel natuurlijke personen komen nog in aanmerking.\n\n## Nuance of misverstand\n\nDit zijn Vlaamse regels. Brussel en Wallonië hebben eigen tarieven en voorwaarden. Bovenop het verkooprecht betaal je nog notariskosten en eventueel kosten voor je lening. Tarieven zijn de voorbije jaren vaak veranderd, dus check altijd de actuele regeling op vlaanderen.be of bij je notaris.\n\n## Wat je ermee doet\n\nNeem de registratiebelasting mee in je budget vanaf het eerste bezoek. Het verschil tussen 2% en 12% verandert je totale budget al snel met tienduizenden euro's. Bezit je al een stuk bouwgrond of een appartement, vraag dan vooraf advies over het juiste tarief.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Woning van 300.000 euro in Vlaanderen</text><path d=\"M60,90 L95,62 L130,90 L130,130 L60,130 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"95\" y=\"148\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">enige eigen woning</text><path d=\"M230,90 L265,62 L300,90 L300,130 L230,130 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"265\" y=\"148\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">tweede woning</text><rect x=\"70\" y=\"160\" width=\"10\" height=\"14\" fill=\"#06d6a0\"><animate attributeName=\"width\" values=\"0;10;10\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"90\" y=\"172\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">2% = 6.000</text><rect x=\"200\" y=\"160\" width=\"60\" height=\"14\" fill=\"#ff6b9d\"><animate attributeName=\"width\" values=\"0;60;60\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"266\" y=\"172\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">12% = 36.000</text><text x=\"180\" y=\"206\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">akten vanaf 1 januari 2025</text></svg>",
+   "quiz": {
+    "q": "Hoeveel verkooprecht betaal je in Vlaanderen op de aankoop van je enige eigen woning (akte vanaf 2025)?",
+    "o": [
+     "2%",
+     "10%",
+     "12%"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Vlaanderen.be: verlaagd tarief",
+     "u": "https://www.vlaanderen.be/belastingen-en-begroting/vlaamse-belastingen/registratiebelasting/verkooprecht/tarieven-in-het-verkooprecht/verlaagd-tarief-in-het-verkooprecht-voor-de-aankoop-van-de-enige-eigen-woning"
+    },
+    {
+     "t": "Vlaanderen.be: algemeen tarief",
+     "u": "https://www.vlaanderen.be/algemeen-tarief-in-het-verkooprecht"
+    },
+    {
+     "t": "Vlaamse Belastingdienst: wijzigingen 2026",
+     "u": "https://www.vlaanderen.be/vlaamse-belastingdienst/wat-verandert-er-op-1-januari-2026"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Zelfde lening, zelfde rente, toch 1.300 euro verschil",
+   "body": "Een woonkrediet van 100.000 euro op 20 jaar aan 2% kan je op twee manieren afbetalen. Met vaste maandbedragen betaal je volgens Wikifin 505,03 euro per maand en in totaal 21.206 euro rente. Met vaste kapitaalaflossingen start je rond 582 euro, dalend naar ongeveer 417, en betaal je zo'n 19.900 euro rente.",
+   "take": "Vraag bij je bank beide aflossingstabellen op en vergelijk de totale rente én de hoogste maandlast.",
+   "deep": "## Hoe het werkt\n\nBij een lening betaal je elke maand twee dingen: een stuk kapitaal terug en rente op wat je nog verschuldigd bent. De vraag is hoe je die verdeelt.\n\nBij constante mensualiteiten, ook annuïteiten genoemd, betaal je elke maand hetzelfde bedrag. In het begin is het rentedeel groot en het kapitaaldeel klein; naarmate de schuld krimpt, draait dat om. Bij vaste kapitaalaflossingen los je elke maand hetzelfde stuk kapitaal af, bij 100.000 euro op 240 maanden 416,67 euro. Omdat je schuld dan sneller daalt, betaal je ook minder rente. Je maandlast begint hoog en zakt elke maand een beetje.\n\n## Een voorbeeld\n\nEen jong gezin in Kortrijk leent 100.000 euro op 20 jaar aan 2%. Kiezen ze voor vaste maandbedragen, dan betalen ze 240 keer 505,03 euro. Kiezen ze voor vaste kapitaalaflossingen, dan betalen ze de eerste maand 416,67 euro kapitaal plus 165,16 euro rente, samen 581,83 euro. Na 20 jaar hebben ze ongeveer 1.300 euro minder rente betaald, maar in het begin wel zo'n 77 euro per maand meer.\n\n## Wat onderzoek zegt\n\nWikifin, het platform van de FSMA, rekent het annuïteitenvoorbeeld voor: 505,03 euro per maand, in de eerste maand 339,87 euro kapitaal en 165,16 euro rente, in totaal 21.206,35 euro rente. Wikifin bevestigt ook dat je bij vaste kapitaalaflossingen in totaal minder rente betaalt, maar dat de aflossingen in het begin hoger liggen. Het bedrag van ongeveer 19.900 euro is een eigen berekening met dezelfde maandrente als in het Wikifin-voorbeeld (ongeveer 0,165% per maand, het equivalent van 2% per jaar).\n\n## Nuance of misverstand\n\nMinder rente betekent niet automatisch de beste keuze. Een lening is pas goed als je ze ook in de eerste, duurste jaren comfortabel kan dragen, wanneer je misschien nog kinderopvang betaalt. Wie met vaste maandbedragen het verschil in de beginjaren opzij zet, houdt ook een buffer. Het verschil groeit wel mee met het bedrag, de looptijd en de rente.\n\n## Wat je ermee doet\n\nVraag bij elke offerte beide formules en de volledige aflossingstabel. Vergelijk drie cijfers: de totale rente, de hoogste maandlast en hoeveel buffer je overhoudt. Kies dan de formule die je budget ook in een minder goed jaar aankan.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Maandlast: 100.000 euro, 20 jaar, 2%</text><line x1=\"50\" y1=\"180\" x2=\"335\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"50\" y1=\"180\" x2=\"50\" y2=\"40\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"50\" y1=\"106\" x2=\"330\" y2=\"106\" stroke=\"#06d6a0\" stroke-width=\"2\"/><line x1=\"50\" y1=\"61\" x2=\"330\" y2=\"158\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><circle r=\"5\" fill=\"#06d6a0\"><animateMotion path=\"M50,106 L330,106\" dur=\"5s\" repeatCount=\"indefinite\"/></circle><circle r=\"5\" fill=\"#ff6b9d\"><animateMotion path=\"M50,61 L330,158\" dur=\"5s\" repeatCount=\"indefinite\"/></circle><text x=\"56\" y=\"52.636363636363626\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">582</text><text x=\"330\" y=\"98.13636363636363\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">505 vast</text><text x=\"330\" y=\"174.13636363636363\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">417</text><text x=\"50\" y=\"196\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">start</text><text x=\"335\" y=\"196\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">jaar 20</text><text x=\"180\" y=\"214\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">dalend: hoger begin, minder rente in totaal</text></svg>",
+   "quiz": {
+    "q": "Wat kenmerkt een woonkrediet met vaste kapitaalaflossingen tegenover constante maandbedragen?",
+    "o": [
+     "Je maandlast stijgt elk jaar",
+     "Hogere maandlast in het begin, maar minder rente in totaal",
+     "Je betaalt altijd meer rente in totaal"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Wikifin: wat betaal je elke maand",
+     "u": "https://www.wikifin.be/nl/woning-en-hypothecaire-lening/hypothecaire-lening/tijdens-je-hypothecair-krediet/wat-betaal-je-elke"
+    },
+    {
+     "t": "Wikifin: welk type krediet",
+     "u": "https://www.wikifin.be/nl/woning-en-hypothecaire-lening/hypothecaire-lening/hoe-best-je-hypothecair-krediet-kiezen/welk-type"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Kind breekt de ruit van de buren: wie betaalt?",
+   "body": "Veroorzaak jij, je kind of vaak ook je hond per ongeluk schade aan iemand anders in je privéleven, dan moet je die vergoeden. De BA familiale, of familiale verzekering, neemt die rekening (deels) over. Ze is in België niet verplicht, maar de toezichthouder FSMA raadt ze sterk aan. Sinds juni 2023 kan je polissen gratis vergelijken op Wikifin.",
+   "take": "Check vandaag of je een familiale verzekering hebt en wie er precies onder valt, zeker na samenwonen of een geboorte.",
+   "deep": "## Hoe het werkt\n\nWie door een fout schade toebrengt aan een ander, moet die schade herstellen. Dat heet burgerlijke aansprakelijkheid. In je privéleven kan dat snel oplopen: een fietser die je aanrijdt met je fiets, een bal door een etalage, een hond die iemand doet vallen.\n\nDe BA familiale betaalt (een deel van) de vergoeding die je dan aan de benadeelde verschuldigd bent. Ze dekt je eigen fouten en die van personen voor wie je verantwoordelijk bent, zoals je kinderen. Ook je partner onder hetzelfde dak kan verzekerd zijn, en veel polissen dekken schade door je huisdier. Het gaat om schade aan anderen, niet om schade aan je eigen spullen.\n\n## Een voorbeeld\n\nJe zoon van negen speelt voetbal in de straat in Aalst en trapt de bal door het raam van de buren. Je hebt een familiale verzekering, dus je meldt de schade aan je verzekeraar, die de nieuwe ruit vergoedt aan de buren. Zonder die verzekering betaal je de rekening zelf.\n\n## Wat onderzoek zegt\n\nToen de FSMA in juni 2023 haar gratis vergelijkingstool lanceerde, benadrukte voorzitter Jean-Paul Servais dat de verzekering niet verplicht is, maar sterk aanbevolen. Met de tool kan je dekking en premies van verschillende verzekeraars naast elkaar leggen. Wikifin waarschuwt dat wat zo'n verzekering wel en niet dekt, verschilt tussen de producten op de markt.\n\n## Nuance of misverstand\n\nEen familiale dekt niet alles. Schade die onder een andere verplichte verzekering valt, zoals een ongeval met je auto, hoort bij de BA auto. Kosten voor advocaten of een rechtszaak bij een betwisting vallen eronder niet; daarvoor bestaat een rechtsbijstandsverzekering. Opzettelijke schade wordt vaak uitgesloten. Lees dus de voorwaarden van je eigen polis.\n\n## Wat je ermee doet\n\nKijk na of je een BA familiale hebt en wie er in je polis als verzekerde staat. Pas ze aan als je gezin verandert, en vergelijk af en toe via de tool op Wikifin. Zo voorkom je dat een klein ongelukje een grote rekening wordt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Wie betaalt de ruit van de buren?</text><circle r=\"7\" fill=\"#ffd166\"><animateMotion path=\"M40,170 Q120,40 250,95\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><text x=\"40\" y=\"192\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">kind</text><rect x=\"250\" y=\"70\" width=\"50\" height=\"50\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"275\" y1=\"70\" x2=\"275\" y2=\"120\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"250\" y1=\"95\" x2=\"300\" y2=\"95\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"275\" y=\"138\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">buren</text><path d=\"M150,140 L180,128 L210,140 L210,165 Q180,190 150,165 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0.4;1;0.4\" dur=\"3s\" repeatCount=\"indefinite\"/></path><text x=\"180\" y=\"160\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">BA</text><line x1=\"214\" y1=\"150\" x2=\"254.7\" y2=\"131.3\" stroke=\"#06d6a0\" stroke-width=\"2\"/><path d=\"M256.6,135.4 L262,128 L252.9,127.2 Z\" fill=\"#06d6a0\"/><text x=\"180\" y=\"210\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">familiale verzekering betaalt schade aan anderen</text></svg>",
+   "quiz": {
+    "q": "Welke schade vergoedt een BA familiale in principe niet?",
+    "o": [
+     "Een ruit van de buren die je kind per ongeluk breekt",
+     "Schade door je hond aan een voorbijganger",
+     "Schade bij een ongeval met je eigen auto"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Wikifin: de BA familiale",
+     "u": "https://www.wikifin.be/nl/themas/verzekeren/ba-familiale/de-ba-familiale"
+    },
+    {
+     "t": "FSMA: vergelijkingstool BA familiale",
+     "u": "https://www.fsma.be/en/news/fsma-launches-comparison-tool-family-civil-liability-insurance"
+    },
+    {
+     "t": "Wikifin: persbericht vergelijkingstool",
+     "u": "https://www.wikifin.be/nl/over-wikifin/persberichten/fsma-lanceert-vergelijkingstool-verzekeringen-ba-familiale"
     }
    ],
    "date": "2026-11-20T06:00:00Z"
