@@ -1,6 +1,323 @@
 {
- "updated": "2026-11-20T05:39:49Z",
- "cards": [],
+ "updated": "2026-11-20T05:44:13Z",
+ "cards": [
+  {
+   "cat": "taal",
+   "title": "Do-re-mi komt uit een hymne voor Johannes",
+   "body": "De notennamen do, re, mi, fa, sol, la danken we aan Guido van Arezzo, een Italiaanse monnik uit de 11e eeuw. Hij nam de eerste lettergreep van zes regels uit de Latijnse hymne 'Ut queant laxis'. Elke regel begint een toon hoger. 'Ut' werd later 'do', en 'si' kwam er pas eeuwen later bij.",
+   "take": "Moet je kind een rijtje onthouden? Hang het op aan een melodie die het al kent, zoals Guido deed.",
+   "deep": "## Hoe het werkt\n\nDe hymne 'Ut queant laxis' is een Latijns lied voor Johannes de Doper. De eerste zes regels beginnen zo: 'Ut queant laxis', 'Resonare fibris', 'Mira gestorum', 'Famuli tuorum', 'Solve polluti', 'Labii reatum'. Het slimme zit in de melodie: elke regel start op een toon die net iets hoger ligt dan de vorige.\n\nGuido van Arezzo, een monnik en muziekleraar uit de 11e eeuw, zag daar een geheugensteun in. Wie de hymne kende, kon een toon terugvinden door aan het begin van de juiste regel te denken. Zo ontstonden de lettergrepen ut, re, mi, fa, sol en la: zes namen voor zes opeenvolgende tonen, een reeks die muziekkenners een hexachord noemen.\n\n## Een voorbeeld\n\nWie in Vlaanderen notenleer volgde aan de muziekacademie, zingt 'do re mi fa sol la si do'. Dat is Guido's rijtje, met twee latere aanpassingen. In Engelstalige landen hoor je in het lied 'Do-Re-Mi' uit The Sound of Music trouwens 'ti' in plaats van 'si'. Ook dat is een bewuste ingreep: de Engelse muziekpedagoge Sarah Glover maakte in de 19e eeuw van 'si' een 'ti', zodat elke lettergreep met een andere letter begint.\n\n## Wat onderzoek zegt\n\nEncyclopedieën als Britannica schrijven het systeem toe aan Guido van Arezzo en verbinden het uitdrukkelijk met 'Ut queant laxis'. De zevende toon zat niet in Guido's reeks van zes. Die kreeg later de naam 'si', samengesteld uit de beginletters van de slotregel 'Sancte Iohannes'. De lettergreep 'ut' werd in de 17e eeuw in Italië vervangen door 'do', omdat die beter zingt: 'ut' eindigt op een harde medeklinker. De verandering wordt vaak toegeschreven aan de geleerde Giovanni Battista Doni.\n\n## Nuance of misverstand\n\nGuido schreef de tekst van de hymne niet zelf. Die wordt traditioneel toegeschreven aan Paulus Diaconus, een Lombardische geschiedschrijver uit de 8e eeuw. Guido gebruikte wel een melodie waarin de regels netjes stijgen. Het verhaal dat 'do' een afkorting van 'Dominus' (Heer) of van Doni's eigen naam zou zijn, is niet hard te bewijzen.\n\n## Wat je ermee doet\n\nGuido's truc werkt nog steeds: koppel iets nieuws aan iets wat je al stevig kent. Kinderen leren het alfabet op een melodie, en volwassenen onthouden een pincode soms als ritme. Wil je een reeks namen, stappen of woorden vastzetten, zet ze dan op een bekend deuntje of laat elke stap beginnen met een letter uit een woord dat je al kent.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Zes regels, zes tonen die stijgen</text><rect x=\"30\" y=\"190\" width=\"46\" height=\"16\" rx=\"3\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"fill\" values=\"rgba(255,255,255,0.14);#ffd166;rgba(255,255,255,0.14);rgba(255,255,255,0.14)\" keyTimes=\"0;0.08;0.18;1\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/></rect><text x=\"53\" y=\"202\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ut</text><rect x=\"82\" y=\"166\" width=\"46\" height=\"16\" rx=\"3\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"fill\" values=\"rgba(255,255,255,0.14);#ffd166;rgba(255,255,255,0.14);rgba(255,255,255,0.14)\" keyTimes=\"0;0.08;0.18;1\" dur=\"6s\" begin=\"1s\" repeatCount=\"indefinite\"/></rect><text x=\"105\" y=\"178\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">re</text><rect x=\"134\" y=\"142\" width=\"46\" height=\"16\" rx=\"3\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"fill\" values=\"rgba(255,255,255,0.14);#ffd166;rgba(255,255,255,0.14);rgba(255,255,255,0.14)\" keyTimes=\"0;0.08;0.18;1\" dur=\"6s\" begin=\"2s\" repeatCount=\"indefinite\"/></rect><text x=\"157\" y=\"154\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">mi</text><rect x=\"186\" y=\"118\" width=\"46\" height=\"16\" rx=\"3\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"fill\" values=\"rgba(255,255,255,0.14);#ffd166;rgba(255,255,255,0.14);rgba(255,255,255,0.14)\" keyTimes=\"0;0.08;0.18;1\" dur=\"6s\" begin=\"3s\" repeatCount=\"indefinite\"/></rect><text x=\"209\" y=\"130\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">fa</text><rect x=\"238\" y=\"94\" width=\"46\" height=\"16\" rx=\"3\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"fill\" values=\"rgba(255,255,255,0.14);#ffd166;rgba(255,255,255,0.14);rgba(255,255,255,0.14)\" keyTimes=\"0;0.08;0.18;1\" dur=\"6s\" begin=\"4s\" repeatCount=\"indefinite\"/></rect><text x=\"261\" y=\"106\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">sol</text><rect x=\"290\" y=\"70\" width=\"46\" height=\"16\" rx=\"3\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"fill\" values=\"rgba(255,255,255,0.14);#ffd166;rgba(255,255,255,0.14);rgba(255,255,255,0.14)\" keyTimes=\"0;0.08;0.18;1\" dur=\"6s\" begin=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"313\" y=\"82\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">la</text><text x=\"20\" y=\"60\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">ut werd later do</text><text x=\"20\" y=\"78\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">si (Sancte Iohannes) kwam erbij</text><text x=\"340\" y=\"206\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">elke regel start een toon hoger</text></svg>",
+   "quiz": {
+    "q": "Waar komen de notennamen ut, re, mi, fa, sol, la vandaan?",
+    "o": [
+     "Van de namen van zes Italiaanse steden",
+     "Van de beginlettergrepen van zes regels uit een Latijnse hymne",
+     "Van de cijfers één tot zes in het oud-Grieks"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Britannica: Solmization",
+     "u": "https://www.britannica.com/art/solmization"
+    },
+    {
+     "t": "Britannica: Ut queant laxis",
+     "u": "https://www.britannica.com/topic/Ut-queant-laxis"
+    },
+    {
+     "t": "Classical Music: Tonic sol-fa",
+     "u": "https://www.classical-music.com/features/musical-terms/tonic-sol-fa"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Tomaat, avocado en chocolade spreken Azteeks",
+   "body": "Na de Spaanse verovering van Mexico in de 16e eeuw kwamen nieuwe gewassen naar Europa, met hun namen uit het Nahuatl, de taal van de Azteken. Tomatl werd het Spaanse tomate, ahuacatl werd aguacate en later avocado. Ook chocolade gaat terug op het Nahuatl. Guacamole is letterlijk 'avocadosaus': ahuacatl plus molli.",
+   "take": "Bestel je nog eens guacamole? Dan zeg je eigenlijk 'avocadosaus' in de taal van de Azteken.",
+   "deep": "## Hoe het werkt\n\nAls een nieuw product een land binnenkomt, reist de naam vaak mee. De Spanjaarden kenden geen tomaten, avocado's of cacao voor ze in Midden-Amerika kwamen. Ze namen dus de woorden over die de lokale bevolking gebruikte, en pasten de klanken aan hun eigen taal aan. Het Nahuatl gebruikt de uitgang -tl, die het Spaans niet kent. Zo werd tomatl het Spaanse tomate, en ahuacatl werd aguacate.\n\nVanuit het Spaans verspreidden de woorden zich verder over Europa, telkens opnieuw licht aangepast. Uit aguacate groeide later de vorm 'avocado', die ook het Nederlands overnam. Zo draagt een groente uit de supermarkt in Gent of Hasselt een stukje Azteekse grammatica mee.\n\n## Een voorbeeld\n\nKijk naar een gewone Vlaamse spaghettisaus: tomaat. Of naar een brunchbord met avocadotoast en een stuk chocolade bij de koffie. In één maaltijd gebruik je zo drie woorden met wortels in het Nahuatl. Guacamole verraadt zijn afkomst het duidelijkst: het komt van ahuacamolli, een samenstelling van ahuacatl (avocado) en molli (saus). Dat 'mole' herken je ook in de Mexicaanse sauzen die mole heten.\n\n## Wat onderzoek zegt\n\nWoordenboeken zoals Merriam-Webster en Dictionary.com leiden tomaat, avocado en chocolade af van het Nahuatl. Bij tomaat ligt het fijner dan je denkt. Volgens Nahuatl-woordenboeken sloeg tomatl zonder toevoeging meestal op de groene tomatillo, een verwante vrucht met een vliesje rond. De grote rode tomaat heette xitomatl. Dat woord leeft voort in het Mexicaanse Spaans, waar een tomaat vaak jitomate heet.\n\n## Nuance of misverstand\n\nRond twee van deze woorden doen hardnekkige verhalen de ronde. Je leest vaak dat ahuacatl 'teelbal' betekende, naar de vorm van de vrucht. Taalkundigen zetten daar vraagtekens bij: het woord zou teruggaan op een oudere benaming voor een boomsoort. Bij chocolade is de herkomst echt onzeker. Sommigen denken aan een samenstelling met ātl (water), anderen aan xococ (zuur of bitter), en nog anderen wijzen beide verklaringen af. Zeker is alleen dat het woord via het Spaans uit Mexico kwam.\n\n## Wat je ermee doet\n\nKijk eens naar de namen van producten in je keuken en vraag je af waar ze vandaan komen. Leenwoorden vertellen vaak het handelsverhaal achter een gerecht. En als iemand je met grote stelligheid vertelt dat avocado 'teelbal' betekent, weet je nu dat dat verhaal minder vast staat dan het klinkt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Van Nahuatl via Spaans naar je bord</text><text x=\"60\" y=\"48\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Nahuatl</text><text x=\"180\" y=\"48\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Spaans</text><text x=\"300\" y=\"48\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Nederlands</text><rect x=\"8\" y=\"66\" width=\"104\" height=\"24\" rx=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"60\" y=\"83\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">tomatl</text><rect x=\"128\" y=\"66\" width=\"104\" height=\"24\" rx=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"83\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">tomate</text><rect x=\"248\" y=\"66\" width=\"104\" height=\"24\" rx=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"300\" y=\"83\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">tomaat</text><line x1=\"113\" y1=\"78\" x2=\"125\" y2=\"78\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M125,78 L118,74 L118,82 Z\" fill=\"#fff\"/><line x1=\"233\" y1=\"78\" x2=\"245\" y2=\"78\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M245,78 L238,74 L238,82 Z\" fill=\"#fff\"/><rect x=\"8\" y=\"111\" width=\"104\" height=\"24\" rx=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"60\" y=\"128\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ahuacatl</text><rect x=\"128\" y=\"111\" width=\"104\" height=\"24\" rx=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"128\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">aguacate</text><rect x=\"248\" y=\"111\" width=\"104\" height=\"24\" rx=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"300\" y=\"128\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">avocado</text><line x1=\"113\" y1=\"123\" x2=\"125\" y2=\"123\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M125,123 L118,119 L118,127 Z\" fill=\"#fff\"/><line x1=\"233\" y1=\"123\" x2=\"245\" y2=\"123\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M245,123 L238,119 L238,127 Z\" fill=\"#fff\"/><rect x=\"8\" y=\"156\" width=\"104\" height=\"24\" rx=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"60\" y=\"173\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ahuacamolli</text><rect x=\"128\" y=\"156\" width=\"104\" height=\"24\" rx=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"173\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">guacamole</text><rect x=\"248\" y=\"156\" width=\"104\" height=\"24\" rx=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"300\" y=\"173\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">guacamole</text><line x1=\"113\" y1=\"168\" x2=\"125\" y2=\"168\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M125,168 L118,164 L118,172 Z\" fill=\"#fff\"/><line x1=\"233\" y1=\"168\" x2=\"245\" y2=\"168\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M245,168 L238,164 L238,172 Z\" fill=\"#fff\"/><circle r=\"5\" fill=\"#06d6a0\"><animateMotion path=\"M60,66 L300,66\" dur=\"4s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"0;1;1;0\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"212\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">16e eeuw: nieuwe gewassen, nieuwe woorden</text></svg>",
+   "quiz": {
+    "q": "Wat betekent guacamole letterlijk in het Nahuatl?",
+    "o": [
+     "Groene puree",
+     "Gestampte vrucht",
+     "Avocadosaus"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Merriam-Webster: words from Nahuatl",
+     "u": "https://merriam-webster.com/wordplay/words-from-nahuatl-the-language-of-the-aztecs"
+    },
+    {
+     "t": "Dictionary.com: tomato",
+     "u": "https://www.dictionary.com/browse/tomato"
+    },
+    {
+     "t": "Google Arts & Culture: From dining to language",
+     "u": "https://artsandculture.google.com/story/MgVBXKfb07gnkQ"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Waarom sommige liedjes in je hoofd blijven hangen",
+   "body": "Onderzoekers rond Kelly Jakubowski vroegen 3000 mensen naar hun oorwurmen en vergeleken die liedjes met even populaire nummers die niemand noemde. De oorwurmen waren sneller, hadden een vertrouwde melodielijn en toch een paar ongewone sprongen. Vaak genoemd: 'Bad Romance' van Lady Gaga en, toepasselijk, 'Can't Get You Out Of My Head' van Kylie Minogue.",
+   "take": "Zit er een liedje vast? Luister het één keer helemaal uit, of kauw kauwgom: dat stoort je innerlijke zangstem.",
+   "deep": "## Hoe het werkt\n\nEen oorwurm is een stukje muziek dat ongevraagd in je hoofd blijft herhalen, meestal een refrein van een paar seconden. Psychologen noemen het onvrijwillige muzikale verbeelding. Het gebeurt vaak als je hoofd niet veel te doen heeft: tijdens het afwassen, fietsen of douchen.\n\nWaarom het ene liedje blijft hangen en het andere niet, hangt deels af van jou: wat je recent hoorde, wat je vaak hoort, waar je mee bezig bent. Maar het liedje zelf telt ook mee. Een melodie met een vertrouwde vorm is makkelijk te onthouden en dus makkelijk af te spelen. Een paar onverwachte sprongen maken haar opvallend genoeg om op te vallen. En een vlot tempo nodigt uit om mee te bewegen en mee te neuriën.\n\n## Een voorbeeld\n\nDenk aan een zomerhit die je op de radio, in de supermarkt en op elk tuinfeest hoort. Na een week betrap je jezelf erop dat je het refrein neuriet tijdens het tandenpoetsen, zonder dat je het nummer die dag gehoord hebt. Vaak is het maar een flard van het refrein, telkens opnieuw, zonder einde.\n\n## Wat onderzoek zegt\n\nIn 2016 publiceerden Kelly Jakubowski en collega's, toen aan Goldsmiths in Londen, hun studie 'Dissecting an earworm' in het tijdschrift Psychology of Aesthetics, Creativity, and the Arts. Via een online enquête noemden 3000 mensen hun vaakste oorwurmen. De onderzoekers vergeleken die nummers met popsongs die even hoog in de hitparade stonden, maar door niemand als oorwurm genoemd werden. Ze analyseerden 83 kenmerken van de melodieën. Oorwurmen hadden een sneller gemiddeld tempo, een algemene melodielijn die veel voorkomt in westerse pop, en minder gangbare sprongen tussen de toppen en dalen van de melodie. Nummers met meer hitsucces en een recentere hitparade-carrière werden ook vaker genoemd. Een aparte studie van de universiteit van Reading uit 2015 vond dat kauwgom kauwen na het horen van een catchy nummer mensen minder aan dat nummer deed denken.\n\n## Nuance of misverstand\n\nEr bestaat geen formule die garandeert dat een liedje een oorwurm wordt. De studie toont kenmerken die vaker voorkomen, geen recept dat altijd werkt. Je eigen situatie weegt zwaar: hetzelfde nummer kan bij de ene persoon dagenlang blijven hangen en bij de andere nooit. Oorwurmen zijn ook bijna altijd onschuldig; de meeste mensen hebben er geregeld een.\n\n## Wat je ermee doet\n\nWil je er een kwijt, dan helpen enkele dingen. Jakubowski raadt aan om het nummer één keer helemaal uit te luisteren: vaak blijft net het onafgewerkte stukje haken. Kauwgom kauwen stoort de 'innerlijke zangstem', omdat dezelfde spieren betrokken zijn als bij praten. Of zet een ander, vertrouwd maar rustig nummer op dat je aandacht niet te hard vasthoudt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Recept van een oorwurm</text><path d=\"M20,150 Q60,90 100,120 T180,110 T260,100 T340,90\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"3\" stroke-dasharray=\"400\" stroke-dashoffset=\"400\"><animate attributeName=\"stroke-dashoffset\" values=\"400;0;0\" keyTimes=\"0;0.6;1\" dur=\"5s\" repeatCount=\"indefinite\"/></path><path d=\"M180,110 L200,60 L220,105\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"3\"/><text x=\"200\" y=\"52\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ongewone sprong</text><text x=\"60\" y=\"180\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">sneller tempo</text><text x=\"180\" y=\"180\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">vertrouwde melodielijn</text><text x=\"300\" y=\"180\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">populair, recent</text><line x1=\"60\" y1=\"166\" x2=\"60\" y2=\"150\" stroke=\"#06d6a0\" stroke-width=\"2\"/><path d=\"M60,150 L56,157 L64,157 Z\" fill=\"#06d6a0\"/><line x1=\"300\" y1=\"166\" x2=\"300\" y2=\"110\" stroke=\"#06d6a0\" stroke-width=\"2\"/><path d=\"M300,110 L296,117 L304,117 Z\" fill=\"#06d6a0\"/><circle r=\"5\" fill=\"#06d6a0\"><animateMotion path=\"M20,150 Q60,90 100,120 T180,110 T260,100 T340,90\" dur=\"5s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"208\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">3000 mensen noemden hun oorwurm</text></svg>",
+   "quiz": {
+    "q": "Welk kenmerk hadden oorwurmen volgens de studie van Jakubowski vaker dan andere hits?",
+    "o": [
+     "Een sneller tempo",
+     "Een langere intro",
+     "Meer tekst in het refrein"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "APA: Why some songs get stuck in your head",
+     "u": "https://www.apa.org/news/press/releases/2016/11/earworms"
+    },
+    {
+     "t": "Durham Research Online: Dissecting an earworm",
+     "u": "https://dro.dur.ac.uk/20274"
+    },
+    {
+     "t": "NZ Herald: Earworms",
+     "u": "https://nzherald.co.nz/entertainment/earworms-why-some-songs-get-stuck-in-our-heads-more-than-others/UED54SLBPOKJZPBPU445ZEWDEQ"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "De marshmallowtest voorspelt minder dan je denkt",
+   "body": "Eind jaren 60 liet Walter Mischel kleuters in Stanford kiezen: één snoepje nu, of twee als je wacht. Wie wachtte, scoorde later beter. Een herhaling uit 2018 met ruim 900 kinderen vond dat verband maar half zo sterk, en nog twee derde kleiner na correctie voor gezinsachtergrond, vroege vaardigheden en thuisomgeving.",
+   "take": "Kan je kleuter niet wachten op een koekje? Geen paniek: één wachtmoment zegt weinig over later succes.",
+   "deep": "## Hoe het werkt\n\nDe opzet is eenvoudig. Een kind krijgt een lekkernij, bijvoorbeeld een marshmallow. De onderzoeker zegt: als je wacht tot ik terugkom, krijg je er twee. Dan verlaat hij de kamer. Gemeten wordt hoe lang het kind het volhoudt.\n\nWalter Mischel deed dit eind jaren 60 en begin jaren 70 met honderden kleuters van de Bing Nursery School aan Stanford University. Jaren later volgde hij een deel van die kinderen op. In 1990 rapporteerde hij met Yuichi Shoda en Philip Peake dat kinderen die langer wachtten, als tiener hogere scores haalden op de Amerikaanse SAT-toets. Dat resultaat ging de wereld rond als bewijs dat zelfbeheersing op jonge leeftijd je toekomst voorspelt.\n\n## Een voorbeeld\n\nIn opvoedboeken en tijdschriften werd de test een soort orakel: kan je kind wachten, dan komt het goed. Wie ooit een kleuter voor een volle koekjestrommel zag staan, herkent de scène. Maar de oorspronkelijke studie had een kleine, bijzondere groep: kinderen van een universiteitskleuterschool. Bij de SAT-analyse ging het bovendien om slechts 94 door ouders doorgegeven scores.\n\n## Wat onderzoek zegt\n\nIn 2018 publiceerden Tyler Watts, Greg Duncan en Haonan Quan in Psychological Science een zogenoemde conceptuele replicatie. Ze gebruikten gegevens van meer dan 900 kinderen uit een grote Amerikaanse langlopende studie, met een veel gemengder publiek. Ze vonden het verband tussen wachten op vierjarige leeftijd en schoolprestaties op 15 jaar wel terug, maar slechts half zo sterk als in de oorspronkelijke studies. Toen ze rekening hielden met gezinsachtergrond, vroege cognitieve vaardigheden en thuisomgeving, kromp het nog met ongeveer twee derde. De associaties met gedrag als tiener waren 'veel kleiner en zelden statistisch significant'.\n\n## Nuance of misverstand\n\nDe herhaling betekent niet dat zelfbeheersing onbelangrijk is. Andere onderzoekers reageerden dat de resultaten eigenlijk een gedeeltelijk geslaagde replicatie zijn, en dat sommige controlevariabelen misschien zelf al een stuk zelfbeheersing meten. Een heranalyse uit 2020 van dezelfde gegevens vond voor drie van de vijf uitkomsten wel een significant verband, maar dat werd beter verklaard door sociale steun dan door zelfbeheersing. De nuchtere conclusie: één wachtmoment bij een kleuter vangt maar een klein stukje van wat later telt.\n\n## Wat je ermee doet\n\nGebruik de marshmallowtest niet als meetlat voor je eigen kind. Watts en collega's suggereren dat wie kinderen wil helpen, beter inzet op bredere cognitieve en gedragsvaardigheden dan op één trucje om te leren wachten. Voorlezen, samen spelen en een veilige, voorspelbare thuis zijn daarvoor een beter vertrekpunt dan een kind met een snoepje alleen laten zitten.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Verband wachten (4 jaar) en schoolscore (15 jaar)</text><rect x=\"60\" y=\"40\" width=\"50\" height=\"150\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"height\" values=\"0;150;150\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"190;40;40\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"85\" y=\"207\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">oorspronkelijk</text><rect x=\"160\" y=\"115\" width=\"50\" height=\"75\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"><animate attributeName=\"height\" values=\"0;75;75\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"190;115;115\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"185\" y=\"207\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">herhaling 2018</text><rect x=\"260\" y=\"165\" width=\"50\" height=\"25\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"height\" values=\"0;25;25\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"190;165;165\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"285\" y=\"207\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">plus achtergrond</text><text x=\"185\" y=\"105\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">half zo sterk</text><text x=\"285\" y=\"155\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">nog 2/3 kleiner</text><line x1=\"40\" y1=\"190\" x2=\"340\" y2=\"190\" stroke=\"#fff\" stroke-width=\"2\"/></svg>",
+   "quiz": {
+    "q": "Wat vond de herhaling van de marshmallowtest uit 2018?",
+    "o": [
+     "Het verband met latere prestaties was even sterk als vroeger",
+     "Er was helemaal geen verband meer",
+     "Het verband was veel zwakker, zeker na correctie voor gezinsachtergrond"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "APS Observer: A new approach to the marshmallow test",
+     "u": "https://www.psychologicalscience.org/publications/observer/obsonline/a-new-approach-to-the-marshmallow-test-yields-complex-findings.html"
+    },
+    {
+     "t": "Stanford Bing Nursery School",
+     "u": "https://bingschool.stanford.edu/news/bing-marshmallow-studies-50-years-continuing-research"
+    },
+    {
+     "t": "Watts e.a. 2018 (eScholarship)",
+     "u": "https://escholarship.org/content/qt73c9d031/qt73c9d031.pdf"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "De Pomodoro-techniek begon met een tomatenwekker",
+   "body": "Eind jaren 80 worstelde de Italiaanse student Francesco Cirillo met studeren. Hij pakte een kookwekker in de vorm van een tomaat, pomodoro in het Italiaans, en werkte in blokken van 25 minuten met 5 minuten pauze. Onderzoek uit Maastricht vond dat zulke vaste pauzes studenten minder moe maakten dan pauzeren op gevoel.",
+   "take": "Zet een wekker op 25 minuten voor de taak die je uitstelt, en neem daarna echt vijf minuten pauze.",
+   "deep": "## Hoe het werkt\n\nDe Pomodoro-techniek knipt werk op in korte, vaste blokken. Je kiest één taak, zet een wekker op 25 minuten en werkt tot hij afgaat, zonder mails of berichtjes tussendoor. Daarna volgt een korte pauze van ongeveer vijf minuten. Dan begin je aan het volgende blok.\n\nHet idee erachter is dat een grote, vage taak minder afschrikt als je maar 25 minuten hoeft vol te houden. De wekker neemt ook een beslissing van je over: je hoeft niet zelf te kiezen wanneer je pauzeert. Dat bespaart wilskracht en voorkomt dat je urenlang doorwerkt tot je uitgeput bent, of net na tien minuten al wegdwaalt.\n\n## Een voorbeeld\n\nEen student in de blok voor de januari-examens zit voor een stapel cursussen. Zonder plan scrolt ze om het kwartier op haar gsm. Met een timer op 25 minuten werkt ze een hoofdstuk door, staat dan vijf minuten op voor een glas water, en begint opnieuw. Na een voormiddag heeft ze een aantal afgebakende blokken achter de rug en weet ze precies hoeveel ze gedaan heeft.\n\n## Wat onderzoek zegt\n\nFrancesco Cirillo bedacht de methode als student in de jaren 80 en noemde ze naar zijn tomaatvormige kookwekker. Wetenschappelijk onderzoek kwam pas veel later. In 2023 publiceerden onderzoekers rond Biwer van de Universiteit Maastricht een studie in het British Journal of Educational Psychology. Studenten studeerden een dag lang met zelfgekozen pauzes, of met vaste pauzes: 6 minuten na elk blok van 24 minuten (een Pomodoro-variant) of 3 minuten na 12 minuten. Wie zelf pauzes koos, werkte en pauzeerde langer, maar was vermoeider en meer afgeleid, en voelde minder concentratie en motivatie. Met vaste pauzes kregen studenten ongeveer evenveel gedaan in minder tijd.\n\n## Nuance of misverstand\n\nDe 25 minuten zijn geen magisch getal. Een vervolgstudie uit 2025 van Maastrichtse onderzoekers vond net dat Pomodoro-pauzes de vermoeidheid sneller deden stijgen dan zelfgekozen pauzes, al leverde dat uiteindelijk geen verschil in afgewerkte taken op. Het bewijs is dus nog beperkt en gemengd. Voor taken waarin je diep moet opgaan, zoals programmeren of schrijven, kan een wekker die je uit je flow haalt ook storen.\n\n## Wat je ermee doet\n\nProbeer het gewoon uit bij taken die je uitstelt. Begin met blokken van 25 minuten en pas de lengte aan als je merkt dat ze te kort of te lang zijn. Belangrijk is dat de pauze echt een pauze is: rechtstaan, bewegen of iets drinken, niet snel je mail checken.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Werkblok en pauze</text><circle cx=\"90\" cy=\"115\" r=\"55\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M80,58 Q90,46 100,58\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"3\"/><line x1=\"90\" y1=\"115\" x2=\"90\" y2=\"72\" stroke=\"#ffd166\" stroke-width=\"3\"><animateTransform attributeName=\"transform\" type=\"rotate\" from=\"0 90 115\" to=\"360 90 115\" dur=\"6s\" repeatCount=\"indefinite\"/></line><text x=\"90\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">kookwekker</text><rect x=\"170\" y=\"100\" width=\"125\" height=\"28\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"232\" y=\"119\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">25 min werk</text><rect x=\"300\" y=\"100\" width=\"30\" height=\"28\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"315\" y=\"119\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">5</text><rect x=\"170\" y=\"100\" width=\"0\" height=\"28\" rx=\"4\" fill=\"#ffd166\" opacity=\"0.5\"><animate attributeName=\"width\" values=\"0;160;160\" keyTimes=\"0;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"170\" y=\"155\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">vaste pauzes: minder moe</text><text x=\"170\" y=\"173\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">dan pauzeren op gevoel</text><text x=\"170\" y=\"88\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">pomodoro = tomaat</text></svg>",
+   "quiz": {
+    "q": "Waar komt de naam Pomodoro-techniek vandaan?",
+    "o": [
+     "Van de Italiaanse stad waar de methode bedacht werd",
+     "Van een kookwekker in de vorm van een tomaat",
+     "Van een Italiaans spreekwoord over geduld"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Biwer e.a. 2023 (Maastricht University)",
+     "u": "https://cris.maastrichtuniversity.nl/en/publications/understanding-effort-regulation-comparing-pomodoro-breaks-and-sel"
+    },
+    {
+     "t": "Penguin Random House: The Pomodoro Technique",
+     "u": "https://www.penguinrandomhouse.com/books/555557/the-pomodoro-technique-by-francesco-cirillo/"
+    },
+    {
+     "t": "Smits e.a. 2025 (Maastricht University)",
+     "u": "https://cris.maastrichtuniversity.nl/en/publications/investigating-the-effectiveness-of-self-regulated-pomodoro-and-fl/"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "Een to-do-lijst voor het slapengaan helpt je inslapen",
+   "body": "Psychologen van Baylor University lieten 57 jonge volwassenen vlak voor het slapen vijf minuten schrijven: de ene groep een to-do-lijst, de andere wat ze die dag al gedaan hadden. Gemeten in een slaaplabo viel de to-do-groep gemiddeld zo'n negen minuten sneller in. Hoe specifieker de lijst, hoe sneller ze sliepen.",
+   "take": "Leg een notitieboekje naast je bed en schrijf vijf minuten lang zo concreet mogelijk wat er morgen moet gebeuren.",
+   "deep": "## Hoe het werkt\n\nVeel mensen liggen 's avonds wakker omdat hun hoofd blijft malen over wat er nog moet gebeuren. Onafgewerkte taken blijven in je gedachten rondspoken, alsof je brein ze niet wil vergeten. Dat houdt je alert, net op het moment dat je wilt wegzakken.\n\nDoor je taken op papier te zetten, geef je je brein een soort ontvangstbewijs: het staat genoteerd, morgen pak je het op. De gedachten hoeven niet langer in je werkgeheugen te blijven cirkelen. Volgens de onderzoekers is net dat het mechanisme, en daarom werkt een concrete lijst beter dan een vage: 'mama bellen over zaterdag' lucht meer op dan 'familiezaken'.\n\n## Een voorbeeld\n\nJe ligt om elf uur in bed en denkt aan de vergadering van morgen, de rapportbespreking van je dochter en de afspraak met de garagist. In plaats van te piekeren, pak je een notitieboekje en schrijf je: 'om 9 uur slides nakijken, om 16 uur school bellen, garage mailen voor een afspraak'. Daarna leg je het boekje weg en doe je het licht uit.\n\n## Wat onderzoek zegt\n\nMichael Scullin en collega's van Baylor University in Texas publiceerden de studie in 2018 in het Journal of Experimental Psychology: General. De 57 deelnemers waren gezonde jonge volwassenen zonder slaapproblemen. Ze sliepen een nacht in een slaaplabo, waar hun slaap gemeten werd met polysomnografie: elektroden die hersengolven, oogbewegingen en spierspanning registreren, de gouden standaard in slaaponderzoek. De groep die een to-do-lijst schreef, viel gemiddeld ongeveer negen minuten sneller in dan de groep die afgewerkte taken opschreef. Bovendien gold: hoe specifieker de to-do-lijst, hoe sneller het inslapen. Bij de groep die over afgewerkte taken schreef, zagen de onderzoekers het omgekeerde patroon.\n\n## Nuance of misverstand\n\nDe studie was klein en duurde maar één nacht. De deelnemers waren jonge, gezonde mensen; of het ook werkt bij mensen met slapeloosheid, is niet getest. Negen minuten is een bescheiden winst, geen wondermiddel. Wie langdurig slecht slaapt, heeft meer aan een gesprek met de huisarts of aan bewezen therapie voor slapeloosheid dan aan een lijstje alleen.\n\n## Wat je ermee doet\n\nMaak er een vast avondritueel van: vijf minuten, pen en papier, en zo concreet mogelijk opschrijven wat er de komende dagen moet gebeuren. Doe het op papier in plaats van op je gsm, zodat je niet meteen in je meldingen belandt. Bonus: 's ochtends ligt je planning al klaar.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Vijf minuten schrijven voor het slapen</text><rect x=\"30\" y=\"50\" width=\"110\" height=\"130\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"85\" y=\"68\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">morgen</text><rect x=\"42\" y=\"79\" width=\"10\" height=\"10\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"60\" y1=\"84\" x2=\"60\" y2=\"84\" stroke=\"#ffd166\" stroke-width=\"3\"><animate attributeName=\"x2\" values=\"60;60;128;128\" keyTimes=\"0;0.10;0.25;1\" dur=\"6s\" repeatCount=\"indefinite\"/></line><rect x=\"42\" y=\"101\" width=\"10\" height=\"10\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"60\" y1=\"106\" x2=\"60\" y2=\"106\" stroke=\"#ffd166\" stroke-width=\"3\"><animate attributeName=\"x2\" values=\"60;60;128;128\" keyTimes=\"0;0.28;0.43;1\" dur=\"6s\" repeatCount=\"indefinite\"/></line><rect x=\"42\" y=\"123\" width=\"10\" height=\"10\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"60\" y1=\"128\" x2=\"60\" y2=\"128\" stroke=\"#ffd166\" stroke-width=\"3\"><animate attributeName=\"x2\" values=\"60;60;128;128\" keyTimes=\"0;0.46;0.61;1\" dur=\"6s\" repeatCount=\"indefinite\"/></line><rect x=\"42\" y=\"145\" width=\"10\" height=\"10\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"60\" y1=\"150\" x2=\"60\" y2=\"150\" stroke=\"#ffd166\" stroke-width=\"3\"><animate attributeName=\"x2\" values=\"60;60;128;128\" keyTimes=\"0;0.64;0.79;1\" dur=\"6s\" repeatCount=\"indefinite\"/></line><line x1=\"150\" y1=\"115\" x2=\"190\" y2=\"115\" stroke=\"#06d6a0\" stroke-width=\"2\"/><path d=\"M190,115 L183,111 L183,119 Z\" fill=\"#06d6a0\"/><path d=\"M250,85 A35,35 0 1 0 290,140 A28,28 0 1 1 250,85 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"268\" y=\"180\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">sneller in slaap</text><text x=\"268\" y=\"197\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">(gem. ~9 min)</text><text x=\"305\" y=\"70\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" opacity=\"0\">z<animate attributeName=\"opacity\" values=\"0;1;0\" dur=\"3s\" begin=\"0s\" repeatCount=\"indefinite\"/></text><text x=\"320\" y=\"90\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" opacity=\"0\">z<animate attributeName=\"opacity\" values=\"0;1;0\" dur=\"3s\" begin=\"1s\" repeatCount=\"indefinite\"/></text><text x=\"335\" y=\"110\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" opacity=\"0\">z<animate attributeName=\"opacity\" values=\"0;1;0\" dur=\"3s\" begin=\"2s\" repeatCount=\"indefinite\"/></text></svg>",
+   "quiz": {
+    "q": "Welke groep viel in de studie van Baylor University het snelst in slaap?",
+    "o": [
+     "Wie afgewerkte taken van die dag opschreef",
+     "Wie niets schreef maar ging lezen",
+     "Wie een specifieke to-do-lijst schreef"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Baylor University: bedtime writing",
+     "u": "https://kellercenter.hankamer.baylor.edu/news/story/2018/effects-bedtime-writing"
+    },
+    {
+     "t": "Scullin e.a. 2018 (PMC)",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5758411"
+    },
+    {
+     "t": "Live Science",
+     "u": "https://www.livescience.com/61422-journal-writing-sleep-better.html"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Het eerste verkeerslicht brandde op gas en ontplofte",
+   "body": "In december 1868 kwam vlak bij het Britse parlement in Londen het eerste verkeerslicht ter wereld. Spoorwegman John Peake Knight baseerde het op treinseinen: seinarmen overdag, rode en groene gaslampen 's nachts. Een agent bediende het met de hand. Begin januari 1869 ontplofte het door een gaslek en raakte de agent zwaar gewond.",
+   "take": "Sta je met de kinderen voor een rood licht? Vertel dat het eerste verkeerslicht door een agent met de hand bediend werd.",
+   "deep": "## Hoe het werkt\n\nLonden zat halverwege de 19e eeuw vast in een chaos van koetsen, karren, paarden en voetgangers. Kruispunten waren gevaarlijk, ook rond het parlement in Westminster. John Peake Knight, een spoorwegmanager, keek naar wat op het spoor al werkte: seinpalen met beweegbare armen die treinmachinisten vertelden of ze mochten doorrijden.\n\nZijn verkeerslicht was zo'n seinpaal voor de straat. Overdag gaven beweegbare seinarmen aan of het verkeer moest stoppen. 's Nachts zag je die armen niet, dus werkten er rode en groene gaslampen, net als bij treinseinen. Een politieagent stond aan de voet en bediende alles met de hand.\n\n## Een voorbeeld\n\nHet toestel stond op het kruispunt van Great George Street en Bridge Street, een paar stappen van het parlementsgebouw. Wie vandaag aan Westminster Bridge staat te wachten, staat dus vlakbij de plek waar het allemaal begon. Toen het verkeerslicht in 2018 150 jaar oud werd, besteedden Britse media als ITV er nog uitgebreid aandacht aan.\n\n## Wat onderzoek zegt\n\nBronnen dateren de plaatsing op 9 of 10 december 1868. Volgens onder meer het Smithsonian Magazine liep het al snel mis: begin januari 1869, meestal gedateerd op 2 januari, ontplofte een gasleiding naar de lampen. De agent die het toestel bediende, liep zware brandwonden op. Daarna verdween het verkeerslicht en bleef het idee meer dan veertig jaar in de kast liggen. Pas in de 20e eeuw keerden verkeerslichten terug, dit keer elektrisch.\n\n## Nuance of misverstand\n\nIn sommige verhalen sterft de agent bij de ontploffing. Dat is niet hard bewezen: de meeste bronnen spreken van een zwaargewonde agent, enkele van een dode. Ook de exacte datum verschilt per bron. Het blijft wel duidelijk dat het eerste verkeerslicht geen automatisch toestel was, maar een handbediend sein uit de spoorwegwereld met gas als lichtbron.\n\n## Wat je ermee doet\n\nKijk eens anders naar het verkeerslicht op je dagelijkse route. De kleuren rood en groen en het idee van een sein dat zegt wie mag rijden, komen rechtstreeks van het spoor. Het is ook een mooi voorbeeld van hoe uitvinders vaak een oplossing uit een andere sector lenen in plaats van iets compleet nieuws te bedenken.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Londen, december 1868</text><line x1=\"120\" y1=\"200\" x2=\"120\" y2=\"50\" stroke=\"#fff\" stroke-width=\"3\"/><line x1=\"120\" y1=\"60\" x2=\"175\" y2=\"60\" stroke=\"#ffd166\" stroke-width=\"4\"><animateTransform attributeName=\"transform\" type=\"rotate\" values=\"0 120 60;35 120 60;35 120 60;0 120 60;0 120 60\" keyTimes=\"0;0.2;0.5;0.7;1\" dur=\"6s\" repeatCount=\"indefinite\"/></line><circle cx=\"120\" cy=\"100\" r=\"9\" fill=\"#ff6b9d\"><animate attributeName=\"opacity\" values=\"1;1;0.2;0.2;1\" keyTimes=\"0;0.45;0.5;0.95;1\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"120\" cy=\"124\" r=\"9\" fill=\"#06d6a0\"><animate attributeName=\"opacity\" values=\"0.2;0.2;1;1;0.2\" keyTimes=\"0;0.45;0.5;0.95;1\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><text x=\"200\" y=\"64\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">seinarm: overdag</text><text x=\"145\" y=\"104\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">rood gaslicht</text><text x=\"145\" y=\"128\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">groen gaslicht</text><text x=\"145\" y=\"152\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">'s nachts</text><circle cx=\"60\" cy=\"170\" r=\"10\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"60\" y1=\"180\" x2=\"60\" y2=\"200\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"60\" y1=\"188\" x2=\"112\" y2=\"170\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"60\" y=\"215\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">agent bedient</text><text x=\"330\" y=\"200\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">jan. 1869: gaslek, ontploffing</text></svg>",
+   "quiz": {
+    "q": "Hoe werkte het eerste verkeerslicht van 1868 's nachts?",
+    "o": [
+     "Met rode en groene gaslampen, bediend door een agent",
+     "Met elektrische lampen op een timer",
+     "Met fakkels die voorbijgangers aanstaken"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Smithsonian Magazine",
+     "u": "https://www.smithsonianmag.com/smart-news/chaotic-traffic-from-horse-drawn-carriages-inspired-the-worlds-first-traffic-lights-180985558"
+    },
+    {
+     "t": "ITV News",
+     "u": "https://itv.com/news/london/2018-12-10/150-years-since-the-worlds-first-traffic-light-in-london"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Tien minuten dutten verslaat een halfuur slapen",
+   "body": "Slaaponderzoekers Amber Brooks en Leon Lack lieten mensen na een korte nacht 's middags dutjes van verschillende lengte doen. Het dutje van 10 minuten werkte het best. Na 30 minuten waren proefpersonen eerst suf door slaapinertie: je zakt dieper weg, en je brein heeft dan tijd nodig om weer op te starten.",
+   "take": "Zet je wekker op twintig minuten voor een middagdutje: genoeg om even in te slapen, te kort om diep weg te zakken.",
+   "deep": "## Hoe het werkt\n\nAls je in slaap valt, ga je niet meteen diep slapen. Je zakt eerst door lichtere stadia en pas na een tijdje kom je in diepe slaap. Word je wakker uit lichte slaap, dan ben je vrij snel helder. Word je gewekt uit diepere slaap, dan voel je je even groggy, traag en verward. Dat heet slaapinertie.\n\nBij een kort dutje blijf je in de lichte stadia. Je krijgt een stukje herstel, zonder die suffe nasleep. Hoe langer het dutje, hoe groter de kans dat je in diepe slaap zakt en dus eerst door een dip moet voor het voordeel merkbaar wordt.\n\n## Een voorbeeld\n\nJe hebt slecht geslapen omdat je baby wakker lag, en na de middag zak je weg achter je laptop. Een dutje van een uur op de zetel laat je wazig en chagrijnig achter, net op het moment dat je de kinderen van school moet halen. Een dutje van tien minuten, met een wekker, laat je meestal frisser opstaan. Ook op een lange autorit kan een korte slaappauze op een parking helpen, mits je daarna even wakker wordt voor je verder rijdt.\n\n## Wat onderzoek zegt\n\nAmber Brooks en Leon Lack van Flinders University in Australië publiceerden hun studie in 2006 in het tijdschrift Sleep. Ze vergeleken verschillende middagdutjes na een nacht met beperkte slaap. Het dutje van 10 minuten kwam als meest herstellend uit de bus. Het dutje van 30 minuten gaf meteen na het ontwaken een periode van verminderde alertheid, die de auteurs aan slaapinertie toeschreven. Een studie uit 2016 bij nachtelijk werk vond hetzelfde: na 30 minuten dutten trad slaapinertie op, na 10 minuten niet. NASA publiceerde in 1994 een studie bij piloten op lange vluchten. Een groep kreeg een geplande rustperiode van 40 minuten in de cockpit; ze vielen gemiddeld in 5,6 minuten in slaap en sliepen ongeveer 26 minuten. Die piloten waren daarna alerter en presteerden beter dan collega's zonder rust.\n\n## Nuance of misverstand\n\nDe ideale lengte is niet in steen gebeiteld. Een studie uit 2023 vond dat de beste duur niet eenduidig is, en dat 30 minuten in de praktijk soms een goed evenwicht geeft. Het hangt af van hoe moe je bent, het tijdstip en hoe snel je inslaapt. Een dutje vervangt ook geen goede nachtrust. Wie elke dag een lang dutje nodig heeft, doet er goed aan te kijken of de nachten wel volstaan.\n\n## Wat je ermee doet\n\nPlan je dutje vroeg in de namiddag, zodat het je nachtslaap niet verstoort. Zet een wekker op ongeveer twintig minuten: dan heb je tijd om in te slapen en slaap je zelf maar een tiental minuten. Sta meteen op als de wekker gaat, en zoek wat daglicht op om helemaal wakker te worden.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Hoe diep zak je weg tijdens een dutje?</text><line x1=\"40\" y1=\"60\" x2=\"340\" y2=\"60\" stroke=\"#fff\" stroke-width=\"1\" stroke-dasharray=\"4 4\"/><text x=\"36\" y=\"64\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">wakker</text><text x=\"36\" y=\"184\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">diep</text><path d=\"M40,60 L80,60 Q110,90 140,100 Q200,120 240,180 L340,180\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"80\" y=\"40\" width=\"60\" height=\"150\" fill=\"rgba(6,214,160,0.18)\"/><text x=\"110\" y=\"205\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">~10 min</text><text x=\"240\" y=\"205\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">30 min+</text><text x=\"255\" y=\"150\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">suf wakker worden</text><circle r=\"6\" fill=\"#ffd166\"><animateMotion path=\"M40,60 L80,60 Q110,90 140,100 Q200,120 240,180 L340,180\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><text x=\"150\" y=\"84\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">licht: fris op</text></svg>",
+   "quiz": {
+    "q": "Waarom voel je je na een lang dutje vaak eerst suf?",
+    "o": [
+     "Omdat je bloedsuiker daalt tijdens het slapen",
+     "Door slaapinertie: je werd gewekt uit diepere slaap",
+     "Omdat je te weinig zuurstof krijgt in bed"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Brooks & Lack 2006, Sleep (PubMed)",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/16796222/"
+    },
+    {
+     "t": "NASA Technical Reports: crew rest",
+     "u": "https://ntrs.nasa.gov/citations/19950006379"
+    },
+    {
+     "t": "Hilditch e.a. 2016 (PMC)",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4763354"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Waarom een bal met effect een bocht maakt",
+   "body": "Geef je een bal effect, dan sleurt het draaiende oppervlak een dun laagje lucht mee. Aan de ene kant stroomt lucht daardoor sneller langs de bal, aan de andere kant trager. Dat drukverschil duwt de bal opzij: het Magnus-effect, genoemd naar de Duitse fysicus Gustav Magnus, die het in 1852 verklaarde.",
+   "take": "Trap je een bal met de binnenkant van je voet aan de zijkant? Hij draait, en buigt af naar de kant waar hij heen draait.",
+   "deep": "## Hoe het werkt\n\nEen bal die door de lucht vliegt, krijgt een luchtstroom tegen zich aan. Lucht kleeft een beetje aan het oppervlak, waardoor er rond de bal een dun grenslaagje ontstaat. Draait de bal, dan sleurt dat laagje de lucht in de draairichting mee.\n\nAan de kant waar het oppervlak met de luchtstroom meedraait, gaat de lucht sneller. Aan de kant waar het ertegenin draait, wordt ze afgeremd. Het luchtpatroon achter de bal wordt daardoor schuin weggeduwd, en zoals bij elke actie volgt er een reactie: de bal krijgt een kracht in de omgekeerde richting. Die kracht staat loodrecht op de vliegrichting én op de draaias. Bij effect rond een verticale as buigt de bal opzij; bij topspin rond een horizontale as duikt hij naar beneden.\n\n## Een voorbeeld\n\nHet beroemdste voorbeeld is de vrije trap van de Braziliaan Roberto Carlos tegen Frankrijk in 1997. Hij schoot van ruim dertig meter. De bal leek ver naast het doel te gaan, maar draaide op het laatste moment terug en vloog binnen. In het tennis zie je hetzelfde principe bij een topspinbal die na het net steil naar beneden duikt, en bij tafeltennis bij een bal met zijspin.\n\n## Wat onderzoek zegt\n\nHet principe is al lang bekend. Gustav Magnus verklaarde de zijwaartse afwijking van draaiende voorwerpen in 1852. NASA legt het op zijn educatieve pagina's uit met de luchtlaag die door de draaiing wordt meegesleept. In 2010 testten Franse fysici van de École Polytechnique draaiende balletjes in water. Ze ontdekten dat een draaiende bal geen gewone boog volgt, maar een spiraal: naarmate de bal vertraagt, wordt de bocht scherper. Voor een goed getrapte voetbal komt die scherpe haak pas na een flinke afstand, wat verklaart waarom Carlos' trap op het einde zo plots afboog.\n\n## Nuance of misverstand\n\nJe leest vaak dat 'Bernoulli' alles verklaart: snellere lucht geeft lagere druk. Dat is een handige vereenvoudiging, maar de echte stroming rond een bal is rommeliger. De lucht laat op een bepaald punt los van het oppervlak, en naden of panelen veranderen dat patroon. Daarom rekent NASA voor een echte voetbal met gemeten waarden in plaats van met het ideale model.\n\n## Wat je ermee doet\n\nWil je een bal laten afbuigen, geef hem dan draaiing in de richting van de bocht: raak hem uit het midden. Hoe sneller de draaiing, hoe sterker het effect. Probeer het eens met een lichte strandbal of een pingpongballetje in de tuin: daar zie je de bocht extra duidelijk.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Effect geven: de bal duwt zichzelf opzij</text><circle cx=\"150\" cy=\"115\" r=\"32\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M150,95 A20,20 0 1 1 131,121\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"><animateTransform attributeName=\"transform\" type=\"rotate\" from=\"0 150 115\" to=\"360 150 115\" dur=\"2s\" repeatCount=\"indefinite\"/></path><path d=\"M128,123 L131,121 L134,127 Z\" fill=\"#ffd166\"><animateTransform attributeName=\"transform\" type=\"rotate\" from=\"0 150 115\" to=\"360 150 115\" dur=\"2s\" repeatCount=\"indefinite\"/></path><line x1=\"30\" y1=\"70\" x2=\"300\" y2=\"70\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"10 8\"><animate attributeName=\"stroke-dashoffset\" values=\"0;-36\" dur=\"1.2s\" repeatCount=\"indefinite\"/></line><text x=\"305\" y=\"64\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">sneller: lagere druk</text><line x1=\"30\" y1=\"160\" x2=\"300\" y2=\"160\" stroke=\"#ff6b9d\" stroke-width=\"2\" stroke-dasharray=\"10 8\"><animate attributeName=\"stroke-dashoffset\" values=\"0;-36\" dur=\"2.4s\" repeatCount=\"indefinite\"/></line><text x=\"305\" y=\"176\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">trager: hogere druk</text><line x1=\"230\" y1=\"135\" x2=\"230\" y2=\"90\" stroke=\"#ffd166\" stroke-width=\"2\"/><path d=\"M230,90 L226,97 L234,97 Z\" fill=\"#ffd166\"/><text x=\"240\" y=\"118\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">kracht</text><text x=\"30\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">luchtstroom</text><line x1=\"100\" y1=\"196\" x2=\"130\" y2=\"196\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M130,196 L123,192 L123,200 Z\" fill=\"#fff\"/></svg>",
+   "quiz": {
+    "q": "Wat zorgt ervoor dat een bal met effect een bocht maakt?",
+    "o": [
+     "De zwaartekracht trekt harder aan één kant",
+     "De bal wordt aan één kant zwaarder door de draaiing",
+     "Een drukverschil omdat de draaiende bal lucht meesleurt"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "NASA Glenn: Lift of a soccer ball",
+     "u": "https://www.grc.nasa.gov/www/k-12/airplane/soclift.html"
+    },
+    {
+     "t": "Physics World: the physics of football",
+     "u": "https://physicsworld.com/a/the-physics-of-football/"
+    },
+    {
+     "t": "ScienceDaily: spinning ball spiral",
+     "u": "https://www.sciencedaily.com/releases/2010/09/100902073509.htm"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Je snelkookpan kookt water op 120 graden",
+   "body": "Op zeeniveau kookt water bij 100 °C, en heter wordt het in een open pot niet. Een snelkookpan sluit luchtdicht af, zodat de stoom niet weg kan en de druk stijgt. Bij ongeveer 1 bar overdruk kookt water pas rond 120 °C. Daardoor is stoofvlees of soep in ongeveer een kwart van de gewone tijd gaar.",
+   "take": "Kook je droge kikkererwten of stoofvlees? Een snelkookpan haalt uren kooktijd terug tot een fractie, zonder in te boeten aan malsheid.",
+   "deep": "## Hoe het werkt\n\nHet kookpunt van water hangt af van de druk erboven. Hoe hoger de druk, hoe meer energie watermoleculen nodig hebben om als stoom te ontsnappen, en dus hoe heter het water wordt voor het kookt. In een open pot ontsnapt de stoom vrij en blijft de temperatuur steken rond 100 °C, hoe hoog je het vuur ook zet.\n\nEen snelkookpan heeft een deksel met een rubberen ring die alles afsluit. De stoom die ontstaat, kan niet weg, dus stijgt de druk in de pan. Daardoor stijgt ook het kookpunt. Een veiligheidsventiel laat stoom ontsnappen zodra de druk te hoog wordt, zodat de pan niet kan ontploffen. Hogere temperatuur betekent sneller garen: vezels en zetmeel breken veel sneller af bij 120 dan bij 100 graden.\n\n## Een voorbeeld\n\nEen Vlaamse stoverij moet in een gewone kookpot al snel een paar uur pruttelen voor het vlees mals is. In een snelkookpan haal je een vergelijkbaar resultaat in een fractie van die tijd. Ook gedroogde bonen, linzen of erwtensoep zijn handige kandidaten. Groenten die snel papperig worden, zoals broccoli, zijn net minder geschikt: daar ben je met de hogere temperatuur snel te ver.\n\n## Wat onderzoek zegt\n\nDe natuurkunde is goed gekend. Gangbare snelkookpannen werken met ongeveer 1 bar (15 psi) boven de luchtdruk. De totale druk is dan ongeveer het dubbele van de normale luchtdruk, en water kookt dan rond 120 à 121 °C. Kooktabellen geven voor die druk ongeveer 23 tot 25 procent van de gewone kooktijd. Het idee is oud: de Franse natuurkundige Denis Papin toonde op 22 mei 1679 aan de Royal Society in Londen zijn 'digester', een gesloten ketel met een veiligheidsklep om beenderen zacht te koken. Het is de voorloper van zowel de snelkookpan als de autoclaaf in ziekenhuizen.\n\n## Nuance of misverstand\n\nDe druk op de wijzer van je pan is overdruk, bovenop de gewone luchtdruk. Daarom lijkt '1 bar' weinig, terwijl de totale druk eigenlijk dubbel zo hoog is. Op grote hoogte, in de bergen, kookt water al onder de 100 °C; daar is een snelkookpan extra handig. Een snelkookpan is veilig zolang je het ventiel proper houdt en de pan nooit openforceert terwijl er nog druk op staat.\n\n## Wat je ermee doet\n\nGebruik je snelkookpan voor gerechten die lang moeten garen: stoofvlees, soep, peulvruchten. Laat de druk na het koken rustig zakken of gebruik het ventiel volgens de handleiding. En als je eens in de Alpen kampeert en je pasta maar niet gaar wil worden, weet je nu waarom.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Meer druk, hoger kookpunt</text><rect x=\"40\" y=\"90\" width=\"100\" height=\"80\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"90\" y=\"195\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">gewone pot</text><text x=\"90\" y=\"135\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">100 °C</text><rect x=\"210\" y=\"90\" width=\"100\" height=\"80\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"260\" y=\"195\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">snelkookpan</text><text x=\"260\" y=\"135\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">~120 °C</text><rect x=\"200\" y=\"80\" width=\"120\" height=\"10\" rx=\"3\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><circle r=\"4\" fill=\"#fff\"><animateMotion path=\"M80,90 L75,40\" dur=\"2s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;0\" dur=\"2s\" repeatCount=\"indefinite\"/></circle><circle r=\"4\" fill=\"#fff\"><animateMotion path=\"M100,90 L108,45\" dur=\"2.5s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;0\" dur=\"2.5s\" repeatCount=\"indefinite\"/></circle><text x=\"92\" y=\"58\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">stoom ontsnapt</text><circle cx=\"235\" cy=\"110\" r=\"3\" fill=\"#06d6a0\"><animateMotion path=\"M0,0 L6,-4 L-4,3 Z\" dur=\"1.0s\" repeatCount=\"indefinite\"/></circle><circle cx=\"260\" cy=\"105\" r=\"3\" fill=\"#06d6a0\"><animateMotion path=\"M0,0 L6,-4 L-4,3 Z\" dur=\"1.3s\" repeatCount=\"indefinite\"/></circle><circle cx=\"285\" cy=\"112\" r=\"3\" fill=\"#06d6a0\"><animateMotion path=\"M0,0 L6,-4 L-4,3 Z\" dur=\"1.6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"248\" cy=\"155\" r=\"3\" fill=\"#06d6a0\"><animateMotion path=\"M0,0 L6,-4 L-4,3 Z\" dur=\"1.9s\" repeatCount=\"indefinite\"/></circle><circle cx=\"275\" cy=\"150\" r=\"3\" fill=\"#06d6a0\"><animateMotion path=\"M0,0 L6,-4 L-4,3 Z\" dur=\"2.2s\" repeatCount=\"indefinite\"/></circle><text x=\"260\" y=\"66\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">stoom blijft binnen</text><text x=\"180\" y=\"212\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">~1 bar overdruk</text></svg>",
+   "quiz": {
+    "q": "Waarom gaart eten sneller in een snelkookpan?",
+    "o": [
+     "De hogere druk laat water pas koken rond 120 °C",
+     "De stoom wordt in de pan gerecycleerd tot elektriciteit",
+     "Het metaal van de pan is dikker en geleidt beter"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "HyperPhysics: Pressure cooker",
+     "u": "https://hyperphysics.gsu.edu/hbase/thermo/precook.html"
+    },
+    {
+     "t": "Modernist Cuisine: how pressure cookers work",
+     "u": "https://modernistcuisine.com/mc/how-pressure-cookers-work/"
+    },
+    {
+     "t": "Linda Hall Library: Denis Papin",
+     "u": "https://www.lindahall.org/denis-papin/"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  }
+ ],
  "dives": [
   {
    "id": "2026-11-20",
