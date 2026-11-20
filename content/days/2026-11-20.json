@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T05:44:13Z",
+ "updated": "2026-11-20T05:45:09Z",
  "cards": [
   {
    "cat": "taal",
@@ -313,6 +313,322 @@
     {
      "t": "Linda Hall Library: Denis Papin",
      "u": "https://www.lindahall.org/denis-papin/"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Continenten schuiven zo snel als je nagels groeien",
+   "body": "Europa en Noord-Amerika drijven elk jaar enkele centimeters uit elkaar. De Amerikaanse geologische dienst USGS vergelijkt het tempo van aardplaten met dat van groeiende vingernagels, zo'n 3,5 millimeter per maand. Klinkt traag, maar aan 2,5 centimeter per jaar is de Atlantische Oceaan sinds Columbus in 1492 overstak ruwweg dertien meter breder geworden.",
+   "take": "Kijk naar je nagel: wat die dit jaar groeit, ligt in dezelfde orde als de verschuiving van de oceaanbodem.",
+   "deep": "## Hoe het werkt\n\nDe buitenste laag van de aarde is geen gesloten schil, maar een puzzel van grote, stijve platen. Ze drijven op de mantel eronder, die over miljoenen jaren heel traag kan vloeien.\n\nMidden in de Atlantische Oceaan loopt van noord naar zuid een onderzeese bergrug: de Mid-Atlantische Rug. Daar wijken de Noord-Amerikaanse en de Euraziatische plaat uit elkaar. In de spleet stijgt heet gesteente uit de mantel op, het stolt en vormt nieuwe oceaanbodem. Zo schuift de bodem aan beide kanten als twee lopende banden weg van de rug, en de continenten schuiven mee.\n\n## Een voorbeeld\n\nStel dat je nagel in een jaar zo'n 4 centimeter groeit: 3,47 millimeter per maand is het gemiddelde dat dermatologen in 2010 bij jonge volwassenen maten. De Mid-Atlantische Rug spreidt volgens schattingen gemiddeld zo'n 2,5 centimeter per jaar, en het Amerikaanse oceaanagentschap NOAA noemt 2 tot 5 centimeter. Reken je met 2,5 centimeter terug tot 1492, dan ligt Amerika vandaag ongeveer dertien meter verder van Europa dan toen Columbus vertrok. Een mensenleven merk je daar niets van, maar over 100 miljoen jaar worden het duizenden kilometers.\n\n## Wat onderzoek zegt\n\nDe Duitse wetenschapper Alfred Wegener stelde in 1912 al voor dat continenten bewegen. Zijn collega's verwierpen dat, vooral omdat hij niet kon uitleggen welke kracht ze zou verplaatsen. Pas begin jaren 1960 bracht het idee van zeebodemspreiding de ontbrekende schakel: magnetische strepen in de oceaanbodem bleken aan beide kanten van de rug elkaars spiegelbeeld. In 1966 smeedde de Canadees John Tuzo Wilson alles samen tot de theorie van de platentektoniek. Vandaag meten gps-stations de beweging rechtstreeks, tot op een fractie van een millimeter per jaar.\n\n## Nuance of misverstand\n\nNiet elke plaat beweegt even snel of in dezelfde richting. De Atlantische rug is een trage spreider; elders, zoals in de Stille Oceaan, gaat het een stuk sneller. De nagelvergelijking is dus een gemiddelde, geen vaste regel. En platen schuiven niet alleen uit elkaar: elders botsen ze of duiken ze onder elkaar, wat bergen, vulkanen en aardbevingen oplevert.\n\n## Wat je ermee doet\n\nGebruik de nagel als ezelsbruggetje om geologische tijd te snappen: piepkleine stapjes, maar extreem lang volgehouden. Wie later in IJsland staat, waar de rug boven water komt, kan letterlijk met één voet op elke plaat staan en weet dat die twee voeten elk jaar een tikje verder uit elkaar staan.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Zeebodem groeit in het midden aan</text><path d=\"M20,150 L340,150\" stroke=\"#ff6b9d\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><g><rect x=\"30\" y=\"110\" width=\"140\" height=\"30\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"100\" y=\"130\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Amerika</text><animateTransform attributeName=\"transform\" type=\"translate\" values=\"0,0;-14,0;0,0\" dur=\"6s\" repeatCount=\"indefinite\"/></g><g><rect x=\"190\" y=\"110\" width=\"140\" height=\"30\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"260\" y=\"130\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Europa</text><animateTransform attributeName=\"transform\" type=\"translate\" values=\"0,0;14,0;0,0\" dur=\"6s\" repeatCount=\"indefinite\"/></g><path d=\"M180,190 L180,118\" stroke=\"#ffd166\" stroke-width=\"3\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"24;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><line x1=\"150\" y1=\"80\" x2=\"110\" y2=\"80\" stroke=\"#06d6a0\" stroke-width=\"2\"/><path d=\"M112,75 L104,80 L112,85 Z\" fill=\"#06d6a0\"/><line x1=\"210\" y1=\"80\" x2=\"250\" y2=\"80\" stroke=\"#06d6a0\" stroke-width=\"2\"/><path d=\"M248,75 L256,80 L248,85 Z\" fill=\"#06d6a0\"/><text x=\"180\" y=\"62\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">2 à 5 cm per jaar</text><text x=\"180\" y=\"206\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">magma stijgt op en vormt nieuwe bodem</text><text x=\"70\" y=\"175\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">mantel</text></svg>",
+   "quiz": {
+    "q": "Wat gebeurt er bij de Mid-Atlantische Rug?",
+    "o": [
+     "Twee platen botsen en vormen hoge bergen",
+     "Platen wijken uiteen en er ontstaat nieuwe oceaanbodem",
+     "De oceaanbodem zakt weg in de mantel"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "USGS: hoe snel bewegen platen?",
+     "u": "https://www.usgs.gov/faqs/how-fast-do-tectonic-plates-move"
+    },
+    {
+     "t": "NOAA Ocean Exploration: mid-oceanic ridge",
+     "u": "https://oceanexplorer.noaa.gov/facts/mid-ocean-ridge.html"
+    },
+    {
+     "t": "PubMed: groeisnelheid van nagels (2010)",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/19744178/"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Gekookt vlees wordt nooit bruin: water houdt het tegen",
+   "body": "Het bruine korstje op biefstuk, brood en friet komt van de maillardreactie: suikers en aminozuren reageren en vormen een hele reeks geur- en smaakstoffen. Die reactie gaat pas echt snel boven ongeveer 140 °C. Zolang een oppervlak nat is, blijft het rond 100 °C hangen. Daarom bruint vlees in de pan wel, en in de soep niet.",
+   "take": "Dep vlees en groenten droog met keukenpapier voor ze de pan in gaan: zo bruinen ze sneller en mooier.",
+   "deep": "## Hoe het werkt\n\nIn vlees, aardappelen en deeg zitten eiwitten, met aminozuren als bouwstenen, en zogenaamde reducerende suikers. Bij hoge temperatuur koppelt een suikermolecule aan een aminozuur. Daarna volgt een kettingreactie met een hele reeks tussenstappen en eindigt bij bruine pigmenten en een hele waaier aan aroma's: geroosterd, nootachtig, vlezig.\n\nDe sleutel is temperatuur. Water kan bij normale luchtdruk niet heter worden dan 100 °C. Zolang het oppervlak van je biefstuk nat is, gaat alle extra warmte naar verdamping. Pas als het oppervlak opdroogt, kan het verder opwarmen tot de zone waarin de maillardreactie op stoom komt, grofweg 140 tot 165 °C.\n\n## Een voorbeeld\n\nLeg een stuk rundvlees in een pot soep en het wordt grijs, nooit bruin. Bak hetzelfde vlees in hete boter en er ontstaat binnen enkele minuten een korst. Dezelfde logica geldt voor friet: in de frituur verdampt het water aan de buitenkant, het oppervlak wordt heter dan 100 °C en kleurt. Ook de korst van een bruin brood en de geur van gebrande koffie zijn maillardwerk.\n\n## Wat onderzoek zegt\n\nDe Franse arts en scheikundige Louis-Camille Maillard beschreef de reactie tussen aminozuren en suikers in 1912, toen hij eigenlijk onderzocht hoe eiwitten in het lichaam worden opgebouwd. Voedingswetenschappers ontdekten later een keerzijde: bij het bakken van zetmeelrijke producten op hoge temperatuur ontstaat ook acrylamide, een stof die mogelijk kankerverwekkend is. De Europese voedselautoriteit EFSA adviseert daarom licht te bakken in plaats van donker. Een Europese verordening uit 2017 vraagt frituren om aardappelen te bakken tussen 160 en 175 °C en tot ze goudgeel zijn.\n\n## Nuance of misverstand\n\nDe maillardreactie is geen karamelisatie. Bij karamelisatie ontbinden suikers op zichzelf door hitte, zonder eiwitten, en dat gebeurt pas bij hogere temperaturen. En bruin is niet hetzelfde als zwart: boven ongeveer 180 °C neemt verbranding het over, met bittere, verkoolde smaken.\n\n## Wat je ermee doet\n\nWil je een mooie korst, haal dan vocht weg: dep vlees droog, laat de pan goed heet worden en leg er niet te veel stukken tegelijk in, want dan koelt alles af en gaat het stoven. Bij friet en geroosterd brood mik je net andersom op goudgeel in plaats van donkerbruin, en laat je verbrande randjes liggen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Oppervlaktetemperatuur in de pan</text><rect x=\"60\" y=\"40\" width=\"24\" height=\"150\" rx=\"12\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"66\" y=\"120\" width=\"12\" height=\"64\" fill=\"#ff6b9d\"><animate attributeName=\"y\" values=\"120;120;60;60;120\" keyTimes=\"0;0.35;0.65;0.9;1\" dur=\"8s\" repeatCount=\"indefinite\"/><animate attributeName=\"height\" values=\"64;64;124;124;64\" keyTimes=\"0;0.35;0.65;0.9;1\" dur=\"8s\" repeatCount=\"indefinite\"/></rect><line x1=\"92\" y1=\"120\" x2=\"110\" y2=\"120\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"116\" y=\"124\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">100 °C: zolang er water is</text><line x1=\"92\" y1=\"70\" x2=\"110\" y2=\"70\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"116\" y=\"74\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">140 °C+: maillard</text><rect x=\"250\" y=\"130\" width=\"80\" height=\"34\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"250\" y=\"130\" width=\"80\" height=\"34\" rx=\"8\" fill=\"#ffd166\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;0.8;0.8;0\" keyTimes=\"0;0.45;0.7;0.9;1\" dur=\"8s\" repeatCount=\"indefinite\"/></rect><text x=\"290\" y=\"184\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">korstje</text><circle cx=\"270\" cy=\"120\" r=\"3\" fill=\"#06d6a0\"><animateMotion path=\"M0,0 L0,-50\" dur=\"2s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;0\" dur=\"2s\" repeatCount=\"indefinite\"/></circle><circle cx=\"310\" cy=\"120\" r=\"3\" fill=\"#06d6a0\"><animateMotion path=\"M0,0 L0,-50\" dur=\"2s\" begin=\"1s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;0\" dur=\"2s\" begin=\"1s\" repeatCount=\"indefinite\"/></circle><text x=\"290\" y=\"58\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">water verdampt</text><text x=\"180\" y=\"210\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">droog oppervlak = heter = bruin</text></svg>",
+   "quiz": {
+    "q": "Waarom wordt vlees dat in soep gaart niet bruin?",
+    "o": [
+     "Omdat zout de reactie blokkeert",
+     "Omdat er te weinig suiker in vlees zit",
+     "Omdat het nat oppervlak niet veel heter wordt dan 100 °C"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Modernist Cuisine: the Maillard reaction",
+     "u": "https://modernistcuisine.com/mc/the-maillard-reaction/"
+    },
+    {
+     "t": "EFSA: acrylamide in voeding",
+     "u": "https://www.efsa.europa.eu/en/discover/infographics/acrylamide-food"
+    },
+    {
+     "t": "Alimentarium: de maillardreactie",
+     "u": "https://www.alimentarium.org/en/knowledge/maillard-reaction"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Een boom haalt zijn hout grotendeels uit de lucht",
+   "body": "De Brusselse arts Jan Baptist van Helmont plantte een wilgentakje van 5 pond in 200 pond gedroogde aarde. Na vijf jaar alleen water geven woog de wilg ruim 169 pond, terwijl de aarde nauwelijks 2 ounce (zo'n 57 gram) lichter was. Hij besloot dat hout uit water komt. Nu weten we: vooral uit koolstofdioxide in de lucht.",
+   "take": "Stook je hout in de kachel? Dan stuur je koolstof die de boom ooit uit de lucht haalde gewoon terug als CO2.",
+   "deep": "## Hoe het werkt\n\nEen plant maakt zijn eigen bouwstof via fotosynthese. Bladeren nemen koolstofdioxide op uit de lucht via kleine huidmondjes. De wortels zuigen water op. Met de energie van zonlicht zet de plant die twee om in suikers, en geeft daarbij zuurstof af.\n\nDie suikers zijn het startmateriaal voor alles: cellulose en lignine in het hout, de bladeren, de wortels. De koolstof en een groot deel van de zuurstof in die stoffen komen uit de CO2, de waterstof komt uit het water. De bodem levert vooral water en kleine hoeveelheden mineralen zoals stikstof, fosfor en kalium.\n\n## Een voorbeeld\n\nKijk naar een volwassen beuk in het Zoniënwoud. Die weegt vele tonnen, maar rond de stam ligt geen krater waar al die grond verdwenen is. Bijna al die massa is in de loop van decennia letterlijk uit de lucht geplukt, molecule per molecule. Het Zoniënwoud ligt trouwens vlak bij het Brussel waar Van Helmont in 1580 geboren werd.\n\n## Wat onderzoek zegt\n\nVan Helmont leefde van 1580 tot 1644 en stierf in Vilvoorde. Zijn wilgenproef werd pas na zijn dood gepubliceerd. Het was een van de eerste biologische experimenten waarbij iemand zorgvuldig woog voor en na. Zijn conclusie, dat het hout uit water kwam, was fout: hij wist nog niet dat lucht een mengsel van gassen is waaruit planten iets opnemen. Ironisch genoeg bedacht hij zelf het woord gas, naar het Griekse chaos, en beschreef hij het gas dat vrijkomt bij brandend houtskool, dat we nu CO2 noemen. Volgens de Amerikaanse Michigan State University maken koolstof en zuurstof uit CO2 vandaag ongeveer negentig procent van het droge gewicht van de meeste planten uit.\n\n## Nuance of misverstand\n\nWilgen groeien niet uit lucht alleen. Zonder water en zonder die kleine hoeveelheid mineralen uit de bodem lukt het niet, en die mineralen kunnen de groei wel degelijk beperken. Sommige historici twijfelen er ook aan of Van Helmont de proef echt precies zo uitvoerde of vooral als gedachte-experiment beschreef. De kern blijft overeind: de massa komt niet uit de aarde.\n\n## Wat je ermee doet\n\nOnthoud dit als je hoort dat bossen koolstof opslaan: dat is geen beeldspraak. Elke kilo droog hout is grotendeels vastgelegde CO2. Plant je een boom, dan bouw je in feite een opslagplaats voor koolstof uit de lucht. Verbrand of verteer je dat hout, dan komt die koolstof weer vrij.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Waar komt het hout vandaan?</text><rect x=\"172\" y=\"110\" width=\"16\" height=\"60\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"180\" cy=\"90\" r=\"40\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><rect x=\"120\" y=\"170\" width=\"120\" height=\"30\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">aarde: −57 g</text><circle r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M30,50 L150,90\" dur=\"3s\" begin=\"0s\" repeatCount=\"indefinite\"/></circle><circle r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M30,100 L150,90\" dur=\"3s\" begin=\"1s\" repeatCount=\"indefinite\"/></circle><circle r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M330,50 L210,90\" dur=\"3s\" begin=\"0.5s\" repeatCount=\"indefinite\"/></circle><circle r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M330,100 L210,90\" dur=\"3s\" begin=\"1.5s\" repeatCount=\"indefinite\"/></circle><text x=\"45\" y=\"140\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">CO2 uit</text><text x=\"45\" y=\"155\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">de lucht</text><text x=\"315\" y=\"140\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">± 90% van</text><text x=\"315\" y=\"155\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">droog gewicht</text><circle r=\"3\" fill=\"#06d6a0\"><animateMotion path=\"M180,195 L180,115\" dur=\"2.5s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"213\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">water uit de grond levert waterstof</text></svg>",
+   "quiz": {
+    "q": "Waar komt het grootste deel van het droge gewicht van een boom vandaan?",
+    "o": [
+     "Uit koolstofdioxide in de lucht",
+     "Uit de aarde rond de wortels",
+     "Uit mest en bladafval"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "MSU Extension: wat eten bomen?",
+     "u": "https://www.canr.msu.edu/news/what-do-trees-eat-to-grow-so-big"
+    },
+    {
+     "t": "CSB/SJU: Van Helmonts wilgproef",
+     "u": "https://employees.csbsju.edu/SSAUPE/biol115/van_helmont.htm"
+    },
+    {
+     "t": "Encyclopedia.com: Jan Baptista van Helmont",
+     "u": "https://www.encyclopedia.com/people/science-and-technology/chemistry-biographies/jan-baptista-van-helmont"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Waarom de lucht blauw is en niet paars",
+   "body": "Zonlicht bevat alle kleuren. Stikstof- en zuurstofmoleculen zijn veel kleiner dan een lichtgolf en verstrooien kortgolvig licht veel sterker: blauw licht van 450 nanometer ongeveer vier keer zo sterk als rood van 650 nanometer. Dat verstrooide blauw komt van alle kanten op je af. Violet verstrooit nog meer, maar daar zijn je ogen minder gevoelig voor.",
+   "take": "Vuurrode zonsondergang? Het licht reist dan door veel meer lucht, waardoor het blauw onderweg al is weggestrooid.",
+   "deep": "## Hoe het werkt\n\nLicht is een golf, en elke kleur heeft een eigen golflengte: violet en blauw kort, rood lang. Als zonlicht door de atmosfeer gaat, botst het op moleculen die veel kleiner zijn dan die golflengtes. Zo'n molecule vangt een beetje licht op en straalt het in alle richtingen weer uit. Dat heet rayleighverstrooiing.\n\nDe sterkte hangt af van de golflengte tot de vierde macht. Een kleine verkorting van de golf geeft dus een grote toename. Daardoor wordt blauw veel vaker opzij gestuurd dan rood. Kijk je weg van de zon, dan zie je dat opzij gestuurde licht: de hele hemel lijkt te gloeien in blauw.\n\n## Een voorbeeld\n\nSta op een heldere avond op het strand van De Panne en kijk naar het westen. Als de zon laag staat, moet haar licht een veel langere weg door de lucht afleggen voor het je ogen bereikt. Onderweg is het meeste blauw al weggestrooid, dus wat overblijft is oranje en rood. Stof en waterdamp kunnen dat effect nog versterken. Recht boven je hoofd is de hemel op hetzelfde moment vaak nog blauw.\n\n## Wat onderzoek zegt\n\nDe Britse natuurkundige Lord Rayleigh werkte de theorie in de tweede helft van de 19e eeuw uit. Natuurkundigen van onder meer de University of New South Wales rekenen het voor: vergelijk je blauw van 450 nanometer met rood van 650, dan geeft de vierde macht van die verhouding ongeveer 4,3 keer meer verstrooiing voor blauw. Violet, met een nog kortere golflengte, wordt zelfs het sterkst verstrooid.\n\n## Nuance of misverstand\n\nWaarom zien we dan geen paarse lucht? Zonlicht bevat minder violet dan blauw, een deel ervan wordt hoog in de atmosfeer geabsorbeerd, en onze ogen reageren er zwak op. De mix die bij je netvlies aankomt, ervaren je hersenen als lichtblauw. En nee, de lucht weerspiegelt niet de kleur van de zee: het is net andersom, het water weerkaatst onder meer de hemel. Wolken zijn wit omdat waterdruppels veel groter zijn dan moleculen en alle kleuren ongeveer even sterk verstrooien.\n\n## Wat je ermee doet\n\nGebruik het als je met kinderen naar de hemel kijkt: blauw overdag, rood bij zonsondergang, en wit bij wolken hebben dezelfde oorzaak, gewoon met andere afstanden en deeltjes. Wie foto's maakt, weet nu ook waarom een polarisatiefilter de lucht dieper blauw kan maken: verstrooid licht is deels gepolariseerd.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Kort golflicht verstrooit het meest</text><circle cx=\"40\" cy=\"70\" r=\"20\" fill=\"#ffd166\"/><line x1=\"60\" y1=\"80\" x2=\"320\" y2=\"170\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"6 5\"><animate attributeName=\"stroke-dashoffset\" values=\"22;0\" dur=\"1.2s\" repeatCount=\"indefinite\"/></line><circle cx=\"180\" cy=\"121\" r=\"7\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"104\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">molecule</text><circle r=\"3.5\" fill=\"#6fb7ff\"><animateMotion path=\"M180,121 L180,40\" dur=\"2.5s\" begin=\"0s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;0\" dur=\"2.5s\" begin=\"0s\" repeatCount=\"indefinite\"/></circle><circle r=\"3.5\" fill=\"#6fb7ff\"><animateMotion path=\"M180,121 L250,60\" dur=\"2.5s\" begin=\"0.6s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;0\" dur=\"2.5s\" begin=\"0.6s\" repeatCount=\"indefinite\"/></circle><circle r=\"3.5\" fill=\"#6fb7ff\"><animateMotion path=\"M180,121 L110,50\" dur=\"2.5s\" begin=\"1.2s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;0\" dur=\"2.5s\" begin=\"1.2s\" repeatCount=\"indefinite\"/></circle><circle r=\"3.5\" fill=\"#6fb7ff\"><animateMotion path=\"M180,121 L240,190\" dur=\"2.5s\" begin=\"1.8s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;0\" dur=\"2.5s\" begin=\"1.8s\" repeatCount=\"indefinite\"/></circle><circle r=\"3.5\" fill=\"#6fb7ff\"><animateMotion path=\"M180,121 L120,190\" dur=\"2.5s\" begin=\"0.3s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;0\" dur=\"2.5s\" begin=\"0.3s\" repeatCount=\"indefinite\"/></circle><circle r=\"4\" fill=\"#ff6b9d\"><animateMotion path=\"M180,121 L320,170\" dur=\"2.5s\" repeatCount=\"indefinite\"/></circle><text x=\"300\" y=\"150\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">rood: rechtdoor</text><text x=\"300\" y=\"60\" fill=\"#6fb7ff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">blauw: alle</text><text x=\"300\" y=\"74\" fill=\"#6fb7ff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">kanten op</text><text x=\"180\" y=\"212\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">450 nm verstrooit ± 4× sterker dan 650 nm</text></svg>",
+   "quiz": {
+    "q": "Waarom kleurt de hemel rood bij zonsondergang?",
+    "o": [
+     "Omdat de zon 's avonds afkoelt",
+     "Omdat de zee het rode licht weerkaatst",
+     "Omdat het licht een langere weg door de lucht aflegt en het blauw al is weggestrooid"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "UNSW Physics: colour of the sky",
+     "u": "https://animations.physics.unsw.edu.au/jw/light/colour-of-sky.htm"
+    },
+    {
+     "t": "NOAA SciJinks: why is the sky blue?",
+     "u": "https://scijinks.gov/blue-sky/"
+    },
+    {
+     "t": "Royal Museums Greenwich: why is the sky blue?",
+     "u": "https://www.rmg.co.uk/stories/topics/why-sky-blue"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Zeep scheurt het vetlaagje van een virus open",
+   "body": "Veel virussen, zoals het coronavirus, zitten in een vettig omhulsel. Een zeepmolecule heeft een kop die water zoekt en een staart die vet zoekt. Die staarten wurmen zich in het omhulsel en trekken het uit elkaar. De brokstukken belanden in zeepbolletjes en spoelen weg. De Amerikaanse gezondheidsdienst CDC adviseert minstens 20 seconden inzepen.",
+   "take": "Zeep ook tussen je vingers, rond je duimen en onder je nagels, en tel rustig tot twintig voor je afspoelt.",
+   "deep": "## Hoe het werkt\n\nEen virus als SARS-CoV-2 is een pakketje erfelijk materiaal met eiwitten, verpakt in een dun vetlaagje. Dat geheel wordt niet door sterke chemische bindingen samengehouden, maar door een netwerk van zwakke krachten, een beetje zoals klittenband.\n\nZeepmoleculen zijn tweeslachtig: de kop houdt van water, de lange staart van vet. In water vormen ze bolletjes, micellen, met de staarten naar binnen. Kom je met zeep in contact met een virus, dan duwen de staarten zich in het vetlaagje. Ze wrikken het open, de eiwitten waarmee het virus cellen binnendringt komen los, en het pakketje valt uit elkaar. Wat overblijft, wordt samen met vuil en vet in micellen gevangen, en omdat de buitenkant daarvan van water houdt, spoelt alles vlot weg.\n\n## Een voorbeeld\n\nJe komt thuis uit de tram en wast je handen. Spoel je ze vijf seconden onder de kraan, dan haal je vooral zichtbaar vuil weg. Pas als je stevig inzeept en wrijft, bereikt de zeep de plooitjes van je huid, de toppen van je vingers en de plekken rond je duimen, waar ziektekiemen zich graag verstoppen. Daarvoor heb je tijd en wrijving nodig.\n\n## Wat onderzoek zegt\n\nDe scheikundige Palli Thordarson uit Sydney legde in 2020 breed uit waarom zeep zo goed werkt tegen het coronavirus, en Yale School of Medicine beschreef hetzelfde mechanisme. De CDC raadt aan minstens 20 seconden met zeep te wassen. Handgel met minstens 60 procent alcohol tast het vetlaagje ook aan, maar spoelt geen vuil weg. De Amerikaanse geneesmiddelenwaakhond FDA besliste in 2016 dat fabrikanten niet hadden aangetoond dat antibacteriële huishoudzeep met stoffen als triclosan beter beschermt dan gewone zeep en water, en verbood 19 van die stoffen in consumentenzeep.\n\n## Nuance of misverstand\n\nZeep doodt een virus strikt genomen niet, omdat een virus niet echt leeft: het maakt het onwerkzaam. En niet elk virus heeft een vetlaagje. Het norovirus, bekend van buikgriep, heeft er geen. Daar is het afspoelen van de kiemen door wrijven en water extra belangrijk. Twintig seconden is een praktische richtlijn, geen exacte grens waarna alle virussen kapot zijn.\n\n## Wat je ermee doet\n\nGewone zeep volstaat, duur antibacterieel spul is niet nodig. Was vooral na het toilet, voor het koken en eten, en na het snuiten van je neus. Onderweg zonder kraan is handgel een goede tweede keus, maar bij zichtbaar vuile handen en bij buikgriep in huis kies je voor water en zeep.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Zeep wrikt het vetomhulsel open</text><circle cx=\"180\" cy=\"115\" r=\"34\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"4\" stroke-dasharray=\"40 8\"><animate attributeName=\"stroke-dasharray\" values=\"40 8;14 34;40 8\" dur=\"5s\" repeatCount=\"indefinite\"/></circle><circle cx=\"180\" cy=\"115\" r=\"16\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"119\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">RNA</text><g transform=\"translate(180,46) rotate(0)\"><line x1=\"0\" y1=\"0\" x2=\"0\" y2=\"22\" stroke=\"#ffd166\" stroke-width=\"2\"/><circle cx=\"0\" cy=\"0\" r=\"5\" fill=\"#06d6a0\"/><animateTransform attributeName=\"transform\" type=\"translate\" additive=\"sum\" values=\"0,0;0,10;0,10;0,0\" dur=\"5s\" begin=\"0s\" repeatCount=\"indefinite\"/></g><g transform=\"translate(249,115) rotate(90)\"><line x1=\"0\" y1=\"0\" x2=\"0\" y2=\"22\" stroke=\"#ffd166\" stroke-width=\"2\"/><circle cx=\"0\" cy=\"0\" r=\"5\" fill=\"#06d6a0\"/><animateTransform attributeName=\"transform\" type=\"translate\" additive=\"sum\" values=\"0,0;0,10;0,10;0,0\" dur=\"5s\" begin=\"0s\" repeatCount=\"indefinite\"/></g><g transform=\"translate(111,115) rotate(-90)\"><line x1=\"0\" y1=\"0\" x2=\"0\" y2=\"22\" stroke=\"#ffd166\" stroke-width=\"2\"/><circle cx=\"0\" cy=\"0\" r=\"5\" fill=\"#06d6a0\"/><animateTransform attributeName=\"transform\" type=\"translate\" additive=\"sum\" values=\"0,0;0,10;0,10;0,0\" dur=\"5s\" begin=\"0s\" repeatCount=\"indefinite\"/></g><g transform=\"translate(180,184) rotate(180)\"><line x1=\"0\" y1=\"0\" x2=\"0\" y2=\"22\" stroke=\"#ffd166\" stroke-width=\"2\"/><circle cx=\"0\" cy=\"0\" r=\"5\" fill=\"#06d6a0\"/><animateTransform attributeName=\"transform\" type=\"translate\" additive=\"sum\" values=\"0,0;0,10;0,10;0,0\" dur=\"5s\" begin=\"0s\" repeatCount=\"indefinite\"/></g><circle cx=\"40\" cy=\"60\" r=\"5\" fill=\"#06d6a0\"/><text x=\"52\" y=\"64\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">kop zoekt water</text><line x1=\"40\" y1=\"80\" x2=\"40\" y2=\"100\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"52\" y=\"94\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">staart zoekt vet</text><text x=\"300\" y=\"64\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">vetlaag</text><text x=\"180\" y=\"212\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">omhulsel kapot = virus onwerkzaam</text></svg>",
+   "quiz": {
+    "q": "Hoe maakt zeep een virus met een vetlaagje onschadelijk?",
+    "o": [
+     "Door het virus te bevriezen",
+     "Door het vettige omhulsel open te wrikken",
+     "Door de huid zuurder te maken"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Yale Medicine: why soap works",
+     "u": "https://medicine.yale.edu/news-article/why-soap-works"
+    },
+    {
+     "t": "World Economic Forum: Palli Thordarson over zeep",
+     "u": "https://www.weforum.org/agenda/2020/03/coronavirus-soap-covid-19-virus-hygiene"
+    },
+    {
+     "t": "FDA: antibacterial soap? You can skip it",
+     "u": "https://www.fda.gov/consumers/consumer-updates/antibacterial-soap-you-can-skip-it-use-plain-soap-and-water"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Je oren poetsen zichzelf, wattenstaafjes werken tegen",
+   "body": "Oorsmeer ontstaat alleen in het buitenste derde van je gehoorgang. De huid daar schuift heel langzaam naar buiten, als een loopband, en neemt het smeer mee. Kauwen en andere kaakbewegingen helpen een handje. Een wattenstaafje duwt een deel juist dieper naar binnen. De Amerikaanse vereniging van KNO-artsen raadt het daarom af.",
+   "take": "Was alleen je oorschelp en de ingang van je oor met een washandje. Wat dieper zit, laat je met rust.",
+   "deep": "## Hoe het werkt\n\nOorsmeer is een mengsel van afgeschilferde huidcellen en het vettige vocht van klieren in de huid van je gehoorgang. Die klieren zitten enkel in het buitenste deel, niet diep bij het trommelvlies. Het smeer houdt de huid soepel, vangt stof en kleine deeltjes op en beschermt tegen infecties.\n\nHet slimme zit in de beweging. De huid van je gehoorgang groeit vanaf het trommelvlies traag naar buiten, en het smeer lift mee. Bij elke kauw- of kaakbeweging wordt het nog wat verder naar de opening geduwd. Daar droogt het op, en valt het er in kleine schilfers vanzelf uit, vaak zonder dat je het merkt.\n\n## Een voorbeeld\n\nNa het douchen pak je een wattenstaafje. Aan de buitenkant komt wat geel smeer mee, dus het lijkt te werken. Maar het katoen duwt ook een deel naar binnen, voorbij de plek waar het smeer gevormd wordt. De gehoorgang heeft een vernauwing, en daar kan het samengeperst tot een prop. Wie dat jaren volhoudt, belandt soms bij de huisarts met een dof gevoel in het oor.\n\n## Wat onderzoek zegt\n\nDe American Academy of Otolaryngology, de Amerikaanse beroepsvereniging van keel-, neus- en oorartsen, publiceerde in 2017 een bijgewerkte richtlijn over oorsmeerproppen. Die noemt oorsmeer zelfreinigend en geholpen door kaakbewegingen, en raadt patiënten af om wattenstaafjes of andere kleine voorwerpen in de gehoorgang te steken. Overdreven poetsen kan de huid irriteren, infecties uitlokken en de kans op een prop zelfs vergroten. Ook oorkaarsen raadt de richtlijn uitdrukkelijk af.\n\n## Nuance of misverstand\n\nBij sommige mensen werkt het loopbandje minder goed, bijvoorbeeld bij wie een hoorapparaat of vaak oordopjes draagt, of bij huidaandoeningen zoals eczeem. Zij hebben echt meer kans op een prop. Dat los je niet op met een wattenstaafje, maar met oorsmeer verwekende druppels of een spoeling bij de huisarts. Een wattenstaafje te diep steken kan bovendien het trommelvlies beschadigen.\n\n## Wat je ermee doet\n\nGebruik wattenstaafjes hooguit voor de plooien van je oorschelp. Heb je een verstopt gevoel, minder gehoor of pijn, ga dan naar je huisarts in plaats van zelf te graven. En leer kinderen al vroeg dat hun oren hun eigen schoonmaakdienst hebben.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">De gehoorgang als loopband</text><path d=\"M30,90 L250,100 L320,108\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M30,150 L250,140 L320,132\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"322\" y1=\"100\" x2=\"322\" y2=\"140\" stroke=\"#ff6b9d\" stroke-width=\"4\"/><text x=\"322\" y=\"165\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">trommelvlies</text><rect x=\"30\" y=\"80\" width=\"90\" height=\"80\" fill=\"#ffd166\" opacity=\"0.15\"/><text x=\"75\" y=\"185\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">hier ontstaat smeer</text><circle r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M250,104 L20,104\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/></circle><circle r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M250,136 L20,136\" dur=\"6s\" begin=\"2s\" repeatCount=\"indefinite\"/></circle><circle r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M250,120 L20,120\" dur=\"6s\" begin=\"4s\" repeatCount=\"indefinite\"/></circle><line x1=\"200\" y1=\"60\" x2=\"120\" y2=\"60\" stroke=\"#06d6a0\" stroke-width=\"2\"/><path d=\"M122,55 L114,60 L122,65 Z\" fill=\"#06d6a0\"/><text x=\"160\" y=\"50\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">huid schuift naar buiten</text><text x=\"40\" y=\"74\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">uitgang</text><text x=\"180\" y=\"210\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">wattenstaafje duwt smeer juist naar binnen</text></svg>",
+   "quiz": {
+    "q": "Wat helpt oorsmeer vanzelf naar buiten te bewegen?",
+    "o": [
+     "Kaakbewegingen en huid die naar buiten groeit",
+     "Het water van de douche",
+     "Dagelijks poetsen met een wattenstaafje"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "PubMed: richtlijn oorsmeerproppen (AAO-HNSF, 2017)",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/28045591/"
+    },
+    {
+     "t": "AAFP: samenvatting van de richtlijn",
+     "u": "https://www.aafp.org/pubs/afp/issues/2017/0815/p263.html"
+    },
+    {
+     "t": "UTHealth Houston: earwax",
+     "u": "https://med.uth.edu/orl/2020/01/09/earwax-cerumen-impaction/"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Wagenziek door een ruzie tussen je ogen en oren",
+   "body": "Lees je achterin de auto, dan zeggen je ogen dat je stilstaat, terwijl het evenwichtsorgaan in je binnenoor bochten en remmen voelt. Volgens de meest aanvaarde verklaring brengt dat conflict je brein in de war, met misselijkheid tot gevolg. Kinderen tussen 2 en 12 jaar zijn er extra gevoelig voor. De chauffeur heeft er zelden last van.",
+   "take": "Laat wie snel wagenziek wordt vooraan zitten en naar de horizon kijken, niet naar een scherm of boek.",
+   "deep": "## Hoe het werkt\n\nJe brein bepaalt hoe je beweegt met informatie uit verschillende zintuigen. Je ogen zien de omgeving voorbijgaan. Je evenwichtsorgaan in het binnenoor, een stelsel van met vocht gevulde kanaaltjes, registreert versnellen, remmen en draaien. Je spieren en gewrichten melden hoe je lichaam zit.\n\nNormaal vertellen die bronnen hetzelfde verhaal. Kijk je in een rijdende auto naar je telefoon, dan zien je ogen een stilstaand beeld, terwijl je binnenoor elke bocht voelt. Volgens de theorie van het zintuiglijk conflict kan je brein die tegenstrijdige signalen niet goed rijmen. Het reageert met een stressreactie: geeuwen, zweten, bleek worden, misselijkheid en soms braken.\n\n## Een voorbeeld\n\nEen gezin rijdt op vakantie door de bochtige wegen van de Ardennen. Achterin speelt een kind van zeven een spelletje op de tablet. Na twintig minuten wordt het stil en bleek. Mama aan het stuur voelt niets: wie rijdt, ziet de bochten aankomen en beweegt er zelf mee. Nog een factor: wie al eens misselijk werd in de auto, kan bij de volgende rit sneller klachten krijgen, gewoon omdat hij het verwacht.\n\n## Wat onderzoek zegt\n\nDe afdeling KNO van Stanford Medicine beschrijft wagenziekte als een conflict tussen wat het binnenoor waarneemt en wat de ogen zien, en noemt vooruit kijken, de horizon in het oog houden en frisse lucht als nuttige strategieën. De Australische gezondheidsdienst Better Health Channel meldt dat kinderen tussen 2 en 12 jaar bijzonder vatbaar zijn, en dat bewegingsziekte zelden optreedt bij wie de beweging zelf stuurt, zoals een chauffeur. Heel jonge kinderen hebben er doorgaans minder last van, en de meeste kinderen worden minder gevoelig naarmate ze ouder worden.\n\n## Nuance of misverstand\n\nHet conflictidee is breed aanvaard, maar niet volledig bewezen. Waarom het brein net met misselijkheid reageert en niet met iets anders, weten onderzoekers niet zeker. Er bestaan ook andere theorieën, bijvoorbeeld over hoe stabiel je je lichaamshouding kunt houden. Medicijnen tegen misselijkheid dempen de klachten, maar nemen het conflict zelf niet weg. Voor kinderen overleg je daarover best eerst met de apotheker of huisarts.\n\n## Wat je ermee doet\n\nZet een gevoelig kind waar het naar buiten kan kijken, liefst naar een vast punt in de verte. Vermijd lezen en schermen, zorg voor frisse lucht en plan pauzes op bochtige trajecten. Ben je zelf de gevoelige passagier, vraag dan of je eens mag rijden: wie stuurt, voelt de bochten op voorhand aankomen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Twee zintuigen, twee verhalen</text><ellipse cx=\"60\" cy=\"70\" rx=\"24\" ry=\"14\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"70\" r=\"6\" fill=\"#fff\"/><text x=\"60\" y=\"104\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ogen: stilstand</text><path d=\"M50,150 Q50,130 66,132 Q80,134 76,150 Q72,164 60,170\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"60\" y=\"192\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">binnenoor: bochten</text><circle cx=\"270\" cy=\"115\" r=\"32\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"r\" values=\"30;35;30\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><text x=\"270\" y=\"119\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">brein</text><path d=\"M90,72 L234,108\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"24;0\" dur=\"2s\" repeatCount=\"indefinite\"/></path><path d=\"M88,150 Q130,120 160,150 T234,124\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"24;0\" dur=\"1s\" repeatCount=\"indefinite\"/></path><text x=\"270\" y=\"170\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">conflict =</text><text x=\"270\" y=\"186\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">misselijk</text></svg>",
+   "quiz": {
+    "q": "Waarom wordt een chauffeur zelden wagenziek?",
+    "o": [
+     "Omdat chauffeurs een sterkere maag hebben",
+     "Omdat de voorstoel minder schokt",
+     "Omdat hij de beweging zelf stuurt en de bochten ziet aankomen"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Stanford Medicine: motion sickness",
+     "u": "https://med.stanford.edu/ohns/OHNS-healthcare/earinstitute/conditions-we-treat/motion-sickness.html"
+    },
+    {
+     "t": "Better Health Channel: motion sickness",
+     "u": "https://www.betterhealth.vic.gov.au/health/healthyliving/motion-sickness"
+    },
+    {
+     "t": "Scientific American: wat veroorzaakt reisziekte",
+     "u": "https://www.scientificamerican.com/article/heres-what-causes-motion-sickness/"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Woensdag en donderdag zijn vernoemd naar Germaanse goden",
+   "body": "De Romeinen noemden hun weekdagen naar goden en planeten: dies Mercurii, dies Iovis, dies Veneris. Germaanse volkeren vertaalden die namen met hun eigen goden. Mercurius werd Wodan, dus woensdag. Jupiter werd de dondergod Donar, dus donderdag. Venus werd Frija of Freya: vrijdag. Zaterdag hield gewoon de Romeinse Saturnus.",
+   "take": "Leer je Frans? In mercredi en jeudi zitten Mercurius en Jupiter, dezelfde dagen als woensdag en donderdag.",
+   "deep": "## Hoe het werkt\n\nDe zevendaagse week met een naam per dag kwam via de Romeinen naar onze streken. Elke dag hoorde bij een hemellichaam dat ook een god was: zon, maan, Mars, Mercurius, Jupiter, Venus en Saturnus.\n\nToen Germaanse volkeren die week overnamen, vertaalden ze niet letterlijk. Ze zochten bij elke Romeinse god de eigen god die er het meest op leek. Wodan, de reizende god van wijsheid en de doden, paste bij Mercurius, de gevleugelde boodschapper. Donar, de god van de donder, paste bij Jupiter met zijn bliksem. De godin van liefde en vruchtbaarheid paste bij Venus. Voor Saturnus vonden ze kennelijk geen goede tegenhanger, dus die bleef staan: zaterdag. Zondag en maandag waren gewoon de dagen van zon en maan.\n\n## Een voorbeeld\n\nVergelijk de weekdagen in het Nederlands, Engels en Frans. Woensdag, Wednesday en mercredi: twee keer Wodan of Woden, één keer Mercurius. Donderdag, Thursday en jeudi: Donar, Thor en Jupiter. Vrijdag, Friday en vendredi: twee keer de Germaanse godin, één keer Venus. Zo zit er in elke Brusselse kalender met twee talen een stukje Romeinse en Germaanse mythologie naast elkaar.\n\n## Wat onderzoek zegt\n\nTaalkundigen noemen dit interpretatio germanica: Germaanse goden die gelijkgesteld werden aan Romeinse. In een stuk voor The Conversation legt de mediëviste Margaret Clunies Ross uit dat Woden aan Mercurius gekoppeld werd, wellicht omdat beide goden welsprekend waren, veel reisden en de doden begeleidden. Ze wijst er ook op dat de Latijnse namen en hun goden voortleven in de Romaanse talen, zoals Frans, Spaans en Italiaans. Voor dinsdag is er een opvallende vondst: een altaar uit de derde eeuw bij de Muur van Hadrianus, gewijd aan Mars Thingsus. Veel taalkundigen zien in die Thingsus de god achter dinsdag.\n\n## Nuance of misverstand\n\nNiet alles is even zeker. Bij vrijdag discussiëren historici of het om Frija, de vrouw van Wodan, of om Freya gaat; de twee godinnen zijn mogelijk door elkaar gaan lopen. Bij dinsdag is het onduidelijk of het eerste deel van Thingsus komt, van de oorlogsgod Tiw, of van het oude woord ding voor een volksvergadering. Het Engelse Tuesday verwijst wel duidelijk naar Tiw.\n\n## Wat je ermee doet\n\nGebruik het als geheugensteun bij vreemde talen: zoek de god en je vindt de dag. Mars zit in martes en mardi, Jupiter in jueves en jeudi. En de volgende keer dat het op donderdag onweert, weet je dat de dag al eeuwenlang naar de dondergod heet.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"90\" y=\"22\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Romeins</text><text x=\"270\" y=\"22\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Germaans</text><g opacity=\"0.35\"><animate attributeName=\"opacity\" values=\"0.35;1;1;0.35\" keyTimes=\"0;0.1;0.25;0.35\" dur=\"8s\" begin=\"0s\" repeatCount=\"indefinite\"/><text x=\"90\" y=\"52\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">dies Martis</text><text x=\"90\" y=\"66\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Mars</text><line x1=\"160\" y1=\"52\" x2=\"196\" y2=\"52\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M194,47 L202,52 L194,57 Z\" fill=\"#fff\"/><text x=\"270\" y=\"52\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">dinsdag</text><text x=\"270\" y=\"66\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Thingsus/Tiw?</text></g><g opacity=\"0.35\"><animate attributeName=\"opacity\" values=\"0.35;1;1;0.35\" keyTimes=\"0;0.1;0.25;0.35\" dur=\"8s\" begin=\"2s\" repeatCount=\"indefinite\"/><text x=\"90\" y=\"94\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">dies Mercurii</text><text x=\"90\" y=\"108\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Mercurius</text><line x1=\"160\" y1=\"94\" x2=\"196\" y2=\"94\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M194,89 L202,94 L194,99 Z\" fill=\"#fff\"/><text x=\"270\" y=\"94\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">woensdag</text><text x=\"270\" y=\"108\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Wodan</text></g><g opacity=\"0.35\"><animate attributeName=\"opacity\" values=\"0.35;1;1;0.35\" keyTimes=\"0;0.1;0.25;0.35\" dur=\"8s\" begin=\"4s\" repeatCount=\"indefinite\"/><text x=\"90\" y=\"136\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">dies Iovis</text><text x=\"90\" y=\"150\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Jupiter</text><line x1=\"160\" y1=\"136\" x2=\"196\" y2=\"136\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M194,131 L202,136 L194,141 Z\" fill=\"#fff\"/><text x=\"270\" y=\"136\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">donderdag</text><text x=\"270\" y=\"150\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Donar</text></g><g opacity=\"0.35\"><animate attributeName=\"opacity\" values=\"0.35;1;1;0.35\" keyTimes=\"0;0.1;0.25;0.35\" dur=\"8s\" begin=\"6s\" repeatCount=\"indefinite\"/><text x=\"90\" y=\"178\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">dies Veneris</text><text x=\"90\" y=\"192\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Venus</text><line x1=\"160\" y1=\"178\" x2=\"196\" y2=\"178\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M194,173 L202,178 L194,183 Z\" fill=\"#fff\"/><text x=\"270\" y=\"178\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">vrijdag</text><text x=\"270\" y=\"192\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Frija/Freya</text></g><text x=\"180\" y=\"214\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">zaterdag hield Saturnus gewoon</text></svg>",
+   "quiz": {
+    "q": "Naar welke god is woensdag vernoemd?",
+    "o": [
+     "Donar",
+     "Wodan",
+     "Saturnus"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "The Conversation: the gods behind the days of the week",
+     "u": "https://theconversation.com/explainer-the-gods-behind-the-days-of-the-week-87170"
+    },
+    {
+     "t": "Merriam-Webster: etymologies for every day of the week",
+     "u": "https://www.merriam-webster.com/wordplay/etymologies-for-every-day-of-the-week"
+    },
+    {
+     "t": "Etymonline: Tuesday",
+     "u": "https://www.etymonline.com/word/tuesday"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Baby's van acht maanden doen al aan statistiek",
+   "body": "In gewone spraak zitten geen pauzes tussen woorden. Hoe vindt een baby dan waar een woord stopt? In 1996 lieten Jenny Saffran, Richard Aslin en Elissa Newport baby's van 8 maanden twee minuten luisteren naar een pauzeloze stroom verzonnen lettergrepen. Daarna maakten ze al onderscheid tussen de verzonnen woorden en toevallige combinaties.",
+   "take": "Praat veel en gevarieerd tegen je baby: elke zin levert nieuwe patronen om te tellen.",
+   "deep": "## Hoe het werkt\n\nAls je een onbekende taal hoort, klinkt die als één lange sliert. Pauzes vallen zelden samen met woordgrenzen. Toch moet een baby uit die sliert losse woorden halen voor hij ze kan leren.\n\nEen slimme aanwijzing is hoe vaak klanken op elkaar volgen. Binnen een woord hoort de ene lettergreep bijna altijd bij de volgende. Over een woordgrens heen is de volgende lettergreep veel minder voorspelbaar, want na een woord kan van alles komen. Wie onbewust bijhoudt welke lettergrepen samen voorkomen, ziet dus waar de kans plots daalt, en daar ligt waarschijnlijk een grens.\n\n## Een voorbeeld\n\nNeem 'mooie baby'. Na 'moo' komt in het Nederlands heel vaak 'ie', want het hoort bij hetzelfde woord. Na 'ie' kan van alles volgen: baby, bloemen, dag. Een kind in een Gentse crèche dat dagelijks zinnen hoort als 'mooie baby', 'mooie bal' en 'mooie dag', merkt dat 'mooie' steeds samen blijft terwijl wat erna komt wisselt. Zo springt 'mooie' eruit als eenheid.\n\n## Wat onderzoek zegt\n\nSaffran, Aslin en Newport publiceerden hun proef in 1996 in het vakblad Science. Ze bouwden een kunsttaal van twaalf lettergrepen, gecombineerd tot woorden van drie lettergrepen, en lieten die in een monotone stroom horen zonder pauzes of klemtoon. Binnen een woord volgde de volgende lettergreep altijd, met kans 1,0; over een woordgrens heen was dat veel lager. Na twee minuten luisteren reageerden baby's van acht maanden anders op de echte kunstwoorden dan op zogenaamde deelwoorden, die over een grens heen liepen. In 1999 herhaalde hetzelfde team het met muziektonen in plaats van lettergrepen, met een vergelijkbaar resultaat.\n\n## Nuance of misverstand\n\nDe oorspronkelijke proef kon niet helemaal uitsluiten dat baby's gewoon telden hoe vaak een reeks voorkwam, eerder dan de overgangskansen. Een vervolgstudie uit 1998 pakte dat aan en vond dat baby's wel degelijk de overgangskansen gebruiken. Bovendien gaat het om een kunsttaal in het lab. In echte spraak helpen ook klemtoon, intonatie en de context mee, en statistiek leert een baby nog niet wat een woord betekent.\n\n## Wat je ermee doet\n\nJe hoeft je baby geen lesjes te geven. Gewoon veel praten, zingen en voorlezen geeft het brein het ruwe materiaal om patronen te ontdekken. Herhaling met variatie, zoals 'kijk, een hond, een grote hond', maakt die patronen extra duidelijk.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Welke klanken horen samen?</text><text x=\"30\" y=\"100\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">bi</text><text x=\"67\" y=\"100\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">da</text><text x=\"104\" y=\"100\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">ku</text><text x=\"141\" y=\"100\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">pa</text><text x=\"178\" y=\"100\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">do</text><text x=\"215\" y=\"100\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">ti</text><text x=\"252\" y=\"100\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">go</text><text x=\"289\" y=\"100\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">la</text><text x=\"326\" y=\"100\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">bu</text><line x1=\"10\" y1=\"110\" x2=\"350\" y2=\"110\" stroke=\"#fff\" stroke-width=\"1\" opacity=\"0.4\"/><rect x=\"14\" y=\"80\" width=\"100\" height=\"30\" rx=\"8\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;1;0\" keyTimes=\"0;0.15;0.8;1\" dur=\"6s\" begin=\"0.0s\" repeatCount=\"indefinite\"/></rect><rect x=\"125\" y=\"80\" width=\"100\" height=\"30\" rx=\"8\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;1;0\" keyTimes=\"0;0.15;0.8;1\" dur=\"6s\" begin=\"1.5s\" repeatCount=\"indefinite\"/></rect><rect x=\"236\" y=\"80\" width=\"100\" height=\"30\" rx=\"8\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;1;0\" keyTimes=\"0;0.15;0.8;1\" dur=\"6s\" begin=\"3.0s\" repeatCount=\"indefinite\"/></rect><text x=\"85\" y=\"140\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">bi→da: altijd (1,0)</text><text x=\"270\" y=\"140\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ku→pa: soms</text><circle r=\"4\" fill=\"#06d6a0\"><animateMotion path=\"M20,60 L340,60\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"52\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">doorlopende stroom, geen pauzes</text><text x=\"180\" y=\"180\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">hoge kans = binnen een woord</text><text x=\"180\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">lage kans = waarschijnlijk woordgrens</text></svg>",
+   "quiz": {
+    "q": "Welke aanwijzing gebruikten de baby's in de proef van Saffran om woorden te herkennen?",
+    "o": [
+     "Hoe voorspelbaar de ene lettergreep op de andere volgde",
+     "De pauzes tussen de woorden",
+     "De klemtoon op de eerste lettergreep"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "PubMed: Statistical learning by 8-month-old infants",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/8943209/"
+    },
+    {
+     "t": "Aslin (2017): statistical learning, een overzicht",
+     "u": "https://sites.socsci.uci.edu/~lpearl/courses/readings/Aslin2017_StatLearning.pdf"
+    }
+   ],
+   "date": "2026-11-20T06:00:00Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Een Japanner bestelt zijn bier in het Nederlands",
+   "body": "Van 1641 tot het midden van de 19e eeuw waren Nederlanders de enige westerlingen die met Japan mochten handelen, vanop het kunstmatige eilandje Dejima in Nagasaki. Dat liet woorden achter: biiru (bier), kōhī (koffie), garasu (glas), ponpu (pomp) en randoseru, de schooltas, van ransel. Taalkundigen tellen meer dan 150 Nederlandse leenwoorden die nog gangbaar zijn.",
+   "take": "Ga je naar Japan? Bestel een biiru of een kōhī: je spreekt dan eigenlijk Nederlands met een Japans accent.",
+   "deep": "## Hoe het werkt\n\nIn de 17e eeuw sloot Japan zich grotendeels af van het Westen. Na de verdrijving van de Portugezen in 1639 werden de Nederlanders van de Verenigde Oost-Indische Compagnie in 1641 verhuisd naar Dejima, een eilandje in de haven van Nagasaki. Dejima was meer dan twee eeuwen het enige stukje Japan waar westerlingen mochten verblijven.\n\nJapanse tolken en geleerden leerden daarom Nederlands. Zo ontstond rangaku, letterlijk Hollandse wetenschap: Japanners bestudeerden westerse geneeskunde, sterrenkunde en techniek via Nederlandse boeken. Nieuwe dingen kregen de naam die de Nederlanders gebruikten, aangepast aan de Japanse klankleer. Omdat Japanse lettergrepen bijna altijd op een klinker eindigen en het Japans geen aparte l en r kent, werd glas garasu en bier biiru.\n\n## Een voorbeeld\n\nWie in Tokio een eerste schooldag meemaakt, ziet kinderen met een stevige leren rugzak: de randoseru. Die naam gaat terug op het Nederlandse ransel, een soldatenrugzak. Ook koppu voor drinkbeker, madorosu voor matroos, konpasu voor kompas en buriki voor blik worden in naslagwerken als Nederlandse leenwoorden opgegeven. Voor een Vlaming is het extra grappig: het waren vooral Hollanders op Dejima, maar het Nederlands dat ze achterlieten is ook ons Nederlands.\n\n## Wat onderzoek zegt\n\nDe Nederlandse japanoloog Frits Vos telde in de jaren 1970 meer dan 160 woorden van Nederlandse oorsprong die nog dagelijks gebruikt werden. Een studie aan de Universiteit van Lund uit 2024 vertrok van zo'n 500 kandidaat-woorden uit eerder onderzoek en vond er 358 met Nederlandse invloed in het hedendaagse Japans. Het verschil komt door een andere definitie: alleen dagelijkse woorden, of ook vaktermen en afleidingen.\n\n## Nuance of misverstand\n\nNiet elk Japans leenwoord dat Europees klinkt, is Nederlands. Pan voor brood komt uit het Portugees, en biru met een korte i betekent gebouw en komt van het Engelse building. Bij randoseru is de extra d-klank nog onderwerp van discussie; sommige onderzoekers denken aan een verwarring met een Duits woord. Na de opening van Japan in de jaren 1850 nam het Engels de rol van het Nederlands over, en veel Nederlandse woorden raakten in onbruik.\n\n## Wat je ermee doet\n\nHou bij leenwoorden altijd de geschiedenis in je achterhoofd: woorden reizen mee met handel, ziekten, uitvindingen en macht. Zoek bij een nieuwe taal eens naar woorden die uit je eigen taal komen. Ze zijn een gratis geheugensteun en vertellen meteen een stukje geschiedenis.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Woorden via Dejima naar Japan</text><rect x=\"20\" y=\"70\" width=\"80\" height=\"60\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"60\" y=\"104\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Nederlands</text><ellipse cx=\"200\" cy=\"140\" rx=\"22\" ry=\"10\" fill=\"#ffd166\" opacity=\"0.6\"/><text x=\"200\" y=\"165\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Dejima</text><path d=\"M260,40 Q300,80 290,130 Q280,170 320,200\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"320\" y=\"90\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Japan</text><path d=\"M100,100 Q150,100 200,140 Q240,120 280,110\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"5 5\"/><g><animateMotion path=\"M100,100 Q150,100 200,140 Q240,120 280,110\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/><text x=\"0\" y=\"-6\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">bier</text></g><g><animateMotion path=\"M100,100 Q150,100 200,140 Q240,120 280,110\" dur=\"6s\" begin=\"2s\" repeatCount=\"indefinite\"/><text x=\"0\" y=\"-6\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">koffie</text></g><g><animateMotion path=\"M100,100 Q150,100 200,140 Q240,120 280,110\" dur=\"6s\" begin=\"4s\" repeatCount=\"indefinite\"/><text x=\"0\" y=\"-6\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">glas</text></g><text x=\"300\" y=\"150\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">biiru</text><text x=\"300\" y=\"166\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">kōhī</text><text x=\"300\" y=\"182\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">garasu</text><text x=\"150\" y=\"210\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1641 tot midden 19e eeuw</text></svg>",
+   "quiz": {
+    "q": "Waarom kwamen er Nederlandse woorden in het Japans terecht?",
+    "o": [
+     "Omdat Nederlandse missionarissen er scholen oprichtten",
+     "Omdat Japan in de 20e eeuw een Nederlandse kolonie was",
+     "Omdat Nederlanders eeuwenlang de enige westerse handelaars in Japan waren"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "ANU East Asian History: Vos, Dutch influences on Japanese",
+     "u": "https://eah.anu.edu.au/39/vos-influences/index.html"
+    },
+    {
+     "t": "JapanPitt (University of Pittsburgh): vocabulary borrowing",
+     "u": "https://japanpitt.pitt.edu/essays-and-articles/language/vocabulary-borrowing?page=2"
+    },
+    {
+     "t": "Lund University: Dutch loanwords in modern Japanese (2024)",
+     "u": "https://lup.lub.lu.se/student-papers/record/9149455"
     }
    ],
    "date": "2026-11-20T06:00:00Z"
