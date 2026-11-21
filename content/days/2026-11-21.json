@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T05:49:57Z",
+ "updated": "2026-11-21T05:51:44Z",
  "cards": [
   {
    "cat": "wetenschap",
@@ -1340,6 +1340,322 @@
     }
    ],
    "date": "2026-11-21T05:49:57Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Hamstercellen dragen nu bijna een volledig algengenoom mee",
+   "body": "Onderzoekers van de Universiteit van Tokio smolten het roodwier Cyanidioschyzon merolae samen met hamstercellen. Eén cellijn hield 16,3 miljoen baseparen algen-DNA vast, uit alle 20 algenchromosomen, en gaf dat ongeveer 155 celdelingen lang door. Ruim 95% van die algengenen bleef wel stil. De studie in Nature Communications werd midden november 2026 bekendgemaakt.",
+   "take": "Lees je over 'planimals' of fotosynthetische dieren? Vraag altijd: zit het vreemde DNA er alleen in, of werkt het ook?",
+   "deep": "## Hoe het werkt\n\nCellen van verschillende soorten kun je in het labo laten versmelten. De onderzoekers gebruikten polyethyleenglycol, een stof die celmembranen losser maakt zodat twee cellen kunnen samensmelten. Ze probeerden ook een tweede route: hamstercellen die algencellen opslokken, zoals afweercellen dat met bacteriën doen.\n\nDaarna volgden ze de nieuwe cellen generatie na generatie. Blijft het vreemde DNA bewaard als de cel zich deelt? En wordt het afgelezen? De gastcel bleek het algen-DNA grotendeels het zwijgen op te leggen, met chemische 'uit-knoppen' zoals DNA-methylatie en onderdrukkende markeringen op de eiwitten waar DNA omheen gewikkeld zit.\n\n## Een voorbeeld\n\nVergelijk het met een volledige Japanse bibliotheek die in je Gentse woonkamer wordt gezet. Alle boeken staan er, keurig in de kast, en verhuizen telkens mee. Maar niemand in huis leest Japans, dus bijna niemand slaat ze open. Zo zit het algengenoom in de hamstercel: aanwezig, doorgegeven, maar grotendeels ongelezen.\n\n## Wat onderzoek zegt\n\nHet team van Sachihiro Matsunaga (Universiteit van Tokio) publiceerde de resultaten in Nature Communications; het persbericht verscheen in de week van 17 november 2026. In één hybride cellijn bleef ongeveer 16,3 miljoen baseparen algen-DNA behouden, met intacte chromosomen en stukken van alle 20 algenchromosomen. Dat DNA was na ongeveer 155 generaties nog aantoonbaar en de cellen bleven normaal delen. Slechts van zo'n 4% van het eiwitcoderende deel konden de onderzoekers afschriften terugvinden; ruim 95% van de algengenen bleef inactief. Matsunaga's langetermijndoel is dierlijke cellen een plantaardig trucje te leren: fotosynthese.\n\n## Nuance of misverstand\n\nDe bijnaam 'planimal' doet denken aan een half dier, half plant. Dat is het niet: het gaat om cellen in een kweekschaaltje, geen organisme. Er is ook geen sprake van cellen die zonlicht omzetten in energie. Het werk toont vooral dat een dierlijke cel een enorme hoeveelheid vreemd DNA kan meedragen zonder eraan onderdoor te gaan. Praktische toepassingen liggen volgens de berichtgeving nog ver weg.\n\n## Wat je ermee doet\n\nBij spectaculaire biotechkoppen helpt één vraag: is er een functie aangetoond, of alleen aanwezigheid? Hier is het tweede gelukt, het eerste nog niet. Dat maakt het niet minder boeiend: het is een bouwsteen, geen eindproduct.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Celfusie: alg in hamstercel</text><circle cx=\"230\" cy=\"110\" r=\"58\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"230\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">hamstercel</text><circle cx=\"0\" cy=\"0\" r=\"14\" fill=\"#06d6a0\"><animateMotion path=\"M70,110 L70,110 L215,110 L215,110\" keyTimes=\"0;0.2;0.7;1\" keyPoints=\"0;0;1;1\" calcMode=\"linear\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><text x=\"70\" y=\"145\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">roodwier</text><rect x=\"200\" y=\"78\" width=\"5\" height=\"18\" rx=\"2\" fill=\"#ffd166\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1\" keyTimes=\"0;0.7;0.8;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"212\" y=\"78\" width=\"5\" height=\"18\" rx=\"2\" fill=\"#ffd166\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1\" keyTimes=\"0;0.7;0.8;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"224\" y=\"78\" width=\"5\" height=\"18\" rx=\"2\" fill=\"#ffd166\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1\" keyTimes=\"0;0.7;0.8;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"236\" y=\"78\" width=\"5\" height=\"18\" rx=\"2\" fill=\"#ffd166\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1\" keyTimes=\"0;0.7;0.8;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"248\" y=\"78\" width=\"5\" height=\"18\" rx=\"2\" fill=\"#ffd166\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1\" keyTimes=\"0;0.7;0.8;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"230\" y=\"70\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">algen-DNA</text><text x=\"230\" y=\"136\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">16,3 mln baseparen</text><text x=\"230\" y=\"152\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">155 delingen lang</text><text x=\"90\" y=\"200\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">95% blijft stil</text></svg>",
+   "quiz": {
+    "q": "Wat gebeurde met het meeste algen-DNA in de hamstercellen?",
+    "o": [
+     "Het werd door de gastcel grotendeels stilgelegd",
+     "Het liet de cellen fotosynthese doen",
+     "Het verdween na één celdeling"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "EurekAlert (Universiteit van Tokio)",
+     "u": "https://www.eurekalert.org/news-releases/1151832"
+    },
+    {
+     "t": "Phys.org",
+     "u": "https://phys.org/news/2026-11-planimal-cells-retain-entire-algal.html"
+    },
+    {
+     "t": "ScienceAlert",
+     "u": "https://www.sciencealert.com/scientists-create-a-planimal-by-fusing-hamster-and-algae-dna"
+    }
+   ],
+   "date": "2026-11-21T05:51:44Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Psilocybine en ketamine lieten muizen trager maar juister kiezen",
+   "body": "Neurowetenschappers van Boston University, rond Benjamin Scott, gaven muizen psilocybine of ketamine tijdens een keuzetaak. De dieren maakten minder fouten: ze leunden minder op gewoonte en meer op wat ze echt waarnamen. Ze beslisten wel trager. De studie staat in Science Advances; het persbericht verscheen rond 18 november 2026.",
+   "take": "Bij een lastige keuze: vertraag bewust en weeg wat je nu ziet, in plaats van te doen wat je altijd doet.",
+   "deep": "## Hoe het werkt\n\nNeurowetenschappers beschrijven een beslissing vaak als bewijs dat zich opstapelt. Je hersenen verzamelen signalen, bijvoorbeeld aan welke kant een signaal sterker is, tot een drempel bereikt is. Dan kies je. Daarnaast speelt een vooroordeel of gewoonte mee: een muis die vaak links koos, gaat makkelijk weer naar links, wat het signaal ook zegt.\n\nVolgens de studie deden psilocybine en ketamine drie dingen tegelijk. Ze gaven het zintuiglijke bewijs meer gewicht, ze verminderden het effect van de gewoonte en ze legden de beslissingsdrempel hoger. Dat laatste verklaart waarom de muizen trager waren. Opnames toonden ook dat de activiteit in de orbitofrontale schors, een hersengebied dat keuzes mee stuurt, anders georganiseerd raakte.\n\n## Een voorbeeld\n\nDenk aan de kassa in de supermarkt. Wie op automatische piloot staat, gaat naar dezelfde kassa als altijd. Wie even kijkt welke rij echt het kortst is, kiest beter, maar staat een paar seconden langer te twijfelen. De muizen onder invloed gedroegen zich als die tweede klant.\n\n## Wat onderzoek zegt\n\nHet team van Benjamin Scott (Boston University) publiceerde in Science Advances; het persbericht verscheen rond 18 november 2026. De muizen deden een taak waarin ze zintuiglijke signalen moesten samenvoegen om de juiste kant te kiezen. Psilocybine werd getest in doses van 0,5, 1 en 3 mg per kilo bij 42 muizen, ketamine van 10 tot 70 mg per kilo bij 30 muizen, telkens vergeleken met een zoutoplossing. Beide middelen verhoogden de nauwkeurigheid en verlaagden de invloed van gewoonte. Volgens berichtgeving gaven cocaïne en diazepam niet hetzelfde effect. Een eerdere versie van het werk stond in 2025 als preprint online.\n\n## Nuance of misverstand\n\nDit is onderzoek bij muizen met een eenvoudige taak. Het zegt niets over microdoseren of over betere keuzes bij mensen in het dagelijks leven. Scott wees er zelf op dat tragere beslissingen een nadeel kunnen zijn waar reactiesnelheid telt, zoals in het verkeer of bij sport. Psilocybine is bovendien in België verboden.\n\n## Wat je ermee doet\n\nNeem het onderliggende principe mee, niet het middel. Merk op wanneer je uit gewoonte kiest. Bij beslissingen die ertoe doen, mag je de drempel bewust hoger leggen: even wachten, het bewijs bekijken en pas dan kiezen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Bewijs stapelen tot een drempel</text><line x1=\"40\" y1=\"190\" x2=\"330\" y2=\"190\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"40\" y1=\"190\" x2=\"40\" y2=\"40\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"40\" y1=\"110\" x2=\"330\" y2=\"110\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><line x1=\"40\" y1=\"60\" x2=\"330\" y2=\"60\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><text x=\"328\" y=\"104\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">gewone drempel</text><text x=\"328\" y=\"54\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">hogere drempel (middel)</text><path d=\"M40,190 L90,170 L130,150 L170,125 L200,110\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M40,190 L100,172 L160,140 L220,118 L270,85 L310,60\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"300\" stroke-dashoffset=\"300\"><animate attributeName=\"stroke-dashoffset\" values=\"300;0;0\" keyTimes=\"0;0.7;1\" dur=\"6s\" repeatCount=\"indefinite\"/></path><text x=\"200\" y=\"130\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">snel, vaker fout</text><text x=\"250\" y=\"150\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">trager, juister</text><text x=\"185\" y=\"208\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">tijd</text></svg>",
+   "quiz": {
+    "q": "Wat was het nadeel van de middelen bij de muizen?",
+    "o": [
+     "Ze maakten meer fouten",
+     "Ze beslisten trager",
+     "Ze vergaten de taak"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "EurekAlert (Boston University)",
+     "u": "https://www.eurekalert.org/news-releases/1152304"
+    },
+    {
+     "t": "Science Advances",
+     "u": "https://www.science.org/doi/10.1126/sciadv.aeb3041"
+    },
+    {
+     "t": "Medical Xpress",
+     "u": "https://medicalxpress.com/news/2026-11-psychedelics-decision.html"
+    }
+   ],
+   "date": "2026-11-21T05:51:44Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Private gezondheidstests beloven veel en zwijgen over nadelen",
+   "body": "Onderzoekers van de University of St Andrews bekeken de websites van 50 Britse aanbieders van gezondheidstests voor mensen zonder klachten. 48 beloofden meer inzicht in je gezondheid, 36 een vroegere diagnose en 16 zelfs een langer leven. Zeventig procent vermeldde geen beperkingen of risico's. De studie verscheen in BMJ Open, met persbericht op 18 november 2026.",
+   "take": "Overweeg je een testpakket zonder klachten? Vraag eerst: hoe vaak geeft dit vals alarm, en wat gebeurt er dan?",
+   "deep": "## Hoe het werkt\n\nEen screeningstest zoekt ziekte bij mensen die zich gezond voelen. Twee eigenschappen bepalen hoe nuttig hij is. De gevoeligheid zegt hoeveel zieken de test vindt. De specificiteit zegt hoeveel gezonde mensen terecht een geruststellende uitslag krijgen. Geen enkele test scoort perfect, dus er zijn altijd vals-positieven (vals alarm) en vals-negatieven (valse geruststelling).\n\nHoe zeldzamer een ziekte in de geteste groep, hoe groter het aandeel vals alarm. Neem een eigen rekenvoorbeeld: 1000 mensen, 1% is ziek, de test is 90% gevoelig en 95% specifiek. Dan vindt hij 9 zieken, maar krijgen ook ongeveer 50 gezonde mensen een verontrustende uitslag. Die moeten verder onderzocht worden.\n\n## Een voorbeeld\n\nIn Vlaanderen bestaan georganiseerde bevolkingsonderzoeken, onder meer naar borst-, baarmoederhals- en dikkedarmkanker. Voor zulke programma's wordt vooraf afgewogen of de winst groter is dan de schade. Een los testpakket dat je online bestelt, heeft die afweging niet per se gekregen.\n\n## Wat onderzoek zegt\n\nHet team van de University of St Andrews publiceerde in BMJ Open; het persbericht van de BMJ Group verscheen op 18 november 2026. Ze brachten 50 commerciële aanbieders in het Verenigd Koninkrijk in kaart die tests verkopen aan mensen zonder symptomen. 48 claimden betere kennis over je gezondheid, 36 een vroegere diagnose en betere uitkomsten, en 16 een langer leven. Zeventig procent legde de beperkingen en mogelijke schade van testen niet uit. De auteurs spreken van grote gaten in de regelgeving en waarschuwen voor vals alarm, valse geruststelling en verloren geld. Volgens hen voelt de Britse huisartsenzorg nu al de gevolgen van het opvolgen van zulke zelf aangevraagde uitslagen.\n\n## Nuance of misverstand\n\nDe studie keek naar wat aanbieders beloven, niet naar hoe goed elke test technisch werkt. Ze beperkte zich tot het Verenigd Koninkrijk en een online zoektocht, dus sommige tests kunnen gemist zijn. En testen is niet slecht op zich: bij klachten of een duidelijk risico kan een gerichte test net heel zinvol zijn.\n\n## Wat je ermee doet\n\nStel drie vragen voor je betaalt. Wordt deze test aanbevolen voor iemand zoals ik? Hoe vaak geeft hij vals alarm? Wie helpt me met de uitslag? Bespreek twijfels liever met je huisarts dan met een webshop.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Rekenvoorbeeld: 1000 mensen zonder klachten</text><line x1=\"40\" y1=\"180\" x2=\"320\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"80\" y=\"180\" width=\"70\" height=\"0\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"0;18;18\" keyTimes=\"0;0.4;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;162;162\" keyTimes=\"0;0.4;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"210\" y=\"180\" width=\"70\" height=\"0\" fill=\"#ff6b9d\"><animate attributeName=\"height\" values=\"0;0;100;100\" keyTimes=\"0;0.4;0.8;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;180;80;80\" keyTimes=\"0;0.4;0.8;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"115\" y=\"150\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">9</text><text x=\"245\" y=\"70\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">~50</text><text x=\"115\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">terecht positief</text><text x=\"245\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">vals alarm</text><text x=\"180\" y=\"44\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1% ziek, test 90% gevoelig, 95% specifiek</text></svg>",
+   "quiz": {
+    "q": "Waarom geeft screening bij gezonde mensen relatief veel vals alarm?",
+    "o": [
+     "Omdat de tests meestal kapot zijn",
+     "Omdat gezonde mensen sneller ziek worden",
+     "Omdat de ziekte zeldzaam is in die groep"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "BMJ Group persbericht",
+     "u": "https://bmjgroup.com/many-claims-for-health-tests-marketed-to-uk-consumers-are-unsubstantiated/"
+    },
+    {
+     "t": "EurekAlert",
+     "u": "https://www.eurekalert.org/news-releases/1151816"
+    }
+   ],
+   "date": "2026-11-21T05:51:44Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Kurkuma helpt nauwelijks tegen pijnlijke knieartrose",
+   "body": "Een Cochrane-review van 19 november 2026 bundelde negen gerandomiseerde studies met 1.245 mensen met knieartrose. In vier studies tegenover placebo, met 349 deelnemers, verminderde kurkuma de pijn met minder dan één punt op tien. Dat is minder dan de 1,5 punt die als merkbaar geldt. Tien studies werden geweerd wegens twijfel over hun betrouwbaarheid.",
+   "take": "Koop je kurkuma voor je knieën? Weet dat het effect amper groter is dan placebo; bespreek liever een bewezen aanpak.",
+   "deep": "## Hoe het werkt\n\nEen Cochrane-review is een systematische samenvatting. Onderzoekers zoeken alle relevante gerandomiseerde studies, beoordelen hun kwaliteit en voegen de resultaten samen. Bij pijn kijken ze niet alleen of er een verschil is, maar ook of dat verschil groot genoeg is om te voelen. Die grens heet het minimaal klinisch relevante verschil. Voor deze review lag ze op 1,5 punt op een pijnschaal van 0 tot 10.\n\nNieuw is dat het team eerst controleerde of studies betrouwbaar waren. Studies met verdachte of onvolledige gegevens werden niet meegeteld.\n\n## Een voorbeeld\n\nBij apotheek, drogist en webshops liggen talloze supplementen met kurkuma of curcumine, vaak aangeprezen voor soepele gewrichten. Stel dat je kniepijn een 6 op 10 is. Volgens deze review zou kurkuma die gemiddeld naar iets boven 5 brengen, maar een placebo doet bijna hetzelfde. Dat verschil merk je in het dagelijks leven nauwelijks.\n\n## Wat onderzoek zegt\n\nDe review, gepubliceerd op 19 november 2026, omvat negen gerandomiseerde studies met samen 1.245 mensen met knieartrose, meestal tussen begin vijftig en begin zestig. Geen enkele studie duurde langer dan 90 dagen. In de vier studies die kurkuma met placebo vergeleken (349 deelnemers) daalde de pijn met minder dan één punt extra, onder de grens van 1,5 punt. Kurkuma bleek ook niet duidelijk beter dan placebo of ontstekingsremmers. Tien studies werden uitgesloten wegens twijfels over de betrouwbaarheid van de gegevens. Een netwerk-meta-analyse uit 2025 kwam nog tot positieve resultaten; de strengere selectie verklaart wellicht een deel van het verschil.\n\n## Nuance of misverstand\n\n'Geen duidelijk voordeel aangetoond' is niet hetzelfde als 'bewezen nutteloos'. De onderliggende studies hebben zwaktes en duurden kort, dus over langdurig gebruik zegt de review weinig. Ze zegt ook niets over kurkuma als kruid in je curry: dat blijft gewoon lekker.\n\n## Wat je ermee doet\n\nGeef je geld liever niet uit in de verwachting van flinke pijnverlichting. Vraag je huisarts of kinesitherapeut welke aanpak voor jouw knie het best onderbouwd is. En kijk bij elk supplement naar wat systematische reviews zeggen, niet alleen naar losse studies of verpakkingsbeloftes.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Pijnscore 0-10: verschil met placebo</text><rect x=\"40\" y=\"80\" width=\"280\" height=\"24\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"40\" y=\"124\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">0</text><text x=\"96\" y=\"124\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">2</text><text x=\"152\" y=\"124\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">4</text><text x=\"208\" y=\"124\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">6</text><text x=\"264\" y=\"124\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">8</text><text x=\"320\" y=\"124\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">10</text><rect x=\"40\" y=\"82\" width=\"0\" height=\"20\" fill=\"#06d6a0\"><animate attributeName=\"width\" values=\"0;25;25\" keyTimes=\"0;0.5;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><line x1=\"82\" y1=\"66\" x2=\"82\" y2=\"112\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"4 3\"/><text x=\"86\" y=\"60\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">1,5 punt nodig om te voelen</text><text x=\"40\" y=\"150\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">kurkuma: minder dan 1 punt beter</text><text x=\"40\" y=\"172\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">9 studies, 1.245 mensen, max. 90 dagen</text><text x=\"40\" y=\"192\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">10 studies geweerd wegens twijfel</text></svg>",
+   "quiz": {
+    "q": "Waarom vond de review het pijneffect van kurkuma niet overtuigend?",
+    "o": [
+     "Het effect bleef onder de grens die je merkbaar voelt",
+     "Kurkuma veroorzaakte meer pijn",
+     "Er deden geen mensen met artrose mee"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "News-Medical",
+     "u": "https://www.news-medical.net/news/20261119/Cochrane-review-challenges-benefits-of-turmeric-supplements-for-knee-osteoarthritis.aspx"
+    },
+    {
+     "t": "Cochrane nieuws",
+     "u": "https://www.cochrane.org/about-us/news/new-evidence-questions-benefits-turmeric-knee-arthritis"
+    },
+    {
+     "t": "Scimex",
+     "u": "https://www.scimex.org/newsfeed/using-turmeric-as-a-knee-arthritis-treatment-not-currently-backed-by-evidence"
+    }
+   ],
+   "date": "2026-11-21T05:51:44Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Transformatoren dreigen de nieuwe flessenhals van het stroomnet",
+   "body": "Onderzoekers van Johns Hopkins University waarschuwen in Cell Reports Sustainability, gepubliceerd op 17 november 2026, dat de VS al vanaf 2027 tekort kunnen komen aan transformatoren en ander netmateriaal. Tegen 2030 dreigen acute tekorten. Ongeveer twee derde van dat verwachte tekort is toe te schrijven aan AI-datacenters.",
+   "take": "Hoor je dat er snel een datacenter of zonnepark bijkomt? Vraag ook: is er een netaansluiting, en materiaal om die te bouwen?",
+   "deep": "## Hoe het werkt\n\nElektriciteit wordt over lange afstand vervoerd op hoge spanning, omdat er dan minder verlies is. Dichter bij de gebruiker moet die spanning stap voor stap omlaag. Dat doet een transformator: twee spoelen rond een ijzeren kern. Wisselstroom in de ene spoel wekt een wisselend magneetveld op, dat in de tweede spoel een andere spanning opwekt.\n\nElke nieuwe centrale, windmolenpark of datacenter heeft zulke apparaten nodig om op het net aan te sluiten, samen met omvormers en ander netmateriaal. Grote transformatoren zijn maatwerk en hangen af van speciaal elektrisch staal.\n\n## Een voorbeeld\n\nIn je straat of wijk staat wellicht een elektriciteitscabine. Daarin zet een transformator de middenspanning van het distributienet om naar de spanning die uit je stopcontact komt. Een groot datacenter vraagt veel meer vermogen en dus zwaardere, duurdere apparaten, die je niet zomaar uit een rek haalt.\n\n## Wat onderzoek zegt\n\nHet team van Johns Hopkins University publiceerde op 17 november 2026 in Cell Reports Sustainability. In een basisscenario met bescheiden groei van de vraag zouden er tegen 2030 net genoeg transformatoren zijn, maar zou ander netmateriaal zo'n 16% tekortschieten. Bij een handelsverstoring, waarbij tot 70% van de materialen van onstabiele partners wegvalt, loopt het tekort op tot ongeveer 25% voor transformatoren en 36% voor ander materiaal. Ongeveer twee derde van het verwachte tekort komt door AI-datacenters. Fortune wees er bovendien op dat het speciale staal voor grote transformatoren in de VS door één enkele leverancier gemaakt wordt. Als oplossingen noemen de onderzoekers goedkope sensoren om de belasting van transformatoren live te volgen, recyclage van materiaal uit afgedankte toestellen en meer gestandaardiseerde ontwerpen.\n\n## Nuance of misverstand\n\nDit zijn scenario's voor de Verenigde Staten, geen vaste voorspellingen, en verschillende media geven licht andere percentages per scenario. Europa heeft een eigen markt en eigen knelpunten. En een tekort betekent niet dat de lichten uitgaan, wel dat nieuwe aansluitingen langer op zich laten wachten.\n\n## Wat je ermee doet\n\nKijk bij nieuws over AI en energie verder dan de stroomvraag alleen. Ook kabels, transformatoren en vakmensen moeten volgen. Wie wacht op een netaansluiting voor een warmtepomp, laadpaal of zonnepanelen, weet nu waarom dat soms traag gaat.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Zonder transformator geen aansluiting</text><rect x=\"20\" y=\"80\" width=\"70\" height=\"50\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"55\" y=\"110\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">centrale</text><rect x=\"270\" y=\"80\" width=\"70\" height=\"50\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"305\" y=\"110\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">datacenter</text><circle cx=\"165\" cy=\"105\" r=\"18\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><circle cx=\"195\" cy=\"105\" r=\"18\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"180\" y=\"145\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">transformator</text><line x1=\"90\" y1=\"105\" x2=\"147\" y2=\"105\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"12;0\" dur=\"1s\" repeatCount=\"indefinite\"/></line><line x1=\"213\" y1=\"105\" x2=\"262\" y2=\"105\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"12;0\" dur=\"1s\" repeatCount=\"indefinite\"/></line><path d=\"M262,99 L270,105 L262,111 Z\" fill=\"#06d6a0\"/><text x=\"118\" y=\"92\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">hoge spanning</text><text x=\"238\" y=\"92\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">lager</text><text x=\"180\" y=\"182\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">VS: tekorten vanaf 2027, acuut tegen 2030</text><text x=\"180\" y=\"200\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">2/3 van het tekort door AI-datacenters</text></svg>",
+   "quiz": {
+    "q": "Wat doet een transformator in het stroomnet?",
+    "o": [
+     "Hij slaat stroom op voor de nacht",
+     "Hij zet de spanning om naar een ander niveau",
+     "Hij maakt van gelijkstroom groene stroom"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Johns Hopkins Hub",
+     "u": "https://hub.jhu.edu/2026/11/17/transformer-shortages-loom-for-strained-us-power-grid/"
+    },
+    {
+     "t": "Fortune",
+     "u": "https://fortune.com/2026/11/20/transformer-shortage-power-grid-johns-hopkins-study/"
+    },
+    {
+     "t": "EurekAlert",
+     "u": "https://www.eurekalert.org/news-releases/1151533"
+    }
+   ],
+   "date": "2026-11-21T05:51:44Z"
+  },
+  {
+   "cat": "tech",
+   "title": "AI zag op gewone echo's welke baby's vroeg kwamen",
+   "body": "Een studie in npj Digital Medicine testte een AI-model op bestaande echobeelden van 2.550 zwangerschappen in vier Chileense openbare ziekenhuizen. Op de echo rond 23 weken haalde het voor vroeggeboorte een AUC van 0,86, tegenover 0,52 op basis van de zwangerschapsduur alleen. De onderzoekers noemen dat resultaat verkennend. Het persbericht verscheen op 18 november 2026.",
+   "take": "Lees je '86% nauwkeurig' bij medische AI? Vraag: welke maat is dat, hoe groot was de studie, en werd het al vooraf getest?",
+   "deep": "## Hoe het werkt\n\nHet model kijkt enkel naar echobeelden, zonder andere medische gegevens. Het werd getraind om de bevallingsdatum te voorspellen en geeft zo ook een risicoscore voor een vroege geboorte.\n\nOm zo'n score te beoordelen gebruiken onderzoekers vaak de AUC, de oppervlakte onder de ROC-curve. Die maat zegt hoe goed een model twee groepen uit elkaar houdt. Neem willekeurig één zwangerschap die te vroeg eindigde en één die op tijd eindigde: de AUC is de kans dat het model de eerste een hogere risicoscore geeft. Een AUC van 0,5 is muntje opgooien, 1 is perfect.\n\n## Een voorbeeld\n\nOok in Vlaanderen krijgen zwangere vrouwen meerdere routine-echo's, zoals de uitgebreide echo rond 20 weken. Het idee achter dit onderzoek: misschien zit in die beelden al informatie die een mens niet ziet, maar een algoritme wel, zonder extra onderzoek voor de moeder.\n\n## Wat onderzoek zegt\n\nAlliende-Ferrada en collega's publiceerden de studie in npj Digital Medicine; het persbericht verscheen op 18 november 2026. Ze gebruikten eerder gemaakte echo's van 2.550 zwangerschappen in vier openbare ziekenhuizen in Chili. Het model van het bedrijf Ultrasound AI werd ongewijzigd toegepast en stuurde geen enkele behandeling. In een vooraf vastgelegde analyse rond 23 weken haalde de risicoscore een AUC van 0,86, tegenover 0,52 voor de zwangerschapsduur alleen. De auteurs melden ook dat het model slecht gekalibreerd was en noemen de resultaten over vroeggeboorte verkennend. Een groot deel van de winst bij het voorspellen van de bevallingsdatum kwam volgens het artikel doordat zwangerschappen ter plaatse gemiddeld korter duurden.\n\n## Nuance of misverstand\n\nPersberichten vertaalden de AUC naar '86% nauwkeurigheid', maar dat is niet hetzelfde. Slechte kalibratie betekent dat de voorspelde kansen zelf niet kloppen, ook al is de rangorde goed. Het onderzoek was terugblikkend, in één land, en het model komt van een bedrijf. Op de productpagina van dat bedrijf staat zelfs dat de tool niet bedoeld is om het risico op vroeggeboorte te voorspellen.\n\n## Wat je ermee doet\n\nBij medische AI-koppen: zoek welke maat gebruikt werd, of het om bestaande of nieuwe patiënten ging en of de onderzoekers het zelf voorlopig noemen. Een veelbelovende AUC is een begin, geen klaar hulpmiddel voor je gynaecoloog.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Hoe goed scheidt het model vroeg van op tijd?</text><line x1=\"60\" y1=\"180\" x2=\"320\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"60\" y1=\"102\" x2=\"320\" y2=\"102\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><text x=\"318\" y=\"96\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">0,5 = muntje opgooien</text><rect x=\"100\" y=\"180\" width=\"60\" height=\"0\" fill=\"#fff\"><animate attributeName=\"height\" values=\"0;81;81\" keyTimes=\"0;0.4;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;99;99\" keyTimes=\"0;0.4;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"220\" y=\"180\" width=\"60\" height=\"0\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"0;0;134;134\" keyTimes=\"0;0.4;0.8;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;180;46;46\" keyTimes=\"0;0.4;0.8;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"130\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">duur alleen 0,52</text><text x=\"250\" y=\"198\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">echobeeld 0,86</text></svg>",
+   "quiz": {
+    "q": "Wat betekent een AUC van 0,5?",
+    "o": [
+     "Het model is perfect",
+     "Het model voorspelt de helft van de geboortes",
+     "Het model doet niet beter dan muntje opgooien"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "EurekAlert",
+     "u": "https://www.eurekalert.org/news-releases/1152106"
+    },
+    {
+     "t": "npj Digital Medicine",
+     "u": "https://www.nature.com/articles/s41746-026-03453-0"
+    },
+    {
+     "t": "News-Medical",
+     "u": "https://www.news-medical.net/news/20261118/Routine-ultrasound-AI-accurately-predicts-risk-of-preterm-birth.aspx"
+    }
+   ],
+   "date": "2026-11-21T05:51:44Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Belgisch consumentenvertrouwen blijft hangen op min dertien",
+   "body": "De Nationale Bank meldde op 20 november 2026 dat het Belgische consumentenvertrouwen in november op -13 bleef, net als in oktober, na drie dalingen op rij. In september was het nog -10. Gezinnen keken iets positiever naar de economie en hun eigen financiën, maar verwachtten meer werkloosheid.",
+   "take": "Zie je een negatief vertrouwenscijfer? Kijk naar de richting over enkele maanden, niet naar het minteken zelf.",
+   "deep": "## Hoe het werkt\n\nElke maand vraagt de Nationale Bank een steekproef van gezinnen hoe ze de toekomst inschatten: de economie in België, hun eigen financiële situatie, de werkloosheid en hun spaarmogelijkheden. Dat gebeurt volgens een Europees afgestemde methode, zodat landen dezelfde vragen stellen.\n\nPer vraag wordt een saldo berekend: het percentage positieve antwoorden min het percentage negatieve. Die saldi worden samengevoegd tot één indicator. Een negatief getal betekent dus niet dat de meeste mensen pessimistisch zijn, alleen dat er meer negatieve dan positieve antwoorden zijn.\n\n## Een voorbeeld\n\nStel dat 25% van de mensen verwacht dat de werkloosheid daalt en 38% dat ze stijgt. Dan is het saldo voor die vraag 25 min 38, of -13. De rest antwoordt 'blijft gelijk' en telt niet mee in het saldo. Zo kan een cijfer onder nul samengaan met een grote groep die gewoon niets verandert.\n\n## Wat onderzoek zegt\n\nVolgens de Nationale Bank, die de cijfers op 20 november 2026 publiceerde, bleef de indicator in november op -13, gelijk aan oktober. Daarvoor was hij drie maanden op rij gedaald; in september stond hij nog op -10. Consumenten waren iets positiever over de economische situatie in België en over hun eigen financiën, maar hun verwachtingen over de werkloosheid verslechterden. In Nederland meldde het statistiekbureau CBS dezelfde week een stijging van -34 naar -32, ruim onder het twintigjarig gemiddelde van -12. Die twee reeksen zijn niet rechtstreeks vergelijkbaar, omdat ze anders opgebouwd zijn.\n\n## Nuance of misverstand\n\nVertrouwen is een gevoel, geen uitgave. Mensen die somber antwoorden, kunnen toch hun gewone aankopen blijven doen. Eén maand is ook ruis: pas een trend over meerdere maanden zegt iets. En een stabiel cijfer kan uit tegengestelde bewegingen bestaan, zoals hier: beter over het eigen budget, slechter over jobs.\n\n## Wat je ermee doet\n\nGebruik het cijfer als thermometer voor de stemming, niet als voorspelling voor je eigen portemonnee. Maak je je zorgen over werkzekerheid, dan is een buffer van enkele maanden vaste kosten een concrete stap die los van elke peiling werkt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Consumentenvertrouwen België</text><line x1=\"50\" y1=\"60\" x2=\"320\" y2=\"60\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><text x=\"46\" y=\"64\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">0</text><text x=\"46\" y=\"104\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">-10</text><text x=\"46\" y=\"134\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">-13</text><path d=\"M90,100 L190,130 L290,130\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><circle cx=\"90\" cy=\"100\" r=\"5\" fill=\"#ffd166\"/><circle cx=\"190\" cy=\"130\" r=\"5\" fill=\"#ffd166\"/><circle cx=\"290\" cy=\"130\" r=\"5\" fill=\"#ffd166\"/><circle r=\"7\" fill=\"#06d6a0\"><animateMotion path=\"M90,100 L190,130 L290,130\" dur=\"5s\" repeatCount=\"indefinite\"/></circle><text x=\"90\" y=\"175\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">sep</text><text x=\"190\" y=\"175\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">okt</text><text x=\"290\" y=\"175\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">nov</text><text x=\"180\" y=\"200\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">saldo: % positief min % negatief</text></svg>",
+   "quiz": {
+    "q": "Wat betekent een consumentenvertrouwen van -13?",
+    "o": [
+     "13% van de mensen is pessimistisch",
+     "Er zijn meer negatieve dan positieve antwoorden",
+     "De koopkracht daalde met 13%"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "De Aandeelhouder",
+     "u": "https://www.deaandeelhouder.be/nieuws/2026/11/20/consumentenvertrouwen-stabiel-in-november/"
+    },
+    {
+     "t": "Beursduivel",
+     "u": "https://www.beursduivel.be/Nieuws/885961/Consumentenvertrouwen-stabiel-in-november.aspx"
+    },
+    {
+     "t": "CBS",
+     "u": "https://www.cbs.nl/nl-nl/nieuws/2026/47/vertrouwen-consumenten-stijgt-licht-in-november"
+    }
+   ],
+   "date": "2026-11-21T05:51:44Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Brussel ziet groei, maar inflatie blijft boven drie procent",
+   "body": "In haar herfstprognose van 17 november 2026 verwacht de Europese Commissie 1,4% groei in de EU dit jaar en volgend jaar, en 1,5% in 2028. De inflatie in de EU zou 3,3% halen in 2026 en 3,2% in 2027, duidelijk hoger dan in het voorjaar gedacht. Pas in 2028 zakt ze naar 2,3%.",
+   "take": "Brengt je spaarrekening minder op dan de inflatie? Dan verlies je koopkracht; vergelijk je rente met die 3%.",
+   "deep": "## Hoe het werkt\n\nDe Europese Commissie maakt twee keer per jaar een volledige economische prognose, in het voorjaar en in het najaar. Ze vertrekt van technische aannames over wisselkoersen, rentes en grondstofprijzen, vastgelegd op een vaste datum. Voor deze herfstprognose was dat 29 oktober 2026. Daarna rekent ze voor elk land groei, inflatie, werkloosheid en overheidsfinanciën door.\n\nInflatie is de stijging van het algemene prijspeil. Groei is de toename van alles wat een economie produceert, na correctie voor inflatie.\n\n## Een voorbeeld\n\nEen inflatie van 3,3% betekent dat een winkelkar die vandaag 100 euro kost, een jaar later gemiddeld 103,30 euro kost. Staat je spaargeld aan 2% rente, dan heb je na een jaar 102 euro: in koopkracht ben je er dan op achteruitgegaan.\n\n## Wat onderzoek zegt\n\nDe herfstprognose werd op 17 november 2026 voorgesteld door Eurocommissaris Valdis Dombrovskis. De EU-groei voor 2026 werd opgetrokken naar 1,4%, met 1,4% in 2027 en 1,5% in 2028. Voor de eurozone verwacht de Commissie volgens berichtgeving 1,2% in 2026 en 2027 en 1,3% in 2028. De inflatie in de EU zou 3,3% bedragen in 2026 en 3,2% in 2027, beduidend hoger dan in de voorjaarsprognose, om in 2028 te zakken naar 2,3%. Het gemiddelde begrotingstekort in de EU stijgt van 3,1% van het bbp in 2025 naar 3,6% in 2026 en 3,8% in 2028; twaalf lidstaten zitten in 2026 boven de 3%. Voor België verwacht de Commissie volgens Trends een tekort van 5,2% dit jaar en 5,5% in 2027. Als grootste risico noemt ze de lopende conflicten en hun effect op de energiemarkten.\n\n## Nuance of misverstand\n\nEen prognose is een beste schatting op een vast moment, geen belofte. Een nieuwe energieschok of snellere daling van prijzen kan de cijfers flink doen verschuiven; de volgende update volgt in mei 2027. Inflatie van 3% betekent ook niet dat alles 3% duurder wordt: sommige prijzen stijgen veel sneller, andere dalen.\n\n## Wat je ermee doet\n\nLeg je spaarrente naast de verwachte inflatie. Ligt ze lager, vraag je dan af welk deel van je spaargeld echt een buffer moet zijn en welk deel je op lange termijn anders kunt laten renderen. En bekijk vaste contracten zoals energie geregeld opnieuw.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">EU-prognose: groei en inflatie (%)</text><line x1=\"40\" y1=\"180\" x2=\"330\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"40\" y1=\"120\" x2=\"330\" y2=\"120\" stroke=\"#ff6b9d\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><text x=\"250\" y=\"48\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">stippel: 2% ECB</text><rect x=\"70\" y=\"180\" width=\"26\" height=\"0\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"0;42;42\" keyTimes=\"0;0.5;1\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;138;138\" keyTimes=\"0;0.5;1\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/></rect><rect x=\"100\" y=\"180\" width=\"26\" height=\"0\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"0;99;99\" keyTimes=\"0;0.5;1\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;81;81\" keyTimes=\"0;0.5;1\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/></rect><rect x=\"160\" y=\"180\" width=\"26\" height=\"0\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"0;42;42\" keyTimes=\"0;0.5;1\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;138;138\" keyTimes=\"0;0.5;1\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/></rect><rect x=\"190\" y=\"180\" width=\"26\" height=\"0\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"0;96;96\" keyTimes=\"0;0.5;1\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;84;84\" keyTimes=\"0;0.5;1\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/></rect><rect x=\"250\" y=\"180\" width=\"26\" height=\"0\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"0;45;45\" keyTimes=\"0;0.5;1\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;135;135\" keyTimes=\"0;0.5;1\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/></rect><rect x=\"280\" y=\"180\" width=\"26\" height=\"0\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"0;69;69\" keyTimes=\"0;0.5;1\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;111;111\" keyTimes=\"0;0.5;1\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/></rect><text x=\"96\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">2026</text><text x=\"186\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">2027</text><text x=\"276\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">2028</text><text x=\"40\" y=\"48\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">groen: groei</text><text x=\"135\" y=\"48\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">geel: inflatie</text><text x=\"113\" y=\"74\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">3,3</text><text x=\"203\" y=\"77\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">3,2</text><text x=\"293\" y=\"104\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">2,3</text></svg>",
+   "quiz": {
+    "q": "Welke inflatie verwacht de Commissie voor de EU in 2026?",
+    "o": [
+     "3,3%",
+     "2,0%",
+     "1,4%"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Europese Commissie",
+     "u": "https://commission.europa.eu/news-and-media/news/autumn-economic-forecast-continued-growth-amid-higher-inflation-2026-11-17_en"
+    },
+    {
+     "t": "IEU Monitoring",
+     "u": "https://ieu-monitoring.com/editorial/eu-commission-forecasts-steady-growth-but-higher-inflation-through-2027/1254998"
+    },
+    {
+     "t": "Trends",
+     "u": "https://trends.knack.be/nieuws/macro-economie-beleid/bekijk-europese-commissie-ziet-belgische-begrotingstekort-verder-toenemen/"
+    }
+   ],
+   "date": "2026-11-21T05:51:44Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Een Belgisch handje moet lokale webshops herkenbaar maken",
+   "body": "E-commercefederatie Becom lanceerde op 19 november 2026, samen met Bancontact en Pluxee, het 'Belgisch handje': een label voor gecontroleerde Belgische webshops dat ook verschijnt als je met Bancontact afrekent. Becom mikt op 15.000 deelnemers tegen eind dit jaar. Vorig jaar draaiden Belgische webshops rond Black Friday zo'n 474 miljoen euro omzet.",
+   "take": "Wil je lokaal kopen? Let op het label, maar check ook prijs en retourvoorwaarden: Belgisch betekent niet automatisch goedkoper.",
+   "deep": "## Hoe het werkt\n\nEen herkomstlabel is een snelle vuistregel voor de koper. Online is het vaak moeilijk te zien waar een webshop echt gevestigd is: een Nederlandstalige site met een .be-gevoel kan evengoed vanuit het buitenland werken. Het Belgisch handje lost dat op met drie onderdelen. Belgische webshops kunnen zich gratis registreren op een lijst die Becom beheert. Becom controleert of de shop echt Belgisch is. Daarna verschijnt het handje bij het afrekenen wanneer je Bancontact kiest. Er is ook een browserextensie die Belgische shops aanduidt.\n\nIn marketing heet dit het herkomsteffect: waar iets vandaan komt, kleurt hoe we het beoordelen.\n\n## Een voorbeeld\n\nJe zoekt online een nieuwe fietshelm in de Black Friday-week. Drie webshops tonen ongeveer dezelfde prijs. Bij één ervan zie je het handje bij het betalen. Wie lokale handelaars wil steunen of een makkelijk aanspreekpunt wil bij problemen, heeft nu een signaal om op te letten.\n\n## Wat onderzoek zegt\n\nBecom maakte het initiatief bekend in een persbericht van 19 november 2026. Volgens de federatie ligt het transactievolume van Belgische handelaars tijdens het Black Friday-weekend zo'n 60% hoger dan op een gemiddelde dag. Rond Black Friday van vorig jaar haalden Belgische webshops volgens berichtgeving 474 miljoen euro omzet uit 5,47 miljoen transacties; Becom zelf spreekt van bijna een half miljard euro. De federatie hoopt tegen eind dit jaar zo'n 15.000 deelnemende handelaars te hebben. Becom vraagt ook om de sperperiode te schrappen: de periode voor de solden waarin winkels in kleding, schoenen en lederwaren geen prijsverminderingen mogen aankondigen. Ze vraagt de FOD Economie om vóór 1 december duidelijkheid over de handhaving.\n\n## Nuance of misverstand\n\nHet label zegt waar de webshop gevestigd is, niet waar een product gemaakt is. Het is ook geen kwaliteits- of prijsgarantie. En buitenlandse webshops blijven voor Belgen gewoon bereikbaar; dat is precies waarom Becom strengere regels voor eigen handelaars zinloos vindt. Black Friday valt dit jaar op 27 november.\n\n## Wat je ermee doet\n\nBeslis vooraf wat je belangrijk vindt: laagste prijs, snelle levering, makkelijke retour of lokaal kopen. Gebruik het handje als één signaal in dat lijstje, en vergelijk nog altijd de echte prijs met die van de weken ervoor.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Van webshop tot Belgisch handje</text><rect x=\"20\" y=\"80\" width=\"80\" height=\"44\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"60\" y=\"106\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">webshop</text><rect x=\"140\" y=\"80\" width=\"80\" height=\"44\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"100\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Becom</text><text x=\"180\" y=\"115\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">controleert</text><rect x=\"260\" y=\"80\" width=\"80\" height=\"44\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"300\" y=\"100\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">afrekenen</text><text x=\"300\" y=\"115\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Bancontact</text><path d=\"M100,102 L132,102\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M132,97 L140,102 L132,107 Z\" fill=\"#fff\"/><path d=\"M220,102 L252,102\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M252,97 L260,102 L252,107 Z\" fill=\"#fff\"/><circle r=\"6\" fill=\"#06d6a0\"><animateMotion path=\"M60,140 L180,140 L300,140\" dur=\"5s\" repeatCount=\"indefinite\"/></circle><circle cx=\"300\" cy=\"170\" r=\"18\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\" opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;0.2;1;0.2\" keyTimes=\"0;0.75;0.9;1\" dur=\"5s\" repeatCount=\"indefinite\"/></circle><text x=\"300\" y=\"174\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">BE</text><text x=\"150\" y=\"175\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">label verschijnt bij betalen</text><text x=\"180\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">doel: 15.000 handelaars tegen eind 2026</text></svg>",
+   "quiz": {
+    "q": "Wat garandeert het Belgisch handje?",
+    "o": [
+     "Dat het product in België gemaakt is",
+     "Dat de prijs de laagste is",
+     "Dat de webshop door Becom als Belgisch is gecontroleerd"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Trends",
+     "u": "https://trends.knack.be/ondernemen/black-friday-becom-wil-af-van-sperperiode-en-introduceert-belgisch-handje/"
+    },
+    {
+     "t": "Brussels Times",
+     "u": "https://www.brusselstimes.com/belgium/2414055/belgian-online-stores-given-belgian-hand-to-increase-visibility-ahead-of-black-friday"
+    },
+    {
+     "t": "Comm2you (persbericht Becom)",
+     "u": "https://news.comm2you.be/black-friday-belgische-e-commerce-federatie-becom-vraagt-duidelijkheid-over-sperperiode-en-lanceert-belgisch-handje-om-belgische-webshops-te-versterken"
+    }
+   ],
+   "date": "2026-11-21T05:51:44Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Eén doel maakt een app gepaster voor oude vrienden",
+   "body": "Psychologen David Lee en Daniel Kulesza van de University at Buffalo lieten in drie experimenten met samen meer dan 1.000 deelnemers een platform zien als iets met één doel of met veel doelen. Wie aan één doel dacht, vond het platform geschikter om weer contact te zoeken met vrienden. Het persbericht verscheen op 19 november 2026.",
+   "take": "Wil je een oude vriend terugvinden? Kies een kanaal dat voor contact bedoeld is, zoals een berichtenapp, niet je reels-feed.",
+   "deep": "## Hoe het werkt\n\nMensen hebben ongeschreven regels over waarvoor een kanaal dient. Een brief voelt anders dan een sms, een werkmail anders dan een berichtje op een feestdag. Veel sociale media zijn uitgegroeid tot alles tegelijk: video's, nieuws, winkelen, reclame en ook nog berichten. Volgens deze onderzoekers kan zo'n alles-in-één-platform aanvoelen als het verkeerde gereedschap om een vervaagde vriendschap op te warmen.\n\nIn de experimenten werd telkens gestuurd hoe deelnemers over een platform dachten: als iets met één doel of met meerdere. Daarna vroegen de onderzoekers hoe gepast ze het vonden om er opnieuw contact te leggen, en hoe bereid en geneigd ze waren om iemand aan te schrijven.\n\n## Een voorbeeld\n\nJe denkt aan een vriendin van de middelbare school in Kortrijk die je al tien jaar niet sprak. Je vindt haar terug op een app waar je vooral filmpjes en advertenties ziet. Een bericht sturen voelt daar vreemd. Zie je diezelfde app als 'de plek om met mensen in contact te blijven', dan voelt hetzelfde bericht ineens normaal.\n\n## Wat onderzoek zegt\n\nDavid Lee en Daniel Kulesza (University at Buffalo) publiceerden hun drie experimenten, met in totaal meer dan 1.000 deelnemers, in het Journal of Experimental Social Psychology; het persbericht van de universiteit verscheen op 19 november 2026. Deelnemers die een platform als iets met één doel zagen, vonden het een geschiktere plek om weer contact te leggen. Ander werk toont waarom dit ertoe doet. In een studie van Lara Aknin en Gillian Sandstrom uit 2024 in Communications Psychology gaf 90% van de deelnemers toe het contact met een vriend te hebben verloren, maar mensen namen zelden het initiatief om dat te herstellen. Wie eerst drie minuten berichtjes stuurde naar huidige vrienden, zocht daarna wel vaker contact met oude.\n\n## Nuance of misverstand\n\nDe studie mat vooral hoe gepast mensen iets vonden en hoe bereid ze waren, niet hoeveel berichten ze echt verstuurden. Het gaat om een manier van kijken naar een platform, niet om een bewezen eigenschap van één app. En niet elke verloren vriendschap moet terugkomen.\n\n## Wat je ermee doet\n\nBepaal voor jezelf waarvoor je elke app gebruikt. Wil je iemand terugzien, stuur dan een kort, warm bericht via een kanaal dat voor contact bedoeld is. Begin eventueel met een berichtje aan een huidige vriend om op te warmen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Hoe zie je het platform?</text><rect x=\"40\" y=\"50\" width=\"100\" height=\"120\" rx=\"10\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"90\" y=\"80\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">één doel</text><rect x=\"220\" y=\"50\" width=\"100\" height=\"120\" rx=\"10\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"270\" y=\"80\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">alles tegelijk</text><text x=\"270\" y=\"100\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">video, nieuws,</text><text x=\"270\" y=\"116\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">winkelen, chat</text><text x=\"90\" y=\"100\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">contact</text><text x=\"90\" y=\"116\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">houden</text><circle r=\"6\" fill=\"#06d6a0\"><animateMotion path=\"M90,140 C90,190 180,200 180,150\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><circle cx=\"180\" cy=\"145\" r=\"10\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"180\" y=\"128\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">oude vriend</text><circle cx=\"270\" cy=\"145\" r=\"6\" fill=\"#ff6b9d\"><animate attributeName=\"r\" values=\"6;3;6\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><text x=\"90\" y=\"190\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">voelt gepast</text><text x=\"270\" y=\"190\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">voelt minder gepast</text></svg>",
+   "quiz": {
+    "q": "Wanneer vonden deelnemers een platform geschikter om weer contact te zoeken?",
+    "o": [
+     "Als ze het zagen als iets met één doel",
+     "Als het meer functies had",
+     "Als er meer reclame op stond"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "University at Buffalo",
+     "u": "https://www.buffalo.edu/news/releases/2026/11/Social-Media-Not-Connecting-Socially-David-Lee.html"
+    },
+    {
+     "t": "EurekAlert",
+     "u": "https://www.eurekalert.org/news-releases/1152800"
+    },
+    {
+     "t": "BPS Research Digest (Aknin & Sandstrom)",
+     "u": "https://bps.org.uk/research-digest/were-surprisingly-reluctant-reach-out-old-friends"
+    }
+   ],
+   "date": "2026-11-21T05:51:44Z"
   }
  ],
  "dives": [
