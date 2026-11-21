@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T05:47:34Z",
+ "updated": "2026-11-21T05:49:57Z",
  "cards": [
   {
    "cat": "wetenschap",
@@ -1260,6 +1260,86 @@
     }
    ],
    "date": "2026-11-21T05:47:34Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "Vier dagen werken: minder uren of langere dagen?",
+   "body": "In 2022 werkten zo'n 2.900 Britse werknemers bij 61 bedrijven zes maanden lang 80% van hun uren aan hetzelfde loon. Na afloop gingen 56 bedrijven door, 18 maakten het definitief, en de omzet bleef ongeveer gelijk. In België kan sinds november 2022 een vierdagenweek met evenveel uren, maar na drie maanden koos amper 0,5% ervoor.",
+   "take": "Overweeg je een vierdagenweek? Vraag eerst: werk ik minder uren, of prop ik dezelfde uren in langere dagen?",
+   "deep": "## Hoe het werkt\n\nAchter het woord 'vierdagenweek' zitten twee heel verschillende modellen. In het eerste werk je minder uren voor hetzelfde loon: het zogenaamde 100-80-100-model, met 100 procent loon voor 80 procent van de tijd, in ruil voor de belofte om 100 procent van het werk te blijven leveren. Om dat waar te maken, schrappen bedrijven overbodige vergaderingen, onderbrekingen en tijdverlies.\n\nIn het tweede model werk je evenveel uren, maar verdeeld over vier langere dagen. Je wint een vrije dag, maar elke werkdag wordt zwaarder. Dat is het Belgische systeem.\n\n## Een voorbeeld\n\nEen bediende met een voltijdse job van 38 uur per week kan in België sinds 20 november 2022 vragen om die uren in vier dagen te presteren, dus ongeveer negen en een half uur per dag. Haar Britse collega in de proef werkte gewoon minder uren, zonder loonverlies. Op papier heten beide een vierdagenweek, in de praktijk voelen ze heel anders.\n\n## Wat onderzoek zegt\n\nDe Britse proef liep van juni tot december 2022, met 61 bedrijven en ongeveer 2.900 werknemers. Onderzoekers van onder meer de denktank Autonomy rapporteerden dat 56 van de 61 bedrijven (92 procent) na afloop doorgingen, en dat 18 het definitief invoerden. De omzet bleef over de proefperiode ongeveer gelijk en steeg met 1,4 procent. Werknemers meldden minder stress en ziekte. Begin 2024 had volgens NPR het overgrote deel van de bedrijven het systeem nog. In België was de belangstelling klein: bijna drie maanden na de invoering maakte volgens loonbedrijf Acerta 0,5 procent van de werknemers gebruik van de vierdagenweek met evenveel uren.\n\n## Nuance of misverstand\n\nDe Britse resultaten klinken overtuigend, maar het was geen gecontroleerd experiment. Er was geen controlegroep van willekeurig gekozen bedrijven, en de deelnemers schreven zich vrijwillig in, dus het ging om bedrijven die er al in geloofden. Veel resultaten zijn bovendien zelf gerapporteerd door werkgevers en werknemers. Ook hoofdonderzoeker Juliet Schor erkende dat een gerandomiseerde studie de gouden standaard is. Het Belgische model wint dan weer geen tijd: het verschuift alleen werkuren.\n\n## Wat je ermee doet\n\nOverweeg je een vierdagenweek, kijk dan eerst welk model het is. Werk je evenveel uren, test dan of lange dagen bij jou en je gezin passen. Wil je echt minder uren werken, begin dan bij de verspilling: minder en kortere vergaderingen en minder onderbrekingen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Twee soorten vierdagenweek</text><text x=\"20\" y=\"80\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">VK-proef</text><rect x=\"95\" y=\"50\" width=\"30\" height=\"50\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"95\" y=\"60\" width=\"30\" height=\"40\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"0;40;40\" keyTimes=\"0;0.10;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"100;60;60\" keyTimes=\"0;0.10;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"135\" y=\"50\" width=\"30\" height=\"50\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"135\" y=\"60\" width=\"30\" height=\"40\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"0;40;40\" keyTimes=\"0;0.18;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"100;60;60\" keyTimes=\"0;0.18;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"175\" y=\"50\" width=\"30\" height=\"50\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"175\" y=\"60\" width=\"30\" height=\"40\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"0;40;40\" keyTimes=\"0;0.26;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"100;60;60\" keyTimes=\"0;0.26;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"215\" y=\"50\" width=\"30\" height=\"50\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"215\" y=\"60\" width=\"30\" height=\"40\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"0;40;40\" keyTimes=\"0;0.34;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"100;60;60\" keyTimes=\"0;0.34;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"255\" y=\"50\" width=\"30\" height=\"50\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1\"/><text x=\"270\" y=\"80\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">vrij</text><text x=\"20\" y=\"160\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">België</text><rect x=\"95\" y=\"130\" width=\"30\" height=\"50\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"95\" y=\"132.5\" width=\"30\" height=\"47.5\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"0;47.5;47.5\" keyTimes=\"0;0.10;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;132.5;132.5\" keyTimes=\"0;0.10;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"110\" y=\"196\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ma</text><rect x=\"135\" y=\"130\" width=\"30\" height=\"50\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"135\" y=\"132.5\" width=\"30\" height=\"47.5\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"0;47.5;47.5\" keyTimes=\"0;0.18;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;132.5;132.5\" keyTimes=\"0;0.18;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"150\" y=\"196\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">di</text><rect x=\"175\" y=\"130\" width=\"30\" height=\"50\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"175\" y=\"132.5\" width=\"30\" height=\"47.5\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"0;47.5;47.5\" keyTimes=\"0;0.26;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;132.5;132.5\" keyTimes=\"0;0.26;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"190\" y=\"196\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">wo</text><rect x=\"215\" y=\"130\" width=\"30\" height=\"50\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"215\" y=\"132.5\" width=\"30\" height=\"47.5\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"0;47.5;47.5\" keyTimes=\"0;0.34;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;132.5;132.5\" keyTimes=\"0;0.34;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"230\" y=\"196\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">do</text><rect x=\"255\" y=\"130\" width=\"30\" height=\"50\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1\"/><text x=\"270\" y=\"160\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">vrij</text><text x=\"270\" y=\"196\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">vr</text><text x=\"292\" y=\"82\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">32 uur</text><text x=\"292\" y=\"98\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">zelfde loon</text><text x=\"292\" y=\"162\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">38 uur</text><text x=\"292\" y=\"178\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">in 4 dagen</text><text x=\"180\" y=\"212\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">minder werken of anders verdelen</text></svg>",
+   "quiz": {
+    "q": "Wat houdt de Belgische vierdagenweek uit 2022 in?",
+    "o": [
+     "Vier dagen werken met 20% minder uren aan hetzelfde loon",
+     "Een verplichte vrije vrijdag voor iedereen",
+     "Evenveel uren werken, verdeeld over vier dagen"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "NPR: UK companies four-day workweek study",
+     "u": "https://www.npr.org/2023/02/21/1158507132/uk-study-companies-four-day-workweek"
+    },
+    {
+     "t": "Autonomy: UK four-day week pilot results",
+     "u": "https://autonomy.work/portfolio/uk4dwpilotresults/"
+    },
+    {
+     "t": "NPR: experiment, full salary for fewer days",
+     "u": "https://www.npr.org/sections/money/2022/11/15/1136039542/these-companies-ran-an-experiment-pay-workers-their-full-salary-to-work-fewer-da"
+    },
+    {
+     "t": "VRT NWS: weinig animo voor vierdagenwerkweek",
+     "u": "https://www.vrt.be/vrtnws/nl/2023/02/03/voorlopig-weinig-animo-voor-vierdagenwerkweek-amper-5-op-de-1-0/"
+    },
+    {
+     "t": "NPR: a year later, they still love it",
+     "u": "https://npr.org/2024/02/27/1234271434/4-day-workweek-successful-a-year-later-in-uk"
+    }
+   ],
+   "date": "2026-11-21T05:49:57Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Hoe rijker het gezin, hoe kleiner het voedingsaandeel",
+   "body": "In 1857 formuleerde de statisticus Ernst Engel een wet op basis van budgetten van Belgische arbeidersgezinnen: hoe hoger het inkomen, hoe kleiner het deel dat naar voeding gaat. Het geldt nog altijd. In de VS gaf het armste vijfde van de gezinnen in 2024 33% van zijn inkomen uit aan eten, het rijkste vijfde 6,4%.",
+   "take": "Stijgen de voedselprijzen? Besef dat dat gezinnen met een laag inkomen veel harder raakt dan het gemiddelde laat vermoeden.",
+   "deep": "## Hoe het werkt\n\nEten is een basisbehoefte: je hebt elke dag ongeveer evenveel nodig, of je nu veel of weinig verdient. Als je inkomen stijgt, ga je wel duurder of vaker buitenshuis eten, maar je uitgaven aan voeding groeien trager dan je inkomen. Het extra geld gaat vooral naar andere dingen, zoals wonen, reizen, vrije tijd of sparen.\n\nGevolg: in euro geven rijkere gezinnen meer uit aan eten, maar als deel van hun inkomen minder. Economen zeggen dat de inkomenselasticiteit van voeding kleiner is dan één.\n\n## Een voorbeeld\n\nNeem twee Vlaamse gezinnen in de supermarkt. Het ene heeft een krap budget, het andere een ruim inkomen. Het tweede gezin koopt misschien duurdere kaas en gaat vaker op restaurant, maar het besteedt van elke verdiende euro een veel kleiner stuk aan eten. Wanneer brood, melk en groenten duurder worden, voelt het eerste gezin dat dus veel sterker.\n\n## Wat onderzoek zegt\n\nDe Duitse statisticus Ernst Engel stelde zijn wet in 1857 op. Hij steunde op budgetgegevens van Belgische arbeidersgezinnen, die Ducpétiaux had verzameld en in 1855 publiceerde. Het patroon is sindsdien telkens opnieuw gevonden. Het Amerikaanse ministerie van Landbouw (USDA) berekende dat gezinnen in het armste vijfde in 2024 gemiddeld 5.498 dollar aan voeding uitgaven, 33,0 procent van hun inkomen vóór belastingen. Het middelste vijfde gaf 9.097 dollar uit (12,2 procent), het rijkste vijfde 16.989 dollar (6,4 procent). Ook tussen landen zie je het: in Nigeria, Kenia en Bangladesh gaat meer dan de helft van de consumptie-uitgaven naar voeding, in rijke landen zoals de VS, Zwitserland en Canada een veel kleiner deel.\n\n## Nuance of misverstand\n\nDe wet van Engel zegt niet dat rijkere mensen minder uitgeven aan eten: in euro geven ze juist meer uit. Het gaat om het aandeel. Ze geldt ook voor groepen, niet voor elk afzonderlijk gezin, en alleen als prijzen en voorkeuren verder gelijk blijven. Vergelijkingen tussen landen of jaren zijn bovendien lastig, omdat bronnen soms rekenen met inkomen vóór belastingen en soms met besteedbaar inkomen of totale uitgaven. Ook de USDA veranderde zo in 2024 van basis.\n\n## Wat je ermee doet\n\nKijk bij nieuws over inflatie niet alleen naar het gemiddelde. Voor wie weinig verdient, weegt een duurdere boodschappenkar veel zwaarder. En in je eigen budget: als je inkomen stijgt, beslis dan bewust waar het extra geld heen gaat, want het gaat zelden naar eten.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Deel van het inkomen naar voeding (VS, 2024)</text><line x1=\"40\" y1=\"180\" x2=\"330\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"70\" y=\"61.2\" width=\"50\" height=\"118.8\" fill=\"#ff6b9d\"><animate attributeName=\"height\" values=\"0;118.8;118.8\" keyTimes=\"0;0.4;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;61.2;61.2\" keyTimes=\"0;0.4;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"95\" y=\"51.2\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">33%</text><text x=\"95\" y=\"196\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">laagste 20%</text><text x=\"95\" y=\"212\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">$5.498</text><rect x=\"165\" y=\"136.1\" width=\"50\" height=\"43.9\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"0;43.9;43.9\" keyTimes=\"0;0.4;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;136.1;136.1\" keyTimes=\"0;0.4;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"190\" y=\"126.1\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">12%</text><text x=\"190\" y=\"196\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">midden</text><text x=\"190\" y=\"212\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">$9.097</text><rect x=\"260\" y=\"157.0\" width=\"50\" height=\"23.0\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"0;23.0;23.0\" keyTimes=\"0;0.4;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;157.0;157.0\" keyTimes=\"0;0.4;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"285\" y=\"147.0\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">6%</text><text x=\"285\" y=\"196\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">hoogste 20%</text><text x=\"285\" y=\"212\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">$16.989</text></svg>",
+   "quiz": {
+    "q": "Wat zegt de wet van Engel?",
+    "o": [
+     "Het aandeel van voeding in je budget daalt als je inkomen stijgt",
+     "Rijkere gezinnen geven in euro minder uit aan eten",
+     "Voedselprijzen stijgen sneller dan lonen"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "USDA ERS: Food Prices and Spending",
+     "u": "https://www.ers.usda.gov/data-products/ag-and-food-statistics-charting-the-essentials/food-prices-and-spending"
+    },
+    {
+     "t": "USDA ERS: food share declines as income rises",
+     "u": "https://www.ers.usda.gov/data-products/chart-gallery/58372"
+    },
+    {
+     "t": "Britannica: Engel curve",
+     "u": "https://www.britannica.com/topic/Engel-curve"
+    },
+    {
+     "t": "SAGE: Engel's law",
+     "u": "https://sk.sagepub.com/ency/edvol/embed/consumerculture/chpt/engels-law"
+    },
+    {
+     "t": "USDA ERS: international consumer trends",
+     "u": "https://www.ers.usda.gov/topics/international-markets-us-trade/international-consumer-and-food-industry-trends"
+    }
+   ],
+   "date": "2026-11-21T05:49:57Z"
   }
  ],
  "dives": [
