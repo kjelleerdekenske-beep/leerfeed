@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T05:44:04Z",
+ "updated": "2026-11-21T05:44:12Z",
  "cards": [
   {
    "cat": "wetenschap",
@@ -312,6 +312,326 @@
     }
    ],
    "date": "2026-11-21T05:44:04Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Je energiecentrales dragen DNA van alleen je moeder",
+   "body": "Bijna al je DNA zit in de celkern, half van je vader en half van je moeder. Maar je mitochondriën, de energiecentrales van je cellen, hebben eigen ringvormig DNA: zo'n 16.500 bouwstenen, 37 genen. Dat erf je, op zeldzame uitzonderingen na, alleen van je moeder. Het is een overblijfsel van een bacterie die ooit in een cel ging wonen.",
+   "take": "Hoor je over een 'erfelijke spierziekte via moeders kant'? Vraag dan of het om mitochondriaal DNA gaat.",
+   "deep": "## Hoe het werkt\n\nEen mitochondrie is een klein orgaantje in je cel dat uit voedsel en zuurstof bruikbare energie maakt. Je hebt er per cel vaak honderden. Het bijzondere: elke mitochondrie draagt een eigen stukje DNA. Dat is geen lange, lineaire draad zoals in de celkern, maar een kleine ring, net als bij bacteriën.\n\nBij mensen telt die ring ongeveer 16.500 baseparen (de precieze referentie is 16.569) en 37 genen. Dertien daarvan bevatten het recept voor eiwitten die nodig zijn bij de energieproductie. De andere maken RNA-moleculen: 22 transfer-RNA's en 2 ribosomale RNA's, het gereedschap om die eiwitten ter plekke te bouwen.\n\nBij de bevruchting brengt de eicel haar mitochondriën mee. Die van de zaadcel verdwijnen. Daardoor krijg je dit DNA vrijwel alleen van je moeder, zij van haar moeder, enzovoort.\n\n## Een voorbeeld\n\nJe broer, je zus en jij hebben normaal exact hetzelfde mitochondriale DNA als je moeder en je grootmoeder langs moederszijde. Je vader heeft het zijne van zijn moeder, maar geeft het niet door. Daarom gebruiken genetici dit DNA om moederlijnen ver terug te volgen.\n\n## Wat onderzoek zegt\n\nMitochondriaal DNA werd in de jaren 1960 ontdekt. In 1967 werkte de Amerikaanse biologe Lynn Margulis het idee uit dat mitochondriën afstammen van vrijlevende bacteriën die door een andere cel werden opgenomen en bleven. Die endosymbiosetheorie werd lang betwijfeld, maar is nu breed aanvaard. Het DNA van mitochondriën lijkt op dat van een groep bacteriën waartoe ook de verwekker van tyfus (Rickettsia) behoort. De oerbacterie had waarschijnlijk honderden genen meer. De meeste gingen verloren of verhuisden naar de celkern.\n\n## Nuance of misverstand\n\n'Alleen van je moeder' is de regel, met zeldzame uitzonderingen: er zijn gevallen beschreven waarin ook vaderlijk mitochondriaal DNA doorkwam. En mitochondriën werken niet op eigen houtje. De meeste eiwitten die ze nodig hebben, worden gemaakt op basis van genen in de celkern. Je energiecentrales hangen dus af van het DNA van beide ouders.\n\n## Wat je ermee doet\n\nWie een DNA-test laat doen voor stamboomonderzoek, krijgt soms een 'moederlijn' te zien: dat is je mitochondriale DNA. En hoor je dat een aandoening alleen via de moeder wordt doorgegeven, dan is dat een aanwijzing dat het mitochondriale DNA in het spel is. Een arts-geneticus kan dat uitzoeken.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Twee soorten DNA in één cel</text><ellipse cx=\"150\" cy=\"120\" rx=\"130\" ry=\"80\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"90\" cy=\"115\" r=\"36\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"90\" y=\"112\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">celkern</text><text x=\"90\" y=\"126\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">papa + mama</text><ellipse cx=\"200\" cy=\"120\" rx=\"52\" ry=\"28\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"/><circle cx=\"200\" cy=\"120\" r=\"13\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"6 4\"><animateTransform attributeName=\"transform\" type=\"rotate\" from=\"0 200 120\" to=\"360 200 120\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><text x=\"200\" y=\"166\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">mitochondrie</text><text x=\"200\" y=\"180\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ring-DNA, 37 genen</text><text x=\"318\" y=\"70\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">alleen</text><text x=\"318\" y=\"84\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">van mama</text><path d=\"M300 92 L262 108\" stroke=\"#ff6b9d\" stroke-width=\"2\" fill=\"none\" stroke-dasharray=\"5 4\"><animate attributeName=\"stroke-dashoffset\" from=\"18\" to=\"0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><path d=\"M258 110 L266 102 L268 112 Z\" fill=\"#ff6b9d\"/><text x=\"180\" y=\"212\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">lijkt op het DNA van een bacterie</text></svg>",
+   "quiz": {
+    "q": "Van wie erf je je mitochondriale DNA, op zeldzame uitzonderingen na?",
+    "o": [
+     "Van je vader én je moeder, half om half",
+     "Van je moeder",
+     "Van je vader"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "MedlinePlus: Mitochondrial DNA",
+     "u": "https://medlineplus.gov/genetics/chromosome/mitochondrial-dna"
+    },
+    {
+     "t": "NIGMS (NIH): mitochondriën",
+     "u": "https://www.nigms.nih.gov/node/144581"
+    },
+    {
+     "t": "UC Berkeley: Endosymbiosis",
+     "u": "https://undsci.berkeley.edu/article/0_0_0/endosymbiosis_07"
+    }
+   ],
+   "date": "2026-11-21T05:44:12Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Een uil draait zijn kop 270 graden zonder bloedtekort",
+   "body": "Uilen kunnen hun kop ongeveer 270 graden draaien. Onderzoekers van Johns Hopkins ontleedden in 2013 twaalf dode uilen en vonden drie trucs: veertien nekwervels (wij hebben er zeven), gaten in de wervels die tot tien keer breder zijn dan de slagader erin, en bloedvaten die uitzetten tot kleine reservoirs. Zo blijft er bloed naar de hersenen stromen.",
+   "take": "Draai je zelf je nek snel en ver bij sport of chiropraxie? Doe het rustig: mensennekken missen de buffers van een uil.",
+   "deep": "## Hoe het werkt\n\nEen uil kan zijn ogen nauwelijks bewegen: ze zitten vast in de oogkas. Om rond te kijken moet hij dus zijn hele kop draaien. Dat lukt over zo'n 270 graden, ver voorbij wat een mens veilig kan.\n\nDaarbij komen drie aanpassingen samen. Eerst de botten: een uil heeft veertien nekwervels, het dubbele van een mens, wat de nek soepeler maakt. Dan de gaten waar de wervelslagader door loopt. Bij ons is zo'n gat ongeveer even breed als de slagader. Bij een uil is het ongeveer tien keer breder, waardoor het bloedvat ruimte heeft om mee te bewegen in plaats van geplet te worden. Ten slotte de bloedvaten zelf: aan de basis van de kop, net onder de kaak, kunnen ze opzwellen en bloed opslaan, als een kleine buffer terwijl de kop gedraaid is. Er zijn ook verbindingen tussen de halsslagaders en de wervelslagaders, zodat bloed een andere route kan nemen als één weg even dichtgeknepen raakt.\n\n## Een voorbeeld\n\nEen kerkuil zit op een paal langs een Vlaamse akker en hoort een muis achter zich. Zonder zijn lijf te verroeren draait hij zijn kop over zijn schouder naar achteren. De draai duurt een fractie van een seconde, en toch blijft zijn brein van bloed voorzien.\n\n## Wat onderzoek zegt\n\nHet team van radioloog Philippe Gailloud en medisch illustrator Fabian de Kok-Mercado (Johns Hopkins) onderzocht twaalf uilen die na een natuurlijke dood waren verkregen. Ze spoten contrastvloeistof in de slagaders, draaiden de koppen met de hand en maakten röntgenbeelden. Ze zagen hoe de bloedvaten onder de kaak bleven uitzetten en de vloeistof zich in reservoirs verzamelde. Bij twaalf van de veertien nekwervels vonden ze de extra brede gaten. Hun werk verscheen in februari 2013 in Science, als winnaar van een wedstrijd voor wetenschappelijke visualisatie.\n\n## Nuance of misverstand\n\nEen uil draait zijn kop niet volledig rond: 360 graden is een mythe, 270 is het maximum. En de extra wervels alleen verklaren het niet: zonder de aangepaste bloedvaten zou zo'n draai de bloedtoevoer afknijpen.\n\n## Wat je ermee doet\n\nBij mensen kan een plotse, krachtige draai van de nek in zeldzame gevallen een halsslagader of wervelslagader beschadigen. Dat was precies waarom de onderzoekers uilen bestudeerden. Kijk je over je schouder bij het fietsen of parkeren, draai dan ook je romp mee in plaats van alles uit je nek te halen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Kop 270° draaien, bloed blijft stromen</text><path d=\"M90 70 A50 50 0 1 1 40 120\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><text x=\"90\" y=\"190\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">270° bereik</text><circle cx=\"90\" cy=\"120\" r=\"30\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><g><path d=\"M90 90 L84 80 L96 80 Z\" fill=\"#ffd166\"/><circle cx=\"80\" cy=\"104\" r=\"5\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"100\" cy=\"104\" r=\"5\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><animateTransform attributeName=\"transform\" type=\"rotate\" values=\"-135 90 120;135 90 120;-135 90 120\" dur=\"6s\" repeatCount=\"indefinite\"/></g><circle cx=\"260\" cy=\"110\" r=\"44\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"260\" cy=\"110\" r=\"7\" fill=\"#ff6b9d\"><animate attributeName=\"cx\" values=\"236;284;236\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><text x=\"260\" y=\"74\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">nekwervel</text><text x=\"260\" y=\"172\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">gat ~10x breder</text><text x=\"260\" y=\"186\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">dan de slagader</text><text x=\"260\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">14 nekwervels (mens: 7)</text></svg>",
+   "quiz": {
+    "q": "Wat helpt een uil om zijn kop ver te draaien zonder dat het bloed naar zijn hersenen stokt?",
+    "o": [
+     "Hij heeft veel minder nekwervels dan een mens",
+     "Hij stopt even met ademen tijdens het draaien",
+     "De gaten rond zijn wervelslagader zijn veel breder dan het bloedvat"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "NPR: How owls spin their heads",
+     "u": "https://www.npr.org/sections/health-shots/2013/01/31/170758750/how-owls-spin-their-heads-without-tearing-arteries"
+    },
+    {
+     "t": "National Geographic: How owls twist their heads",
+     "u": "https://www.nationalgeographic.com/animals/article/how-owls-twist-heads-almost-360-degrees"
+    },
+    {
+     "t": "EurekAlert: Johns Hopkins persbericht",
+     "u": "https://www.eurekalert.org/news-releases/469762"
+    }
+   ],
+   "date": "2026-11-21T05:44:12Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "De venusvliegenval telt tot vijf voor hij verteert",
+   "body": "Een venusvliegenval klapt niet dicht bij één aanraking. Pas als een voelhaartje binnen ongeveer 30 seconden een tweede keer geraakt wordt, sluit de val. Daarna telt de plant verder: Duitse onderzoekers zagen in 2016 dat pas na vijf prikkels de klieren verteringsenzymen beginnen te maken. Zo verspilt de plant geen energie aan een vallend blaadje of regendruppel.",
+   "take": "Een vliegenval in huis? Prik niet voor de lol in de val: elke loze sluiting kost de plant energie.",
+   "deep": "## Hoe het werkt\n\nAan de binnenkant van elke val staan een paar stijve voelhaartjes. Buig je er één, dan wekt de plant een elektrisch signaal op en stijgt het calciumgehalte in de cellen. Dat alleen is te weinig. Komt er binnen een halve minuut een tweede prikkel, dan stapelt het calcium zich op tot boven een drempel en klapt de val dicht. Daarna gaat het tellen door: een insect dat binnen spartelt, raakt telkens weer haartjes. Na in totaal vijf prikkels schakelen de klieren aan de binnenkant de genen aan voor verteringsenzymen. Hoe meer de prooi tegenspartelt, hoe meer verteringssap.\n\n## Een voorbeeld\n\nEen regendruppel of een vallend zaadje raakt meestal maar één haartje. De val blijft open. Een vlieg die rondloopt, raakt er al snel twee, en eenmaal gevangen zorgt haar gespartel voor de rest van de telling.\n\n## Wat onderzoek zegt\n\nHet team van plantenbioloog Rainer Hedrich (Universiteit van Würzburg) publiceerde in 2016 in Current Biology dat de plant de elektrische signalen van een prooi echt telt. Twee prikkels sluiten de val, vijf zetten de vertering in gang. Een gevangen insect veroorzaakte zo'n 60 signalen per uur, en de plant onthield de telling minstens vier uur. In 2020 maakten Japanse onderzoekers in Nature Plants met een oplichtende calciumsensor zichtbaar dat het 'geheugen' voor de eerste aanraking uit calcium bestaat dat na ongeveer 30 seconden weer wegebt.\n\n## Nuance of misverstand\n\n'Tellen' betekent hier niet dat de plant denkt: het gaat om signalen die zich opstapelen tot een drempel. En de regel van twee aanrakingen is niet absoluut. Een studie in PLOS Biology (2020) toonde dat één lange, trage aanraking soms ook volstaat, omdat die zelf twee signalen kan opwekken.\n\n## Wat je ermee doet\n\nWie een vliegenval op de vensterbank heeft, laat hem best met rust. De plant heeft enkele dagen nodig om een prooi te verteren. Wil je het telsysteem toch zien, voer dan een klein, levend insect: dat triggert het hele programma.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">De vliegenval telt aanrakingen</text><circle cx=\"40\" cy=\"100\" r=\"22\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"fill\" values=\"rgba(255,255,255,0.14);#06d6a0;#06d6a0;rgba(255,255,255,0.14)\" keyTimes=\"0;0.1;0.85;1\" dur=\"7s\" begin=\"0s\" repeatCount=\"indefinite\"/></circle><text x=\"40\" y=\"105\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">1</text><text x=\"40\" y=\"140\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">niets</text><circle cx=\"110\" cy=\"100\" r=\"22\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"fill\" values=\"rgba(255,255,255,0.14);#06d6a0;#06d6a0;rgba(255,255,255,0.14)\" keyTimes=\"0;0.1;0.85;1\" dur=\"7s\" begin=\"1s\" repeatCount=\"indefinite\"/></circle><text x=\"110\" y=\"105\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">2</text><text x=\"110\" y=\"140\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">val dicht</text><circle cx=\"180\" cy=\"100\" r=\"22\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"fill\" values=\"rgba(255,255,255,0.14);#06d6a0;#06d6a0;rgba(255,255,255,0.14)\" keyTimes=\"0;0.1;0.85;1\" dur=\"7s\" begin=\"2s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"105\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">3</text><text x=\"180\" y=\"140\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">telt</text><circle cx=\"250\" cy=\"100\" r=\"22\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"fill\" values=\"rgba(255,255,255,0.14);#06d6a0;#06d6a0;rgba(255,255,255,0.14)\" keyTimes=\"0;0.1;0.85;1\" dur=\"7s\" begin=\"3s\" repeatCount=\"indefinite\"/></circle><text x=\"250\" y=\"105\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">4</text><text x=\"250\" y=\"140\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">verder</text><circle cx=\"320\" cy=\"100\" r=\"22\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"fill\" values=\"rgba(255,255,255,0.14);#06d6a0;#06d6a0;rgba(255,255,255,0.14)\" keyTimes=\"0;0.1;0.85;1\" dur=\"7s\" begin=\"4s\" repeatCount=\"indefinite\"/></circle><text x=\"320\" y=\"105\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">5</text><text x=\"320\" y=\"140\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">enzymen</text><text x=\"180\" y=\"180\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">tweede tik binnen ±30 seconden: dicht</text><text x=\"180\" y=\"198\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">vijfde tik: verteringssappen aan</text></svg>",
+   "quiz": {
+    "q": "Hoeveel aanrakingen zijn nodig voor de venusvliegenval verteringsenzymen begint te maken?",
+    "o": [
+     "Vijf",
+     "Eén",
+     "Twee"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Science News: Venus flytrap counts to five",
+     "u": "https://www.sciencenews.org/blog/wild-things/catch-meal-venus-flytrap-counts-five"
+    },
+    {
+     "t": "Science News: Flytrap short-term memories",
+     "u": "https://www.sciencenews.org/article/how-venus-flytraps-store-short-term-memories-prey"
+    },
+    {
+     "t": "PLOS Biology via PMC (2020)",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7351144"
+    }
+   ],
+   "date": "2026-11-21T05:44:12Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Een appel wordt bruin door een enzym, niet roest",
+   "body": "Snij je een appel aan, dan scheur je cellen open. Het enzym polyfenoloxidase (PPO) komt in contact met polyfenolen en zuurstof uit de lucht en zet ze om in bruine pigmenten, verwant aan melanine. Een scheut citroensap remt dat: in een zuur milieu werkt PPO slecht. Ook de genetisch aangepaste Arctic-appel blijft wit omdat zijn PPO-genen grotendeels uitgeschakeld zijn.",
+   "take": "Partjes voor de brooddoos? Besprenkel ze met wat citroensap of leg ze kort in water, en sluit de doos goed af.",
+   "deep": "## Hoe het werkt\n\nIn een intacte appel zitten het enzym polyfenoloxidase (PPO) en de polyfenolen, natuurlijke kleur- en smaakstoffen, netjes gescheiden in verschillende delen van de cel. Snij of kneus je het vruchtvlees, dan scheuren die compartimenten open. Nu komen enzym, polyfenolen en zuurstof uit de lucht samen. PPO helpt zuurstof aan de polyfenolen te binden, waardoor die veranderen in reactieve stoffen. Die reageren verder met elkaar of met eiwitten en vormen grotere, bruine moleculen, verwant aan melanine, het pigment in je huid.\n\nHet is dus geen roest. Roest is ijzer dat oxideert. Hier is het een enzym dat een oxidatie in de vrucht zelf versnelt.\n\n## Een voorbeeld\n\nJe snijdt 's ochtends een Jonagold in partjes voor de brooddoos. Tegen de middag is het snijvlak bruin, vooral waar het open aan de lucht lag. Een appel met een blauwe plek wordt om dezelfde reden bruin onder de schil: door de klap zijn de cellen daar al beschadigd.\n\n## Wat onderzoek zegt\n\nVoedingswetenschappers van onder meer de universiteiten van Missouri en Wisconsin leggen uit dat zuur de sleutel is: bij een zeer lage zuurgraad (pH lager dan 2) wordt PPO uitgeschakeld. Citroen- of limoensap werkt bovendien door antioxidanten zoals vitamine C. Blancheren, vier à vijf minuten in kokend water, legt het enzym bijna volledig stil, maar dan is de appel niet meer knapperig. Rassen verschillen: ze bevatten elk andere hoeveelheden enzym en polyfenolen en worden dus sneller of trager bruin. De Canadese Arctic-appel draagt een genetische aanpassing die vier PPO-genen tot onder 10 procent van hun normale activiteit dempt. In 2015 gaf het Amerikaanse landbouwdepartement groen licht voor de eerste rassen.\n\n## Nuance of misverstand\n\nEen bruine appel is niet bedorven en niet ongezond: de verkleuring is vooral een kwestie van uitzicht en wat smaak. En citroensap helpt, maar vertraagt het proces eerder dan het helemaal te stoppen, en het verandert de smaak een beetje.\n\n## Wat je ermee doet\n\nBeperk het contact met zuurstof en verlaag de zuurgraad. Een paar druppels citroensap op het snijvlak, partjes in een goed afgesloten doosje, of snij de appel pas vlak voor het eten. Dezelfde chemie speelt bij avocado's, bananen en aardappelen: ook daar werkt zuur of afsluiten.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Snijvlak + zuurstof = bruin</text><path d=\"M60 70 Q30 70 30 120 Q30 180 90 185 Q150 180 150 120 Q150 70 120 70 Q100 62 90 72 Q80 62 60 70 Z\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"fill\" values=\"rgba(255,255,255,0.14);rgba(160,100,40,0.8);rgba(160,100,40,0.8);rgba(255,255,255,0.14)\" keyTimes=\"0;0.6;0.9;1\" dur=\"8s\" repeatCount=\"indefinite\"/></path><path d=\"M90 72 L94 52\" stroke=\"#06d6a0\" stroke-width=\"2\"/><circle r=\"5\" fill=\"#ffd166\"><animateMotion path=\"M330 60 Q240 60 150 110\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><circle r=\"5\" fill=\"#ffd166\"><animateMotion path=\"M330 150 Q240 150 150 130\" dur=\"3s\" begin=\"1.5s\" repeatCount=\"indefinite\"/></circle><text x=\"290\" y=\"48\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">zuurstof (O2)</text><text x=\"250\" y=\"100\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">enzym PPO</text><text x=\"250\" y=\"116\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">+ polyfenolen</text><text x=\"250\" y=\"132\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">→ bruin pigment</text><text x=\"250\" y=\"180\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">citroensap: zuur remt PPO</text></svg>",
+   "quiz": {
+    "q": "Waarom remt citroensap het bruin worden van een gesneden appel?",
+    "o": [
+     "Het vult de appel aan met ijzer",
+     "Het zuur legt het enzym PPO grotendeels stil",
+     "Het doodt de bacteriën die de appel bruin kleuren"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Univ. of Missouri: Non-browning apples",
+     "u": "https://ipm.missouri.edu/meg/2009/11/A-Fresh-Approach-to-Non-browning-Apples/"
+    },
+    {
+     "t": "Scientific American: Why cut apples turn brown",
+     "u": "https://www.scientificamerican.com/article/experts-why-cut-apples-turn-brown/"
+    },
+    {
+     "t": "Harvard SITN: Arctic Apples",
+     "u": "https://sites.harvard.edu/sitn/?p=13638"
+    }
+   ],
+   "date": "2026-11-21T05:44:12Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Een blauwe plek verkleurt omdat je lichaam bloed afbreekt",
+   "body": "Een blauwe plek is bloed dat onder je huid lekte. Opruimcellen breken het rode hemoglobine stap voor stap af: het groene biliverdine, dan het gele bilirubine, en het ijzer blijft achter als bruin hemosiderine. Zo kleurt de plek van paars naar groen, geel en bruin. Op kleur de leeftijd van een plek schatten, blijkt wel onbetrouwbaar.",
+   "take": "Wil je weten hoe oud een blauwe plek is? Vertrouw niet op de kleur, noteer liever wanneer de stoot gebeurde.",
+   "deep": "## Hoe het werkt\n\nBij een stoot scheuren kleine bloedvaatjes onder je huid. Er lekt bloed in het weefsel, en dat zie je door je huid heen. Eerst is de plek rood, omdat het bloed nog zuurstof bevat. Binnen een dag of twee verliest het hemoglobine zijn zuurstof en wordt de plek blauw tot paars.\n\nDan komt de afbraak op gang. Opruimcellen, de macrofagen, nemen het gelekte bloed op. In die cellen knipt het enzym heemoxygenase het heem, het kleurdeel van hemoglobine, open tot biliverdine: groen. Een tweede enzym, biliverdinereductase, zet biliverdine om in bilirubine: geel. Het ijzer uit het heem wordt opgeslagen als hemosiderine, dat een bruine tint geeft. Tot slot worden de restanten afgevoerd en verdwijnt de plek.\n\n## Een voorbeeld\n\nJe stoot je scheenbeen tegen de salontafel. 's Avonds zie je een rode plek, de dag erna is ze donkerblauw. Na een dag of vijf, zes schemert er groen door, wat later geel en bruin aan de randen. Na twee à drie weken is ze meestal weg.\n\n## Wat onderzoek zegt\n\nEen systematische review van Sabine Maguire en collega's (Cardiff, 2005) keek of artsen de leeftijd van een blauwe plek bij kinderen kunnen schatten. Ze vonden 167 studies, waarvan er drie bruikbaar waren. Artsen zaten in minder dan 40 procent van de gevallen binnen 24 uur juist. Bij een grove indeling in vers, middel en oud scoorden ze 55 tot 63 procent. Geel-bruine of groene tinten doken zelfs op bij plekken die minder dan 48 uur oud waren. Hun besluit: op zicht of foto kan je de leeftijd van een blauwe plek niet nauwkeurig bepalen.\n\n## Nuance of misverstand\n\nDe kleurvolgorde is echt, maar de timing verschilt sterk per persoon en per plek. Diepte van de kwetsuur, de hoeveelheid vet, temperatuur en huidskleur spelen mee. Op een donkere huid zijn de kleurwissels veel minder zichtbaar. Het klassieke kleurenschema werd bovendien vooral op lichte huid opgesteld.\n\n## Wat je ermee doet\n\nDe kleurwissel zelf is meestal een goed teken: je lichaam ruimt op. Krijg je wel vaak blauwe plekken zonder duidelijke stoot, groeien ze, of zijn ze na een paar weken niet verdwenen, laat dan je huisarts kijken. En wie een verhaal hoort als 'die plek is zeker drie dagen oud, kijk naar de kleur', weet nu dat dat giswerk is.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Afbraak in vier kleuren</text><circle cx=\"50\" cy=\"95\" r=\"26\" fill=\"#7b4fa0\" stroke=\"#fff\" stroke-width=\"2\" opacity=\"0.3\"><animate attributeName=\"opacity\" values=\"0.3;1;1;0.3\" keyTimes=\"0;0.1;0.25;0.35\" dur=\"8s\" begin=\"0s\" repeatCount=\"indefinite\"/></circle><text x=\"50\" y=\"143\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">hemoglobine</text><text x=\"50\" y=\"158\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">paars-blauw</text><path d=\"M80 95 L102 95\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M107 95 L101 91 L101 99 Z\" fill=\"#fff\"/><circle cx=\"137\" cy=\"95\" r=\"26\" fill=\"#4f9a5a\" stroke=\"#fff\" stroke-width=\"2\" opacity=\"0.3\"><animate attributeName=\"opacity\" values=\"0.3;1;1;0.3\" keyTimes=\"0;0.1;0.25;0.35\" dur=\"8s\" begin=\"2s\" repeatCount=\"indefinite\"/></circle><text x=\"137\" y=\"143\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">biliverdine</text><text x=\"137\" y=\"158\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">groen</text><path d=\"M167 95 L189 95\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M194 95 L188 91 L188 99 Z\" fill=\"#fff\"/><circle cx=\"224\" cy=\"95\" r=\"26\" fill=\"#e0c040\" stroke=\"#fff\" stroke-width=\"2\" opacity=\"0.3\"><animate attributeName=\"opacity\" values=\"0.3;1;1;0.3\" keyTimes=\"0;0.1;0.25;0.35\" dur=\"8s\" begin=\"4s\" repeatCount=\"indefinite\"/></circle><text x=\"224\" y=\"143\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">bilirubine</text><text x=\"224\" y=\"158\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">geel</text><path d=\"M254 95 L276 95\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M281 95 L275 91 L275 99 Z\" fill=\"#fff\"/><circle cx=\"311\" cy=\"95\" r=\"26\" fill=\"#9a6a3a\" stroke=\"#fff\" stroke-width=\"2\" opacity=\"0.3\"><animate attributeName=\"opacity\" values=\"0.3;1;1;0.3\" keyTimes=\"0;0.1;0.25;0.35\" dur=\"8s\" begin=\"6s\" repeatCount=\"indefinite\"/></circle><text x=\"311\" y=\"143\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">hemosiderine</text><text x=\"311\" y=\"158\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">bruin</text><text x=\"180\" y=\"195\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">opruimcellen breken het bloed stap voor stap af</text></svg>",
+   "quiz": {
+    "q": "Welke stof geeft een genezende blauwe plek haar groene kleur?",
+    "o": [
+     "Bilirubine",
+     "Hemosiderine",
+     "Biliverdine"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Frontiers in Immunology: heem-afbraak",
+     "u": "https://www.frontiersin.org/articles/10.3389/fimmu.2020.00066"
+    },
+    {
+     "t": "Maguire e.a. 2005, Arch Dis Child (PMC)",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1720275"
+    },
+    {
+     "t": "Healthline: Bruise colors",
+     "u": "https://www.healthline.com/health/bruise-colors"
+    },
+    {
+     "t": "The Scientist: bruises change color",
+     "u": "https://www.the-scientist.com/what-makes-bruises-change-color-over-time-73383"
+    }
+   ],
+   "date": "2026-11-21T05:44:12Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "De hik is een kramp met een dichtslaande klep",
+   "body": "Bij een hik trekt je middenrif plots samen en zuig je met een ruk lucht in. Meteen klappen je stembanden dicht en botst die lucht ertegen: 'hik!'. Prikkels van de nervus vagus of phrenicus, bijvoorbeeld door snel eten of bruiswater, starten de reflex. Hik je langer dan twee dagen, ga dan naar de dokter.",
+   "take": "Eet en drink trager, en wees zuinig met bruiswater als je vaak de hik krijgt. Duurt het langer dan 48 uur: huisarts bellen.",
+   "deep": "## Hoe het werkt\n\nJe middenrif is de koepelvormige spier onder je longen. Gewoonlijk trekt het rustig samen om in te ademen. Bij een hik krijgt het een plots, onwillekeurig signaal en trekt het met een schok naar beneden. Daardoor schiet er lucht naar binnen. Meteen daarna sluit de stemspleet, de opening tussen je stembanden, abrupt. De instromende lucht botst tegen die gesloten klep, en dat geeft het typische geluid.\n\nDe signalen lopen via zenuwen: de nervus phrenicus, die het middenrif aanstuurt, en de nervus vagus, die onder meer je maag en keel verbindt met je hersenstam. Alles wat die zenuwen prikkelt, kan een hik uitlokken.\n\n## Een voorbeeld\n\nJe drinkt op een feestje snel een glas bruiswater of pils na een bord frietjes. Je maag zet uit, en enkele minuten later begint het: hik, hik, hik, op een regelmatig ritme. Meestal is het na een paar minuten voorbij.\n\n## Wat onderzoek zegt\n\nArtsen van de Cleveland Clinic delen hikken op in drie soorten: voorbijgaand (seconden tot minuten), aanhoudend (langer dan 48 uur, tot een maand) en hardnekkig (langer dan een maand). Waarom we hikken, is niet helemaal duidelijk. Al in 1899 opperde een arts dat de hik een oefening is voor de ademhalingsspieren van een ongeboren baby. Een team van University College London rond Lorenzo Fabrizi mat in 2019 de hersengolven van 13 te vroeg en op tijd geboren baby's tijdens 1.316 hikken. Elke hik lokte een duidelijke reactie uit in de hersenschors. Hun idee: de hik helpt het jonge brein leren hoe de ademhalingsspieren aanvoelen. De arts Daniel Howes stelde in 2012 een andere verklaring voor: een reflex om lucht uit de maag van zogende jongen te krijgen.\n\n## Nuance of misverstand\n\nBeide theorieën zijn nog niet bewezen. Wat wel vaststaat: een gewone hik is onschuldig. Een hik die dagen aanhoudt, kan wijzen op een onderliggend probleem, zoals irritatie van een van die zenuwen, en verdient onderzoek.\n\n## Wat je ermee doet\n\nKrijg je vaak de hik, eet dan trager, drink minder koolzuurhoudende dranken en vermijd erg grote porties ineens. De meeste huismiddeltjes, zoals de adem inhouden of water drinken, zijn niet goed onderzocht, maar onschuldig. Hik je langer dan twee dagen, bel dan je huisarts.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Twee stappen in één hik</text><path d=\"M150 50 L150 90 M190 50 L190 90\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M150 60 L168 60\" stroke=\"#ffd166\" stroke-width=\"3\"><animate attributeName=\"d\" values=\"M150 60 L158 60;M150 60 L158 60;M150 60 L170 60;M150 60 L158 60\" keyTimes=\"0;0.3;0.4;1\" dur=\"3s\" repeatCount=\"indefinite\"/></path><path d=\"M190 60 L172 60\" stroke=\"#ffd166\" stroke-width=\"3\"><animate attributeName=\"d\" values=\"M190 60 L182 60;M190 60 L182 60;M190 60 L170 60;M190 60 L182 60\" keyTimes=\"0;0.3;0.4;1\" dur=\"3s\" repeatCount=\"indefinite\"/></path><text x=\"198\" y=\"64\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">2. stembanden dicht</text><path d=\"M150 90 Q100 110 90 160 M190 90 Q240 110 250 160\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M90 160 Q170 110 250 160\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"3\"><animate attributeName=\"d\" values=\"M90 160 Q170 110 250 160;M90 160 Q170 160 250 160;M90 160 Q170 110 250 160\" keyTimes=\"0;0.3;1\" dur=\"3s\" repeatCount=\"indefinite\"/></path><text x=\"170\" y=\"190\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1. middenrif trekt plots samen</text><text x=\"60\" y=\"64\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\" opacity=\"0\">hik!<animate attributeName=\"opacity\" values=\"0;0;1;0\" keyTimes=\"0;0.35;0.45;0.8\" dur=\"3s\" repeatCount=\"indefinite\"/></text><text x=\"170\" y=\"210\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">lucht stroomt in en botst op de dichte klep</text></svg>",
+   "quiz": {
+    "q": "Wat maakt het 'hik'-geluid?",
+    "o": [
+     "Lucht die uit je maag ontsnapt",
+     "Ingezogen lucht die botst tegen je dichtklappende stembanden",
+     "Je middenrif dat tegen je ribben tikt"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Cleveland Clinic: Hiccups",
+     "u": "https://my.clevelandclinic.org/health/diseases/17672-hiccups"
+    },
+    {
+     "t": "Whitehead e.a. 2019, Clin Neurophysiol (PMC)",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6907098"
+    },
+    {
+     "t": "Scientific American: What causes hiccups?",
+     "u": "https://www.scientificamerican.com/article/what-causes-hiccups/"
+    }
+   ],
+   "date": "2026-11-21T05:44:12Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Hersenvriezing komt van een slagader die plots opzwelt",
+   "body": "Die stekende pijn achter je voorhoofd na een hap ijs heet officieel sfenopalatine ganglioneuralgie. In een Amerikaanse proef met 13 vrijwilligers zette een slagader in de hersenen uit vlak voor de pijn begon, en de pijn verdween toen die weer vernauwde. Meestal is het binnen enkele minuten voorbij. Je tong tegen je verhemelte drukken helpt opwarmen.",
+   "take": "Krijg je hersenvriezing? Druk je tong of duim tegen je verhemelte en neem een slok water op kamertemperatuur.",
+   "deep": "## Hoe het werkt\n\nAchter in je mond, tegen het verhemelte, lopen bloedvaten en zenuwtakken die met je hoofd verbonden zijn. Raakt iets ijskouds die plek, dan lijkt je lichaam te reageren door extra bloed naar de hersenen te sturen om ze warm te houden. Een belangrijke slagader aan de voorkant van je brein, de arteria cerebri anterior, zet daarbij snel uit. Omdat je schedel een gesloten doos is, kan die plotse extra bloedtoevoer de druk doen stijgen. De pijn wordt via de nervus trigeminus, de grote gevoelszenuw van je gezicht, doorgegeven en voel je in je voorhoofd of slapen, niet in je mond.\n\n## Een voorbeeld\n\nOp een warme dag aan de kust neem je een grote hap van een ijsje, of je zuigt snel een slush door een rietje. Een paar seconden later voel je een felle steek achter je voorhoofd. Je stopt, wacht even, en na een halve minuut is het weg.\n\n## Wat onderzoek zegt\n\nOnderzoekers rond Jorge Serrador (Harvard Medical School) lieten in 2012 dertien gezonde vrijwilligers ijswater drinken door een rietje tegen het verhemelte, een betrouwbare manier om hersenvriezing op te wekken. Met echografie maten ze de bloedstroom. De stroom in de voorste hersenslagader nam toe voordat de proefpersonen pijn meldden. Toen het bloedvat weer vernauwde, ebde de pijn weg. Ze stelden het werk voor op het congres Experimental Biology 2012. Volgens Johns Hopkins duurt hersenvriezing in 98 procent van de gevallen korter dan vijf minuten.\n\n## Nuance of misverstand\n\nDe verklaring is plausibel, maar niet sluitend. Het ging om een kleine studie die als congresbijdrage werd voorgesteld, en hoofdpijnexperts merkten op dat een verband tussen bloedstroom en pijn nog niet bewijst dat het een het ander veroorzaakt. Je hersenen bevriezen ook niet echt: de naam is beeldspraak. Mensen met migraine lijken er vaker last van te hebben.\n\n## Wat je ermee doet\n\nEet ijs en drink ijskoude drankjes trager en laat ze niet tegen je verhemelte blijven plakken. Komt de pijn toch, druk dan je tong of duim tegen je verhemelte om het op te warmen, of drink een slok water op kamertemperatuur. Een pijnstiller heeft geen zin: tegen dat die werkt, is de pijn al voorbij.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Kou op het verhemelte, pijn in je voorhoofd</text><path d=\"M60 190 L60 140 Q40 130 50 110 Q50 50 120 45 Q190 45 195 110 L205 135 L190 140 L190 160 Q190 175 160 175 L150 190\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M130 148 L188 148\" stroke=\"#ffd166\" stroke-width=\"2\"/><circle cx=\"175\" cy=\"150\" r=\"6\" fill=\"#ffd166\"><animate attributeName=\"opacity\" values=\"1;0.4;1\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><path d=\"M120 140 Q115 100 150 75\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"3\"><animate attributeName=\"stroke-width\" values=\"3;8;8;3\" keyTimes=\"0;0.35;0.75;1\" dur=\"4s\" repeatCount=\"indefinite\"/></path><text x=\"215\" y=\"155\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">ijskoud verhemelte</text><text x=\"215\" y=\"85\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">slagader zet uit</text><text x=\"215\" y=\"101\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">meer bloed, druk</text><path d=\"M211 88 L170 80\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M165 79 L172 75 L172 84 Z\" fill=\"#fff\"/><text x=\"215\" y=\"190\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">vernauwt: pijn weg</text></svg>",
+   "quiz": {
+    "q": "Wat zagen onderzoekers vlak voor de pijn van hersenvriezing opkwam?",
+    "o": [
+     "Je hersenweefsel koelde een paar graden af",
+     "Een slagader aan de voorkant van de hersenen zette uit",
+     "Je hartslag viel tijdelijk stil"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Scientific American: Brain freeze and migraine",
+     "u": "https://www.scientificamerican.com/blog/observations/brain-freeze-might-help-solve-migraine-mysteries/"
+    },
+    {
+     "t": "Cleveland Clinic: Brain freeze",
+     "u": "https://my.clevelandclinic.org/health/diseases/21478-brain-freeze"
+    },
+    {
+     "t": "Johns Hopkins: How to ease brain freeze",
+     "u": "https://www.hopkinsmedicine.org/health/expert-qa/how-to-ease-brain-freeze"
+    }
+   ],
+   "date": "2026-11-21T05:44:12Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Spier en mossel heten allebei naar een muisje",
+   "body": "Het Latijnse 'musculus' betekent letterlijk 'muisje', een verkleinwoord van 'mus', muis. De Romeinen gebruikten het voor een spier, wellicht omdat een aangespannen spier lijkt op een muis die onder de huid beweegt. Hetzelfde woord gaf ook 'mossel'. Zo zitten muis, spier en mossel samen in woorden als het Engelse 'muscle' en ons 'musculatuur'.",
+   "take": "Bestel je mosselen met friet? Dan eet je etymologisch 'muisjes': een leuk weetje voor aan tafel.",
+   "deep": "## Hoe het werkt\n\nHet Latijn maakte verkleinwoorden met het achtervoegsel -culus. Zo werd 'mus' (muis) 'musculus': muisje. Datzelfde woord kreeg ook twee andere betekenissen. Een spier, zeker de grote spieren van armen en benen, deed de Romeinen denken aan een muisje. De meest gangbare uitleg: als je een spier aanspant, beweegt er iets onder je huid, als een muis onder een deken. Ook een mossel, een klein, langwerpig, donker schelpdiertje, werd 'musculus' genoemd, vanwege de gelijkenis in vorm en grootte.\n\nVia het Latijn gingen die betekenissen elk hun eigen weg. Uit 'musculus' als spier kwamen het Engelse 'muscle', het Franse 'muscle' en ons geleerde woord 'musculatuur'. Uit het laat-Latijnse 'muscula' (mossel) kwam het Middelnederlandse 'mosscele', vandaag 'mossel', en het Engelse 'mussel'.\n\n## Een voorbeeld\n\nJe zit aan een emmer mosselen met friet en hoort de kinesist naast je over 'de musculatuur van de schouder' praten. Beide woorden gaan terug op hetzelfde Latijnse muisje. Ook het Griekse 'mys' betekende zowel muis als spier.\n\n## Wat onderzoek zegt\n\nEtymologische woordenboeken zoals Merriam-Webster en de Online Etymology Dictionary leiden 'muscle' af van het Latijnse 'musculus', een verkleinvorm van 'mus'. De Indo-Europese wortel, gereconstrueerd als *mūs-, wordt in het Indo-European Lexicon van de Universiteit van Texas vertaald met 'muis; spier'. Dat de dubbele betekenis zowel in het Grieks als in het Latijn opduikt, wijst erop dat de vergelijking oud is.\n\n## Nuance of misverstand\n\nWaarom precies een spier op een muis leek, weet niemand zeker. Naast de 'muis onder de huid' bestaat de uitleg dat sommige spieren met hun lange pees op een muis met staart lijken. Woordenboeken noemen beide als mogelijkheid. En ons alledaagse 'spier' komt niet van musculus: dat is een Germaans woord met een eigen geschiedenis.\n\n## Wat je ermee doet\n\nLet op verkleinvormen in geleerde woorden. Het Latijnse -culus of -cula zit ook in woorden als 'molecule' (klein massa'tje) en 'corpuscula'. Wie die bouwsteen herkent, ontcijfert vaak zelf de letterlijke betekenis van medische en wetenschappelijke termen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Eén Latijns muisje, drie woorden</text><ellipse cx=\"180\" cy=\"72\" rx=\"34\" ry=\"16\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"208\" cy=\"62\" r=\"5\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M146 74 Q125 82 120 70\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"108\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">mus = muis → musculus = muisje</text><path d=\"M180 116 L70 150 M180 116 L180 150 M180 116 L290 150\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"6 5\"><animate attributeName=\"stroke-dashoffset\" from=\"22\" to=\"0\" dur=\"2s\" repeatCount=\"indefinite\"/></path><ellipse cx=\"70\" cy=\"172\" rx=\"26\" ry=\"10\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"ry\" values=\"10;15;10\" dur=\"3s\" repeatCount=\"indefinite\"/></ellipse><text x=\"70\" y=\"204\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">spier (muscle)</text><text x=\"180\" y=\"176\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">musculatuur</text><path d=\"M266 172 Q290 156 314 172 Q290 184 266 172 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"290\" y=\"204\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">mossel</text></svg>",
+   "quiz": {
+    "q": "Wat betekent het Latijnse 'musculus' letterlijk?",
+    "o": [
+     "Muisje",
+     "Krachtpatser",
+     "Schelpje"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Merriam-Webster: muscle",
+     "u": "https://www.merriam-webster.com/dictionary/muscle"
+    },
+    {
+     "t": "Etymonline: mussel",
+     "u": "https://www.etymonline.com/word/mussel"
+    },
+    {
+     "t": "Univ. of Texas: Indo-European Lexicon",
+     "u": "https://lrc.la.utexas.edu/lex/master/1344"
+    }
+   ],
+   "date": "2026-11-21T05:44:12Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Dove baby's met gebarentaal brabbelen met hun handen",
+   "body": "Horende baby's brabbelen 'ba-ba-ba' voor ze hun eerste woord zeggen. Laura-Ann Petitto en Paula Marentette toonden in 1991 in Science dat dove baby's die vanaf de geboorte gebarentaal zien, hetzelfde doen met hun handen: herhaalde, ritmische handvormen zonder betekenis. Brabbelen is dus geen mondoefening, maar een stap in taal zelf.",
+   "take": "Wuift je baby ritmisch met handjes? Praat of gebaar terug: reageren op brabbels, met stem of hand, voedt taalontwikkeling.",
+   "deep": "## Hoe het werkt\n\nRond de leeftijd van zes tot tien maanden beginnen baby's te brabbelen: ze herhalen lettergrepen zoals 'ba-ba' of 'da-da'. Dat is geen willekeurig geluid. Het zijn de bouwstenen van de taal die het kind om zich heen hoort: klinkers en medeklinkers die in een vast ritme terugkomen.\n\nGebarentalen zoals de Vlaamse Gebarentaal hebben ook bouwstenen: een beperkt aantal handvormen, plaatsen en bewegingen die je combineert tot gebaren. Een baby die gebarentaal ziet, pikt die bouwstenen op en begint ze te herhalen, zonder betekenis, in hetzelfde ritme als gesproken brabbels. Dat noemen onderzoekers handbrabbelen.\n\n## Een voorbeeld\n\nEen dove baby van dove ouders zit in de kinderstoel en maakt telkens dezelfde handvorm, een paar keer kort na elkaar, voor haar borst. Voor een buitenstaander lijkt het spelen. Voor de ouders, die gebaren, is het herkenbaar als een kinderlijke versie van hun eigen taal, net zoals 'ba-ba' herkenbaar Nederlands klinkt.\n\n## Wat onderzoek zegt\n\nLaura-Ann Petitto en Paula Marentette (McGill-universiteit) filmden in hun studie, gepubliceerd in Science in 1991, een kleine groep van vijf baby's: dove kinderen van dove ouders en horende kinderen van horende ouders. Bij de dove kinderen was een groot deel van hun handbewegingen handbrabbel, met de typische lettergreepstructuur. Bij de horende kinderen was dat veel zeldzamer. Latere studies van Petitto vonden handbrabbel ook bij horende baby's van dove ouders die alleen gebaren te zien kregen. Haar conclusie: het brein heeft een taalvermogen dat niet aan spraak gebonden is en dat zich uit via mond of handen, afhankelijk van wat het kind aangeboden krijgt.\n\n## Nuance of misverstand\n\nDe oorspronkelijke studie was erg klein, en de precieze percentages verschillen tussen bronnen. Andere onderzoekers, zoals Cormier en collega's in 1998, vonden dat het onderscheid tussen handbrabbel en gewoon zwaaien of gebaren niet altijd scherp is. Dat brabbelen geen puur motorische mondoefening is, wordt wel breed gedeeld.\n\n## Wat je ermee doet\n\nReageer op brabbels, of ze nu van mond of hand komen. Kijk je kind aan, herhaal wat het doet en voeg er een echt woord of gebaar aan toe. En wie een dove baby heeft: gebarentaal van bij de start zet hetzelfde taalprogramma in gang als spreken bij een horend kind.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Brabbelen met mond of met handen</text><text x=\"20\" y=\"70\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">horend kind</text><text x=\"150\" y=\"72\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\" opacity=\"0.3\">ba<animate attributeName=\"opacity\" values=\"0.3;1;0.3\" dur=\"3s\" begin=\"0s\" repeatCount=\"indefinite\"/></text><text x=\"210\" y=\"72\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\" opacity=\"0.3\">ba<animate attributeName=\"opacity\" values=\"0.3;1;0.3\" dur=\"3s\" begin=\"1s\" repeatCount=\"indefinite\"/></text><text x=\"270\" y=\"72\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\" opacity=\"0.3\">ba<animate attributeName=\"opacity\" values=\"0.3;1;0.3\" dur=\"3s\" begin=\"2s\" repeatCount=\"indefinite\"/></text><text x=\"20\" y=\"150\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">doof kind,</text><text x=\"20\" y=\"166\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">gebarentaal</text><g opacity=\"0.3\"><rect x=\"138\" y=\"135\" width=\"24\" height=\"30\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M142 135 L142 124 M150 135 L150 121 M158 135 L158 124\" stroke=\"#fff\" stroke-width=\"2\"/><animate attributeName=\"opacity\" values=\"0.3;1;0.3\" dur=\"3s\" begin=\"0s\" repeatCount=\"indefinite\"/></g><g opacity=\"0.3\"><rect x=\"198\" y=\"135\" width=\"24\" height=\"30\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M202 135 L202 124 M210 135 L210 121 M218 135 L218 124\" stroke=\"#fff\" stroke-width=\"2\"/><animate attributeName=\"opacity\" values=\"0.3;1;0.3\" dur=\"3s\" begin=\"1s\" repeatCount=\"indefinite\"/></g><g opacity=\"0.3\"><rect x=\"258\" y=\"135\" width=\"24\" height=\"30\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M262 135 L262 124 M270 135 L270 121 M278 135 L278 124\" stroke=\"#fff\" stroke-width=\"2\"/><animate attributeName=\"opacity\" values=\"0.3;1;0.3\" dur=\"3s\" begin=\"2s\" repeatCount=\"indefinite\"/></g><text x=\"180\" y=\"200\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">zelfde ritmische lettergrepen, ander kanaal</text></svg>",
+   "quiz": {
+    "q": "Wat ontdekten Petitto en Marentette bij dove baby's die gebarentaal zagen?",
+    "o": [
+     "Ze begonnen pas met taal na hun tweede verjaardag",
+     "Ze brabbelden luider met hun stem",
+     "Ze brabbelden ritmisch met hun handen"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Scilit: Petitto & Marentette 1991 (Science)",
+     "u": "https://scilit.com/publications/aaab30a4cd68a3c32baab27363864b49"
+    },
+    {
+     "t": "Scientific American: Hearing babies of deaf parents",
+     "u": "https://www.scientificamerican.com/article/hearing-babies-of-deaf-pa/"
+    }
+   ],
+   "date": "2026-11-21T05:44:12Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Je schrijft 'hij word' terwijl je de regel kent",
+   "body": "Dt-fouten zijn vaak geen kennistekort. Antwerpse taalpsychologen rond Dominiek Sandra toonden in 1999 dat we onder tijdsdruk de vorm opschrijven die we het vaakst zien. Is 'word' frequenter dan 'wordt', dan sluipt 'word' binnen waar 'wordt' moet. Ze noemen dat homofoondominantie. Het effect is ook gevonden in spontane chatberichten van jongeren.",
+   "take": "Herlees zinnen met een werkwoord op d/t apart, traag, en vervang het werkwoord even door 'lopen': 'hij loopt' verraadt de t.",
+   "deep": "## Hoe het werkt\n\nVeel Nederlandse werkwoordsvormen klinken hetzelfde maar worden anders geschreven: 'word' en 'wordt', 'gebeurd' en 'gebeurt', 'antwoorden' en 'antwoordden'. Je moet dus bij elke vorm de regel toepassen: wie is het onderwerp, welke tijd? Dat kost denkwerk.\n\nJe geheugen biedt een snellere route. Het herkent woordbeelden die je vaak gezien hebt en haalt ze snel op. Bij paren van homofonen, woorden die hetzelfde klinken, is één vorm meestal frequenter. Als je werkgeheugen druk bezig is met de inhoud van je zin, wint die snelle, frequente vorm het van de trage regel. Zo schrijf je 'word' waar 'wordt' moet, of 'gebeurd' waar 'gebeurt' hoort.\n\n## Een voorbeeld\n\nJe tikt snel een mail: 'Het verslag word morgen verstuurd.' Je kent de regel perfect, en bij het nalezen glijdt je oog eroverheen. Ook een tweede lezer kan de fout missen, net omdat 'word' zo vertrouwd oogt.\n\n## Wat onderzoek zegt\n\nDominiek Sandra, Steven Frisson en Frans Daems (Universiteit Antwerpen) publiceerden in 1999 in Brain and Language twee experimenten met dictees. Werkwoordsvormen kregen vaker fouten als er een klankgelijke vorm bestond die frequenter was, en meer nog als het onderwerp niet vlak naast het werkwoord stond. Later vonden Antwerpse onderzoekers hetzelfde patroon in spontane berichten op het vroegere sociale netwerk Netlog. In een naleestaak bleek bovendien dat zulke 'typische' fouten, waarbij de frequente vorm de juiste verdringt, minder opvallen dan omgekeerde fouten. Sandra zegt dat zelfs de beste spellers zo af en toe dt-fouten maken zonder het te merken.\n\n## Nuance of misverstand\n\nDit betekent niet dat de regel er niet toe doet of dat oefenen zinloos is: wie de regel niet kent, maakt veel meer fouten. Sociale factoren, zoals hoe zorgvuldig je schrijft, bepalen hoeveel fouten je maakt. De richting van de fouten, naar de frequentste vorm, blijft wel opvallend constant.\n\n## Wat je ermee doet\n\nVertrouw niet op 'het ziet er goed uit'. Doe bij belangrijke teksten een aparte controleronde alleen voor werkwoorden. Vervang twijfelgevallen even door een werkwoord als 'lopen' of 'vallen': 'het verslag loopt' maakt meteen duidelijk dat er een t hoort. En wees mild voor anderen: een dt-fout zegt weinig over iemands intelligentie.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Onder tijdsdruk wint de vorm die je vaakst ziet</text><rect x=\"30\" y=\"50\" width=\"120\" height=\"40\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"90\" y=\"75\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">zin: 'hij ...'</text><rect x=\"230\" y=\"40\" width=\"100\" height=\"44\" rx=\"6\" fill=\"#ffd166\" fill-opacity=\"0.3\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"280\" y=\"67\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">word</text><text x=\"280\" y=\"100\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">vaak gezien</text><rect x=\"230\" y=\"130\" width=\"100\" height=\"44\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"280\" y=\"157\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">wordt</text><text x=\"280\" y=\"190\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">juist, maar zeldzamer</text><path d=\"M150 70 L224 62\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"6 4\"><animate attributeName=\"stroke-dashoffset\" from=\"20\" to=\"0\" dur=\"1s\" repeatCount=\"indefinite\"/></path><path d=\"M229 62 L222 58 L222 66 Z\" fill=\"#ffd166\"/><path d=\"M150 80 L224 145\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"3 6\"/><path d=\"M228 149 L219 147 L224 141 Z\" fill=\"#06d6a0\"/><text x=\"110\" y=\"130\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">regel toepassen</text><text x=\"110\" y=\"145\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">kost tijd</text><circle r=\"5\" fill=\"#ff6b9d\"><animateMotion path=\"M150 70 L224 62\" dur=\"2s\" repeatCount=\"indefinite\"/></circle><text x=\"90\" y=\"205\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">geheugen raadt sneller</text></svg>",
+   "quiz": {
+    "q": "Welke vorm schrijven mensen volgens het Antwerpse onderzoek vaak per vergissing?",
+    "o": [
+     "De klankgelijke vorm die ze het vaakst zien",
+     "De langste vorm, voor de zekerheid",
+     "Een vorm uit het Engels"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Sandra, Frisson & Daems 1999 (UAntwerpen pdf)",
+     "u": "https://medialibrary.uantwerpen.be/oldcontent/container5831/files/simple_verb_forms.pdf"
+    },
+    {
+     "t": "VRT NWS: niets aan te doen dat je dt-fouten schrijft",
+     "u": "https://www.vrt.be/vrtnws/nl/2021/04/23/nee-je-kunt-er-niets-aan-doen-dat-je-dt-fouten-schrijft/"
+    },
+    {
+     "t": "Verhaert & Sandra, HSN-bundel (Taalunie)",
+     "u": "https://hsnbundels.taalunie.org/wp-content/uploads/2019/09/2016_10_taalvaardigheid_so_5_Verhaert.pdf"
+    }
+   ],
+   "date": "2026-11-21T05:44:12Z"
   }
  ],
  "dives": [
