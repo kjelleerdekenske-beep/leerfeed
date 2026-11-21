@@ -1,0 +1,91 @@
+{
+ "updated": "2026-11-21T05:40:18Z",
+ "cards": [],
+ "dives": [
+  {
+   "id": "2026-11-21",
+   "title": "Hoe werkt een containerhaven? Van zeeschip tot vrachtwagen",
+   "emoji": "🚢",
+   "cat": "tech",
+   "chapters": [
+    {
+     "h": "De doos die alles veranderde",
+     "text": "Bijna alles wat je in een winkel koopt, heeft ooit in een stalen doos gezeten. Die doos, de container, is het geheim achter de moderne haven. Vroeger laadden havenarbeiders zakken, kisten en balen stuk voor stuk. Met een container hoeft niemand de lading zelf nog aan te raken: de hele doos gaat van schip naar trein, binnenschip of vrachtwagen.\n\n## Eén maat voor de hele wereld\n\nDat werkt alleen omdat de dozen overal even groot zijn. De klassieke container is 20 voet lang (ongeveer 6,1 meter) en 8 voet breed (2,44 meter). Die maat is ook de rekeneenheid van de sector: de TEU, de twenty-foot equivalent unit. Een container van 40 voet telt dus als 2 TEU. Kranen, schepen, wagons en opleggers zijn allemaal op die vaste maten gebouwd.\n\n## Antwerpen-Brugge als rode draad\n\nIn deze deep dive volgen we zo'n doos door Port of Antwerp-Bruges, de haven die in 2022 ontstond uit de fusie van Antwerpen en Zeebrugge. In 2025 verwerkte ze 13,6 miljoen TEU, goed voor bijna 150 miljoen ton aan containervracht. De totale overslag, met ook bulk zoals olie en ertsen, kwam uit op 266,5 miljoen ton. In de Hamburg-Le Havre-range, de reeks grote havens tussen Noord-Duitsland en Normandië, had de haven in de eerste negen maanden een marktaandeel van 29,3 procent.",
+     "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Eén maat voor alles</text><rect x=\"30\" y=\"60\" width=\"90\" height=\"40\" rx=\"3\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"75\" y=\"85\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">20 voet = 1 TEU</text><rect x=\"170\" y=\"60\" width=\"160\" height=\"40\" rx=\"3\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"250\" y=\"85\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">40 voet = 2 TEU</text><line x1=\"250\" y1=\"60\" x2=\"250\" y2=\"100\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><text x=\"75\" y=\"118\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ca. 6,1 m lang</text><text x=\"250\" y=\"118\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ca. 12,2 m lang</text><line x1=\"20\" y1=\"185\" x2=\"340\" y2=\"185\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"60\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">schip</text><text x=\"180\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">spoor / binnenschip</text><text x=\"305\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">vrachtwagen</text><g><rect x=\"-20\" y=\"-12\" width=\"40\" height=\"22\" rx=\"2\" fill=\"#06d6a0\"/><animateMotion dur=\"6s\" repeatCount=\"indefinite\" path=\"M60 165 L180 165 L305 165\"/></g><text x=\"180\" y=\"150\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">dezelfde doos, overal</text></svg>"
+    },
+    {
+     "h": "Aanleggen met een loods",
+     "text": "Een groot containerschip vaart niet zomaar de Schelde op. De rivier kronkelt, heeft zandbanken en een sterk getij. Daarom krijgt elk groot zeeschip hulp van mensen die het vaarwater door en door kennen: de loodsen.\n\n## Van Wandelaar naar Schelde\n\nDe eerste halte ligt nog op zee. Bij het loodsstation Wandelaar, een drijvende post in de Noordzee voor de Belgische kust, stapt een loods over van een loodsboot naar het schip. Hij of zij adviseert de kapitein over koers en snelheid. Op de Westerschelde geldt loodsplicht: grote schepen mogen er niet zonder loods varen. Walradar van de verkeersdiensten volgt intussen elk schip, zodat schepen elkaar veilig kruisen.\n\n## Het laatste stuk\n\nVlak bij de terminal nemen sleepboten het over. Ze duwen en trekken het schip, dat zelf nauwelijks kan manoeuvreren bij lage snelheid, millimeterwerk tegen de kaaimuur. Moet een schip door een sluis naar de dokken, dan neemt na de sluis een dokloods het over. In Antwerpen doen de dokloodsen van Brabo dat, die schepen veilig tussen sluis en ligplaats begeleiden.\n\nPas als het schip stevig vastligt aan de trossen, kan het eigenlijke werk beginnen: lossen en laden, vaak dag en nacht, omdat elk uur aan de kaai geld kost.",
+     "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Van Noordzee tot kaai</text><path d=\"M20 70 C110 70 140 150 230 150 L320 150\" fill=\"none\" stroke=\"rgba(255,255,255,0.4)\" stroke-width=\"18\"/><circle cx=\"45\" cy=\"70\" r=\"6\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"45\" y=\"52\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Wandelaar</text><text x=\"45\" y=\"92\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">loods aan boord</text><text x=\"150\" y=\"100\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Schelde</text><rect x=\"300\" y=\"110\" width=\"40\" height=\"30\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"320\" y=\"128\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">kaai</text><text x=\"250\" y=\"180\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">sleepboten + dokloods</text><g><path d=\"M-30 0 L30 0 L22 10 L-24 10 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"-18\" y=\"-8\" width=\"30\" height=\"8\" fill=\"#ffd166\"/><animateMotion dur=\"8s\" repeatCount=\"indefinite\" path=\"M20 66 C110 66 140 146 230 146 L290 146\"/></g></svg>"
+    },
+    {
+     "h": "Kranen, carriers en de stapel",
+     "text": "Aan de kaai staan de reuzen van de haven: de kaaikranen, in het Engels ship-to-shore cranes. Een kraanmachinist zit hoog boven het schip in een cabine die over een lange arm rijdt. Hij laat een grijper zakken die precies op de vier hoeken van een container klikt, tilt de doos uit het ruim of van het dek en zet ze op de kaai.\n\n## De straddle carrier\n\nDaar wacht in veel Antwerpse terminals een straddle carrier: een hoog voertuig op poten dat over een container heen rijdt, hem optilt en naar het stapelterrein brengt. Bij DP World Antwerp Gateway rijden 19 hybride exemplaren die volgens het bedrijf 40 procent minder brandstof verbruiken dan klassieke modellen.\n\n## Automatisch stapelen\n\nOp het stapelterrein, de yard, staan containers in blokken op elkaar. Antwerp Gateway werkt er met automatische, elektrische stapelkranen: bovenop de 10 bestaande modules komen er 17 bij. Volgens DP World kunnen die tot 50 procent meer containers kwijt dan een terrein dat alleen met straddle carriers werkt. Mensen sturen nog altijd de kaaikranen, de carriers brengen de dozen van kaai naar yard, en de robotkranen doen de rest. DP World noemt dat zelf een halfautomatische terminal.\n\nAchter dit alles zit terminalsoftware die voor elke container beslist waar hij komt te staan, zodat hij snel weer bereikbaar is wanneer zijn vrachtwagen, trein of binnenschip komt.",
+     "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Kraan lost, carrier rijdt</text><line x1=\"20\" y1=\"170\" x2=\"340\" y2=\"170\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M20 150 L130 150 L120 170 L30 170 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"75\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">schip</text><line x1=\"160\" y1=\"170\" x2=\"160\" y2=\"50\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"40\" y1=\"50\" x2=\"220\" y2=\"50\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"190\" y=\"40\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">kaaikraan</text><g><rect x=\"-14\" y=\"0\" width=\"28\" height=\"12\" fill=\"#ffd166\"/><line x1=\"0\" y1=\"-60\" x2=\"0\" y2=\"0\" stroke=\"#fff\" stroke-width=\"1\"/><animateTransform attributeName=\"transform\" type=\"translate\" values=\"70 120;70 120;200 120;200 140;200 140;70 120\" keyTimes=\"0;0.15;0.5;0.6;0.8;1\" dur=\"6s\" repeatCount=\"indefinite\"/></g><g><path d=\"M-14 0 L-14 -26 L14 -26 L14 0\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"/><animateTransform attributeName=\"transform\" type=\"translate\" values=\"200 168;200 168;320 168;200 168\" keyTimes=\"0;0.6;0.85;1\" dur=\"6s\" repeatCount=\"indefinite\"/></g><text x=\"300\" y=\"110\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">straddle carrier</text><text x=\"300\" y=\"125\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">naar de stapel</text></svg>"
+    },
+    {
+     "h": "Software en douane",
+     "text": "Een container is meer dan staal: hij is ook een stapel gegevens. Wie is de eigenaar, wat zit erin, waar moet hij naartoe? Op basis daarvan plant de terminalsoftware de stapel. Een container die morgen met de trein vertrekt, zet ze bij voorkeur bovenaan en dicht bij het spoor, zodat de kraan niet eerst vijf andere dozen moet verplaatsen.\n\n## Controle begint vóór het laden\n\nOok de douane werkt vooral met data. Voor containervracht die de EU binnenkomt, moet de vervoerder al 24 uur vóór het laden in de vertrekhaven een summiere aangifte indienen. Via het Europese systeem ICS2 doen douanediensten daarop een risicoanalyse, in principe nog voor het schip aankomt. Alleen containers met een verhoogd risico worden in Antwerpen apart gezet voor een scan of een fysieke controle. Zo blijft de stroom van miljoenen dozen draaien, terwijl de douane gericht zoekt naar smokkel, zoals drugs uit Zuid-Amerika.\n\n## Geen pincode meer\n\nVroeger kon wie een pincode had een container ophalen. Criminelen misbruikten dat om drugscontainers uit de haven te krijgen. Sinds februari 2024 werkt Antwerpen volledig met Certified Pick-up: het recht om een container op te halen gaat digitaal van partij naar partij, tot een erkende chauffeur aangeduid is. Die chauffeur bewijst aan de terminal met zijn Alfapass en een biometrische controle wie hij is.",
+     "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Controle vóór vertrek</text><rect x=\"20\" y=\"90\" width=\"70\" height=\"40\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"55\" y=\"114\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">container</text><rect x=\"140\" y=\"80\" width=\"80\" height=\"60\" rx=\"4\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"180\" y=\"72\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">scanner</text><line x1=\"150\" y1=\"85\" x2=\"150\" y2=\"135\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"x1\" values=\"150;210;150\" dur=\"3s\" repeatCount=\"indefinite\"/><animate attributeName=\"x2\" values=\"150;210;150\" dur=\"3s\" repeatCount=\"indefinite\"/></line><line x1=\"90\" y1=\"110\" x2=\"132\" y2=\"110\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M132 110 l-7 -5 l0 10 Z\" fill=\"#fff\"/><line x1=\"220\" y1=\"110\" x2=\"262\" y2=\"110\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M262 110 l-7 -5 l0 10 Z\" fill=\"#fff\"/><rect x=\"268\" y=\"90\" width=\"72\" height=\"40\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"304\" y=\"114\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">vrijgave</text><text x=\"180\" y=\"175\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">risicoanalyse kiest wie gescand wordt</text><text x=\"180\" y=\"195\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">vrijgave via identiteit, geen pincode</text></svg>"
+    },
+    {
+     "h": "Naar het binnenland",
+     "text": "De laatste stap is misschien de belangrijkste: de container moet de haven weer uit. Port of Antwerp-Bruges werkt met drie grote wegen naar het binnenland.\n\n## Vrachtwagen, binnenschip, trein\n\nDe vrachtwagen is flexibel en brengt een container tot aan de deur van een fabriek of magazijn. Toch is hij ook de grootste bron van files en uitstoot rond de haven, en de meeste containers worden nog altijd per truck opgehaald. Een binnenschip kan in één keer tientallen containers meenemen via het dichte Belgische, Nederlandse en Duitse waterwegennet. De trein brengt containers snel over lange afstanden, bijvoorbeeld naar Duitsland of Italië.\n\n## Meer per schip en spoor\n\nDe haven wil daarom een modal shift: minder vrachtwagens, meer binnenvaart en spoor. Tegen 2030 moet 42 procent van het containervervoer in Antwerpen per binnenschip gebeuren. Dat vraagt goede afspraken, want binnenschepen moeten vaak bij verschillende terminals langs en wachten soms lang op een plek aan de kaai.\n\n## Een kwetsbare keten\n\n2025 toonde hoe gevoelig het systeem is. Volle terminals, wisselende allianties van rederijen en stakingen zorgden voor vertraging. Alleen al de stakingen kostten de haven naar schatting 2,4 miljoen ton aan overslag, ongeveer 1 procent van het jaartotaal. Een containerhaven werkt pas als schip, kraan, software, douane en binnenland samen in hetzelfde ritme draaien.",
+     "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Drie wegen landinwaarts</text><rect x=\"20\" y=\"85\" width=\"70\" height=\"50\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"55\" y=\"114\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">terminal</text><path d=\"M90 100 C160 60 220 50 300 50\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"3\" stroke-dasharray=\"8 6\"><animate attributeName=\"stroke-dashoffset\" values=\"28;0\" dur=\"2s\" repeatCount=\"indefinite\"/></path><path d=\"M90 110 L300 110\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"3\" stroke-dasharray=\"8 6\"><animate attributeName=\"stroke-dashoffset\" values=\"28;0\" dur=\"2s\" repeatCount=\"indefinite\"/></path><path d=\"M90 120 C160 160 220 170 300 170\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"3\" stroke-dasharray=\"8 6\"><animate attributeName=\"stroke-dashoffset\" values=\"28;0\" dur=\"2s\" repeatCount=\"indefinite\"/></path><text x=\"305\" y=\"46\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">binnenvaart</text><text x=\"305\" y=\"104\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">spoor</text><text x=\"305\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">vrachtwagen</text><text x=\"180\" y=\"212\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">doel 2030: 42% per binnenschip</text></svg>"
+    }
+   ],
+   "quiz": [
+    {
+     "q": "Hoeveel TEU telt één container van 40 voet?",
+     "o": [
+      "1 TEU",
+      "2 TEU",
+      "4 TEU"
+     ],
+     "a": 1
+    },
+    {
+     "q": "Wanneer moet de summiere aangifte voor containervracht naar de EU ingediend zijn?",
+     "o": [
+      "Bij aankomst in Antwerpen",
+      "Binnen 24 uur na het lossen",
+      "24 uur vóór het laden in de vertrekhaven"
+     ],
+     "a": 2
+    },
+    {
+     "q": "Wat vervangt in Antwerpen sinds 2024 de pincode om een container op te halen?",
+     "o": [
+      "Certified Pick-up met identiteitscontrole van de chauffeur",
+      "Een papieren vrachtbrief",
+      "Een QR-code op de container"
+     ],
+     "a": 0
+    }
+   ],
+   "src": [
+    {
+     "t": "Port of Antwerp-Bruges: jaarcijfers 2025",
+     "u": "https://newsroom.portofantwerpbruges.com/en/press-releases/port-of-antwerp-bruges-ends-2025-with-resilience-in-a-turbulent-trading-climate"
+    },
+    {
+     "t": "Port of Antwerp-Bruges: Certified Pick up uitgerold",
+     "u": "https://newsroom.portofantwerpbruges.com/en/press-releases/20240318_certified-pick-up-rolled-out-in-antwerp_eng"
+    },
+    {
+     "t": "DP World: nieuwe stapelkranen Antwerp Gateway",
+     "u": "https://www.dpworld.com/en/news/belgium/dp-world-sustainably-increases-container-capacity-at-antwerp-gateway-with-new-stacking-cranes"
+    },
+    {
+     "t": "Europese Commissie: Import Control System 2",
+     "u": "https://taxation-customs.ec.europa.eu/customs/customs-security/import-control-system-2_en"
+    },
+    {
+     "t": "Port of Antwerp-Bruges: binnenvaart",
+     "u": "https://www.portofantwerpbruges.com/en/business/transport/inland-navigation"
+    }
+   ],
+   "date": "2026-11-21T05:40:18Z"
+  }
+ ]
+}
