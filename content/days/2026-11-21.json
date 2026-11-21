@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T05:44:12Z",
+ "updated": "2026-11-21T05:44:57Z",
  "cards": [
   {
    "cat": "wetenschap",
@@ -632,6 +632,338 @@
     }
    ],
    "date": "2026-11-21T05:44:12Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Een Brusselaar betrapte de grootste arts op dierenanatomie",
+   "body": "In 1543 publiceerde de Brusselse arts Andreas Vesalius, toen amper 28, zijn De humani corporis fabrica. Hij ontleedde zelf menselijke lichamen en ontdekte dat Galenus, eeuwenlang dé autoriteit, vaak dieren had beschreven. Zo bestaat onze onderkaak uit één bot in plaats van twee, en heeft ons borstbeen drie delen, geen zeven.",
+   "take": "Hoor je een stelling van een autoriteit? Vraag waar het bewijs vandaan komt: eigen waarneming, of overgeschreven van iemand anders?",
+   "deep": "## Hoe het werkt\n\nEeuwenlang leerden geneeskundestudenten anatomie uit de teksten van Galenus, een Griekse arts die in het Romeinse Rijk werkte. Een les verliep vaak zo: een professor las voor uit Galenus, terwijl een helper het lichaam opensneed. Wat de studenten zagen, moest passen bij wat er voorgelezen werd. Het probleem: Galenus had nooit een mens ontleed. De Romeinse gewoonten lieten dat niet toe, dus werkte hij met dieren zoals runderen en berberapen, en trok hij zijn conclusies door naar de mens.\n\nAndreas Vesalius, geboren in Brussel op 31 december 1514, deed het anders. Hij sneed zelf, keek zelf en vergeleek wat hij zag met wat in de boeken stond. Waar die twee botsten, koos hij voor het lichaam.\n\n## Een voorbeeld\n\nGalenus beschreef de onderkaak als twee botten, zoals bij veel dieren. Vesalius zag bij mensen één bot. Galenus gaf het borstbeen zeven segmenten, Vesalius telde er drie. En het 'wondernet', een vaatnetwerk aan de basis van de hersenen dat Galenus beschreef, bleek bij schapen en runderen voor te komen, maar niet bij mensen. Vesalius bundelde zijn bevindingen in De humani corporis fabrica (1543), met meer dan 200 houtsneden, waarschijnlijk deels gemaakt door Jan van Calcar uit het atelier van Titiaan. Een Vlaming die in Padua lesgaf, legde zo de basis voor de moderne anatomie.\n\n## Wat onderzoek zegt\n\nMedisch historici noemen de Fabrica het eerste moderne anatomieboek. Over het aantal fouten bij Galenus dat Vesalius rechtzette, lopen de schattingen uiteen: sommige bronnen spreken van meer dan 200, andere van ongeveer 300. Vesalius stierf in 1564 op het Griekse eiland Zakynthos.\n\n## Nuance of misverstand\n\nVesalius was geen eenzame held die alles in één klap omverwierp. Een eerdere Italiaanse anatoom, Berengarius, had het wondernet bij mensen al ontkend omdat hij het bij ontleding niet vond. En Vesalius hield zelf nog vast aan sommige ideeën van Galenus, bijvoorbeeld over het soort bloed in aders en slagaders. Ook de Fabrica bevatte fouten; illustraties van de placenta werden in de editie van 1555 verbeterd. Wetenschap is een proces van stap voor stap bijsturen.\n\n## Wat je ermee doet\n\nWanneer iets 'altijd zo geweest is', loont het om te vragen waarop het eigenlijk steunt. Kijk naar de oorspronkelijke waarneming. Een bron die al eeuwen wordt herhaald, is daarom nog niet juist; ze kan net zo goed eeuwenlang verkeerd zijn overgeschreven.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Dier beschreven, mens ontleed</text><rect x=\"20\" y=\"45\" width=\"120\" height=\"120\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"80\" y=\"68\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Galenus</text><text x=\"80\" y=\"90\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ontleedde</text><text x=\"80\" y=\"106\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">apen en runderen</text><text x=\"80\" y=\"140\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">2e eeuw</text><line x1=\"148\" y1=\"105\" x2=\"190\" y2=\"105\" stroke=\"#ffd166\" stroke-width=\"2\"/><path d=\"M190,105 L184,101 L184,109 Z\" fill=\"#ffd166\"/><rect x=\"198\" y=\"45\" width=\"142\" height=\"120\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"269\" y=\"68\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Vesalius 1543</text><text x=\"212\" y=\"94\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" opacity=\"0\">&#10003; onderkaak: 1 bot<animate attributeName=\"opacity\" values=\"0;0;1;1;0\" keyTimes=\"0;0.15;0.25;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></text><text x=\"212\" y=\"116\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" opacity=\"0\">&#10003; borstbeen: 3 delen<animate attributeName=\"opacity\" values=\"0;0;1;1;0\" keyTimes=\"0;0.35;0.45;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></text><text x=\"212\" y=\"138\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" opacity=\"0\">&#10003; geen wondernet<animate attributeName=\"opacity\" values=\"0;0;1;1;0\" keyTimes=\"0;0.55;0.65;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></text><text x=\"180\" y=\"195\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Zelf snijden in plaats van overschrijven</text></svg>",
+   "quiz": {
+    "q": "Waarom maakte Galenus fouten over het menselijk lichaam?",
+    "o": [
+     "Hij ontleedde vooral dieren en paste dat toe op mensen",
+     "Hij had geen toegang tot boeken",
+     "Zijn teksten werden fout vertaald door Vesalius"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Encyclopedia.com: Vesalius, Andreas",
+     "u": "https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/vesalius-andreas-0"
+    },
+    {
+     "t": "World History Encyclopedia: Andreas Vesalius",
+     "u": "https://www.worldhistory.org/Andreas_Vesalius/"
+    },
+    {
+     "t": "UC Berkeley: Comparative anatomy, Vesalius",
+     "u": "https://evolution.berkeley.edu/the-history-of-evolutionary-thought/pre-1800/comparative-anatomy-andreas-vesalius"
+    },
+    {
+     "t": "Washington University: Vesalius in Italy",
+     "u": "https://beckerexhibits.wustl.edu/vesalius/italy.html"
+    }
+   ],
+   "date": "2026-11-21T05:44:57Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Een Malinese koning deed de goudprijs in Caïro zakken",
+   "body": "In 1324 trok Mansa Musa, heerser van het West-Afrikaanse rijk Mali, op bedevaart naar Mekka, met volgens bronnen zo'n 60.000 mensen. In Caïro gaf hij zoveel goud uit dat het minder waard werd. Volgens kroniekschrijver al-Umari zakte een mithqal goud van minstens 25 naar hoogstens 22 zilveren dirham.",
+   "take": "Komt er plots veel van iets op de markt, dan daalt de prijs. Denk eraan bij hypes: schaarste maakt waarde, overvloed haalt ze weg.",
+   "deep": "## Hoe het werkt\n\nEen prijs is een verhouding: hoeveel van het ene ruil je voor het andere. In het Egypte van de Mammelukken werd goud gemeten in mithqal (een gewichtseenheid) en uitgedrukt in zilveren dirham. Als er plots veel goud in omloop komt terwijl de hoeveelheid zilver en goederen gelijk blijft, moet je meer goud bieden voor hetzelfde. Goud wordt dan relatief goedkoper. Dat is precies wat er volgens tijdgenoten gebeurde toen Mansa Musa in juli 1324 met zijn karavaan in Caïro aankwam.\n\n## Een voorbeeld\n\nMusa en zijn gevolg kampeerden eerst drie dagen bij de piramides van Gizeh en staken op 19 juli de Nijl over naar Caïro. Hij deelde goud uit als geschenk en zijn mensen kochten massaal op de markten. Mali was rijk door zijn goudvelden en de handel door de Sahara. Op de Catalaanse Atlas van 1375, een Europese wereldkaart, staat Musa afgebeeld op een troon met een gouden kroon en een klomp goud in de hand: zijn reputatie was tot in Europa doorgedrongen.\n\n## Wat onderzoek zegt\n\nHet belangrijkste verslag komt van de Syrische geleerde al-Umari. Hij schreef dat een mithqal goud vóór het bezoek nooit onder 25 dirham zakte, en daarna niet meer boven 22 kwam. Dat is een daling van ongeveer 12 procent. Volgens hem duurde die toestand zo'n twaalf jaar. Drie latere Mammelukse schrijvers, Ibn Kathir, al-Maqrizi en Ibn Hajar, vermelden ook een daling, al verschillen ze over de omvang.\n\n## Nuance of misverstand\n\nHistoricus Warren Schultz plaatst kanttekeningen. Al-Umari was in 1324 niet zelf in Caïro; hij schreef ongeveer twaalf jaar later op basis van verhalen van Caïreners en een emir die de koning had ontmoet. Op basis van overgeleverde wisselkoersen vindt Schultz een langdurige ontwrichting van twaalf jaar niet overtuigend. Dat er goud in waarde daalde, wordt wel als vaststaand beschouwd. Ook de populaire bewering dat Musa 'de rijkste mens ooit' was, is niet te berekenen: middeleeuws vermogen laat zich niet zomaar in dollars omzetten.\n\n## Wat je ermee doet\n\nOnthoud het principe: waarde hangt af van schaarste. Dat geldt voor goud, maar ook voor concertkaarten of verzamelobjecten. En wees kritisch bij spectaculaire historische cijfers: vraag wie ze opschreef, wanneer, en of die persoon er zelf bij was.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Te veel goud in Caïro</text><circle cx=\"40\" cy=\"150\" r=\"6\" fill=\"#ffd166\"/><text x=\"40\" y=\"172\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Mali</text><circle cx=\"150\" cy=\"70\" r=\"6\" fill=\"#fff\"/><text x=\"150\" y=\"58\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Caïro</text><circle cx=\"215\" cy=\"120\" r=\"6\" fill=\"#fff\"/><text x=\"215\" y=\"142\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Mekka</text><path d=\"M40,150 Q80,70 150,70 Q190,75 215,120\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"5 5\"/><circle r=\"5\" fill=\"#ffd166\"><animateMotion path=\"M40,150 Q80,70 150,70 Q190,75 215,120\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><text x=\"300\" y=\"48\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">goudprijs</text><text x=\"300\" y=\"62\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">dirham/mithqal</text><rect x=\"262\" y=\"80\" width=\"30\" height=\"100\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"277\" y=\"196\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">vóór</text><text x=\"277\" y=\"74\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">25</text><rect x=\"308\" y=\"92\" width=\"30\" height=\"88\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"100;88;88\" keyTimes=\"0;0.5;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"80;92;92\" keyTimes=\"0;0.5;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"323\" y=\"196\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">na</text><text x=\"323\" y=\"86\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">22</text><text x=\"110\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1324: bedevaart via Caïro</text></svg>",
+   "quiz": {
+    "q": "Wat gebeurde er volgens al-Umari met de goudprijs in Caïro na Musa's bezoek?",
+    "o": [
+     "Die verdubbelde door de grote vraag",
+     "Die bleef exact gelijk",
+     "Die daalde, van minstens 25 naar hoogstens 22 dirham"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "World History Commons: al-Umari over Mansa Musa",
+     "u": "https://worldhistorycommons.org/al-umaris-account-mansa-musas-visit-cairo"
+    },
+    {
+     "t": "World History Encyclopedia: Mansa Musa I",
+     "u": "https://www.worldhistory.org/Mansa_Musa_I/"
+    },
+    {
+     "t": "Boston University: Kingdom of Mali",
+     "u": "https://www.bu.edu/africa/outreach/k_o_mali"
+    },
+    {
+     "t": "Ancient Origins: fact check Mansa Musa",
+     "u": "https://www.ancient-origins.net/news-history-archaeology/mansa-musa-400-billion-richest-man-fact-check-00103294"
+    }
+   ],
+   "date": "2026-11-21T05:44:57Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Een stinkende zomer gaf Londen zijn moderne riolering",
+   "body": "In juli en augustus 1858 stonk de Theems zo hard dat het Britse parlement gordijnen liet drenken in chloorkalk. Binnen 18 dagen keurde het een wet goed voor nieuwe riolen. Ingenieur Joseph Bazalgette bouwde 82 mijl hoofdriolen en 1.100 mijl straatriolen. Cholera verdween grotendeels, al dacht men toen nog dat stank de ziekte veroorzaakte.",
+   "take": "Grote verbeteringen komen vaak pas wanneer beslissers het probleem zelf voelen. Laat wie beslist het probleem dus zelf ervaren.",
+   "deep": "## Hoe het werkt\n\nMidden negentiende eeuw groeide Londen razendsnel. Het afval van miljoenen mensen en van fabrieken kwam via beken en oude riolen rechtstreeks in de Theems terecht, dezelfde rivier waaruit ook drinkwater kwam. In de hete zomer van 1858 begon dat te gisten en te stinken: de 'Great Stink'.\n\nBazalgettes plan was slim in zijn eenvoud. Straatriolen vangen het afvalwater op. Die lopen uit op grote, met baksteen beklede riolen die evenwijdig aan de rivier lopen, de zogenaamde onderscheppende riolen. Die vangen alles op vóór het de Theems in de stad bereikt en voeren het, deels met de zwaartekracht en deels met pompstations, weg naar punten stroomafwaarts. Het geheel telde 82 mijl (132 km) hoofdriolen, 1.100 mijl straatriolen, vier pompstations en twee zuiveringsinstallaties.\n\n## Een voorbeeld\n\nHet parlement zat die zomer gewoon in het gebouw aan de rivier, en de parlementsleden roken de stank dus elke dag. Gordijnen werden in chloorkalk gedrenkt om de geur tegen te houden, zonder veel succes. Op 15 juli 1858 legde Benjamin Disraeli een wet voor, op 2 augustus was ze van kracht. Het geld waar de Metropolitan Board of Works al jaren om vroeg, kwam er nu plots wel.\n\n## Wat onderzoek zegt\n\nEr werden volgens historicus Stephen Halliday zo'n 318 miljoen bakstenen gebruikt. Het systeem zorgde ervoor dat cholera grotendeels verdween en dat ook tyfus minder vaak voorkwam. Ironisch genoeg werkte het om een verkeerde reden: men geloofde in de 'miasmatheorie', het idee dat ziektes uit stinkende lucht kwamen. Arts John Snow had al betoogd dat cholera via vervuild water verspreidt, maar die visie was bij zijn dood in 1858 nog niet officieel aanvaard.\n\n## Nuance of misverstand\n\nHet afvalwater werd aanvankelijk niet volledig gezuiverd, maar vooral weggeleid van de stad. Het probleem verschoof dus deels stroomafwaarts. En de riolering kwam er niet alleen dankzij de stank: Bazalgette had al eerder plannen klaar. De stank zorgde vooral voor de politieke wil en het geld.\n\n## Wat je ermee doet\n\nEen goed plan dat in de schuif ligt, kan plots uitgevoerd worden wanneer de urgentie voelbaar wordt. Heb je een idee op het werk? Werk het uit, zodat je klaarstaat wanneer het probleem eindelijk iedereen raakt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Riolen langs de Theems vangen het afval op</text><rect x=\"20\" y=\"95\" width=\"320\" height=\"34\" fill=\"rgba(255,255,255,0.14)\"/><text x=\"180\" y=\"117\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Theems</text><line x1=\"20\" y1=\"75\" x2=\"320\" y2=\"75\" stroke=\"#ffd166\" stroke-width=\"4\" stroke-dasharray=\"10 8\"><animate attributeName=\"stroke-dashoffset\" values=\"18;0\" dur=\"1.2s\" repeatCount=\"indefinite\"/></line><path d=\"M332,75 L320,69 L320,81 Z\" fill=\"#ffd166\"/><line x1=\"20\" y1=\"149\" x2=\"320\" y2=\"149\" stroke=\"#ffd166\" stroke-width=\"4\" stroke-dasharray=\"10 8\"><animate attributeName=\"stroke-dashoffset\" values=\"18;0\" dur=\"1.2s\" repeatCount=\"indefinite\"/></line><path d=\"M332,149 L320,143 L320,155 Z\" fill=\"#ffd166\"/><line x1=\"60\" y1=\"40\" x2=\"60\" y2=\"72\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"60\" y1=\"152\" x2=\"60\" y2=\"184\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"130\" y1=\"40\" x2=\"130\" y2=\"72\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"130\" y1=\"152\" x2=\"130\" y2=\"184\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"200\" y1=\"40\" x2=\"200\" y2=\"72\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"200\" y1=\"152\" x2=\"200\" y2=\"184\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"270\" y1=\"40\" x2=\"270\" y2=\"72\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"270\" y1=\"152\" x2=\"270\" y2=\"184\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"110\" y=\"36\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">straatriolen</text><text x=\"240\" y=\"36\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">(1.100 mijl)</text><text x=\"180\" y=\"66\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">onderscheppend riool</text><text x=\"180\" y=\"168\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">82 mijl hoofdriolen</text><text x=\"180\" y=\"206\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">afval stroomafwaarts, weg van de stad</text></svg>",
+   "quiz": {
+    "q": "Wat dacht men in 1858 dat cholera veroorzaakte?",
+    "o": [
+     "Bacteriën in het drinkwater",
+     "Stinkende, vuile lucht",
+     "Ratten in de riolen"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "London Museum: The Great Stink of 1858",
+     "u": "https://londonmuseum.org.uk/collections/london-stories/great-stink-of-1858"
+    },
+    {
+     "t": "London Museum: Bazalgette's super-sewer",
+     "u": "https://londonmuseum.org.uk/collections/london-stories/how-bazalgette-built-londons-first-super-sewer/"
+    },
+    {
+     "t": "Hektoen International: cholera en Bazalgette",
+     "u": "https://hekint.org/2021/12/22/epidemic-cholera-and-joseph-william-bazalgette/"
+    },
+    {
+     "t": "History.co.uk: The Great Stink",
+     "u": "https://history.co.uk/articles/the-great-stink-londons-unbearable-summer-of-1858"
+    },
+    {
+     "t": "Gresham College: Halliday over Bazalgette",
+     "u": "https://www.gresham.ac.uk/sites/default/files/2019-10-09_StephenHalliday_Bazalgette_PP.pdf"
+    }
+   ],
+   "date": "2026-11-21T05:44:57Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Zonder kompas naar Tahiti: varen op sterren en golven",
+   "body": "Op 1 mei 1976 vertrok de dubbele kano Hōkūleʻa van Maui naar Tahiti, zonder kompas of kaart. Navigator Mau Piailug uit Micronesië stuurde op de opkomstpunten van sterren, de zon, de maan en de deining. Na 31 dagen zag de bemanning land; op 4 juni wachtten meer dan 17.000 mensen hen op in Papeete.",
+   "take": "Leer bij je volgende wandeling of fietstocht de richting af te lezen aan de zon of de Poolster, zonder je gsm.",
+   "deep": "## Hoe het werkt\n\nEen ster komt elke nacht op hetzelfde punt aan de horizon op en gaat op een vast punt onder. Alleen het tijdstip verschuift met de seizoenen. Polynesische en Micronesische navigatoren onthielden voor tientallen sterren waar ze opkomen en ondergaan: een 'sterrenkompas' in hun hoofd. Ze richtten de kano op een ster laag aan de horizon en schakelden over op een volgende ster wanneer de eerste te hoog stond.\n\nOverdag en bij bewolking keken ze naar de zon, de wind en vooral de deining: lange golven die dagenlang uit dezelfde richting komen. Een ervaren navigator voelt aan de beweging van de romp of de kano schuin op die golven ligt. Vogels die 's avonds naar land vliegen, verraden dat er een eiland in de buurt is.\n\n## Een voorbeeld\n\nBij de reis van 1976 stuurde Piailug onder meer op de opkomst van de ster Antares. De Hōkūleʻa vertrok vanuit Honolua Bay op Maui, bereikte na 31 dagen het atol Mataiva in de Tuamotu-archipel en meerde op 4 juni aan in Papeete. Volgens het Smithsonian kwamen er meer dan 17.000 mensen kijken. Piailug werd gevraagd omdat er in Hawaï geen traditionele navigatoren meer waren; hij leerde zijn kunst later door aan Nainoa Thompson, die in 1980 zelf de heen- en terugreis navigeerde.\n\n## Wat onderzoek zegt\n\nDe voorouders van de Polynesiërs, het Lapitavolk, verspreidden zich tussen ongeveer 1100 en 900 v.Chr. snel over de eilanden van Remote Oceania. Lang dachten Europese onderzoekers dat die eilanden per toeval bevolkt raakten, door kano's die uit koers dreven. Reizen met replica's en computersimulaties lieten zien dat de kans op zo'n toevallige eenrichtingsreis verwaarloosbaar is: de bewoning was het werk van doelbewuste zeevaarders.\n\n## Nuance of misverstand\n\nDe bekende Kon-Tiki-expeditie van Thor Heyerdahl (1947) wekte de indruk dat de Stille Oceaan vanuit Zuid-Amerika per vlot werd bevolkt. Archeologie, taalkunde en genetica wijzen echter op een oorsprong in het westen, uiteindelijk in Zuidoost-Azië. Een DNA-studie uit 2020 vond wel sporen van één vroeg contact met Zuid-Amerikanen, maar geen bewijs dat zij Polynesië bevolkten. De reis van de Hōkūleʻa toonde vooral dat traditionele navigatie werkt, niet dat elke migratie zo verliep.\n\n## Wat je ermee doet\n\nProbeer eens de Poolster te vinden via de Grote Beer: ze staat vrijwel recht boven het noorden. Of let bij het fietsen op waar de zon staat. Je merkt snel hoeveel informatie de natuur geeft, als je weet waar je moet kijken.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Navigeren op sterren en deining</text><circle cx=\"95\" cy=\"120\" r=\"70\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"3 5\"/><line x1=\"25\" y1=\"120\" x2=\"165\" y2=\"120\" stroke=\"#fff\" stroke-width=\"1\"/><text x=\"95\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">sterrenkompas</text><circle cx=\"150\" cy=\"78\" r=\"4\" fill=\"#ffd166\"><animate attributeName=\"opacity\" values=\"0;1;1;0\" dur=\"5s\" repeatCount=\"indefinite\"/><animateMotion path=\"M0,45 L0,0 L-10,-25\" dur=\"5s\" repeatCount=\"indefinite\"/></circle><text x=\"95\" y=\"62\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">opkomende ster</text><text x=\"95\" y=\"140\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">= richting</text><circle cx=\"290\" cy=\"50\" r=\"5\" fill=\"#fff\"/><text x=\"290\" y=\"40\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Hawaï</text><circle cx=\"300\" cy=\"180\" r=\"5\" fill=\"#06d6a0\"/><text x=\"300\" y=\"203\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Tahiti</text><path d=\"M290,55 Q270,115 300,175\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><path d=\"M-7,-3 L7,-3 L4,3 L-4,3 Z\" fill=\"#ffd166\"><animateMotion path=\"M290,55 Q270,115 300,175\" dur=\"7s\" repeatCount=\"indefinite\"/></path><path d=\"M205,95 q8,-6 16,0 t16,0\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"/><path d=\"M205,115 q8,-6 16,0 t16,0\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"/><path d=\"M205,135 q8,-6 16,0 t16,0\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"222\" y=\"160\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">deining</text></svg>",
+   "quiz": {
+    "q": "Waarop stuurde navigator Mau Piailug 's nachts vooral?",
+    "o": [
+     "De opkomstpunten van sterren aan de horizon",
+     "Een magnetisch kompas",
+     "Lichtsignalen van begeleidende boten"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Smithsonian Ocean: Hōkūleʻa in Tahiti 1976",
+     "u": "https://ocean.si.edu/human-connections/hokulea-welcomed-tahiti-1976"
+    },
+    {
+     "t": "JSTOR Daily: Mau Piailug",
+     "u": "https://daily.jstor.org/pius-mau-piailug-master-navigator-of-micronesia"
+    },
+    {
+     "t": "World History Encyclopedia: Polynesian navigation",
+     "u": "https://www.worldhistory.org/article/1586/polynesian-navigation--settlement-of-the-pacific/"
+    },
+    {
+     "t": "Smithsonian: How Kon-Tiki misled the world",
+     "u": "https://www.smithsonianmag.com/smithsonian-institution/how-voyage-kon-tiki-misled-world-about-navigating-pacific-180952478/"
+    },
+    {
+     "t": "The Conversation: Polynesische oorsprong",
+     "u": "https://theconversation.com/did-ancient-americans-settle-in-polynesia-the-evidence-doesnt-stack-up-142383"
+    }
+   ],
+   "date": "2026-11-21T05:44:57Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Nieuwe Coca-Cola won de smaaktest en verloor de klant",
+   "body": "Op 23 april 1985 verving Coca-Cola zijn klassieke recept door 'New Coke', na smaaktesten bij bijna 200.000 consumenten. Die vonden het nieuwe recept lekkerder. Toch liep de klantenlijn vol: 1.500 telefoontjes per dag, tegenover 400 voordien. Na 79 dagen, op 11 juli, keerde het oude recept terug als Coca-Cola Classic.",
+   "take": "Test je een product? Meet niet alleen wat mensen lekker vinden, maar ook wat ze ervan zouden missen als het verdwijnt.",
+   "deep": "## Hoe het werkt\n\nCoca-Cola verloor in de jaren 1980 terrein aan Pepsi, dat met de 'Pepsi Challenge' liet zien dat mensen in een blinde test vaak de zoetere Pepsi verkozen. Coca-Cola ontwikkelde daarom een nieuwe, zoetere formule en testte die uitgebreid. In blinde smaaktesten scoorde ze beter dan zowel Pepsi als de oude Coke. Op basis van die cijfers nam het bedrijf een radicale beslissing: het oude recept verdween helemaal uit de rekken.\n\nWat de testen niet maten, was de band die mensen met het merk hadden. Een blinde slok meet smaak. Een blikje uit de winkel gaat ook over herinneringen, gewoonte en identiteit. Door het oude product weg te nemen, voelden fans zich iets afgenomen, en dat gevoel woog zwaarder dan een kleine smaakwinst.\n\n## Een voorbeeld\n\nVolgens Coca-Cola zelf kreeg de consumentenlijn tegen juni 1985 zo'n 1.500 telefoontjes per dag, tegenover ongeveer 400 vóór de verandering. Er kwamen protestgroepen en boze brieven. Op 11 juli 1985 kondigde het bedrijf aan dat de oorspronkelijke formule terugkwam als Coca-Cola Classic. Het nieuwe recept bleef nog jaren bestaan, later als Coke II, maar verdween uiteindelijk. Vergelijk het met een Vlaamse brouwerij die het recept van een geliefd streekbier zou veranderen: ook al vindt een testpanel het nieuwe 'beter', de vaste drinker wil zijn vertrouwde pint.\n\n## Wat onderzoek zegt\n\nCoca-Cola spreekt van smaaktesten bij bijna 200.000 consumenten; History.com noemt 190.000 blinde testen in de VS en Canada. De zoetere formule kwam voort uit onderzoek dat Coca-Cola deed bij de ontwikkeling van Diet Coke (1982): in geheime testen won een zoetere versie van zowel Pepsi als de klassieke Coke. Critici van zulke testen wijzen erop dat één slokje iets anders meet dan een heel blikje drinken. Marketeers gebruiken de zaak sindsdien als schoolvoorbeeld van wat er misgaat als je alleen meet wat makkelijk meetbaar is.\n\n## Nuance of misverstand\n\nEr circuleert een complottheorie dat Coca-Cola de flop expres veroorzaakte om de liefde voor het origineel aan te wakkeren. Het bedrijf ontkent dat. Toenmalig president Donald Keough zei: 'We zijn niet zo dom, en we zijn niet zo slim.' Wel klopt dat de terugkeer van Classic veel gratis aandacht opleverde en dat de verkoop van het origineel daarna stevig was.\n\n## Wat je ermee doet\n\nVerander je iets aan een product of dienst waar mensen aan gehecht zijn, bijvoorbeeld een vertrouwd menu of een app-indeling? Test niet alleen de nieuwe versie, maar ook wat het wegnemen van de oude doet. Een keuzemogelijkheid laten bestaan, kan veel boosheid voorkomen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Smaaktest gewonnen, klant kwijt</text><line x1=\"30\" y1=\"150\" x2=\"330\" y2=\"150\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"150\" r=\"6\" fill=\"#ff6b9d\"/><text x=\"60\" y=\"175\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">23 april 1985</text><text x=\"60\" y=\"190\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">New Coke</text><circle cx=\"300\" cy=\"150\" r=\"6\" fill=\"#06d6a0\"/><text x=\"300\" y=\"175\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">11 juli 1985</text><text x=\"300\" y=\"190\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Classic terug</text><text x=\"180\" y=\"175\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">79 dagen</text><circle cx=\"60\" cy=\"150\" r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M0,0 L240,0\" dur=\"5s\" repeatCount=\"indefinite\"/></circle><text x=\"130\" y=\"50\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">telefoontjes per dag</text><rect x=\"100\" y=\"110\" width=\"26\" height=\"25\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"113\" y=\"104\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">400</text><rect x=\"140\" y=\"55\" width=\"26\" height=\"80\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"25;80;80\" keyTimes=\"0;0.6;1\" dur=\"5s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"110;55;55\" keyTimes=\"0;0.6;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"185\" y=\"70\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">1.500</text></svg>",
+   "quiz": {
+    "q": "Wat maten de smaaktesten van Coca-Cola níét goed?",
+    "o": [
+     "Of mensen de nieuwe smaak lekker vonden",
+     "Hoe zoet de nieuwe formule was",
+     "Hoe gehecht mensen waren aan het oude merk"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "The Coca-Cola Company: New Coke",
+     "u": "https://www.coca-colacompany.com/about-us/history/new-coke-the-most-memorable-marketing-blunder-ever"
+    },
+    {
+     "t": "History.com: Why New Coke flopped",
+     "u": "https://www.history.com/articles/why-coca-cola-new-coke-flopped"
+    },
+    {
+     "t": "Snopes: New Coke",
+     "u": "https://snopes.com/cokelore/newcoke.asp"
+    }
+   ],
+   "date": "2026-11-21T05:44:57Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Nummer twee zijn maakte Avis weer winstgevend",
+   "body": "Autoverhuurder Avis maakte al jaren verlies toen reclamebureau Doyle Dane Bernbach in 1962 iets ongewoons deed: het zei openlijk dat Avis maar nummer twee was, na Hertz. 'Daarom doen we meer ons best.' Binnen een jaar ging Avis van 3,2 miljoen dollar verlies naar 1,2 miljoen winst.",
+   "take": "Ben je niet de grootste? Gebruik dat eerlijk als reden waarom je klanten beter behandelt, en maak die belofte dan ook echt waar.",
+   "deep": "## Hoe het werkt\n\nDe meeste reclame roept dat een merk het beste of het grootste is. Klanten weten dat iedereen dat zegt, dus het overtuigt weinig. Avis draaide het om. Het gaf toe wat iedereen al wist, dat Hertz groter was, en koppelde daar een geloofwaardige belofte aan: wie tweede is, moet harder werken om klanten te houden. 'When you're only No. 2, you try harder. Or else.'\n\nDie eerlijke bekentenis maakt de rest van de boodschap geloofwaardiger. En ze geeft de klant een sympathieke reden om voor de underdog te kiezen.\n\n## Een voorbeeld\n\nDe advertenties beschreven concrete dingen: een volle tank, propere asbakken, schone spiegels. Volgens Time kregen medewerkers checklists mee om net die kleine ergernissen te vermijden. De belofte in de reclame werd zo een werkwijze in de garages. Robert Townsend, die in 1962 aan het hoofd van Avis kwam, had het bureau van Bill Bernbach ingeschakeld als deel van zijn reddingsplan. Denk aan een kleine Vlaamse bakker naast een grote supermarkt: 'wij zijn kleiner, dus we kennen uw naam' werkt om dezelfde reden.\n\n## Wat onderzoek zegt\n\nVolgens de Encyclopedia of Major Marketing Campaigns en de Star Tribune ging Avis binnen ongeveer twaalf maanden van 3,2 miljoen dollar verlies naar 1,2 miljoen dollar winst, de eerste winst in meer dan tien jaar. Over het marktaandeel lopen de cijfers per bron uiteen, maar ze zijn het erover eens dat Avis terrein won op Hertz. Hertz reageerde pas in 1966 met tegenreclame. Later onderzoek van Neeru Paharia en collega's (Journal of Consumer Research, 2011) bevestigde dit 'underdog-effect': een merkverhaal over achterstand plus vastberadenheid verhoogde in vier studies de koopintentie. In één studie kozen deelnemers in 71 procent van de gevallen de underdog-chocoladereep.\n\n## Nuance of misverstand\n\nAvis werd nooit nummer één. Het verhaal gaat niet over het inhalen van de leider, maar over winstgevend worden in een sterke tweede positie. Het werkte bovendien omdat het bedrijf de belofte waarmaakte. Een underdogverhaal zonder betere service valt snel door de mand. En wie al marktleider is, kan deze truc uiteraard niet gebruiken.\n\n## Wat je ermee doet\n\nZoek in je eigen zaak, vereniging of sollicitatie een eerlijke zwakte die je kunt omdraaien in een belofte. 'Klein team, dus snelle antwoorden' of 'nieuw, dus extra gemotiveerd'. Koppel er iets concreets en controleerbaars aan, zodat mensen merken dat het klopt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Nummer twee als verkoopargument</text><rect x=\"30\" y=\"50\" width=\"120\" height=\"44\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"90\" y=\"77\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Hertz: nr. 1</text><rect x=\"30\" y=\"110\" width=\"120\" height=\"44\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"90\" y=\"130\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Avis: nr. 2</text><text x=\"90\" y=\"146\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">we try harder</text><line x1=\"200\" y1=\"120\" x2=\"340\" y2=\"120\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"270\" y=\"215\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">resultaat Avis (miljoen $)</text><rect x=\"215\" y=\"120\" width=\"40\" height=\"64\" fill=\"#ff6b9d\"/><text x=\"235\" y=\"200\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">-3,2</text><text x=\"235\" y=\"112\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">vóór</text><rect x=\"285\" y=\"96\" width=\"40\" height=\"24\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"0;24;24\" keyTimes=\"0;0.5;1\" dur=\"5s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"120;96;96\" keyTimes=\"0;0.5;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"305\" y=\"88\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">+1,2</text><text x=\"305\" y=\"138\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1 jaar later</text></svg>",
+   "quiz": {
+    "q": "Wat was de kern van Avis' campagne uit 1962?",
+    "o": [
+     "Avis beweerde de grootste te zijn",
+     "Avis gaf toe tweede te zijn en beloofde meer inzet",
+     "Avis halveerde zijn prijzen"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Star Tribune: 'We Try Harder'",
+     "u": "https://www.startribune.com/avis-we-try-harder-most-brilliant-ad-slogan-of-20th-century/223173541/"
+    },
+    {
+     "t": "WARC: Avis We Try Harder campaign",
+     "u": "https://www.warc.com/content/article/gale-emmc/avis-rent-a-car-inc-we-try-harder-campaign/en-gb/84352"
+    },
+    {
+     "t": "Time: Advertising, Trying Harder",
+     "u": "https://time.com/archive/6872138/advertising-trying-harder"
+    },
+    {
+     "t": "Harvard Business School: underdog branding",
+     "u": "https://www.library.hbs.edu/working-knowledge/the-consumer-appeal-of-underdog-branding"
+    }
+   ],
+   "date": "2026-11-21T05:44:57Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Je horloge telt 32.768 trillingen per seconde",
+   "body": "In een kwartshorloge trilt een piepklein stemvorkje van kwarts 32.768 keer per seconde. Dat getal is 2 tot de vijftiende macht: een chip halveert het signaal vijftien keer en houdt precies één puls per seconde over. Die puls duwt de secondewijzer vooruit. Een gewoon kwartsuurwerk wijkt zo'n 15 seconden per maand af.",
+   "take": "Loopt je kwartshorloge achter? Dat is normaal: zet het gewoon een keer per maand gelijk met de klok op je gsm.",
+   "deep": "## Hoe het werkt\n\nKwarts is piëzo-elektrisch: buig of knijp je het kristal, dan ontstaat er een kleine elektrische spanning. Omgekeerd gaat het kristal bewegen als je er spanning op zet. In een horloge zit een stukje kwarts in de vorm van een minuscule stemvork. Een elektronisch circuit geeft het telkens een duwtje, en het kristal trilt op zijn eigen, zeer stabiele frequentie: 32.768 keer per seconde.\n\nWaarom net dat getal? Omdat 32.768 gelijk is aan 2 tot de macht 15. Een chip kan een signaal heel eenvoudig halveren. Halveer je 32.768 vijftien keer, dan hou je exact 1 puls per seconde over. Bij een horloge met wijzers stuurt die puls een klein stappenmotortje aan, dat de secondewijzer telkens één tik verder zet.\n\n## Een voorbeeld\n\nKijk naar de secondewijzer van een goedkoop kwartshorloge of een keukenklok: die springt per seconde, in plaats van vloeiend rond te glijden zoals bij veel mechanische horloges. Elke sprong is het eindpunt van 32.768 trillingen. Een digitaal horloge gebruikt dezelfde puls, alleen springt daar een cijfer op het scherm in plaats van een wijzer.\n\n## Wat onderzoek zegt\n\nSeiko bracht op 25 december 1969 de Quartz Astron 35SQ uit, het eerste kwartspolshorloge ter wereld. Het kostte 450.000 yen, ongeveer de prijs van een middelgrote auto. De Astron haalde een nauwkeurigheid van ongeveer 5 seconden per maand. Die eerste versie trilde nog op 8.192 Hz; later werd 32.768 Hz de standaard. Volgens Seiko zijn de stemvorkresonator en de stappenmotor die het toen ontwikkelde, nog altijd de standaardonderdelen van kwartshorloges. Gangbare resonatoren hebben een nauwkeurigheid van ongeveer zes miljoenste, wat neerkomt op zo'n 15 seconden per 30 dagen.\n\n## Nuance of misverstand\n\n'Kwarts' betekent niet dat een horloge perfect is. De trillingsfrequentie verandert een beetje met de temperatuur, en ook de kwaliteit van het kristal en de schakeling spelen mee. Daarom draait hetzelfde horloge aan je pols soms anders dan in een koude lade. Klokken die zichzelf gelijkzetten via een radiosignaal of je gsm via het netwerk, corrigeren die kleine afwijkingen regelmatig.\n\n## Wat je ermee doet\n\nWeet je nu waarom een kwartshorloge na een paar maanden een halve minuut verschil kan tonen? Dat is normaal. Zet het af en toe gelijk.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Van kristaltrilling naar één tik</text><g transform=\"translate(55,110)\"><rect x=\"-22\" y=\"20\" width=\"44\" height=\"14\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"-18\" y=\"-45\" width=\"10\" height=\"66\" fill=\"#ffd166\"><animateTransform attributeName=\"transform\" type=\"rotate\" values=\"-3 -13 20;3 -13 20;-3 -13 20\" dur=\"0.4s\" repeatCount=\"indefinite\"/></rect><rect x=\"8\" y=\"-45\" width=\"10\" height=\"66\" fill=\"#ffd166\"><animateTransform attributeName=\"transform\" type=\"rotate\" values=\"3 13 20;-3 13 20;3 13 20\" dur=\"0.4s\" repeatCount=\"indefinite\"/></rect></g><text x=\"55\" y=\"168\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">kwartsstemvork</text><text x=\"55\" y=\"184\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">32.768 Hz</text><rect x=\"110\" y=\"88\" width=\"140\" height=\"40\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"106\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">chip: 15 keer ÷ 2</text><text x=\"180\" y=\"121\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">2^15 = 32.768</text><line x1=\"250\" y1=\"108\" x2=\"276\" y2=\"108\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M276,108 L270,104 L270,112 Z\" fill=\"#fff\"/><circle r=\"4\" fill=\"#06d6a0\"><animateMotion path=\"M85,108 L250,108\" dur=\"1s\" repeatCount=\"indefinite\"/></circle><circle cx=\"315\" cy=\"108\" r=\"32\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"315\" y1=\"108\" x2=\"315\" y2=\"82\" stroke=\"#06d6a0\" stroke-width=\"2\"><animateTransform attributeName=\"transform\" type=\"rotate\" values=\"0 315 108;6 315 108;12 315 108;18 315 108;24 315 108;30 315 108;36 315 108;42 315 108\" calcMode=\"discrete\" dur=\"8s\" repeatCount=\"indefinite\"/></line><text x=\"315\" y=\"160\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1 tik per seconde</text></svg>",
+   "quiz": {
+    "q": "Waarom trilt het kwarts in je horloge net 32.768 keer per seconde?",
+    "o": [
+     "Omdat kwarts van nature niet anders kan trillen",
+     "Omdat het een macht van 2 is, makkelijk te halveren tot 1 per seconde",
+     "Omdat de batterij 32.768 volt levert"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Explain that Stuff: Quartz clocks and watches",
+     "u": "https://www.explainthatstuff.com/quartzclockwatch.html"
+    },
+    {
+     "t": "HowStuffWorks: Quartz watch",
+     "u": "https://electronics.howstuffworks.com/quartz-watch.htm"
+    },
+    {
+     "t": "Seiko Museum: The pursuit of accuracy",
+     "u": "https://museum.seiko.co.jp/en/knowledge/Quartz01/"
+    },
+    {
+     "t": "Seiko: Quartz Astron 50 jaar",
+     "u": "https://www.seikowatches.com/be-fr/products/astron/special/story_qa50th_1"
+    }
+   ],
+   "date": "2026-11-21T05:44:57Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Je koelkast maakt geen kou, hij sleept warmte weg",
+   "body": "Een koelkast pompt warmte van binnen naar buiten. Een koelvloeistof verdampt in de buizen binnenin en neemt daarbij warmte op, zoals zweet je huid afkoelt. Een compressor perst het gas samen tot het heet is, en via de roosters achteraan geeft het die warmte af aan je keuken. Daarom voelt de achterkant warm aan.",
+   "take": "Laat de deur van je koelkast nooit openstaan om je keuken te koelen: de keuken wordt er net warmer van.",
+   "deep": "## Hoe het werkt\n\nEen koelkast werkt met een gesloten kringloop van koelmiddel en vier hoofdonderdelen. Eén: de compressor perst het gasvormige koelmiddel samen, waardoor het onder hoge druk komt en heter wordt dan de lucht in je keuken. Twee: in de condensor, de buizen of roosters achteraan of onderaan, geeft dat hete gas zijn warmte af aan de keuken en wordt het weer vloeibaar. Drie: een expansieventiel of dun capillair buisje laat de druk plots zakken, waardoor de vloeistof sterk afkoelt. Vier: in de verdamper binnenin de koelkast kookt het koude koelmiddel weer tot gas en onttrekt daarbij warmte aan de lucht en het eten. Daarna gaat het terug naar de compressor, en het rondje begint opnieuw.\n\nDe sleutel is dat verdampen warmte kost. Dat ken je van je eigen lichaam: zweet dat verdampt, koelt je huid af.\n\n## Een voorbeeld\n\nVoel na een tijdje eens aan de zijkant of achterkant van je koelkast: die is lauw tot warm. Dat is de warmte uit je boter, melk en restjes stoofvlees, plus de energie die de compressor gebruikt. Hoor je af en toe gezoem? Dan slaat de compressor aan. Dezelfde kringloop zit in een diepvriezer, een airco en een warmtepomp om je huis te verwarmen: daar werkt het principe andersom, met de warme kant binnen.\n\n## Wat onderzoek zegt\n\nLesmateriaal van Penn State beschrijft de koelkast als een warmteverplaatser: ze haalt thermische energie uit de koude binnenkant en duwt die naar de warmere keuken. De compressor is de grootste stroomverbruiker; volgens een van de bronnen goed voor meer dan 80 procent van het elektriciteitsverbruik van een koelkast. Fabrikant Danfoss, die compressoren maakt, legt dezelfde vier stappen uit in zijn basistraining voor installateurs.\n\n## Nuance of misverstand\n\n'Kou' is geen stof die een koelkast aanmaakt. Er wordt alleen warmte verplaatst. Daarom koelt een open koelkast je keuken niet af. De warmte die binnenin wordt opgenomen, komt via de condensor gewoon terug in dezelfde ruimte, en de energie die de compressor verbruikt, komt er nog bovenop als extra warmte. Natuurkundigen van de Universiteit van Illinois leggen uit dat de kamer als geheel daardoor warmer wordt, ook al voel je vlak voor de deur een koude luchtstroom.\n\n## Wat je ermee doet\n\nLaat rond de roosters van je koelkast wat ruimte zodat de warmte weg kan, en stop geen dampend eten in de koelkast als het eerst even kan afkoelen. Zo hoeft de compressor minder hard te werken, en dat zie je op je energiefactuur.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Warmte van binnen naar buiten pompen</text><rect x=\"20\" y=\"45\" width=\"130\" height=\"150\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"85\" y=\"62\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">in de koelkast</text><text x=\"270\" y=\"62\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">keuken</text><path d=\"M70,90 L70,170 L290,170 L290,90 Z\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"12;0\" dur=\"1s\" repeatCount=\"indefinite\"/></path><rect x=\"52\" y=\"105\" width=\"36\" height=\"50\" fill=\"#06d6a0\"/><text x=\"110\" y=\"123\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">verdamper</text><text x=\"110\" y=\"138\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">koud gas</text><rect x=\"272\" y=\"105\" width=\"36\" height=\"50\" fill=\"#ff6b9d\"/><text x=\"262\" y=\"123\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">condensor</text><text x=\"262\" y=\"138\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">geeft warmte af</text><circle cx=\"180\" cy=\"170\" r=\"14\" fill=\"#ffd166\"/><text x=\"180\" y=\"198\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">compressor</text><rect x=\"172\" y=\"82\" width=\"16\" height=\"16\" fill=\"#fff\"/><text x=\"230\" y=\"76\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ventiel: druk omlaag</text><circle r=\"5\" fill=\"#fff\"><animateMotion path=\"M70,90 L70,170 L290,170 L290,90 Z\" dur=\"6s\" repeatCount=\"indefinite\"/></circle></svg>",
+   "quiz": {
+    "q": "Wat gebeurt er met de temperatuur van je keuken als je de koelkastdeur laat openstaan?",
+    "o": [
+     "De keuken koelt duidelijk af",
+     "Er verandert niets, de koelkast valt stil",
+     "De keuken wordt een beetje warmer"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Penn State EGEE 102: Refrigerators",
+     "u": "https://courses.ems.psu.edu/egee102/node/2402"
+    },
+    {
+     "t": "Danfoss: How a refrigerator works",
+     "u": "https://www.danfoss.com/en/about-danfoss/our-businesses/cooling/the-fridge-how-it-works"
+    },
+    {
+     "t": "University of Illinois: Open refrigerator",
+     "u": "https://van.physics.illinois.edu/ask/listing/1790"
+    }
+   ],
+   "date": "2026-11-21T05:44:57Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Bluetooth springt 1600 keer per seconde van kanaal",
+   "body": "Klassieke Bluetooth zendt in de drukke 2,4-gigahertzband, dezelfde als veel wifi. Om storing te vermijden, verspringt de verbinding tot 1600 keer per seconde tussen 79 kanalen van elk 1 MHz, volgens een patroon dat zender en ontvanger allebei kennen. Moderne versies slaan bovendien kanalen over die bezet blijken, bijvoorbeeld door je wifi.",
+   "take": "Hapert je draadloze koptelefoon? Haal je gsm uit je achterzak en leg hem voor je: je lichaam absorbeert het signaal.",
+   "deep": "## Hoe het werkt\n\nDe 2,4-gigahertzband is een vrije frequentieband: wifi, draadloze muizen, babyfoons en microgolfovens gebruiken haar allemaal. Wie daar op één vaste frequentie zendt, loopt het risico dat iemand anders net op die plek stoort. Klassieke Bluetooth (BR/EDR) lost dat op met 'frequency hopping': de band van 2,400 tot 2,4835 GHz wordt verdeeld in 79 kanalen van 1 MHz, en de verbinding springt tot 1600 keer per seconde naar een ander kanaal.\n\nDie sprongen zijn niet willekeurig voor de deelnemers. Het toestel dat de verbinding leidt, bepaalt een pseudo-willekeurig patroon, en het andere toestel volgt dat in perfecte maat. Wordt één sprong verstoord, dan gaat er maar een heel klein stukje data mis, dat opnieuw kan worden verstuurd.\n\n## Een voorbeeld\n\nJe zit op de trein met draadloze oordopjes, terwijl tientallen reizigers wifi en Bluetooth gebruiken. Toch hoor je meestal ononderbroken muziek. Dat komt omdat je verbinding voortdurend van plek wisselt in de band: zelden zitten twee toestellen langdurig op hetzelfde kanaal. Bij thuiswerk met wifi en een draadloze headset gebeurt hetzelfde.\n\n## Wat onderzoek zegt\n\nIn de eerste versies koos Bluetooth kanalen zonder te kijken of ze bezet waren. Daarom kwam er 'adaptive frequency hopping' (AFH): toestellen meten welke kanalen storing geven, bijvoorbeeld door een wifinetwerk, en halen die uit hun springpatroon. Zo delen Bluetooth en wifi de band beter. De naam heeft een historische achtergrond. Volgens de Bluetooth Special Interest Group stelde Intel-ingenieur Jim Kardach 'Bluetooth' voor als tijdelijke codenaam, naar de tiende-eeuwse Deense koning Harald Blauwtand, die Denemarken en Noorwegen verenigde. Het logo combineert diens initialen in runen: H en B.\n\n## Nuance of misverstand\n\nSpringen lost niet alles op. Je eigen lichaam bestaat grotendeels uit zout water en absorbeert 2,4-GHz-straling goed; onderzoekers van de Universiteit van Aalborg maten dat het menselijk lichaam de radioprestaties van oordopjes verslechtert. Daar helpt geen enkel springpatroon tegen. En waarom de koning 'Blauwtand' heette, weet niemand zeker: het verhaal van een rotte, donkere tand is een speculatie van historici, geen vaststaand feit.\n\n## Wat je ermee doet\n\nValt je Bluetooth-geluid weg, kijk dan eerst naar afstand en obstakels: muren en je eigen lichaam verzwakken het signaal. Bose raadt aan de bron niet in een achterzak te stoppen, maar in een voorzak of borstzak, of gewoon op tafel voor je. En weet: het sprongetjesgedrag gebeurt automatisch, daar hoef je zelf niets voor in te stellen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">79 kanalen, 1600 sprongen per seconde</text><rect x=\"20\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"28\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"36\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"44\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"52\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"60\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"68\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"76\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"84\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"92\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"100\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"108\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"116\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"124\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"132\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"140\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"148\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"156\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"164\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"172\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"180\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"188\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"196\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"204\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"212\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"220\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"228\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"236\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"244\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"252\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"260\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"268\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"276\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"284\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"292\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"300\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"308\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"316\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"324\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"332\" y=\"70\" width=\"6\" height=\"80\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"140\" y=\"62\" width=\"70\" height=\"96\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\" stroke-dasharray=\"4 3\"/><text x=\"175\" y=\"175\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">wifi bezet</text><rect x=\"36\" y=\"70\" width=\"6\" height=\"80\" fill=\"#ffd166\"><animate attributeName=\"x\" values=\"36;268;84;300;52;236;100;324;36\" calcMode=\"discrete\" dur=\"4s\" repeatCount=\"indefinite\"/></rect><text x=\"20\" y=\"58\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">2,4 GHz</text><text x=\"340\" y=\"58\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">2,48 GHz</text><text x=\"180\" y=\"195\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Springpatroon slaat drukke kanalen over</text><text x=\"180\" y=\"212\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">(adaptive frequency hopping)</text></svg>",
+   "quiz": {
+    "q": "Waarom springt Bluetooth voortdurend van kanaal?",
+    "o": [
+     "Om storing door andere toestellen in dezelfde band te vermijden",
+     "Om de batterij op te laden",
+     "Omdat elk kanaal maar één seconde mag worden gebruikt"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "MathWorks: Bluetooth BR/EDR en AFH",
+     "u": "https://ch.mathworks.com/help/bluetooth/ug/end-to-end-bluetooth-br-edr-phy-simulation-with-wlan-interference-and-adaptive-frequency-hopping.html"
+    },
+    {
+     "t": "NXP: Bluetooth application note",
+     "u": "https://www.nxp.com/docs/en/application-note/AN2212.pdf"
+    },
+    {
+     "t": "Bluetooth SIG: origin of the name",
+     "u": "https://bluetooth.com/about-us/bluetooth-origin/"
+    },
+    {
+     "t": "Digital Trends: What is Bluetooth",
+     "u": "https://www.digitaltrends.com/phones/what-is-bluetooth/"
+    },
+    {
+     "t": "Aalborg University: earbuds en het lichaam",
+     "u": "https://vbn.aau.dk/ws/files/412743629/earbud_vbn.pdf"
+    },
+    {
+     "t": "Bose Support: onderbroken geluid",
+     "u": "https://support.bose.com/s/article/ult-headphoneopn-intermittent-audio-from-product---ka08c000001buk3aaa"
+    }
+   ],
+   "date": "2026-11-21T05:44:57Z"
   }
  ],
  "dives": [
