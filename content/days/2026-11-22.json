@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T05:45:38Z",
+ "updated": "2026-11-22T05:48:08Z",
  "cards": [
   {
    "cat": "wetenschap",
@@ -1284,6 +1284,318 @@
     }
    ],
    "date": "2026-11-22T05:45:38Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Zeeleeuwen afschieten redt de zalm niet, zegt model",
+   "body": "Op 19 november verscheen in Science een modelstudie van NOAA en Oregon State University: grootschalig afschot van zeehonden, zeeleeuwen en zeevogels voor de kust van Washington, Oregon en Noord-Californië helpt de bedreigde zalm nauwelijks. Valt de jager weg, dan groeien andere soorten, zoals heek, die zalm opeten of zijn voedsel wegkapen.",
+   "take": "Hoor je 'schiet de rover af, dan komt de prooi terug'? Vraag eerst wie er dan in de plaats komt.",
+   "deep": "## Hoe het werkt\n\nEen voedselweb is geen ketting maar een net. Een zeeleeuw eet zalm, maar ook veel andere vis, waaronder Pacifische heek. Heek eet op zijn beurt jonge zalm en vist in dezelfde voedselvoorraad.\n\nHaal je een groot deel van de zeeleeuwen weg, dan gebeuren er twee dingen tegelijk. Direct: er wordt minder zalm opgegeten door zeeleeuwen. Indirect: soorten die de zeeleeuw normaal in toom hield, krijgen ruimte en groeien. Ecologen noemen dat predator release. Als die soorten zelf zalm eten of ermee concurreren, gaat de winst van het afschot grotendeels weer verloren. Bovendien is de totale massa toppredatoren klein in vergelijking met de rest van het web, waardoor hun wegname weinig verandert.\n\n## Een voorbeeld\n\nDenk aan een vijver met snoek, baars en voorn. Vis je alle snoek weg om meer voorn te hebben, dan kan de baars, die de snoek voordien at, plots toenemen en zelf jonge voorn verorberen. Netto heb je dan nauwelijks meer voorn, maar wel een ander evenwicht. Dezelfde logica speelt in de oceaan, alleen op veel grotere schaal en met tientallen soorten tegelijk.\n\n## Wat onderzoek zegt\n\nHet team onder leiding van Dylan Gomes (NOAA Fisheries) gebruikte een uitgebreide versie van het voedselwebmodel EcoTran. Ze simuleerden onder meer scenario's met 50 procent minder zeeleeuwen en gewone zeehonden. Over een brede waaier aan onzekerheden had afschot weinig tot geen positief effect op chinook- en cohozalm. Wat wel hielp in het model: minder Pacifische heek. Dat gaf een positief effect op beide zalmsoorten in 99 procent van de simulaties. De auteurs waarschuwen meteen dat meer heek vangen ook meer zalm als bijvangst kan opleveren.\n\n## Nuance of misverstand\n\nDe studie zegt niet dat roofdieren nooit een probleem zijn. Gericht ingrijpen bij individuele dieren die op knelpunten, zoals smalle trekroutes, extreem veel zalm doden, kan volgens de auteurs nog een rol spelen. Zulke plekken, zoals vistrappen, zaten niet in het model. Het blijft ook een model: het is zo goed als de gegevens over wie wie eet.\n\n## Wat je ermee doet\n\nGebruik dit als denkhulp bij elk debat over het bejagen van een soort om een andere te redden, of het nu over zeehonden, aalscholvers of vossen gaat. Vraag: wie eet die jager nog meer, en wie profiteert als hij verdwijnt? Een maatregel die op papier logisch lijkt, kan in een voedselweb verdampen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Minder zeeleeuwen, meer heek</text><rect x=\"130\" y=\"32\" width=\"100\" height=\"32\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"53\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">zeeleeuw</text><g opacity=\"0.25\"><rect x=\"30\" y=\"110\" width=\"100\" height=\"32\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"80\" y=\"131\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">heek</text><animate attributeName=\"opacity\" values=\"0.25;1;1;0.25\" keyTimes=\"0;0.15;0.6;1\" dur=\"4s\" begin=\"0s\" repeatCount=\"indefinite\"/></g><rect x=\"230\" y=\"110\" width=\"100\" height=\"32\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"280\" y=\"131\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">zalm</text><path d=\"M160,66 L95,108\" stroke=\"#fff\" stroke-width=\"2\" fill=\"none\"/><path d=\"M95,108 L99.2,101.2 L102.9,107.0 Z\" fill=\"#fff\"/><path d=\"M200,66 L265,108\" stroke=\"#fff\" stroke-width=\"2\" fill=\"none\"/><path d=\"M265,108 L257.1,107.0 L260.8,101.2 Z\" fill=\"#fff\"/><path d=\"M132,126 L226,126\" stroke=\"#ff6b9d\" stroke-width=\"2\" fill=\"none\"/><path d=\"M226,126 L218.8,129.5 L218.8,122.5 Z\" fill=\"#ff6b9d\"/><text x=\"180\" y=\"118\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">eet en concurreert</text><text x=\"80\" y=\"165\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">groeit als jager wegvalt</text><text x=\"280\" y=\"165\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">wint netto weinig</text><circle r=\"4\" fill=\"#ff6b9d\"><animateMotion path=\"M132,126 L226,126\" dur=\"2s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">model: afschot helpt zalm nauwelijks</text></svg>",
+   "quiz": {
+    "q": "Waarom helpt grootschalig afschot van zeeleeuwen de zalm volgens het model nauwelijks?",
+    "o": [
+     "Zeeleeuwen eten bijna nooit zalm",
+     "Andere soorten zoals heek nemen toe en eten of verdringen zalm",
+     "Zalm sterft vooral door vervuiling in rivieren"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Science (Gomes et al., 2026)",
+     "u": "https://www.science.org/doi/10.1126/science.aeb1122"
+    },
+    {
+     "t": "EurekAlert! persbericht",
+     "u": "https://www.eurekalert.org/news-releases/1151922"
+    },
+    {
+     "t": "Science News",
+     "u": "https://www.science.org/content/article/killing-more-sea-lions-won-t-help-endangered-salmon-recover-model-suggests"
+    }
+   ],
+   "date": "2026-11-22T05:48:08Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Vroege eenzaamheid maakte vrouwtjesmuizen later gevoeliger voor pijn",
+   "body": "In Science verscheen op 19 november een muizenstudie: jonge vrouwtjes die na het spenen alleen werden gehouden, kregen als volwassene na een zenuwletsel meer pijn en angstgedrag. Bij mannetjes gebeurde dat niet. De oorzaak lag in een verbinding tussen thalamus en amygdala, die pas na de tweede klap 'openging'. Die blokkeren voorkwam het effect.",
+   "take": "Vroege stress kan sluimeren tot een latere tegenslag; let bij chronische pijn dus ook op de voorgeschiedenis, niet alleen op het letsel.",
+   "deep": "## Hoe het werkt\n\nPijn is meer dan een signaal uit je zenuwen: je hersenen bepalen mee hoe hard het binnenkomt. Een belangrijke schakel is de verbinding van de paraventriculaire thalamus naar de centrale amygdala, een gebied dat emoties zoals angst kleurt.\n\nVolgens de onderzoekers laat stress vroeg in het leven in die verbinding een verborgen verandering achter: de synapsen staan als het ware op een hogere versterking, maar dat merk je niet. Pas wanneer er later een tweede klap komt, zoals een zenuwletsel, wordt die verhoogde gevoeligheid zichtbaar. Beide gebeurtenissen samen duwen het circuit veel sterker aan dan elk apart. Het resultaat: meer pijngevoeligheid en meer angstig vermijdingsgedrag.\n\n## Een voorbeeld\n\nVergelijk het met een rookmelder die iemand ooit gevoeliger heeft afgesteld. Zolang er niets gebeurt, hangt hij er onopvallend bij. Maar bij het eerste beetje aanbrandende toast gaat hij luid af, waar een normale melder zou zwijgen. De vroege stress is die afstelling, het latere letsel is de toast.\n\n## Wat onderzoek zegt\n\nAnna Maria Borruto en collega's hielden jonge muizen na het spenen in sociale isolatie en brachten ze op volwassen leeftijd een zenuwletsel toe. Bij vrouwtjes verergerde de vroege isolatie de pijngevoeligheid en het angstgedrag na het letsel; bij mannetjes niet. Isolatie en letsel samen verhoogden de activiteit van het thalamus-amygdalacircuit specifiek bij vrouwtjes. Toen de onderzoekers die activatie blokkeerden, bleef de extra pijn en angst uit. Het artikel verscheen in Science (jaargang 394, pagina 864 tot 869). Een eerdere versie stond in 2024 als preprint online.\n\n## Nuance of misverstand\n\nDit is muizenonderzoek. Het is bekend dat ingrijpende ervaringen in de kindertijd samengaan met meer chronische pijn en angst, en vrouwen lijden vaker aan chronische pijn, maar dat dit specifieke circuit bij mensen dezelfde rol speelt, is nog niet aangetoond. De auteurs noemen het zelf een toetsbare hypothese. Het betekent ook niet dat pijn 'tussen de oren zit': het gaat om meetbare veranderingen in hersencircuits.\n\n## Wat je ermee doet\n\nNeem chronische pijn ernstig, ook als het letsel klein lijkt. Wie zelf of in zijn omgeving met aanhoudende pijn kampt, kan bij de huisarts of pijnkliniek ook stress en voorgeschiedenis ter sprake brengen. Behandelingen die zowel pijn als angst aanpakken, zoals kinesitherapie gecombineerd met psychologische begeleiding, sluiten aan bij het idee dat beide uit hetzelfde circuit kunnen komen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Twee klappen openen het pijncircuit</text><rect x=\"20\" y=\"45\" width=\"120\" height=\"40\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"80\" y=\"70\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">jong: isolatie</text><rect x=\"20\" y=\"135\" width=\"120\" height=\"40\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"80\" y=\"160\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">later: zenuwletsel</text><rect x=\"220\" y=\"90\" width=\"120\" height=\"40\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"280\" y=\"108\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">thalamus naar</text><text x=\"280\" y=\"122\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">amygdala</text><path d=\"M142,65 L216,100\" stroke=\"#fff\" stroke-width=\"2\" fill=\"none\"/><path d=\"M216,100 L208.0,100.1 L211.0,93.8 Z\" fill=\"#fff\"/><path d=\"M142,155 L216,120\" stroke=\"#fff\" stroke-width=\"2\" fill=\"none\"/><path d=\"M216,120 L211.0,126.2 L208.0,119.9 Z\" fill=\"#fff\"/><path d=\"M280,132 L280,185\" stroke=\"#ff6b9d\" stroke-width=\"2\" fill=\"none\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" from=\"24\" to=\"0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><text x=\"280\" y=\"202\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">meer pijn en angst</text><text x=\"80\" y=\"205\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">alleen bij vrouwtjes</text></svg>",
+   "quiz": {
+    "q": "Wat was nodig om bij de vrouwtjesmuizen de extra pijn en angst te zien?",
+    "o": [
+     "Alleen sociale isolatie op jonge leeftijd",
+     "Alleen een zenuwletsel op volwassen leeftijd",
+     "Vroege isolatie én later een zenuwletsel"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Science (Borruto et al., 2026)",
+     "u": "https://www.science.org/doi/10.1126/science.adx5757"
+    },
+    {
+     "t": "EurekAlert! persbericht",
+     "u": "https://www.eurekalert.org/news-releases/1151924"
+    }
+   ],
+   "date": "2026-11-22T05:48:08Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Stoelgangtest werkt ook onder vijftig, maar anders",
+   "body": "Een overzichtsstudie van de Universiteit van Nottingham, deze week verschenen in Gut, bundelde 12 studies met meer dan 69.000 mensen onder 50 met darmklachten. De FIT-stoelgangtest spoort darmkanker ook bij hen goed op, maar slechts 0,35 procent bleek kanker te hebben. Bij dezelfde drempel volgen dus veel meer onderzoeken per gevonden kanker.",
+   "take": "Ben je onder vijftig en heb je aanhoudende darmklachten of bloed in je stoelgang? Ga naar je huisarts, ook als je 'te jong' lijkt.",
+   "deep": "## Hoe het werkt\n\nDe FIT (fecale immunochemische test) zoekt met antistoffen naar menselijk hemoglobine, het eiwit in rode bloedcellen, in een klein beetje stoelgang. Darmtumoren en sommige poliepen bloeden af en toe een heel klein beetje, onzichtbaar voor het blote oog.\n\nHet labo meet hoeveel hemoglobine er per gram stoelgang zit. Boven een afgesproken drempel heet de test positief en volgt meestal een coloscopie. Hier zit het knelpunt: hoeveel echte kankers je met die positieve tests vindt, hangt af van hoe vaak de ziekte voorkomt in de groep. Is kanker zeldzaam, zoals bij jongere mensen, dan zijn er veel meer positieve tests door andere oorzaken van bloed in verhouding tot echte kankers.\n\n## Een voorbeeld\n\nIn Vlaanderen krijgen mensen van 50 tot en met 74 jaar om de twee jaar een stoelgangtest via het bevolkingsonderzoek. Volgens de huisartsenorganisatie Domus Medica heeft ongeveer 5 op de 100 deelnemers te veel bloed in de stoelgang (vanaf 75 ng/ml) en volgt een coloscopie. Wie jonger is, valt buiten dat programma en komt alleen met klachten bij de dokter. De nieuwe studie gaat precies over die groep met klachten, waar in het Verenigd Koninkrijk de FIT gebruikt wordt om te beslissen wie snel verder onderzocht wordt.\n\n## Wat onderzoek zegt\n\nHet team van professor David Humes vond 12 studies met samen meer dan 69.000 mensen onder 50 met klachten die een FIT kregen. Ongeveer 1 op 300 (0,35 procent) bleek darmkanker te hebben. Bij mensen boven 50 in dezelfde studies lag dat risico drie tot zeven keer hoger. Bij de gangbare drempel van 10 microgram per gram moesten jongeren twee tot vijf keer zo vaak verder onderzocht worden om één kanker te vinden. Het artikel verscheen in Gut; het persbericht dateert van 18 november.\n\n## Nuance of misverstand\n\nDe boodschap is niet dat de test bij jongeren slecht werkt. De auteurs noemen FIT een goede test, maar vinden dat één drempel voor alle leeftijden misschien niet ideaal is. Ze pleiten voor onderzoek naar een aangepaste drempel, of naar het combineren van de FIT met andere risicofactoren. Ook willen ze beter begrijpen welke andere aandoeningen een positieve test geven bij jongeren.\n\n## Wat je ermee doet\n\nLaat een negatieve uitslag je niet geruststellen als de klachten blijven, en een positieve uitslag je niet meteen in paniek brengen: vaak is er een andere oorzaak. Ben je 50 of ouder, doe dan mee met het bevolkingsonderzoek wanneer de uitnodiging in de bus valt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Zelfde drempel, andere opbrengst</text><rect x=\"40\" y=\"40\" width=\"280\" height=\"34\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"62\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">FIT meet bloed: drempel 10 µg/g</text><text x=\"95\" y=\"100\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">onder 50</text><text x=\"265\" y=\"100\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">boven 50</text><circle cx=\"40\" cy=\"118\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"62\" cy=\"118\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"84\" cy=\"118\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"106\" cy=\"118\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"128\" cy=\"118\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"150\" cy=\"118\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"40\" cy=\"138\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"62\" cy=\"138\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"84\" cy=\"138\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"106\" cy=\"138\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"128\" cy=\"138\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"150\" cy=\"138\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"40\" cy=\"158\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"62\" cy=\"158\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"84\" cy=\"158\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"106\" cy=\"158\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"128\" cy=\"158\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"150\" cy=\"158\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"150\" cy=\"158\" r=\"6\" fill=\"#ff6b9d\"><animate attributeName=\"r\" values=\"4;7;4\" dur=\"2s\" repeatCount=\"indefinite\"/></circle><circle cx=\"210\" cy=\"118\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"232\" cy=\"118\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"254\" cy=\"118\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"276\" cy=\"118\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"298\" cy=\"118\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"320\" cy=\"118\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"210\" cy=\"138\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"232\" cy=\"138\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"254\" cy=\"138\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"276\" cy=\"138\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"298\" cy=\"138\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"320\" cy=\"138\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"210\" cy=\"158\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"232\" cy=\"158\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"254\" cy=\"158\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"276\" cy=\"158\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"298\" cy=\"158\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"320\" cy=\"158\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"232\" cy=\"118\" r=\"6\" fill=\"#ff6b9d\"><animate attributeName=\"r\" values=\"4;7;4\" dur=\"2s\" repeatCount=\"indefinite\"/></circle><circle cx=\"298\" cy=\"138\" r=\"6\" fill=\"#ff6b9d\"><animate attributeName=\"r\" values=\"4;7;4\" dur=\"2s\" repeatCount=\"indefinite\"/></circle><circle cx=\"254\" cy=\"158\" r=\"6\" fill=\"#ff6b9d\"><animate attributeName=\"r\" values=\"4;7;4\" dur=\"2s\" repeatCount=\"indefinite\"/></circle><text x=\"95\" y=\"195\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">meer onderzoeken per kanker</text><text x=\"265\" y=\"195\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">vaker raak</text></svg>",
+   "quiz": {
+    "q": "Waarom leidt dezelfde FIT-drempel bij jongeren tot meer onderzoeken per gevonden kanker?",
+    "o": [
+     "Darmkanker komt bij jongeren veel minder vaak voor",
+     "De test herkent bij jongeren geen bloed",
+     "Jongeren voeren de test vaker verkeerd uit"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "University of Nottingham",
+     "u": "https://www.nottingham.ac.uk/news/testing-for-bowel-cancer-in-the-under-50s"
+    },
+    {
+     "t": "News-Medical",
+     "u": "https://www.news-medical.net/news/20261119/Common-bowel-cancer-test-needs-age-adjustments-for-younger-people.aspx"
+    },
+    {
+     "t": "Domus Medica infosheet",
+     "u": "https://domusmedica.be/sites/default/files/infosheet_bevolkingsonderzoek_DDK.pdf"
+    }
+   ],
+   "date": "2026-11-22T05:48:08Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Nieuwe RAS-remmer krimpt alvleesklierkanker bij zes op tien",
+   "body": "Op 20 november werden in Barcelona resultaten voorgesteld van daraxonrasib plus chemotherapie bij 61 mensen met uitgezaaide, nog onbehandelde alvleesklierkanker. Bij 60,7 procent kromp de tumor duidelijk, bij 8,2 procent verdween hij volledig op de scans. Gemiddeld (mediaan) bleef de ziekte 12,8 maanden stabiel. Het is wel een kleine vroege studie zonder vergelijkingsgroep.",
+   "take": "Lees bij 'doorbraak'-nieuws altijd na of er een vergelijkingsgroep was; zonder die groep is het een belofte, nog geen bewijs.",
+   "deep": "## Hoe het werkt\n\nRAS-eiwitten werken als een aan-uitschakelaar voor celdeling. Normaal springen ze na een groeisignaal kort aan en dan weer uit. Bij een mutatie blijft de schakelaar aan staan, zodat de cel blijft delen. Bij meer dan 90 procent van de alvleeskliertumoren zit zo'n RAS-mutatie.\n\nOudere geneesmiddelen zoals sotorasib grijpen RAS vast in de uit-stand en werken maar tegen één specifieke mutatie, die bij alvleesklierkanker zeldzaam is. Daraxonrasib pakt het eiwit in de aan-stand aan. Het werkt als een soort moleculaire lijm: het koppelt actief RAS aan een ander eiwit in de cel, cyclofiline A. Dat complex kan de groeisignalen niet meer doorgeven. Omdat het zo werkt, mikt het op veel verschillende RAS-mutaties tegelijk.\n\n## Een voorbeeld\n\nAlvleesklierkanker wordt vaak pas laat ontdekt, wanneer hij al uitgezaaid is. Wie die diagnose krijgt, start meestal met een chemokuur zoals gemcitabine met nab-paclitaxel. In deze studie kregen patiënten precies die kuur, aangevuld met een dagelijkse daraxonrasibpil. De vraag was of die combinatie meer tumoren doet krimpen.\n\n## Wat onderzoek zegt\n\nDe resultaten komen uit de fase 1/2-studie RMC-GI-102 en werden voorgesteld op het 38ste EORTC-NCI-AACR-symposium in Barcelona. Bij 61 patiënten was de bevestigde respons 60,7 procent, met 8,2 procent volledige respons. De mediane progressievrije overleving was 12,8 maanden. Bij 90,2 procent werd de groei van de ziekte minstens tijdelijk gestopt. Bij 35 procent moest de dosis omlaag door bijwerkingen; twee patiënten stopten ermee. In augustus 2026 keurde de Amerikaanse FDA daraxonrasib al goed voor patiënten die eerder behandeld werden. Een grote fase 3-studie, RASolute 303, vergelijkt de combinatie nu met chemotherapie alleen.\n\n## Nuance of misverstand\n\nEen hoog responspercentage in een kleine studie zonder controlegroep zegt nog niet hoeveel langer mensen leven. De onderzoekers waarschuwen zelf dat ze de resultaten voorzichtig moeten interpreteren. Vergelijken met oude cijfers van chemotherapie alleen is verleidelijk, maar onbetrouwbaar: de patiënten kunnen verschillen. Pas de gerandomiseerde fase 3-studie zal dat uitwijzen.\n\n## Wat je ermee doet\n\nKen je iemand met alvleesklierkanker, laat hem of haar dan bij de oncoloog vragen of klinische studies of RAS-gerichte middelen een optie zijn. Volg zulk nieuws met hoop, maar wacht voor harde conclusies op de fase 3-resultaten.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">RAS: een groeischakelaar die vastzit</text><rect x=\"30\" y=\"50\" width=\"120\" height=\"44\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"90\" y=\"77\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">RAS staat AAN</text><path d=\"M152,72 L212,72\" stroke=\"#ff6b9d\" stroke-width=\"2\" fill=\"none\"/><path d=\"M212,72 L204.8,75.5 L204.8,68.5 Z\" fill=\"#ff6b9d\"/><rect x=\"215\" y=\"50\" width=\"120\" height=\"44\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"275\" y=\"77\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">cel deelt</text><circle r=\"5\" fill=\"#ff6b9d\"><animateMotion path=\"M152,72 L210,72\" dur=\"1.2s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;1;0;0\" keyTimes=\"0;0.45;0.5;1\" dur=\"8s\" repeatCount=\"indefinite\"/></circle><g opacity=\"0\"><rect x=\"45\" y=\"125\" width=\"220\" height=\"40\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"155\" y=\"150\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">daraxonrasib plakt RAS vast</text><animate attributeName=\"opacity\" values=\"0;0;1;1\" keyTimes=\"0;0.45;0.5;1\" dur=\"8s\" repeatCount=\"indefinite\"/></g><text x=\"180\" y=\"195\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">signaal geblokkeerd, tumor krimpt</text></svg>",
+   "quiz": {
+    "q": "Wat is bijzonder aan hoe daraxonrasib werkt?",
+    "o": [
+     "Het vernietigt alle snel delende cellen",
+     "Het blokkeert RAS in de aan-stand, over veel mutaties heen",
+     "Het werkt alleen tegen één zeldzame KRAS-mutatie"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "EORTC ENA 2026",
+     "u": "https://event.eortc.org/ena2026/2026/11/20/metastatic-pancreatic-cancer-responds-well-to-initial-treatment/"
+    },
+    {
+     "t": "Targeted Oncology",
+     "u": "https://www.targetedonc.com/view/daraxonrasib-gnp-first-line-metastatic-pancreatic-cancer"
+    },
+    {
+     "t": "AACR",
+     "u": "https://www.aacr.org/patients-caregivers/progress-against-cancer/fda-approves-daraxonrasib-as-first-ras-inhibitor-for-pancreatic-cancer/"
+    }
+   ],
+   "date": "2026-11-22T05:48:08Z"
+  },
+  {
+   "cat": "tech",
+   "title": "OpenAI's nieuwe modellen: waarom antwoorden duurder zijn dan vragen",
+   "body": "OpenAI lanceerde op 17 november GPT-6.2 Astra, voor zwaar professioneel werk, en GPT-6.2 Sol, voor dagelijks gebruik. Ontwikkelaars betalen voor Astra 8 dollar per miljoen tokens die ze insturen, maar 40 dollar per miljoen tokens die het model terugschrijft. Sol kost 2 en 10 dollar. Dat prijsverschil heeft een technische reden.",
+   "take": "Gebruik je een AI-dienst via een API? Vraag om korte antwoorden: uitvoer kost hier vijf keer meer dan invoer.",
+   "deep": "## Hoe het werkt\n\nEen taalmodel verwerkt tekst in tokens, stukjes van woorden. Je vraag, de invoer, kan het model in één keer lezen: alle tokens gaan tegelijk door het netwerk, wat chips heel efficiënt kunnen.\n\nHet antwoord, de uitvoer, ontstaat anders. Het model voorspelt één token, plakt dat achter de tekst en voorspelt dan het volgende. Voor elk nieuw token is een nieuwe rekenstap nodig, en die stappen kunnen niet tegelijk gebeuren, want elk token hangt af van het vorige. Dat kost meer rekentijd en houdt dure chips langer bezig per token. Daarom rekenen aanbieders voor uitvoertokens een veel hogere prijs aan. Bij GPT-6.2 is dat een factor vijf.\n\n## Een voorbeeld\n\nStel dat een Vlaamse webshop 1.000 klantenmails van elk ongeveer 1.000 tokens laat samenvatten in 200 tokens. Dat is 1 miljoen tokens invoer en 200.000 tokens uitvoer. Met Astra kost de invoer 8 dollar en de uitvoer ook 8 dollar, samen 16 dollar. Met Sol is dat 2 plus 2, samen 4 dollar. Vraag je langere samenvattingen van 400 tokens, dan stijgt vooral het uitvoerdeel.\n\n## Wat onderzoek zegt\n\nVolgens OpenAI zijn beide modellen beschikbaar in ChatGPT, in Codex en via de API. Astra kost per token 20 procent minder dan zijn voorganger GPT-6 Astra; de prijs van Sol bleef gelijk. OpenAI meldt dat Astra het eerste model is dat het extern uitrolt en dat in zijn eigen veiligheidskader de drempel 'hoog' haalt voor AI die zichzelf helpt verbeteren. Daarom kwamen er strengere beveiligingen, onder meer rond hulp bij cyberaanvallen. Vroege testers waren minder enthousiast: onderzoeksgroep Epoch AI zag Astra bij realistische werktaken niet bovenaan eindigen.\n\n## Nuance of misverstand\n\nEen duurder model is niet automatisch beter voor jouw taak. Voor eenvoudige klussen zoals samenvatten of vertalen volstaat een goedkoper model vaak. En prijs per token zegt niet alles: een model dat langer 'nadenkt' gebruikt soms extra tokens die je ook betaalt. Ook voor gewone gebruikers met een abonnement speelt dit, alleen zie je het dan niet op de factuur.\n\n## Wat je ermee doet\n\nWerk je met AI-tools op het werk, test dan eerst het goedkopere model en schakel alleen over als het resultaat tekortschiet. Vraag expliciet om beknopte antwoorden en hergebruik vaste instructies slim: invoer is goedkoper dan uitvoer.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Lezen gaat parallel, schrijven stap voor stap</text><text x=\"80\" y=\"50\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">vraag: in één keer</text><rect x=\"20\" y=\"62\" width=\"18\" height=\"18\" rx=\"3\" fill=\"#ffd166\"/><rect x=\"44\" y=\"62\" width=\"18\" height=\"18\" rx=\"3\" fill=\"#ffd166\"/><rect x=\"68\" y=\"62\" width=\"18\" height=\"18\" rx=\"3\" fill=\"#ffd166\"/><rect x=\"92\" y=\"62\" width=\"18\" height=\"18\" rx=\"3\" fill=\"#ffd166\"/><rect x=\"116\" y=\"62\" width=\"18\" height=\"18\" rx=\"3\" fill=\"#ffd166\"/><path d=\"M80,90 L80,120\" stroke=\"#ffd166\" stroke-width=\"2\" fill=\"none\"/><path d=\"M80,120 L76.5,112.8 L83.5,112.8 Z\" fill=\"#ffd166\"/><rect x=\"130\" y=\"105\" width=\"100\" height=\"40\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"130\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">model</text><path d=\"M232,125 L262,125\" stroke=\"#fff\" stroke-width=\"2\" fill=\"none\"/><path d=\"M262,125 L254.8,128.5 L254.8,121.5 Z\" fill=\"#fff\"/><text x=\"285\" y=\"50\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">antwoord: één per keer</text><rect x=\"240\" y=\"160\" width=\"18\" height=\"18\" rx=\"3\" fill=\"#06d6a0\" opacity=\"0.15\"><animate attributeName=\"opacity\" values=\"0.15;1;1;0.15\" keyTimes=\"0;0.1;0.85;1\" dur=\"5s\" begin=\"0s\" repeatCount=\"indefinite\"/></rect><rect x=\"264\" y=\"160\" width=\"18\" height=\"18\" rx=\"3\" fill=\"#06d6a0\" opacity=\"0.15\"><animate attributeName=\"opacity\" values=\"0.15;1;1;0.15\" keyTimes=\"0;0.1;0.85;1\" dur=\"5s\" begin=\"1s\" repeatCount=\"indefinite\"/></rect><rect x=\"288\" y=\"160\" width=\"18\" height=\"18\" rx=\"3\" fill=\"#06d6a0\" opacity=\"0.15\"><animate attributeName=\"opacity\" values=\"0.15;1;1;0.15\" keyTimes=\"0;0.1;0.85;1\" dur=\"5s\" begin=\"2s\" repeatCount=\"indefinite\"/></rect><rect x=\"312\" y=\"160\" width=\"18\" height=\"18\" rx=\"3\" fill=\"#06d6a0\" opacity=\"0.15\"><animate attributeName=\"opacity\" values=\"0.15;1;1;0.15\" keyTimes=\"0;0.1;0.85;1\" dur=\"5s\" begin=\"3s\" repeatCount=\"indefinite\"/></rect><text x=\"90\" y=\"195\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Astra: 8 dollar</text><text x=\"270\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Astra: 40 dollar</text></svg>",
+   "quiz": {
+    "q": "Waarom is een uitvoertoken duurder dan een invoertoken?",
+    "o": [
+     "Uitvoer wordt token per token na elkaar berekend",
+     "Uitvoer wordt altijd door mensen nagelezen",
+     "Invoer wordt niet door het model verwerkt"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "OpenAI Developer Community",
+     "u": "https://community.openai.com/t/gpt-6-2-astra-and-sol-are-now-available/1417531"
+    },
+    {
+     "t": "The Next Web",
+     "u": "https://thenextweb.com/news/gpt-6-2-astra-sol-openai-launch-price-epoch-testers"
+    },
+    {
+     "t": "TestingCatalog",
+     "u": "https://www.testingcatalog.com/openai-launches-gpt-6-2-astra-and-sol-on-chatgpt-and-apis/"
+    }
+   ],
+   "date": "2026-11-22T05:48:08Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Robotinsect van 1,29 gram vliegt met eigen brein",
+   "body": "MIT-onderzoekers stelden op 18 november in Science Robotics een fladderrobot van 1,29 gram voor die zijn sensoren en rekenchip zelf meedraagt. Eerdere versies hadden camera's in het labo nodig om hun positie te kennen. Nu vloog hij 30 seconden buiten zo'n camerasysteem, ontweek obstakels en landde op een zonnebloem.",
+   "take": "Kijk bij 'autonome' robots altijd wat er nog extern gebeurt: stroom, plaatsbepaling of een mens met een joystick.",
+   "deep": "## Hoe het werkt\n\nEen vliegend insect, of robot, valt zonder bijsturen binnen een fractie van een seconde om. Stabiel blijven vraagt een regellus: meten, rekenen, bijsturen, en dat razendsnel herhalen.\n\nBij eerdere robotinsecten zat het meten buiten de robot: camera's rond de proefopstelling volgden markeringen op het toestel en een externe computer stuurde correcties door. De nieuwe robot draagt een pakketje van 244 milligram met een microcontroller en drie sensoren: één voor zijn kanteling, één voor zijn zijwaartse snelheid en één voor zijn hoogte. De chip vergelijkt die metingen met waar hij moet zijn en past het fladderen van de vleugels aan. Om dat gewicht te kunnen tillen, verhoogde het team de verhouding tussen lift en gewicht tot 1,9.\n\n## Een voorbeeld\n\nJe kent het principe van een drone die stil in de lucht hangt in een tuin in Vlaanderen: een gyroscoop meet de kanteling, een sensor meet de afstand tot de grond, en de motoren corrigeren voortdurend. Hetzelfde gebeurt hier, maar in een toestel dat minder weegt dan een paperclip van een paar gram en dat met vleugels slaat in plaats van met propellers.\n\n## Wat onderzoek zegt\n\nHet werk van het team van Kevin Chen verscheen in Science Robotics, met een persbericht van MIT op 18 november. In een test van 30 seconden buiten het camerasysteem vermeed de robot obstakels en landde hij op een zonnebloem, een soort nagebootste bestuiving. Chen noemt het de eerste vliegende microrobot die voor waarnemen en rekenen volledig op zichzelf staat.\n\n## Nuance of misverstand\n\nVolledig zelfstandig is hij nog niet. Een operator gaf met een joystick doelposities door; de robot hield zichzelf daarbij stabiel. Hij hangt nog aan een draad voor stroom, heeft geen camera en kent zijn absolute positie niet, waardoor hij geleidelijk kan afdrijven. De volgende stappen zijn een camera aan boord en batterijen voor vrije vluchten buiten.\n\n## Wat je ermee doet\n\nLeer het verschil tussen stabiliseren en navigeren: deze robot kan zichzelf in de lucht houden, maar weet nog niet zelf waar hij heen moet. Dat onderscheid helpt je om claims over drones, zelfrijdende auto's en robots kritisch te lezen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">De regellus zit nu aan boord</text><rect x=\"130\" y=\"40\" width=\"100\" height=\"34\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"180\" y=\"62\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">sensoren</text><rect x=\"250\" y=\"100\" width=\"100\" height=\"34\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"300\" y=\"122\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">chip rekent</text><rect x=\"130\" y=\"160\" width=\"100\" height=\"34\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"180\" y=\"182\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">vleugels</text><rect x=\"10\" y=\"100\" width=\"100\" height=\"34\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"60\" y=\"122\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">positie</text><circle r=\"5\" fill=\"#ff6b9d\"><animateMotion path=\"M230,57 L300,98 L230,177 L60,135 L60,98 L130,57 Z\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"212\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1,29 gram, nog wel aan een stroomdraad</text></svg>",
+   "quiz": {
+    "q": "Wat is nieuw aan deze MIT-fladderrobot?",
+    "o": [
+     "Hij vliegt volledig op een batterij buiten",
+     "Hij draagt zijn eigen sensoren en rekenchip mee",
+     "Hij navigeert zelf met een ingebouwde camera"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "MIT News",
+     "u": "https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118"
+    },
+    {
+     "t": "Science Robotics",
+     "u": "https://www.science.org/doi/10.1126/scirobotics.aeg6618"
+    },
+    {
+     "t": "Tech Xplore",
+     "u": "https://techxplore.com/news/2026-11-featherweight-flying-robot-sensors.html"
+    }
+   ],
+   "date": "2026-11-22T05:48:08Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Japanse economie kromp: wat 'geannualiseerd' eigenlijk betekent",
+   "body": "Japan maakte op 16 november bekend dat zijn economie in juli-september op jaarbasis met 0,1 procent kromp, de eerste daling in vier kwartalen. Gezinnen gaven 0,3 procent minder uit, invoer steeg en bedrijfsinvesteringen stegen wel. Dat 'op jaarbasis' is belangrijk: Japan en de VS geannualiseren hun cijfers, Europa doorgaans niet.",
+   "take": "Vergelijk groeicijfers pas nadat je checkt of het om een kwartaalcijfer of een geannualiseerd cijfer gaat.",
+   "deep": "## Hoe het werkt\n\nHet bruto binnenlands product (bbp) meet hoeveel een land in een periode produceert. Statistici vergelijken elk kwartaal met het vorige. Die kwartaalgroei kun je op twee manieren tonen.\n\nEuropa toont meestal gewoon de verandering tegenover het vorige kwartaal. Japan en de Verenigde Staten rekenen die om naar een jaartempo: wat zou de groei over een heel jaar zijn als het vier kwartalen aan hetzelfde tempo doorging? Je vermenigvuldigt de kwartaalverandering daarvoor ongeveer met vier, preciezer: je stapelt ze vier keer op elkaar. Een kwartaaldaling van 0,02 procent wordt zo een daling van ongeveer 0,1 procent op jaarbasis. Daarnaast is er reëel en nominaal: het reële bbp is gecorrigeerd voor prijsstijgingen, het nominale niet.\n\n## Een voorbeeld\n\nDe eurozone groeide in het derde kwartaal met 0,4 procent tegenover het vorige kwartaal. Geannualiseerd zou dat ongeveer 1,6 procent zijn. Lees je dus in de krant 'eurozone 0,4 procent, Japan min 0,1 procent', dan vergelijk je appelen met peren: het ene is een kwartaalcijfer, het andere een jaartempo. Pas na omrekening zie je hoe groot het verschil echt is.\n\n## Wat onderzoek zegt\n\nVolgens de voorlopige cijfers van het Japanse Cabinet Office, gepubliceerd op maandag 16 november, kromp het reële bbp geannualiseerd met 0,1 procent, terwijl economen op lichte groei rekenden. De gezinsconsumptie, goed voor meer dan de helft van de economie, daalde met 0,3 procent. De invoer steeg met 2,5 procent terwijl de uitvoer met 0,2 procent zakte, wat de groei drukte. Bedrijfsinvesteringen stegen met 1,6 procent. Het nominale bbp groeide wel, met 0,4 procent in het kwartaal: de prijzen stegen dus sneller dan de productie.\n\n## Nuance of misverstand\n\nEen daling van 0,1 procent op jaarbasis is nauwelijks meer dan nul, en voorlopige cijfers worden vaak herzien; een tweede raming volgt in december. Eén krimpkwartaal is ook nog geen recessie. Toch telt het signaal: hoge prijzen remmen de uitgaven van gezinnen, en dat weegt mee in de beslissingen van de Japanse centrale bank over haar rente.\n\n## Wat je ermee doet\n\nZie je een groeicijfer uit de VS of Japan, deel het dan ongeveer door vier om het met Europese kwartaalcijfers te vergelijken. En kijk altijd of het reëel of nominaal is: nominale groei kan er mooi uitzien terwijl je koopkracht daalt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Eén kwartaal, maal vier gerekend</text><rect x=\"20\" y=\"70\" width=\"70\" height=\"40\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"105\" y=\"70\" width=\"70\" height=\"40\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"190\" y=\"70\" width=\"70\" height=\"40\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"275\" y=\"70\" width=\"70\" height=\"40\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"55\" y=\"95\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">K1</text><text x=\"140\" y=\"95\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">K2</text><text x=\"225\" y=\"95\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">K3</text><text x=\"310\" y=\"95\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">K4</text><rect x=\"20\" y=\"70\" width=\"70\" height=\"40\" rx=\"8\" fill=\"#ffd166\" opacity=\"0.5\"><animate attributeName=\"width\" values=\"70;325;325;70\" keyTimes=\"0;0.5;0.85;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"55\" y=\"58\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">-0,02%</text><text x=\"296\" y=\"58\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">≈ -0,1% per jaar</text><text x=\"180\" y=\"145\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">reëel bbp: na aftrek van prijsstijging</text><text x=\"180\" y=\"170\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">nominaal: +0,4% in het kwartaal</text><text x=\"180\" y=\"192\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">gezinnen gaven 0,3% minder uit</text></svg>",
+   "quiz": {
+    "q": "Een land groeit 0,5 procent tegenover het vorige kwartaal. Wat is het geannualiseerde cijfer ongeveer?",
+    "o": [
+     "0,5 procent",
+     "0,125 procent",
+     "2 procent"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Xinhua",
+     "u": "https://english.news.cn/20261116/0c28de96af58410caa740fd0f0001fe6/c.html"
+    },
+    {
+     "t": "Nation Thailand",
+     "u": "https://www.nationthailand.com/news/40073544"
+    },
+    {
+     "t": "Trading Economics",
+     "u": "https://tradingeconomics.com/japan/gdp-growth-annualized/news/601288"
+    }
+   ],
+   "date": "2026-11-22T05:48:08Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Mailchimp verkocht voor nog geen derde van zijn prijs",
+   "body": "Op 19 november raakte bekend dat het Italiaanse Bending Spoons de e-mailmarketingdienst Mailchimp overneemt van Intuit, voor een ondernemingswaarde van 3,68 miljard dollar. Intuit betaalde in 2021 nog ongeveer 12 miljard. In het laatste kwartaal daalde de omzet van Mailchimp met 1 procent tot 313 miljoen dollar. Groei bepaalt de prijs.",
+   "take": "Beoordeel een bedrijf of aandeel niet op omzet alleen: beleggers betalen vooral voor verwachte groei, en die kan snel verdwijnen.",
+   "deep": "## Hoe het werkt\n\nDe prijs van een bedrijf is geen optelsom van zijn bureaus en computers, maar een schatting van alle toekomstige winsten, teruggerekend naar vandaag. Bij een snelgroeiend softwarebedrijf rekenen kopers met jaren van stevige groei, en betalen ze een veelvoud van de huidige omzet.\n\nValt die groei weg, dan zakt de waarde fors, ook al blijft de omzet ongeveer gelijk. Dat is wat hier gebeurde. De ondernemingswaarde is de prijs voor het hele bedrijf, inclusief schulden en min de kaspositie, zodat je bedrijven met verschillende financiering kunt vergelijken. Voor de verkoper betekent een lagere prijs dan de aankoopprijs een afwaardering: een boekhoudkundig verlies.\n\n## Een voorbeeld\n\nVergelijk het met een woning gekocht op het hoogtepunt van de markt, in de hoop dat de wijk snel populair wordt. Komt die opwaardering er niet, dan verkoop je later voor veel minder, ook al staat het huis er nog net zo bij. Bending Spoons is in Europa bekend als koper van gevestigde apps zoals Evernote, het Nederlandse WeTransfer en Vimeo, die het daarna efficiënter probeert te runnen.\n\n## Wat onderzoek zegt\n\nVolgens Bloomberg en CNBC is Mailchimp de grootste overname tot nu toe voor Bending Spoons. De koper noemt het een betaling in contanten, maar Intuit herinvesteert 368 miljoen dollar van de opbrengst in nieuwe aandelen van Bending Spoons. TechCrunch schat daardoor de verhouding op ongeveer 90 procent cash en 10 procent aandelen. De deal moet begin 2027 rond zijn, na goedkeuring van toezichthouders. Intuit wil zich naar eigen zeggen meer richten op AI-tools voor kleine bedrijven en wil met het geld eigen aandelen inkopen.\n\n## Nuance of misverstand\n\nEen verkoop onder de aankoopprijs betekent niet dat Mailchimp een slecht bedrijf is: het draait nog honderden miljoenen omzet per kwartaal. Het betekent dat de verwachtingen van 2021, toen softwarebedrijven torenhoog gewaardeerd werden, niet uitkwamen. Voor Intuit kan verkopen ook strategisch zinvol zijn, als het geld elders meer oplevert.\n\n## Wat je ermee doet\n\nGebruik je Mailchimp voor je vereniging of zaak, volg dan de komende maanden prijzen en voorwaarden op: een nieuwe eigenaar kan die aanpassen. Als belegger: kijk naar het groeitempo en de prijs die je betaalt, niet alleen naar een bekende merknaam.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Van 12 naar 3,7 miljard dollar</text><line x1=\"40\" y1=\"180\" x2=\"320\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"80\" y=\"60\" width=\"70\" height=\"120\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"115\" y=\"52\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">2021: ~12</text><text x=\"115\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Intuit koopt</text><rect x=\"210\" y=\"143\" width=\"70\" height=\"37\" rx=\"4\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"120;37;37\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"60;143;143\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"245\" y=\"135\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">2026: 3,68</text><text x=\"245\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Bending Spoons koopt</text></svg>",
+   "quiz": {
+    "q": "Waarom is Mailchimp nu veel minder waard dan in 2021?",
+    "o": [
+     "Het bedrijf maakt geen omzet meer",
+     "De verwachte groei viel weg, terwijl de prijs daarop gebouwd was",
+     "Bending Spoons kreeg korting omdat het in Italië zit"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/19/intuit-mailchimp-sale-bending-spoons.html"
+    },
+    {
+     "t": "Bloomberg",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-19/bending-spoons-to-buy-mailchimp-from-intuit-for-3-7-billion"
+    },
+    {
+     "t": "TechCrunch",
+     "u": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/"
+    }
+   ],
+   "date": "2026-11-22T05:48:08Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Steeds meer shoppers haken af bij AI-modellen in reclame",
+   "body": "Uit een enquête van reviewplatform Bazaarvoice, gepubliceerd op 19 november, blijkt dat 30 procent van de Noord-Amerikaanse shoppers afhaakt bij een merk dat AI-gegenereerde modellen of foto's in zijn feestreclame gebruikt. In maart was dat nog 18 procent. Tegelijk wil 72 procent AI gebruiken bij het kerstshoppen, maar bijna iedereen checkt daarna reviews.",
+   "take": "Gebruik je AI-beelden voor je zaak of vereniging? Wees er open over en toon daarnaast echte klanten en echte foto's.",
+   "deep": "## Hoe het werkt\n\nReclame werkt pas als je ze gelooft. Een foto van een echt model dat een trui draagt, is een klein bewijs: dit product bestaat en ziet er zo uit aan een mens. Een AI-gegenereerd beeld haalt dat bewijs weg. Wie het opmerkt, kan zich afvragen wat er nog meer niet echt is.\n\nDaarom zoeken mensen houvast in signalen die moeilijker te faken lijken, zoals reviews van andere kopers. Psychologen noemen dat sociale bewijskracht: als veel anderen iets goed vinden, voelt het veiliger. Hoe meer synthetische beelden er circuleren, hoe meer waarde zulke echte signalen krijgen.\n\n## Een voorbeeld\n\nStel dat je in december een jas zoekt. Je vraagt een chatbot om tips, krijgt drie merken voorgesteld en klikt door. In de advertentie van één merk zie je een perfect, wat onwerkelijk model. Je scrolt meteen naar de sterren en de reviews met foto's van klanten. Precies dat gedrag beschrijft het onderzoek: AI als startpunt, mensen als controle.\n\n## Wat onderzoek zegt\n\nBazaarvoice ondervroeg in maart meer dan 1.200 Noord-Amerikaanse volwassenen en in november meer dan 1.900 volwassenen in Noord-Amerika, Europa, het Midden-Oosten, Afrika en Azië. Bij Noord-Amerikanen steeg het aandeel dat afhaakt bij AI-modellen of -foto's in feestreclame van 18 naar 30 procent. Van alle shoppers zegt 34 procent een product niet te kopen als een socialemediapost erover volledig door AI gemaakt bleek. 72 procent wil AI inzetten bij het kerstshoppen en 15 procent wil AI zelfs cadeaus laten kopen. Maar slechts 1 procent koopt een door AI aanbevolen cadeau zonder eerst reviews te lezen; 54 procent gaat meteen naar de klantbeoordelingen.\n\n## Nuance of misverstand\n\nBazaarvoice verkoopt zelf reviewdiensten en heeft er dus belang bij dat reviews belangrijk lijken. Het gaat ook om wat mensen zeggen, niet om wat ze aantoonbaar doen, en de stijging van 18 naar 30 procent geldt alleen voor Noord-Amerika. Dat veel mensen zeggen af te haken, betekent niet dat AI-reclame niet werkt: ze kan goedkoper en sneller zijn.\n\n## Wat je ermee doet\n\nGebruik AI gerust om ideeën uit te werken of teksten te schrijven, maar laat je echte product en echte klanten zien. Vraag tevreden klanten om een review met foto, en reageer op kritische reviews: dat is precies het signaal dat twijfelaars zoeken.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Afhakers bij AI-modellen in reclame</text><text x=\"60\" y=\"48\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">Noord-Amerika</text><text x=\"40\" y=\"90\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">maart</text><rect x=\"100\" y=\"76\" width=\"200\" height=\"20\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"100\" y=\"76\" width=\"36\" height=\"20\" rx=\"4\" fill=\"#06d6a0\"/><text x=\"310\" y=\"91\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">18%</text><text x=\"40\" y=\"135\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">nov.</text><rect x=\"100\" y=\"121\" width=\"200\" height=\"20\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"100\" y=\"121\" width=\"60\" height=\"20\" rx=\"4\" fill=\"#ff6b9d\"><animate attributeName=\"width\" values=\"36;60;60\" keyTimes=\"0;0.4;1\" dur=\"4s\" repeatCount=\"indefinite\"/></rect><text x=\"310\" y=\"136\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">30%</text><text x=\"180\" y=\"180\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">72% shopt met AI, maar checkt reviews</text></svg>",
+   "quiz": {
+    "q": "Wat doet volgens de enquête de grote meerderheid na een AI-aanbeveling voor een cadeau?",
+    "o": [
+     "Meteen kopen zonder verder te kijken",
+     "Een tweede chatbot raadplegen",
+     "Eerst klantreviews lezen"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Bazaarvoice via GlobeNewswire",
+     "u": "https://www.globenewswire.com/news-release/2026/11/19/3406384/19098/en/72-of-holiday-shoppers-will-use-ai-but-almost-all-still-pair-it-with-customer-reviews-before-buying.html"
+    },
+    {
+     "t": "Agile Brand Guide",
+     "u": "https://agilebrandguide.com/yesterdays-marketing-technology-ai-news-november-20-2026/"
+    }
+   ],
+   "date": "2026-11-22T05:48:08Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Vijfjarigen verwachten al meer opofferingen van meisjes",
+   "body": "Een NYU-studie in Developmental Science, deze week voorgesteld, legde 192 kinderen van 5 tot 8 jaar en 192 volwassenen klassituaties voor. Gaat het om hulp die de groep dient maar de helper iets kost, zoals blijven opruimen, dan verwachtten zowel kinderen als volwassenen dat eerder van een meisje dan van een jongen.",
+   "take": "Verdeel klusjes thuis, in de klas of op het werk bewust en beurtelings, in plaats van te wachten wie zich vrijwillig aanbiedt.",
+   "deep": "## Hoe het werkt\n\nStereotypen zijn verwachtingen over wat een groep 'normaal' doet. Ze ontstaan vroeg, uit wat kinderen om zich heen zien en horen, en ze sturen daarna mee wie we iets vragen en wie we iets laten doen.\n\nDe onderzoekers maakten een onderscheid tussen drie soorten hulp: iemand persoonlijk helpen, de groep helpen zonder dat het iets kost, en de groep helpen terwijl het je iets kost, zoals speeltijd of plezier. Dat laatste noemen ze kostbare dienstbaarheid. Juist daar bleek de verwachting scheef te liggen.\n\n## Een voorbeeld\n\nDenk aan een klas waar de juf vraagt wie tijdens de speeltijd wil binnenblijven om de knutselspullen op te ruimen. Of aan een team op het werk waar iemand de notulen moet nemen of het afscheidsfeestje moet regelen. Het is onzichtbaar werk dat iedereen ten goede komt maar de vrijwilliger tijd kost. Als iedereen stilletjes verwacht dat 'zij' het wel doet, belandt het steeds bij dezelfde mensen.\n\n## Wat onderzoek zegt\n\nHoofdauteur Sophie Arnold, destijds doctoraatsstudent aan New York University en nu postdoc in Princeton, legde 192 kinderen en 192 volwassenen scenario's in een klas voor. Kinderen van 5 tot 8 en volwassenen verwachtten allebei dat meisjes vaker kostbare dienstbaarheid zouden opnemen dan jongens. Er was wel een verschil naar wie oordeelde: meisjes en vrouwen verwachtten in alle soorten scenario's meer hulp van meisjes. Jongens en mannen deden dat alleen bij hulp die iets kost; bij persoonlijke hulp en hulp zonder kost waren ze neutraal. De auteurs zien dit als een mogelijke vroege wortel van de latere verwachting dat vrouwen thuis en op het werk meer van zulke taken opnemen.\n\n## Nuance of misverstand\n\nDe studie meet verwachtingen, geen echt gedrag. Ze toont dus niet aan dat meisjes werkelijk meer opofferen, en ook niet dat deze vroege verwachtingen later verschillen veroorzaken. Het ging om Amerikaanse deelnemers; in een andere cultuur kan het patroon anders zijn.\n\n## Wat je ermee doet\n\nLet op wie in je gezin, klas of team spontaan de ondankbare klusjes krijgt of opneemt. Maak een beurtrol, benoem onzichtbaar werk en bedank er ook expliciet voor. Vraag een zoon net zo vanzelfsprekend als een dochter om mee af te ruimen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Wie blijft na de les om op te ruimen?</text><rect x=\"20\" y=\"45\" width=\"150\" height=\"36\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"95\" y=\"68\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">gewone hulp</text><rect x=\"190\" y=\"45\" width=\"150\" height=\"36\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"265\" y=\"68\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">hulp die iets kost</text><text x=\"95\" y=\"105\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">jongens: neutraal</text><text x=\"265\" y=\"105\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">jongens: meisje</text><text x=\"95\" y=\"125\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">meisjes: meisje</text><text x=\"265\" y=\"125\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">meisjes: meisje</text><circle cx=\"230\" cy=\"165\" r=\"12\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"300\" cy=\"165\" r=\"12\" fill=\"#ff6b9d\"/><text x=\"230\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">jongen</text><text x=\"300\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">meisje</text><circle r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M265,82 L298,148\" dur=\"2s\" repeatCount=\"indefinite\"/></circle><text x=\"95\" y=\"170\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">192 kinderen van 5-8</text><text x=\"95\" y=\"188\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">en 192 volwassenen</text></svg>",
+   "quiz": {
+    "q": "Bij welk soort hulp verwachtten ook jongens en mannen meer van meisjes?",
+    "o": [
+     "Hulp die de groep dient maar de helper iets kost",
+     "Een vriend persoonlijk helpen",
+     "Elke vorm van hulp, zonder uitzondering"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "New York University",
+     "u": "https://www.nyu.edu/about/news-publications/news/2026/november/whom-do-we-expect-to-put-others-ahead-of-themselves--boys-or-gir.html"
+    },
+    {
+     "t": "Developmental Science (Arnold et al.)",
+     "u": "https://onlinelibrary.wiley.com/doi/10.1111/desc.70298"
+    },
+    {
+     "t": "Forbes",
+     "u": "https://www.forbes.com/sites/kimelsesser/2026/11/18/snls-sister-sketch-reflects-a-gender-bias-seen-in-kids-as-young-as-five/"
+    }
+   ],
+   "date": "2026-11-22T05:48:08Z"
   }
  ],
  "dives": [
