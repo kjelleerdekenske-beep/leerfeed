@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T05:43:55Z",
+ "updated": "2026-11-22T05:44:47Z",
  "cards": [
   {
    "cat": "wetenschap",
@@ -324,6 +324,326 @@
     }
    ],
    "date": "2026-11-22T05:43:55Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Blauw licht bleef decennialang uit de led",
+   "body": "Rode en groene leds bestonden al lang, maar blauw lukte decennia niet. Pas rond 1992 kregen Isamu Akasaki en Hiroshi Amano, en los van hen Shuji Nakamura, felblauwe leds uit galliumnitride werkend. Zonder blauw geen witte ledlamp. Daarvoor kregen ze in 2014 de Nobelprijs voor Natuurkunde.",
+   "take": "Twijfel je nog over oude gloeilampen in huis? Een ledlamp geeft per watt vele malen meer licht. Vervang eerst de lampen die het langst branden.",
+   "deep": "## Hoe het werkt\n\nEen led is een sandwich van twee halfgeleiderlagen. De n-laag heeft een overschot aan elektronen, de p-laag een overschot aan 'gaten', plekken waar een elektron ontbreekt. Zet je er spanning op, dan ontmoeten elektronen en gaten elkaar in de overgang en komt hun energie vrij als licht. Welke kleur dat licht heeft, hangt af van het materiaal: voor blauw heb je een halfgeleider nodig met een grote energiesprong, zoals galliumnitride (GaN).\n\nDaar liep het mis. GaN-kristallen van goede kwaliteit kweken was bijna onmogelijk, en niemand slaagde erin een werkende p-laag te maken. Akasaki en Amano kweekten in 1986 als eersten degelijk GaN op een saffieren ondergrond, met een tussenlaagje aluminiumnitride. Later merkten ze dat met zink gedopeerd GaN veel feller ging oplichten onder een elektronenmicroscoop: de elektronenstraal verbeterde de p-laag. Nakamura toonde aan dat waterstof de boosdoener was en verving de elektronenstraal door een eenvoudige verhitting. In 1992 werkten beide aanpakken.\n\n## Een voorbeeld\n\nKijk naar de ledlamp in je keuken of de koplampen van een recente auto. Wit licht uit een led is meestal een blauwe led bedekt met een fosforlaagje, dat een deel van het blauw omzet in geel. Samen ziet je oog dat als wit. Ook het scherm van je smartphone en de blauwe laser in een blu-rayspeler steunen op dezelfde doorbraak.\n\n## Wat onderzoek zegt\n\nVolgens het Nobelcomité gaat ongeveer een vierde van het wereldwijde elektriciteitsverbruik naar verlichting. Het comité gaf als vergelijking dat de beste leds in het lab iets meer dan 300 lumen per watt halen, tegenover ongeveer 16 voor een gloeilamp en bijna 70 voor een tl-lamp. Nakamura had in 1993 een blauwe led die zo fel was als een kaars. Het comité wees ook op de meer dan 1,5 miljard mensen zonder stroomnet: zuinige leds kunnen op een klein zonnepaneel werken.\n\n## Nuance of misverstand\n\nAkasaki en Amano bouwden niet aan blauwe leds 'op voorhand': het was jarenlang een vakgebied waar weinig onderzoekers nog in geloofden. En 300 lumen per watt is een laboratoriumrecord. Lampen in de winkel halen minder, al blijven ze ver voor op gloeilampen. De Nobelprijs ging bewust naar een uitvinding met een groot praktisch nut, niet naar een theoretische ontdekking.\n\n## Wat je ermee doet\n\nKijk bij het kopen van lampen naar het aantal lumen, niet naar het aantal watt: lumen zegt hoeveel licht je krijgt. Een hoog lumen-per-wattgetal betekent een zuiniger lamp. En onthoud het verhaal als je zelf vastzit op een technisch probleem: de doorbraak kwam van mensen die bleven proberen toen bijna iedereen het had opgegeven.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Elektron en gat vallen samen: blauw licht</text><rect x=\"40\" y=\"40\" width=\"160\" height=\"40\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"120\" y=\"64\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">p-GaN (gaten)</text><rect x=\"40\" y=\"80\" width=\"160\" height=\"24\" rx=\"2\" fill=\"rgba(255,209,102,0.25)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"120\" y=\"96\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">InGaN-laagje</text><rect x=\"40\" y=\"104\" width=\"160\" height=\"40\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"120\" y=\"128\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">n-GaN (elektronen)</text><rect x=\"40\" y=\"144\" width=\"160\" height=\"22\" rx=\"4\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><text x=\"120\" y=\"160\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">saffier + AlN-buffer</text><circle r=\"5\" fill=\"#06d6a0\"><animateMotion path=\"M90,130 L90,92\" dur=\"2s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;1;0\" dur=\"2s\" repeatCount=\"indefinite\"/></circle><circle r=\"5\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animateMotion path=\"M90,56 L90,92\" dur=\"2s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;1;0\" dur=\"2s\" repeatCount=\"indefinite\"/></circle><path d=\"M200,92 L270,92\" stroke=\"#ffd166\" stroke-width=\"3\" stroke-dasharray=\"8 6\" fill=\"none\"><animate attributeName=\"stroke-dashoffset\" values=\"28;0\" dur=\"1s\" repeatCount=\"indefinite\"/></path><path d=\"M270,86 L280,92 L270,98 Z\" fill=\"#ffd166\"/><circle cx=\"305\" cy=\"92\" r=\"20\" fill=\"rgba(255,209,102,0.25)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"305\" y=\"96\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">blauw</text><text x=\"305\" y=\"136\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">+ gele fosfor</text><text x=\"305\" y=\"152\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">= wit licht</text><text x=\"180\" y=\"200\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Moeilijk: goede kristallen én een werkende p-laag</text></svg>",
+   "quiz": {
+    "q": "Waarom was de blauwe led zo belangrijk voor gewone verlichting?",
+    "o": [
+     "Blauw licht verbruikt minder stroom dan rood",
+     "Met blauw en een fosforlaagje maak je wit licht",
+     "Blauwe leds gaan nooit stuk"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Nobelprize.org, populaire uitleg 2014",
+     "u": "https://nobelprize.org/prizes/physics/2014/popular-information"
+    },
+    {
+     "t": "Physics Today (AIP)",
+     "u": "https://physicstoday.aip.org/news/developers-of-blue-leds-win-2014-physics-nobel"
+    },
+    {
+     "t": "PBS NOVA",
+     "u": "https://www.pbs.org/wgbh/nova/article/how-blue-leds-work-and-why-they-deserve-the-physics-nobel/"
+    }
+   ],
+   "date": "2026-11-22T05:44:47Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Shazam luistert niet naar je liedje, maar naar sterrenbeelden",
+   "body": "Shazam vergelijkt geen volledige geluidsgolven. De app zoekt de luidste pieken in een spectrogram, koppelt ze per twee tot een korte code en zoekt die codes in een databank. Klopt het tijdsverschil bij veel codes tegelijk, dan heb je een match. Medeoprichter Avery Wang beschreef het systeem in 2003.",
+   "take": "Staat de muziek luid in een café? Houd je gsm dichter bij de luidspreker: hoe meer pieken boven het lawaai uitkomen, hoe sneller de match.",
+   "deep": "## Hoe het werkt\n\nEen opname wordt eerst omgezet in een spectrogram: een kaart met de tijd horizontaal en de toonhoogte verticaal. Daarin kiest het algoritme alleen de punten die er sterk uitspringen, de pieken. Wat overblijft, lijkt op een sterrenkaart. Wang noemt het letterlijk een 'constellatiekaart'.\n\nLosse pieken bevatten te weinig informatie om snel te zoeken. Daarom neemt het systeem telkens een ankerpunt en koppelt dat aan pieken in een 'doelzone' net erna. Elk paar levert een hash op: de twee frequenties plus het tijdsverschil ertussen, samen te verpakken in 32 bits. Die hash wordt bewaard met het nummer en het moment in het nummer waar hij voorkomt. Bij een zoekopdracht maakt je gsm dezelfde hashes en zoekt de server ze op. Bij het juiste nummer liggen veel treffers op dezelfde tijdsverschuiving, wat in een histogram als een duidelijke piek opvalt.\n\n## Een voorbeeld\n\nJe zit op een terras aan de Gentse Korenlei en hoort een nummer tussen het geroezemoes en het tikken van glazen. Een groot deel van het geluid gaat verloren, maar de luidste tonen van de muziek steken er nog bovenuit. Shazam heeft maar een fractie van die pieken nodig: zolang genoeg paren hetzelfde tijdsverschil tonen, weet de app welk nummer het is.\n\n## Wat onderzoek zegt\n\nAvery Wang publiceerde 'An Industrial-Strength Audio Search Algorithm' op de ISMIR-conferentie in 2003. Hij koos voor spectrogrampieken omdat ze bestand zijn tegen ruis. Door paren te vormen in plaats van losse punten te vergelijken, gebruikt het systeem ongeveer tien keer meer opslag, maar zoekt het naar schatting tienduizend keer sneller. Shazam werd in 1999 opgericht door Chris Barton, Philip Inghelbrecht, Avery Wang en Dhiraj Mukherjee. In 2002 startte de dienst in het Verenigd Koninkrijk via het nummer 2580: je belde, hield je gsm bij de muziek en kreeg een sms met de titel. Apple nam Shazam in 2018 over.\n\n## Nuance of misverstand\n\nShazam begrijpt geen melodie. Neurie je een liedje, dan vindt deze techniek het meestal niet, want je stem levert andere pieken op dan de studio-opname. Om dezelfde reden herkent de methode een live-uitvoering of een cover vaak slecht. En Wangs paper beschrijft het systeem van 2003; hoe de huidige app precies werkt, kan verschillen.\n\n## Wat je ermee doet\n\nWil je een nummer herkennen, kies dan een stuk zonder praat erdoorheen, zoals een refrein. Het principe is ook handig om te onthouden: slimme systemen winnen vaak door weg te gooien wat niet nodig is en alleen de opvallendste kenmerken te bewaren.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Pieken in het spectrogram worden paren</text><path d=\"M30,180 L330,180 M30,180 L30,40\" stroke=\"#fff\" stroke-width=\"2\" fill=\"none\"/><text x=\"330\" y=\"196\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">tijd</text><text x=\"36\" y=\"50\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">toonhoogte</text><circle cx=\"50\" cy=\"150\" r=\"4\" fill=\"#fff\"/><circle cx=\"70\" cy=\"90\" r=\"4\" fill=\"#fff\"/><circle cx=\"95\" cy=\"130\" r=\"4\" fill=\"#fff\"/><circle cx=\"115\" cy=\"70\" r=\"4\" fill=\"#fff\"/><circle cx=\"140\" cy=\"110\" r=\"4\" fill=\"#fff\"/><circle cx=\"160\" cy=\"160\" r=\"4\" fill=\"#fff\"/><circle cx=\"185\" cy=\"85\" r=\"4\" fill=\"#fff\"/><circle cx=\"205\" cy=\"125\" r=\"4\" fill=\"#fff\"/><circle cx=\"230\" cy=\"95\" r=\"4\" fill=\"#fff\"/><circle cx=\"255\" cy=\"145\" r=\"4\" fill=\"#fff\"/><circle cx=\"280\" cy=\"75\" r=\"4\" fill=\"#fff\"/><circle cx=\"305\" cy=\"115\" r=\"4\" fill=\"#fff\"/><rect x=\"128\" y=\"60\" width=\"90\" height=\"60\" rx=\"4\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"4 3\"/><text x=\"173\" y=\"135\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">doelzone</text><circle cx=\"115\" cy=\"70\" r=\"7\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"100\" y=\"58\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">anker</text><path d=\"M115,70 L185,85\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"4 4\" fill=\"none\"><animate attributeName=\"stroke-dashoffset\" values=\"16;0\" dur=\"1.2s\" repeatCount=\"indefinite\"/></path><path d=\"M115,70 L140,110\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"4 4\" fill=\"none\"><animate attributeName=\"stroke-dashoffset\" values=\"16;0\" dur=\"1.2s\" repeatCount=\"indefinite\"/></path><path d=\"M115,70 L205,125\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"4 4\" fill=\"none\"><animate attributeName=\"stroke-dashoffset\" values=\"16;0\" dur=\"1.2s\" repeatCount=\"indefinite\"/></path><g opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1;0\" dur=\"6s\" repeatCount=\"indefinite\"/><text x=\"270\" y=\"58\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">hash: f1 + f2 + Δt</text></g><text x=\"180\" y=\"212\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Veel paren met hetzelfde tijdsverschil = match</text></svg>",
+   "quiz": {
+    "q": "Waaruit bestaat de 'vingerafdruk' die Shazam opzoekt?",
+    "o": [
+     "De volledige geluidsgolf van tien seconden",
+     "De melodie die je zou kunnen neuriën",
+     "Paren van spectrogrampieken met hun tijdsverschil"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Avery Wang, ISMIR 2003 (Indiana University)",
+     "u": "https://homes.luddy.indiana.edu/donbyrd/INFO590Spring06/Wang-ISMIR03IndStrength-Txt.pdf"
+    },
+    {
+     "t": "University of Edinburgh, collegeslides",
+     "u": "https://www.inf.ed.ac.uk/teaching/courses/il1/slides/20-shazam-2011-11-21.pdf"
+    },
+    {
+     "t": "Stereonet over het 2580-nummer",
+     "u": "https://www.stereonet.com/features/2580-shazams-first-killer-app-was-a-phone-call"
+    }
+   ],
+   "date": "2026-11-22T05:44:47Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Een zonnepaneel is een led die achterstevoren werkt",
+   "body": "Een zonnecel bestaat uit twee lagen silicium: één met fosfor (extra elektronen) en één met boor (extra gaten). Waar ze elkaar raken, ontstaat een elektrisch veld. Een foton slaat een elektron los, het veld duwt het naar de ene kant en het gat naar de andere. Verbind je beide kanten, dan loopt er stroom.",
+   "take": "Leg je panelen waar geen schaduw valt: één beschaduwde cel kan de stroom van een hele reeks panelen afremmen.",
+   "deep": "## Hoe het werkt\n\nZuiver silicium geleidt slecht. Fabrikanten voegen daarom kleine hoeveelheden andere atomen toe, dat heet doperen. Fosfor heeft één buitenelektron meer dan silicium en maakt n-type silicium met vrije elektronen. Boor heeft er één minder en maakt p-type silicium met 'gaten'.\n\nWaar die twee lagen elkaar raken, ligt de pn-overgang. Daar vloeien enkele elektronen naar de p-kant, waardoor een ingebouwd elektrisch veld ontstaat. Valt er nu een foton met genoeg energie op de cel, meer dan de bandafstand van ongeveer 1,1 elektronvolt bij silicium, dan slaat het een elektron los en blijft er een gat achter. Het veld scheidt het paar: het elektron gaat naar de n-laag, het gat naar de p-laag. Metalen contacten aan voor- en achterkant vangen de ladingen op. Sluit je er een toestel op aan, dan loopt er een stroom: het foto-elektrisch of fotovoltaïsch effect.\n\n## Een voorbeeld\n\nDe blauwzwarte panelen op Vlaamse daken bestaan uit tientallen zulke cellen die in serie geschakeld zijn, zodat hun spanningen optellen. Een omvormer zet de gelijkstroom daarna om in de wisselstroom van je stopcontact. Op een heldere middag in juni levert hetzelfde paneel veel meer dan op een grijze dag in december, omdat er dan meer fotonen per seconde op vallen.\n\n## Wat onderzoek zegt\n\nCommerciële siliciumpanelen zetten volgens recente vakbronnen ongeveer 20 tot 24 procent van het zonlicht om in stroom. Er bestaat een theoretisch plafond, de Shockley-Queissergrens: voor silicium ligt dat, afhankelijk van de berekening, rond 29 tot 32 procent. De beste siliciumcellen in het lab komen daar al dicht bij. Tandemcellen, waarbij een perovskietlaag boven op silicium ligt, halen in het lab meer dan 34 procent, maar zijn nog niet breed op de markt.\n\n## Nuance of misverstand\n\nEen zonnecel werkt niet op warmte maar op licht. Hitte maakt cellen zelfs iets minder efficiënt, waardoor een koele, zonnige lentedag soms beter presteert dan een hete zomerdag. En fotonen met te weinig energie, zoals een deel van het infrarood, gaan gewoon verloren. Fotonen met te veel energie verliezen hun overschot als warmte. Dat is de belangrijkste reden voor het plafond.\n\n## Wat je ermee doet\n\nVergelijk panelen op hun rendement en garantie, niet alleen op hun piekvermogen. Hou ze vrij van schaduw van schouwen of bomen, en kijk af en toe naar de opbrengst in de app van je omvormer: een plotse daling wijst vaak op een defect of vuil.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Licht maakt elektron-gatparen, het veld scheidt ze</text><rect x=\"60\" y=\"60\" width=\"180\" height=\"50\" rx=\"3\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"150\" y=\"90\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">n-silicium (fosfor)</text><rect x=\"60\" y=\"110\" width=\"180\" height=\"60\" rx=\"3\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"150\" y=\"158\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">p-silicium (boor)</text><path d=\"M60,110 L240,110\" stroke=\"#ffd166\" stroke-width=\"3\" fill=\"none\"/><text x=\"195\" y=\"125\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">pn-overgang</text><path d=\"M110,30 L130,100\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"6 5\" fill=\"none\"><animate attributeName=\"stroke-dashoffset\" values=\"22;0\" dur=\"1s\" repeatCount=\"indefinite\"/></path><text x=\"100\" y=\"42\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">foton</text><circle r=\"5\" fill=\"#06d6a0\"><animateMotion path=\"M130,112 L130,70 L250,70 L300,70\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><circle r=\"5\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animateMotion path=\"M130,112 L130,160\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><path d=\"M240,70 L320,70 L320,190 L150,190 L150,170\" stroke=\"#fff\" stroke-width=\"2\" fill=\"none\"/><rect x=\"300\" y=\"115\" width=\"40\" height=\"30\" rx=\"4\" fill=\"rgba(6,214,160,0.2)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"320\" y=\"134\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">lamp</text><text x=\"70\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">elektron (groen) naar n, gat (roze) naar p</text></svg>",
+   "quiz": {
+    "q": "Wat zorgt ervoor dat losgeslagen elektronen in een zonnecel één richting uitgaan?",
+    "o": [
+     "Het elektrische veld aan de pn-overgang",
+     "De warmte van de zon",
+     "Het metalen frame rond het paneel"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Open University, OpenLearn",
+     "u": "https://www.open.edu/openlearn/mod/oucontent/view.php?id=73760&section=2.1"
+    },
+    {
+     "t": "University of Central Florida, Energy Research",
+     "u": "https://energyresearch.ucf.edu/?p=2780"
+    },
+    {
+     "t": "University of Bristol, School of Chemistry",
+     "u": "https://www.chm.bris.ac.uk/~paulmay/webprojects2003/ledlie/how_they_work.htm"
+    }
+   ],
+   "date": "2026-11-22T05:44:47Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Je eurobiljetten zijn gemaakt van katoen, niet van hout",
+   "body": "Eurobiljetten zijn gedrukt op papier van zuivere katoenvezels. Daardoor voelen ze stevig en knisperend en overleven ze de wasmachine beter dan gewoon papier. Volgens de ECB wordt sinds eind 2023 alleen nog duurzaam katoen gebruikt. Echtheid controleer je in drie stappen: voelen, kijken, kantelen.",
+   "take": "Krijg je een biljet van 50 euro? Kantel het: het smaragdgroene getal moet van groen naar diepblauw verkleuren.",
+   "deep": "## Hoe het werkt\n\nGewoon papier is gemaakt van houtvezels. Bankbiljetpapier van de euro bestaat uit katoenvezels, die langer en sterker zijn. Dat geeft biljetten hun typische stevigheid en maakt ze beter bestand tegen slijtage. Sommige beveiligingen zitten al in het papier zelf, nog voor er gedrukt wordt: het watermerk en de veiligheidsdraad worden tijdens het maken van het papier ingewerkt.\n\nDaarna volgen de echtheidskenmerken die je zelf kunt controleren. Voelen: echt biljetpapier voelt stevig en knisperend, niet slap of wasachtig, en langs de linker- en rechterrand voel je korte, verheven lijntjes. Kijken: houd het biljet tegen het licht en je ziet een portret van Europa en de waarde als watermerk, plus de veiligheidsdraad als donker streepje. Kantelen: het zilveren hologram toont Europa en de waarde, en het smaragdgetal schuift met een lichteffect op en neer.\n\n## Een voorbeeld\n\nJe krijgt op de markt een biljet van 20 euro als wisselgeld. Houd het tegen het licht: in het hologram verschijnt dan een doorzichtig 'portretvenster' met Europa. Dat zit op de biljetten van 20 euro en hoger uit de Europa-serie. De biljetten van 100 en 200 euro hebben nog een extra: bij kantelen draaien kleine €-tekens rond het cijfer.\n\n## Wat onderzoek zegt\n\nDe Europese Centrale Bank beschrijft in haar publieksfolders de methode 'voelen, kijken, kantelen'. Onder ultraviolet licht licht het papier zelf niet op, maar verschijnen ingewerkte vezels in rood, blauw en groen. Dat helpt kassiers met een uv-lamp. De ECB raadt aan om altijd meerdere kenmerken te controleren in plaats van op één enkel te vertrouwen.\n\n## Nuance of misverstand\n\nKatoen betekent niet dat biljetten onverwoestbaar zijn. Ze slijten en worden door de centrale banken regelmatig uit omloop gehaald en vervangen. Ook is één kenmerk dat 'lijkt te kloppen' geen garantie: vervalsers bootsen soms één element na, zoals een glimmende strook. Pas als meerdere kenmerken samen kloppen, mag je gerust zijn. De eerste serie eurobiljetten heeft deels andere kenmerken dan de Europa-serie, al blijven beide wettig betaalmiddel.\n\n## Wat je ermee doet\n\nMaak er een gewoonte van om grote biljetten kort te checken: voel de rand, houd ze tegen het licht en kantel ze. Twijfel je, vergelijk dan met een biljet waarvan je zeker bent dat het echt is. Een vermoedelijk vals biljet breng je naar de politie of je bank; je krijgt er geen geld voor terug, maar zo verdwijnt het uit omloop.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Voelen, kijken, kantelen</text><rect x=\"40\" y=\"40\" width=\"280\" height=\"130\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M50,70 L62,70\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M50,80 L62,80\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M50,90 L62,90\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M50,100 L62,100\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M50,110 L62,110\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M50,120 L62,120\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M50,130 L62,130\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M50,140 L62,140\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"66\" y=\"160\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">reliëf</text><circle cx=\"140\" cy=\"100\" r=\"26\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"3 4\"/><text x=\"140\" y=\"104\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">watermerk</text><path d=\"M190,40 L190,170\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"2 3\"/><text x=\"190\" y=\"186\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">veiligheidsdraad</text><rect x=\"225\" y=\"40\" width=\"30\" height=\"130\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"fill\" values=\"rgba(255,209,102,0.1);rgba(6,214,160,0.45);rgba(255,107,157,0.35);rgba(255,209,102,0.1)\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"240\" y=\"32\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">hologram</text><text x=\"290\" y=\"150\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">50<animate attributeName=\"fill\" values=\"#06d6a0;#3a6cff;#06d6a0\" dur=\"5s\" repeatCount=\"indefinite\"/></text><text x=\"290\" y=\"186\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">smaragdgetal</text><text x=\"180\" y=\"210\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Papier van 100% katoen: stevig, knisperend</text></svg>",
+   "quiz": {
+    "q": "Wat zie je als je een echt biljet van 20 euro uit de Europa-serie tegen het licht houdt?",
+    "o": [
+     "Een barcode in het hologram",
+     "Het watermerk met een portret van Europa",
+     "Een gouden ster onder elke handtekening"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "ECB, productie van eurobiljetten",
+     "u": "https://www.ecb.europa.eu/euro/banknotes/production/html/index.nb.html"
+    },
+    {
+     "t": "ECB, publieksfolder Europa-serie",
+     "u": "https://www.ecb.europa.eu/euro/pdf/material/discover5/Leaflet_Public.en.pdf"
+    },
+    {
+     "t": "Deutsche Bundesbank, kenmerken eurobiljetten",
+     "u": "https://www.bundesbank.de/en/tasks/cash-management/euro-banknotes/main-features"
+    }
+   ],
+   "date": "2026-11-22T05:44:47Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "De eerste officiële tv-reclame kostte negen dollar",
+   "body": "Op 1 juli 1941 zond de New Yorkse zender WNBT vlak voor een honkbalwedstrijd van de Brooklyn Dodgers een spotje van horlogemerk Bulova uit. Een klok op een kaart van de VS, een stem: 'America runs on Bulova time.' Duur: ongeveer tien seconden. Kostprijs: 9 dollar. Het was de eerste wettelijk toegelaten tv-reclame in de VS.",
+   "take": "Maak je zelf een korte video voor sociale media? Kies zoals Bulova één beeld en één zin die je merk samenvatten.",
+   "deep": "## Hoe het werkt\n\nTot midden 1941 mochten Amerikaanse tv-zenders geen betaalde reclame uitzenden. In mei 1941 gaf de Federal Communications Commission (FCC) commerciële licenties aan tien zenders, met ingang van 1 juli. NBC's zender WNBT in New York, het huidige WNBC, greep die eerste dag meteen aan.\n\nVoor de wedstrijd tussen de Brooklyn Dodgers en de Philadelphia Phillies in Ebbets Field verscheen een eenvoudig beeld: een klok over een kaart van de Verenigde Staten, met de stem 'America runs on Bulova time'. Het spotje was gemaakt door reclamebureau Biow. Bulova betaalde in totaal 9 dollar: volgens verschillende bronnen 4 dollar voor zendtijd en 5 dollar aan zenderkosten.\n\n## Een voorbeeld\n\nVergelijk dat met wat een spot van dertig seconden vandaag kost tijdens een grote voetbalwedstrijd van de Rode Duivels op een Vlaamse zender: daar betaal je een veelvoud van. Het formaat is nochtans weinig veranderd. Een kort beeld, een merknaam en een slogan, rond een sportwedstrijd die veel mensen tegelijk bekijken: dat recept gebruiken adverteerders nog altijd.\n\n## Wat onderzoek zegt\n\nDe Television Academy en Guinness World Records beschrijven het Bulovaspotje als de eerste officiële tv-reclame. Guinness noteert het tijdstip als 14.29 uur. Het publiek was klein: een stuk op Econlib, dat zich op Ad Age baseert, schat het aantal televisietoestellen in de regio New York in 1941 op ongeveer 4.000. Kort daarna remde de Tweede Wereldoorlog de groei van televisie sterk af.\n\n## Nuance of misverstand\n\nHet was niet het eerste reclameachtige beeld ooit op televisie, wel de eerste reclame die wettelijk toegelaten en betaald was. De bronnen zijn het ook niet volledig eens over de details. De meeste spreken van tien seconden, Fortune van ongeveer negen. Een bron die het vakblad Broadcasting uit juli 1941 aanhaalt, beschrijft zelfs tijdsignalen van een minuut zonder kaart. Behandel het verhaal dus als goed gedocumenteerd in grote lijnen, maar niet tot op de seconde.\n\n## Wat je ermee doet\n\nWil je een merk of project in de kijker zetten, denk dan niet dat je meteen een groot budget nodig hebt. Bulova won vooral door als eerste te zijn, op het moment dat veel mensen keken, met een boodschap die in één zin paste. Vraag je af wat jouw 'eerste dag' is: een opening, een evenement, een moment dat iedereen deelt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">1 juli 1941, WNBT New York</text><rect x=\"110\" y=\"34\" width=\"140\" height=\"100\" rx=\"12\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M125,100 L140,70 L170,66 L200,72 L230,68 L238,95 L215,118 L160,116 Z\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1.5\" opacity=\"0.6\"/><circle cx=\"180\" cy=\"84\" r=\"24\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><path d=\"M180,84 L180,66\" stroke=\"#ffd166\" stroke-width=\"2\"><animateTransform attributeName=\"transform\" type=\"rotate\" from=\"0 180 84\" to=\"360 180 84\" dur=\"4s\" repeatCount=\"indefinite\"/></path><path d=\"M180,84 L192,84\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"180\" y=\"152\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">America runs on Bulova time</text><path d=\"M40,180 L320,180\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"40\" y=\"174\" width=\"0\" height=\"12\" fill=\"#06d6a0\"><animate attributeName=\"width\" values=\"0;280;280\" keyTimes=\"0;0.8;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"40\" y=\"204\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">0 s</text><text x=\"320\" y=\"204\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">ca. 10 s</text><text x=\"180\" y=\"204\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">kost: 9 dollar</text></svg>",
+   "quiz": {
+    "q": "Tijdens welk soort uitzending liep de eerste officiële tv-reclame in 1941?",
+    "o": [
+     "Een nieuwsbulletin over de oorlog",
+     "Een kookprogramma",
+     "Een honkbalwedstrijd"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Television Academy",
+     "u": "https://www.televisionacademy.com/news/online-originals/july-1-1941-day-commercial-television-was-born"
+    },
+    {
+     "t": "Guinness World Records",
+     "u": "https://www.guinnessworldrecords.com/world-records/first-tv-advert"
+    },
+    {
+     "t": "Fortune",
+     "u": "https://fortune.com/2016/07/01/bulova-tv-commercial/"
+    }
+   ],
+   "date": "2026-11-22T05:44:47Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Het Atomium is geen molecule, maar een ijzerkristal",
+   "body": "Het Atomium werd gebouwd voor de Wereldtentoonstelling van 1958 in Brussel. Ingenieur André Waterkeyn ontwierp een eenheidscel van een ijzerkristal, 165 miljard keer vergroot: acht bollen op de hoeken van een kubus en één in het midden. Het bouwwerk is 102 meter hoog en elke bol meet ongeveer 18 meter.",
+   "take": "Ga je naar het Atomium? Zoek de kubusvorm: kijk vanaf een hoek, dan zie je de acht hoekbollen rond de middelste bol.",
+   "deep": "## Hoe het werkt\n\nMetalen bestaan uit atomen die in een regelmatig rooster zitten. IJzer bij kamertemperatuur, alfa-ijzer of ferriet, heeft een kubisch ruimtelijk gecentreerd rooster. De kleinste bouwsteen daarvan, de eenheidscel, is een kubus met op elke hoek een atoom en één atoom precies in het midden. Dat geeft negen atomen.\n\nHet Atomium stelt exact die cel voor. De negen bollen zijn de atomen, de buizen ertussen tonen hoe ze tegenover elkaar liggen: langs de ribben van de kubus en langs de diagonalen naar het midden. De kubus staat op een van zijn hoekpunten, wat het gebouw zijn opvallende, scheve silhouet geeft. Ingenieur André Waterkeyn bedacht het ontwerp; de architecten André en Jean Polak werkten het uit.\n\n## Een voorbeeld\n\nRij je over de Brusselse Ring langs de Heizel, dan zie je de glimmende bollen al van ver. In de middelste verticale lijn zit de lift naar de bovenste bol, waar je een uitzicht over Brussel hebt. Wie in de bollen rondloopt, wandelt dus eigenlijk van het ene 'ijzeratoom' naar het andere.\n\n## Wat onderzoek zegt\n\nVolgens Britannica staat het Atomium 102 meter hoog op de Heizelvlakte, en bestaan de negen bollen elk uit staal met een diameter van ongeveer 18 meter. Het werd ingehuldigd bij de opening van Expo 58 op 17 april 1958. Tussen 2004 en 2006 volgde een grondige renovatie door Jacques Delens en BESIX: de verweerde aluminium bekleding werd vervangen door roestvrij staal, dat beter bestand is tegen corrosie. De renovatie kostte volgens de beschikbare bronnen ongeveer 26 miljoen euro. Voor de sluiting in 2004 trok het gebouw zo'n 400.000 bezoekers per jaar.\n\n## Nuance of misverstand\n\nHet Atomium wordt vaak een 'molecule' of 'atoom' genoemd, maar beide zijn fout. Een molecule is een groep gebonden atomen zoals water, en één atoom zou maar één bol zijn. Het is een stukje kristalrooster. Bovendien zijn atomen in werkelijkheid geen harde bollen met buizen ertussen: het is een model, geen foto. Niet alle negen bollen zijn voor bezoekers toegankelijk, en bronnen geven daarover verschillende aantallen.\n\n## Wat je ermee doet\n\nGebruik het Atomium als ezelsbruggetje voor de chemieles: 'kubisch ruimtelijk gecentreerd' is het Atomium, acht hoeken plus één in het midden. En als iemand op een quiz zegt dat het een molecule voorstelt, weet je beter.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Kubus met 9 bollen = ijzerkristal</text><path d=\"M110,150 L210,150\" stroke=\"#fff\" stroke-width=\"2\" opacity=\"0.5\"/><path d=\"M110,150 L110,70\" stroke=\"#fff\" stroke-width=\"2\" opacity=\"0.5\"/><path d=\"M210,150 L210,70\" stroke=\"#fff\" stroke-width=\"2\" opacity=\"0.5\"/><path d=\"M110,70 L210,70\" stroke=\"#fff\" stroke-width=\"2\" opacity=\"0.5\"/><path d=\"M150,125 L250,125\" stroke=\"#fff\" stroke-width=\"2\" opacity=\"0.5\"/><path d=\"M150,125 L150,45\" stroke=\"#fff\" stroke-width=\"2\" opacity=\"0.5\"/><path d=\"M250,125 L250,45\" stroke=\"#fff\" stroke-width=\"2\" opacity=\"0.5\"/><path d=\"M150,45 L250,45\" stroke=\"#fff\" stroke-width=\"2\" opacity=\"0.5\"/><path d=\"M110,150 L150,125\" stroke=\"#fff\" stroke-width=\"2\" opacity=\"0.5\"/><path d=\"M210,150 L250,125\" stroke=\"#fff\" stroke-width=\"2\" opacity=\"0.5\"/><path d=\"M110,70 L150,45\" stroke=\"#fff\" stroke-width=\"2\" opacity=\"0.5\"/><path d=\"M210,70 L250,45\" stroke=\"#fff\" stroke-width=\"2\" opacity=\"0.5\"/><path d=\"M110,150 L180,97\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"4 4\"><animate attributeName=\"stroke-dashoffset\" values=\"16;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><path d=\"M210,150 L180,97\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"4 4\"><animate attributeName=\"stroke-dashoffset\" values=\"16;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><path d=\"M110,70 L180,97\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"4 4\"><animate attributeName=\"stroke-dashoffset\" values=\"16;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><path d=\"M210,70 L180,97\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"4 4\"><animate attributeName=\"stroke-dashoffset\" values=\"16;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><path d=\"M150,125 L180,97\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"4 4\"><animate attributeName=\"stroke-dashoffset\" values=\"16;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><path d=\"M250,125 L180,97\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"4 4\"><animate attributeName=\"stroke-dashoffset\" values=\"16;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><path d=\"M150,45 L180,97\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"4 4\"><animate attributeName=\"stroke-dashoffset\" values=\"16;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><path d=\"M250,45 L180,97\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"4 4\"><animate attributeName=\"stroke-dashoffset\" values=\"16;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><circle cx=\"110\" cy=\"150\" r=\"11\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"210\" cy=\"150\" r=\"11\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"110\" cy=\"70\" r=\"11\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"210\" cy=\"70\" r=\"11\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"150\" cy=\"125\" r=\"11\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"250\" cy=\"125\" r=\"11\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"150\" cy=\"45\" r=\"11\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"250\" cy=\"45\" r=\"11\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"180\" cy=\"97\" r=\"11\" fill=\"rgba(255,209,102,0.35)\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"r\" values=\"9;14;9\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><text x=\"300\" y=\"90\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">8 hoeken</text><text x=\"300\" y=\"106\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">+ 1 midden</text><text x=\"180\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">102 m hoog, bollen van 18 m</text><text x=\"180\" y=\"208\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">165 miljard keer vergroot</text></svg>",
+   "quiz": {
+    "q": "Wat stelt het Atomium voor?",
+    "o": [
+     "Een watermolecule",
+     "Een eenheidscel van een ijzerkristal",
+     "Het atoommodel van Bohr"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Britannica",
+     "u": "https://britannica.com/topic/Atomium"
+    },
+    {
+     "t": "Stad Brussel",
+     "u": "https://www.brussels.be/atomium"
+    },
+    {
+     "t": "Atomium, restauratie 2004-2006",
+     "u": "https://atomium.be/restoration_of_the_atomium"
+    }
+   ],
+   "date": "2026-11-22T05:44:47Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Al meer dan negentig jaar zoek: de Rechtvaardige Rechters",
+   "body": "In de nacht van 10 op 11 april 1934 verdwenen twee luiken van het Lam Gods uit de Gentse Sint-Baafskathedraal. Een dief eiste één miljoen Belgische frank losgeld. Het paneel met Johannes de Doper kwam terug, 'De Rechtvaardige Rechters' nooit. Wat er nu hangt, is een kopie van Jef Van der Veken.",
+   "take": "Bezoek je het Lam Gods in Gent? Zoek linksonder de Rechtvaardige Rechters: in een van de ruiters herkennen kenners koning Leopold III.",
+   "deep": "## Hoe het werkt\n\nHet Lam Gods van de gebroeders Van Eyck bestaat uit beschilderde luiken die open en dicht kunnen. Het paneel met de Rechtvaardige Rechters hoorde bij de onderste rij links. De achterkant, met Johannes de Doper, vormde vroeger één geheel met de voorkant. In de nacht van 10 op 11 april 1934 werden beide uit de kathedraal gestolen.\n\nKort daarna volgden losgeldbrieven. Een dreigbrief van 30 april 1934 eiste één miljoen Belgische frank. Als teken van goede wil bezorgde de dief het paneel van Johannes de Doper terug. De onderhandelingen met het bisdom liepen vast, en de Rechtvaardige Rechters bleven weg.\n\n## Een voorbeeld\n\nWie vandaag in de Sint-Baafskathedraal voor het Lam Gods staat, ziet een volledig retabel, maar het paneel linksonder is een kopie. Kunstschilder en restaurateur Jef Van der Veken maakte die. Volgens de VRT baseerde hij zich daarvoor onder meer op een zestiende-eeuwse kopie van Michiel Coxcie. Om het verschil met het origineel te markeren, gaf hij een van de ruiters de gelaatstrekken van toenmalig koning Leopold III.\n\n## Wat onderzoek zegt\n\nDe hoofdverdachte is Arsène Goedertier, een wisselagent uit Wetteren. In het najaar van 1934 vertelde hij op zijn sterfbed aan zijn advocaat dat alleen hij wist waar het paneel verborgen was. Hij stierf voor hij meer kon zeggen. Sindsdien zijn er talloze zoektochten, boeken en theorieën geweest. Journalist Rudy Pieters stelt in zijn boek dat het paneel vernietigd is. In april 2024 schreef de VRT dat het paneel na negentig jaar nog altijd vermist is, en ook begin 2026 bleef het onvindbaar.\n\n## Nuance of misverstand\n\nHet is een hardnekkig verhaal dat het hele Lam Gods ooit 'verdwenen' is. Het retabel werd wel vaker weggehaald, onder meer tijdens de Tweede Wereldoorlog, maar in 1934 ging het om één paneel dat nooit terugkwam. Over details zijn de bronnen het niet eens: zo wordt de kopie van Van der Veken in verschillende bronnen op verschillende jaren gedateerd. Wat vaststaat: het origineel is nooit teruggevonden.\n\n## Wat je ermee doet\n\nGa het Lam Gods bekijken en vergelijk het paneel linksonder met de rest: kopie en origineel naast elkaar maken het verschil in vakmanschap goed zichtbaar. En wees kritisch bij elke krantenkop die zegt dat 'het mysterie opgelost' is: tot nu toe bleek dat altijd voorbarig.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Nacht van 10 op 11 april 1934</text><rect x=\"60\" y=\"40\" width=\"44\" height=\"90\" rx=\"3\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"108\" y=\"40\" width=\"44\" height=\"90\" rx=\"3\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"156\" y=\"40\" width=\"44\" height=\"90\" rx=\"3\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"204\" y=\"40\" width=\"44\" height=\"90\" rx=\"3\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"252\" y=\"40\" width=\"44\" height=\"90\" rx=\"3\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"60\" y=\"140\" width=\"44\" height=\"50\" rx=\"3\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\" stroke-dasharray=\"5 4\"><animate attributeName=\"opacity\" values=\"1;1;0.3;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"108\" y=\"140\" width=\"44\" height=\"50\" rx=\"3\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"62\" y=\"142\" width=\"40\" height=\"46\" rx=\"2\" fill=\"rgba(255,209,102,0.3)\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1\" keyTimes=\"0;0.5;0.6;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"82\" y=\"206\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Rechters</text><path d=\"M150,165 L200,165\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M200,160 L208,165 L200,170 Z\" fill=\"#fff\"/><text x=\"216\" y=\"160\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">origineel: zoek</text><text x=\"216\" y=\"178\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">nu: kopie</text><text x=\"216\" y=\"196\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">Van der Veken</text></svg>",
+   "quiz": {
+    "q": "Welk deel van de buit van 1934 kwam wel terug?",
+    "o": [
+     "Het paneel met Johannes de Doper",
+     "Het paneel met de Rechtvaardige Rechters",
+     "Het centrale paneel met het Lam"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "VRT NWS (2024)",
+     "u": "https://www.vrt.be/vrtnws/nl/2024/04/08/rechtvaardige-rechters-vermist-van-eyck-gestolen/"
+    },
+    {
+     "t": "Visit Gent",
+     "u": "https://visit.gent.be/nl/de-rechtvaardige-rechters-vermist"
+    },
+    {
+     "t": "VRT NWS (2014)",
+     "u": "https://www.vrt.be/vrtnws/nl/2014/04/10/80_lentes_later_blijvenwachtenopdevondstvandeeeuw-1-1906415/"
+    }
+   ],
+   "date": "2026-11-22T05:44:47Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Wie 'ge' zegt, gebruikt eigenlijk een meervoud",
+   "body": "In het Middelnederlands zei je 'du' tegen één persoon en 'ghi' tegen meerdere. 'Ghi' werd ook beleefd gebruikt, net zoals het Engelse 'you' 'thou' verdrong. 'Du' verdween rond de zestiende en zeventiende eeuw. In Vlaanderen bleef 'gij' of 'ge' de vorm voor iedereen; in Holland ontstond 'jij', dat volgens veel taalkundigen uit 'gij' voortkomt.",
+   "take": "Hoor je 'gij' in een oud gebed of lied? Dan weet je nu dat het oorspronkelijk een meervoud was.",
+   "deep": "## Hoe het werkt\n\nHet Middelnederlands had een duidelijk systeem: 'du' (met 'di' als voorwerpsvorm) voor één persoon, 'ghi' (met 'u') voor meerdere personen. Die meervoudsvorm werd ook gebruikt om afstand of beleefdheid uit te drukken, zoals in veel Europese talen. Door die beleefde vorm steeds vaker te gebruiken, verloor 'du' terrein. In de loop van de zestiende eeuw raakte het in onbruik.\n\nZo werd 'gij' een vorm voor één én meerdere personen. In Holland ontstond daarnaast 'jij' en 'je'. Veel taalkundigen leggen dat uit via een onbeklemtoonde vorm achter het werkwoord: zoiets als 'hebdi', dat via tussenstappen tot 'hebji' werd. Zo verklaren ze ook waarom je 'heb jij' zegt en niet 'hebt jij'. Omdat ook 'jij' daarna enkelvoud werd, was er opnieuw nood aan een echte meervoudsvorm: zo kwam 'jullie' op.\n\n## Een voorbeeld\n\nEen West-Vlaming of Antwerpenaar zegt 'Hebde gij da gezien?' tegen een vriend, tegen zijn grootmoeder en tegen een hele groep. Wie in Nederland woont, hoort 'gij' vooral nog in Bijbelteksten of plechtige taal. Het Vlaamse 'ge' en 'gij' is dus geen verbastering, maar de voortzetting van een oud systeem dat in Holland werd vervangen.\n\n## Wat onderzoek zegt\n\nHistorische grammatica's op de digitale bibliotheek DBNL beschrijven het Middelnederlandse onderscheid tussen 'du' en 'ghi'. Een studie over aanspreekvormen stelt dat 'ge' en 'gij' van de Middeleeuwen tot het begin van de twintigste eeuw tegenover iedereen gebruikt konden worden, in Nederland én Vlaanderen. In Vlaanderen bleef dat systeem zonder onderscheid tussen beleefd en vertrouwelijk nog lang bestaan. Taalkundigen als Verdenius (1924) en Muller (1926) verdedigden de afleiding van 'jij' uit 'gij'.\n\n## Nuance of misverstand\n\nHoe 'jij' precies ontstaan is, blijft een discussie onder specialisten. De meeste verklaringen wijzen naar 'gij', maar over de route en het tijdstip zijn ze het niet eens. Ook het beleefde 'u' als onderwerp is later ontstaan, vooral in Holland. Zeg dus niet dat 'jij' gewoon 'gij met een Hollandse tongval' is; de geschiedenis is ingewikkelder.\n\n## Wat je ermee doet\n\nGebruik dit inzicht als je teksten schrijft voor een Vlaams en een Nederlands publiek: 'gij' klinkt in Vlaanderen vertrouwd en informeel, in Nederland plechtig of ouderwets. Kies voor algemene teksten 'je' of 'u', en hou 'ge' voor wie je echt in de Vlaamse spreektaal wilt aanspreken.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Van meervoud naar iedereen</text><rect x=\"20\" y=\"40\" width=\"100\" height=\"40\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"70\" y=\"65\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">du = jij</text><rect x=\"20\" y=\"100\" width=\"100\" height=\"40\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"70\" y=\"125\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">ghi = jullie</text><text x=\"70\" y=\"160\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Middelnederlands</text><path d=\"M120,120 L210,90\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"6 5\" fill=\"none\"><animate attributeName=\"stroke-dashoffset\" values=\"22;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><path d=\"M206,83 L216,88 L208,96 Z\" fill=\"#ffd166\"/><path d=\"M120,120 L210,160\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"6 5\" fill=\"none\"><animate attributeName=\"stroke-dashoffset\" values=\"22;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><path d=\"M206,153 L216,163 L204,166 Z\" fill=\"#06d6a0\"/><rect x=\"220\" y=\"68\" width=\"125\" height=\"40\" rx=\"8\" fill=\"rgba(255,209,102,0.2)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"282\" y=\"93\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">gij/ge: iedereen</text><text x=\"282\" y=\"124\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Vlaanderen</text><rect x=\"220\" y=\"140\" width=\"125\" height=\"40\" rx=\"8\" fill=\"rgba(6,214,160,0.2)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"282\" y=\"165\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">jij (uit gij?)</text><text x=\"282\" y=\"196\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Holland</text><path d=\"M30,190 L110,190\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"1;0.2;1\" dur=\"6s\" repeatCount=\"indefinite\"/></path><text x=\"70\" y=\"208\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">du verdwijnt</text></svg>",
+   "quiz": {
+    "q": "Welke vorm gebruikte je in het Middelnederlands voor één persoon, in een gewoon gesprek?",
+    "o": [
+     "ghi",
+     "jullie",
+     "du"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "DBNL, Historische grammatica van het Nederlands",
+     "u": "https://www.dbnl.org/tekst/bree001hist02_01/bree001hist02_01_0042.php"
+    },
+    {
+     "t": "DBNL, De Nieuwe Taalgids",
+     "u": "https://www.dbnl.org/tekst/_taa008190801_01/_taa008190801_01_0039.php"
+    },
+    {
+     "t": "KU Leuven, Lirias",
+     "u": "https://lirias.kuleuven.be/retrieve/467142"
+    }
+   ],
+   "date": "2026-11-22T05:44:47Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "De 'donkere kant' van de maan krijgt evenveel zon",
+   "body": "De maan draait in ongeveer 27,3 dagen één keer om haar as, precies even lang als één rondje rond de aarde. Daardoor zien we altijd dezelfde kant. Die getijdenkoppeling ontstond doordat de zwaartekracht van de aarde haar draaiing afremde. De achterkant is niet donker: ze krijgt even lang zon als de voorkant.",
+   "take": "Bij nieuwe maan zie je vanuit je tuin niets, maar dan staat de achterkant van de maan volledig in de zon.",
+   "deep": "## Hoe het werkt\n\nDe zwaartekracht van de aarde rekt de maan een beetje uit, waardoor ze een lichte bobbel naar ons toe heeft. Toen de maan jong was en sneller draaide, liep die bobbel telkens wat voor of achter op de lijn naar de aarde. De aarde trok er voortdurend aan om hem terug in lijn te brengen. Die getouwtrekkerij zette draaiingsenergie om in warmte en remde de rotatie af.\n\nDat ging door tot één draai om de as even lang duurde als één omloop rond de aarde. Vanaf dan staat de bobbel stil richting aarde en blijft dezelfde kant naar ons gekeerd. Sterrenkundigen noemen dat synchrone rotatie, een vorm van getijdenkoppeling.\n\n## Een voorbeeld\n\nKijk een maand lang 's avonds naar de maan vanuit Vlaanderen. Je ziet de schijngestalten veranderen van sikkel tot volle maan, maar de vlekken, de donkere 'zeeën', blijven altijd op dezelfde plaats. Het 'mannetje in de maan' kijkt je steeds aan. Bij nieuwe maan staat de maan tussen aarde en zon: wij zien dan de onverlichte kant, terwijl de achterkant volledig in het zonlicht baadt.\n\n## Wat onderzoek zegt\n\nNASA beschrijft dat de maan even snel om haar as draait als ze rond de aarde beweegt. De getijdenwerking duwde de maan ook geleidelijk verder van de aarde weg. Door libratie, een lichte schommeling in hoe we de maan zien, kun je over langere tijd ongeveer 59 procent van het maanoppervlak waarnemen, al zie je op elk moment maar de helft. De eerste foto's van de achterkant maakte de Sovjetsonde Loena 3 in 1959. Scientific American benadrukt dat de achterkant, net als de voorkant, ongeveer twee weken licht en twee weken donker krijgt.\n\n## Nuance of misverstand\n\nDe term 'donkere kant' is een misverstand dat uit het Engels komt: 'dark' betekende daar vooral 'onbekend', omdat niemand die kant ooit gezien had. Beter is 'achterkant' of 'verre kant'. Een tweede misverstand: de maan draait wel degelijk om haar as. Zou ze dat niet doen, dan zouden we tijdens één omloop juist alle kanten te zien krijgen.\n\n## Wat je ermee doet\n\nLeg het uit aan kinderen met een stoel in het midden van de kamer: loop eromheen en kijk de stoel altijd aan. Na één rondje heb je ook zelf één keer rondgedraaid, en de stoel heeft je rug nooit gezien. En gebruik voortaan 'achterkant van de maan' in plaats van 'donkere kant'.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"18\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Eén draai per omloop: altijd dezelfde kant naar ons</text><circle cx=\"200\" cy=\"115\" r=\"22\" fill=\"rgba(6,214,160,0.3)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"200\" y=\"119\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">aarde</text><circle cx=\"200\" cy=\"115\" r=\"70\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1.5\" stroke-dasharray=\"3 5\" opacity=\"0.5\"/><path d=\"M20,60 L60,60 M20,115 L60,115 M20,170 L60,170\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"6 5\"><animate attributeName=\"stroke-dashoffset\" values=\"22;0\" dur=\"1.2s\" repeatCount=\"indefinite\"/></path><text x=\"40\" y=\"45\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">zonlicht</text><g><animateTransform attributeName=\"transform\" type=\"rotate\" from=\"0 200 115\" to=\"360 200 115\" dur=\"8s\" repeatCount=\"indefinite\"/><circle cx=\"270\" cy=\"115\" r=\"13\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"261\" cy=\"115\" r=\"4\" fill=\"#ff6b9d\"/></g><text x=\"200\" y=\"214\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">roze stip = voorkant, kijkt steeds naar de aarde</text></svg>",
+   "quiz": {
+    "q": "Waarom zien we altijd dezelfde kant van de maan?",
+    "o": [
+     "De maan draait helemaal niet om haar as",
+     "De achterkant krijgt nooit zonlicht",
+     "Haar draaiing om de as duurt even lang als één omloop"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "NASA, Tidal Locking",
+     "u": "https://science.nasa.gov/moon/tidal-locking/"
+    },
+    {
+     "t": "NASA, Lunar Libration",
+     "u": "https://eclipse2017.nasa.gov/what's-lunar-libration"
+    },
+    {
+     "t": "Scientific American",
+     "u": "https://www.scientificamerican.com/article/how-to-see-the-lunar-far-side-right-here-on-earth/"
+    }
+   ],
+   "date": "2026-11-22T05:44:47Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Smaakt koriander naar zeep? Je DNA speelt mee",
+   "body": "In een studie van 23andMe uit 2012 met ruim 14.600 deelnemers vonden onderzoekers een genetische variant in een cluster van geurreceptorgenen, waaronder OR6A2. Die receptor reageert op aldehyden die koriander zijn geur geven. Wie de 'zeepvariant' heeft, proeft vaker zeep. Toch verklaren genen maar een klein deel van het verschil.",
+   "take": "Kook je voor vrienden? Serveer koriander apart als topping, dan kiest iedereen zelf.",
+   "deep": "## Hoe het werkt\n\nSmaak is voor een groot deel geur. Verse koriander bevat aldehyden, zoals (E)-2-decenal en (E)-2-dodecenal, die vrijkomen als je erop kauwt. Die geurmoleculen binden aan receptoren in je neus. Een van die receptoren, OR6A2, heeft een sterke voorkeur voor precies die aldehyden.\n\nMensen verschillen in de genen voor hun geurreceptoren. Een kleine variatie in het DNA kan ervoor zorgen dat een receptor gevoeliger reageert of anders werkt. Je hersenen koppelen die geurprikkel dan aan 'zeep' in plaats van aan 'fris en kruidig'. Voor de ene persoon smaakt dezelfde gehakte koriander dus naar citrus, voor de andere naar handzeep.\n\n## Een voorbeeld\n\nJe bestelt een bord pho of een Thaise curry in een restaurant in Antwerpen. Je tafelgenoot vist elk groen blaadje eruit en zegt dat het naar afwasmiddel smaakt, terwijl jij het lekker fris vindt. Jullie proeven hetzelfde gerecht, maar jullie neus maakt er een ander verhaal van.\n\n## Wat onderzoek zegt\n\nOnderzoekers van 23andMe publiceerden in 2012 in het vakblad Flavour een genoomstudie bij 14.604 deelnemers van Europese afkomst, met een herhaling bij 11.851 anderen. De sterkste link was de variant rs72921001 op chromosoom 11, in een cluster van acht geurreceptorgenen. De onderzoekers opperen dat OR6A2 de receptor kan zijn die de zeepgeur oppikt. Ze schatten wel dat gewone genetische varianten samen maar ongeveer 9 procent van het verschil verklaren. Uit de antwoorden bleek ook dat mensen met Afrikaanse, Latijns-Amerikaanse, Oost-Aziatische of Zuid-Aziatische roots minder vaak zeep proeven dan Europeanen.\n\n## Nuance of misverstand\n\nHet is dus geen 'koriandergen' dat je wel of niet hebt. De variant verhoogt de kans een beetje, maar opvoeding, gewenning en wat je als kind at spelen ook mee. Schattingen van hoeveel mensen koriander niet lusten, lopen sterk uiteen, van enkele procenten tot ongeveer een vijfde, afhankelijk van de groep en de vraagstelling. En wie koriander vies vindt, is niet kieskeurig: zijn neus werkt gewoon anders.\n\n## Wat je ermee doet\n\nLust je koriander niet, probeer dan peterselie, munt of Thaise basilicum als alternatief in recepten. Wil je er stilaan aan wennen, begin dan met kleine hoeveelheden in een gerecht met veel andere smaken. En vraag bij gasten gewoon even na: het voorkomt een bord vol uitgeviste blaadjes.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Zelfde blaadje, andere neus</text><text x=\"50\" y=\"60\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">koriander</text><path d=\"M50,110 C30,90 40,70 50,72 C60,70 70,90 50,110 Z\" fill=\"rgba(6,214,160,0.3)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><circle r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M70,90 L160,90\" dur=\"2.5s\" repeatCount=\"indefinite\"/></circle><circle r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M70,90 L160,90\" dur=\"2.5s\" begin=\"0.8s\" repeatCount=\"indefinite\"/></circle><circle r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M70,90 L160,90\" dur=\"2.5s\" begin=\"1.6s\" repeatCount=\"indefinite\"/></circle><text x=\"115\" y=\"76\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">aldehyden</text><rect x=\"165\" y=\"70\" width=\"70\" height=\"40\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"200\" y=\"95\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">OR6A2</text><text x=\"200\" y=\"126\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">geurreceptor</text><path d=\"M235,85 L280,60\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><path d=\"M276,55 L286,57 L280,65 Z\" fill=\"#ff6b9d\"/><path d=\"M235,95 L280,130\" stroke=\"#06d6a0\" stroke-width=\"2\"/><path d=\"M274,133 L285,134 L281,124 Z\" fill=\"#06d6a0\"/><text x=\"320\" y=\"58\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">zeep!</text><text x=\"320\" y=\"140\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">fris</text><text x=\"180\" y=\"180\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">DNA-variant bij een cluster geurgenen</text><text x=\"180\" y=\"198\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">verklaart maar een klein deel</text></svg>",
+   "quiz": {
+    "q": "Wat toonde de 23andMe-studie van 2012 over koriander?",
+    "o": [
+     "Eén gen bepaalt volledig of je koriander lust",
+     "Een variant bij geurreceptorgenen verhoogt de kans op een zeepsmaak",
+     "Koriander bevat echte zeepresten"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "23andMe-studie, Flavour (2012)",
+     "u": "https://flavourjournal.biomedcentral.com/articles/10.1186/2044-7248-1-22"
+    },
+    {
+     "t": "arXiv-versie van de studie",
+     "u": "https://arxiv.org/pdf/1209.2096"
+    },
+    {
+     "t": "American Chemical Society, ChemMatters",
+     "u": "https://www.acs.org/education/chemmatters/articles/cilantro-delicious-or-disgusting.html"
+    }
+   ],
+   "date": "2026-11-22T05:44:47Z"
   }
  ],
  "dives": [
