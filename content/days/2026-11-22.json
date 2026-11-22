@@ -1,6 +1,331 @@
 {
- "updated": "2026-11-22T05:41:02Z",
- "cards": [],
+ "updated": "2026-11-22T05:43:55Z",
+ "cards": [
+  {
+   "cat": "wetenschap",
+   "title": "Deze kwal van 4,5 millimeter kan terug naar af",
+   "body": "Turritopsis dohrnii, een kwalletje van zo'n 4,5 millimeter, kan bij stress of verwonding haar levenscyclus omkeren. In plaats van te sterven, verandert de volwassen kwal terug in een poliep, het jeugdstadium. Haar cellen schakelen daarbij om naar een ander celtype. Dat heet transdifferentiatie, en het kan meerdere keren na elkaar.",
+   "take": "Lees je 'onsterfelijke kwal', denk dan: ze kan verouderen omkeren, maar wordt nog altijd opgegeten of ziek.",
+   "deep": "## Hoe het werkt\n\nEen kwal begint meestal als larve die zich vastzet en uitgroeit tot een poliep, een klein zittend diertje. Die poliep laat jonge kwallen los, die volwassen worden, zich voortplanten en daarna sterven. Bij Turritopsis dohrnii kan dat laatste stuk anders lopen.\n\nKrijgt de volwassen kwal het moeilijk, door honger, temperatuurschokken of verwonding, dan zakt ze naar de bodem. Haar klokvorm krimpt tot een klompje cellen, dat zich vastzet en opnieuw uitgroeit tot een poliep. Daarbij veranderen gespecialiseerde cellen in een ander type cel: transdifferentiatie. Uit die nieuwe poliep komen later weer genetisch identieke kwallen.\n\n## Een voorbeeld\n\nStel je voor dat een vlinder bij gevaar terug een rups wordt en opnieuw begint. Dat is ongeveer wat dit kwalletje doet. Je zou het nauwelijks opmerken: met zo'n 4,5 millimeter is het ongeveer zo breed als de nagel van je pink. De soort werd in de jaren 1880 beschreven in de Middellandse Zee, maar komt intussen in veel zeeën voor, wellicht meegereisd in het ballastwater van schepen.\n\n## Wat onderzoek zegt\n\nBegin jaren 1990 merkten Italiaanse onderzoekers, onder wie Giorgio Bavestrello, dat deze kwallen in het labo terug poliepen werden. In 1996 beschreven Piraino en collega's in Biological Bulletin hoe de cellen daarbij van type veranderen. De Japanse onderzoeker Shin Kubota toonde later aan dat de omkering meerdere keren na elkaar kan gebeuren.\n\nIn 2022 publiceerde een team van de Universiteit van Oviedo, met Carlos López-Otín, in PNAS het genoom van T. dohrnii. Ze vergeleken het met dat van de verwante Turritopsis rubra, die zich als volwassen kwal niet kan verjongen, en zochten verschillen in ongeveer duizend genen die met veroudering te maken hebben.\n\n## Nuance of misverstand\n\nHet woord 'onsterfelijk' is overdreven. Volgens het Natural History Museum in Londen kan de kwal de regels buigen, maar niet altijd aan de dood ontsnappen. In zee wordt ze opgegeten of sterft ze aan ziekte lang voor ze kan omschakelen. Onderzoekers benadrukken ook dat het om een individu gaat dat steeds opnieuw begint, niet om een dier dat eeuwig volwassen blijft.\n\n## Wat je ermee doet\n\nDit kwalletje is geen bron voor wondermiddelen tegen veroudering, maar wel een model om te begrijpen hoe cellen hun identiteit kunnen wisselen. Dat is precies wat regeneratieve geneeskunde probeert na te bootsen. Lees je een kop over 'het geheim van eeuwig leven', kijk dan of het om celonderzoek in een labo gaat: meestal wel, en dat is al boeiend genoeg.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"18\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Levenscyclus met een achteruitknop</text><circle cx=\"80\" cy=\"120\" r=\"30\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"80\" y=\"124\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">poliep</text><circle cx=\"280\" cy=\"120\" r=\"30\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"280\" y=\"124\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">kwal</text><path d=\"M105,100 Q180,40 255,100\" stroke=\"#fff\" stroke-width=\"2\" fill=\"none\"/><path d=\"M255,100 L245,98 L250,90 Z\" fill=\"#fff\"/><text x=\"180\" y=\"56\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">groeien</text><path d=\"M255,140 Q180,200 105,140\" stroke=\"#ffd166\" stroke-width=\"2\" fill=\"none\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" from=\"24\" to=\"0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><path d=\"M105,140 L115,142 L110,150 Z\" fill=\"#ffd166\"/><text x=\"180\" y=\"196\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">stress: terug naar poliep</text><circle r=\"5\" fill=\"#06d6a0\"><animateMotion path=\"M105,100 Q180,40 255,100 L255,140 Q180,200 105,140 Z\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"124\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">cellen worden omgevormd</text></svg>",
+   "quiz": {
+    "q": "Wat doet Turritopsis dohrnii als ze in nood komt?",
+    "o": [
+     "Ze verandert terug in een poliep",
+     "Ze splitst zich in twee volwassen kwallen",
+     "Ze legt een ei en sterft"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Natural History Museum",
+     "u": "https://www.nhm.ac.uk/discover/immortal-jellyfish-secret-to-cheating-death.html"
+    },
+    {
+     "t": "American Museum of Natural History",
+     "u": "https://www.amnh.org/explore/news-blogs/research-posts/the-immortal-jellyfish"
+    },
+    {
+     "t": "PNAS (Pascual-Torner e.a., 2022)",
+     "u": "https://ui.adsabs.harvard.edu/abs/2022PNAS..11918763P"
+    }
+   ],
+   "date": "2026-11-22T05:43:55Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Praten bomen echt via schimmels? Het bewijs is mager",
+   "body": "Het 'wood wide web' klinkt prachtig: moederbomen die via schimmeldraden voedsel en waarschuwingen naar hun jongen sturen. Maar Justine Karst en collega's ontleedden in 2023 de studies en vonden weinig steun. Voor waarschuwingssignalen tussen bomen bestaat zelfs geen enkele gepubliceerde veldstudie. Toch citeren steeds meer artikels die claims zonder voldoende bewijs.",
+   "take": "Hoor je dat bomen 'praten', vraag dan: gemeten in een echt bos of in een pot in de serre?",
+   "deep": "## Hoe het werkt\n\nBijna alle bomen leven samen met mycorrhizaschimmels. De schimmeldraden kruipen rond of in de wortels, halen water en mineralen uit de bodem en krijgen in ruil suikers van de boom. Dat deel staat vast.\n\nHet populaire verhaal gaat een stap verder. Omdat één schimmel meerdere bomen kan raken, zouden bomen verbonden zijn in een gemeenschappelijk netwerk. Via dat netwerk zouden oude 'moederbomen' koolstof doorsluizen naar zaailingen in de schaduw en elkaar waarschuwen bij insectenvraat. Juist die stappen zijn veel moeilijker te bewijzen.\n\n## Een voorbeeld\n\nJe wandelt door het Zoniënwoud en leest op een infobord of in een bestseller dat de beuken rond je elkaar via de bodem voeden en verwittigen. Het klinkt plausibel en ontroerend. Maar om het te bewijzen, moet je aantonen dat een stof echt door de schimmel van boom A naar boom B gaat, en niet gewoon via de bodem of via wortels die elkaar raken.\n\n## Wat onderzoek zegt\n\nJustine Karst (University of Alberta), Melanie Jones en Jason Hoeksema publiceerden in 2023 in Nature Ecology & Evolution een kritische analyse van drie veelgehoorde claims. Eén: zulke netwerken zijn wijdverspreid in bossen. Daarvoor zijn te weinig bossen in kaart gebracht. Twee: zaailingen hebben er baat bij. In 26 studies vonden ze ongeveer evenveel aanwijzingen voor voordeel als voor nadeel, en meestal geen effect. Drie: volwassen bomen sturen waarschuwingen naar jonge bomen. Daarvoor vonden ze geen enkele gepubliceerde veldstudie, enkel een serre-experiment met zaailingen in potten.\n\nZe keken ook naar citaties. Het aandeel citaties met onvoldoende onderbouwde uitspraken steeg tot 25 procent voor de structuur van de netwerken en bijna 50 procent voor hun werking. Positieve resultaten werden bovendien vaker aangehaald dan neutrale.\n\n## Nuance of misverstand\n\nDit betekent niet dat schimmels onbelangrijk zijn. Karst benadrukt zelf dat mycorrhizaschimmels onmisbaar zijn voor de groei en overleving van bomen. Het debat is ook niet gesloten: andere onderzoekers argumenteerden in 2024 in Nature Plants dat zulke netwerken wel degelijk vaak voorkomen en een rol spelen. De conclusie is dus: interessant idee, maar het bewijs uit echte bossen is voorlopig dun.\n\n## Wat je ermee doet\n\nWees voorzichtig met mooie natuurverhalen die precies klinken zoals wij als mensen leven, met moeders, zorg en communicatie. Vraag bij elke claim waar en hoe het gemeten is. En wil je een bos helpen, bescherm dan gewoon de bodem: daar leven de schimmels die bomen echt nodig hebben.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Drie populaire claims getoetst</text><rect x=\"20\" y=\"40\" width=\"200\" height=\"36\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"120\" y=\"62\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">netwerken overal in bossen</text><g opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;1;1;0.2\" keyTimes=\"0;0.15;0.85;1\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/><rect x=\"236\" y=\"40\" width=\"104\" height=\"36\" rx=\"6\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"288\" y=\"62\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">te weinig data</text></g><rect x=\"20\" y=\"96\" width=\"200\" height=\"36\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"120\" y=\"118\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">steun voor zaailingen</text><g opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;1;1;0.2\" keyTimes=\"0;0.15;0.85;1\" dur=\"6s\" begin=\"1s\" repeatCount=\"indefinite\"/><rect x=\"236\" y=\"96\" width=\"104\" height=\"36\" rx=\"6\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"288\" y=\"118\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">neutraal/gemengd</text></g><rect x=\"20\" y=\"152\" width=\"200\" height=\"36\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"120\" y=\"174\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">moederboom waarschuwt</text><g opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;1;1;0.2\" keyTimes=\"0;0.15;0.85;1\" dur=\"6s\" begin=\"2s\" repeatCount=\"indefinite\"/><rect x=\"236\" y=\"152\" width=\"104\" height=\"36\" rx=\"6\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"288\" y=\"174\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">geen veldstudie</text></g><text x=\"180\" y=\"210\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Karst, Jones &amp; Hoeksema, 2023</text></svg>",
+   "quiz": {
+    "q": "Wat vonden Karst en collega's over waarschuwingssignalen tussen bomen via schimmels?",
+    "o": [
+     "Ze zijn in tientallen bossen gemeten",
+     "Ze werken alleen bij naaldbomen",
+     "Er bestaat geen enkele gepubliceerde veldstudie"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "University of Alberta",
+     "u": "https://www.ualberta.ca/en/folio/2023/02/do-trees-really-talk-to-each-other-through-underground-fungal-networks.html"
+    },
+    {
+     "t": "University of Mississippi",
+     "u": "https://news.olemiss.edu/?p=114631"
+    },
+    {
+     "t": "Scimex (persbericht Nature)",
+     "u": "https://www.scimex.org/newsfeed/the-last-of-fungal-networks"
+    }
+   ],
+   "date": "2026-11-22T05:43:55Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Dat stopcontact kijkt je aan, en dat is normaal",
+   "body": "Twee gaatjes en een gleuf: je ziet meteen een gezicht. Dat heet pareidolie. In een Chinese studie uit 2014 zagen proefpersonen in 34 procent van pure ruisbeelden een gezicht, en hun gezichtsgebied in de hersenen reageerde mee. Onderzoek uit 2020 toont dat het brein zulke 'gezichten' na ongeveer 160 milliseconden al verwerkt.",
+   "take": "Zie je een gezicht in een wolk of stopcontact? Dan werkt je gezichtsdetector precies zoals hij hoort.",
+   "deep": "## Hoe het werkt\n\nJe hersenen hebben gespecialiseerde gebieden voor gezichten, met als bekendste het fusiforme gezichtsgebied aan de onderkant van je slaapkwab. Die detector werkt snel en ruw: twee vlekken naast elkaar met iets eronder volstaan om alarm te slaan.\n\nPas daarna kijken andere gebieden beter en besluiten: dit is een stopcontact, geen persoon. Toch blijft het gezicht vaak hangen. Je weet dat het een voorwerp is en ziet tegelijk een uitdrukking, soms zelfs een emotie zoals verbazing of boosheid.\n\n## Een voorbeeld\n\nEen Vlaamse rijhuisgevel met twee ramen en een voordeur, de voorkant van een auto, een paprika die je doorsnijdt, de schuimkraag op je koffie: overal duiken gezichtjes op. Op sociale media bestaan er hele verzamelingen van. Wie ooit een 'boos' kijkende Volkswagen zag, heeft pareidolie aan het werk gezien.\n\n## Wat onderzoek zegt\n\nJiangang Liu en collega's lieten in 2014 (Cortex) twintig proefpersonen naar pure ruis kijken, met de boodschap dat de helft van de beelden een gezicht bevatte. Ze rapporteerden een gezicht in 34 procent van de beelden, en het rechter fusiforme gezichtsgebied reageerde specifiek wanneer ze er een 'zagen'.\n\nSusan Wardle, Jessica Taubert en collega's toonden in 2020 in Nature Communications 96 foto's: echte gezichten, voorwerpen met een illusoir gezicht en gelijkaardige voorwerpen zonder. Hersenmetingen lieten zien dat illusoire gezichten rond 160 milliseconden ongeveer zoals echte gezichten verwerkt worden, waarna het brein ze snel als gewone voorwerpen behandelt. Taubert vond in 2017 ook dat makaken langer kijken naar voorwerpen waarin mensen een gezicht zien. Het fenomeen is dus niet uniek voor de mens.\n\n## Nuance of misverstand\n\nPareidolie is geen teken van een overactieve verbeelding of van psychische problemen. Het is een normaal bijproduct van een systeem dat liever een vals alarm geeft dan een echt gezicht mist. Die evolutionaire verklaring is wel een plausibele hypothese, geen bewezen feit. De mate verschilt bovendien sterk tussen mensen: in een eerdere studie varieerde het aandeel 'gezicht'-antwoorden van zowat 8 tot meer dan 50 procent.\n\n## Wat je ermee doet\n\nGebruik het bewust: ontwerpers geven producten zoals auto's en apparaten soms expres een vriendelijk 'gezicht'. Bij een logo of verpakking loont het om te checken of er geen onbedoeld boos gezichtje in zit. En zie je de Maagd Maria in je toast, dan weet je nu waarom.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"18\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Je brein ziet eerst een gezicht</text><rect x=\"40\" y=\"40\" width=\"100\" height=\"100\" rx=\"14\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"64\" y=\"70\" width=\"8\" height=\"20\" rx=\"2\" fill=\"#fff\"/><rect x=\"108\" y=\"70\" width=\"8\" height=\"20\" rx=\"2\" fill=\"#fff\"/><path d=\"M75,112 Q90,124 105,112\" stroke=\"#fff\" stroke-width=\"2\" fill=\"none\"><animate attributeName=\"stroke\" values=\"#fff;#ffd166;#fff\" dur=\"4s\" repeatCount=\"indefinite\"/></path><line x1=\"170\" y1=\"160\" x2=\"340\" y2=\"160\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"170\" y=\"180\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">0 ms</text><text x=\"250\" y=\"180\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">~160 ms</text><text x=\"330\" y=\"180\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">later</text><circle cx=\"170\" cy=\"160\" r=\"6\" fill=\"#06d6a0\"><animate attributeName=\"cx\" values=\"170;330\" dur=\"5s\" repeatCount=\"indefinite\"/></circle><g opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1;0;0\" keyTimes=\"0;0.4;0.5;0.7;0.75;1\" dur=\"5s\" repeatCount=\"indefinite\"/><text x=\"250\" y=\"120\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">gezicht!</text></g><g opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1\" keyTimes=\"0;0.8;0.85;1\" dur=\"5s\" repeatCount=\"indefinite\"/><text x=\"300\" y=\"140\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">o nee, stopcontact</text></g><text x=\"90\" y=\"165\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">stopcontact</text><text x=\"180\" y=\"210\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">fusiforme gezichtsgebied reageert mee</text></svg>",
+   "quiz": {
+    "q": "Hoe vaak zagen proefpersonen in de studie van Liu (2014) een gezicht in pure ruis?",
+    "o": [
+     "In geen enkel beeld",
+     "In ongeveer een derde van de beelden",
+     "In bijna alle beelden"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Liu e.a. 2014, Cortex (PMC)",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3980010"
+    },
+    {
+     "t": "Wardle e.a. 2020, Nature Communications (PMC)",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7481186"
+    },
+    {
+     "t": "Association for Psychological Science",
+     "u": "https://www.psychologicalscience.org/publications/observer/obsonline/a-closer-look-at-the-face-in-your-toast.html"
+    }
+   ],
+   "date": "2026-11-22T05:43:55Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "Een plan stilt het gezeur van onafgewerkte taken",
+   "body": "Onafgewerkte taken blijven in je hoofd rondspoken. Psychologen E.J. Masicampo en Roy Baumeister toonden in 2011 dat het niet nodig is om ze af te werken om die stem te laten zwijgen. Een concreet plan opschrijven volstond: de opdringerige gedachten verdwenen en proefpersonen presteerden weer beter op een andere taak.",
+   "take": "Blijft een taak je storen? Schrijf meteen op wat je eerst doet, wanneer en waar. Ga dan verder met je werk.",
+   "deep": "## Hoe het werkt\n\nEen doel dat nog niet bereikt is, houdt je brein alert. Het blijft gedachten erover naar boven halen, zodat je het niet vergeet. Dat staat bekend als het Zeigarnik-effect. Handig, maar het kost aandacht die je eigenlijk voor iets anders nodig hebt.\n\nLang dacht men dat dit pas stopt wanneer de taak af is. Masicampo en Baumeister vermoedden dat het onbewuste deel van je geest vooral zekerheid wil dat er iets gebeurt. Een plan met concrete stappen zou dat signaal al kunnen geven, zodat je hoofd de taak loslaat tot het moment van uitvoeren.\n\n## Een voorbeeld\n\nJe zit aan je bureau, maar in je achterhoofd zeurt de belastingaangifte via MyMinfin, de verjaardag van je zus en een mail die je nog moet sturen. Je leest drie keer dezelfde alinea. Volgens dit onderzoek helpt het om niet alles meteen te doen, maar per taak één regel te noteren: 'Zaterdag 10 uur aangifte invullen aan de keukentafel.'\n\n## Wat onderzoek zegt\n\nE.J. Masicampo en Roy Baumeister publiceerden hun reeks experimenten in 2011 in het Journal of Personality and Social Psychology onder de titel 'Consider it done!'. Proefpersonen met een onafgewerkt doel hadden tijdens een ongerelateerde leestaak meer opdringerige gedachten, woorden die met het doel te maken hadden lagen sneller in hun geheugen klaar en ze presteerden zwakker op een anagramtaak.\n\nWie een specifiek plan opschreef voor dat doel, vertoonde die effecten niet meer. Hoe ernstiger het plan, hoe sterker het effect. En wie zijn plan later echt uitvoerde, had geen extra opdringerige gedachten meer. Veranderingen in emoties bleken niet nodig om het effect te verklaren.\n\n## Nuance of misverstand\n\nEen plan is geen vrijbrief om uit te stellen. Het effect hing samen met hoe ernstig het plan was: een vaag 'ik doe het wel eens' werkt niet. Het onderzoek ging bovendien over één of enkele doelen in een labo; wie een lijst van vijftig losse taken heeft, kan niet verwachten dat alles met één briefje stil wordt. Dit is ook iets anders dan taken opschrijven voor het slapengaan: hier gaat het om concentratie overdag.\n\n## Wat je ermee doet\n\nMerk je dat je gedachten afdwalen naar iets wat nog moet gebeuren, stop dan even. Noteer de eerstvolgende concrete stap, met een dag, uur en plaats, in je agenda of op een briefje. Ga daarna terug naar wat je aan het doen was. En hou je aan de afspraak met jezelf, want dat bleek net de reden dat het werkt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"18\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Onaf werk zeurt, tot er een plan is</text><rect x=\"20\" y=\"60\" width=\"110\" height=\"44\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"75\" y=\"87\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">open taak</text><rect x=\"230\" y=\"60\" width=\"110\" height=\"44\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"285\" y=\"80\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">plan: wat,</text><text x=\"285\" y=\"96\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">wanneer, waar</text><path d=\"M132,82 L226,82\" stroke=\"#fff\" stroke-width=\"2\" fill=\"none\"/><path d=\"M226,82 L219,85 L219,79 Z\" fill=\"#fff\"/><text x=\"180\" y=\"74\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">opschrijven</text><circle cx=\"75\" cy=\"150\" r=\"10\" fill=\"#ff6b9d\"><animate attributeName=\"r\" values=\"8;16;8\" dur=\"2s\" repeatCount=\"indefinite\"/></circle><text x=\"75\" y=\"186\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">opdringerige gedachten</text><circle cx=\"285\" cy=\"150\" r=\"8\" fill=\"#06d6a0\"/><text x=\"285\" y=\"186\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">hoofd weer vrij</text></svg>",
+   "quiz": {
+    "q": "Wat liet volgens Masicampo en Baumeister de opdringerige gedachten over een onafgewerkte taak verdwijnen?",
+    "o": [
+     "De taak volledig afwerken was de enige manier",
+     "Er een specifiek plan voor opschrijven",
+     "Er een uur niet aan denken"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "PubMed: Masicampo & Baumeister 2011",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/21688924/"
+    },
+    {
+     "t": "Wake Forest University",
+     "u": "https://psychology.wfu.edu/e-j-masicampo/"
+    },
+    {
+     "t": "Psychology Today",
+     "u": "https://www.psychologytoday.com/us/blog/tech-support/201310/why-your-to-do-list-drives-you-crazy"
+    }
+   ],
+   "date": "2026-11-22T05:43:55Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Esperanto: elke woordsoort draagt zijn eigen uitgang",
+   "body": "In 1887 publiceerde oogarts Ludwik Zamenhof onder de schuilnaam 'Doktoro Esperanto' een taal met slechts zestien grammaticaregels. Elk woord verraadt zijn rol aan de uitgang: -o voor zelfstandige naamwoorden, -a voor bijvoeglijke, -e voor bijwoorden. Werkwoorden eindigen op -as (heden), -is (verleden) of -os (toekomst), voor iedereen hetzelfde.",
+   "take": "Herken je bij een onbekend Esperantowoord de uitgang, dan weet je al of het een ding, eigenschap of handeling is.",
+   "deep": "## Hoe het werkt\n\nEsperanto bouwt woorden uit een stam en vaste uitgangen. Neem de stam bon-, 'goed'. Bono is 'het goede', bona betekent 'goed' als bijvoeglijk naamwoord en bone is het bijwoord. Een werkwoord in de onbepaalde wijs eindigt op -i.\n\nWerkwoorden veranderen niet per persoon. Mi estas, vi estas, li estas: ik ben, jij bent, hij is. De tijd zit in de uitgang: -as voor heden, -is voor verleden, -os voor toekomst. Een meervoud krijgt -j, een lijdend voorwerp krijgt -n. Daardoor kan de woordvolgorde vrij zijn: het lijdend voorwerp herken je aan de -n, niet aan de plaats in de zin. De klemtoon ligt altijd op de voorlaatste lettergreep.\n\n## Een voorbeeld\n\nLa hundoj vidas la katon: de honden zien de kat. Hund- krijgt -o (naamwoord) en -j (meervoud); kat- krijgt -o en -n, want de kat is het lijdend voorwerp. Zeg je La katon vidas la hundoj, dan blijft de betekenis dezelfde. Vergelijk dat met het Nederlands, waar 'ik ben, ik was, ik zal zijn' drie totaal verschillende vormen gebruikt, en 'loopte' fout is.\n\n## Wat onderzoek zegt\n\nLudwik Lejzer Zamenhof werd geboren in Białystok, toen in het Russische Rijk, en werkte als oogarts. Zijn eerste boek, bekend als Unua Libro, verscheen in juli 1887 in het Russisch in Warschau, onder de schuilnaam Doktoro Esperanto: 'een dokter die hoopt'. Het bevatte een essay over het taalprobleem, een grammatica in zestien basisregels en een lijst van ongeveer negenhonderd stammen, vooral uit Romaanse en Germaanse talen. Veel daarvan nam hij in 1905 over in het Fundamento de Esperanto, dat nog altijd de basis van de taal vormt.\n\n## Nuance of misverstand\n\n'Zestien regels en klaar' is iets te mooi. Taalkundigen merken op dat zelfs eenvoudige leerboeken meer uitleg nodig hebben dan die zestien regels, bijvoorbeeld over voorvoegsels, achtervoegsels en woordvorming. En regelmatig betekent niet neutraal: de woordenschat is duidelijk Europees, wat het voor sprekers van bijvoorbeeld Chinees minder vanzelfsprekend maakt.\n\n## Wat je ermee doet\n\nWil je zien hoe een taal werkt zonder uitzonderingen, probeer dan een paar zinnen Esperanto. Het helpt ook om grammatica in andere talen beter te begrijpen: je ziet in één oogopslag wat een lijdend voorwerp of een bijwoord doet. Gratis cursussen zoals die van Lernu of Duolingo maken het makkelijk om te beginnen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Eén stam, vaste uitgangen</text><rect x=\"132\" y=\"36\" width=\"96\" height=\"34\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"58\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">bon- (goed)</text><g opacity=\"0.25\"><animate attributeName=\"opacity\" values=\"0.25;1;0.25\" dur=\"5s\" begin=\"0s\" repeatCount=\"indefinite\"/><rect x=\"20\" y=\"100\" width=\"96\" height=\"30\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"68\" y=\"120\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">bon-o: het goede</text></g><g opacity=\"0.25\"><animate attributeName=\"opacity\" values=\"0.25;1;0.25\" dur=\"5s\" begin=\"1s\" repeatCount=\"indefinite\"/><rect x=\"132\" y=\"100\" width=\"96\" height=\"30\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"180\" y=\"120\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">bon-a: goed</text></g><g opacity=\"0.25\"><animate attributeName=\"opacity\" values=\"0.25;1;0.25\" dur=\"5s\" begin=\"2s\" repeatCount=\"indefinite\"/><rect x=\"244\" y=\"100\" width=\"96\" height=\"30\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"292\" y=\"120\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">bon-e: goed (bw)</text></g><g opacity=\"0.25\"><animate attributeName=\"opacity\" values=\"0.25;1;0.25\" dur=\"5s\" begin=\"3s\" repeatCount=\"indefinite\"/><rect x=\"20\" y=\"160\" width=\"96\" height=\"30\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"68\" y=\"180\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">est-as: is</text></g><g opacity=\"0.25\"><animate attributeName=\"opacity\" values=\"0.25;1;0.25\" dur=\"5s\" begin=\"3.6s\" repeatCount=\"indefinite\"/><rect x=\"132\" y=\"160\" width=\"96\" height=\"30\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"180\" y=\"180\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">est-is: was</text></g><g opacity=\"0.25\"><animate attributeName=\"opacity\" values=\"0.25;1;0.25\" dur=\"5s\" begin=\"4.2s\" repeatCount=\"indefinite\"/><rect x=\"244\" y=\"160\" width=\"96\" height=\"30\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"292\" y=\"180\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">est-os: zal zijn</text></g><text x=\"180\" y=\"92\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">naamwoord · bijv. nw. · bijwoord</text><text x=\"180\" y=\"152\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">heden · verleden · toekomst</text><text x=\"180\" y=\"212\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">meervoud -j · lijdend voorwerp -n</text></svg>",
+   "quiz": {
+    "q": "Wat betekent de uitgang -n in een Esperantozin zoals 'la hundoj vidas la katon'?",
+    "o": [
+     "Het woord is meervoud",
+     "Het werkwoord staat in de toekomst",
+     "Het woord is het lijdend voorwerp"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "UC San Diego: Esperanto grammar",
+     "u": "https://pages.ucsd.edu/~dkjordan/eo/colloq/colloq040.html"
+    },
+    {
+     "t": "UC Santa Cruz: The Sixteen Rules",
+     "u": "https://babel.ucsc.edu/~hank/105/Esperanto16.pdf"
+    },
+    {
+     "t": "Britannica: Esperanto",
+     "u": "https://www.britannica.com/topic/Esperanto"
+    }
+   ],
+   "date": "2026-11-22T05:43:55Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Europa's eerste reizigerstrein op het vasteland reed naar Mechelen",
+   "body": "Op 5 mei 1835 reed tussen het Brusselse station Groendreef en Mechelen de eerste stoomtrein voor reizigers van het Europese vasteland. Drie locomotieven, de Pijl, de Stephenson en de Olifant, trokken zowat negenhonderd genodigden in dertig rijtuigen. De rit van ongeveer 22 kilometer duurde zo'n drie kwartier.",
+   "take": "Sta je in Mechelen op het perron, besef dan: hier stopte in 1835 de eerste reizigerstrein van het vasteland.",
+   "deep": "## Hoe het werkt\n\nBelgië was in 1830 net onafhankelijk geworden. De jonge staat besliste zelf een spoorwegnet aan te leggen, met Mechelen als knooppunt.\n\nHet eerste stuk, Brussel–Mechelen, werd vanaf juni 1834 gebouwd. De locomotieven kwamen uit Engeland, van het bedrijf van George Stephenson, de pionier van de stoomlocomotief. Een stoomketel verhit water, de stoom duwt zuigers heen en weer en die drijven de wielen aan.\n\n## Een voorbeeld\n\nOp 5 mei 1835 verzamelden duizenden Brusselaars zich aan de Groendreef om de vertrekkende treinen te zien, en ook de nog nieuwe koning Leopold I en George Stephenson zelf. De Pijl, de Stephenson en de Olifant vertrokken naar Mechelen. Op de terugweg trok de Olifant volgens de overleveringen alle dertig rijtuigen alleen.\n\n## Wat onderzoek zegt\n\nDe Canon van Vlaanderen beschrijft de rit als de eerste treinrit op het Europese vasteland en vermeldt zo'n negenhonderd gasten verspreid over dertig rijtuigen. De trein deed volgens die bron ongeveer drie kwartier over het traject, iets sneller dan gepland. De afstand wordt meestal op 22 tot 23 kilometer geschat. De lijn was het begin van een staatsnet dat Mechelen met Antwerpen, Gent, Luik en later de grens zou verbinden.\n\n## Nuance of misverstand\n\nBelgië had niet de eerste spoorlijn ter wereld: in Groot-Brittannië reden al enkele jaren treinen. Het gaat om de eerste stoomtrein voor reizigers op het vasteland. Over details als de exacte afstand en het aantal passagiers verschillen bronnen een beetje, en de locomotieven worden ook met hun Franse namen vermeld: Flèche, Éléphant en Stephenson.\n\n## Wat je ermee doet\n\nNeem eens de trein tussen Brussel en Mechelen en denk eraan dat je een van de oudste trajecten van het continent rijdt. Het Spoorwegmuseum Train World in Schaarbeek toont de geschiedenis van het Belgische spoor. Het verhaal van die eerste rit is bovendien opgenomen in de Canon van Vlaanderen, de reeks van zestig vensters op de Vlaamse geschiedenis die ook in scholen gebruikt wordt. En wie in een quiz de vraag krijgt waar de eerste trein van het Europese vasteland reed, weet nu het antwoord.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">5 mei 1835: Brussel → Mechelen</text><line x1=\"40\" y1=\"130\" x2=\"320\" y2=\"130\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"40\" y1=\"138\" x2=\"320\" y2=\"138\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"4 6\"/><circle cx=\"40\" cy=\"134\" r=\"7\" fill=\"#ffd166\"/><circle cx=\"320\" cy=\"134\" r=\"7\" fill=\"#ffd166\"/><text x=\"40\" y=\"166\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Groendreef</text><text x=\"320\" y=\"166\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Mechelen</text><g><animateTransform attributeName=\"transform\" type=\"translate\" values=\"0,0;250,0\" dur=\"7s\" repeatCount=\"indefinite\"/><rect x=\"30\" y=\"108\" width=\"34\" height=\"18\" rx=\"3\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><rect x=\"50\" y=\"96\" width=\"8\" height=\"12\" fill=\"#06d6a0\"/><rect x=\"10\" y=\"112\" width=\"18\" height=\"14\" rx=\"2\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/></g><text x=\"180\" y=\"70\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">ca. 22 km · ongeveer 45 minuten</text><text x=\"180\" y=\"196\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Pijl, Stephenson en Olifant</text></svg>",
+   "quiz": {
+    "q": "Tussen welke plaatsen reed op 5 mei 1835 de eerste reizigerstrein van het Europese vasteland?",
+    "o": [
+     "Brussel en Mechelen",
+     "Antwerpen en Gent",
+     "Parijs en Saint-Germain"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Canon van Vlaanderen",
+     "u": "https://www.canonvanvlaanderen.be/en/events/the-first-train-journey"
+    },
+    {
+     "t": "NMBS: geschiedenis",
+     "u": "https://www.belgiantrain.be/en/about-sncb/100years/history"
+    },
+    {
+     "t": "VRT NWS",
+     "u": "https://www.vrt.be/vrtnws/nl/2024/05/23/big-city-stond-het-eerste-treinstation-van-het-europese-contine/"
+    }
+   ],
+   "date": "2026-11-22T05:43:55Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Ook in je aders is je bloed rood",
+   "body": "Bloed in je aders is donkerrood, nooit blauw. Dat aders toch blauw lijken, komt door licht en huid. Rood licht dringt dieper door de huid en wordt in de ader door het bloed opgeslorpt. Blauw licht kaatst grotendeels al eerder terug. Boven een ader komt daardoor minder rood terug dan ernaast.",
+   "take": "Hoor je iemand zeggen dat zuurstofarm bloed blauw is? Wijs dan op een bloedafname: het buisje is donkerrood.",
+   "deep": "## Hoe het werkt\n\nWit licht bevat alle kleuren. Valt het op je huid, dan wordt een deel teruggekaatst en dringt een deel binnen. Blauw licht wordt sterk verstrooid en geraakt maar een klein stukje diep. Rood licht reist veel verder door het weefsel.\n\nLigt er een ader een eind onder het oppervlak, dan bereikt vooral rood licht het bloed. Bloed slorpt dat rode licht voor een deel op, zodat er boven de ader minder rood terugkomt dan op de huid ernaast. Het blauwe licht kaatst er ongeveer even sterk terug als elders. Je ogen vergelijken de ader met de huid rond, en dat relatieve tekort aan rood zie je als blauwachtig.\n\n## Een voorbeeld\n\nKijk naar de binnenkant van je pols: je ziet blauwgroene lijnen. Laat je bloed afnemen bij de huisarts of het Rode Kruis, dan vult het buisje zich met donkerrood bloed uit diezelfde ader. Er is onderweg niets veranderd aan de kleur, alleen aan de manier waarop het licht je ogen bereikt.\n\n## Wat onderzoek zegt\n\nAlwin Kienle en collega's publiceerden in 1996 in Applied Optics het artikel 'Why do veins appear blue? A new look at an old question'. Ze toonden dat de kleur afhangt van vier dingen: hoe de huid licht verstrooit en opslorpt, hoeveel zuurstof het bloed bevat, hoe dik en hoe diep het bloedvat ligt, en hoe ons zicht kleuren interpreteert. Volgens hun model en metingen komt er boven een ader niet echt veel blauw licht terug, wel minder rood dan ernaast.\n\nProeven van onderzoeker Lilge met buisjes bloed in een huidachtige vloeistof lieten zien dat een bloedvat pas blauw oogt als het minstens ongeveer een halve millimeter diep ligt. Een rapport van de Universiteit van Waterloo uit 2019 noemt de verklaring algemeen aanvaard, al zijn de verstrooiende structuren in de huid nog niet volledig begrepen.\n\n## Nuance of misverstand\n\nHet hardnekkige idee dat zuurstofarm bloed blauw is, klopt niet. Zuurstofarm bloed is donkerder rood dan zuurstofrijk bloed, maar het blijft rood. Ook schoolboeken die aders blauw en slagaders rood tekenen, dragen bij aan het misverstand: dat is een kleurcode, geen kleurweergave. Blauw bloed bestaat wel, maar bij octopussen, niet bij mensen.\n\n## Wat je ermee doet\n\nLeg het bij een volgende bloedafname uit aan je kinderen. Wie als verpleegkundige een ader zoekt, weet ook dat diepere aders minder zichtbaar zijn: soms helpt een lamp of een stuwband. En onthoud de algemene les: wat je ziet, is niet altijd de echte kleur, maar wat het licht ervan maakt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"18\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Rood dringt dieper door dan blauw</text><rect x=\"20\" y=\"70\" width=\"320\" height=\"130\" fill=\"rgba(255,255,255,0.14)\"/><text x=\"340\" y=\"90\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">huid</text><circle cx=\"250\" cy=\"150\" r=\"16\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"250\" y=\"188\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ader</text><path d=\"M80,30 L80,95\" stroke=\"#06d6a0\" stroke-width=\"3\" fill=\"none\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" from=\"24\" to=\"0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><path d=\"M80,95 L100,30\" stroke=\"#06d6a0\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\"/><text x=\"80\" y=\"115\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">blauw: kaatst</text><text x=\"80\" y=\"129\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">vroeg terug</text><path d=\"M200,30 L240,135\" stroke=\"#ff6b9d\" stroke-width=\"3\" fill=\"none\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" from=\"24\" to=\"0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><text x=\"160\" y=\"70\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">rood: bereikt ader</text><text x=\"160\" y=\"84\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">en wordt opgeslorpt</text><text x=\"180\" y=\"212\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">minder rood terug boven de ader</text></svg>",
+   "quiz": {
+    "q": "Waarom lijken aders blauw?",
+    "o": [
+     "Zuurstofarm bloed is blauw",
+     "Boven een ader komt minder rood licht terug dan ernaast",
+     "Aderwanden bevatten een blauwe kleurstof"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Kienle e.a. 1996, Applied Optics",
+     "u": "https://opg.optica.org/abstract.cfm?URI=ao-35-7-1151"
+    },
+    {
+     "t": "University of Waterloo",
+     "u": "https://uwaterloo.ca/computer-science/news/computer-science-researchers-help-answer-age-old-medical"
+    },
+    {
+     "t": "Discover Magazine",
+     "u": "https://www.discovermagazine.com/the-skinny-on-blue-blood-39940"
+    }
+   ],
+   "date": "2026-11-22T05:43:55Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Je spamfilter leert van elke mail die je wegklikt",
+   "body": "In 2002 beschreef programmeur Paul Graham in 'A Plan for Spam' een filter dat zelf leert. Elk woord krijgt een kans dat het in spam voorkomt, berekend uit je eigen mails. De vijftien meest uitgesproken woorden bepalen samen het oordeel. Graham miste zo minder dan 5 op de 1000 spammails, zonder één echte mail te blokkeren.",
+   "take": "Markeer spam altijd als spam en haal echte mails uit je spammap: zo geef je je filter nieuwe lesstof.",
+   "deep": "## Hoe het werkt\n\nEen bayesiaans filter begint met twee stapels: mails die jij als spam aanduidde en gewone mails. Het telt hoe vaak elk woord in elke stapel voorkomt. Komt 'gratis' vooral in spam voor, dan krijgt het een hoge spamkans, zoals 0,97. Een woord als 'vergadering' krijgt een lage kans.\n\nKomt er een nieuwe mail binnen, dan zoekt het filter de woorden waarvan de kans het verst van neutraal ligt, dus het verst van 0,5. Graham gebruikte de vijftien meest opvallende. Met de regel van Bayes worden die kansen gecombineerd tot één totale kans dat de mail spam is. Boven een drempel gaat de mail naar de spammap. Elke keer dat jij iets als spam markeert, worden de tellingen bijgewerkt.\n\n## Een voorbeeld\n\nJe ontvangt een mail met 'winnaar', 'gratis' en 'klik hier'. Al die woorden staan hoog op de spamlijst, dus de totale kans schiet omhoog. Een mail van je school over de 'oudercontactavond' en de 'factuur' voor de schooluitstap bevat woorden die bijna nooit in jouw spam staan, en komt gewoon in je inbox. Omdat het filter van jouw eigen mail leert, is het voor elke gebruiker een beetje anders.\n\n## Wat onderzoek zegt\n\nPaul Graham publiceerde 'A Plan for Spam' in augustus 2002 op zijn website. Hij schreef dat hij met een licht aangepast bayesiaans filter minder dan 5 op de 1000 spammails doorliet, met nul valse positieven, al ging het om tests op zijn eigen verzameling mail. Projecten zoals SpamBayes in de Python-gemeenschap gingen er meteen mee aan de slag, en later zei Graham dat zelfs het eenvoudigste statistische filter toen ongeveer 99 procent van de spam ving.\n\n## Nuance of misverstand\n\nHet heet 'naïef' bayesiaans omdat het filter doet alsof elk woord los staat van de andere, wat niet klopt. Toch werkt het verrassend goed. Spammers reageerden met trucs zoals woorden in afbeeldingen of verkeerde spelling. Grote mailbedrijven gebruiken vandaag veel meer signalen dan woorden alleen, zoals afzenderreputatie en technische controles, maar het lerende principe is gebleven.\n\n## Wat je ermee doet\n\nKlik niet zomaar 'verwijderen' bij spam, maar gebruik de knop 'spam melden'. Kijk af en toe in je spammap of er geen echte mail tussen zit en markeer die als 'geen spam'. Zo verbeteren de tellingen waarop het filter beslist.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"18\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Woorden als bewijsstukken</text><rect x=\"20\" y=\"40\" width=\"130\" height=\"150\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"30\" y=\"64\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">gratis  0,97</text><text x=\"30\" y=\"88\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">winnaar  0,95</text><text x=\"30\" y=\"112\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">vergadering  0,03</text><text x=\"30\" y=\"136\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">factuur  0,10</text><text x=\"30\" y=\"160\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">de  0,50</text><text x=\"30\" y=\"182\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">(neutraal: genegeerd)</text><path d=\"M155,115 L205,115\" stroke=\"#fff\" stroke-width=\"2\" fill=\"none\"/><path d=\"M205,115 L198,118 L198,112 Z\" fill=\"#fff\"/><circle cx=\"265\" cy=\"115\" r=\"44\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"265\" y1=\"115\" x2=\"265\" y2=\"80\" stroke=\"#ffd166\" stroke-width=\"3\"><animateTransform attributeName=\"transform\" type=\"rotate\" values=\"-60 265 115;60 265 115;-60 265 115\" dur=\"5s\" repeatCount=\"indefinite\"/></line><text x=\"225\" y=\"175\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">geen spam</text><text x=\"305\" y=\"175\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">spam</text><text x=\"265\" y=\"210\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">15 opvallendste woorden</text></svg>",
+   "quiz": {
+    "q": "Op welke woorden baseerde het filter van Paul Graham zijn oordeel?",
+    "o": [
+     "De vijftien woorden met de meest uitgesproken spamkans",
+     "Alleen de woorden in de onderwerpregel",
+     "Een vaste lijst verboden woorden"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Paul Graham: A Plan for Spam",
+     "u": "https://www.paulgraham.com/spam.html"
+    },
+    {
+     "t": "Paul Graham: Better Bayesian Filtering",
+     "u": "https://paulgraham.com/better.html"
+    },
+    {
+     "t": "Paul Graham: So Far, So Good",
+     "u": "https://paulgraham.com/sofar.html"
+    }
+   ],
+   "date": "2026-11-22T05:43:55Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Het eerste indexfonds werd 'Bogle's dwaasheid' genoemd",
+   "body": "Op 31 augustus 1976 bood Vanguard van John Bogle het eerste indexfonds voor particulieren aan. Het volgde gewoon de S&P 500, zonder dure fondsbeheerders die aandelen kiezen. Bogle hoopte 150 miljoen dollar op te halen, het werd 11,3 miljoen. Spotters spraken van 'Bogle's folly'. Vandaag heet het Vanguard 500 Index Fund.",
+   "take": "Vergelijk bij een fonds of ETF altijd: volgt het een brede index, en wat betaal je voor het beheer?",
+   "deep": "## Hoe het werkt\n\nEen index zoals de S&P 500 is een lijst van de 500 grootste Amerikaanse beursbedrijven, gewogen naar hun beurswaarde. Een indexfonds koopt al die aandelen in dezelfde verhouding. Er is geen beheerder die probeert de winnaars te kiezen, dus geen dure analisten en weinig handel.\n\nDe logica erachter is eenvoudig rekenwerk. Alle beleggers samen bezitten de hele markt, dus gemiddeld halen ze het marktrendement. Na kosten haalt de gemiddelde actieve belegger daardoor minder dan de markt. Wie de markt goedkoop koopt, eindigt dus vanzelf boven dat gemiddelde. Tegelijk spreid je over honderden bedrijven, zodat één faillissement weinig schade doet.\n\n## Een voorbeeld\n\nEen Vlaamse belegger die vandaag een ETF op een brede wereldindex koopt, gebruikt hetzelfde idee: één aankoop, duizenden bedrijven. In 1976 was dat revolutionair. Bogles fonds had in het begin zelfs te weinig geld om alle 500 aandelen te kopen: het bezat er volgens Bogle ongeveer 280. De eerste zes maanden werd het ook via makelaars verkocht, met instapkosten.\n\n## Wat onderzoek zegt\n\nIn 1974 schreef Nobelprijswinnaar Paul Samuelson in het eerste nummer van The Journal of Portfolio Management een essay waarin hij vroeg dat iemand een portefeuille zou opzetten die gewoon de S&P 500 volgt. Bogle, die datzelfde jaar Vanguard oprichtte, nam de uitdaging aan. Het fonds heette eerst First Index Investment Trust. Volgens Morningstar mikte Bogle op 150 miljoen dollar en haalde de introductie slechts 11,3 miljoen op; Bogle noemde het zelf een totale mislukking. Vanguard berekende in 2026 dat 10.000 dollar bij de start eind juli 2026 gegroeid zou zijn tot meer dan 2,4 miljoen.\n\n## Nuance of misverstand\n\nEen indexfonds is niet zonder risico: als de beurs daalt, daal je volledig mee. De S&P 500 is bovendien alleen Amerikaans en sterk geconcentreerd in grote technologiebedrijven. Spreiden binnen één land is dus minder breed dan het lijkt. En niet elk product met 'index' in de naam is goedkoop of breed: sommige volgen smalle thema's.\n\n## Wat je ermee doet\n\nKies bij beleggen eerst een breed gespreide index, liefst wereldwijd, en vergelijk dan de lopende kosten van fondsen die ze volgen. Laat je niet verleiden door een fonds dat vorig jaar spectaculair presteerde. Wie regelmatig een vast bedrag in een brede index stopt, volgt precies het idee waarmee Bogle in 1976 werd uitgelachen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"18\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Koop de hele markt in één fonds</text><rect x=\"40\" y=\"120\" width=\"10\" height=\"40\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"54\" y=\"112\" width=\"10\" height=\"48\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"68\" y=\"104\" width=\"10\" height=\"56\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"82\" y=\"96\" width=\"10\" height=\"64\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"96\" y=\"120\" width=\"10\" height=\"40\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"110\" y=\"112\" width=\"10\" height=\"48\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"124\" y=\"104\" width=\"10\" height=\"56\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"138\" y=\"96\" width=\"10\" height=\"64\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"152\" y=\"120\" width=\"10\" height=\"40\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"166\" y=\"112\" width=\"10\" height=\"48\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><text x=\"105\" y=\"180\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">de 500 aandelen</text><path d=\"M185,140 L235,140\" stroke=\"#fff\" stroke-width=\"2\" fill=\"none\"/><path d=\"M235,140 L228,143 L228,137 Z\" fill=\"#fff\"/><rect x=\"245\" y=\"90\" width=\"90\" height=\"70\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"290\" y=\"122\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">indexfonds</text><text x=\"290\" y=\"140\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">volgt S&amp;P 500</text><circle r=\"4\" fill=\"#06d6a0\"><animateMotion path=\"M100,110 Q170,60 250,110\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><circle r=\"4\" fill=\"#06d6a0\"><animateMotion path=\"M100,110 Q170,60 250,110\" dur=\"3s\" begin=\"1.5s\" repeatCount=\"indefinite\"/></circle><text x=\"290\" y=\"180\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">geen stockpicker</text><text x=\"290\" y=\"196\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">om te betalen</text></svg>",
+   "quiz": {
+    "q": "Hoeveel geld haalde Bogles eerste indexfonds op bij de start in 1976?",
+    "o": [
+     "Meer dan 1 miljard dollar",
+     "Precies de beoogde 150 miljoen dollar",
+     "Ongeveer 11 miljoen dollar"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Morningstar",
+     "u": "https://www.morningstar.com/funds/index-fund-turns-50-how-jack-bogle-changed-investing-forever"
+    },
+    {
+     "t": "Vanguard: 50 jaar indexeren",
+     "u": "https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/50-years-50-facts-indexing-since-1976.html"
+    },
+    {
+     "t": "Vanguard persbericht",
+     "u": "https://corporate.vanguard.com/content/corporatesite/us/en/corp/who-we-are/pressroom/press-release-50th-anniversary-vanguard-500-index-fund-083126.html"
+    },
+    {
+     "t": "Macmillan Learning: Samuelson",
+     "u": "https://community.macmillanlearning.com/t5/economics-blog/paul-samuelson-and-the-birth-of-the-index-fund/m-p/3279"
+    }
+   ],
+   "date": "2026-11-22T05:43:55Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Eén vraag, één getal: de Net Promoter Score",
+   "body": "'Hoe waarschijnlijk is het dat je ons aanraadt aan een vriend of collega?' Op een schaal van 0 tot 10. Wie 9 of 10 geeft, is promotor; 0 tot 6 is criticaster. Trek het percentage criticasters af van de promotors en je hebt de NPS, tussen -100 en +100. Fred Reichheld lanceerde hem in 2003.",
+   "take": "Zie je een NPS, vraag dan ook naar de verdeling van de scores: twee totaal verschillende klantgroepen kunnen hetzelfde getal opleveren.",
+   "deep": "## Hoe het werkt\n\nKlanten krijgen één vraag: hoe waarschijnlijk is het dat je dit bedrijf aanbeveelt, van 0 tot 10. Daarna verdeel je hen in drie groepen. Scores 9 en 10 zijn promotors, 7 en 8 passieven, 0 tot 6 criticasters.\n\nDe score is het percentage promotors min het percentage criticasters. De passieven tellen niet mee in de formule. Is iedereen promotor, dan krijg je +100; is iedereen criticaster, dan -100. Het resultaat is één getal dat makkelijk te volgen is over de tijd en tussen afdelingen.\n\n## Een voorbeeld\n\nEen fietsenwinkel in Leuven vraagt 100 klanten om een score. Vijftig geven 9 of 10, dertig geven 7 of 8 en twintig geven 6 of minder. De NPS is dan 50 min 20, dus +30. Een andere winkel heeft 30 promotors, 70 passieven en geen enkele criticaster: ook +30. Hetzelfde getal, maar een heel andere klantenkring.\n\n## Wat onderzoek zegt\n\nFred Reichheld van adviesbureau Bain & Company introduceerde de maatstaf in december 2003 in Harvard Business Review, in het artikel 'The One Number You Need to Grow'. Hij stelde dat deze ene vraag beter samenhing met groei van bedrijven dan andere vragen die hij testte. De score werd razend populair bij grote bedrijven.\n\nAcademici bleven niet overtuigd. Timothy Keiningham en collega's probeerden de claim te herhalen in de sectoren die Reichheld gebruikte en publiceerden in 2007 in het Journal of Marketing dat ze de 'duidelijke superioriteit' van de NPS niet konden terugvinden. Critici wezen er ook op dat de oorspronkelijke analyse vooral naar groei in het verleden keek, en niet voorspelde.\n\n## Nuance of misverstand\n\nDe NPS gooit veel informatie weg. Een 0 en een 6 tellen even zwaar, terwijl de eerste klant misschien woedend is en de tweede gewoon wat lauw. De groep van 7 en 8 verdwijnt helemaal uit de formule. Daarnaast zegt 'ik zou het aanraden' niet dat iemand het ook echt doet: klanten die ja zeggen, verwijzen lang niet altijd daadwerkelijk iemand door.\n\n## Wat je ermee doet\n\nGebruik de NPS als ruwe thermometer, niet als enige stuur. Kijk naar de volledige verdeling van de scores en lees vooral de open antwoorden op de vervolgvraag 'waarom?'. Vergelijk je score met je eigen vroegere metingen in plaats van met andere sectoren. En verbind hem met echt gedrag, zoals herhaalaankopen of opzeggingen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"18\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">NPS = % promotors − % criticasters</text><rect x=\"30\" y=\"60\" width=\"140\" height=\"40\" fill=\"#ff6b9d\" opacity=\"0.8\"/><rect x=\"170\" y=\"60\" width=\"60\" height=\"40\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"230\" y=\"60\" width=\"100\" height=\"40\" fill=\"#06d6a0\" opacity=\"0.8\"/><text x=\"100\" y=\"120\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">0-6 criticasters</text><text x=\"200\" y=\"120\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">7-8</text><text x=\"280\" y=\"120\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">9-10 promotors</text><text x=\"100\" y=\"85\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">20%</text><text x=\"200\" y=\"85\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">30%</text><text x=\"280\" y=\"85\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">50%</text><g opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;1;0\" keyTimes=\"0;0.2;0.8;1\" dur=\"6s\" repeatCount=\"indefinite\"/><text x=\"180\" y=\"160\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">50 − 20 = NPS +30</text></g><g opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1\" keyTimes=\"0;0.5;0.6;1\" dur=\"6s\" repeatCount=\"indefinite\"/><text x=\"180\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">middengroep telt niet mee</text></g><rect x=\"30\" y=\"60\" width=\"140\" height=\"40\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"230\" y=\"60\" width=\"100\" height=\"40\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/></svg>",
+   "quiz": {
+    "q": "Een bedrijf heeft 40% promotors, 35% passieven en 25% criticasters. Wat is de NPS?",
+    "o": [
+     "+40",
+     "+15",
+     "+75"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Bain: History of Net Promoter",
+     "u": "https://nps.bain.com/about/history-of-net-promoter/"
+    },
+    {
+     "t": "Marketing Week",
+     "u": "https://www.marketingweek.com/2008/03/06/the-only-number-you-need-to-know-does-not-add-up-to-much/"
+    },
+    {
+     "t": "Keiningham e.a. 2007 (Journal of Marketing)",
+     "u": "https://typeset.io/pdf/a-longitudinal-examination-of-net-promoter-and-firm-revenue-2rlbpc4iak.pdf"
+    }
+   ],
+   "date": "2026-11-22T05:43:55Z"
+  }
+ ],
  "dives": [
   {
    "id": "2026-11-22",
