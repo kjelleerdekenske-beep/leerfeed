@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T05:45:05Z",
+ "updated": "2026-11-22T05:45:38Z",
  "cards": [
   {
    "cat": "wetenschap",
@@ -972,6 +972,318 @@
     }
    ],
    "date": "2026-11-22T05:45:05Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Waarom je blijft zitten in een slechte film",
+   "body": "Wie meer betaalde, gaat vaker. Hal Arkes en Catherine Blumer verkochten in 1982 theaterabonnementen aan 15, 13 of 8 dollar. Wie de volle prijs had betaald, ging het eerste halfjaar vaker naar voorstellingen. Geld dat al weg is, stuurt dus je keuzes, al zou het niet mogen. Dat heet de sunk-cost-valkuil, ook wel het Concorde-effect.",
+   "take": "Vraag bij twijfel: als ik dit vandaag gratis kreeg, zou ik er dan nog aan beginnen? Zo niet: stoppen.",
+   "deep": "## Hoe het werkt\n\nEen verzonken kost is geld, tijd of moeite die je al hebt uitgegeven en nooit terugkrijgt, wat je ook beslist. Logisch gezien hoort die kost dus niet mee te tellen: je vergelijkt alleen wat elke keuze je vanaf nu nog oplevert en kost. In de praktijk voelt stoppen als 'verspillen' wat je al investeerde. Daarom zet je door, ook als doorgaan je nog meer kost. Hoe groter de investering, hoe sterker die trek.\n\n## Een voorbeeld\n\nJe kocht maanden geleden een ticket van 80 euro voor een openluchtconcert. Op de dag zelf giet het, je bent verkouden en je hebt eigenlijk geen zin. Toch ga je, 'want het is betaald'. Maar die 80 euro ben je in beide gevallen kwijt. De echte vraag is: wordt deze avond beter in de regen of thuis in de zetel?\n\nHet bekendste grote voorbeeld is de Concorde. Groot-Brittannië en Frankrijk bleven het supersonische vliegtuig financieren, ook toen de commerciële vooruitzichten slecht oogden. Biologen Richard Dawkins en Tamsin Carlisle gebruikten de naam 'Concorde-denkfout' in 1976 in Nature.\n\n## Wat onderzoek zegt\n\nHal Arkes en Catherine Blumer publiceerden in 1985 'The Psychology of Sunk Cost'. In hun veldexperiment kregen de eerste 60 kopers van een abonnement voor het theater van Ohio University (seizoen 1982-1983) willekeurig de volle prijs van 15 dollar of een korting tot 13 of 8 dollar. Wie de volle prijs betaalde, ging in het eerste halfjaar vaker. In een vragenlijst over een vliegtuigproject dat al grotendeels betaald was, koos 85 procent ervoor om af te werken, tegenover 17 procent wanneer er nog niets geïnvesteerd was. Arkes en Ayton opperden in 1999 dat volwassenen de regel 'verspil niets' overdreven toepassen.\n\n## Nuance of misverstand\n\nNiet elk doorzetten is een denkfout. Soms is stoppen echt duur, of heb je onderweg iets geleerd waardoor afwerken wel loont. Bij de Concorde speelde ook mee dat het Brits-Franse verdrag van 1962 geen opzegclausule bevatte: eenzijdig stoppen lag diplomatiek en juridisch moeilijk. Bovendien stelden Arkes en Ayton vast dat er geen eenduidig bewijs is dat dieren deze fout maken, ondanks de naam 'Concorde-effect' in de biologie.\n\n## Wat je ermee doet\n\nZet bij elke twijfel de verzonken kost uitdrukkelijk opzij. Schrijf twee kolommen: wat levert doorgaan me vanaf nu op, en wat levert stoppen me vanaf nu op? Spreek bij projecten op voorhand een stopmoment af, met een budget of datum waarop je opnieuw beslist. En onthoud: een boek dat je niet boeit, mag je gerust wegleggen, ook al heb je het net gekocht.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Wat al weg is, telt niet mee</text><rect x=\"20\" y=\"40\" width=\"120\" height=\"40\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"80\" y=\"65\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">€80 al betaald</text><path d=\"M40,150 L40,195 L120,195 L120,150\" stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"/><text x=\"80\" y=\"213\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">verzonken: kies je</text><circle r=\"7\" fill=\"#ffd166\"><animateMotion path=\"M80,85 L80,185\" dur=\"2.4s\" begin=\"0s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;1;0\" dur=\"2.4s\" begin=\"0s\" repeatCount=\"indefinite\"/></circle><circle r=\"7\" fill=\"#ffd166\"><animateMotion path=\"M80,85 L80,185\" dur=\"2.4s\" begin=\"0.8s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;1;0\" dur=\"2.4s\" begin=\"0.8s\" repeatCount=\"indefinite\"/></circle><circle r=\"7\" fill=\"#ffd166\"><animateMotion path=\"M80,85 L80,185\" dur=\"2.4s\" begin=\"1.6s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;1;0\" dur=\"2.4s\" begin=\"1.6s\" repeatCount=\"indefinite\"/></circle><path d=\"M150,120 L200,120\" stroke=\"#fff\" stroke-width=\"2\" fill=\"none\"/><path d=\"M200,120 L192.8,123.5 L192.8,116.5 Z\" fill=\"#fff\"/><text x=\"175\" y=\"110\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">beslis</text><rect x=\"210\" y=\"55\" width=\"130\" height=\"50\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"275\" y=\"77\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">gaan: wat levert</text><text x=\"275\" y=\"93\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">het nog op?</text><rect x=\"210\" y=\"135\" width=\"130\" height=\"50\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"275\" y=\"157\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">niet gaan: wat</text><text x=\"275\" y=\"173\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">levert dat op?</text><text x=\"275\" y=\"207\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">alleen de toekomst telt</text></svg>",
+   "quiz": {
+    "q": "Je betaalde 80 euro voor een concert, maar je bent ziek. Wat is volgens de economische logica de juiste afweging?",
+    "o": [
+     "Vergelijk alleen hoe de avond vanaf nu verloopt bij gaan of thuisblijven",
+     "Ga, anders verlies je de 80 euro",
+     "Ga alleen als het ticket duurder was dan 50 euro"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Arkes & Blumer (1985), Organizational Behavior and Human Decision Processes",
+     "u": "https://cognition.aau.at/bg/BA/Arkes%20%26%20Blumer%201985.pdf"
+    },
+    {
+     "t": "Arkes & Ayton (1999), Psychological Bulletin",
+     "u": "https://www.researchgate.net/profile/Hal-Arkes/publication/228471310_The_Sunk_Cost_and_Concorde_Effects_Are_Humans_Less_Rational_Than_Lower_Animals/links/0c96051dac2e285464000000/The-Sunk-Cost-and-Concorde-Effects-Are-Humans-Less-Rational-Than-Lower-Animals.pdf"
+    },
+    {
+     "t": "UK Parliament, Hansard (1973): Concorde-verdrag zonder opzegclausule",
+     "u": "https://api.parliament.uk/historic-hansard/written-answers/1973/jan/22/concorde"
+    }
+   ],
+   "date": "2026-11-22T05:45:38Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Wie knap is, lijkt ook slimmer",
+   "body": "In 1920 merkte psycholoog Edward Thorndike iets vreemds op: Amerikaanse officieren die hun soldaten beoordeelden op lichaamsbouw, intelligentie, leiderschap en karakter, gaven bijna dezelfde scores voor alles. Wie er goed uitzag, kreeg ook punten voor verstand. Thorndike noemde die fout het halo-effect: één sterke indruk straalt af op eigenschappen die er niets mee te maken hebben.",
+   "take": "Beoordeel bij sollicitaties of examens één criterium tegelijk voor alle kandidaten, in plaats van één kandidaat op alle criteria.",
+   "deep": "## Hoe het werkt\n\nJe brein vormt razendsnel een algemene indruk van iemand: sympathiek of niet, bekwaam of niet. Die globale indruk gebruik je daarna als snelkoppeling. Moet je een eigenschap inschatten waarover je weinig weet, dan vul je ze in met je algemene gevoel. Zo wordt een opvallend kenmerk, zoals uiterlijk, vriendelijkheid of een vlotte babbel, een soort lamp die alles eromheen verlicht. Het werkt ook omgekeerd: één negatieve trek maakt de rest verdachter.\n\n## Een voorbeeld\n\nDenk aan een mondeling examen. Een student die zelfzeker binnenstapt en vlot formuleert, maakt meteen een goede indruk. Als hij daarna een vraag maar half beantwoordt, denkt de examinator al snel: hij weet het wel, hij vindt gewoon de woorden niet. Bij een zenuwachtige student met hetzelfde halve antwoord ligt de interpretatie strenger. Ook in reclame speelt dit: een geliefde bekende Vlaming maakt een product betrouwbaarder, terwijl die persoon er geen verstand van hoeft te hebben.\n\n## Wat onderzoek zegt\n\nEdward L. Thorndike publiceerde in 1920 'A Constant Error in Psychological Ratings' in de Journal of Applied Psychology. Officieren beoordeelden hun manschappen op onder meer lichaamsbouw, intelligentie, leiderschap en karakter. De scores hingen veel sterker samen dan je zou verwachten: wie fysiek indruk maakte, scoorde ook hoog op verstand en betrouwbaarheid. Thorndike besloot dat beoordelaars een persoon vooral in het algemeen als goed of minder goed zien.\n\nIn 1977 toonden Richard Nisbett en Timothy Wilson 118 studenten een video van een docent die Engels sprak met een Franstalig Belgisch accent. In de ene versie was hij hartelijk, in de andere kil. Wie de hartelijke versie zag, vond zijn uiterlijk, maniertjes en accent aantrekkelijk; de anderen vonden diezelfde dingen irritant. De studenten hadden zelf niet door dat zijn vriendelijkheid hun oordeel stuurde.\n\n## Nuance of misverstand\n\nNiet elke samenhang tussen eigenschappen is een halo-effect. Soms gaan twee kwaliteiten echt samen. Het probleem is dat beoordelaars de samenhang sterker maken dan ze is. Ook het omgekeerde, waarbij één slechte eigenschap alles kleurt, wordt soms het horn-effect genoemd.\n\n## Wat je ermee doet\n\nBeoordeel je anderen, splits dan je oordeel op. Bepaal vooraf duidelijke criteria en scoor elk criterium apart, liefst voor alle kandidaten na elkaar. Laat bij sollicitaties meerdere mensen onafhankelijk scoren voor ze overleggen. En wees extra kritisch wanneer je iemand meteen sympathiek vindt: precies dan kijk je makkelijker over zwaktes heen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Eén goede indruk kleurt de rest</text><circle cx=\"180\" cy=\"115\" r=\"38\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"r\" values=\"38;52;38\" dur=\"4s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;0.3;1\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><circle cx=\"180\" cy=\"115\" r=\"32\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"112\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">knap,</text><text x=\"180\" y=\"127\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">rechte rug</text><path d=\"M140,100 L95,60\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"4 4\" fill=\"none\" opacity=\"0.5\"/><g opacity=\"0.35\"><animate attributeName=\"opacity\" values=\"0.35;1;1;0.35\" keyTimes=\"0;0.15;0.6;1\" dur=\"4s\" begin=\"0.0s\" repeatCount=\"indefinite\"/><rect x=\"15\" y=\"44\" width=\"90\" height=\"30\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"60\" y=\"64\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">slim +</text></g><path d=\"M220,100 L265,60\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"4 4\" fill=\"none\" opacity=\"0.5\"/><g opacity=\"0.35\"><animate attributeName=\"opacity\" values=\"0.35;1;1;0.35\" keyTimes=\"0;0.15;0.6;1\" dur=\"4s\" begin=\"0.5s\" repeatCount=\"indefinite\"/><rect x=\"255\" y=\"44\" width=\"90\" height=\"30\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"300\" y=\"64\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">leider +</text></g><path d=\"M140,130 L95,170\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"4 4\" fill=\"none\" opacity=\"0.5\"/><g opacity=\"0.35\"><animate attributeName=\"opacity\" values=\"0.35;1;1;0.35\" keyTimes=\"0;0.15;0.6;1\" dur=\"4s\" begin=\"1.0s\" repeatCount=\"indefinite\"/><rect x=\"15\" y=\"154\" width=\"90\" height=\"30\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"60\" y=\"174\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">karakter +</text></g><path d=\"M220,130 L265,170\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"4 4\" fill=\"none\" opacity=\"0.5\"/><g opacity=\"0.35\"><animate attributeName=\"opacity\" values=\"0.35;1;1;0.35\" keyTimes=\"0;0.15;0.6;1\" dur=\"4s\" begin=\"1.5s\" repeatCount=\"indefinite\"/><rect x=\"255\" y=\"154\" width=\"90\" height=\"30\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"300\" y=\"174\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">bekwaam +</text></g><text x=\"180\" y=\"208\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">officieren scoorden alle eigenschappen te gelijk</text></svg>",
+   "quiz": {
+    "q": "Wat ontdekte Thorndike in 1920 bij de beoordelingen door officieren?",
+    "o": [
+     "Officieren gaven knappere soldaten bewust lagere scores",
+     "Scores voor heel verschillende eigenschappen hingen te sterk samen",
+     "Soldaten beoordeelden zichzelf strenger dan officieren"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Thorndike (1920), Journal of Applied Psychology",
+     "u": "https://www.gwern.net/doc/psychology/personality/1920-thorndike.pdf"
+    },
+    {
+     "t": "Encyclopaedia Britannica: halo effect",
+     "u": "https://www.britannica.com/science/halo-effect"
+    },
+    {
+     "t": "Nisbett & Wilson (1977), University of Michigan Deep Blue",
+     "u": "https://deepblue.lib.umich.edu/bitstream/handle/2027.42/92158/TheHaloEffect.pdf?sequence=1"
+    }
+   ],
+   "date": "2026-11-22T05:45:38Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Een placebo kan helpen, zelfs als je het weet",
+   "body": "In 2010 gaf een team van Harvard rond Ted Kaptchuk 80 mensen met het prikkelbaredarmsyndroom eerlijk gelabelde suikerpillen, of niets. Na drie weken meldde 59 procent van de pillengroep voldoende verlichting, tegenover 35 procent zonder pillen. Indrukwekkend, maar de studie was klein en kort, en de klachten werden door de patiënten zelf gerapporteerd.",
+   "take": "Rituelen rond zorg tellen mee: neem je behandeling en je arts serieus, maar ruil nooit een werkzaam medicijn in voor een placebo.",
+   "deep": "## Hoe het werkt\n\nBij een klassiek placebo-effect voel je je beter omdat je verwacht dat een behandeling werkt. Bij een 'open label'-placebo weet je juist dat de pil niets werkzaams bevat. Onderzoekers vermoeden dat het ritueel zelf iets doet: de aandacht van een zorgverlener, het dagelijks innemen, de uitleg dat het lichaam via conditionering kan reageren. Dat kan vooral invloed hebben op klachten die sterk beleefd worden, zoals pijn, misselijkheid of darmongemak.\n\n## Een voorbeeld\n\nStel dat je al jaren last hebt van buikkrampen en een opgeblazen gevoel, zonder dat de dokter een duidelijke oorzaak vindt. Dat is typisch voor het prikkelbaredarmsyndroom. In de Harvard-studie kregen zulke patiënten een flesje met het opschrift 'placebo'. Kaptchuk vertelde hen zelfs dat ze er niet in hoefden te geloven: neem gewoon de pillen.\n\n## Wat onderzoek zegt\n\nDe studie 'Placebos without Deception' verscheen in december 2010 in PLoS ONE. Ze liep van augustus 2009 tot april 2010 aan één academisch ziekenhuis. Van de 80 deelnemers, voor 70 procent vrouwen, kregen er 37 open placebopillen en 43 geen behandeling. Na drie weken scoorde de placebogroep beter op algemene verbetering en ernst van de klachten. 59 procent meldde voldoende verlichting, tegenover 35 procent in de controlegroep.\n\nIn 2021 volgde een grotere studie in het vakblad Pain met 262 deelnemers. Een open placebo verlichtte de klachten daar ongeveer evenveel als een verborgen placebo, en duidelijker dan geen pil.\n\n## Nuance of misverstand\n\nDit betekent niet dat placebo's ziektes genezen. De verbeteringen gaan over hoe patiënten hun klachten zelf beoordelen, niet over tumoren die krimpen of infecties die verdwijnen. De eerste studie was klein en duurde maar drie weken, en de auteurs gaven zelf toe dat ze vooral mensen aantrokken die openstonden voor zulke aanpakken. Er was ook geen echte blindering: wie niets kreeg, wist dat. Teleurstelling in de controlegroep kan het verschil dus groter maken. De studie werd gefinancierd door het Amerikaanse centrum voor complementaire en alternatieve geneeskunde.\n\n## Wat je ermee doet\n\nZie het als een reden om de context van zorg serieus te nemen. Een arts die tijd maakt, uitleg geeft en een duidelijk plan voorstelt, kan bij functionele klachten echt verschil maken. Wantrouw tegelijk iedereen die beweert dat 'het allemaal tussen je oren zit' of die een echte behandeling wil vervangen door suikerpillen. Overleg altijd met je huisarts.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Voldoende verlichting na 3 weken</text><path d=\"M30,190 L330,190\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"70\" y=\"83.8\" width=\"60\" height=\"106.2\" fill=\"#06d6a0\" opacity=\"0.85\"><animate attributeName=\"height\" values=\"0;106.2;106.2\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"190;83.8;83.8\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"100\" y=\"75.8\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">59%</text><text x=\"100\" y=\"207\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">eerlijke placebo</text><rect x=\"230\" y=\"127.0\" width=\"60\" height=\"63.0\" fill=\"#ff6b9d\" opacity=\"0.85\"><animate attributeName=\"height\" values=\"0;63.0;63.0\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"190;127.0;127.0\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"260\" y=\"119.0\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">35%</text><text x=\"260\" y=\"207\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">geen behandeling</text><rect x=\"150\" y=\"60\" width=\"60\" height=\"34\" rx=\"14\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"180\" y=\"82\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">PLACEBO</text><text x=\"180\" y=\"112\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">80 patiënten</text><text x=\"180\" y=\"127\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">prikkelbare darm</text></svg>",
+   "quiz": {
+    "q": "Wat kregen de patiënten in de pillengroep van de Harvard-studie uit 2010 te horen?",
+    "o": [
+     "Dat ze een nieuw darmmedicijn kregen",
+     "Niets: ze wisten niet wat ze kregen",
+     "Dat het placebopillen waren, zonder werkzame stof"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Kaptchuk e.a. (2010), PLoS ONE via PMC",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3008733"
+    },
+    {
+     "t": "Harvard Gazette (2010)",
+     "u": "https://news.harvard.edu/gazette/story/2010/12/placebos-work-even-without-deception"
+    },
+    {
+     "t": "Lembo e.a. (2021), Pain via PubMed",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/33605656/"
+    }
+   ],
+   "date": "2026-11-22T05:45:38Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "Met acht aan een touw trekt elk minder",
+   "body": "De Franse landbouwingenieur Max Ringelmann liet mannen touwtrekken, alleen en in groep. Alleen trok een man gemiddeld 63 kilo. Acht samen haalden geen 504 maar 248 kilo: per persoon nog maar 49 procent. Bibb Latané en collega's toonden in 1979 dat het niet alleen om slechte coördinatie gaat: in groep doen mensen ook minder hun best.",
+   "take": "Geef in elk groepswerk iedereen een eigen, zichtbaar stuk met naam, zodat ieders bijdrage herkenbaar blijft.",
+   "deep": "## Hoe het werkt\n\nAls je met velen aan hetzelfde werkt, gaan er twee dingen mis. Ten eerste coördinatie: niet iedereen trekt op hetzelfde moment en in dezelfde richting, dus gaat er kracht verloren. Ten tweede motivatie: in een groep valt jouw bijdrage weg in het geheel. Niemand ziet of jij het verschil maakt, dus voelt minder inspanning ongevaarlijk. Dat tweede verschijnsel heet sociaal lanterfanten, in het Engels social loafing.\n\n## Een voorbeeld\n\nEen groepswerk op school of aan de hogeschool: vijf studenten, één eindcijfer. Vaak doen twee mensen het meeste werk, terwijl de anderen 'wel meelezen'. Of een vergadering waarin de voorzitter vraagt wie het verslag schrijft: iedereen kijkt naar zijn laptop. Hoe groter de groep, hoe makkelijker je erin verdwijnt.\n\n## Wat onderzoek zegt\n\nRingelmann deed zijn proeven tussen 1882 en 1887 aan een landbouwschool en publiceerde ze in 1913. Ze raakten vooral bekend via een samenvatting van de Duitse psycholoog Walther Moede uit 1927. Eén man trok gemiddeld 63 kilo; groepen van acht samen 248 kilo, ongeveer de helft van wat je zou verwachten. Ringelmann zelf zocht de oorzaak vooral in slechte coördinatie.\n\nIngham en collega's lieten in 1974 deelnemers alleen trekken terwijl ze dachten dat anderen meetrokken. Ook dan daalde de inspanning, dus speelt motivatie mee. Bibb Latané, Kipling Williams en Stephen Harkins lieten in 1979 geblinddoekte studenten met koptelefoons zo hard mogelijk roepen en klappen. In groep gaven ze duidelijk minder. Een overzichtsstudie van Steven Karau en Williams uit 1993 bundelde 78 studies en vond het effect telkens terug, maar zwakker wanneer bijdragen te beoordelen zijn of de taak belangrijk voelt.\n\n## Nuance of misverstand\n\nRingelmanns eigen metingen zijn slecht gedocumenteerd: onderzoekers in de jaren 1970 vonden nauwelijks meer dan de samenvatting van Moede. De exacte percentages zijn dus vooral illustratief. Bovendien is samenwerken niet per definitie inefficiënt. Groepen die elkaar kennen, een gedeeld doel hebben en elkaars werk zien, lanterfanten veel minder.\n\n## Wat je ermee doet\n\nMaak bijdragen zichtbaar en individueel: verdeel taken met één naam per taak, niet 'het team'. Houd groepen klein waar het kan. Laat iedereen kort toelichten wat hij gedaan heeft. En maak duidelijk waarom de taak ertoe doet, want wie gelooft dat zijn werk telt, doet minder snel een stapje terug.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Touwtrekken: alleen vs. met acht</text><path d=\"M20,60 L340,60\" stroke=\"#ffd166\" stroke-width=\"3\" stroke-dasharray=\"10 6\" fill=\"none\"><animate attributeName=\"stroke-dashoffset\" values=\"0;-32\" dur=\"1.6s\" repeatCount=\"indefinite\"/></path><circle cx=\"60\" cy=\"48\" r=\"7\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"92\" cy=\"48\" r=\"7\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"124\" cy=\"48\" r=\"7\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"156\" cy=\"48\" r=\"7\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"188\" cy=\"48\" r=\"7\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"220\" cy=\"48\" r=\"7\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"252\" cy=\"48\" r=\"7\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"284\" cy=\"48\" r=\"7\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M40,190 L320,190\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"70\" y=\"90\" width=\"70\" height=\"100\" fill=\"rgba(255,255,255,0.35)\" opacity=\"0.85\"><animate attributeName=\"height\" values=\"0;100;100\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"190;90;90\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"105\" y=\"84\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">504 kg</text><text x=\"105\" y=\"207\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">verwacht: 8 × 63 kg</text><rect x=\"220\" y=\"141\" width=\"70\" height=\"49\" fill=\"#ff6b9d\" opacity=\"0.85\"><animate attributeName=\"height\" values=\"0;49;49\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"190;141;141\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"255\" y=\"135\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">248 kg</text><text x=\"255\" y=\"207\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">gemeten: 49%</text></svg>",
+   "quiz": {
+    "q": "Wat toonden latere proeven aan waarbij mensen alleen dachten dat anderen meetrokken?",
+    "o": [
+     "Dat het verlies alleen door slechte timing komt",
+     "Dat mensen ook minder hun best doen als ze denken dat ze in groep werken",
+     "Dat alleen trekken vermoeiender is dan in groep"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Latané, Williams & Harkins (1979), Journal of Personality and Social Psychology",
+     "u": "https://is.muni.cz/el/phil/jaro2020/PSX_512/um/Latane_et_al_1979_social_loafing.pdf"
+    },
+    {
+     "t": "Ingham e.a. (1974), Journal of Experimental Social Psychology",
+     "u": "https://is.muni.cz/el/phil/jaro2020/PSX_512/um/Ingham_et_al_1974_Ringelmann_effect.pdf?lang=en"
+    },
+    {
+     "t": "Kravitz & Martin (1986), Ringelmann rediscovered",
+     "u": "https://mason.gmu.edu/~dkravitz/Pubs/JPSPv50p936.htm"
+    }
+   ],
+   "date": "2026-11-22T05:45:38Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "Begraaf je project voor het begint",
+   "body": "Bij een pre-mortem, bedacht door psycholoog Gary Klein, vertel je het team: 'Het is een jaar later, het project is grandioos mislukt. Schrijf op waarom.' Klein verwees in Harvard Business Review (2007) naar onderzoek uit 1989: wie zich inbeeldt dat iets al gebeurd is, vindt zo'n 30 procent meer verklaringen. Zo komen risico's boven die niemand durfde te melden.",
+   "take": "Neem vóór je volgende grote project tien minuten: iedereen noteert stil waarom het mislukt is, daarna bespreek je de lijst.",
+   "deep": "## Hoe het werkt\n\nEen post-mortem doe je achteraf: waarom liep het mis? Een pre-mortem draait dat om. Voor de start vraagt de projectleider iedereen om aan te nemen dat het project al mislukt is. Elk teamlid schrijft eerst in stilte zoveel mogelijk oorzaken op. Daarna worden de redenen in de groep verzameld, een voor een, en zoekt het team naar manieren om de grootste risico's te verkleinen. Het gaat niet om de vraag 'wat kan er misgaan?', maar om 'wat is er misgegaan?'.\n\n## Een voorbeeld\n\nEen jeugdbeweging plant een groot eetfestijn. In de pre-mortem schrijft iemand: 'de frituur viel uit en we hadden geen reserve'. Een ander: 'de helft van de vrijwilligers zat op examen'. Een derde: 'de bestellingen raakten zoek'. Niemand had die bezorgdheden in de gewone vergadering uitgesproken. Nu volgt er een tweede frituurketel, een planning rond de examens en een eenvoudig bestelformulier.\n\n## Wat onderzoek zegt\n\nGary Klein beschreef de methode in 'Performing a Project Premortem' in Harvard Business Review van september 2007. Hij steunt op 'prospective hindsight', vooruitblikkende terugblik, onderzocht door Deborah Mitchell, Jay Russo en Nancy Pennington in 1989 in de Journal of Behavioral Decision Making. Volgens Klein verhoogt het inbeelden dat een gebeurtenis al heeft plaatsgevonden het vermogen om de juiste oorzaken te benoemen met 30 procent. Een zekere uitkomst voelt concreter, waardoor verklaringen makkelijker komen.\n\nKlein noemt nog een voordeel: de oefening maakt twijfel uitspreken veilig. In de gewone planning lijkt kritiek op illoyaliteit. In een pre-mortem is het juist de opdracht.\n\n## Nuance of misverstand\n\nDat cijfer van 30 procent gaat over het bedenken van verklaringen in een experiment, niet over projecten die 30 procent vaker slagen. Hard bewijs dat pre-mortems mislukkingen voorkomen is er minder. Een pre-mortem vervangt bovendien geen echte risicoanalyse; het is een snelle manier om blinde vlekken boven te halen. En het werkt alleen als de leider iets doet met wat er gezegd wordt.\n\n## Wat je ermee doet\n\nPlan bij de start van een project, verbouwing of reis een kwartiertje in. Zeg letterlijk: 'Het is afgelopen en het is mislukt.' Laat iedereen eerst alleen schrijven, zodat de luidste stem niet de toon zet. Verzamel de redenen, kies de drie grootste risico's en spreek per risico één concrete maatregel af. Je kan het ook alleen doen, voor een examen of een sollicitatie.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Doe alsof het al mislukt is</text><path d=\"M40,80 L320,80\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"80\" r=\"8\" fill=\"#06d6a0\"/><text x=\"60\" y=\"60\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">vandaag</text><circle cx=\"300\" cy=\"80\" r=\"8\" fill=\"#ff6b9d\"/><text x=\"300\" y=\"60\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">over een jaar:</text><text x=\"300\" y=\"104\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">project mislukt</text><path d=\"M290,95 Q180,150 70,95\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"4 4\" fill=\"none\"/><path d=\"M70,95 L79,95 L74,103 Z\" fill=\"#ffd166\"/><text x=\"180\" y=\"138\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">waarom?</text><circle r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M290,95 Q180,150 70,95\" dur=\"3s\" begin=\"0s\" repeatCount=\"indefinite\"/></circle><circle r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M290,95 Q180,150 70,95\" dur=\"3s\" begin=\"1s\" repeatCount=\"indefinite\"/></circle><circle r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M290,95 Q180,150 70,95\" dur=\"3s\" begin=\"2s\" repeatCount=\"indefinite\"/></circle><g opacity=\"0.3\"><animate attributeName=\"opacity\" values=\"0.3;1;1;0.3\" keyTimes=\"0;0.1;0.3;1\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/><rect x=\"20\" y=\"168\" width=\"104\" height=\"32\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"72\" y=\"189\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1 stel: mislukt</text></g><g opacity=\"0.3\"><animate attributeName=\"opacity\" values=\"0.3;1;1;0.3\" keyTimes=\"0;0.1;0.3;1\" dur=\"6s\" begin=\"2s\" repeatCount=\"indefinite\"/><rect x=\"132\" y=\"168\" width=\"104\" height=\"32\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"184\" y=\"189\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">2 schrijf redenen</text></g><g opacity=\"0.3\"><animate attributeName=\"opacity\" values=\"0.3;1;1;0.3\" keyTimes=\"0;0.1;0.3;1\" dur=\"6s\" begin=\"4s\" repeatCount=\"indefinite\"/><rect x=\"244\" y=\"168\" width=\"104\" height=\"32\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"296\" y=\"189\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">3 pas plan aan</text></g></svg>",
+   "quiz": {
+    "q": "Wat is het kenmerkende vertrekpunt van een pre-mortem?",
+    "o": [
+     "Je neemt aan dat het project al mislukt is en zoekt de oorzaken",
+     "Je analyseert na afloop wat er misliep",
+     "Je laat één expert alle risico's inschatten"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Klein (2007), Harvard Business Review, kopie",
+     "u": "https://comprobo24.github.io/assignments/performing_a_project_premortem.pdf"
+    },
+    {
+     "t": "Mitchell, Russo & Pennington (1989), Journal of Behavioral Decision Making",
+     "u": "https://colab.ws/articles/10.1002%2Fbdm.3960020103"
+    }
+   ],
+   "date": "2026-11-22T05:45:38Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "De 80/20-regel klopt zelden precies",
+   "body": "Volgens het bekende verhaal ontdekte de Italiaanse econoom Vilfredo Pareto dat 20 procent van de bevolking 80 procent van de grond bezat. Het was de Amerikaanse kwaliteitsexpert Joseph Juran die er later 'het Pareto-principe' van maakte: een paar oorzaken zorgen voor het gros van de gevolgen. Een handige vuistregel, maar 80 en 20 zijn geen vaste getallen.",
+   "take": "Sorteer je klachten, kosten of taken op impact en pak eerst de paar grootste aan, ongeacht of dat precies 20 procent is.",
+   "deep": "## Hoe het werkt\n\nIn veel systemen zijn effecten ongelijk verdeeld. Een kleine groep klanten zorgt voor een groot deel van de omzet, een paar fouten veroorzaken de meeste klachten, enkele producten zijn goed voor het gros van de verkoop. Het Pareto-principe zegt: zoek die kleine groep, want daar zit de meeste winst voor je inspanning. De verhouding 80/20 is daarbij een geheugensteun, geen meting. De twee getallen hoeven ook niet op te tellen tot 100: ze gaan over twee verschillende dingen, oorzaken en gevolgen.\n\n## Een voorbeeld\n\nEen klantendienst van een Vlaamse webwinkel telt alle klachten van het afgelopen jaar. Blijkt dat drie problemen, zoals late levering, verkeerde maten en een onduidelijke retourprocedure, samen het grootste deel van de klachten uitmaken. Door die drie eerst op te lossen, daalt het aantal klachten veel sterker dan door aan twintig kleine dingen tegelijk te sleutelen.\n\n## Wat onderzoek zegt\n\nVilfredo Pareto, econoom aan de universiteit van Lausanne, bestudeerde rond 1900 hoe inkomen en vermogen verdeeld waren over verschillende landen en vond telkens een sterk scheve verdeling. Het populaire detail over 80 procent van de Italiaanse grond wordt vaak geciteerd, maar is moeilijk terug te vinden in zijn originele teksten. Joseph Juran las Pareto's werk in 1941 en paste het idee toe op kwaliteitscontrole: de meeste problemen komen van een klein aantal oorzaken. In een stuk uit 1974 gaf Juran zelf toe dat hij een korte naam nodig had en daarvoor zonder veel bedenkingen Pareto's naam koos. Later sprak hij liever van 'de vitale enkelen en de nuttige velen', om duidelijk te maken dat de rest niet waardeloos is.\n\n## Nuance of misverstand\n\n80/20 is geen natuurwet. In de praktijk zie je net zo goed 90/10, 70/30 of 60/40, en soms is er helemaal geen scheve verdeling. Wie zonder te meten aanneemt dat 20 procent van zijn werk 80 procent oplevert, schrapt misschien net de taken die onzichtbaar maar onmisbaar zijn, zoals onderhoud of administratie.\n\n## Wat je ermee doet\n\nMeet eerst, rangschik daarna. Zet je kosten, klachten of taken in een lijst, sorteer ze van groot naar klein en kijk hoe snel het cumulatieve totaal oploopt. Begin bij de bovenkant van de lijst. Zo gebruik je het principe als vergrootglas, niet als excuus om de rest te negeren.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">80/20 is een vuistregel, geen wet</text><text x=\"30\" y=\"62\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">oorzaken</text><rect x=\"30\" y=\"70\" width=\"300\" height=\"30\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"30\" y=\"70\" width=\"60\" height=\"30\" fill=\"#ffd166\" opacity=\"0.9\"><animate attributeName=\"width\" values=\"60;30;60;120;60\" dur=\"8s\" repeatCount=\"indefinite\"/></rect><text x=\"30\" y=\"140\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">gevolgen</text><rect x=\"30\" y=\"148\" width=\"300\" height=\"30\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"30\" y=\"148\" width=\"240\" height=\"30\" fill=\"#06d6a0\" opacity=\"0.9\"><animate attributeName=\"width\" values=\"240;270;240;180;240\" dur=\"8s\" repeatCount=\"indefinite\"/></rect><path d=\"M60,100 L60,148\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"3 4\" fill=\"none\"/><text x=\"200\" y=\"126\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">klein deel → groot deel</text><text x=\"180\" y=\"205\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ook 90/10, 70/30 of 60/40 komt voor</text></svg>",
+   "quiz": {
+    "q": "Welke uitspraak over het Pareto-principe klopt?",
+    "o": [
+     "Pareto noemde zijn ontdekking zelf het 80/20-principe",
+     "De verhouding is altijd precies 80 tegen 20",
+     "Joseph Juran gaf het principe Pareto's naam"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Juran (1974), The Non-Pareto Principle; Mea Culpa",
+     "u": "https://www.juran.com/wp-content/uploads/2021/03/The-Non-Pareto-Principle-1974.pdf"
+    },
+    {
+     "t": "Quality Digest: wie bedacht de Pareto-grafiek",
+     "u": "https://www.qualitydigest.com/inside/lean-article/who-invented-pareto-chart-060319.html"
+    }
+   ],
+   "date": "2026-11-22T05:45:38Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Een hamburger als wisselkoersmeter",
+   "body": "Sinds 1986 vergelijkt The Economist wat een Big Mac kost in tientallen landen. Het idee: op lange termijn zouden wisselkoersen gelijke spullen overal even duur moeten maken. Dat heet koopkrachtpariteit. Kost de burger omgerekend veel meer dan in de VS, dan lijkt je munt overgewaardeerd. Zwitserland stond in januari 2026 bovenaan als duurste land.",
+   "take": "Vergelijk op reis de prijs van één identiek product, zoals een Big Mac, om snel te voelen hoe duur een land is.",
+   "deep": "## Hoe het werkt\n\nKoopkrachtpariteit gaat uit van een eenvoudig idee: als hetzelfde product in twee landen een verschillende prijs heeft, zou de wisselkoers zich op termijn moeten aanpassen tot het overal even duur is. De Big Mac is daarvoor een handige meetlat, want het is ongeveer overal hetzelfde product, met brood, vlees, groenten, arbeid en huur erin. Je deelt de lokale prijs door de Amerikaanse prijs in dollar. Dat geeft een 'burgerkoers'. Ligt die hoger dan de echte wisselkoers, dan is de lokale munt volgens de index overgewaardeerd.\n\n## Een voorbeeld\n\nStel, met ronde voorbeeldcijfers: een Big Mac kost 6 dollar in de VS en 5,40 euro in de eurozone. De burgerkoers is dan 5,40 gedeeld door 6, of 0,90 euro per dollar. Krijg je op de markt maar 0,85 euro per dollar, dan betaalt een Amerikaan omgerekend ongeveer 6,35 dollar voor jouw burger. De euro lijkt dan zo'n 6 procent te duur.\n\nEen echt geval: in juli 2023 kostte een Big Mac 6,70 Zwitserse frank en 5,58 dollar in de VS. De burgerkoers was 1,20 frank per dollar, terwijl de markt 0,87 gaf. De frank leek zo'n 38 procent overgewaardeerd.\n\n## Wat onderzoek zegt\n\nJournaliste Pam Woodall bedacht de index in september 1986 als een half grappige illustratie van koopkrachtpariteit. The Economist noemt hem zelf een luchtige gids om te zien of munten op hun 'juiste' niveau staan. Sindsdien verschijnt hij geregeld, de laatste jaren twee keer per jaar. Hij leverde zelfs het woord 'burgernomics' op. Economen gebruiken hem als ruwe maar herkenbare benadering.\n\n## Nuance of misverstand\n\nEen burger bevat veel lokale kosten: lonen, huur en belastingen. Die liggen in armere landen lager, dus is een burger daar logischerwijs goedkoper, zonder dat de munt echt 'te goedkoop' is. Daarom publiceert The Economist sinds 2011 ook een versie die corrigeert voor het bruto binnenlands product per inwoner. Verder is de prijs afhankelijk van concurrentie en van de strategie van McDonald's zelf, en telt de index alleen landen met een McDonald's. Gebruik hem dus nooit als beleggingsadvies.\n\n## Wat je ermee doet\n\nGebruik de index als intuïtieve eerste blik: waarom is een land duur of goedkoop voor jou als toerist? Wil je echt koopkracht vergelijken, kijk dan naar de officiële cijfers van Eurostat of de Wereldbank, die met een hele korf goederen werken in plaats van één burger.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Eén burger, twee munten</text><g><animateTransform attributeName=\"transform\" type=\"rotate\" values=\"-4 180 80;4 180 80;-4 180 80\" dur=\"5s\" repeatCount=\"indefinite\"/><path d=\"M70,80 L290,80\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M70,80 L50,120 L110,120 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M290,80 L250,120 L310,120 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"80\" y=\"112\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">$6,00</text><text x=\"280\" y=\"112\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">€5,40</text></g><path d=\"M180,80 L180,140\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M160,140 L200,140\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"80\" y=\"140\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">VS</text><text x=\"280\" y=\"140\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">eurozone</text><text x=\"180\" y=\"170\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">burgerkoers: 5,40 / 6,00 = 0,90 € per $</text><text x=\"180\" y=\"192\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">markt: 0,85 € per $ → euro te duur</text><text x=\"180\" y=\"210\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">(voorbeeldcijfers)</text></svg>",
+   "quiz": {
+    "q": "Een Big Mac kost omgerekend veel meer in land X dan in de VS. Wat suggereert de Big Mac-index?",
+    "o": [
+     "De munt van land X is ondergewaardeerd",
+     "De munt van land X lijkt overgewaardeerd",
+     "De Amerikaanse burger is van slechtere kwaliteit"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "The Economist: Big Mac index",
+     "u": "https://www.economist.com/big-mac-index"
+    },
+    {
+     "t": "MarketWatch via Morningstar: de index wordt 40",
+     "u": "https://www.morningstar.com/news/marketwatch/20260731106/the-big-mac-index-turns-40-heres-why-its-still-relevant"
+    },
+    {
+     "t": "JNS: Big Mac-index januari 2026",
+     "u": "https://www.jns.org/news/israel-news/israel-ranked-second-in-big-mac-index-2026"
+    }
+   ],
+   "date": "2026-11-22T05:45:38Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Waarom je obligatie zakt als de rente stijgt",
+   "body": "Je kocht een obligatie van 1.000 euro die tien jaar lang 3 procent rente betaalt. Nu geven nieuwe obligaties 4 procent. Wie wil jouw 30 euro per jaar nog als hij elders 40 krijgt? Alleen als hij je obligatie goedkoper kan kopen: rond 919 euro. Rente en koers bewegen daarom altijd tegengesteld.",
+   "take": "Heb je je geld nodig voor de vervaldag, kies dan een korte looptijd: die schommelt veel minder als de rente verandert.",
+   "deep": "## Hoe het werkt\n\nEen klassieke obligatie is een lening met een vaste rente, de coupon. Op de vervaldag krijg je je inleg terug. Die coupon verandert niet, ook niet als de rente in de markt stijgt of daalt. Wil je de obligatie voor de vervaldag verkopen, dan moet ze concurreren met nieuwe obligaties. Betalen die meer, dan zakt de prijs van jouw obligatie tot de koper netto hetzelfde rendement haalt als bij een nieuwe. Daalt de marktrente, dan gebeurt het omgekeerde: je oude, hogere coupon wordt gegeerd en je koers stijgt.\n\n## Een voorbeeld\n\nStel: je hebt een obligatie van 1.000 euro die nog tien jaar loopt en jaarlijks 30 euro uitkeert, of 3 procent. De marktrente voor tien jaar stijgt naar 4 procent. Een koper berekent wat jouw toekomstige 30 euro per jaar en de 1.000 euro op het einde waard zijn als hij elders 4 procent kan krijgen. Dat komt neer op ongeveer 919 euro, een verlies van 8 procent. Loopt dezelfde obligatie nog maar één jaar, dan zakt ze slechts tot ongeveer 990 euro. Bij dertig jaar zou het rond 827 euro zijn.\n\nVlamingen kennen de staatsbon: in september 2023 haalde de Belgische Staat 21,9 miljard euro op met een eenjarige staatsbon tegen 3,30 procent bruto. Omdat die maar één jaar liep, was het koersrisico klein.\n\n## Wat onderzoek zegt\n\nDe Amerikaanse beurswaakhond SEC legt in haar beleggersinformatie uit dat de prijzen van obligaties met vaste rente dalen als de marktrente stijgt, omdat ze moeten concurreren met nieuwe uitgiftes. De SEC wijst er ook op dat obligaties met een lagere coupon en een langere looptijd gevoeliger zijn voor renteschommelingen. De Federal Reserve Bank of St. Louis maakt dezelfde redenering met eenvoudige rekenvoorbeelden.\n\n## Nuance of misverstand\n\nEen koersdaling is alleen een echt verlies als je verkoopt. Houd je de obligatie tot de vervaldag en betaalt de uitgever terug, dan krijg je gewoon je 1.000 euro plus alle coupons. Voor obligatiefondsen ligt dat anders: zij hebben geen vaste vervaldag, dus een renteschok is daar meteen zichtbaar in de waarde. Het omgekeerde geldt ook: wie koopt wanneer de rente hoog staat, kan winst maken als ze later daalt.\n\n## Wat je ermee doet\n\nKies een looptijd die past bij het moment waarop je het geld nodig hebt. Spaar je voor een aankoop binnen twee jaar, neem dan geen obligatie van tien jaar. Bekijk bij een obligatiefonds de gemiddelde looptijd of 'duration': hoe hoger, hoe sterker de koers reageert op rentewijzigingen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Rente omhoog, koers omlaag</text><path d=\"M180,150 L165,180 L195,180 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><g><animateTransform attributeName=\"transform\" type=\"rotate\" values=\"12 180 150;-12 180 150;12 180 150\" dur=\"6s\" repeatCount=\"indefinite\"/><path d=\"M50,150 L310,150\" stroke=\"#fff\" stroke-width=\"3\"/><rect x=\"30\" y=\"120\" width=\"80\" height=\"30\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"70\" y=\"140\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">rente</text><rect x=\"250\" y=\"120\" width=\"80\" height=\"30\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"290\" y=\"140\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">koers</text></g><text x=\"180\" y=\"50\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">oude obligatie 3% · nieuwe 4%</text><text x=\"180\" y=\"72\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">€1.000, 10 jaar → nu ±€919 waard</text><text x=\"180\" y=\"208\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">de vaste rente moet concurreren met nieuw</text></svg>",
+   "quiz": {
+    "q": "Je hebt een 3%-obligatie en de marktrente daalt naar 2%. Wat gebeurt er met de koers van je obligatie?",
+    "o": [
+     "Die daalt",
+     "Die blijft altijd gelijk",
+     "Die stijgt"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "SEC Investor.gov: renterisico bij obligaties",
+     "u": "https://www.investor.gov/news-alerts/investor-bulletins/interest-rate-risk-when-interest-rates-go-prices-fixed-rate-bonds-fal"
+    },
+    {
+     "t": "Federal Reserve Bank of St. Louis (2023)",
+     "u": "https://www.stlouisfed.org/publications/page-one-economics/2023/11/03/why-do-bond-prices-and-interest-rates-move-in-opposite-directions"
+    },
+    {
+     "t": "Belgische Federale Overheid: resultaat staatsbon 4 september 2023",
+     "u": "https://news.belgium.be/en/node/34495"
+    }
+   ],
+   "date": "2026-11-22T05:45:38Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Koffie morsen maakte een slimmerik sympathieker",
+   "body": "Elliot Aronson liet in 1966 studenten een opname horen van een quizkandidaat. Wie 92 procent juist antwoordde en daarna koffie over zich heen morste, werd sympathieker gevonden dan dezelfde uitblinker zonder blunder. Bij een middelmatige kandidaat werkte de blunder net averechts. Dat heet het pratfall-effect: een klein foutje maakt wie al overtuigt menselijker.",
+   "take": "Geef in een presentatie of productpagina gerust één eerlijk minpuntje toe, maar pas nadat je je kwaliteit hebt aangetoond.",
+   "deep": "## Hoe het werkt\n\nIemand die alles perfect doet, kan afstandelijk of zelfs bedreigend overkomen. Een kleine, onschuldige misser maakt die persoon menselijker en benaderbaarder. Maar die misser werkt alleen als je bekwaamheid al vaststaat. Bij iemand van wie je de kwaliteit nog niet kent, bevestigt een blunder eerder je twijfel. Het effect hangt dus af van de volgorde: eerst competentie, dan pas het foutje.\n\n## Een voorbeeld\n\nEen chef die in een kookprogramma een prachtig gerecht maakt en dan lachend een ei laat vallen, wordt daar vaak sympathieker door. Een amateur die hetzelfde ei laat vallen, oogt gewoon onhandig. In reclame zie je een verwant principe: Volkswagen plaatste in 1960 een beroemde advertentie met de kop 'Lemon', over een Kever die werd afgekeurd omdat een chroomstripje beschadigd was. De boodschap: wij zijn zo streng dat we zelfs dit niet laten passeren.\n\n## Wat onderzoek zegt\n\nElliot Aronson, Ben Willerman en Joanne Floyd publiceerden hun studie in 1966 in Psychonomic Science. 48 mannelijke studenten luisterden naar een van vier bandopnames van een kandidaat die auditie deed voor een quiz. De kandidaat was ofwel uitblinker, met 92 procent juiste antwoorden, ofwel middelmatig. In twee versies morste hij aan het einde koffie over zijn pak. De blunder verhoogde de sympathie voor de uitblinker en verlaagde die voor de middelmatige kandidaat.\n\nVerwant onderzoek over online beoordelingen wijst in dezelfde richting. Het Spiegel Research Center van Northwestern University vond dat de kans op een aankoop meestal het hoogst ligt bij een gemiddelde score tussen 4,0 en 4,7 sterren. Een perfecte 5 oogt al snel 'te mooi om waar te zijn'.\n\n## Nuance of misverstand\n\nHet pratfall-effect is geen vrijbrief om slordig te zijn. Het ging om één kleine, onschuldige misser, niet om fouten in het eigenlijke werk. De originele studie was klein en testte alleen mannelijke studenten. Een vervolgstudie uit 1970 toonde dat ook het zelfbeeld van de luisteraar meespeelt in hoe hij op de blunder reageert. Een chirurg die zijn patiënt laat vallen, wint er geen sympathie mee.\n\n## Wat je ermee doet\n\nToon eerst wat je kan, met resultaten, cijfers of referenties. Durf daarna een klein, eerlijk minpunt toe te geven dat niet raakt aan je kerntaak. Als merk kan je bijvoorbeeld negatieve reviews zichtbaar laten en er netjes op antwoorden. Perfectie wekt wantrouwen; geloofwaardigheid wekt vertrouwen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Dezelfde blunder, ander effect</text><rect x=\"20\" y=\"45\" width=\"140\" height=\"40\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"90\" y=\"70\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">uitblinker (92%)</text><rect x=\"200\" y=\"45\" width=\"140\" height=\"40\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"270\" y=\"70\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">gemiddelde kandidaat</text><path d=\"M168,112 L192,112 L188,140 L172,140 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"180\" y=\"103\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">koffie gemorst</text><circle cx=\"180\" cy=\"140\" r=\"3\" fill=\"#ffd166\"><animate attributeName=\"cy\" values=\"140;175\" dur=\"1.5s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></circle><g><animate attributeName=\"opacity\" values=\"0.4;1;0.4\" dur=\"3s\" repeatCount=\"indefinite\"/><path d=\"M90,190 L90,100\" stroke=\"#06d6a0\" stroke-width=\"2\" fill=\"none\"/><path d=\"M90,100 L93.5,107.2 L86.5,107.2 Z\" fill=\"#06d6a0\"/></g><text x=\"118\" y=\"150\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">meer</text><text x=\"118\" y=\"164\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">sympathie</text><g><animate attributeName=\"opacity\" values=\"0.4;1;0.4\" dur=\"3s\" begin=\"1.5s\" repeatCount=\"indefinite\"/><path d=\"M270,100 L270,190\" stroke=\"#ff6b9d\" stroke-width=\"2\" fill=\"none\"/><path d=\"M270,190 L266.5,182.8 L273.5,182.8 Z\" fill=\"#ff6b9d\"/></g><text x=\"242\" y=\"150\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">minder</text><text x=\"242\" y=\"164\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">sympathie</text><text x=\"180\" y=\"210\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Aronson e.a., 1966</text></svg>",
+   "quiz": {
+    "q": "Bij wie maakte het morsen van koffie de kandidaat juist minder sympathiek?",
+    "o": [
+     "Bij de middelmatige kandidaat",
+     "Bij de uitblinker",
+     "Bij beide kandidaten evenveel"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Aronson, Willerman & Floyd (1966), Psychonomic Science",
+     "u": "https://www.doi.org/10.3758/BF03342263"
+    },
+    {
+     "t": "Spiegel Research Center, Northwestern University",
+     "u": "https://spiegel.medill.northwestern.edu/How-Online-Reviews-Influence-Sales"
+    },
+    {
+     "t": "Volkswagen Group: advertentie 'Lemon' (1960)",
+     "u": "https://www.volkswagen-group.com/en/images/detail/chronicle-1960-ad-lemon-78559"
+    }
+   ],
+   "date": "2026-11-22T05:45:38Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Dat nieuwe product kocht zijn plek in het rek",
+   "body": "Supermarkten verkopen niet alleen aan jou, ze verhuren ook hun rekken. Fabrikanten betalen vaak schapgeld, in het Engels slotting fees, om een nieuw product in de winkel te krijgen. De Amerikaanse mededingingswaakhond FTC onderzocht dat in 2003 voor onder meer brood, ijs en pasta: gemiddeld 2.313 tot 21.768 dollar per product, per winkelketen, per regio.",
+   "take": "Nieuw product op ooghoogte of op een kop van het rek? Die plek is vaak betaald: vergelijk ook de onderste rij.",
+   "deep": "## Hoe het werkt\n\nRekruimte in een supermarkt is schaars: elk nieuw product moet een ander uit het rek duwen. Een supermarkt neemt bovendien een risico, want veel nieuwe producten verkopen slecht. Dus vraagt de keten de fabrikant om mee te betalen. Dat kan een eenmalig bedrag zijn om binnen te raken, maar er bestaan ook betalingen voor een betere plek, voor promotie of om in het assortiment te blijven. In Europa spreekt men vaak van listing fees of referentievergoedingen.\n\n## Een voorbeeld\n\nEen kleine Vlaamse brouwerij wil haar nieuwe bier in de rekken van een grote keten. Het product is goed, maar naast de inkoopprijs vraagt de keten een bijdrage om het in tientallen winkels op te nemen, plus geld voor een plekje in de folder. Een multinational betaalt dat gemakkelijk. Voor de kleine brouwer is het een flinke hap uit het budget voor het hele jaar.\n\n## Wat onderzoek zegt\n\nDe Federal Trade Commission publiceerde in november 2003 een rapport aan het Amerikaanse Congres met gevalstudies over vijf productcategorieën: vers brood, hotdogs, ijs en ijsjes, droge pasta en houdbare saladedressing. De gemiddelde vergoeding liep per categorie uiteen van 2.313 tot 21.768 dollar per product, per keten, per stedelijke regio. Fabrikanten schatten dat een nationale lancering van een nieuw product 1,5 tot 2 miljoen dollar aan schapgeld kon kosten. De meeste ondervraagde ketens zeiden dat de vergoedingen de kosten van nieuwe producten helpen dekken. De FTC waarschuwde zelf dat de steekproef klein was en misschien niet representatief.\n\nIn Europa beschreef een rapport van de Nederlandse onderzoeksorganisatie SOMO in 2009 zulke betalingen als een van de manieren waarop machtige supermarktketens druk zetten op leveranciers.\n\n## Nuance of misverstand\n\nSchapgeld is niet per definitie oneerlijk. Economen zijn verdeeld. Voorstanders zeggen dat het risico eerlijk verdeelt: de fabrikant kent zijn product het best en betaalt als hij er echt in gelooft. Critici vrezen dat kleine producenten zo uit de rekken worden geweerd en dat de keuze voor de klant kleiner wordt. Bovendien zijn de bedragen meestal geheim, wat onderzoek moeilijk maakt.\n\n## Wat je ermee doet\n\nWees je ervan bewust dat de opstelling in een winkel geen neutrale weergave is van wat het populairst of het best is. Kijk ook naar de bovenste en onderste rij, waar vaak goedkopere of kleinere merken staan. En wil je lokale producenten steunen, koop dan ook eens rechtstreeks, op een markt of in een buurtwinkel.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Betalen voor een plaats in het rek</text><rect x=\"15\" y=\"80\" width=\"100\" height=\"50\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"65\" y=\"110\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">fabrikant</text><rect x=\"245\" y=\"80\" width=\"100\" height=\"50\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"295\" y=\"110\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">supermarkt</text><path d=\"M120,95 L240,95\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"4 4\" fill=\"none\" opacity=\"0.5\"/><text x=\"180\" y=\"82\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">schapgeld €</text><circle r=\"6\" fill=\"#ffd166\"><animateMotion path=\"M120,95 L240,95\" dur=\"2.4s\" begin=\"0s\" repeatCount=\"indefinite\"/></circle><circle r=\"6\" fill=\"#ffd166\"><animateMotion path=\"M120,95 L240,95\" dur=\"2.4s\" begin=\"0.8s\" repeatCount=\"indefinite\"/></circle><circle r=\"6\" fill=\"#ffd166\"><animateMotion path=\"M120,95 L240,95\" dur=\"2.4s\" begin=\"1.6s\" repeatCount=\"indefinite\"/></circle><path d=\"M295,135 L295,160\" stroke=\"#06d6a0\" stroke-width=\"2\" fill=\"none\"/><path d=\"M295,160 L291.5,152.8 L298.5,152.8 Z\" fill=\"#06d6a0\"/><path d=\"M200,165 L340,165 M200,195 L340,195\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"270\" y=\"212\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">schapruimte</text><rect x=\"210\" y=\"170\" width=\"22\" height=\"22\" rx=\"2\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"240\" y=\"170\" width=\"22\" height=\"22\" rx=\"2\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"300\" y=\"170\" width=\"22\" height=\"22\" rx=\"2\" fill=\"#06d6a0\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0;1;1;0\" keyTimes=\"0;0.3;0.8;1\" dur=\"4.8s\" repeatCount=\"indefinite\"/></rect><text x=\"80\" y=\"170\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">nieuw product</text><text x=\"80\" y=\"186\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">krijgt een plekje</text></svg>",
+   "quiz": {
+    "q": "Wat is schapgeld of een slotting fee?",
+    "o": [
+     "Een korting die de supermarkt aan de klant geeft",
+     "Een boete voor producten die over datum zijn",
+     "Een betaling van een fabrikant aan een winkel om een product in de rekken te krijgen"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "FTC (2003): persbericht slotting-rapport",
+     "u": "https://www.ftc.gov/news-events/news/press-releases/2003/11/ftc-releases-grocery-industry-slotting-allowance-report"
+    },
+    {
+     "t": "FTC (2003): Slotting Allowances in the Retail Grocery Industry",
+     "u": "https://www.ftc.gov/sites/default/files/documents/reports/use-slotting-allowances-retail-grocery-industry/slottingallowancerpt031114.pdf"
+    },
+    {
+     "t": "California State Senate: Shelf-Access Payments",
+     "u": "https://sor.senate.ca.gov/sites/sor.senate.ca.gov/files/Shelf-Access%20Payments.pdf"
+    }
+   ],
+   "date": "2026-11-22T05:45:38Z"
   }
  ],
  "dives": [
