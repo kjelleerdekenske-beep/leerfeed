@@ -1,6 +1,323 @@
 {
- "updated": "2026-11-23T05:39:45Z",
- "cards": [],
+ "updated": "2026-11-23T05:43:54Z",
+ "cards": [
+  {
+   "cat": "psychologie",
+   "title": "Je went aan geluk, maar niet aan alles",
+   "body": "In 1978 vergeleken Brickman en collega's 22 loterijwinnaars met 22 gewone mensen en 29 mensen die na een ongeval verlamd waren geraakt. De winnaars waren niet significant gelukkiger en genoten minder van alledaagse dingen. Dat heet hedonische adaptatie: we wennen. Maar latere studies tonen dat sommige klappen, zoals werkloosheid, blijvend kunnen wegen.",
+   "take": "Wissel kleine pleziertjes af in plaats van er één elke dag te herhalen, zodat de gewenning minder snel toeslaat.",
+   "deep": "## Hoe het werkt\n\nHedonische adaptatie betekent dat je gevoel na een grote verandering langzaam terugschuift naar een soort basisniveau. Eerst reageer je sterk: een promotie, een nieuwe auto of een verhuis voelt fantastisch. Daarna wordt het nieuwe normaal. Je vergelijkt niet meer met vroeger, maar met je nieuwe dagelijkse leven, en de extra vreugde slijt. Hetzelfde gebeurt deels met tegenslag: wat eerst ondraaglijk lijkt, wordt na een tijd een deel van je leven waarmee je leert omgaan.\n\n## Een voorbeeld\n\nDenk aan je nieuwe gsm. De eerste week ben je blij met elke foto en elke snelle swipe. Na een paar maanden merk je er niets meer van, tot je het oude toestel van iemand anders vastneemt. Of aan het grotere huis met een tuin: na een jaar is die tuin vooral een gras dat gemaaid moet worden.\n\n## Wat onderzoek zegt\n\nDe bekendste studie is die van Philip Brickman, Dan Coates en Ronnie Janoff-Bulman uit 1978. Ze vergeleken 22 winnaars van een grote loterij met 22 controlepersonen en 29 mensen die na een ongeval verlamd waren geraakt. De winnaars waren niet significant gelukkiger dan de controlegroep en haalden minder plezier uit gewone dingen.\n\nIn 2006 schreven Ed Diener, Richard Lucas en Christie Napa Scollon in American Psychologist dat het idee van de 'hedonische tredmolen' vijf aanpassingen nodig heeft. Het belangrijkste: je basisniveau kan onder sommige omstandigheden wél veranderen, en mensen verschillen sterk in hoe ze zich aanpassen. Analyses van grote panelstudies, onder meer in Duitsland, vonden dat werkloosheid samengaat met blijvend lagere levenstevredenheid, zelfs na een nieuwe job. Voor langdurige beperking vond Lucas ook een blijvende daling, al spreken andere studies dat deels tegen.\n\n## Nuance of misverstand\n\nBrickman wordt vaak verkeerd geciteerd, alsof verlamde mensen even gelukkig zouden zijn als anderen. Economen van de universiteit van Warwick wezen erop dat de groep met een verlamming in de originele data wél verschilde van de controlegroep. De winnaars scoorden zelfs iets hoger, alleen was het verschil niet statistisch significant bij zo'n kleine groep. Wennen is dus echt, maar niet volledig en niet voor iedereen.\n\n## Wat je ermee doet\n\nVerwacht niet dat één grote aankoop je blijvend gelukkiger maakt. Kies liever voor afwisseling: nieuwe ervaringen, wisselende uitstapjes, tijd met mensen. En bij tegenslag mag je weten dat het meestal makkelijker wordt, maar dat hulp zoeken zinvol blijft als dat niet gebeurt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><line x1=\"30\" y1=\"190\" x2=\"340\" y2=\"190\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"30\" y1=\"190\" x2=\"30\" y2=\"30\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"30\" y1=\"130\" x2=\"340\" y2=\"130\" stroke=\"#fff\" stroke-width=\"1\" stroke-dasharray=\"4 4\" opacity=\"0.5\"/><path id=\"p1\" d=\"M30 130 L100 130 L120 50 C160 60 200 125 240 130 L340 130\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><circle r=\"6\" fill=\"#06d6a0\"><animateMotion dur=\"6s\" repeatCount=\"indefinite\" path=\"M30 130 L100 130 L120 50 C160 60 200 125 240 130 L340 130\"/></circle><text x=\"124\" y=\"42\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">meevaller</text><text x=\"190\" y=\"100\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">gewenning</text><text x=\"250\" y=\"150\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">terug naar basis</text><text x=\"34\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">geluk</text><text x=\"338\" y=\"208\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">tijd</text></svg>",
+   "quiz": {
+    "q": "Wat vonden Brickman en collega's in 1978 bij loterijwinnaars?",
+    "o": [
+     "Ze waren niet significant gelukkiger en genoten minder van alledaagse dingen",
+     "Ze waren jarenlang veel gelukkiger dan anderen",
+     "Ze werden ongelukkiger dan mensen met een verlamming"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Brickman e.a. 1978 (PubMed)",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/690806/"
+    },
+    {
+     "t": "Diener e.a. 2006, Beyond the Hedonic Treadmill",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/16719675/"
+    },
+    {
+     "t": "Oswald e.a., Warwick",
+     "u": "https://warwick.ac.uk/fac/soc/economics/staff/ajoswald/download/hcmarchfinal.pdf"
+    }
+   ],
+   "date": "2026-11-23T05:43:54Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Een verbod maakt iets net aantrekkelijker",
+   "body": "Psycholoog Jack Brehm noemde het in 1966 reactantie: als iemand je vrijheid inperkt, voel je de drang om die terug te pakken. In een klassieke proef vonden deelnemers een muziekplaat aantrekkelijker zodra ze hoorden dat ze die niet konden krijgen. Een meta-analyse van 20 studies toont dat reactantie bestaat uit boosheid plus tegenargumenten.",
+   "take": "Wil je iemand overtuigen? Geef keuze en uitleg in plaats van 'je moet', zodat de ander zich niet in een hoek voelt geduwd.",
+   "deep": "## Hoe het werkt\n\nVolgens Brehms theorie verloopt reactantie in vier stappen. Je ervaart een vrijheid: je mag zelf kiezen. Iets of iemand bedreigt die vrijheid, met een verbod, een bevel of een opdringerige boodschap. Dat wekt reactantie op, een onaangename spanning. En dan probeer je je vrijheid te herstellen. Dat kan rechtstreeks, door net te doen wat verboden is (het boemerangeffect), of onrechtstreeks: je vindt het verboden ding plots aantrekkelijker, of je kraakt de bron van het verbod af. Hoe belangrijker de vrijheid voor jou is, hoe sterker de reactie.\n\n## Een voorbeeld\n\nEen tiener krijgt te horen dat hij absoluut niet naar dat ene feestje mag. Vanaf dan is dat feestje het enige waar hij aan denkt. Of een campagne die streng 'Stop nu met roken!' roept: bij sommige rokers wekt dat vooral ergernis op, en die ergernis maakt de boodschap minder overtuigend.\n\n## Wat onderzoek zegt\n\nBrehm stelde de theorie voor in 1966. In een van de eerste studies beoordeelden deelnemers een reeks muziekplaten, kozen ze hun top drie en mochten ze er één houden. Daarna hoorden ze dat hun derde keuze niet beschikbaar was. Bij een nieuwe beoordeling vonden ze net die plaat aantrekkelijker dan eerst.\n\nStephen Rains bundelde in 2013 twintig studies met samen 4.942 deelnemers. Het model dat het best paste, beschrijft reactantie als een mengeling van boosheid en tegenargumenten: je wordt kwaad en gaat in je hoofd tegen de boodschap in.\n\n## Nuance of misverstand\n\nNiet elk verbod werkt averechts. Reactantie is sterker als de vrijheid belangrijk is en de boodschap dwingend klinkt. Ook het bekende 'Romeo-en-Julia-effect', het idee dat bemoeizuchtige ouders een liefde net sterker maken, is wankel: een studie uit 1972 vond het, maar een herhaling in 2014 bij 396 mensen met een relatie vond er geen bewijs voor. Ouderlijke afkeuring hing eerder samen met slechtere relaties.\n\n## Wat je ermee doet\n\nFormuleer verzoeken als keuzes: 'Wil je dit of dat?' in plaats van 'Je moet'. Leg uit waarom iets belangrijk is en erken dat de ander zelf beslist. En merk je bij jezelf dat iets vooral aantrekkelijk wordt omdat het verboden is, vraag je dan af of je het ook zou willen als het gewoon mocht.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"40\" y=\"60\" width=\"110\" height=\"110\" rx=\"10\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"210\" y=\"60\" width=\"110\" height=\"110\" rx=\"10\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"215\" y1=\"65\" x2=\"315\" y2=\"165\" stroke=\"#ff6b9d\" stroke-width=\"3\"/><text x=\"95\" y=\"50\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">vrije keuze</text><text x=\"265\" y=\"50\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">verboden</text><rect x=\"80\" y=\"130\" width=\"30\" height=\"30\" fill=\"#06d6a0\"/><rect x=\"250\" y=\"130\" width=\"30\" height=\"30\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"30;80;30\" dur=\"5s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"130;80;130\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"180\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">aantrekkelijkheid stijgt na een verbod</text></svg>",
+   "quiz": {
+    "q": "Wat gebeurde er in Brehms platenproef met de plaat die plots onbeschikbaar werd?",
+    "o": [
+     "Ze werd minder aantrekkelijk gevonden",
+     "Ze werd aantrekkelijker gevonden",
+     "Deelnemers vergaten ze meteen"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Steindl e.a. 2015, Understanding Psychological Reactance",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4675534"
+    },
+    {
+     "t": "Rains 2013, Human Communication Research",
+     "u": "https://academic.oup.com/hcr/article-abstract/39/1/47/4093682"
+    },
+    {
+     "t": "Sinclair e.a. 2014, Social Psychology",
+     "u": "https://econtent.hogrefe.com/doi/10.1027/1864-9335/a000181"
+    }
+   ],
+   "date": "2026-11-23T05:43:54Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Ochtendmens of avondmens: je brein heeft een piekuur",
+   "body": "Psychologen noemen het het synchrony-effect: je presteert beter op taken die geheugen en concentratie vragen als je ze doet op 'jouw' uur. Ochtendtypes scoren 's morgens beter, avondtypes 's avonds. In een enquête bij zo'n 25.000 mensen bleek bovendien dat we het laatst zijn rond onze twintigste.",
+   "take": "Plan je zwaarste denkwerk op je eigen piekmoment en houd routineklusjes voor je dalmomenten.",
+   "deep": "## Hoe het werkt\n\nJe lichaam volgt een dagritme dat je alertheid doorheen de dag laat stijgen en dalen. Dat ritme ligt niet bij iedereen even vroeg: dat heet je chronotype. Bij ochtendtypes ligt de piek vroeg, bij avondtypes later. Taken die veel van je werkgeheugen en zelfbeheersing vragen, zoals iets nieuws leren, afleidingen negeren of een moeilijke beslissing nemen, lukken het best als je piek en het tijdstip samenvallen. Buiten je piek moet je brein harder werken voor hetzelfde resultaat.\n\n## Een voorbeeld\n\nEen student die van nature laat opstaat, zit om 8.30 uur in een examenzaal. Hij is niet dommer dan om 15 uur, maar zijn aandacht dwaalt sneller af. Zijn grootvader, die om 6 uur al wakker is, lost net 's morgens zijn kruiswoordraadsel het vlotst op.\n\n## Wat onderzoek zegt\n\nCynthia May en Lynn Hasher onderzochten dit vanaf de jaren 1990. Ze vonden voor verschillende geheugentaken dat avondtypes 's avonds beter scoren en ochtendtypes 's morgens. Een overzichtsstudie uit 2025 vond het effect in 10 van 12 studies bij ouderen, maar slechts in 29 van 64 studies bij volwassenen tussen 18 en 45 jaar.\n\nTill Roenneberg bevroeg in 2004 via internet zo'n 25.000 mensen tussen 8 en 90 jaar. Kinderen waren meestal vroege types, tieners werden steeds later, met een piek in 'laatheid' rond 20 jaar. Daarna schuiven we weer vroeger op. Ouderen zijn vaak ochtendtypes. In Argentinië deden ochtendtypes het bij 753 leerlingen in ochtendlessen beter dan avondtypes; in middaglessen verdween dat verschil.\n\n## Nuance of misverstand\n\nHet effect geldt vooral voor taken waar je bewust je best moet doen. Een studie van May, Hasher en Foong uit 2005 vond dat onbewust, impliciet geheugen net beter werkte buiten de piek. Het effect is ook het duidelijkst bij uitgesproken ochtend- of avondtypes; veel mensen zitten ergens in het midden. En een chronotype is geen excuus om nooit vroeg te beginnen: het is een neiging, geen vast lot.\n\n## Wat je ermee doet\n\nLet een week op wanneer je je het scherpst voelt. Leg daar het werk dat echt denkkracht vraagt, zoals studeren, schrijven of plannen. Mails, opruimen en routinetaken kunnen in je dal. Ben je ouder, dan ligt je beste moment vaak eerder op de dag dan vroeger.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><line x1=\"30\" y1=\"180\" x2=\"340\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M30 160 C80 40 120 40 170 110 C220 160 280 170 340 165\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><path d=\"M30 170 C100 170 160 150 210 100 C250 60 300 50 340 90\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"60\" y=\"40\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">ochtendtype</text><text x=\"250\" y=\"40\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">avondtype</text><text x=\"30\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">8u</text><text x=\"180\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">14u</text><text x=\"340\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">20u</text><line x1=\"40\" y1=\"30\" x2=\"40\" y2=\"180\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animateTransform attributeName=\"transform\" type=\"translate\" values=\"0 0;290 0;0 0\" dur=\"8s\" repeatCount=\"indefinite\"/></line><text x=\"180\" y=\"214\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">prestatie volgt je eigen piekuur</text></svg>",
+   "quiz": {
+    "q": "Rond welke leeftijd zijn mensen volgens Roenneberg het meest 'avondmens'?",
+    "o": [
+     "Rond 10 jaar",
+     "Rond 45 jaar",
+     "Rond 20 jaar"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "APA Monitor, Good timing (2018)",
+     "u": "https://www.apa.org/monitor/2018/06/good-timing"
+    },
+    {
+     "t": "Nature News 2004, Roenneberg",
+     "u": "https://www.nature.com/news/2004/041229/full/news041229-5.html"
+    },
+    {
+     "t": "Chronobiology International 2025, review",
+     "u": "https://tandfonline.com/doi/full/10.1080/07420528.2025.2490495"
+    }
+   ],
+   "date": "2026-11-23T05:43:54Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "De hongerige rechters: een beroemde studie onder vuur",
+   "body": "In 2011 analyseerden Danziger en collega's 1.112 beslissingen van acht Israëlische rechters over voorwaardelijke vrijlating. Aan het begin van een zitting kreeg zo'n 65% een gunstig oordeel, daarna zakte dat soms tot bijna nul, tot na de pauze. Critici wijzen op de volgorde: gevangenen zonder advocaat kwamen vaak als laatste.",
+   "take": "Neem belangrijke beslissingen niet aan het einde van een lange reeks, maar wees voorzichtig met de verklaring 'het ligt aan honger'.",
+   "deep": "## Hoe het werkt\n\nHet idee achter beslissingsmoeheid is eenvoudig: wie veel beslissingen na elkaar neemt, raakt mentaal vermoeid en kiest steeds vaker de makkelijkste optie. Bij een rechter is dat de status quo: de gevangene blijft zitten. Na een pauze met eten zou die vermoeidheid wegvallen en durft de rechter weer een actieve keuze te maken. Zo zou je een daling binnen elke zitting krijgen, en een herstel na elke pauze.\n\n## Een voorbeeld\n\nStel je een loket voor waar een ambtenaar de hele voormiddag aanvragen behandelt. De studie suggereert dat jouw kansen kleiner zijn als je net voor de middagpauze aan de beurt komt. Dat verhaal ging de wereld rond en wordt nog altijd verteld op lezingen over productiviteit.\n\n## Wat onderzoek zegt\n\nShai Danziger, Jonathan Levav en Liora Avnaim-Pesso publiceerden in 2011 in PNAS een analyse van 1.112 hoorzittingen, bij acht ervaren rechters, verspreid over 50 dagen in een periode van tien maanden. De kans op een gunstige beslissing daalde van ongeveer 65% bij de eerste zaak naar bijna 0% bij de laatste zaak van een zitting, en herstelde na een etenspauze.\n\nNog datzelfde jaar schreven Keren Weinshall-Margel en John Shapard in PNAS dat de volgorde van de zaken niet willekeurig was: gevangenen zonder advocaat kwamen meestal als laatste en kregen sowieso minder vaak vrijlating. Danziger en collega's antwoordden dat hun effect bleef bestaan na correctie. In 2016 toonde Andreas Glöckner met simulaties dat een volledig rationele rechter, die net voor de pauze geen lange zaak meer begint, een gelijkaardig patroon zou opleveren, omdat gunstige beslissingen langer duren.\n\n## Nuance of misverstand\n\nDe studie wordt vaak voorgesteld als bewijs dat je hersenen 'leeglopen' zonder eten. Maar het idee van wilskracht als batterij die leegloopt, staat zelf onder druk in herhalingsonderzoek. De rechtersstudie toont een opvallend patroon, maar niet zonder twijfel de oorzaak. Volgens Glöckner is de omvang van het effect overschat.\n\n## Wat je ermee doet\n\nOrganiseer je eigen beslissingen slim: plan belangrijke keuzes niet als laatste punt van een lange vergadering, en zet ze niet allemaal na elkaar. Maar wees ook kritisch bij spectaculaire cijfers: vraag je af of de volgorde of selectie van gevallen het resultaat kan verklaren, voor je er een levensles van maakt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><line x1=\"30\" y1=\"170\" x2=\"340\" y2=\"170\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"40\" y=\"66\" width=\"16\" height=\"104\" fill=\"#ffd166\" opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;1;1;0.2\" keyTimes=\"0;0.1;0.9;1\" dur=\"6s\" begin=\"0.0s\" repeatCount=\"indefinite\"/></rect><rect x=\"62\" y=\"87\" width=\"16\" height=\"83\" fill=\"#ffd166\" opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;1;1;0.2\" keyTimes=\"0;0.1;0.9;1\" dur=\"6s\" begin=\"0.4s\" repeatCount=\"indefinite\"/></rect><rect x=\"84\" y=\"106\" width=\"16\" height=\"64\" fill=\"#ffd166\" opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;1;1;0.2\" keyTimes=\"0;0.1;0.9;1\" dur=\"6s\" begin=\"0.8s\" repeatCount=\"indefinite\"/></rect><rect x=\"106\" y=\"125\" width=\"16\" height=\"45\" fill=\"#ffd166\" opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;1;1;0.2\" keyTimes=\"0;0.1;0.9;1\" dur=\"6s\" begin=\"1.2000000000000002s\" repeatCount=\"indefinite\"/></rect><rect x=\"128\" y=\"146\" width=\"16\" height=\"24\" fill=\"#ffd166\" opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;1;1;0.2\" keyTimes=\"0;0.1;0.9;1\" dur=\"6s\" begin=\"1.6s\" repeatCount=\"indefinite\"/></rect><rect x=\"150\" y=\"162\" width=\"16\" height=\"8\" fill=\"#ffd166\" opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;1;1;0.2\" keyTimes=\"0;0.1;0.9;1\" dur=\"6s\" begin=\"2.0s\" repeatCount=\"indefinite\"/></rect><rect x=\"220\" y=\"66\" width=\"16\" height=\"104\" fill=\"#ffd166\" opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;1;1;0.2\" keyTimes=\"0;0.1;0.9;1\" dur=\"6s\" begin=\"2.8s\" repeatCount=\"indefinite\"/></rect><rect x=\"242\" y=\"87\" width=\"16\" height=\"83\" fill=\"#ffd166\" opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;1;1;0.2\" keyTimes=\"0;0.1;0.9;1\" dur=\"6s\" begin=\"3.1999999999999997s\" repeatCount=\"indefinite\"/></rect><rect x=\"264\" y=\"106\" width=\"16\" height=\"64\" fill=\"#ffd166\" opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;1;1;0.2\" keyTimes=\"0;0.1;0.9;1\" dur=\"6s\" begin=\"3.5999999999999996s\" repeatCount=\"indefinite\"/></rect><rect x=\"180\" y=\"60\" width=\"26\" height=\"110\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"193\" y=\"52\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">pauze</text><text x=\"30\" y=\"30\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">% gunstige beslissingen</text><text x=\"180\" y=\"192\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">zitting: zaak na zaak</text><text x=\"180\" y=\"212\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">honger, of de volgorde van de zaken?</text></svg>",
+   "quiz": {
+    "q": "Welke alternatieve verklaring gaven Weinshall-Margel en Shapard?",
+    "o": [
+     "Rechters waren 's middags slaperig door de warmte",
+     "Gevangenen zonder advocaat kwamen vaak als laatste",
+     "De rechters kregen per zaak betaald"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Columbia Business School, persbericht 2011",
+     "u": "https://business.columbia.edu/press-releases/cbs-press-release/how-extraneous-factors-impact-judicial-decisionmaking"
+    },
+    {
+     "t": "Weinshall-Margel & Shapard 2011, PNAS",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3198355"
+    },
+    {
+     "t": "Glöckner 2016, Judgment and Decision Making",
+     "u": "https://dlab.sauder.ubc.ca/sjdm/journal/16/16823/jdm16823.html"
+    }
+   ],
+   "date": "2026-11-23T05:43:54Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "Knip je taak in stukjes en schat opnieuw",
+   "body": "Vraag iemand hoe lang een klus duurt en je krijgt een lager getal dan wanneer die persoon elke deeltaak apart schat en optelt. Forsyth en Burt noemden dat in 2008 het segmentatie-effect, gevonden in drie experimenten. Omdat we taken bijna altijd onderschatten, geeft die optelsom vaak een realistischer planning.",
+   "take": "Schrijf voor je volgende project vijf deeltaken op, schat elk apart en tel op voor je een deadline belooft.",
+   "deep": "## Hoe het werkt\n\nAls je een taak als één geheel bekijkt, denk je vooral aan de kern en vergeet je de kleine stappen eromheen: dingen opzoeken, wachten op iemand, nalezen, doorsturen. Wanneer je de taak uitsplitst, moet je elke stap bewust bekijken. Elke stap krijgt een eigen schatting, en kleine stukjes worden zelden op nul minuten gezet. De som ligt daardoor hoger dan de ene globale schatting. Voor taken die je doorgaans onderschat, komt die hogere som dichter bij de werkelijkheid.\n\n## Een voorbeeld\n\nJe moet een verslag schrijven voor je werk of school. Globaal denk je: 'twee uurtjes'. Splits je het op, dan krijg je: bronnen zoeken, structuur maken, schrijven, figuren toevoegen, nalezen, opmaak en doorsturen. Plots tel je eerder vier uur, en dat blijkt achteraf vaak dichter bij de waarheid.\n\n## Wat onderzoek zegt\n\nDarryl Forsyth en Christopher Burt publiceerden in 2008 in Memory & Cognition drie experimenten. Telkens kreeg één taak minder tijd toegewezen dan de som van de deeltaken. In het derde experiment duidden deelnemers hun schatting aan op een tijdlijn, en daaruit bleek dat afronden het effect waarschijnlijk niet verklaart.\n\nJustin Kruger en Matt Evans vonden in 2004 iets gelijkaardigs. Hun artikel heet veelzeggend 'If you don't want to be late, enumerate': wie een taak 'uitpakt' in onderdelen, maakt hogere en daardoor minder te optimistische tijdsinschattingen.\n\n## Nuance of misverstand\n\nDit is een hulpmiddel tegen de planningsdrogreden, niet hetzelfde verschijnsel. Het werkt ook niet altijd. Opsplitsen helpt minder als een taak maar weinig onderdelen heeft, als de onderdelen erg makkelijk zijn of als de taak ver in de toekomst ligt. Bij korte taken leidt de optelsom soms zelfs tot overschatting. En het kost moeite: voor elk klein klusje een lijst maken is niet zinvol.\n\n## Wat je ermee doet\n\nGebruik de truc voor taken van een halve dag of langer, of als je een deadline aan iemand anders belooft. Maak een lijstje met alle stappen, ook de saaie, schat elk stuk apart en tel op. Vergelijk achteraf met de werkelijke tijd, zo leer je welke stappen je structureel vergeet.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"40\" y=\"40\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">één taak, één schatting</text><rect x=\"40\" y=\"50\" width=\"150\" height=\"34\" rx=\"4\" fill=\"#ffd166\"/><text x=\"40\" y=\"110\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">opgedeeld en opgeteld</text><rect x=\"40\" y=\"120\" width=\"50\" height=\"34\" rx=\"4\" fill=\"#06d6a0\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;1;0\" keyTimes=\"0;0.15;0.85;1\" dur=\"7s\" begin=\"0.0s\" repeatCount=\"indefinite\"/></rect><text x=\"65.0\" y=\"170\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">zoeken</text><rect x=\"96\" y=\"120\" width=\"70\" height=\"34\" rx=\"4\" fill=\"#06d6a0\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;1;0\" keyTimes=\"0;0.15;0.85;1\" dur=\"7s\" begin=\"0.8s\" repeatCount=\"indefinite\"/></rect><text x=\"131.0\" y=\"170\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">schrijven</text><rect x=\"172\" y=\"120\" width=\"45\" height=\"34\" rx=\"4\" fill=\"#06d6a0\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;1;0\" keyTimes=\"0;0.15;0.85;1\" dur=\"7s\" begin=\"1.6s\" repeatCount=\"indefinite\"/></rect><text x=\"194.5\" y=\"170\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">nalezen</text><rect x=\"223\" y=\"120\" width=\"55\" height=\"34\" rx=\"4\" fill=\"#06d6a0\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;1;0\" keyTimes=\"0;0.15;0.85;1\" dur=\"7s\" begin=\"2.4000000000000004s\" repeatCount=\"indefinite\"/></rect><text x=\"250.5\" y=\"170\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">mailen</text><line x1=\"40\" y1=\"190\" x2=\"278\" y2=\"190\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"238\" stroke-dashoffset=\"238\"><animate attributeName=\"stroke-dashoffset\" values=\"238;0;0;238\" keyTimes=\"0;0.5;0.85;1\" dur=\"7s\" repeatCount=\"indefinite\"/></line><path d=\"M278 185 L288 190 L278 195 Z\" fill=\"#fff\"/><text x=\"296\" y=\"194\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">langer</text></svg>",
+   "quiz": {
+    "q": "Wat is het segmentatie-effect?",
+    "o": [
+     "De som van geschatte deeltaken is groter dan de schatting voor de taak als geheel",
+     "Opgedeelde taken worden sneller afgewerkt",
+     "Mensen onthouden kleine taken beter dan grote"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Forsyth & Burt 2008, Memory & Cognition",
+     "u": "https://doi.org/10.3758/MC.36.4.791"
+    },
+    {
+     "t": "Backward planning, Judgment and Decision Making",
+     "u": "https://dlab.sauder.ubc.ca/sjdm/journal/16/16101/jdm16101.html"
+    }
+   ],
+   "date": "2026-11-23T05:43:54Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "Kleine vorderingen maken je werkdag het best",
+   "body": "Teresa Amabile en Steven Kramer lieten 238 professionals uit 26 projectteams elke werkdag een kort dagboek invullen: bijna 12.000 verslagen. De beste werkdagen hadden één ding gemeen: vooruitgang in zinvol werk, ook kleine. Tegenslagen wogen wel twee tot drie keer zwaarder door dan vorderingen. Ze noemden dat het vooruitgangsprincipe.",
+   "take": "Sluit je werkdag af door drie dingen te noteren die vooruit gingen, hoe klein ook.",
+   "deep": "## Hoe het werkt\n\nJe 'innerlijke werkleven' bestaat uit je gevoelens, je motivatie en hoe je je werk ziet. Volgens Amabile en Kramer is niets zo bepalend voor een goede werkdag als het gevoel dat je vooruitgang boekt in iets wat ertoe doet. Een stap vooruit geeft voldoening, die voldoening geeft energie, en met meer energie zet je de volgende stap makkelijker. Omgekeerd trekt een tegenslag je stemming en motivatie onevenredig sterk naar beneden.\n\n## Een voorbeeld\n\nEen programmeur sleutelt al dagen aan een hardnekkige fout in een app. Op dinsdag vindt ze eindelijk de oorzaak. De fout is nog niet opgelost, maar ze gaat met een goed gevoel naar huis en begint woensdag vol energie. Een collega die die dag een complimentje kreeg maar niets kon afwerken, voelt zich veel minder voldaan.\n\n## Wat onderzoek zegt\n\nAmabile, hoogleraar aan Harvard Business School, en psycholoog Steven Kramer volgden 238 professionals in 26 projectteams van zeven bedrijven uit drie sectoren. Elke werkdag vulden ze een korte vragenlijst in, wat goed was voor bijna 12.000 dagboekverslagen. Vooruitgang in zinvol werk kwam naar voren als de sterkste factor op de beste dagen; tegenslagen waren het opvallendst op de slechtste dagen.\n\nOok kleine gebeurtenissen telden: volgens de auteurs had bijna 28% van de kleine voorvallen een grote impact op hoe mensen zich voelden. Ze schreven hun bevindingen neer in het boek The Progress Principle (2011).\n\n## Nuance of misverstand\n\nHet gaat om vooruitgang in werk dat je zinvol vindt. Afvinken van betekenisloze taken geeft niet hetzelfde effect. Het onderzoek is ook vooral beschrijvend: dagboeken tonen samenhang, geen strak bewezen oorzaak. En omdat tegenslagen zwaarder wegen, volstaat het niet om successen te vieren; je moet ook obstakels wegnemen.\n\n## Wat je ermee doet\n\nMaak je vooruitgang zichtbaar: een lijstje van wat lukte, een bord met afgewerkte stappen. Hak grote doelen in tussendoelen, zodat je vaker een stap vooruit ziet. Geef je leiding, help je team dan vooral door obstakels weg te werken en duidelijke doelen, tijd en middelen te geven.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><path d=\"M30 190 L80 190 L80 165 L130 165 L130 140 L180 140 L180 115 L230 115 L230 90 L280 90 L280 65 L330 65\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle r=\"7\" fill=\"#ffd166\"><animateMotion dur=\"7s\" repeatCount=\"indefinite\" path=\"M40 182 L80 182 L80 157 L130 157 L130 132 L180 132 L180 107 L230 107 L230 82 L280 82 L280 57 L325 57\"/></circle><text x=\"30\" y=\"40\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">elke kleine vordering</text><text x=\"30\" y=\"56\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">tilt je werkdag op</text><text x=\"330\" y=\"210\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">motivatie</text><line x1=\"250\" y1=\"150\" x2=\"300\" y2=\"110\" stroke=\"#06d6a0\" stroke-width=\"2\"/><path d=\"M296 106 L304 107 L301 115 Z\" fill=\"#06d6a0\"/></svg>",
+   "quiz": {
+    "q": "Wat bleek volgens Amabile en Kramer de sterkste factor op de beste werkdagen?",
+    "o": [
+     "Een loonsverhoging",
+     "Vooruitgang in zinvol werk",
+     "Minder vergaderingen"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "HBS Working Knowledge, How Small Wins Unleash Creativity",
+     "u": "https://www.library.hbs.edu/working-knowledge/how-small-wins-unleash-creativity"
+    },
+    {
+     "t": "AMA, The Worth of Small Wins",
+     "u": "https://www.amanet.org/articles/the-worth-of-small-wins-teresa-amabile-and-steven-kramer-on-the-progress-principle/"
+    }
+   ],
+   "date": "2026-11-23T05:43:54Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Spaar niet vandaag, maar bij je volgende opslag",
+   "body": "Richard Thaler en Shlomo Benartzi bedachten Save More Tomorrow: werknemers beloven nu dat ze later meer sparen, telkens hun loon stijgt. Zo zien ze hun nettoloon nooit dalen. In hun studie uit 2004 stapte 78% in, en steeg de gemiddelde spaarquote in 40 maanden van 3,5 naar 13,6 procent.",
+   "take": "Koppel een automatische verhoging van je spaaropdracht aan je volgende loonsverhoging of indexering, nog voor je eraan gewend raakt.",
+   "deep": "## Hoe het werkt\n\nHet plan speelt in op vier menselijke zwaktes. We zijn gericht op het heden: sparen is makkelijker als het pas later begint. We hebben weinig zelfbeheersing, dus moet de verhoging automatisch gebeuren. We hebben een hekel aan verlies: daarom stijgt het spaarbedrag alleen samen met een loonsverhoging, zodat je netto nooit minder overhoudt. En we zijn traag om iets te veranderen: eens je ingeschreven bent, loopt het vanzelf door. Je kan wel op elk moment uitstappen, wat de drempel om te beginnen verlaagt.\n\n## Een voorbeeld\n\nStel dat je 50 euro per maand spaart. Je spreekt met jezelf af dat bij elke loonsverhoging of indexering een deel van die stijging meteen naar je spaarrekening gaat. Je voelt het niet als een offer, want je hebt dat geld nooit op je rekening zien staan. Na een paar jaar spaar je een veelvoud, zonder dat je ooit minder te besteden had dan voordien.\n\n## Wat onderzoek zegt\n\nThaler en Benartzi publiceerden hun resultaten in 2004 in de Journal of Political Economy. Bij een Amerikaans bedrijf stapte 78% in van de werknemers die het plan aangeboden kregen. Hun gemiddelde spaarquote voor het pensioen steeg van 3,5% naar 13,6% in 40 maanden.\n\nThaler kreeg in 2017 de Nobelprijs voor economie voor zijn werk in de gedragseconomie, waartoe ook zijn onderzoek naar mentale boekhouding hoort.\n\n## Nuance of misverstand\n\nDe cijfers komen van een vrijwillig programma. Een evaluatie van het Amerikaanse ministerie van Arbeid wijst erop dat wie instapt, kan verschillen van wie dat niet doet, bijvoorbeeld in motivatie om te sparen. De stijging is dus niet volledig aan het plan zelf toe te schrijven. Bovendien spaart iemand die meer opzijzet, niet automatisch slim: waar je dat geld belegt en tegen welke kosten, blijft belangrijk.\n\n## Wat je ermee doet\n\nJe hoeft niet te wachten tot je werkgever zoiets aanbiedt. Noteer in je agenda wanneer je loon stijgt, bijvoorbeeld bij een indexering, en verhoog dan meteen je doorlopende spaaropdracht met een deel van die stijging. Zo werk je met je gewoontes in plaats van ertegen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"60\" y=\"120\" width=\"40\" height=\"70\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"60\" y=\"186\" width=\"40\" height=\"4\" fill=\"#06d6a0\" opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;1;1;0.2\" keyTimes=\"0;0.1;0.85;1\" dur=\"6s\" begin=\"0.0s\" repeatCount=\"indefinite\"/></rect><rect x=\"130\" y=\"105\" width=\"40\" height=\"85\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"130\" y=\"180\" width=\"40\" height=\"10\" fill=\"#06d6a0\" opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;1;1;0.2\" keyTimes=\"0;0.1;0.85;1\" dur=\"6s\" begin=\"0.9s\" repeatCount=\"indefinite\"/></rect><rect x=\"200\" y=\"90\" width=\"40\" height=\"100\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"200\" y=\"172\" width=\"40\" height=\"18\" fill=\"#06d6a0\" opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;1;1;0.2\" keyTimes=\"0;0.1;0.85;1\" dur=\"6s\" begin=\"1.8s\" repeatCount=\"indefinite\"/></rect><rect x=\"270\" y=\"75\" width=\"40\" height=\"115\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"270\" y=\"162\" width=\"40\" height=\"28\" fill=\"#06d6a0\" opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;1;1;0.2\" keyTimes=\"0;0.1;0.85;1\" dur=\"6s\" begin=\"2.7s\" repeatCount=\"indefinite\"/></rect><text x=\"30\" y=\"40\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">loon stijgt bij elke opslag</text><text x=\"30\" y=\"58\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">spaardeel groeit mee</text><text x=\"80\" y=\"208\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">start</text><text x=\"150\" y=\"208\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">opslag 1</text><text x=\"220\" y=\"208\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">opslag 2</text><text x=\"290\" y=\"208\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">opslag 3</text></svg>",
+   "quiz": {
+    "q": "Waarom verhoogt Save More Tomorrow het spaarbedrag alleen bij een loonsverhoging?",
+    "o": [
+     "Omdat de belasting dan lager is",
+     "Omdat banken dat verplichten",
+     "Zodat je nettoloon nooit daalt en het niet als verlies voelt"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Thaler & Benartzi 2004, Journal of Political Economy",
+     "u": "https://econpapers.repec.org/RePEc:ucp:jpolec:v:112:y:2004:i:s1:p:s164-s187"
+    },
+    {
+     "t": "US Dept. of Labor, CLEAR-review",
+     "u": "https://clear.dol.gov/study/save-more-tomorrow%E2%84%A2-using-behavioral-economics-increase-employee-saving-thaler-benartzi-2004"
+    },
+    {
+     "t": "Chicago Booth Review, Save More Tomorrow",
+     "u": "https://www.chicagobooth.edu/review/save-more-tomorrow"
+    }
+   ],
+   "date": "2026-11-23T05:43:54Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Een euro is een euro, behalve in je hoofd",
+   "body": "Econoom Richard Thaler noemde het mentale boekhouding: we steken geld in denkbeeldige potjes, zoals 'vaste kosten', 'uitjes' of 'meevaller', en gaan er telkens anders mee om. Verlies je een theaterticket, dan koopt maar 46% een nieuw. Verlies je hetzelfde bedrag in cash, dan koopt 88% toch een ticket.",
+   "take": "Vraag je bij een meevaller af: zou ik dit ook uitgeven als het van mijn gewone loon kwam?",
+   "deep": "## Hoe het werkt\n\nGeld is in principe inwisselbaar: een euro van je loon is evenveel waard als een euro die je op straat vindt. Economen noemen dat fungibiliteit. Maar ons brein werkt met rubrieken. Elk potje heeft zijn eigen budget en zijn eigen regels. Geld dat je als 'meevaller' boekt, geef je makkelijker uit aan iets leuks. Geld uit het potje 'vaste kosten' gebruik je eerder voor rekeningen. Volgens Thaler schendt mentale boekhouding zo de regel dat geld inwisselbaar is, en daarom heeft ze echte gevolgen.\n\n## Een voorbeeld\n\nJe krijgt een belastingteruggave van een paar honderd euro. Veel mensen ervaren dat als extraatje en boeken een citytrip, terwijl er op hun kredietkaart nog een schuld met hoge rente openstaat. Rationeel zou je die schuld eerst aflossen, maar het geld zit in een ander potje in je hoofd.\n\n## Wat onderzoek zegt\n\nThaler introduceerde het begrip in 1985 in het tijdschrift Marketing Science en werkte het in 1999 uit in 'Mental Accounting Matters'. Het bekende theaterexperiment komt van Amos Tversky en Daniel Kahneman. Wie een ticket van 10 dollar verloor, wilde in 46% van de gevallen een nieuw kopen. Wie een briefje van 10 dollar verloor, wou in 88% van de gevallen toch een ticket kopen. Een tweede ticket voelt als dubbel betalen uit het potje 'ontspanning'.\n\nThaler beschreef ook twee koppels die vis verloren na een vakantie en daarvoor 300 dollar schadevergoeding kregen: ze gaven dat geld uit aan een luxe-etentje, omdat het tegelijk als 'meevaller' en als 'eten' geboekt stond.\n\n## Nuance of misverstand\n\nMentale boekhouding is niet alleen een fout. Potjes kunnen helpen om grip te houden: wie een vast bedrag voor boodschappen of uitgaan afzondert, overschrijdt zijn budget minder snel. Het probleem ontstaat pas als potjes je duurdere keuzes doen maken, zoals sparen aan lage rente terwijl je een dure lening afbetaalt.\n\n## Wat je ermee doet\n\nGebruik potjes bewust als budgetteringshulp, maar kijk geregeld naar het geheel. Een meevaller is gewoon geld: beslis eerst of er dure schulden of een noodbuffer voorgaan. En vraag je bij elke uitgave of je ze ook zou doen als het geld uit een ander potje kwam.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"40\" y=\"110\" width=\"80\" height=\"80\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"80\" y=\"206\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">vaste kosten</text><rect x=\"150\" y=\"110\" width=\"80\" height=\"80\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"190\" y=\"206\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">vakantie</text><rect x=\"260\" y=\"110\" width=\"80\" height=\"80\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"300\" y=\"206\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">meevaller</text><circle r=\"10\" fill=\"#ffd166\"><animateMotion dur=\"5s\" repeatCount=\"indefinite\" path=\"M180 30 C240 30 280 60 290 140\"/></circle><text x=\"180\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">€ 100</text><text x=\"30\" y=\"60\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">zelfde geld,</text><text x=\"30\" y=\"76\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">ander potje,</text><text x=\"30\" y=\"92\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">andere keuze</text></svg>",
+   "quiz": {
+    "q": "In het theaterexperiment kocht de grootste groep een ticket na...",
+    "o": [
+     "het verlies van een ticket",
+     "het verlies van een briefje van hetzelfde bedrag",
+     "geen enkel verlies; niemand kocht opnieuw"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Thaler 1999, Mental Accounting Matters",
+     "u": "https://people.bath.ac.uk/mnsrf/Teaching%202011/Thaler-99.pdf"
+    },
+    {
+     "t": "St. Louis Fed, How Mental Accounting Shapes Our Financial Choices",
+     "u": "https://www.stlouisfed.org/publications/page-one-economics/2026/apr/how-mental-accounting-shapes-our-financial-choices"
+    },
+    {
+     "t": "The Decision Lab, Mental Accounting",
+     "u": "https://thedecisionlab.com/reference-guide/psychology/mental-accounting"
+    },
+    {
+     "t": "Indiana Public Media – A Moment of Science",
+     "u": "https://indianapublicmedia.org/amomentofscience/when-psychology-meets-accounting.php"
+    }
+   ],
+   "date": "2026-11-23T05:43:54Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Verzendkosten apart tonen doet je meer kopen",
+   "body": "Een prijs opsplitsen in een basisprijs en een toeslag, zoals verzendkosten, heet prijspartitionering. Morwitz, Greenleaf en Johnson toonden in 1998 dat mensen dan een lagere totaalprijs onthouden en vaker kopen. Op eBay brachten cd's met een lage startprijs en hoge verzendkosten volgens een veldexperiment 21% meer op.",
+   "take": "Tel in een webshop altijd zelf basisprijs en alle toeslagen op voor je vergelijkt.",
+   "deep": "## Hoe het werkt\n\nBij een gesplitste prijs grijpt je brein de basisprijs vast als ankerpunt. Die staat groot in beeld en voelt als 'de' prijs. De toeslag tel je wel mee, maar onvoldoende: je past je schatting te weinig naar boven aan. Zo onthoud je een lager totaal dan wat je werkelijk betaalt, en lijkt het aanbod voordeliger. Ook de vorm telt: een toeslag in euro wordt anders verwerkt dan een toeslag in procent, en de grootte van het bedrag speelt mee.\n\n## Een voorbeeld\n\nJe vergelijkt twee webshops voor dezelfde sneakers. De ene vraagt 89 euro, verzending inbegrepen. De andere toont groot 84 euro en pas bij het afrekenen 6,95 euro verzendkosten. Veel mensen blijven de tweede winkel als goedkoper onthouden, ook al betalen ze daar uiteindelijk meer.\n\n## Wat onderzoek zegt\n\nVicki Morwitz, Eric Greenleaf en Eric Johnson publiceerden in 1998 in de Journal of Marketing Research de studie 'Divide and Prosper'. Gesplitste prijzen verlaagden de totaalprijs die consumenten zich herinnerden en verhoogden de vraag. Hoe de toeslag werd voorgesteld en hoe mensen tegenover het merk stonden, beïnvloedde het effect.\n\nTanjim Hossain en John Morgan hielden 80 veilingen op eBay met nieuwe cd's en Xbox-spellen. Voor de cd's leidde een lage startprijs met hoge verzendkosten tot vroeger bieden, meer biedingen en een eindprijs die 21% hoger lag dan omgekeerd.\n\n## Nuance of misverstand\n\nHet effect is niet onbeperkt. Latere studies tonen dat een toeslag die onredelijk hoog lijkt of als verrassing komt, klanten kan afschrikken. Een recenter veldexperiment van Dertwinkel-Kalt, Köster en Sutter vond zwakkere effecten op de vraag dan de eerdere labostudies. Partitioneren werkt dus vooral als de toeslag klein en aanvaardbaar oogt.\n\n## Wat je ermee doet\n\nAls koper: tel altijd de eindprijs, inclusief verzending, servicekosten en andere toeslagen, voor je winkels vergelijkt. Als verkoper: wees eerlijk en duidelijk over toeslagen. Een verborgen kost die pas bij het afrekenen opduikt, kan op korte termijn verkopen opleveren, maar ook vertrouwen kosten.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"40\" y=\"50\" width=\"170\" height=\"90\" rx=\"10\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"125\" y=\"105\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"30\" text-anchor=\"middle\">€ 20</text><text x=\"125\" y=\"165\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">+ € 4,95 verzending<animate attributeName=\"opacity\" values=\"1;0.25;1\" dur=\"5s\" repeatCount=\"indefinite\"/></text><line x1=\"225\" y1=\"95\" x2=\"290\" y2=\"95\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M290 90 L300 95 L290 100 Z\" fill=\"#fff\"/><text x=\"310\" y=\"90\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">onthouden:</text><text x=\"310\" y=\"110\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">vooral € 20</text><text x=\"180\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">voorbeeldbedragen</text></svg>",
+   "quiz": {
+    "q": "Wat vonden Morwitz en collega's bij gesplitste prijzen?",
+    "o": [
+     "Mensen onthielden een hogere totaalprijs",
+     "Er was geen enkel effect op de vraag",
+     "Mensen onthielden een lagere totaalprijs en kochten vaker"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Columbia Business School, Divide and Prosper",
+     "u": "https://business.columbia.edu/faculty/research/divide-and-prosper-consumers-reactions-partitioned-prices"
+    },
+    {
+     "t": "Hossain & Morgan, Plus shipping and handling",
+     "u": "https://faculty.haas.berkeley.edu/rjmorgan/eBay.pdf"
+    },
+    {
+     "t": "Morwitz, FTC-presentatie drip pricing",
+     "u": "https://www.ftc.gov/sites/default/files/documents/public_events/economics-drip-pricing/vmorwitz.pdf"
+    }
+   ],
+   "date": "2026-11-23T05:43:54Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Vijf noten van Intel die je meteen herkent",
+   "body": "Het geluidslogo van Intel bestaat uit vijf noten en verscheen in 1994 in tv-reclame. De Oostenrijkse componist Walter Werzowa schreef het. Een studie van de universiteit van Cambridge met 1.860 deelnemers en 90 geluidslogo's toonde dat complexere melodieën beter herkend worden, maar moeilijker na te zingen zijn.",
+   "take": "Ontwerp je een geluidslogo? Houd het kort en gebruik het consequent op elk kanaal, zodat herkenning ook aan je merk blijft hangen.",
+   "deep": "## Hoe het werkt\n\nEen geluidslogo of sonic logo werkt als een visueel logo, maar voor je oren. Het is een kort, steeds hetzelfde melodietje dat aan het einde van een reclame of bij het opstarten van een toestel klinkt. Door herhaling koppelt je geheugen dat geluid aan het merk. Geluid heeft een voordeel: je hoort het ook als je niet naar het scherm kijkt. Een korte, herkenbare melodie met een duidelijke vorm blijft makkelijker hangen dan een lang muziekstuk.\n\n## Een voorbeeld\n\nZit je in de zetel terwijl op tv een reclame loopt, dan hoef je vaak niet te kijken om te weten welk merk aan het woord is. Het 'bong' van Intel, het opstartgeluid van een computer of het melodietje van een bekende fastfoodketen: één fragment volstaat.\n\n## Wat onderzoek zegt\n\nVolgens Intel zelf is het geluidslogo een eenvoudig deuntje van vijf noten; Werzowa maakte er ook 20 klanken mee. Intel liet het in 1994 voor het eerst horen, toen het merk op televisie begon te adverteren. Werzowa zegt dat hij het om de twee à drie jaar heeft bijgewerkt, maar de kern van vijf noten bleef dezelfde.\n\nOnderzoekers verbonden aan de universiteit van Cambridge testten 90 geluidslogo's bij 1.860 deelnemers met een herkenningstaak en een taak waarin ze de melodie moesten nazingen. Melodieën met meer structuur werden beter herkend, maar moeilijker correct nagezongen.\n\n## Nuance of misverstand\n\nEen geluidslogo herkennen is niet hetzelfde als het juiste merk eraan koppelen. Een grote commerciële studie uit 2025 met meer dan 70.000 respondenten sprak van een 'kloof tussen herkennen en herinneren': mensen herkennen het geluid, maar weten niet van welk merk het is. Een overzicht stelt ook dat het wetenschappelijk bewijs voor audiobranding nog beperkt is. Beweringen dat geluid 'rechtstreeks je emoties raakt' gaan vaak verder dan wat studies aantonen.\n\n## Wat je ermee doet\n\nLet eens bewust op hoeveel merken je enkel aan hun geluid herkent, en welke je wel hoort maar niet kunt plaatsen. Werk je zelf aan een merk, houd het geluid dan kort, eenvoudig genoeg om te onthouden en speel het telkens samen met je naam of logo af, zodat de koppeling sterk wordt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><circle cx=\"180\" cy=\"110\" r=\"20\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"><animate attributeName=\"r\" values=\"20;100\" dur=\"4s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;0\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><circle cx=\"70\" cy=\"120\" r=\"11\" fill=\"#ffd166\" opacity=\"0.25\"><animate attributeName=\"opacity\" values=\"0.25;1;0.25\" dur=\"4s\" begin=\"0.0s\" repeatCount=\"indefinite\"/></circle><circle cx=\"120\" cy=\"120\" r=\"11\" fill=\"#ffd166\" opacity=\"0.25\"><animate attributeName=\"opacity\" values=\"0.25;1;0.25\" dur=\"4s\" begin=\"0.35s\" repeatCount=\"indefinite\"/></circle><circle cx=\"170\" cy=\"95\" r=\"11\" fill=\"#ffd166\" opacity=\"0.25\"><animate attributeName=\"opacity\" values=\"0.25;1;0.25\" dur=\"4s\" begin=\"0.7s\" repeatCount=\"indefinite\"/></circle><circle cx=\"220\" cy=\"120\" r=\"11\" fill=\"#ffd166\" opacity=\"0.25\"><animate attributeName=\"opacity\" values=\"0.25;1;0.25\" dur=\"4s\" begin=\"1.0499999999999998s\" repeatCount=\"indefinite\"/></circle><circle cx=\"270\" cy=\"75\" r=\"11\" fill=\"#ffd166\" opacity=\"0.25\"><animate attributeName=\"opacity\" values=\"0.25;1;0.25\" dur=\"4s\" begin=\"1.4s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"40\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">vijf noten, een paar seconden</text><text x=\"180\" y=\"180\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">herkennen gaat makkelijker</text><text x=\"180\" y=\"198\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">dan correct koppelen aan het merk</text></svg>",
+   "quiz": {
+    "q": "Wat toonde de Cambridge-studie met 90 geluidslogo's over complexere melodieën?",
+    "o": [
+     "Ze worden beter herkend, maar moeilijker nagezongen",
+     "Ze worden slechter herkend en makkelijker nagezongen",
+     "Complexiteit maakte geen enkel verschil"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Intel, history of Intel's signature sound",
+     "u": "https://intel.com/content/www/us/en/support/articles/000015030.html"
+    },
+    {
+     "t": "Cambridge, The recall and recognition of sonic logos",
+     "u": "https://cms.mus.cam.ac.uk/publications/silas-sonic-logo-memory/"
+    },
+    {
+     "t": "The Drum, Intel opent marketingarchief (2018)",
+     "u": "https://www.thedrum.com/news/2018/07/27/intel-celebrates-50th-anniversary-opening-its-marketing-vault-and-bringing-out-the"
+    }
+   ],
+   "date": "2026-11-23T05:43:54Z"
+  }
+ ],
  "dives": [
   {
    "id": "2026-11-23",
