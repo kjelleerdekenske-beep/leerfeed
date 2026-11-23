@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T05:44:36Z",
+ "updated": "2026-11-23T05:45:21Z",
  "cards": [
   {
    "cat": "psychologie",
@@ -636,6 +636,302 @@
     }
    ],
    "date": "2026-11-23T05:44:36Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Een familiefoto versloeg de video van Obama's campagneteam",
+   "body": "In december 2007 testte de campagne van Barack Obama 24 versies van haar inschrijfpagina: 4 knoppen maal 6 foto's en video's. Elke bezoeker kreeg willekeurig één versie. Winnaar: een familiefoto met de knop 'Learn More'. Die haalde 11,6% inschrijvingen tegenover 8,26% voor het origineel, een relatieve winst van 40,6%. Alle video's deden het slechter.",
+   "take": "Twijfel je tussen twee versies van een mail of affiche? Toon ze willekeurig aan verschillende mensen en tel wat werkt, in plaats van te gokken.",
+   "deep": "## Hoe het werkt\n\nBij een A/B-test maak je twee of meer versies van iets, bijvoorbeeld een webpagina. Een computer verdeelt de bezoekers willekeurig over die versies. Omdat het toeval beslist wie wat ziet, zijn de groepen gemiddeld gelijk: zelfde soort mensen, zelfde moment, zelfde omstandigheden. Je meet dan één duidelijk doel, zoals het aantal inschrijvingen. Is het verschil groot genoeg en heb je genoeg bezoekers, dan weet je vrij zeker dat de versie zelf het verschil maakt. Test je meerdere onderdelen tegelijk, zoals knoppen én beelden, dan spreek je van een multivariate test.\n\n## Een voorbeeld\n\nDe campagne van Obama had een startpagina waar bezoekers hun e-mailadres konden achterlaten. Analist Dan Siroker testte vier knopteksten ('Join us now', 'Learn more', 'Sign up now' en 'Sign up') en zes beelden: drie foto's en drie video's. Dat gaf 24 combinaties. Er kwamen 310.382 bezoekers op af, dus elke variant werd door ongeveer 13.000 mensen bekeken. Het team zelf had op voorhand een video als favoriet. Uiteindelijk won een familiefoto met de knop 'Learn More', en alle video's scoorden slechter dan alle foto's.\n\n## Wat onderzoek zegt\n\nVolgens Siroker steeg het inschrijvingspercentage van 8,26% naar 11,6%, een relatieve stijging van 40,6%. Hij rekende uit dat dit over de hele campagne zo'n 2,88 miljoen extra e-mailadressen opleverde. Omdat een adres gemiddeld 21 dollar aan giften opbracht, kwam hij uit op ongeveer 60 miljoen dollar extra. Siroker beschreef dat zelf op de blog van Optimizely, het testbedrijf dat hij later mee oprichtte.\n\n## Nuance of misverstand\n\nDie 60 miljoen is een extrapolatie, geen geteld bedrag. De berekening veronderstelt dat de winst van de test de hele campagne lang even groot bleef, en de bron is een bedrijf dat A/B-testsoftware verkoopt. Het verschil in de test zelf, met tienduizenden bezoekers per variant, is wel overtuigend. Een tweede les: wat het team mooi of sterk vond, bleek niet wat bezoekers deed klikken. Een test zegt wel alleen iets over dat publiek op dat moment.\n\n## Wat je ermee doet\n\nJe hoeft geen campagne te leiden om dit te gebruiken. Een vereniging in Vlaanderen kan twee onderwerpregels voor haar nieuwsbrief elk naar een willekeurige helft van de leden sturen en kijken welke vaker geopend wordt. Kies vooraf één meetpunt, verander telkens één ding tegelijk en beslis pas als genoeg mensen meededen. Zo laat je cijfers spreken in plaats van de mening van wie het luidst praat.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Bezoekers willekeurig verdeeld</text><circle cx=\"40\" cy=\"110\" r=\"18\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"40\" y=\"145\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">bezoek</text><path d=\"M60 110 L130 70\" stroke=\"#fff\" stroke-width=\"2\" fill=\"none\"/><path d=\"M60 110 L130 150\" stroke=\"#fff\" stroke-width=\"2\" fill=\"none\"/><circle r=\"4\" fill=\"#ffd166\"><animateMotion dur=\"2s\" repeatCount=\"indefinite\" path=\"M60 110 L130 70\"/></circle><circle r=\"4\" fill=\"#06d6a0\"><animateMotion dur=\"2s\" begin=\"1s\" repeatCount=\"indefinite\" path=\"M60 110 L130 150\"/></circle><rect x=\"135\" y=\"52\" width=\"70\" height=\"36\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"170\" y=\"75\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">A: video</text><rect x=\"135\" y=\"132\" width=\"70\" height=\"36\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"170\" y=\"155\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">B: foto</text><line x1=\"240\" y1=\"190\" x2=\"340\" y2=\"190\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"255\" y=\"157\" width=\"30\" height=\"33\" fill=\"#ffd166\"/><text x=\"270\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">8,26%</text><rect x=\"300\" y=\"144\" width=\"30\" height=\"46\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"33;46;46\" dur=\"4s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"157;144;144\" dur=\"4s\" repeatCount=\"indefinite\"/></rect><text x=\"315\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">11,6%</text><text x=\"292\" y=\"130\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">+40,6%</text></svg>",
+   "quiz": {
+    "q": "Welke versie won de test van Obama's campagne in 2007?",
+    "o": [
+     "Een familiefoto met de knop 'Learn More'",
+     "Een video met de knop 'Sign up now'",
+     "Een video met de knop 'Join us now'"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Optimizely: Obama's $60 million experiment (Dan Siroker)",
+     "u": "https://www.optimizely.com/insights/blog/how-obama-raised-60-million-by-running-a-simple-experiment/"
+    }
+   ],
+   "date": "2026-11-23T05:45:21Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "E.T. at Reese's Pieces, maar productplaatsing is geen toverstaf",
+   "body": "In E.T. (1982) lokt Elliott het buitenaardse wezen met Reese's Pieces. Mars had het aanbod voor M&M's afgeslagen; Hershey stapte in en beloofde reclame ter waarde van 1 miljoen dollar. De verkoop schoot in de weken erna fors omhoog. Een meta-analyse uit 2021 toont het bredere beeld: plaatsing blijft vooral hangen in het geheugen, het effect op koopgedrag is klein.",
+   "take": "Zie je een merk opvallend in beeld in een film of reeks? Vraag je af of je het onthoudt, of het ook echt wil kopen.",
+   "deep": "## Hoe het werkt\n\nBij productplaatsing betaalt of ruilt een merk om zichtbaar te zijn in een film, reeks, game of video. Het idee: je ziet het product in een verhaal dat je boeit, zonder dat het voelt als reclame. Dat kan op drie niveaus werken. Eerst moet je het merk opmerken en onthouden. Daarna kan je er positiever over gaan denken, bijvoorbeeld omdat je het koppelt aan een geliefd personage. Pas als laatste stap komt de neiging om het te kopen.\n\n## Een voorbeeld\n\nHet bekendste verhaal is E.T. van Steven Spielberg. De makers wilden snoep gebruiken om het wezen het huis in te lokken. Mars, de maker van M&M's, ging niet in op het voorstel; over de reden lopen de verhalen uiteen. Hershey bood Reese's Pieces aan en beloofde voor 1 miljoen dollar reclame te maken, in ruil voor het recht om de film in die reclame te gebruiken. Na de première steeg de verkoop van Reese's Pieces sterk. Hoeveel precies, is onzeker: bronnen noemen cijfers tussen 60 en 85 procent.\n\n## Wat onderzoek zegt\n\nBabin en collega's bundelden in 2021 in het International Journal of Research in Marketing het onderzoek naar merkplaatsing. Ze vonden sterke, positieve effecten op het geheugen: mensen herinneren zich het geplaatste merk. De effecten op hoe positief mensen over het merk denken en of ze het willen kopen, waren klein tot bescheiden. Een merk dat echt in het verhaal verweven zit, werkt beter op gevoel en koopintentie. Een opvallende plaatsing verhoogt de herinnering, zonder merkbaar negatief effect op de overtuigingskracht. Een vermelding dat het om plaatsing gaat, verhoogde vooral de herinnering aan de plaatsing zelf.\n\n## Nuance of misverstand\n\nE.T. wordt vaak opgevoerd als bewijs dat één scène een merk kan maken. Maar Hershey betaalde ook voor een reclamecampagne rond de film, dus je kunt het effect van de scène niet los zien van die extra reclame. Eén spectaculair succes zegt bovendien weinig over de gemiddelde plaatsing. Het onderzoek wijst op een betrouwbaar maar vooral 'onthoudend' effect, geen automatische verkoopmachine.\n\n## Wat je ermee doet\n\nKijk je naar een Vlaamse reeks of een Hollywoodfilm, let dan eens bewust op welke gsm, auto of drank prominent in beeld komt. Herkennen is precies wat het merk hoopt. Werk je zelf in marketing, verwacht dan van een plaatsing vooral naamsbekendheid, kies voor een rol in het verhaal in plaats van een logo op de achtergrond, en meet ook of mensen echt anders gaan kopen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"20\" y=\"40\" width=\"120\" height=\"80\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"80\" y=\"30\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Merk in de film</text><circle cx=\"80\" cy=\"80\" r=\"12\" fill=\"#ffd166\"><animate attributeName=\"r\" values=\"10;14;10\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><path d=\"M145 80 L195 60\" stroke=\"#fff\" stroke-width=\"2\" fill=\"none\"/><path d=\"M145 80 L195 140\" stroke=\"#fff\" stroke-width=\"2\" fill=\"none\"/><path d=\"M195 60 L186 59 L191 67 Z\" fill=\"#fff\"/><path d=\"M195 140 L191 132 L186 141 Z\" fill=\"#fff\"/><text x=\"205\" y=\"64\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">Herinnering</text><text x=\"205\" y=\"144\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">Houding, aankoop</text><rect x=\"205\" y=\"72\" width=\"130\" height=\"12\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"205\" y=\"72\" width=\"115\" height=\"12\" fill=\"#06d6a0\"><animate attributeName=\"width\" values=\"0;115;115\" dur=\"4s\" repeatCount=\"indefinite\"/></rect><rect x=\"205\" y=\"152\" width=\"130\" height=\"12\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"205\" y=\"152\" width=\"35\" height=\"12\" fill=\"#ff6b9d\"><animate attributeName=\"width\" values=\"0;35;35\" dur=\"4s\" repeatCount=\"indefinite\"/></rect><text x=\"270\" y=\"100\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">sterk effect</text><text x=\"270\" y=\"182\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">klein effect</text><text x=\"80\" y=\"150\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">verweven met plot</text><text x=\"80\" y=\"166\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">= iets sterker</text></svg>",
+   "quiz": {
+    "q": "Waar heeft productplaatsing volgens de meta-analyse van 2021 het sterkste effect op?",
+    "o": [
+     "Op de koopintentie",
+     "Op het onthouden van het merk",
+     "Op de prijs die mensen willen betalen"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Babin e.a. (2021), IJRM, meta-analyse merkplaatsing",
+     "u": "https://hal.univ-lorraine.fr/hal-03426691"
+    },
+    {
+     "t": "Snopes: Say No to E.T.",
+     "u": "https://www.snopes.com/fact-check/say-no-to-et/"
+    }
+   ],
+   "date": "2026-11-23T05:45:21Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Pas ontdekt en plots zie je het overal",
+   "body": "Je koopt een gele jas en ineens lopen er overal gele jassen rond. Dat heet de frequentie-illusie, ook Baader-Meinhofverschijnsel. De Stanford-taalkundige Arnold Zwicky gaf het in 2005 die naam. Er zijn niet meer gele jassen: je aandacht pikt ze nu op, en elke treffer bevestigt je gevoel dat het vaker voorkomt.",
+   "take": "Lijkt iets plots 'overal' te zijn? Tel bewust een week lang voor je besluit dat het echt toeneemt.",
+   "deep": "## Hoe het werkt\n\nJe hersenen kunnen niet alles verwerken wat je ziet en hoort. Selectieve aandacht filtert continu wat belangrijk lijkt. Heb je net iets nieuws geleerd, een woord, een automerk of een ziekte, dan krijgt dat tijdelijk voorrang in die filter. Je merkt het dus op op plekken waar je er vroeger overheen keek. Daarna speelt bevestigingsbias: elke keer dat je het weer tegenkomt, telt dat als bewijs dat het 'overal' is. De keren dat je het niet ziet, tel je niet.\n\n## Een voorbeeld\n\nJe hoort voor het eerst het woord 'krimpflatie' in het nieuws. De dagen erna lijkt het in elke krant, podcast en gesprek op café te vallen. Of je overweegt een bepaalde auto en ziet hem opeens op elke parking in je gemeente. Het aantal auto's is niet veranderd, wel wat je brein belangrijk vindt.\n\n## Wat onderzoek zegt\n\nDe naam Baader-Meinhof komt uit 1994, toen een lezer van de krant St. Paul Pioneer Press schreef dat hij de naam van die Duitse terreurgroep opeens overal tegenkwam, kort nadat hij hem voor het eerst had gehoord. Taalkundige Arnold Zwicky van Stanford gaf het verschijnsel in 2005 op zijn blog de nettere naam frequentie-illusie en verklaarde het met twee goed gekende processen: selectieve aandacht en bevestigingsbias. De term staat intussen in de Oxford English Dictionary. Zwicky beschreef er ook een broertje van: de recentheidsillusie, het idee dat iets wat jij pas opmerkt ook pas bestaat.\n\n## Nuance of misverstand\n\nDe frequentie-illusie zelf is weinig apart onderzocht; de verklaring steunt op mechanismen die elders goed bestudeerd zijn. Het is ook geen bewijs dat je 'het universum' iets wil zeggen, maar evenmin het omgekeerde: soms neemt iets wel echt toe, bijvoorbeeld een nieuw woord dat echt aan populariteit wint. Je gevoel kan alleen niet uitmaken welk van de twee het is. Zwicky gaf als voorbeeld taalergernissen: mensen denken vaak dat een bepaald taalgebruik bij jongeren hand over hand toeneemt, terwijl tellingen in opnames het veel zeldzamer tonen.\n\n## Wat je ermee doet\n\nWantrouw het gevoel 'dit is plots overal' als bewijs. Wil je weten of iets echt toeneemt, zoek dan cijfers of tel bewust: noteer een week lang elke keer dat je het ziet, en vergelijk met een eerdere periode. Je kunt het effect ook gebruiken: wie een nieuw woord in een vreemde taal leert, zal het daarna vaker opmerken, en dat helpt bij het onthouden.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Evenveel als vroeger, maar nu valt het op</text><circle cx=\"60\" cy=\"70\" r=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"110\" cy=\"120\" r=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"160\" cy=\"60\" r=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"210\" cy=\"140\" r=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"260\" cy=\"80\" r=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"300\" cy=\"150\" r=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"90\" cy=\"170\" r=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"240\" cy=\"180\" r=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"110\" cy=\"120\" r=\"6\" fill=\"#ffd166\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;1;0\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/></circle><circle cx=\"260\" cy=\"80\" r=\"6\" fill=\"#ffd166\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;1;0\" dur=\"6s\" begin=\"1s\" repeatCount=\"indefinite\"/></circle><circle cx=\"90\" cy=\"170\" r=\"6\" fill=\"#ffd166\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;1;0\" dur=\"6s\" begin=\"2s\" repeatCount=\"indefinite\"/></circle><circle cx=\"300\" cy=\"150\" r=\"6\" fill=\"#ffd166\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;1;0\" dur=\"6s\" begin=\"3s\" repeatCount=\"indefinite\"/></circle><circle cx=\"180\" cy=\"115\" r=\"40\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animateMotion dur=\"8s\" repeatCount=\"indefinite\" path=\"M0 0 L-70 5 L80 -35 L-90 55 L120 35 L0 0\"/></circle><text x=\"180\" y=\"208\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">selectieve aandacht + bevestiging</text></svg>",
+   "quiz": {
+    "q": "Welke twee processen verklaren volgens Arnold Zwicky de frequentie-illusie?",
+    "o": [
+     "Kortetermijngeheugen en vermoeidheid",
+     "Echte toename en reclame",
+     "Selectieve aandacht en bevestigingsbias"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Psychology Today: Frequency illusion",
+     "u": "https://www.psychologytoday.com/gb/basics/frequency-illusion"
+    },
+    {
+     "t": "Language Log: 'Frequency illusion' in the OED",
+     "u": "https://languagelog.ldc.upenn.edu/nll/?p=42180"
+    }
+   ],
+   "date": "2026-11-23T05:45:21Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "Kleine vooruitgang motiveert je meer dan een schouderklopje",
+   "body": "Teresa Amabile en Steven Kramer (Harvard) lieten 238 werknemers uit 26 projectteams dagelijks een dagboek bijhouden: bijna 12.000 dagboekstukjes. Niets maakte een werkdag beter dan vooruitgang boeken in zinvol werk, vaak met kleine stapjes. Toch zetten 669 managers 'vooruitgang ondersteunen' op de laatste plaats van vijf motivatoren. Maar 5 procent koos het als nummer één.",
+   "take": "Schrijf op het einde van je werkdag drie dingen op die je wél afkreeg, hoe klein ook.",
+   "deep": "## Hoe het werkt\n\nJe motivatie op het werk hangt sterk af van hoe je dag voelt: je emoties, je kijk op je werk en je zin om door te gaan. Amabile en Kramer noemen dat je 'innerlijke werkleven'. Als je merkt dat je vooruitgaat in iets wat je zinvol vindt, versterkt dat alle drie. Een terugslag, het gevoel dat je terrein verliest, werkt net zo sterk in de andere richting. Het hoeft geen doorbraak te zijn: ook een kleine stap telt.\n\n## Een voorbeeld\n\nJe werkt aan een lastig rapport. Op een dag krijg je eindelijk de cijfers van een collega en schrijf je één hoofdstuk af. Objectief een kleine stap, maar je gaat met een goed gevoel naar huis en begint de volgende ochtend met meer zin. Een to-do-lijst toont vooral wat nog moet. Een 'gedaan-lijst', waarop je noteert wat je af hebt, maakt die kleine vooruitgang zichtbaar.\n\n## Wat onderzoek zegt\n\nIn hun dagboekstudie volgden Amabile en Kramer 238 mensen uit 26 projectteams in zeven bedrijven. Dat leverde bijna 12.000 dagboekstukjes op. Vooruitgang boeken in zinvol werk was de belangrijkste factor voor een goede werkdag, en terugslagen waren het meest opvallende kenmerk van de slechtste dagen. Amabile vertelt dat 28 procent van kleine gebeurtenissen een grote invloed had op het innerlijke werkleven. Toen ze 669 managers vroegen vijf motivatoren te rangschikken, eindigde 'vooruitgang ondersteunen' laatst: slechts 5 procent zette het op één. Ander onderzoek, onder meer van Francesca Gino bij het Indiase bedrijf Wipro, vond dat nieuwe medewerkers die op het einde van de dag 15 minuten reflecteerden, 22,8 procent beter scoorden op een test dan een groep die gewoon doorwerkte.\n\n## Nuance of misverstand\n\nEen gedaan-lijst zelf is als methode niet apart getest; ze is een praktische vertaling van dit onderzoek. De dagboekstudie volgde vooral hoogopgeleide kenniswerkers in creatieve projecten, dus de resultaten gelden niet zomaar voor elk soort werk. En vooruitgang moet echt zinvol voelen: taken afvinken die je zelf zinloos vindt, levert weinig op.\n\n## Wat je ermee doet\n\nHoud een week lang op het einde van elke werkdag een korte gedaan-lijst bij: drie dingen die je afkreeg of waarin je vooruitging. Geef je leiding, maak dan obstakels uit de weg en benoem de kleine stappen van je team, in plaats van alleen grote resultaten te vieren.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"130\" y=\"26\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Kleine stappen afvinken</text><rect x=\"30\" y=\"170\" width=\"40\" height=\"22\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"75\" y=\"148\" width=\"40\" height=\"44\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"120\" y=\"126\" width=\"40\" height=\"66\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"165\" y=\"104\" width=\"40\" height=\"88\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"210\" y=\"82\" width=\"40\" height=\"110\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M40 158 l6 6 l12 -12\" stroke=\"#06d6a0\" stroke-width=\"3\" fill=\"none\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;1\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/></path><path d=\"M85 136 l6 6 l12 -12\" stroke=\"#06d6a0\" stroke-width=\"3\" fill=\"none\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;1\" dur=\"6s\" begin=\"1s\" repeatCount=\"indefinite\"/></path><path d=\"M130 114 l6 6 l12 -12\" stroke=\"#06d6a0\" stroke-width=\"3\" fill=\"none\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;1\" dur=\"6s\" begin=\"2s\" repeatCount=\"indefinite\"/></path><path d=\"M175 92 l6 6 l12 -12\" stroke=\"#06d6a0\" stroke-width=\"3\" fill=\"none\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;1\" dur=\"6s\" begin=\"3s\" repeatCount=\"indefinite\"/></path><path d=\"M220 70 l6 6 l12 -12\" stroke=\"#06d6a0\" stroke-width=\"3\" fill=\"none\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;1\" dur=\"6s\" begin=\"4s\" repeatCount=\"indefinite\"/></path><rect x=\"285\" y=\"50\" width=\"30\" height=\"140\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"289\" y=\"150\" width=\"22\" height=\"36\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"10;130;10\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"176;56;176\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"300\" y=\"208\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">motivatie</text></svg>",
+   "quiz": {
+    "q": "Welke plaats gaven 669 managers aan 'vooruitgang ondersteunen' als motivator?",
+    "o": [
+     "De laatste plaats",
+     "De eerste plaats",
+     "De derde plaats"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Harvard Business School Working Knowledge: How small wins unleash creativity",
+     "u": "https://www.library.hbs.edu/working-knowledge/how-small-wins-unleash-creativity"
+    },
+    {
+     "t": "Greater Good (UC Berkeley): Do this in the afternoon for a better workday",
+     "u": "https://greatergood.berkeley.edu/article/item/do_this_in_the_afternoon_for_a_better_workday"
+    }
+   ],
+   "date": "2026-11-23T05:45:21Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Met elk vervormd woord hielp je een boek digitaliseren",
+   "body": "Een CAPTCHA moet mensen en computers uit elkaar houden. Luis von Ahn (Carnegie Mellon) gaf je met reCAPTCHA twee woorden: een gekend controlewoord en een woord uit een oud boek dat scansoftware niet kon lezen. Typte je het eerste juist, dan vertrouwde het systeem je antwoord op het tweede. Zo werden in 2008 dagelijks meer dan 4 miljoen woorden overgetikt.",
+   "take": "Krijg je een CAPTCHA? Weet dat je klikgedrag en antwoord vaak meer data opleveren dan alleen een toegangsbewijs.",
+   "deep": "## Hoe het werkt\n\nCAPTCHA staat voor een automatische test om computers en mensen uit elkaar te houden. Het idee kwam in 2000 van onderzoekers aan Carnegie Mellon, onder wie Luis von Ahn en Manuel Blum: geef een taak die mensen makkelijk oplossen en computers niet, zoals vervormde letters lezen. Von Ahn besefte dat mensen daar samen enorm veel tijd aan besteedden. Met reCAPTCHA gaf hij die moeite een nut. Je kreeg twee woorden: één controlewoord waarvan het juiste antwoord al gekend was, en één woord uit een ingescand boek of krantenarchief dat de tekstherkenning (OCR) niet kon ontcijferen. Typte je het controlewoord juist, dan gold je als mens en werd je antwoord op het onbekende woord bewaard. Typten de eerste drie mensen hetzelfde, dan werd dat het aanvaarde antwoord.\n\n## Een voorbeeld\n\nOude kranten zijn vaak vergeeld, gevlekt of in vreemde letters gedrukt. Scansoftware maakt dan van een woord een rij onzin. Precies die probleemwoorden kreeg jij voorgeschoteld, tussen een inlog en een bestelling door. reCAPTCHA werd zo gebruikt om boeken voor het Internet Archive en artikels uit het archief van The New York Times te digitaliseren.\n\n## Wat onderzoek zegt\n\nVon Ahn en collega's publiceerden de methode in september 2008 in Science. Op artikels uit het archief van The New York Times haalde reCAPTCHA een woordnauwkeurigheid van 99,1 procent, tegenover 83,5 procent voor gewone tekstherkenningssoftware. Volgens Carnegie Mellon werden toen elke dag meer dan 4 miljoen woorden overgetikt, het equivalent van 160 boeken per dag. In september 2009 kocht Google reCAPTCHA, dat toen meer dan 100.000 websites beschermde.\n\n## Nuance of misverstand\n\nVandaag zie je die twee woorden zelden nog. De nieuwste versie, reCAPTCHA v3, werkt volgens Google zonder dat je iets hoeft te doen: ze geeft elke bezoeker op de achtergrond een score van 0,0 (zeer waarschijnlijk een bot) tot 1,0 (zeer waarschijnlijk een mens), op basis van gedrag. De website beslist zelf wat ze met een lage score doet. Een CAPTCHA is dus geen perfecte muur: het is een inschatting.\n\n## Wat je ermee doet\n\nBesef dat zo'n test vaak meer doet dan alleen poortwachter spelen: ze verzamelt ook gegevens over je gedrag. Wie een website bouwt, kiest best een vorm die bots tegenhoudt zonder echte bezoekers, zoals mensen met een visuele beperking, buiten te sluiten. En het idee achter reCAPTCHA is breder bruikbaar: kleine stukjes werk van heel veel mensen kunnen samen een enorme klus klaren.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"20\" y=\"40\" width=\"150\" height=\"60\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"60\" y=\"76\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">morning</text><text x=\"130\" y=\"76\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">ovcrlooks</text><text x=\"60\" y=\"118\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">gekend</text><text x=\"130\" y=\"118\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">onbekend</text><path d=\"M95 135 L95 165 L215 165\" stroke=\"#fff\" stroke-width=\"2\" fill=\"none\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"24;0\" dur=\"2s\" repeatCount=\"indefinite\"/></path><path d=\"M215 165 L207 160 L207 170 Z\" fill=\"#fff\"/><text x=\"95\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">jij typt beide</text><rect x=\"225\" y=\"130\" width=\"110\" height=\"70\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"280\" y1=\"130\" x2=\"280\" y2=\"200\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"235\" y=\"145\" width=\"35\" height=\"4\" fill=\"#ffd166\"><animate attributeName=\"width\" values=\"0;35;35\" dur=\"4s\" repeatCount=\"indefinite\"/></rect><rect x=\"235\" y=\"160\" width=\"35\" height=\"4\" fill=\"#ffd166\"><animate attributeName=\"width\" values=\"0;0;35;35\" dur=\"4s\" repeatCount=\"indefinite\"/></rect><text x=\"280\" y=\"120\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">gedigitaliseerd boek</text><text x=\"255\" y=\"40\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">juist gekend woord =</text><text x=\"255\" y=\"56\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">je bent een mens</text></svg>",
+   "quiz": {
+    "q": "Hoe wist reCAPTCHA of je antwoord op het onbekende woord te vertrouwen was?",
+    "o": [
+     "Je typte ook het gekende controlewoord juist",
+     "Een medewerker controleerde elk antwoord",
+     "De scansoftware keurde je antwoord goed"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Von Ahn e.a. (2008), Science: reCAPTCHA",
+     "u": "https://www.site.uottawa.ca/~stan/csi2911/reCaptcha_Science.pdf"
+    },
+    {
+     "t": "ScienceDaily (2008): Carnegie Mellon over reCAPTCHA",
+     "u": "https://www.sciencedaily.com/releases/2008/08/080814154329.htm"
+    },
+    {
+     "t": "Google Developers: reCAPTCHA v3",
+     "u": "https://developers.google.com/recaptcha/docs/v3"
+    }
+   ],
+   "date": "2026-11-23T05:45:21Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Roodborstjes voelen het aardmagnetisch veld misschien met hun ogen",
+   "body": "Trekvogels zoals het roodborstje oriënteren zich op het aardmagnetisch veld. De sterkste kandidaat als sensor is cryptochroom 4, een lichtgevoelig eiwit in het netvlies. In 2021 toonden onderzoekers in Nature dat dit eiwit van roodborstjes in het lab gevoelig is voor magneetvelden, meer dan dat van kippen en duiven. Het bewijs in levende vogels ontbreekt nog.",
+   "take": "Lees je 'vogels zien magneetvelden', onthoud dan: sterke aanwijzingen, maar nog geen sluitend bewijs in de levende vogel.",
+   "deep": "## Hoe het werkt\n\nVolgens de leidende theorie gebeurt het in het oog. Valt er licht op cryptochroom, dan springt er binnen het eiwit een elektron over. Daardoor ontstaat een zogeheten radicaalpaar: twee moleculen met elk een ongepaard elektron. Die elektronen hebben een kwantumeigenschap, spin, en hun onderlinge toestand wisselt heel snel. Het aardmagnetisch veld, hoe zwak ook, beïnvloedt die wisseling. Dat verandert hoeveel van een bepaald eindproduct ontstaat, en dat hangt af van hoe het eiwit ten opzichte van het veld staat. Zo zou de vogel de richting van het veld kunnen aflezen. Omdat dit op kwantumeffecten steunt, valt het onder de kwantumbiologie.\n\n## Een voorbeeld\n\nRoodborstjes zijn nachtelijke trekvogels, al trekt niet elk exemplaar weg. Onderzoekers zetten zulke vogels in het trekseizoen in kooien en kijken in welke richting ze willen vertrekken. Verandert die richting als je het magneetveld rond de kooi draait, dan weet je dat ze een magnetisch kompas gebruiken. Dat bleek ook af te hangen van de kleur van het licht, een eerste aanwijzing dat het oog meespeelt.\n\n## Wat onderzoek zegt\n\nXu en collega's, onder leiding van Henrik Mouritsen (Oldenburg) en Peter Hore (Oxford), publiceerden in 2021 in Nature dat cryptochroom 4 van het roodborstje in het lab magnetisch gevoelig is, sterker dan de versie van kippen en duiven, die niet trekken. Met gerichte mutaties toonden ze dat een keten van vier tryptofaan-bouwstenen nodig is voor dat effect. Het eiwit komt bovendien meer voor in het netvlies van roodborstjes als het trekseizoen nadert. In 2014 vond hetzelfde Oldenburgse team in Nature dat roodborstjes hun magnetische oriëntatie verloren door elektromagnetische ruis in de stad, en ze terugvonden in een afgeschermde hut.\n\n## Nuance of misverstand\n\nDe onderzoekers benadrukken zelf dat dit geen definitief bewijs is. Ze bestudeerden losse eiwitten in het lab, met magneetvelden die sterker zijn dan dat van de aarde. Dat het in het oog van een vliegende vogel zo werkt, moet nog aangetoond worden. Vogels gebruiken ook andere hulpmiddelen, zoals de zon en de sterren. 'De vogel ziet het veld' is dus een vereenvoudiging.\n\n## Wat je ermee doet\n\nOnthoud de kern: licht plus een magneetgevoelig eiwit in het oog is de beste verklaring die we hebben, maar het onderzoek loopt nog. En de vondst over elektromagnetische ruis herinnert eraan dat ook onzichtbare menselijke invloeden dieren kunnen storen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Licht + magneetveld in het oog</text><circle cx=\"90\" cy=\"115\" r=\"45\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"105\" cy=\"115\" r=\"14\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"90\" y=\"180\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">oog roodborstje</text><path d=\"M10 60 L60 95\" stroke=\"#ffd166\" stroke-width=\"2\" fill=\"none\" stroke-dasharray=\"5 5\"><animate attributeName=\"stroke-dashoffset\" values=\"20;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><text x=\"22\" y=\"52\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">licht</text><circle cx=\"230\" cy=\"100\" r=\"8\" fill=\"#06d6a0\"/><circle cx=\"270\" cy=\"100\" r=\"8\" fill=\"#ff6b9d\"/><line x1=\"238\" y1=\"100\" x2=\"262\" y2=\"100\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"250\" y=\"80\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">radicaalpaar in CRY4</text><g><path d=\"M250 150 L250 190\" stroke=\"#ffd166\" stroke-width=\"3\"/><path d=\"M250 150 L245 160 L255 160 Z\" fill=\"#ffd166\"/><animateTransform attributeName=\"transform\" type=\"rotate\" values=\"-20 250 170;20 250 170;-20 250 170\" dur=\"6s\" repeatCount=\"indefinite\"/></g><text x=\"250\" y=\"210\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">richting van het veld</text><path d=\"M140 110 L210 100\" stroke=\"#fff\" stroke-width=\"2\" fill=\"none\"/><path d=\"M210 100 L201 97 L203 106 Z\" fill=\"#fff\"/></svg>",
+   "quiz": {
+    "q": "Wat toonde het Nature-onderzoek uit 2021 over cryptochroom 4 van roodborstjes?",
+    "o": [
+     "Dat het eiwit in levende vogels als kompas werkt",
+     "Dat het geïsoleerde eiwit in het lab magnetisch gevoelig is",
+     "Dat roodborstjes zonder licht beter navigeren"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Xu e.a. (2021), Nature: Magnetic sensitivity of cryptochrome 4",
+     "u": "https://www.nature.com/articles/s41586-021-03618-9"
+    },
+    {
+     "t": "University of Oxford: How birds sense the magnetic field",
+     "u": "https://www.ox.ac.uk/news/science-blog/how-birds-sense-magnetic-field-earth-help-them-navigate"
+    },
+    {
+     "t": "Engels e.a. (2014), Nature (PubMed)",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/24805233/"
+    }
+   ],
+   "date": "2026-11-23T05:45:21Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Zinken de bubbels in je Guinness echt?",
+   "body": "Kijk naar een vers getapte Guinness en je ziet langs de wand bubbeltjes naar beneden glijden. Ze stijgen wel degelijk, maar het bier zelf stroomt langs de wand omlaag, sneller dan de kleine stikstofbelletjes kunnen opstijgen. In het midden stroomt het op. Wiskundigen van de Universiteit van Limerick wezen in 2012 de vorm van het glas aan als motor.",
+   "take": "Kantel een glas stout eens: aan de bovenkant stijgen de bubbels, aan de onderkant zakken ze.",
+   "deep": "## Hoe het werkt\n\nEen belletje gas wil altijd omhoog, want het is lichter dan bier. Maar het bier rond dat belletje kan zelf bewegen. In het midden van het glas zitten veel belletjes; die trekken het bier mee naar boven. Bovenaan moet dat bier ergens heen: het stroomt naar de rand en langs de wand weer naar beneden. Zo ontstaat een kringloop. Kleine belletjes stijgen traag, dus de neerwaartse stroom langs de wand sleurt ze mee. Wat je ziet zakken, is dus vooral het bier, met de bubbels als passagiers.\n\n## Een voorbeeld\n\nIn een klassiek pintglas, breder bovenaan dan onderaan, zie je het effect het best. Of je nu in een Ierse pub in Gent zit of thuis een blikje met een plastic 'widget' opent: zolang de schuimkraag nog vormt, glijden er donkere en lichte golfjes langs de wand naar beneden. Bij een gewone pils zie je dat niet, daar gaan de belletjes gewoon recht omhoog.\n\n## Wat onderzoek zegt\n\nEen Australisch team van de University of New South Wales voorspelde het met een computermodel in 1999: belletjes van zo'n 60 micrometer werden langs de wand naar beneden gesleurd, terwijl bellen van 1 millimeter bleven stijgen. Chemici van Stanford en Edinburgh bevestigden het in 2004 met video aan 750 beelden per seconde. In 2012 lieten Eugene Benilov en collega's in Limerick met een model zien dat de schuine wand van het pintglas het verschil maakt: daar blijven minder belletjes over, en dat zet de kringloop in gang. In een omgekeerd 'anti-pintglas' zie je volgens hun model alleen stijgende bubbels.\n\n## Nuance of misverstand\n\nDe zinkende bubbels zijn geen optisch bedrog, maar ook geen bubbels die tegen de zwaartekracht in gaan. Waarom het juist bij stout zo goed werkt: Guinness Draught gebruikt naast koolzuur veel stikstof, volgens een Limerick-document een mengsel van 79 procent stikstof en 21 procent koolstofdioxide. Stikstof lost bij 8 °C ongeveer 100 keer slechter op in bier dan koolzuur, waardoor de belletjes klein blijven. Kleine bellen worden makkelijker meegesleurd. Hoe de wand precies voor minder bellen zorgt, is volgens de onderzoekers niet helemaal opgehelderd.\n\n## Wat je ermee doet\n\nBestel je een stout, kijk dan naar de rand van je glas in de eerste minuut. Wil je het zelf testen, giet het in een hoog recht glas en kantel het: aan de bovenkant van het schuine glas stijgen de bubbels, aan de onderkant zakken ze. Zo zie je met eigen ogen dat het bier stroomt, en niet de belletjes van richting veranderen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><path d=\"M110 30 L250 30 L230 200 L130 200 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M180 190 L180 50\" stroke=\"#06d6a0\" stroke-width=\"2\" fill=\"none\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"0;24\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><circle r=\"3\" fill=\"#ffd166\"><animateMotion dur=\"4s\" repeatCount=\"indefinite\" path=\"M120 45 L138 190\"/></circle><circle r=\"3\" fill=\"#ffd166\"><animateMotion dur=\"4s\" begin=\"2s\" repeatCount=\"indefinite\" path=\"M240 45 L222 190\"/></circle><circle r=\"3\" fill=\"#ffd166\"><animateMotion dur=\"4s\" begin=\"1s\" repeatCount=\"indefinite\" path=\"M128 45 L145 190\"/></circle><circle r=\"3\" fill=\"#ffd166\"><animateMotion dur=\"4s\" begin=\"3s\" repeatCount=\"indefinite\" path=\"M232 45 L215 190\"/></circle><text x=\"300\" y=\"70\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">midden: veel</text><text x=\"300\" y=\"86\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">bubbels, stroom op</text><text x=\"55\" y=\"140\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">wand: bier</text><text x=\"55\" y=\"156\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">stroomt neer</text><text x=\"55\" y=\"172\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">en sleurt</text><text x=\"55\" y=\"188\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">bubbels mee</text></svg>",
+   "quiz": {
+    "q": "Waarom lijken de bubbels in een Guinness langs de wand te zakken?",
+    "o": [
+     "Stikstof is zwaarder dan bier",
+     "De bubbels botsen tegen het schuim en vallen terug",
+     "Het bier stroomt langs de wand omlaag en sleurt kleine bubbels mee"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Benilov, Cummins & Lee (2012), arXiv: Why do bubbles in Guinness sink?",
+     "u": "https://arxiv.org/abs/1205.5233"
+    },
+    {
+     "t": "Royal Society of Chemistry: Why Guinness bubbles go down",
+     "u": "https://www.rsc.org/news/2010/march/mystery-solved-why-guinness-bubbles-go-down"
+    },
+    {
+     "t": "University of Limerick: stoutbubbels (pdf)",
+     "u": "https://ul.ie/media/35188/download"
+    }
+   ],
+   "date": "2026-11-23T05:45:21Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Op opname klinkt je stem vreemd door je schedel",
+   "body": "Als je praat, bereikt je stem je binnenoor langs twee wegen: door de lucht en via trillingen in je schedel. Die botgeleiding versterkt vooral de lage tonen, waardoor je jezelf voller en dieper hoort. Een microfoon vangt alleen het luchtgeluid. De opname klinkt dus vreemd voor jou, maar zo hoort iedereen je elke dag.",
+   "take": "Schrik je van je stem in een spraakbericht? Dat is hoe anderen je altijd horen; met wat oefening went het.",
+   "deep": "## Hoe het werkt\n\nWanneer je spreekt, trillen je stembanden. Die trillingen gaan als geluidsgolven door de lucht naar buiten en via je oorschelp en gehoorgang naar je trommelvlies. Tegelijk trillen ook de botten en weefsels van je hoofd mee, en die geven het geluid rechtstreeks door aan je slakkenhuis, het deel van je binnenoor dat geluid omzet in zenuwsignalen. Je schedel geeft vooral lage frequenties goed door. Jij hoort dus een mengeling van luchtgeluid en botgeluid, met extra lage tonen.\n\n## Een voorbeeld\n\nJe spreekt een spraakbericht in voor een vriend en luistert het nog eens terug. Je stem klinkt hoger, dunner en vreemder dan je gewend bent. Je vriend merkt niets bijzonders: hij hoort je altijd alleen via de lucht, net zoals de microfoon. Wat voor jou 'mijn echte stem' is, kent behalve jij niemand.\n\n## Wat onderzoek zegt\n\nDat botgeleiding de lage tonen versterkt en dat een opname dat deel mist, is de gangbare verklaring in onder meer Scientific American. Toch verklaart botgeleiding alleen niet waarom zoveel mensen een hekel hebben aan hun opgenomen stem. Psychologe Susan Hughes van Albright College liet in een studie uit 2013 met Marissa Harrison 80 mensen stemopnames beoordelen op aantrekkelijkheid. Zonder het te weten kregen ze ook hun eigen stem te horen, en die beoordeelden ze aantrekkelijker dan anderen dat deden. De onderzoekers denken onder meer aan het blootstellingseffect: wat vertrouwd is, vinden we sneller mooi. Een studie uit 2023 in Royal Society Open Science vond dat mensen hun eigen stem beter herkenden via een koptelefoon die geluid via het bot doorgeeft.\n\n## Nuance of misverstand\n\nHet idee dat je 'slechte' stem op de opname de echte is en je innerlijke stem een illusie, klopt maar half. Beide zijn echt: het verschil zit in wat er bij het luisteren ontbreekt. Je afkeer komt vooral van de schok dat het anders klinkt dan verwacht. Gewenning kan die schok verminderen: de opname blijft anders klinken, maar je reactie wordt minder sterk.\n\n## Wat je ermee doet\n\nNeem je stem af en toe op en luister terug, bijvoorbeeld voor een presentatie of sollicitatiegesprek. Zo went je gehoor aan hoe anderen je horen, en kun je je tempo of articulatie bijsturen. Beoordeel je stem niet op de eerste schok: die zegt meer over verrassing dan over hoe goed je klinkt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><circle cx=\"80\" cy=\"100\" r=\"40\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"80\" y=\"104\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">hoofd</text><path d=\"M70 120 Q60 100 75 82\" stroke=\"#ff6b9d\" stroke-width=\"3\" fill=\"none\" stroke-dasharray=\"5 5\"><animate attributeName=\"stroke-dashoffset\" values=\"20;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><text x=\"80\" y=\"160\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">via bot: lage tonen</text><path d=\"M125 100 L250 100\" stroke=\"#06d6a0\" stroke-width=\"2\" fill=\"none\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"24;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><path d=\"M250 100 L242 95 L242 105 Z\" fill=\"#06d6a0\"/><text x=\"185\" y=\"90\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">via lucht</text><rect x=\"258\" y=\"80\" width=\"22\" height=\"40\" rx=\"11\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"269\" y1=\"120\" x2=\"269\" y2=\"140\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"270\" y=\"160\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">opname:</text><text x=\"270\" y=\"176\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">enkel lucht</text><text x=\"180\" y=\"30\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Jij hoort twee routes, de microfoon één</text></svg>",
+   "quiz": {
+    "q": "Welk deel van je eigen stem mist een microfoon?",
+    "o": [
+     "Het geluid dat via je schedel naar je binnenoor gaat",
+     "Het geluid dat door de lucht gaat",
+     "De hoge tonen van je stem"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Scientific American: Why does my voice sound different?",
+     "u": "https://www.scientificamerican.com/article/why-does-my-voice-sound-different/"
+    },
+    {
+     "t": "ScienceDaily (2013): Albright College-studie over je eigen stem",
+     "u": "https://sciencedaily.com/releases/2013/09/130912112733.htm"
+    }
+   ],
+   "date": "2026-11-23T05:45:21Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Een nieuw woord moet eerst jaren blijven hangen",
+   "body": "Van Dale neemt een woord niet op omdat het hip is. Redacteurs spotten nieuwe woorden in kranten, boeken en online, en volgen hoe vaak ze gebruikt worden. Als vuistregel moet een woord zo'n drie jaar algemeen in gebruik zijn voor het in de papieren Dikke Van Dale komt. De vijftiende editie (2015) telde 241.558 trefwoorden, waarvan 18.175 nieuw sinds 2005.",
+   "take": "Twijfel je of een nieuw woord 'bestaat'? Kijk of het al in de online Van Dale staat, en met welk label.",
+   "deep": "## Hoe het werkt\n\nEen woordenboekredactie werkt een beetje als een jager-verzamelaar. Redacteurs lezen kranten, tijdschriften en websites en noteren woorden die ze nog niet kennen; soms sturen lezers suggesties. Daarna volgt de controle: hoe vaak duikt het woord op, in welke soorten teksten, en blijft het gebruikt? Voor de papieren Dikke Van Dale geldt een wachttijd, zodat eendagsvliegen afvallen. De online versie wordt doorlopend bijgewerkt en kan sneller woorden opnemen die met de actualiteit te maken hebben.\n\n## Een voorbeeld\n\nDenk aan 'airfryer'. Een paar jaar geleden een nieuw apparaat, nu in veel Vlaamse keukens. Toen de zestiende editie van de Dikke Van Dale in 2022 verscheen, stond 'airfryer' bij de nieuwkomers, samen met woorden als 'matcha'. Een woord als 'taxioorlog' kom je daarentegen niet tegen: wie 'taxi' en 'oorlog' kent, begrijpt het meteen.\n\n## Wat onderzoek zegt\n\nIn een interview in Onze Taal uit 2005 noemde Van Dale twee hoofdcriteria: het woord moet algemeen gebruikt worden en ongeveer drie jaar in het Nederlands voorkomen. Volgens een VRT-bericht uit 2021 moet een woord voor de papieren editie langere tijd regelmatig voorkomen in kranten, tijdschriften, boeken en op internet. Hoofdredacteur Ton den Boon gaf bij de vijftiende editie in 2015 de cijfers: 241.558 trefwoorden, waarvan 18.175 nieuw sinds 2005. Van de nieuwe woorden in de editie van 2022 kwam volgens taalkundige Vivien Waszink maar zo'n tien procent uit het Engels.\n\n## Nuance of misverstand\n\nEen veelgehoord misverstand is dat een woord pas 'bestaat' of 'juist' is als het in Van Dale staat. Een woordenboek beschrijft taalgebruik, het keurt het niet goed. Wie een woord gebruikt, maakt het al bestaand. Omgekeerd betekent opname niet dat het in elke context correct standaardtaal is: Van Dale werkt met labels zoals 'informeel' of 'gewestelijk'. Doorzichtige samenstellingen laat de redactie bewust weg. En de selectie blijft deels een kwestie van inschatting.\n\n## Wat je ermee doet\n\nZoek je een nieuw woord op, let dan op het label en de omschrijving: die vertellen je waar en hoe je het kunt gebruiken. Staat een woord er niet in, dan is het niet fout; het kan gewoon te nieuw of te doorzichtig zijn. Wil je zelf volgen hoe de taal verandert, kijk dan eens naar de lijst met nieuwe woorden bij een nieuwe editie.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"30\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Van nieuw woord tot trefwoord</text><rect x=\"10\" y=\"80\" width=\"100\" height=\"44\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"60\" y=\"107\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">opgemerkt</text><rect x=\"130\" y=\"80\" width=\"100\" height=\"44\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"107\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">jaren gevolgd</text><rect x=\"250\" y=\"80\" width=\"100\" height=\"44\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"300\" y=\"107\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">opgenomen</text><rect x=\"10\" y=\"80\" width=\"100\" height=\"44\" rx=\"8\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"3\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;0\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/></rect><rect x=\"130\" y=\"80\" width=\"100\" height=\"44\" rx=\"8\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"3\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;0\" dur=\"6s\" begin=\"2s\" repeatCount=\"indefinite\"/></rect><rect x=\"250\" y=\"80\" width=\"100\" height=\"44\" rx=\"8\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"3\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;0\" dur=\"6s\" begin=\"4s\" repeatCount=\"indefinite\"/></rect><path d=\"M112 102 L126 102\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M128 102 L121 98 L121 106 Z\" fill=\"#fff\"/><path d=\"M232 102 L246 102\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M248 102 L241 98 L241 106 Z\" fill=\"#fff\"/><text x=\"180\" y=\"150\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">vuistregel: zo'n drie jaar</text><text x=\"180\" y=\"175\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">eendagsvliegen vallen af</text></svg>",
+   "quiz": {
+    "q": "Wat is de vuistregel van Van Dale voor een nieuw woord in de papieren editie?",
+    "o": [
+     "Het moet door de Taalunie goedgekeurd zijn",
+     "Het moet minstens duizend keer gegoogeld zijn",
+     "Het moet zo'n drie jaar algemeen gebruikt worden"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "VRT NWS (2022): Zo ontstaan nieuwe woorden in het Nederlands",
+     "u": "https://www.vrt.be/vrtnws/nl/2022/02/08/zo-ontstaan-nieuwe-woorden-in-het-nederlands/"
+    },
+    {
+     "t": "Van Dale: Informatie voor profielwerkstukken (pdf)",
+     "u": "https://www.vandale.nl/sites/default/files/images/informatie_voor_profielwerkstukken.pdf"
+    },
+    {
+     "t": "Van Dale: toespraak Ton den Boon, 5 oktober 2015 (pdf)",
+     "u": "https://vandale.nl/sites/default/files/images/tekst_uitgesproken_door_ton_den_boon_5_oktober_2015.pdf"
+    }
+   ],
+   "date": "2026-11-23T05:45:21Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Bruegel schilderde zijn sneeuw midden in de Kleine IJstijd",
+   "body": "Pieter Bruegel de Oude schilderde 'Jagers in de sneeuw' in 1565 voor de Antwerpse verzamelaar Niclaes Jongelinck. Het hangt nu in Wenen. De Nederlanden kenden tussen 1562 en 1566 uitzonderlijk strenge winters, tijdens de Kleine IJstijd: een koelere periode van ruwweg 1300 tot 1850. In de winter van 1564-1565 vroren volgens verslagen de Schelde en de Maas dicht.",
+   "take": "Bekijk 'Volkstelling te Bethlehem' van Bruegel in Brussel eens met deze bril: een kerstverhaal in een bevroren Vlaams dorp.",
+   "deep": "## Hoe het werkt\n\nDe Kleine IJstijd was geen echte ijstijd, maar een lange periode waarin het vooral op het noordelijk halfrond gemiddeld wat koeler was, met af en toe extreem koude winters. Over begin en einde is geen eensgezindheid; vaak wordt ruwweg 1300 tot 1850 genoemd. Ook de oorzaak is nog onderwerp van debat. Grote vulkaanuitbarstingen bliezen zwavel hoog in de atmosfeer, waar druppeltjes zonlicht terugkaatsten. Daarnaast was de zon minder actief, onder meer rond 1680, in het zogeheten Maunderminimum. Veel onderzoekers denken aan een combinatie, al verschillen ze van mening over wat het zwaarst woog.\n\n## Een voorbeeld\n\n'Jagers in de sneeuw' toont drie jagers met vermoeide honden die terugkeren naar een laaggelegen dorp. Beneden schaatsen mensen op bevroren vijvers. Het werk is olieverf op hout, gesigneerd en gedateerd 1565, en hangt in het Kunsthistorisches Museum in Wenen. Het hoorde bij een reeks over de seizoenen die Bruegel maakte voor de Antwerpse verzamelaar Niclaes Jongelinck. Een jaar later schilderde hij 'De volkstelling te Bethlehem' (1566), nu in de Koninklijke Musea voor Schone Kunsten in Brussel: een van de vroegste voorstellingen van het kerstverhaal in een besneeuwd noordelijk landschap.\n\n## Wat onderzoek zegt\n\nVolgens de Koninklijke Musea voor Schone Kunsten kenden de Nederlanden tussen 1562 en 1566 enkele bijzonder strenge winters. JSTOR Daily beschrijft dat in de winter van 1564-1565 de Schelde en de Maas dichtvroren, waardoor goederenvervoer stilviel en voedsel schaars werd. Meteoroloog Hans Neuberger van Penn State bestudeerde meer dan 12.000 landschapsschilderijen van 1400 tot 1967 en vond dat werken uit 1550 tot 1849 gemiddeld de donkerste, bewolktste luchten tonen.\n\n## Nuance of misverstand\n\nEen schilderij is geen weerbericht. Onderzoekers waarschuwen dat je Bruegels winters niet zomaar als klimaatbewijs mag lezen: zulke wintertaferelen zijn geografisch en in de tijd beperkt, en wie elk schilderij aan het weer koppelt, vervalt in klimaatdeterminisme. Bruegels landschappen zijn bovendien gecomponeerd, geen foto's. De klimaatkennis over die periode komt vooral uit metingen in de natuur en geschreven verslagen. De schilderijen tonen wel hoe mensen strenge winters beleefden.\n\n## Wat je ermee doet\n\nKijk bij een bezoek aan de Bruegelzaal in Brussel niet alleen naar het verhaal, maar ook naar ijs, sneeuw en lucht. En onthoud de les van de Kleine IJstijd: een klimaatschommeling die op papier klein lijkt, kan voor mensen zware winters en voedseltekorten betekenen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Kleine IJstijd: ruwweg 1300 tot 1850</text><line x1=\"30\" y1=\"170\" x2=\"340\" y2=\"170\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"40\" y=\"188\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1300</text><text x=\"180\" y=\"188\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1565</text><text x=\"320\" y=\"188\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1850</text><path d=\"M30 90 C80 95 110 120 180 130 C230 138 280 120 340 85\" stroke=\"#06d6a0\" stroke-width=\"2\" fill=\"none\" stroke-dasharray=\"400\" stroke-dashoffset=\"400\"><animate attributeName=\"stroke-dashoffset\" values=\"400;0;0\" dur=\"6s\" repeatCount=\"indefinite\"/></path><text x=\"70\" y=\"80\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">temperatuur</text><line x1=\"180\" y1=\"130\" x2=\"180\" y2=\"170\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"3 3\"/><circle cx=\"150\" cy=\"40\" r=\"3\" fill=\"#fff\"><animate attributeName=\"cy\" values=\"40;120\" dur=\"4s\" begin=\"0s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;0\" dur=\"4s\" begin=\"0s\" repeatCount=\"indefinite\"/></circle><circle cx=\"175\" cy=\"40\" r=\"3\" fill=\"#fff\"><animate attributeName=\"cy\" values=\"40;120\" dur=\"5s\" begin=\"1s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;0\" dur=\"5s\" begin=\"1s\" repeatCount=\"indefinite\"/></circle><circle cx=\"200\" cy=\"40\" r=\"3\" fill=\"#fff\"><animate attributeName=\"cy\" values=\"40;120\" dur=\"4s\" begin=\"2s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;0\" dur=\"4s\" begin=\"2s\" repeatCount=\"indefinite\"/></circle><circle cx=\"225\" cy=\"40\" r=\"3\" fill=\"#fff\"><animate attributeName=\"cy\" values=\"40;120\" dur=\"5s\" begin=\"0.5s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;0\" dur=\"5s\" begin=\"0.5s\" repeatCount=\"indefinite\"/></circle><text x=\"250\" y=\"155\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">strenge winters</text></svg>",
+   "quiz": {
+    "q": "Waar hangt Bruegels 'Jagers in de sneeuw' vandaag?",
+    "o": [
+     "In het Kunsthistorisches Museum in Wenen",
+     "In het Rijksmuseum in Amsterdam",
+     "In de Koninklijke Musea voor Schone Kunsten in Brussel"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Kunsthistorisches Museum Wien: Hunters in the Snow (Winter)",
+     "u": "https://khm.at/en/object/327"
+    },
+    {
+     "t": "JSTOR Daily: Climate canvasses of the Little Ice Age",
+     "u": "https://daily.jstor.org/climate-canvasses-of-the-little-ice-age"
+    },
+    {
+     "t": "KMSKB via Google Arts & Culture: Bruegel",
+     "u": "https://artsandculture.google.com/story/PwVx23r1GuwWIg"
+    }
+   ],
+   "date": "2026-11-23T05:45:21Z"
   }
  ],
  "dives": [
