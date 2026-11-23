@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T05:45:21Z",
+ "updated": "2026-11-23T05:45:54Z",
  "cards": [
   {
    "cat": "psychologie",
@@ -932,6 +932,314 @@
     }
    ],
    "date": "2026-11-23T05:45:21Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "IJs is glad, maar niet door de druk",
+   "body": "Op school leerde je misschien dat je gewicht het ijs onder je schoen doet smelten. Dat effect speelt alleen vlak onder het vriespunt. Onderzoekers van de Universiteit van Amsterdam toonden in 2021 dat heel beweeglijke watermoleculen aan het ijsoppervlak je doen glijden. Het vlotst glijd je rond -7 °C.",
+   "take": "Op ijzel zet je kleine, trage stappen: zodra je begint te schuiven, daalt de wrijving.",
+   "deep": "## Hoe het werkt\n\nIJs is een kristal: elke watermolecule zit vast in een netwerk met haar buren. Aan het oppervlak hebben moleculen minder buren om zich aan vast te houden. Daardoor is de bovenste laag veel losser dan het ijs eronder, ook ver onder nul. Dat heet voorsmelten. Michael Faraday opperde in de jaren 1850 al dat ijs een vloeibaar laagje heeft. Die laag wordt dikker naarmate de temperatuur dichter bij het smeltpunt komt. Volgens het Amsterdamse onderzoek gedragen de beweeglijke moleculen zich als piepkleine rolletjes tussen je schaats en het kristal. Meer druk of meer kou maakt ze minder beweeglijk, en dan wordt het ijs minder glad.\n\n## Een voorbeeld\n\nOp een ijsbaan wil je snelheid, op een voetpad bij ijzel net niet. Volgens de onderzoekers houden de meeste schaatsbanen hun ijs rond -7 °C, precies de temperatuur waarbij glijden het vlotst gaat. Wie bij hevige vorst over een bevroren vijver wandelt, merkt dat het ijs dan stroever kan aanvoelen.\n\n## Wat onderzoek zegt\n\nIn de 19de eeuw verklaarde men gladheid met drukmelting: je gewicht zou het ijs doen smelten. Ingenieur Robert Carpick (University of Pennsylvania) wijst erop dat dat effect maar tot enkele graden onder het vriespunt werkt. Toch blijft ijs ook veel kouder glad. In 2021 publiceerden Liefferink, Hsia, Weber en Bonn in Physical Review X proeven waarbij ze een kogel over ijs lieten glijden. Ze varieerden de temperatuur, de druk en de snelheid. Ze vonden een optimum rond -7 °C en koppelden de gladheid aan de beweeglijke moleculen aan het oppervlak.\n\n## Nuance of misverstand\n\nDat 'druk doet ijs smelten' het hele verhaal zou zijn, is dus een mythe. Maar het laatste woord is nog niet gezegd. Bij snel glijden levert wrijvingswarmte ook een bijdrage, en recente computersimulaties zijn het niet eens over hoe groot die bijdrage is. Penn Engineering vat het zo samen: we weten het nog niet helemaal zeker. Ook waarom het ene materiaal beter over ijs glijdt dan het andere, is nog niet opgehelderd.\n\n## Wat je ermee doet\n\nWeet dat ijs niet het gladst is bij strenge vorst, maar bij matige vorst. Loop op ijzel traag en met kleine passen, met je gewicht boven je voeten. Uit hetzelfde onderzoek uit Pennsylvania blijkt dat de wrijving daalt zodra je begint te glijden. Een uitschuiver stoppen is dus moeilijker dan hem vermijden.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"20\" y=\"140\" width=\"320\" height=\"50\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"172\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">ijs (kristal)</text><circle cx=\"40\" cy=\"134\" r=\"5\" fill=\"#06d6a0\"><animate attributeName=\"cy\" values=\"134;128;134\" dur=\"1.2s\" repeatCount=\"indefinite\"/></circle><circle cx=\"68\" cy=\"134\" r=\"5\" fill=\"#06d6a0\"><animate attributeName=\"cy\" values=\"134;128;134\" dur=\"1.4s\" repeatCount=\"indefinite\"/></circle><circle cx=\"96\" cy=\"134\" r=\"5\" fill=\"#06d6a0\"><animate attributeName=\"cy\" values=\"134;128;134\" dur=\"1.6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"124\" cy=\"134\" r=\"5\" fill=\"#06d6a0\"><animate attributeName=\"cy\" values=\"134;128;134\" dur=\"1.2s\" repeatCount=\"indefinite\"/></circle><circle cx=\"152\" cy=\"134\" r=\"5\" fill=\"#06d6a0\"><animate attributeName=\"cy\" values=\"134;128;134\" dur=\"1.4s\" repeatCount=\"indefinite\"/></circle><circle cx=\"180\" cy=\"134\" r=\"5\" fill=\"#06d6a0\"><animate attributeName=\"cy\" values=\"134;128;134\" dur=\"1.6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"208\" cy=\"134\" r=\"5\" fill=\"#06d6a0\"><animate attributeName=\"cy\" values=\"134;128;134\" dur=\"1.2s\" repeatCount=\"indefinite\"/></circle><circle cx=\"236\" cy=\"134\" r=\"5\" fill=\"#06d6a0\"><animate attributeName=\"cy\" values=\"134;128;134\" dur=\"1.4s\" repeatCount=\"indefinite\"/></circle><circle cx=\"264\" cy=\"134\" r=\"5\" fill=\"#06d6a0\"><animate attributeName=\"cy\" values=\"134;128;134\" dur=\"1.6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"292\" cy=\"134\" r=\"5\" fill=\"#06d6a0\"><animate attributeName=\"cy\" values=\"134;128;134\" dur=\"1.2s\" repeatCount=\"indefinite\"/></circle><circle cx=\"320\" cy=\"134\" r=\"5\" fill=\"#06d6a0\"><animate attributeName=\"cy\" values=\"134;128;134\" dur=\"1.4s\" repeatCount=\"indefinite\"/></circle><g><animateTransform attributeName=\"transform\" type=\"translate\" values=\"-40 0;200 0;-40 0\" dur=\"7s\" repeatCount=\"indefinite\"/><path d=\"M70 120 L150 120 Q160 120 160 112\" stroke=\"#ffd166\" stroke-width=\"3\" fill=\"none\"/><rect x=\"85\" y=\"80\" width=\"50\" height=\"34\" rx=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/></g><text x=\"20\" y=\"30\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"start\">Beweeglijke watermoleculen</text><text x=\"20\" y=\"48\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">aan het oppervlak rollen mee</text><text x=\"20\" y=\"210\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">Glijden gaat het vlotst rond -7 °C</text></svg>",
+   "quiz": {
+    "q": "Bij welke temperatuur glijd je volgens Amsterdams onderzoek het vlotst over ijs?",
+    "o": [
+     "Net op 0 °C",
+     "Rond -7 °C",
+     "Onder -30 °C"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Universiteit van Amsterdam (2021)",
+     "u": "https://iop.uva.nl/content/news/2021/02/why-can-we-skate-on-ice.html"
+    },
+    {
+     "t": "Physical Review X 11, 011025",
+     "u": "https://link.aps.org/doi/10.1103/PhysRevX.11.011025"
+    },
+    {
+     "t": "Penn Today",
+     "u": "https://penntoday.upenn.edu/news/penn-engineering-why-are-icy-surfaces-slippery"
+    }
+   ],
+   "date": "2026-11-23T05:45:54Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Een kameleon kleurt door kristallen te verschuiven",
+   "body": "Panterkameleons uit Madagaskar veranderen van kleur door piepkleine guaninekristallen in hun huidcellen dichter bij of verder van elkaar te zetten. Liggen ze dicht opeen, dan weerkaatsen ze blauw licht. Schuiven ze uiteen, dan worden dat geel en rood. Dat toonde een team van de Universiteit van Genève in 2015 aan in Nature Communications.",
+   "take": "Zie je een glanzende kever of pauwenveer? Denk eraan: kleur kan ook uit structuur komen, niet alleen uit pigment.",
+   "deep": "## Hoe het werkt\n\nIn de huid van een panterkameleon zit een bovenlaag van speciale cellen, iridoforen. Daarin liggen nanokristallen van guanine, netjes geordend in een driehoekig rooster. Die kristallen hebben zelf geen kleur. Ze weerkaatsen licht, en de afstand tussen de kristallen bepaalt welke kleur het sterkst terugkaatst. Ligt het rooster dicht opeen, dan is dat blauw. Raakt het dier opgewonden, dan zet het rooster uit, de afstand groeit en de weerkaatste kleur schuift op naar geel, oranje en rood. Zo'n kleur noem je een structuurkleur. Dieper in de huid zit nog een tweede laag iridoforen met grotere, minder geordende kristallen. Die verandert niet van kleur, maar weerkaatst vooral nabij-infrarood zonlicht.\n\n## Een voorbeeld\n\nZet twee mannetjes panterkameleons tegenover elkaar en hun huid wordt in korte tijd feller van kleur. Dat gebeurt omdat ze de kristalroosters in hun huidcellen actief bijstellen, niet omdat er nieuwe kleurstof wordt aangemaakt. Je kunt het vergelijken met een stemvork die je anders afstemt.\n\n## Wat onderzoek zegt\n\nJérémie Teyssier, Suzanne Saenko, Dirk van der Marel en Michel Milinkovitch (Universiteit van Genève) publiceerden dit in 2015 in Nature Communications. Ze combineerden microscopie, videometingen van de kleur en optische modellen van het kristalrooster. Ze legden ook stukjes huid van opgewonden dieren in zoutoplossingen. Door osmose zwollen of krompen de cellen, en dat bleek genoeg om dezelfde omkeerbare kleurverschuivingen te geven als bij levende dieren. De onderzoekers vermoeden dat de diepe laag met infraroodweerkaatsing het dier passief beschermt tegen warmte.\n\n## Nuance of misverstand\n\nHet populaire beeld is een kameleon die zich als een levende schutkleur aan elke achtergrond aanpast. Dat is niet wat dit onderzoek toont. De snelle kleurwissel die in Genève bestudeerd werd, hoort bij opwinding, zoals bij confrontaties tussen mannetjes. Het onderzoek ging bovendien over één soort, de panterkameleon. Het betekent ook niet dat pigment geen rol speelt in de huid. Het toont wel dat de actieve verandering vooral uit de herschikking van kristallen komt.\n\n## Wat je ermee doet\n\nKijk anders naar kleuren in de natuur. Een glanzende kever, een pauwenveer of de regenboogkleuren op een zeepbel ontstaan ook doordat structuren licht weerkaatsen, niet door verf. En de volgende keer dat je in een dierentuin een kameleon ziet verkleuren, weet je dat hij in zijn cellen kristallen herschikt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"40\" y=\"60\" width=\"140\" height=\"120\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"80\" r=\"4\" fill=\"#fff\"><animate attributeName=\"cx\" values=\"60;60;60\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"cy\" values=\"80;80;80\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"82\" cy=\"80\" r=\"4\" fill=\"#fff\"><animate attributeName=\"cx\" values=\"82;90;82\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"cy\" values=\"80;80;80\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"104\" cy=\"80\" r=\"4\" fill=\"#fff\"><animate attributeName=\"cx\" values=\"104;120;104\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"cy\" values=\"80;80;80\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"126\" cy=\"80\" r=\"4\" fill=\"#fff\"><animate attributeName=\"cx\" values=\"126;150;126\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"cy\" values=\"80;80;80\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"60\" cy=\"102\" r=\"4\" fill=\"#fff\"><animate attributeName=\"cx\" values=\"60;60;60\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"cy\" values=\"102;110;102\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"82\" cy=\"102\" r=\"4\" fill=\"#fff\"><animate attributeName=\"cx\" values=\"82;90;82\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"cy\" values=\"102;110;102\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"104\" cy=\"102\" r=\"4\" fill=\"#fff\"><animate attributeName=\"cx\" values=\"104;120;104\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"cy\" values=\"102;110;102\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"126\" cy=\"102\" r=\"4\" fill=\"#fff\"><animate attributeName=\"cx\" values=\"126;150;126\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"cy\" values=\"102;110;102\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"60\" cy=\"124\" r=\"4\" fill=\"#fff\"><animate attributeName=\"cx\" values=\"60;60;60\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"cy\" values=\"124;140;124\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"82\" cy=\"124\" r=\"4\" fill=\"#fff\"><animate attributeName=\"cx\" values=\"82;90;82\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"cy\" values=\"124;140;124\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"104\" cy=\"124\" r=\"4\" fill=\"#fff\"><animate attributeName=\"cx\" values=\"104;120;104\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"cy\" values=\"124;140;124\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"126\" cy=\"124\" r=\"4\" fill=\"#fff\"><animate attributeName=\"cx\" values=\"126;150;126\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"cy\" values=\"124;140;124\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><text x=\"110\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">guaninekristallen in huidcel</text><path d=\"M200 120 L250 120\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M250 114 L262 120 L250 126 Z\" fill=\"#fff\"/><circle cx=\"300\" cy=\"120\" r=\"30\" stroke=\"#fff\" stroke-width=\"2\" fill=\"#4cc9f0\"><animate attributeName=\"fill\" values=\"#4cc9f0;#ffd166;#ff6b9d;#4cc9f0\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><text x=\"300\" y=\"175\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">weerkaatst licht</text><text x=\"20\" y=\"30\" fill=\"#4cc9f0\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"start\">Dicht opeen: blauw</text><text x=\"220\" y=\"30\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"start\">Uiteen: geel/rood</text></svg>",
+   "quiz": {
+    "q": "Wat gebeurt er met de kristallen als een panterkameleon opgewonden raakt?",
+    "o": [
+     "Ze lossen op in de cel",
+     "Ze worden zwart gekleurd",
+     "Ze schuiven verder uit elkaar"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Universiteit van Genève (2015)",
+     "u": "https://www.unige.ch/medias/en/2015/cdp150310-en"
+    },
+    {
+     "t": "Nature Communications 6, 6368",
+     "u": "https://www.doi.org/10.1038/NCOMMS7368"
+    }
+   ],
+   "date": "2026-11-23T05:45:54Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Je microgolfoven kookt niet van binnenuit",
+   "body": "Een microgolfoven zendt golven van 2,45 GHz uit die watermoleculen in je eten doen draaien. Die beweging wordt warmte. In water is na ongeveer 1,4 cm al bijna twee derde van de energie opgenomen. Het midden van een dik gerecht wordt pas warm doordat de hitte naar binnen geleid wordt.",
+   "take": "Roer halverwege, dek af en laat je bord daarna enkele minuten rusten, zodat de warmte zich verdeelt.",
+   "deep": "## Hoe het werkt\n\nIn de oven maakt een buis, het magnetron, microgolven met een frequentie van 2,45 gigahertz. De metalen wanden kaatsen die golven heen en weer. Het elektrisch veld van zo'n golf wisselt miljarden keren per seconde van richting. Watermoleculen hebben een positieve en een negatieve kant, dus ze proberen mee te draaien. Daarbij botsen ze tegen hun buren, en die beweging is warmte. De golven geraken niet ver in je eten. In water bij 25 °C is na ongeveer 1,4 cm al bijna twee derde van het vermogen opgenomen. Dieper dan enkele centimeters komt er weinig energie aan. Het midden warmt pas op doordat de warmte vanuit die buitenste laag naar binnen geleid wordt, net zoals in een gewone pan.\n\n## Een voorbeeld\n\nJe haalt een diepvrieslasagne uit de microgolfoven. De randen borrelen, maar in het midden zit nog een ijsklompje. Dat is het bewijs: de buitenkant krijgt de energie en het hart moet wachten op geleiding.\n\n## Wat onderzoek zegt\n\nDe Amerikaanse Food and Drug Administration (FDA) schrijft letterlijk dat microgolfovens, in tegenstelling tot wat veel mensen denken, voedsel niet van binnenuit koken. Volgens de FDA wordt de energie in het voedsel omgezet in warmte en wordt eten er niet radioactief door. Uit metingen aan water, verzameld door watermoleculenexpert Martin Chaplin (London South Bank University), blijkt dat water microgolven het sterkst opneemt bij frequenties rond 20 GHz. De gangbare 2,45 GHz ligt daar dus ruim onder. Dat heeft een voordeel: de golven worden minder snel opgeslorpt en dringen dieper door.\n\n## Nuance of misverstand\n\nDe warmte ontstaat wel degelijk in het voedsel zelf en niet in de lucht of in het bord, en dat maakt het snel. Maar de verdeling is ongelijk. In de ovenruimte ontstaan staande golven met warme en koude plekken, en eten met een wisselende samenstelling warmt ongelijk op. Het Amerikaanse ministerie van Landbouw (USDA) waarschuwt dat in zulke koude plekken schadelijke bacteriën kunnen overleven.\n\n## Wat je ermee doet\n\nRoer, draai of keer je eten halverwege, zoals de USDA aanraadt. Dek het af om de warmte beter te verdelen. Laat het daarna even rusten: in die rusttijd loopt de warmte verder naar binnen en gaat het garen door. Opwarmen dus liever in een plat, breed bord dan in een dikke berg.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"30\" y=\"40\" width=\"300\" height=\"140\" rx=\"8\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"180\" cy=\"110\" r=\"55\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"180\" cy=\"110\" r=\"45\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"16\" opacity=\"0.8\"><animate attributeName=\"opacity\" values=\"0.3;0.9;0.3\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><circle cx=\"180\" cy=\"110\" r=\"10\" fill=\"#06d6a0\"><animate attributeName=\"r\" values=\"6;30;6\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><path d=\"M45 110 q8 -10 16 0 t16 0 t16 0\" stroke=\"#ffd166\" stroke-width=\"2\" fill=\"none\" stroke-dasharray=\"6 4\"><animate attributeName=\"stroke-dashoffset\" values=\"20;0\" dur=\"1s\" repeatCount=\"indefinite\"/></path><path d=\"M315 110 q-8 -10 -16 0 t-16 0 t-16 0\" stroke=\"#ffd166\" stroke-width=\"2\" fill=\"none\" stroke-dasharray=\"6 4\"><animate attributeName=\"stroke-dashoffset\" values=\"20;0\" dur=\"1s\" repeatCount=\"indefinite\"/></path><text x=\"30\" y=\"28\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"start\">Microgolven warmen de buitenlaag</text><text x=\"30\" y=\"200\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">warmte geleidt naar binnen</text><text x=\"240\" y=\"200\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">rand: heet</text></svg>",
+   "quiz": {
+    "q": "Hoe wordt het midden van een dik gerecht in de microgolfoven warm?",
+    "o": [
+     "Doordat warmte vanuit de buitenlaag naar binnen geleid wordt",
+     "Doordat de golven eerst het midden raken",
+     "Doordat het bord de warmte doorgeeft"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "FDA: Microwave Ovens",
+     "u": "https://www.fda.gov/radiation-emittingproducts/resourcesforyouradiationemittingproducts/ucm252762.htm"
+    },
+    {
+     "t": "LSBU Water Structure and Science",
+     "u": "https://water.lsbu.ac.uk/water/microwave_water.html"
+    },
+    {
+     "t": "USDA FSIS: Microwave Ovens and Food Safety",
+     "u": "https://webarchive.library.unt.edu/web/20120915114427/http:/www.fsis.usda.gov/PDF/Microwave_Ovens_and_Food_Safety.pdf"
+    }
+   ],
+   "date": "2026-11-23T05:45:54Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Gaatjes ontstaan als je tandplak onder pH 5,5 zakt",
+   "body": "Bacteriën in tandplak, zoals Streptococcus mutans, zetten suikers om in zuren zoals melkzuur. Zakt de zuurgraad aan je tand onder ongeveer pH 5,5, de kritische pH, dan verliest je glazuur sneller mineralen dan het terugkrijgt. Speeksel buffert dat zuur weer weg, maar dat duurt even. Elke snack start een nieuwe zuuraanval.",
+   "take": "Hou het op maximaal vijf eetmomenten per dag en drink ertussen water of ongezoete dranken, zoals Gezonde Mond aanraadt.",
+   "deep": "## Hoe het werkt\n\nTandplak is een kleverig laagje vol bacteriën. Sommige soorten, met Streptococcus mutans als bekendste, vergisten suikers zoals sucrose, glucose en fructose tot zuren, vooral melkzuur. Daardoor daalt de zuurgraad vlak tegen je tand. Glazuur bestaat uit mineraalkristallen die voortdurend een beetje oplossen en weer aangroeien. Zakt de pH onder de kritische waarde, meestal rond 5,5, dan wint het oplossen het van het herstel. De kristallen krimpen en de poriën in het glazuur worden groter. Gebeurt dat vaak en lang, dan ontstaat uiteindelijk een gaatje. Speeksel buffert het zuur, spoelt het weg en levert calcium en fosfaat aan, zodat het glazuur zich kan herstellen.\n\n## Een voorbeeld\n\nStel: een koffiekoek om tien uur, een blikje frisdrank waar je de hele namiddag van nipt en nog een koekje bij de tv. Dat zijn drie zuuraanvallen, en de frisdrank rekt de tweede uit tot uren. Wie dezelfde suiker bij de maaltijd eet, geeft zijn tanden daarna wel rust.\n\n## Wat onderzoek zegt\n\nDe onderzoeker Stephan mat in de jaren 1940 de pH van tandplak na een suikerspoeling. Zijn curve toont een snelle daling en een traag herstel. In één studie bleef de pH ongeveer 20 minuten onder de kritische grens en was hij na 30 tot 60 minuten terug op rustniveau. Het Zweedse Vipeholm-onderzoek (vanaf 1945) gaf bewoners van een instelling onder meer 24 kleverige toffees per dag tussen de maaltijden. Wie snoep ook tussen de maaltijden kreeg, ontwikkelde meer cariës dan wie het alleen bij de maaltijd at.\n\n## Nuance of misverstand\n\nDe kritische pH is geen vast getal. Afhankelijk van calcium, fosfaat en fluoride ligt hij ergens tussen 4,5 en 5,5, en bij heel weinig mineralen in het speeksel kan hij oplopen tot ongeveer 6,5. Het Vipeholm-onderzoek wordt zwaar bekritiseerd: ethisch was het onaanvaardbaar, en een studie uit 1988 waarschuwt dat ook de opzet gebreken had. Het effect van hoe vaak je suiker eet, staat dus minder vast dan vaak beweerd wordt. Wat vaststaat: zonder suiker en zonder plak komt er geen zuur.\n\n## Wat je ermee doet\n\nVolg het basisadvies van Gezonde Mond: maximaal vijf eetmomenten per dag en ertussen enkel water of ongezoete dranken. Poets twee keer per dag minstens twee minuten met fluoridetandpasta, één keer vlak voor het slapengaan. Vanaf zes jaar is dat tandpasta met 1450 ppm fluoride.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><path d=\"M30 60 L330 60\" stroke=\"#fff\" stroke-width=\"1\" opacity=\"0.4\"/><path d=\"M30 130 L330 130\" stroke=\"#ff6b9d\" stroke-width=\"2\" stroke-dasharray=\"6 4\"/><text x=\"334\" y=\"134\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">5,5</text><text x=\"30\" y=\"52\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">pH 7</text><text x=\"30\" y=\"150\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">kritische pH: glazuur lost op</text><path d=\"M30 70 L60 70 L70 150 L110 120 L150 80 L170 72 L180 150 L220 115 L260 82 L330 72\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"3\" stroke-dasharray=\"500\" stroke-dashoffset=\"500\"><animate attributeName=\"stroke-dashoffset\" values=\"500;0;0\" dur=\"7s\" repeatCount=\"indefinite\"/></path><text x=\"66\" y=\"190\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">snack</text><text x=\"176\" y=\"190\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">snack</text><path d=\"M66 175 L66 160\" stroke=\"#06d6a0\" stroke-width=\"2\"/><path d=\"M176 175 L176 160\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"30\" y=\"28\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"start\">Zuurgraad in tandplak na elke snack</text><text x=\"240\" y=\"212\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">speeksel herstelt</text></svg>",
+   "quiz": {
+    "q": "Wat gebeurt er als de pH in tandplak onder de kritische waarde zakt?",
+    "o": [
+     "Het glazuur wordt harder",
+     "Het glazuur verliest sneller mineralen dan het terugkrijgt",
+     "De bacteriën sterven af"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Dentalcare: rol van de kritische pH",
+     "u": "https://dentalcare.com/en-us/ce-courses/ce714/the-role-of-critical-ph"
+    },
+    {
+     "t": "Dentalcare: Vipeholm-studie",
+     "u": "https://www.dentalcare.com/en-us/ce-courses/ce713/vipeholm-study"
+    },
+    {
+     "t": "Gezonde Mond: basisadvies",
+     "u": "https://stad.gent/sites/default/files/media/documents/GEZONDE_MOND_Basisadv_BR12_VF_ONLINE-1.pdf"
+    }
+   ],
+   "date": "2026-11-23T05:45:54Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Rillen is je lichaam dat zijn eigen kachel aanzet",
+   "body": "Heb je het koud, dan laat je hypothalamus je spieren snel en ongecontroleerd samentrekken. Dat levert geen nuttig werk op, wel warmte. Daarnaast heb je bruin vet, dat met het eiwit UCP1 rechtstreeks warmte maakt. In Maastricht zagen onderzoekers in 2009 actief bruin vet bij 23 van 24 gezonde mannen bij 16 °C.",
+   "take": "Begin je te rillen? Zie het als een signaal: trek een droge extra laag aan voordat je lichaam alles zelf moet opstoken.",
+   "deep": "## Hoe het werkt\n\nTemperatuurzenuwen in je huid melden kou aan de hypothalamus, je thermostaat in de hersenen. Een gebied daar, de preoptische zone, weegt alle signalen af. Via een ander deel, de dorsomediale hypothalamus, en een kern in de hersenstam gaat het bevel naar je spieren. Die trekken snel en herhaaldelijk samen. Er wordt nauwelijks beweging van gemaakt, dus bijna alle energie komt vrij als warmte. Die warmte ontstaat vooral doordat spiervezels energie inefficiënt gebruiken bij het samentrekken en bij het terugpompen van calcium. Daarnaast is er bruin vet. De mitochondriën in die vetcellen hebben het eiwit UCP1, dat protonen laat teruglekken. Daardoor wordt de energie uit voeding niet opgeslagen als ATP, maar meteen omgezet in warmte. Het sympathisch zenuwstelsel zet dat proces aan.\n\n## Een voorbeeld\n\nJe staat in januari aan de bushalte, of je komt uit het water na een nieuwjaarsduik. Je kaken klapperen en je schouders trillen. Dat is geen teken van zwakte maar een verwarmingssysteem dat op volle toeren draait.\n\n## Wat onderzoek zegt\n\nLang dacht men dat volwassenen nauwelijks bruin vet hadden. In mei 2009 verschenen in The New England Journal of Medicine drie studies die dat bijstelden. Het team van Wouter van Marken Lichtenbelt in Maastricht scande 24 gezonde mannen met PET-CT, bij 22 °C en bij 16 °C. In de kou was het bruine vet actief bij 23 van hen (96 procent), bij kamertemperatuur niet. Een Amerikaans team rond Aaron Cypess bekeek 3640 bestaande scans en zag ook een verband tussen kou en actief bruin vet. Oudere metingen (Spurr en collega's, 1957) gaven aan dat rillen je warmteproductie tot drie keer kan verhogen.\n\n## Nuance of misverstand\n\nRillen is de snelle reactie, maar niet de enige. Bij muizen neemt bij langdurige kou het bruine vet het grotendeels over van het rillen. Muizen zonder UCP1 blijven rillen. Spieren kunnen ook warmte maken zonder zichtbaar te trillen. Hoeveel bruin vet bij volwassenen precies bijdraagt, wordt nog onderzocht. Ook bij koorts gebruikt je lichaam dit circuit: dan staat de thermostaat hoger en ril je tot je die nieuwe temperatuur bereikt.\n\n## Wat je ermee doet\n\nGebruik rillen als signaal en niet als iets om te negeren. Trek droge kleren en extra lagen aan, beweeg en neem iets warms. Rillen kost veel energie, dus het is beter om af te koelen te vermijden dan om het lichaam alles zelf te laten opwarmen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"40\" y=\"60\" width=\"120\" height=\"110\" rx=\"10\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animateTransform attributeName=\"transform\" type=\"translate\" values=\"0 0;2 0;-2 0;0 0\" dur=\"0.4s\" repeatCount=\"indefinite\"/></rect><text x=\"100\" y=\"120\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">spier trilt</text><text x=\"100\" y=\"190\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">rillen</text><ellipse cx=\"260\" cy=\"115\" rx=\"55\" ry=\"45\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"260\" y=\"119\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">bruin vet</text><text x=\"260\" y=\"190\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">UCP1: warmte i.p.v. ATP</text><path d=\"M85 50 q6 -10 0 -20 q-6 -10 0 -20\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0;1;0\" dur=\"3s\" begin=\"0s\" repeatCount=\"indefinite\"/></path><path d=\"M115 50 q6 -10 0 -20 q-6 -10 0 -20\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0;1;0\" dur=\"3s\" begin=\"1s\" repeatCount=\"indefinite\"/></path><path d=\"M245 50 q6 -10 0 -20 q-6 -10 0 -20\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0;1;0\" dur=\"3s\" begin=\"1.5s\" repeatCount=\"indefinite\"/></path><path d=\"M275 50 q6 -10 0 -20 q-6 -10 0 -20\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0;1;0\" dur=\"3s\" begin=\"0.5s\" repeatCount=\"indefinite\"/></path><text x=\"180\" y=\"212\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Twee kachels tegen de kou</text></svg>",
+   "quiz": {
+    "q": "Wat doet het eiwit UCP1 in bruin vet?",
+    "o": [
+     "Het zet energie om in warmte in plaats van ATP",
+     "Het laat spieren trillen",
+     "Het slaat vet op voor de winter"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "NEJM 2009: van Marken Lichtenbelt e.a.",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/19357405/"
+    },
+    {
+     "t": "The Physiological Society: rilcircuit",
+     "u": "https://www.physoc.org/magazine-articles/central-neural-circuitry-for-shivering/"
+    },
+    {
+     "t": "Review: niet-rillende warmteproductie",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/21196381/"
+    }
+   ],
+   "date": "2026-11-23T05:45:54Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Paracetamol en ibuprofen stillen pijn op een andere manier",
+   "body": "Ibuprofen is een ontstekingsremmer (NSAID): het blokkeert de COX-enzymen die prostaglandines maken, stoffen die pijn en zwelling aanjagen. Paracetamol remt die enzymen in ontstoken weefsel nauwelijks en werkt grotendeels via je hersenen en ruggenmerg. Daarom drukt paracetamol pijn en koorts, maar remt het een ontsteking amper.",
+   "take": "Check de werkzame stof op de verpakking, niet de merknaam, en vraag je apotheker welke van de twee bij jouw klacht past.",
+   "deep": "## Hoe het werkt\n\nRaakt weefsel beschadigd, dan zetten COX-enzymen een vetzuur, arachidonzuur, om in prostaglandines. Die stoffen maken zenuwen gevoeliger, zetten bloedvaten open zodat er zwelling ontstaat en helpen koorts opdrijven. Ibuprofen gaat op de plaats in het enzym zitten waar normaal arachidonzuur komt, en remt zo zowel COX-1 als COX-2. Minder prostaglandines betekent minder pijn, koorts en zwelling. Paracetamol grijpt een ander deel van het enzym aan, het peroxidasegedeelte. In ontstoken weefsel zitten veel peroxiden, en die heffen dat effect grotendeels op. In de hersenen en het ruggenmerg is er weinig peroxide, en daar werkt paracetamol wel. Recenter onderzoek wijst ook op een afbraakproduct, AM404, dat in het centraal zenuwstelsel pijn dempt.\n\n## Een voorbeeld\n\nJe verstuikt je enkel bij het voetballen: hij wordt dik, warm en pijnlijk. Daar speelt ontsteking een grote rol, en dat is het terrein van ontstekingsremmers. Heb je griep met koorts en spierpijn, dan doen beide middelen de koorts en de pijn zakken.\n\n## Wat onderzoek zegt\n\nEen overzichtsartikel uit 2005 in het American Journal of Therapeutics beschrijft paracetamol als een zwakke remmer van de prostaglandineproductie in proeven zonder levende cellen. In het lichaam lijkt het effect toch op dat van COX-2-remmers, maar paracetamol onderdrukt de ontsteking bij reumatoïde artritis niet. Een review uit 2008 verklaart dat met de peroxidetheorie. Een review uit 2013 wijst erop dat paracetamol weinig invloed heeft op de bloedplaatjes en goed verdragen wordt door de maag. De maagproblemen van ibuprofen hangen samen met het remmen van COX-1 en nemen toe met de dosis.\n\n## Nuance of misverstand\n\n'Paracetamol helpt niets tegen ontsteking' is te kort door de bocht. Hetzelfde artikel uit 2005 meldt dat het zwelling na mondchirurgie wel wat vermindert. Het precieze werkingsmechanisme van paracetamol is nog altijd niet helemaal opgehelderd, en de vroeger populaire COX-3-theorie lijkt klinisch weinig relevant. Omgekeerd is ibuprofen niet 'sterker' voor elke pijn: het werkt gewoon anders en heeft andere risico's.\n\n## Wat je ermee doet\n\nKijk naar de werkzame stof op de doos: merknamen verschillen, de molecule niet. Zo neem je niet per ongeluk twee keer hetzelfde. Heb je maagklachten, nierproblemen of neem je andere medicatie, vraag dan je apotheker of huisarts welk middel bij jou past.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"20\" y=\"28\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"start\">Pijnsignaal: COX maakt prostaglandines</text><rect x=\"20\" y=\"70\" width=\"90\" height=\"40\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"65\" y=\"95\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">weefsel</text><rect x=\"250\" y=\"70\" width=\"90\" height=\"40\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"295\" y=\"95\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">hersenen</text><path d=\"M110 90 L238 90\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"24;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><path d=\"M238 84 L250 90 L238 96 Z\" fill=\"#fff\"/><text x=\"180\" y=\"82\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">pijn</text><circle cx=\"65\" cy=\"140\" r=\"14\" fill=\"#ff6b9d\"><animate attributeName=\"opacity\" values=\"0.3;1;0.3\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><text x=\"65\" y=\"175\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">ibuprofen:</text><text x=\"65\" y=\"192\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">remt hier, ook zwelling</text><circle cx=\"295\" cy=\"140\" r=\"14\" fill=\"#06d6a0\"><animate attributeName=\"opacity\" values=\"0.3;1;0.3\" dur=\"3s\" begin=\"1.5s\" repeatCount=\"indefinite\"/></circle><text x=\"295\" y=\"175\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">paracetamol:</text><text x=\"295\" y=\"192\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">werkt vooral hier</text></svg>",
+   "quiz": {
+    "q": "Waarom remt paracetamol een ontsteking nauwelijks?",
+    "o": [
+     "Het wordt meteen uitgeplast",
+     "Het werkt alleen in de maag",
+     "Peroxiden in ontstoken weefsel heffen de werking grotendeels op"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "NHS: hoe werkt ibuprofen",
+     "u": "https://www.nhs.uk/medicines/ibuprofen-for-adults/common-questions-about-ibuprofen-for-adults"
+    },
+    {
+     "t": "Review 2008: werking van paracetamol",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/18811827/"
+    },
+    {
+     "t": "Am J Ther 2005: werking van paracetamol",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/15662292/"
+    }
+   ],
+   "date": "2026-11-23T05:45:54Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Kermis was eerst gewoon een kerkmis",
+   "body": "Kermis is een samenstelling van kerk en mis, waarbij de k uit de uitspraak wegviel. Het woord stond eerst voor de mis die gevierd werd bij de inwijding van een kerk. Bij dat feest hoorde een jaarmarkt, en die werd al snel de hoofdzaak. Het woord is bekend sinds de eerste helft van de 13de eeuw, als kercmisse.",
+   "take": "Staat de kermis in jouw dorp nog op het kerkplein? Dan zie je de oorsprong van het woord gewoon voor je.",
+   "deep": "## Hoe het werkt\n\nWoorden die vaak gebruikt worden, slijten. Twee medeklinkers die tegen elkaar botsen, zoals de k van kerk en de m van mis, worden in vlot gesproken taal makkelijk vereenvoudigd. Zo werd kercmisse stilaan kermisse en uiteindelijk kermis. Ook de betekenis schoof op. Volgens de Etymologiebank was kermis eerst de mis bij de inwijding van een kerk. Tijdens dat feest werd een jaarmarkt gehouden, die al snel belangrijker werd dan de mis zelf. Daardoor ging het woord van 'kerkwijdingsfeest' naar 'jaarmarkt' en later naar het volksfeest met attracties dat we nu kennen.\n\n## Een voorbeeld\n\nIn veel Vlaamse dorpen en steden staat de kermis nog altijd rond de kerk of op de markt ernaast. Ook het woord foor heeft een kerkelijke achtergrond: het komt van het Franse foire, dat teruggaat op het Latijnse feria, 'feestdag'. Markten op feestdagen groeiden zo uit tot kermissen. Het woord lunapark voor een kermisattractie dateert volgens de Etymologiebank van 1916.\n\n## Wat onderzoek zegt\n\nDe Etymologiebank, die verschillende Nederlandse etymologische woordenboeken bundelt, dateert kermis met de vormen kercmisse en kermis(se) tussen 1201 en 1250. Dat steunt op het woordenboek van Van Veen en Van der Sijs (1997). Een oud Nederlands woordenboek op DBNL geeft als vroeg voorbeeld een bijbeltekst uit 1477 over de inwijding van het huis van God. Ook andere talen kennen het woord: in het Duits is er Kirmes. Het Engels leende kermis uit het Nederlands, volgens Merriam-Webster voor het eerst in 1577.\n\n## Nuance of misverstand\n\nNiet iedereen was het altijd eens over die afleiding. In het West-Vlaamse tijdschrift Biekorf verscheen in de jaren 1930 een stuk dat een voorchristelijke oorsprong van het feest opperde. Dat blijft speculatie: de woordvorm zelf wijst duidelijk naar kerk en mis. Let ook op het verschil tussen woord en gebruik. Dat het woord uit de kerk komt, betekent niet dat elke kermis vandaag nog een religieuze aanleiding heeft.\n\n## Wat je ermee doet\n\nGebruik dit als geheugensteun voor andere afgesleten samenstellingen. Ook bij de woorden die je elke dag zegt, loont het om te vragen waar ze vandaan komen. Wie de Etymologiebank opent, vindt per woord de oudste vorm, de eerste vermelding en de bronnen. En op de volgende kermis kun je vertellen waarom de botsauto's naast de kerk staan.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"20\" y=\"30\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"start\">Hoe een woord afslijt</text><text x=\"40\" y=\"80\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"16\" text-anchor=\"start\">kerk + mis</text><g opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;1;0\" keyTimes=\"0;0.2;0.9;1\" dur=\"8s\" begin=\"1s\" repeatCount=\"indefinite\"/><text x=\"40\" y=\"115\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"16\" text-anchor=\"start\">kercmisse</text><text x=\"200\" y=\"115\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">13de eeuw</text></g><g opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;1;0\" keyTimes=\"0;0.2;0.9;1\" dur=\"8s\" begin=\"3s\" repeatCount=\"indefinite\"/><text x=\"40\" y=\"150\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"16\" text-anchor=\"start\">kermis</text><text x=\"200\" y=\"150\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">de k valt weg</text></g><path d=\"M300 205 L300 175 L320 160 L340 175 L340 205 Z\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M320 160 L320 145\" stroke=\"#fff\" stroke-width=\"2\"/><g><animateTransform attributeName=\"transform\" type=\"rotate\" values=\"0 250 185;360 250 185\" dur=\"8s\" repeatCount=\"indefinite\"/><circle cx=\"250\" cy=\"185\" r=\"18\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><path d=\"M232 185 L268 185 M250 167 L250 203\" stroke=\"#ffd166\" stroke-width=\"2\"/></g><text x=\"20\" y=\"214\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">mis bij kerkwijding, daarna jaarmarkt</text></svg>",
+   "quiz": {
+    "q": "Waar stond het woord kermis oorspronkelijk voor?",
+    "o": [
+     "Een markt voor kersen",
+     "De mis bij de inwijding van een kerk",
+     "Een wielerkoers rond het dorp"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Etymologiebank: kermis",
+     "u": "https://www.etymologiebank.nl/trefwoord/kermis"
+    },
+    {
+     "t": "Merriam-Webster: kermis",
+     "u": "https://www.merriam-webster.com/dictionary/kermis"
+    }
+   ],
+   "date": "2026-11-23T05:45:54Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Een ongeluk vóórkomen of voorkómen: de klemtoon beslist",
+   "body": "Met de klemtoon op 'voor' betekent vóórkomen 'zich voordoen' en splits je het werkwoord: 'het komt vaak voor'. Met de klemtoon op 'ko' betekent voorkómen 'beletten' en blijft het één geheel: 'we voorkomen het'. Hetzelfde patroon zie je bij dóórlopen en doorlópen, en bij óndergaan en ondergáán.",
+   "take": "Twijfel je welke betekenis je bedoelt? Probeer het werkwoord te splitsen: lukt dat, dan ligt de klemtoon vooraan.",
+   "deep": "## Hoe het werkt\n\nHet Nederlands heeft werkwoorden met een voorzetsel ervoor, zoals voor, door en onder. Ligt de klemtoon op dat voorzetsel, dan is het werkwoord meestal scheidbaar en vaak letterlijk: 'de zon gaat onder', 'je loopt door'. Ligt de klemtoon op het werkwoord zelf, dan blijft het geheel en is de betekenis vaak abstracter: 'hij ondergaat een operatie', 'ze doorloopt de opleiding'. Ook het voltooid deelwoord verraadt het verschil. Het scheidbare werkwoord krijgt ge- in het midden (voorgekomen, doorgelopen, ondergegaan). Het onscheidbare werkwoord krijgt geen ge- (voorkomen, doorlopen, ondergaan).\n\n## Een voorbeeld\n\n'Deze fout komt vaak voor' en 'deze fout is al vaak voorgekomen': klemtoon op voor, betekenis 'zich voordoen'. 'Met een fietshelm voorkom je hoofdletsel' en 'dat ongeval had men kunnen voorkomen': klemtoon op ko, betekenis 'beletten'. Geschreven ziet 'voorkomen' er in beide gevallen hetzelfde uit. Pas de zinsbouw of je stem maakt duidelijk welk woord je bedoelt.\n\n## Wat onderzoek zegt\n\nTeam Taaladvies van de Vlaamse overheid beschrijft het precies zo. In de betekenis 'beletten, afweren' ligt de klemtoon op de voorlaatste lettergreep en is voorkomen onscheidbaar. In de betekenissen 'aangetroffen worden', 'zich voordoen' en 'voor het gerecht verschijnen' ligt de klemtoon op de eerste lettergreep en is het werkwoord scheidbaar. Ook lesmateriaal voor anderstaligen, zoals dat van Inburgering.org, legt doorlopen en ondergaan op dezelfde manier uit: met de klemtoon op het voorzetsel betekent dóórlopen 'blijven stappen', met de klemtoon op het werkwoord betekent doorlópen 'helemaal afwerken'.\n\n## Nuance of misverstand\n\nHet is een sterke vuistregel, geen wet zonder uitzonderingen. Niet elk werkwoord met een voorzetsel heeft twee varianten, en de betekenis is niet altijd netjes letterlijk tegenover figuurlijk. In de meeste teksten maakt de context alles duidelijk, zodat je geen klemtoonteken nodig hebt. Wil je toch helpen, dan mag je accenten gebruiken. Bij een dubbele klinker zet je ze op beide letters: vóórkomen, voorkómen.\n\n## Wat je ermee doet\n\nTwijfel je welke vorm je bedoelt, maak dan een korte zin in de tegenwoordige tijd. Kun je het werkwoord splitsen ('het komt voor'), dan ligt de klemtoon vooraan. Kan dat niet ('ik voorkom het'), dan ligt hij achteraan. In een tekst waar verwarring echt mogelijk is, zoals een instructie of veiligheidsregel, zet je een klemtoonteken of herformuleer je met 'beletten' of 'gebeuren'.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"20\" y=\"30\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"start\">De klemtoon kiest de betekenis</text><rect x=\"20\" y=\"50\" width=\"150\" height=\"120\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"190\" y=\"50\" width=\"150\" height=\"120\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"95\" y=\"82\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"15\" text-anchor=\"middle\">VÓÓRkomen</text><text x=\"95\" y=\"108\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">= zich voordoen</text><text x=\"95\" y=\"140\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">het komt voor</text><text x=\"95\" y=\"158\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">is voorgekomen</text><text x=\"265\" y=\"82\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"15\" text-anchor=\"middle\">voorKÓMEN</text><text x=\"265\" y=\"108\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">= beletten</text><text x=\"265\" y=\"140\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">we voorkomen het</text><text x=\"265\" y=\"158\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">heeft voorkomen</text><circle cx=\"60\" cy=\"68\" r=\"5\" fill=\"#06d6a0\"><animate attributeName=\"opacity\" values=\"1;0.1;1\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><circle cx=\"300\" cy=\"68\" r=\"5\" fill=\"#ff6b9d\"><animate attributeName=\"opacity\" values=\"0.1;1;0.1\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><text x=\"95\" y=\"195\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">scheidbaar</text><text x=\"265\" y=\"195\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">onscheidbaar</text></svg>",
+   "quiz": {
+    "q": "Welk voltooid deelwoord hoort bij voorkómen in de betekenis 'beletten'?",
+    "o": [
+     "voorkomen",
+     "voorgekomen",
+     "gevoorkomen"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Team Taaladvies Vlaamse overheid",
+     "u": "https://www.vlaanderen.be/taaladvies/taaladviezen/voorkomen-vervoegen"
+    },
+    {
+     "t": "Inburgering.org: scheidbaar of niet",
+     "u": "https://inburgering.org/nl/grammar/separable-or-inseparable"
+    }
+   ],
+   "date": "2026-11-23T05:45:54Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "In 1582 sloeg Vlaanderen Kerstmis gewoon over",
+   "body": "Paus Gregorius XIII liet op 4 oktober 1582 meteen 15 oktober volgen, om de kalender weer gelijk te zetten met de seizoenen. Onze streken volgden twee maanden later. Volgens de Koninklijke Sterrenwacht van België volgde in Vlaanderen en Henegouwen op 21 december meteen 1 januari 1583. Kerstmis 1582 viel daar dus weg.",
+   "take": "Duik je in oude archieven of stambomen? Controleer of een datum nog volgens de oude, juliaanse kalender genoteerd is.",
+   "deep": "## Hoe het werkt\n\nDe juliaanse kalender van Julius Caesar telde om de vier jaar een schrikkeljaar, dus gemiddeld 365,25 dagen per jaar. Het echte zonnejaar is net iets korter. Dat verschil stapelde zich eeuwenlang op. Volgens de Koninklijke Sterrenwacht van België was het werkelijke begin van de lente in de 16de eeuw al naar ongeveer 11 maart opgeschoven. Dat was een probleem voor de kerk: het Concilie van Nicea had in 325 bepaald dat Pasen na de lente-equinox valt, en die werd op 21 maart gezet. De oplossing bestond uit twee stappen. Eerst werden tien dagen geschrapt, zodat de equinox weer rond 21 maart viel. Daarna kwam een nieuwe schrikkelregel: een eeuwjaar is alleen een schrikkeljaar als het deelbaar is door 400. Zo telt de kalender 97 schrikkeljaren per 400 jaar. Daardoor waren 1600 en 2000 schrikkeljaren, en 1700, 1800 en 1900 niet.\n\n## Een voorbeeld\n\nIn onze gewesten gebeurde de sprong niet in oktober. Volgens de Sterrenwacht volgde in Vlaanderen en Henegouwen 1 januari 1583 meteen op 21 december 1582, zodat er dat jaar geen Kerstmis was. Brabant en Zeeland sprongen mogelijk al eerder, van 14 naar 25 december. Het prinsbisdom Luik volgde pas in februari 1583.\n\n## Wat onderzoek zegt\n\nDe pauselijke bul Inter gravissimas dateert van 24 februari 1582. Volgens Britannica koos men voor oktober omdat er dan geen grote christelijke feestdagen werden overgeslagen. Spanje, Portugal, het Pools-Litouwse Gemenebest en het grootste deel van Italië voerden de nieuwe kalender meteen in. Frankrijk volgde later. Engeland wachtte tot 1752 en moest toen al elf dagen overslaan.\n\n## Nuance of misverstand\n\nNiemand 'verloor' tien dagen van zijn leven: alleen de nummering van de dagen veranderde. Ook de exacte data voor onze streken liggen niet vast. De Sterrenwacht zegt zelf dat de overgang in Brabant niet duidelijk is, en andere overzichten geven voor Vlaanderen 25 december 1582 als eerste gregoriaanse dag. Omdat elk land op een ander moment overstapte, liepen kalenders in Europa lange tijd naast elkaar.\n\n## Wat je ermee doet\n\nZoek je in oude parochieregisters, brieven of stambomen, let dan op welke kalender er gebruikt werd. Een Engelse datum uit 1650 loopt tien dagen achter op een Vlaamse. Historici vermelden daarom soms 'oude stijl' en 'nieuwe stijl'. En waarom 2000 een schrikkeljaar was, maar 1900 niet, kun je nu ook uitleggen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"20\" y=\"30\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"start\">Oktober 1582: van 4 naar 15</text><rect x=\"20\" y=\"80\" width=\"40\" height=\"40\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"40\" y=\"105\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">1</text><rect x=\"67\" y=\"80\" width=\"40\" height=\"40\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"87\" y=\"105\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">2</text><rect x=\"114\" y=\"80\" width=\"40\" height=\"40\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"134\" y=\"105\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">3</text><rect x=\"161\" y=\"80\" width=\"40\" height=\"40\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"181\" y=\"105\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">4</text><rect x=\"208\" y=\"80\" width=\"40\" height=\"40\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"228\" y=\"105\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">15</text><rect x=\"255\" y=\"80\" width=\"40\" height=\"40\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"275\" y=\"105\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">16</text><rect x=\"302\" y=\"80\" width=\"40\" height=\"40\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"322\" y=\"105\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">17</text><path d=\"M180 70 Q205 40 230 70\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\" stroke-dasharray=\"4 4\"><animate attributeName=\"stroke-dashoffset\" values=\"16;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><path d=\"M224 66 L231 74 L234 63 Z\" fill=\"#ff6b9d\"/><text x=\"205\" y=\"55\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">-10 dagen</text><circle cx=\"180\" cy=\"170\" r=\"22\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"180\" cy=\"148\" r=\"6\" fill=\"#06d6a0\"><animateTransform attributeName=\"transform\" type=\"rotate\" values=\"0 180 170;360 180 170\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><text x=\"214\" y=\"166\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">lente-equinox terug</text><text x=\"214\" y=\"182\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">rond 21 maart</text><text x=\"20\" y=\"212\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">Vlaanderen: 21 dec. 1582 → 1 jan. 1583</text></svg>",
+   "quiz": {
+    "q": "Waarom schrapte paus Gregorius XIII tien dagen?",
+    "o": [
+     "Omdat er pest heerste in Rome",
+     "Om oktober korter te maken voor de oogst",
+     "Om de lente-equinox weer rond 21 maart te krijgen"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Koninklijke Sterrenwacht (Robinfo)",
+     "u": "https://robinfo.oma.be/nl/astro-info/kalender/de-gregoriaanse-kalender/"
+    },
+    {
+     "t": "Robinfo: kalenderhervorming",
+     "u": "https://robinfo.oma.be/nl/faq/wat-is-de-gregoriaanse-kalenderhervorming/"
+    },
+    {
+     "t": "Britannica: Gregorian calendar",
+     "u": "https://www.britannica.com/topic/Gregorian-calendar"
+    }
+   ],
+   "date": "2026-11-23T05:45:54Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Hoe Brugge zijn weg naar zee verloor",
+   "body": "De stormvloed van 1134 schuurde het Zwin uit, een zeearm tot bij het latere Damme. In 1180 kreeg Brugge daar een voorhaven met een sluis. Maar vanaf de 13de eeuw slibde het Zwin dicht, mee door te snelle indijkingen. Rond 1450 raakten zeeschepen al moeilijk in Sluis. De handel verschoof later naar Antwerpen.",
+   "take": "Fiets eens van Brugge naar Damme en Sluis: je volgt dan de oude route van de zeeschepen, nu tussen polders.",
+   "deep": "## Hoe het werkt\n\nEen zeearm blijft alleen diep als het getij er krachtig in- en uitstroomt. Bij vloed loopt er zeewater naar binnen, bij eb stroomt het met kracht terug en neemt het slib mee. Hoe meer water er achter de monding kan bergen, hoe sterker die stroming. Wanneer je schorren, de buitendijkse slikken die bij vloed onderlopen, indijkt, verklein je die bergingsruimte. Er stroomt minder water, de stroming verzwakt en het slib blijft liggen. Zo groeit de geul langzaam dicht. Een artikel in De Vlaamsche Gids uit 1938 wijst precies dat aan als hoofdoorzaak: de schorren tussen Monnikerede en Sluis werden te snel ingedijkt. Een ouder stuk in Biekorf vat het samen als te veel slib en te weinig water.\n\n## Een voorbeeld\n\nWie vandaag door Damme wandelt, ziet een rustig stadje tussen weilanden. In de middeleeuwen was het de voorhaven van Brugge. De sluis was te klein voor grote zeeschepen zoals de kogge, die tot 250 ton kon laden. Daarom werd de lading in Damme overgeslagen op kleinere boten naar Brugge. Het natuurgebied Het Zwin in Knokke-Heist is wat er nog over is van de zeearm.\n\n## Wat onderzoek zegt\n\nDe stormvloed van oktober 1134 schuurde vanuit het oude Sincfal een geul uit. Graaf Filips van de Elzas stichtte er in 1180 Damme, op het verste bevaarbare punt, en Brugge kreeg er een kanaal en een sluis. Volgens historicus Ryckaert (Universiteit Gent) begon de verzanding in de 13de eeuw. De Brugse burgers vochten er eeuwenlang tegen, zonder moeite of geld te sparen. Rond 1450 hadden zeeschepen al moeite om de haven van Sluis binnen te lopen.\n\n## Nuance of misverstand\n\nHet klassieke verhaal is dat het zand Brugge doodde. Ryckaert noemt de verzanding een reële, maar geen doorslaggevende factor. De Brugse economie had eind 15de eeuw haar hoogtepunt al achter zich, en politieke en economische oorzaken wogen zwaar. Antwerpen had een haven die beter geschikt was voor de grote scheepvaart en groeide in de 16de eeuw uit tot het nieuwe handelscentrum. Ook de rol van de mens zelf, via de indijkingen, werd pas laat volop erkend.\n\n## Wat je ermee doet\n\nKijk bij een verhaal over 'de natuur die een stad ten val bracht' altijd verder: vaak spelen menselijke keuzes en economie mee. Wil je het landschap zelf zien, volg dan de Damse Vaart of bezoek het Zwin, waar je de restanten van de zeearm nog herkent.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"20\" y=\"28\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"start\">Het Zwin: van zeearm tot slibvlakte</text><path d=\"M340 40 L340 200\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"334\" y=\"60\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"end\">zee</text><path d=\"M340 110 C280 100 240 140 180 130 C130 122 100 150 50 150\" fill=\"none\" stroke=\"#4cc9f0\" stroke-width=\"14\" stroke-linecap=\"round\"><animate attributeName=\"stroke-width\" values=\"14;2;14\" dur=\"8s\" repeatCount=\"indefinite\"/></path><circle r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M340 110 C280 100 240 140 180 130 C130 122 100 150 50 150\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><circle cx=\"50\" cy=\"150\" r=\"7\" fill=\"#ff6b9d\"/><text x=\"50\" y=\"178\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Brugge</text><circle cx=\"120\" cy=\"133\" r=\"5\" fill=\"#fff\"/><text x=\"120\" y=\"118\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Damme</text><circle cx=\"275\" cy=\"109\" r=\"5\" fill=\"#fff\"/><text x=\"275\" y=\"94\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Sluis</text><text x=\"20\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">1134 storm → 13de eeuw slib → ±1450 vast</text></svg>",
+   "quiz": {
+    "q": "Wat was volgens historici een belangrijke oorzaak van de verzanding van het Zwin?",
+    "o": [
+     "Het te snel indijken van schorren",
+     "Een aardbeving in 1450",
+     "Het graven van de Schelde"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Ryckaert, De verzanding van het Zwin (VLIZ)",
+     "u": "https://vliz.be/imisdocs/publications/ocrd/57/239357.pdf"
+    },
+    {
+     "t": "De Vlaamsche Gids (1938), DBNL",
+     "u": "https://www.dbnl.org/tekst/_vla001193801_01/_vla001193801_01_0067.php"
+    },
+    {
+     "t": "Kenniswest: maritieme column",
+     "u": "https://www.kenniswest.be/file/article/69785/69783/W-VL_Werkt_2_2017_maritieme_column.pdf?v=3"
+    }
+   ],
+   "date": "2026-11-23T05:45:54Z"
   }
  ],
  "dives": [
