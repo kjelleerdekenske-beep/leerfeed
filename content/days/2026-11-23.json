@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T05:43:54Z",
+ "updated": "2026-11-23T05:44:36Z",
  "cards": [
   {
    "cat": "psychologie",
@@ -316,6 +316,326 @@
     }
    ],
    "date": "2026-11-23T05:43:54Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Je authenticator-app praat nooit met de server",
+   "body": "De zescijferige code in je authenticator-app komt niet van het internet. Je gsm en de server delen één geheime sleutel en kijken allebei op de klok. Uit sleutel plus tijdvak (standaard 30 seconden) rekenen ze los van elkaar dezelfde code uit. Dat staat in de standaard RFC 6238 uit 2011.",
+   "take": "Staat de klok van je gsm handmatig verkeerd? Zet ze op automatisch, anders weigert de server je codes.",
+   "deep": "## Hoe het werkt\n\nBij het instellen scan je een QR-code. Daarin zit een geheime sleutel die alleen je app en de server kennen. Vanaf dan gebeurt alles lokaal, ook in vliegtuigmodus.\n\nStap 1: de app neemt de huidige tijd in seconden sinds 1 januari 1970 en deelt die door 30. Het afgeronde getal is het tijdvak. Elke 30 seconden springt het één op.\n\nStap 2: de app stopt sleutel en tijdvak in HMAC-SHA-1, een cryptografische hashfunctie. Daar komt een reeks van 20 bytes uit die er willekeurig uitziet.\n\nStap 3: de laatste 4 bits van die reeks wijzen een startpositie aan (0 tot 15). Vanaf daar knipt de app 4 bytes uit, maakt er een getal van 31 bits van en houdt de rest over na deling door een miljoen. Dat zijn je zes cijfers.\n\n## Een voorbeeld\n\nJe logt in bij je mailprovider of de site van je sportclub en tikt 492 039 over. De server heeft dezelfde sleutel, kijkt op zijn eigen klok, doet dezelfde berekening en vergelijkt. Klopt het, dan mag je binnen. Er reist dus nooit een code van de server naar je gsm: alleen jij stuurt iets, en dat is na een halve minuut al waardeloos.\n\n## Wat onderzoek zegt\n\nTOTP (time-based one-time password) werd in mei 2011 vastgelegd in RFC 6238 door David M'Raihi en collega's bij de IETF. Het bouwt voort op HOTP uit RFC 4226, waar de teller geen tijd maar een knopdruk was. RFC 4226 schrijft minstens zes cijfers voor; zeven of acht mag ook. RFC 6238 raadt een tijdvak van 30 seconden aan als evenwicht tussen veiligheid en gebruiksgemak.\n\nOmdat typen en verzenden tijd kost, raadt de RFC aan dat een server hoogstens één vorig tijdvak aanvaardt. Diensten zoals Auth0 aanvaarden zo ook de vorige code, waardoor een code in de praktijk tot ongeveer een minuut geldig kan zijn.\n\n## Nuance of misverstand\n\nEen authenticator-app is veiliger dan een sms-code, maar niet onkwetsbaar. Tik je de code in op een valse loginpagina, dan kan een oplichter ze binnen diezelfde halve minuut zelf gebruiken. De code bewijst dat je de sleutel hebt, niet dat de website echt is.\n\nEn wie de geheime sleutel of de QR-code in handen krijgt, kan voortaan zelf geldige codes maken. Een screenshot van die QR-code in je fotorol is dus geen goed idee.\n\n## Wat je ermee doet\n\nZet de klok van je gsm op automatisch. Bewaar de herstelcodes die je bij het instellen krijgt op papier of in je wachtwoordbeheerder, want verlies je je toestel, dan ben je ook de sleutels kwijt. En kijk altijd naar het webadres voor je een code intikt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"18\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" font-weight=\"bold\">Zelfde geheim + zelfde klok = zelfde code</text><rect x=\"15\" y=\"45\" width=\"95\" height=\"40\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"30\" y=\"70\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" >Geheime sleutel</text><circle cx=\"62\" cy=\"150\" r=\"32\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"62\" y1=\"150\" x2=\"62\" y2=\"124\" stroke=\"#ffd166\" stroke-width=\"3\"><animateTransform attributeName=\"transform\" type=\"rotate\" from=\"0 62 150\" to=\"360 62 150\" dur=\"6s\" repeatCount=\"indefinite\"/></line><text x=\"36\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" >tijd ÷ 30 s</text><line x1=\"112\" y1=\"65\" x2=\"144\" y2=\"65\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M142 60 L150 65 L142 70 Z\" fill=\"#fff\"/><line x1=\"96\" y1=\"150\" x2=\"125\" y2=\"150\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"125\" y1=\"150\" x2=\"125\" y2=\"100\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M120 106 L125 98 L130 106 Z\" fill=\"#fff\"/><rect x=\"150\" y=\"45\" width=\"85\" height=\"60\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"168\" y=\"70\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" >HMAC-</text><text x=\"168\" y=\"88\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" >SHA-1</text><line x1=\"237\" y1=\"75\" x2=\"256\" y2=\"75\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M254 70 L262 75 L254 80 Z\" fill=\"#fff\"/><rect x=\"262\" y=\"50\" width=\"85\" height=\"50\" rx=\"8\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"274\" y=\"82\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"16\" font-weight=\"bold\">492 039</text><rect x=\"262\" y=\"108\" width=\"85\" height=\"6\" rx=\"3\" fill=\"#ffd166\"><animate attributeName=\"width\" values=\"85;0\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"160\" y=\"150\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" >1. knip 4 bytes uit hash</text><text x=\"160\" y=\"170\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" >2. hou 31 bits over</text><text x=\"160\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" >3. rest na deling door 10⁶</text></svg>",
+   "quiz": {
+    "q": "Hoe weet je authenticator-app welke zes cijfers hij moet tonen?",
+    "o": [
+     "Hij rekent ze zelf uit met een geheime sleutel en de klok",
+     "Hij ontvangt ze elke 30 seconden van de server",
+     "Hij leest ze uit de simkaart van je gsm"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "RFC 6238 (IETF, 2011)",
+     "u": "https://www.rfc-editor.org/rfc/rfc6238.html"
+    },
+    {
+     "t": "RFC 4226 (IETF, HOTP)",
+     "u": "https://www.rfc-editor.org/rfc/rfc4226"
+    },
+    {
+     "t": "Auth0 Support",
+     "u": "https://support.auth0.com/center/s/article/auth0-acceptance-of-otp-mfa-codes-after-30-seconds"
+    }
+   ],
+   "date": "2026-11-23T05:44:36Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Zwart op een OLED-scherm is gewoon een uitgeschakelde pixel",
+   "body": "Een LCD-scherm heeft een lamp achter het beeld die altijd brandt; vloeibare kristallen filteren dat licht, maar nooit helemaal. Zwart wordt daardoor donkergrijs. Bij OLED maakt elke pixel zijn eigen licht. Zwart betekent: pixel uit, dus geen licht. Kodak-onderzoekers Ching Tang en Steven Van Slyke beschreven de eerste praktische OLED in 1987.",
+   "take": "Heb je een OLED-gsm? Een donker thema spaart er stroom, op een LCD-scherm haalt het weinig uit.",
+   "deep": "## Hoe het werkt\n\nEen LCD-scherm werkt als een lichtbak met luikjes. Achteraan zit een ledverlichting (backlight) die het hele scherm verlicht. Daarvoor zit een laag vloeibare kristallen tussen filters. Per pixel draaien de kristallen zo dat ze meer of minder licht doorlaten. Maar een luikje sluit nooit volledig: er lekt altijd wat licht door.\n\nEen OLED-scherm heeft geen backlight. Elke pixel bestaat uit dunne lagen organisch materiaal die zelf oplichten zodra er stroom door loopt. Minder stroom geeft minder licht, geen stroom geeft geen licht. Een zwarte pixel is dus letterlijk uit.\n\n## Een voorbeeld\n\nKijk 's avonds naar een film met zwarte balken boven en onder het beeld. Op een gewone LCD-tv zie je in een donkere woonkamer dat die balken eigenlijk grijs gloeien. Op een OLED-tv versmelten ze met de duisternis van de kamer. Duurdere LCD-tv's dimmen hun backlight per zone, maar rond een felle ondertitel zie je dan soms een lichte waas: het zogenoemde blooming-effect.\n\n## Wat onderzoek zegt\n\nChing Tang en Steven Van Slyke van Eastman Kodak publiceerden in 1987 in Applied Physics Letters het artikel 'Organic electroluminescent diodes'. Hun diode had twee dunne organische lagen tussen een elektrode van indiumtinoxide en een van magnesium-zilver, en gaf groen licht. Dat wordt algemeen gezien als het begin van de praktische OLED.\n\nHoe groot het verschil in zwart is, druk je uit met de contrastverhouding: hoeveel keer feller wit is dan zwart. Volgens Trusted Reviews haalt een degelijk LCD-scherm zo'n 1000:1. Omdat een uitgeschakelde OLED-pixel geen licht geeft, is die verhouding bij OLED in theorie oneindig.\n\n## Nuance of misverstand\n\nOLED is niet in alles beter. LCD-schermen kunnen vaak feller worden, wat helpt in een zonnige kamer. En bij OLED bestaat het risico op inbranden: een beeld dat urenlang stilstaat, zoals een zenderlogo, kan een vage afdruk achterlaten omdat die pixels sneller verouderen.\n\nOok 'oneindig contrast' is vooral een theoretisch getal. In een verlichte kamer weerkaatst elk scherm omgevingslicht, en dan is zwart nooit echt zwart.\n\n## Wat je ermee doet\n\nWeet welk scherm je hebt. Op een OLED-scherm verbruikt een zwarte pixel niets, dus een donkere modus en een zwarte achtergrond sparen batterij. Op een LCD brandt de backlight toch, dus daar levert het nauwelijks iets op. Vermijd op een OLED-tv urenlang hetzelfde stilstaande beeld met fel logo of menubalk.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"30\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" font-weight=\"bold\">LCD</text><text x=\"220\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" font-weight=\"bold\">OLED</text><rect x=\"20\" y=\"40\" width=\"130\" height=\"14\" fill=\"#ffd166\"/><text x=\"20\" y=\"72\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" >backlight staat altijd aan</text><rect x=\"20\" y=\"85\" width=\"130\" height=\"50\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"30\" y=\"115\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" >kristallen filteren</text><line x1=\"85\" y1=\"135\" x2=\"85\" y2=\"185\" stroke=\"#ffd166\" stroke-width=\"3\" stroke-dasharray=\"6 6\" opacity=\"0.5\"><animate attributeName=\"stroke-dashoffset\" values=\"12;0\" dur=\"1s\" repeatCount=\"indefinite\"/></line><text x=\"30\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" >zwart = donkergrijs (lek)</text><line x1=\"180\" y1=\"30\" x2=\"180\" y2=\"210\" stroke=\"#fff\" stroke-width=\"1\" opacity=\"0.4\"/><rect x=\"210\" y=\"85\" width=\"28\" height=\"50\" rx=\"4\" fill=\"#06d6a0\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"1;0.05;1\" dur=\"4s\" begin=\"0s\" repeatCount=\"indefinite\"/></rect><rect x=\"246\" y=\"85\" width=\"28\" height=\"50\" rx=\"4\" fill=\"#06d6a0\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"1;0.05;1\" dur=\"4s\" begin=\"1s\" repeatCount=\"indefinite\"/></rect><rect x=\"282\" y=\"85\" width=\"28\" height=\"50\" rx=\"4\" fill=\"#06d6a0\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"1;0.05;1\" dur=\"4s\" begin=\"2s\" repeatCount=\"indefinite\"/></rect><rect x=\"318\" y=\"85\" width=\"28\" height=\"50\" rx=\"4\" fill=\"#06d6a0\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"1;0.05;1\" dur=\"4s\" begin=\"3s\" repeatCount=\"indefinite\"/></rect><text x=\"200\" y=\"72\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" >elke pixel maakt eigen licht</text><text x=\"200\" y=\"165\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" >pixel uit = geen licht</text><text x=\"200\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" >zwart = echt zwart</text></svg>",
+   "quiz": {
+    "q": "Waarom is zwart op een LCD-scherm eigenlijk donkergrijs?",
+    "o": [
+     "De pixels zijn te groot",
+     "De backlight blijft branden en er lekt licht door",
+     "LCD-schermen kunnen geen zwart signaal ontvangen"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Tang & Van Slyke, Appl. Phys. Lett. 1987",
+     "u": "https://ui.adsabs.harvard.edu/abs/1987ApPhL..51..913T/abstract"
+    },
+    {
+     "t": "Trusted Reviews: OLED vs LED LCD",
+     "u": "https://www.trustedreviews.com/opinions/oled-vs-led-lcd"
+    },
+    {
+     "t": "Digital Trends: OLED vs LED",
+     "u": "https://www.digitaltrends.com/home-theater/oled-vs-led/"
+    }
+   ],
+   "date": "2026-11-23T05:44:36Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Een zipbestand krimpt door herhaling slim te noteren",
+   "body": "Zip gooit niets weg. Het algoritme Deflate, bedacht door Phil Katz voor PKZIP, combineert twee trucs. LZ77 (Ziv en Lempel, 1977) vervangt herhalingen door een verwijzing: 'zelfde als 10 tekens terug, 6 lang'. Huffman-codering (1952) geeft vaak voorkomende tekens kortere bitcodes. Uitpakken levert bit voor bit het origineel op.",
+   "take": "Zip gerust tekst, spreadsheets en logs. Foto's, video's en bestaande zips krimpen nauwelijks: die zijn al gecomprimeerd.",
+   "deep": "## Hoe het werkt\n\nStap 1, LZ77: het programma leest je bestand van voor naar achter en houdt een venster bij van wat het al gezien heeft. Bij Deflate is dat tot 32 kilobyte terug. Komt een stuk tekst opnieuw voor, dan schrijft het niet de tekens maar een paar getallen: hoe ver terug en hoe lang. Een herhaling mag in Deflate tot 258 bytes lang zijn.\n\nStap 2, Huffman: daarna telt het hoe vaak elk symbool voorkomt. Normaal kost elk teken 8 bits. Huffman geeft frequente symbolen een korte code en zeldzame een lange, zodat het totaal kleiner wordt. De codes zijn zo gekozen dat geen enkele code het begin van een andere is, waardoor de decoder nooit twijfelt waar een teken ophoudt.\n\n## Een voorbeeld\n\nNeem de zin 'de kat en de kater'. Het stuk 'de kat' komt twee keer voor. LZ77 schrijft het tweede stuk als 'ga 10 tekens terug, kopieer er 6' en voegt de 'r' toe. In een Nederlandse tekst komt de letter e veel vaker voor dan q, dus Huffman geeft e een korte code en q een lange. Een Word-document of een csv met duizenden gelijkaardige rijen krimpt zo vaak flink.\n\n## Wat onderzoek zegt\n\nJacob Ziv en Abraham Lempel publiceerden hun methode in 1977 in IEEE Transactions on Information Theory, vandaar de naam LZ77. David Huffman bedacht zijn codering als student aan MIT, toen professor Robert Fano zijn klas liet kiezen tussen een examen en een paper over de efficiëntste binaire code. Huffman publiceerde zijn methode in 1952 en ze bleek optimaal, terwijl Fano's eigen aanpak dat niet altijd was.\n\nDeflate werd volgens latere documentatie door Phil Katz ontworpen voor versie 2 van PKZIP en in 1996 vastgelegd in RFC 1951. Dezelfde methode zit vandaag ook in gzip en in PNG-afbeeldingen.\n\n## Nuance of misverstand\n\nGeen enkel verliesloos compressieprogramma kan elk bestand kleiner maken. Dat is wiskunde: er zijn meer mogelijke lange bestanden dan korte, dus sommige bestanden moeten even groot blijven of zelfs groeien. Compressie werkt alleen als er herhaling of voorspelbaarheid in je data zit.\n\nDat is ook het verschil met een JPEG of mp3: die gooien bewust details weg. Zip doet dat nooit, daarom kan je er ook programma's en contracten veilig mee inpakken.\n\n## Wat je ermee doet\n\nZip tekstbestanden, exports en mappen met documenten voor je ze mailt: dat scheelt vaak veel. Verwacht weinig van een map vol foto's of filmpjes: die zijn al gecomprimeerd. En twee keer zippen helpt niet, want na de eerste keer zit er nauwelijks nog herhaling in.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"18\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" font-weight=\"bold\">LZ77: herhaling wordt een verwijzing</text><text x=\"18\" y=\"70\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"15\" letter-spacing=\"1\">de kat en de kater</text><rect x=\"16\" y=\"54\" width=\"62\" height=\"22\" rx=\"4\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><rect x=\"112\" y=\"54\" width=\"62\" height=\"22\" rx=\"4\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0.2;1;0.2\" dur=\"3s\" repeatCount=\"indefinite\"/></rect><path d=\"M143 52 Q100 20 50 52\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\" stroke-dasharray=\"5 5\"><animate attributeName=\"stroke-dashoffset\" values=\"20;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><path d=\"M44 46 L50 54 L54 44 Z\" fill=\"#ff6b9d\"/><text x=\"18\" y=\"110\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" >wordt:</text><text x=\"70\" y=\"110\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" >de kat en [10 terug, 6 lang]r</text><text x=\"18\" y=\"150\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" >Huffman: vaak = kort</text><rect x=\"18\" y=\"162\" width=\"20\" height=\"16\" fill=\"#ffd166\"/><text x=\"44\" y=\"175\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" >e  →  2 bits</text><rect x=\"18\" y=\"186\" width=\"80\" height=\"16\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><text x=\"104\" y=\"199\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" >q  →  9 bits</text><circle r=\"5\" fill=\"#06d6a0\"><animateMotion dur=\"4s\" repeatCount=\"indefinite\" path=\"M210 170 L330 170\"/></circle><text x=\"205\" y=\"155\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" >minder bits, zelfde tekst</text></svg>",
+   "quiz": {
+    "q": "Wat doet het LZ77-deel van zip met een stuk tekst dat al eerder voorkwam?",
+    "o": [
+     "Het verwijdert dat stuk definitief",
+     "Het vervangt het door een kleiner lettertype",
+     "Het vervangt het door een verwijzing: zoveel terug, zoveel lang"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "RFC 1951: DEFLATE (1996)",
+     "u": "https://www.rfc-editor.org/rfc/rfc1951"
+    },
+    {
+     "t": "IEEE Spectrum over Jacob Ziv",
+     "u": "https://spectrum.ieee.org/from-winzips-to-cat-gifs-jacob-zivs-algorithms-have-powered-decades-of-compression"
+    },
+    {
+     "t": "MAA: Discovery of Huffman codes",
+     "u": "https://old.maa.org/press/periodicals/convergence/discovery-of-huffman-codes"
+    }
+   ],
+   "date": "2026-11-23T05:44:36Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "De eerste oceaankabel was binnen drie maanden dood",
+   "body": "Op 16 augustus 1858 stuurde koningin Victoria via de nieuwe trans-Atlantische telegraafkabel een felicitatie naar de Amerikaanse president James Buchanan. Haar boodschap van 98 woorden deed er zestien en een half uur over. Het signaal werd snel zwakker; elektricien Wildman Whitehouse stuurde er tot zo'n 2000 volt door. Tegen 20 oktober 1858 was de kabel dood.",
+   "take": "Lijkt een systeem te zwak? Meer kracht erop zetten kan het net helemaal kapotmaken. Zoek eerst de oorzaak.",
+   "deep": "## Hoe het werkt\n\nEen telegraafkabel is een koperdraad met isolatie eromheen. Aan de ene kant zet je stroomstootjes op de draad, aan de andere kant meet je die. Onder water gedraagt zo'n lange kabel zich echter ook als een condensator: de stootjes vervormen en vervagen onderweg. Hoe langer de kabel, hoe trager je moet seinen om nog iets leesbaars over te houden.\n\nWie dan de spanning opdrijft, krijgt kort een sterker signaal, maar belast de isolatie zwaar. Barst die, dan lekt de stroom weg in het zeewater.\n\n## Een voorbeeld\n\nDe kabel liep van het eiland Valentia in Ierland naar Newfoundland. Victoria's boodschap van 98 woorden kostte zestien en een half uur. Dat klinkt traag, maar een bericht per schip deed er toen zo'n tien dagen over. Stel je voor dat een sms van Brussel naar New York een halve dag duurt, en dat dat als een wonder geldt: zo groot was de sprong.\n\n## Wat onderzoek zegt\n\nVolgens het archief van de Britse ingenieursvereniging IET raakte de kabel extra beschadigd doordat Whitehouse hoogspanningsapparatuur bleef gebruiken, en stopte hij op 20 oktober 1858 definitief. IEEE Spectrum schrijft dat hij tot 2000 volt door de kabel joeg, in de overtuiging dat hoge spanning nodig was. Andere bronnen melden dat het signaal al begin september nauwelijks nog bruikbaar was.\n\nEen onderzoekscommissie legde de schuld grotendeels bij Whitehouse. Pas acht jaar later, in 1866, kwam er een kabel die betrouwbaar bleef werken.\n\n## Nuance of misverstand\n\nWhitehouse was niet de enige oorzaak. Historici wijzen erop dat de kabel al in slechte staat was: de isolatie had geleden tijdens de opslag, en de koperkern was dun. Sommigen vinden dat Whitehouse als zondebok diende om de kabelfabrikanten en de Atlantic Telegraph Company uit de wind te zetten.\n\nHet verhaal leerde ingenieurs wel iets blijvends: lange onderzeese kabels vragen gevoelige ontvangers en lage spanning, niet brute kracht. Dat inzicht maakte de latere kabels mogelijk.\n\n## Wat je ermee doet\n\nGebruik het als denkmodel. Werkt iets slecht, zoals een trage computer of een team dat vastloopt, dan is 'harder duwen' verleidelijk. Vraag eerst waarom het signaal zwak is. En het internet waarmee je dit leest, reist vandaag nog altijd grotendeels door kabels op de zeebodem.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"18\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" font-weight=\"bold\">1858: Ierland – Newfoundland</text><text x=\"18\" y=\"60\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" >Valentia</text><text x=\"270\" y=\"60\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" >Newfoundland</text><rect x=\"20\" y=\"70\" width=\"40\" height=\"30\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"300\" y=\"70\" width=\"40\" height=\"30\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M60 90 Q180 170 300 90\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle r=\"5\" fill=\"#ffd166\"><animateMotion dur=\"5s\" repeatCount=\"indefinite\" path=\"M60 90 Q180 170 300 90\"/></circle><text x=\"105\" y=\"150\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" fill-opacity=\"0.9\">kabel over de oceaanbodem</text><text x=\"18\" y=\"180\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" >16 aug: 98 woorden in 16,5 uur</text><text x=\"18\" y=\"202\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" >hoge spanning → isolatie kapot</text><circle cx=\"290\" cy=\"190\" r=\"10\" fill=\"#ff6b9d\"><animate attributeName=\"r\" values=\"4;14;4\" dur=\"3s\" repeatCount=\"indefinite\"/></circle></svg>",
+   "quiz": {
+    "q": "Hoe lang deed koningin Victoria's boodschap van 98 woorden er in 1858 over?",
+    "o": [
+     "Ongeveer zestien en een half uur",
+     "Ongeveer twee minuten",
+     "Ongeveer drie dagen"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "IET Archives",
+     "u": "https://www.theiet.org/membership/library-and-archives/the-iet-archives/archives-highlights/the-first-transatlantic-telegraph-cable-1858"
+    },
+    {
+     "t": "IEEE Spectrum",
+     "u": "https://spectrum.ieee.org/tech-history/heroic-failures/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure"
+    },
+    {
+     "t": "History.com",
+     "u": "https://www.history.com/articles/first-transatlantic-telegraph-cable"
+    }
+   ],
+   "date": "2026-11-23T05:44:36Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Je meter begon met een tocht vanuit Duinkerke",
+   "body": "De meter moest het tienmiljoenste deel zijn van de afstand van de Noordpool tot de evenaar. In juni 1792 vertrokken de Franse astronomen Delambre en Méchain om het stuk tussen Duinkerke en Barcelona op te meten. Pas in november 1798 waren de metingen klaar. De rest van de boog werd berekend.",
+   "take": "Bij een meetlat of lintmeter: elke centimeter daarop gaat terug op een opmeting die vlak bij de Belgische grens begon.",
+   "deep": "## Hoe het werkt\n\nHet idee was een maat die niet van een koning afhing maar van de aarde zelf. Neem de meridiaan die van de Noordpool via Parijs naar de evenaar loopt en deel die lengte door tien miljoen. Die hele boog opmeten was onmogelijk, dus mat men een stuk en rekende men de rest uit.\n\nDat gebeurde met driehoeksmeting. Vanaf torens en heuveltoppen mat je hoeken tussen herkenningspunten. Met één nauwkeurig gemeten basislijn kan je dan alle afstanden van een keten driehoeken berekenen. Met sterrenwaarnemingen bepaalde je daarnaast de breedtegraad van begin- en eindpunt.\n\n## Een voorbeeld\n\nJean-Baptiste Delambre nam het noordelijke deel, van Duinkerke tot Rodez. Pierre Méchain het zuidelijke, van Rodez tot Barcelona. Ze vertrokken in volle Franse Revolutie, met oorlog en wantrouwen onderweg: wie op een kerktoren met vreemde toestellen stond te turen, werd al snel voor spion aangezien. Méchain zat in 1793 in Barcelona vast en deed daar zo'n tienduizend waarnemingen om de breedtegraad van zijn hotel te bepalen.\n\n## Wat onderzoek zegt\n\nVolgens een artikel in het Journal of Geodesy (Springer) vertrokken beide expedities in juni 1792 en waren de driehoeksmetingen in november 1798 afgerond. Méchain merkte in Barcelona een tegenstrijdigheid in zijn eigen metingen, die hij verborg. Pas na zijn dood in 1804 ontdekte Delambre dat. Historicus Ken Alder vertelt het verhaal in zijn boek The Measure of All Things.\n\nPhysics Today schrijft dat de moderne meter zo'n 0,2 millimeter verschilt van wat Delambre en Méchain beoogden.\n\n## Nuance of misverstand\n\nHet is verleidelijk te denken dat Méchains verzwegen fout de meter 'verkeerd' maakte. American Scientist benadrukt dat die fout maar een minieme invloed had: de onregelmatige vorm van de aarde woog veel zwaarder. De aarde is geen perfecte bol, dus wie één stuk meet en de rest uitrekent, zit er altijd een beetje naast.\n\nBovendien hangt de meter vandaag helemaal niet meer van de aarde af. Sinds 1983 is hij de afstand die licht in het luchtledige aflegt in 1/299.792.458 seconde.\n\n## Wat je ermee doet\n\nOnthoud dat de meter een afspraak is die steeds nauwkeuriger werd vastgelegd: eerst via de aarde, dan via een metalen staaf, nu via de lichtsnelheid. Rij je ooit naar Duinkerke, dan sta je op het noordelijke eindpunt van die opmeting.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"18\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" font-weight=\"bold\">1 meter = 1/10.000.000 van pool–evenaar</text><path d=\"M60 200 A140 140 0 0 1 200 60\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"205\" y=\"64\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" >Noordpool</text><text x=\"20\" y=\"214\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" >Evenaar</text><path d=\"M118 107 A140 140 0 0 1 150 87\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"5\" stroke-dasharray=\"40\" stroke-dashoffset=\"40\"><animate attributeName=\"stroke-dashoffset\" values=\"40;0;0\" dur=\"5s\" repeatCount=\"indefinite\"/></path><text x=\"170\" y=\"105\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" >gemeten stuk:</text><text x=\"170\" y=\"121\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" >Duinkerke – Barcelona</text><text x=\"170\" y=\"150\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" >1792 – 1798</text><text x=\"170\" y=\"166\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" >Delambre (N), Méchain (Z)</text><circle r=\"4\" fill=\"#06d6a0\"><animateMotion dur=\"5s\" repeatCount=\"indefinite\" path=\"M150 87 A140 140 0 0 0 118 107\"/></circle><text x=\"170\" y=\"196\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" >rest berekend</text></svg>",
+   "quiz": {
+    "q": "Welk stuk van de meridiaan maten Delambre en Méchain op?",
+    "o": [
+     "Van Amsterdam tot Rome",
+     "Van Duinkerke tot Barcelona",
+     "Van Parijs tot de Noordpool"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Journal of Geodesy (Springer)",
+     "u": "https://link.springer.com/article/10.1007/s00190-019-01257-7"
+    },
+    {
+     "t": "Physics Today",
+     "u": "https://physicstoday.aip.org/article/56/7/57/932255/"
+    },
+    {
+     "t": "American Scientist (recensie Alder)",
+     "u": "https://www.americanscientist.org/node/3227"
+    }
+   ],
+   "date": "2026-11-23T05:44:36Z"
+  },
+  {
+   "cat": "taal",
+   "title": "'De' is wat overbleef van twee aparte geslachten",
+   "body": "Het Middelnederlands had drie geslachten: mannelijk, vrouwelijk en onzijdig, elk met eigen lidwoordvormen. Gaandeweg vielen de mannelijke en vrouwelijke vormen samen tot 'de'. Het onzijdige 'dat' werd 'het'. Zo krijg je vandaag twee lidwoorden voor drie oude geslachten. Een regel die zegt welk woord 'het' krijgt, bestaat niet echt.",
+   "take": "Leer een nieuw zelfstandig naamwoord altijd mét lidwoord: 'het potlood', 'de pen'.",
+   "deep": "## Hoe het werkt\n\nIn het Middelnederlands had elk zelfstandig naamwoord een grammaticaal geslacht, en dat zag je aan het lidwoord en de uitgangen. Er waren aparte vormen per geslacht en naamval, zoals 'des' en 'der'.\n\nDoor de eeuwen heen sleten die uitgangen af. Het verschil tussen de mannelijke en vrouwelijke lidwoorden verdween en beide werden 'de'. Het onzijdige 'dat', dat zowel aanwijzend woord als lidwoord was, evolueerde tot 'het'. Zo ontstond de tweedeling die je vandaag kent: de-woorden en het-woorden.\n\n## Een voorbeeld\n\nIn Vlaanderen hoor je het oude onderscheid nog. In veel Vlaamse en Brabantse spreektaal zeg je 'ne goeie vriend' maar 'een goei vriendin', en 'den hond' tegenover 'de kat'. Dat 'den' en 'ne' zijn resten van de mannelijke vorm. Ook als je 'de tafel' zegt en daarna 'ze staat in de keuken', gebruik je een vrouwelijk voornaamwoord voor een de-woord.\n\n## Wat onderzoek zegt\n\nDe Middelnederlandse grammatica van Stoett beschrijft drie geslachten, waar het moderne Standaardnederlands er in de praktijk twee heeft. Volgens die grammatica hoorden 'des' en 'der' in Hollandse teksten van de veertiende en vijftiende eeuw al niet meer tot de levende taal. Het Brabants hield de drie geslachten langer vast, onder meer via de mannelijke vorm 'den'; in de zestiende eeuw streden daar twee- en driedeling nog met elkaar.\n\nOok taalkundige Kraaikamp schrijft in Onze Taal dat het onderscheid tussen mannelijke en vrouwelijke lidwoorden verdween, en daarmee veel van de grammaticale kenmerken van het geslacht.\n\n## Nuance of misverstand\n\nGrammaticaal geslacht is iets anders dan biologisch geslacht. Daarom is het 'het meisje' en 'het kind'. Verkleinwoorden zijn altijd het-woorden, maar voor de meeste andere woorden is er geen regel die het lidwoord betrouwbaar voorspelt.\n\nTwijfel je of een de-woord mannelijk of vrouwelijk is, dan legt Taaladvies van de Vlaamse overheid uit hoe je dat nagaat. Ook in de standaardtaal maken woordenboeken voor veel de-woorden nog onderscheid tussen mannelijk en vrouwelijk.\n\n## Wat je ermee doet\n\nLeer woorden met hun lidwoord erbij, zoals anderstaligen dat ook moeten. Twijfel je, zoek het op in een woordenboek of bij Taaladvies van de Vlaamse overheid. En hoor je je grootouders 'den' zeggen, dan hoor je eigenlijk een stukje Middelnederlands.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"18\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" font-weight=\"bold\">Drie geslachten, twee lidwoorden</text><rect x=\"20\" y=\"45\" width=\"90\" height=\"34\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"32\" y=\"67\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" >mannelijk</text><rect x=\"20\" y=\"95\" width=\"90\" height=\"34\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"32\" y=\"117\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" >vrouwelijk</text><rect x=\"20\" y=\"145\" width=\"90\" height=\"34\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"32\" y=\"167\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" >onzijdig</text><path d=\"M112 62 Q170 62 220 90\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"6 4\"><animate attributeName=\"stroke-dashoffset\" values=\"20;0\" dur=\"2s\" repeatCount=\"indefinite\"/></path><path d=\"M112 112 Q170 112 220 100\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"6 4\"><animate attributeName=\"stroke-dashoffset\" values=\"20;0\" dur=\"2s\" repeatCount=\"indefinite\"/></path><line x1=\"112\" y1=\"162\" x2=\"214\" y2=\"162\" stroke=\"#06d6a0\" stroke-width=\"2\"/><path d=\"M212 157 L220 162 L212 167 Z\" fill=\"#06d6a0\"/><rect x=\"222\" y=\"78\" width=\"110\" height=\"40\" rx=\"8\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"stroke-width\" values=\"2;4;2\" dur=\"3s\" repeatCount=\"indefinite\"/></rect><text x=\"260\" y=\"103\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"16\" font-weight=\"bold\">de</text><rect x=\"222\" y=\"142\" width=\"110\" height=\"40\" rx=\"8\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"258\" y=\"167\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"16\" font-weight=\"bold\">het</text><text x=\"20\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" >Middelnederlands</text><text x=\"222\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" >vandaag</text></svg>",
+   "quiz": {
+    "q": "Waaruit ontstond het lidwoord 'de'?",
+    "o": [
+     "Uit het Franse lidwoord 'le'",
+     "Uit het onzijdige Middelnederlandse 'dat'",
+     "Uit het samenvallen van mannelijke en vrouwelijke vormen"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Stoett, Middelnederlandse spraakkunst (DBNL)",
+     "u": "https://www.dbnl.org/tekst/stoe002midd01_01/stoe002midd01_01_0009.php"
+    },
+    {
+     "t": "Onze Taal (Kraaikamp)",
+     "u": "https://v2.onzetaal.nl/uploads/editor/1501_kraaikamp.pdf"
+    },
+    {
+     "t": "Taaladvies Vlaanderen",
+     "u": "https://www.vlaanderen.be/taaladvies/taaladviezen/mannelijk-vrouwelijk-onzijdig"
+    }
+   ],
+   "date": "2026-11-23T05:44:36Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Je suikerpot en het magazijn spreken allebei Arabisch",
+   "body": "Suiker, alcohol, magazijn en tarief zijn oorspronkelijk Arabische woorden. Ze kwamen meestal niet rechtstreeks, maar via Italiaanse, Spaanse en Franse handelaars. Suiker staat al in 1253 in het Middelnederlands als 'suker' en gaat via Frans en Italiaans terug op Arabisch 'sukkar'. Alcohol komt van 'al-kuhl', een fijn poeder om de ogen op te maken.",
+   "take": "Zie je 'al' vooraan in een woord, zoals in alcohol of algebra? Grote kans dat het Arabische lidwoord erin zit.",
+   "deep": "## Hoe het werkt\n\nLeenwoorden reizen mee met handel. In de middeleeuwen beheersten Arabischsprekende handelaars en geleerden routes en kennis rond de Middellandse Zee. Italiaanse en Spaanse kooplui namen woorden over, die via het Frans verder noordwaarts trokken en in het Middelnederlands belandden.\n\nOnderweg veranderden ze van klank en vaak ook van betekenis. Soms bleef het Arabische lidwoord 'al-' aan het woord vastgeplakt, zoals in alcohol.\n\n## Een voorbeeld\n\nLoop in gedachten door een supermarkt. Je neemt suiker uit het rek, ziet achteraan een deur naar het magazijn, betaalt btw volgens een tarief, en in de drankafdeling staat het alcoholpercentage op elk etiket. Vier keer Arabisch, zonder dat je het merkt.\n\nMagazijn komt via Frans 'magasin' en Italiaans 'magazzino' van Arabisch 'makhāzin', opslagplaatsen. Tarief komt via het Frans van 'taʿrīf', bekendmaking of lijst van prijzen. Het Spaanse 'almacén' (magazijn) kreeg het lidwoord 'al-' er nog bij.\n\n## Wat onderzoek zegt\n\nEtymologische naslagwerken, waaronder het Chronologisch woordenboek van Nicoline van der Sijs, geven de reisweg van suiker: Middelnederlands 'suker' (1253), uit Frans 'sucre', uit Italiaans 'zucchero', uit Arabisch 'sukkar', dat zelf uit het Perzisch kwam en uiteindelijk uit het Oudindische 'śarkarā'. Merriam-Webster legt uit dat alcohol teruggaat op 'al-kuhl', een gepoederd antimoon dat als oogmake-up diende. Pas later ging het woord over op een gezuiverde stof en uiteindelijk op de vloeistof in je glas.\n\n## Nuance of misverstand\n\n'Arabisch leenwoord' betekent niet altijd dat het woord in het Arabisch is ontstaan. Suiker is een mooi voorbeeld: het Arabisch leende het zelf uit het Perzisch, dat het uit Indië had. Het Arabisch was vooral de doorgeefluik in een lange keten.\n\nEn wij leenden zelden rechtstreeks. De meeste van deze woorden kwamen via het Italiaans, Spaans of Frans. Daarom lijken ze zo goed op het Franse 'sucre', 'magasin' en 'tarif'.\n\n## Wat je ermee doet\n\nZoek bij een woord dat je verrast eens de herkomst op in een etymologisch woordenboek. Kijk ook naar het voorvoegsel 'al-' in woorden als alcohol en algebra. En vertel aan tafel dat er in je koffie met suiker een reis van India over Perzië en de Arabische wereld naar de Lage Landen zit.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"18\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" font-weight=\"bold\">Van het Arabisch naar het Nederlands</text><text x=\"18\" y=\"46\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" >Arabisch</text><text x=\"140\" y=\"46\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" >via It./Fr./Sp.</text><text x=\"262\" y=\"46\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" >Nederlands</text><text x=\"18\" y=\"72\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" >sukkar</text><text x=\"262\" y=\"72\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" font-weight=\"bold\">suiker</text><line x1=\"100\" y1=\"68\" x2=\"248\" y2=\"68\" stroke=\"#fff\" stroke-width=\"1\" opacity=\"0.4\"/><path d=\"M244 63 L252 68 L244 73 Z\" fill=\"#fff\" opacity=\"0.6\"/><circle r=\"5\" fill=\"#ffd166\"><animateMotion dur=\"4s\" begin=\"0s\" repeatCount=\"indefinite\" path=\"M100 68 L246 68\"/></circle><text x=\"18\" y=\"110\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" >al-kuhl</text><text x=\"262\" y=\"110\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" font-weight=\"bold\">alcohol</text><line x1=\"100\" y1=\"106\" x2=\"248\" y2=\"106\" stroke=\"#fff\" stroke-width=\"1\" opacity=\"0.4\"/><path d=\"M244 101 L252 106 L244 111 Z\" fill=\"#fff\" opacity=\"0.6\"/><circle r=\"5\" fill=\"#ffd166\"><animateMotion dur=\"4s\" begin=\"1s\" repeatCount=\"indefinite\" path=\"M100 106 L246 106\"/></circle><text x=\"18\" y=\"148\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" >makhāzin</text><text x=\"262\" y=\"148\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" font-weight=\"bold\">magazijn</text><line x1=\"100\" y1=\"144\" x2=\"248\" y2=\"144\" stroke=\"#fff\" stroke-width=\"1\" opacity=\"0.4\"/><path d=\"M244 139 L252 144 L244 149 Z\" fill=\"#fff\" opacity=\"0.6\"/><circle r=\"5\" fill=\"#ffd166\"><animateMotion dur=\"4s\" begin=\"2s\" repeatCount=\"indefinite\" path=\"M100 144 L246 144\"/></circle><text x=\"18\" y=\"186\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" >taʿrīf</text><text x=\"262\" y=\"186\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" font-weight=\"bold\">tarief</text><line x1=\"100\" y1=\"182\" x2=\"248\" y2=\"182\" stroke=\"#fff\" stroke-width=\"1\" opacity=\"0.4\"/><path d=\"M244 177 L252 182 L244 187 Z\" fill=\"#fff\" opacity=\"0.6\"/><circle r=\"5\" fill=\"#ffd166\"><animateMotion dur=\"4s\" begin=\"3s\" repeatCount=\"indefinite\" path=\"M100 182 L246 182\"/></circle></svg>",
+   "quiz": {
+    "q": "Wat betekende het Arabische 'al-kuhl', waar alcohol van komt?",
+    "o": [
+     "Gegiste dadelsap",
+     "Een fijn poeder voor oogmake-up",
+     "Een koperen distilleerketel"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Van der Sijs, Chronologisch woordenboek (DBNL)",
+     "u": "https://www.dbnl.org/tekst/sijs002chro01_01/sijs002chro01_01_0018.php"
+    },
+    {
+     "t": "Merriam-Webster: words from Arabic",
+     "u": "https://www.merriam-webster.com/wordplay/words-from-arabic"
+    },
+    {
+     "t": "Wiktionary: magazijn",
+     "u": "https://en.wiktionary.org/wiki/magazijn"
+    }
+   ],
+   "date": "2026-11-23T05:44:36Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Je kompas wijst naar een pool op wandel",
+   "body": "Een kompasnaald is een licht magneetje dat zich richt naar het magnetisch veld van de aarde. Dat veld ontstaat door stromend vloeibaar ijzer in de buitenkern. Omdat die stroming verandert, verschuift de magnetische noordpool: volgens NOAA het voorbije jaar gemiddeld 36 kilometer, richting Siberië. James Clark Ross vond hem in 1831 nog in Noord-Canada.",
+   "take": "Wandel je met kaart en kompas? Controleer de declinatie op je kaart: magnetisch noorden is niet het noorden van de kaart.",
+   "deep": "## Hoe het werkt\n\nDe aarde gedraagt zich als een reusachtige magneet. Diep onder je voeten, in de vloeibare buitenkern, beweegt gesmolten ijzer. Die beweging wekt elektrische stromen op, en die stromen maken het magnetisch veld. Dat heet de geodynamo.\n\nEen kompasnaald is zelf een magneetje dat vrij kan draaien. Omdat het aardveld zwak is, moet de naald licht zijn en met weinig wrijving draaien. Het 'noord'-uiteinde wordt aangetrokken door de magnetische pool in het noorden. Strikt natuurkundig is dat dus een magnetische zuidpool, want tegengestelde polen trekken elkaar aan.\n\n## Een voorbeeld\n\nJames Clark Ross bereikte op 1 juni 1831 de magnetische noordpool op het schiereiland Boothia, in het Canadese noordpoolgebied. Wie daar vandaag met een kompas gaat staan, is de pool ver kwijt: de pool is ondertussen ver de Noordelijke IJszee op getrokken, richting Siberië.\n\n## Wat onderzoek zegt\n\nVolgens het rapport van NOAA's National Centers for Environmental Information van december 2025 bewoog de magnetische noordpool het voorbije jaar gemiddeld 36 kilometer, de zuidpool zo'n 9 kilometer. In de jaren 1990 versnelde de noordpool van ongeveer 15 naar 55 kilometer per jaar, rond 2015 vertraagde hij tot zo'n 35.\n\nNOAA en de British Geological Survey (BGS) maken samen het World Magnetic Model, dat om de vijf jaar wordt bijgewerkt, het laatst in 2025. Navigatiesystemen gebruiken dat model om van magnetisch naar geografisch noorden te rekenen. De BGS noemt het huidige gedrag van de noordpool iets wat nooit eerder werd waargenomen.\n\n## Nuance of misverstand\n\nDe magnetische pool verschuift, maar de geografische Noordpool, het punt waar de aardas uitkomt, ligt vast. Die schuivende pool is ook geen teken dat het aardveld op springen staat of dat je gps zal uitvallen: gps werkt met satellieten, niet met magnetisme.\n\nHet verschil tussen kompasnoorden en echt noorden heet declinatie. Die hoek verschilt van plaats tot plaats, omdat het aardveld niet overal even regelmatig is, en verandert met de jaren.\n\n## Wat je ermee doet\n\nWandel je met een stafkaart, kijk dan in de legende naar de declinatie en het jaartal waarvoor die geldt. Houd je kompas weg van je gsm, sleutels of een autodak: ijzer en magneten in de buurt trekken de naald scheef.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"18\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" font-weight=\"bold\">Kompasnaald volgt het aardmagnetisch veld</text><circle cx=\"90\" cy=\"125\" r=\"60\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"84\" y=\"58\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" >N</text><g><path d=\"M90 80 L98 125 L82 125 Z\" fill=\"#ff6b9d\"/><path d=\"M90 170 L98 125 L82 125 Z\" fill=\"#fff\"/><animateTransform attributeName=\"transform\" type=\"rotate\" values=\"-25 90 125;8 90 125;-4 90 125;0 90 125;-25 90 125\" dur=\"6s\" repeatCount=\"indefinite\"/></g><circle cx=\"270\" cy=\"125\" r=\"55\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"270\" cy=\"125\" r=\"4\" fill=\"#fff\"/><text x=\"248\" y=\"214\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" >pool kijk van boven</text><circle cx=\"270\" cy=\"125\" r=\"6\" fill=\"#ffd166\"><animateMotion dur=\"8s\" repeatCount=\"indefinite\" path=\"M-35 30 Q-15 10 10 5\"/></circle><text x=\"170\" y=\"70\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" >geografische pool vast</text><text x=\"170\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" >magnetische pool</text><text x=\"170\" y=\"204\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" >schuift ± 36 km/jaar</text></svg>",
+   "quiz": {
+    "q": "Waarom verschuift de magnetische noordpool?",
+    "o": [
+     "Door de draaiing van de maan rond de aarde",
+     "Door ijsbergen die smelten",
+     "Door stromend vloeibaar ijzer in de buitenkern van de aarde"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "NOAA NCEI",
+     "u": "https://www.ncei.noaa.gov/node/8576"
+    },
+    {
+     "t": "British Geological Survey",
+     "u": "https://www.bgs.ac.uk/news/update-to-essential-scientific-reference-maps-reveals-new-movement-of-the-earths-magnetic-field/"
+    },
+    {
+     "t": "USGS: How does a compass work?",
+     "u": "https://www.usgs.gov/media/audio/how-does-compass-work"
+    }
+   ],
+   "date": "2026-11-23T05:44:36Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Belgische winterzon maakt in je huid amper vitamine D",
+   "body": "Je huid maakt vitamine D onder invloed van UVB-straling. In de winter staat de zon zo laag dat die straling een lange weg door de ozonlaag moet afleggen en grotendeels wordt opgeslorpt. Al in Boston, zuidelijker dan België, vonden onderzoekers in 1988 van november tot februari geen aanmaak. In Edmonton liep die periode van oktober tot maart.",
+   "take": "Een wandeling in de winterzon is gezond, maar reken er niet op voor je vitamine D. Twijfel je, vraag je huisarts.",
+   "deep": "## Hoe het werkt\n\nVitamine D ontstaat in je huid wanneer UVB-straling een stof in de huid omzet in een voorloper van vitamine D. Je lichaam bouwt die daarna verder om.\n\nUVB is precies het deel van het zonlicht dat de ozonlaag graag opslorpt. Staat de zon hoog, dan gaat het licht vrij recht door de atmosfeer en komt er genoeg UVB door. Staat de zon laag, dan moet het licht schuin en dus veel langer door de ozonlaag. Onderweg wordt het meeste UVB weggevangen. Wat overblijft, is te weinig om je huid aan het werk te zetten, ook al voelt de zon aangenaam.\n\n## Een voorbeeld\n\nBrussel ligt op ongeveer 51 graden noorderbreedte, tussen Boston (42) en Edmonton (52) in. Een zonnige zaterdag in december aan zee voelt helder, maar de zon komt dan nauwelijks boven de horizon uit. Volgens de VRT is er in België van pakweg oktober tot maart niet het juiste soort uv-straling om zelf vitamine D aan te maken.\n\n## Wat onderzoek zegt\n\nAnn Webb, Lois Kline en Michael Holick lieten in 1988 huid en een voorloperstof in de zon liggen op wolkenloze dagen. In Boston, op 42,2 graden noorderbreedte, ontstond van november tot februari geen voorloper van vitamine D. In Edmonton, op 52 graden, duurde die onwerkzame periode van oktober tot maart.\n\nDe Britse gezondheidsdienst NHS stelt dat mensen in het Verenigd Koninkrijk tussen oktober en begin maart niet genoeg vitamine D uit zonlicht halen. Een studie van de Universiteit Luik vond in de winter bij 62,1 procent van de deelnemers een verhoogd risico op tekort, tegenover 29,6 procent in de zomer.\n\n## Nuance of misverstand\n\nDat je huid in de winter weinig aanmaakt, betekent niet dat iedereen meteen een tekort heeft. Je lichaam teert in de winter deels op wat het in de zomer aanmaakte. Experts zeggen ook dat niet iedereen massaal supplementen moet nemen.\n\nWel lopen sommige groepen meer risico: ouderen, mensen die weinig buiten komen, mensen met een donkere huidskleur, jonge kinderen en zwangere vrouwen. Voor hen gelden in België vaak specifieke adviezen.\n\n## Wat je ermee doet\n\nKom in de lente en zomer geregeld kort buiten, zonder te verbranden. Eet af en toe vette vis. Behoor je tot een risicogroep of voel je je de hele winter slap, bespreek dan met je huisarts of een supplement zinvol is.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"18\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" font-weight=\"bold\">Lage zon: UVB raakt niet door de ozon</text><line x1=\"10\" y1=\"190\" x2=\"350\" y2=\"190\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M10 120 Q180 90 350 120\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><text x=\"250\" y=\"100\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" >ozonlaag</text><circle cx=\"180\" cy=\"45\" r=\"12\" fill=\"#ffd166\"/><text x=\"200\" y=\"50\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" >juni: hoog</text><line x1=\"180\" y1=\"58\" x2=\"180\" y2=\"185\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"12;0\" dur=\"1s\" repeatCount=\"indefinite\"/></line><circle cx=\"30\" cy=\"140\" r=\"10\" fill=\"#ff6b9d\"/><text x=\"18\" y=\"165\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" >december: laag</text><path d=\"M42 138 L150 118\" stroke=\"#ff6b9d\" stroke-width=\"2\" stroke-dasharray=\"6 6\" fill=\"none\"><animate attributeName=\"stroke-dashoffset\" values=\"12;0\" dur=\"1s\" repeatCount=\"indefinite\"/></path><circle cx=\"150\" cy=\"118\" r=\"5\" fill=\"#ff6b9d\"><animate attributeName=\"r\" values=\"2;7;2\" dur=\"2s\" repeatCount=\"indefinite\"/></circle><text x=\"60\" y=\"210\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" >lange weg door ozon: UVB opgeslorpt</text></svg>",
+   "quiz": {
+    "q": "Waarom maakt je huid in de Belgische winter zo weinig vitamine D?",
+    "o": [
+     "De zon staat laag en de ozonlaag slorpt het meeste UVB op",
+     "Het is te koud voor de chemische reactie in de huid",
+     "Je draagt meer kleren en dat is de enige reden"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Webb e.a. 1988 (PubMed)",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/2839537/"
+    },
+    {
+     "t": "NHS: Vitamin D",
+     "u": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/"
+    },
+    {
+     "t": "VRT NWS (2023)",
+     "u": "https://vrt.be/vrtnws/nl/2023/03/02/vitamine-d/"
+    }
+   ],
+   "date": "2026-11-23T05:44:36Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Een aandelenkoers is de laatste handdruk in het orderboek",
+   "body": "Op de beurs zet niemand de prijs vast. Kopers en verkopers plaatsen orders in een orderboek. De hoogste koopprijs heet de biedkoers, de laagste verkoopprijs de laatkoers. Het verschil is de spread. Pas als een koper en verkoper het eens zijn, volgt een transactie, en die prijs zie je als koers.",
+   "take": "Koop je een weinig verhandeld aandeel? Gebruik een limietorder in plaats van een marktorder, zo betaal je nooit meer dan je wil.",
+   "deep": "## Hoe het werkt\n\nHet orderboek is een lijst van alle openstaande orders voor één aandeel. Links staan de kopers met hun hoogste prijs bovenaan, rechts de verkopers met hun laagste prijs bovenaan.\n\nEen limietorder zegt: ik koop tot maximaal deze prijs, of ik verkoop vanaf minimaal deze prijs. Zo'n order wacht in het boek. Een marktorder zegt: ik wil nu kopen of verkopen, aan de beste prijs die er ligt. Die order neemt meteen de bovenste order aan de andere kant weg. Elke keer dat zo'n match gebeurt, ontstaat een transactie, en de prijs daarvan is de koers die je in je app ziet.\n\n## Een voorbeeld\n\nStel, voor een aandeel op Euronext Brussel bieden kopers bovenaan 20,10 euro en vragen verkopers bovenaan 20,14 euro. De spread is dus 4 cent. Geef je een marktorder om te kopen, dan betaal je 20,14 euro en verdwijnt die verkooporder uit het boek. Was het de laatste aan die prijs, dan ligt de laatkoers daarna hoger, bijvoorbeeld op 20,15. Zo duwt koopdruk de koers stap voor stap op. Op Euronext Brussel loopt de handel op weekdagen van 9 tot 17.30 uur.\n\n## Wat onderzoek zegt\n\nMarket maker Optiver beschrijft het centrale orderboek als de verzameling van alle openstaande orders en prijzen voor een financieel product, waaruit je de spread en de liquiditeit afleest. Hoe meer er in een aandeel gehandeld wordt, hoe efficiënter de prijsvorming en hoe kleiner de spread doorgaans.\n\nDe Vereniging van Effectenbezitters merkt op dat de spread in crisistijd vaak oploopt, omdat market makers risico's dan minder goed kunnen inschatten en een grotere marge vragen.\n\n## Nuance of misverstand\n\nWat je broker toont, is niet het hele boek. Meestal zie je alleen de vijf of tien beste orders aan elke kant. En 'de koers' van een aandeel is gewoon de prijs van de laatste transactie, niet een officieel vastgestelde waarde. Bij een klein aandeel met weinig handel kan één order de koers dus flink doen springen.\n\nDe spread is ook een verborgen kost. Koop je aan de laatkoers en verkoop je meteen weer aan de biedkoers, dan verlies je de spread, nog voor je broker zijn kosten aanrekent.\n\n## Wat je ermee doet\n\nKijk voor je koopt naar bied, laat en spread. Bij grote, veel verhandelde aandelen en fondsen is die klein. Bij kleine aandelen of op woelige dagen gebruik je beter een limietorder, zodat je zelf bepaalt hoeveel je maximaal betaalt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"18\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" font-weight=\"bold\">Orderboek van een aandeel</text><text x=\"40\" y=\"48\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" >kopers (bied)</text><text x=\"220\" y=\"48\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" >verkopers (laat)</text><rect x=\"80\" y=\"62\" width=\"90\" height=\"20\" fill=\"#06d6a0\" opacity=\"1.0\"/><text x=\"18\" y=\"77\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" >20,10</text><rect x=\"100\" y=\"92\" width=\"70\" height=\"20\" fill=\"#06d6a0\" opacity=\"0.75\"/><text x=\"18\" y=\"107\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" >20,08</text><rect x=\"60\" y=\"122\" width=\"110\" height=\"20\" fill=\"#06d6a0\" opacity=\"0.5\"/><text x=\"18\" y=\"137\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" >20,05</text><rect x=\"190\" y=\"62\" width=\"60\" height=\"20\" fill=\"#ff6b9d\" opacity=\"1.0\"/><text x=\"305\" y=\"77\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" >20,14</text><rect x=\"190\" y=\"92\" width=\"100\" height=\"20\" fill=\"#ff6b9d\" opacity=\"0.75\"/><text x=\"305\" y=\"107\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" >20,15</text><rect x=\"190\" y=\"122\" width=\"80\" height=\"20\" fill=\"#ff6b9d\" opacity=\"0.5\"/><text x=\"305\" y=\"137\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" >20,18</text><line x1=\"180\" y1=\"58\" x2=\"180\" y2=\"150\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"stroke-width\" values=\"2;6;2\" dur=\"3s\" repeatCount=\"indefinite\"/></line><text x=\"120\" y=\"172\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">spread: 4 cent</text><circle r=\"6\" fill=\"#ffd166\"><animateMotion dur=\"4s\" repeatCount=\"indefinite\" path=\"M60 205 L230 205\"/></circle><text x=\"250\" y=\"209\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" >koopt aan 20,14</text><text x=\"18\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" >marktorder</text></svg>",
+   "quiz": {
+    "q": "Wat is de spread in een orderboek?",
+    "o": [
+     "De kosten die je broker aanrekent",
+     "Het verschil tussen de laagste verkoopprijs en de hoogste koopprijs",
+     "Het aantal aandelen dat vandaag verhandeld is"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Optiver: orders en het orderboek",
+     "u": "https://www.optiver.com/orders-en-het-orderboek/"
+    },
+    {
+     "t": "Saxo: bied- vs laatprijs",
+     "u": "https://www.home.saxo/nl-be/learn/guides/trading-strategies/bid-vs-ask-price"
+    },
+    {
+     "t": "Euronext: handelsuren",
+     "u": "https://www.euronext.com/en/trading-calendars-hours"
+    }
+   ],
+   "date": "2026-11-23T05:44:36Z"
   }
  ],
  "dives": [
