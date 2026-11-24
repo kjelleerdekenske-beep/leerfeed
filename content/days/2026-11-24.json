@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T05:46:17Z",
+ "updated": "2026-11-24T05:46:38Z",
  "cards": [
   {
    "cat": "psychologie",
@@ -636,6 +636,346 @@
     }
    ],
    "date": "2026-11-24T05:46:17Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Twee keer vloed per dag, door één maan",
+   "body": "De maan trekt het zeewater aan de naar haar toegekeerde kant van de aarde iets harder aan dan aan de verre kant. Zo ontstaan twee waterbulten, en de aarde draait eronderdoor. Daarom krijgt Oostende ongeveer elke 12 uur en 25 minuten vloed. De zon trekt mee met ruwweg de helft van de kracht van de maan.",
+   "take": "Plan je strandwandeling bij laagwater: het tij schuift elke dag ongeveer 50 minuten op, dus kijk telkens opnieuw in de getijtabel.",
+   "deep": "## Hoe het werkt\n\nDe zwaartekracht van de maan is niet overal op aarde even sterk. Het water aan de kant die naar de maan gericht is, wordt sterker aangetrokken dan het middelpunt van de aarde, en het middelpunt sterker dan het water aan de andere kant. Dat verschil in trekkracht rekt de oceanen een beetje uit: er ontstaat een waterbult richting maan en een tweede aan de tegenoverliggende kant. De aarde draait in een etmaal onder die twee bulten door. Omdat de maan intussen een stukje verder draait in haar baan, duurt het niet 24 uur maar ongeveer 24 uur en 50 minuten voor een plek weer recht onder de maan staat. In die 'maandag' passeer je twee bulten: twee keer vloed en twee keer eb, met hoogwaters zo'n 12 uur en 25 minuten uit elkaar.\n\n## Een voorbeeld\n\nAan de Belgische kust zie je dat ritme heel duidelijk. Staat het hoogwater in Oostende vandaag rond de middag, dan valt het morgen ongeveer drie kwartier later. Rond volle en nieuwe maan staan zon, maan en aarde op één lijn en tellen hun trekkrachten op: springtij, met hogere hoogwaters en lagere laagwaters. Rond eerste en laatste kwartier trekken zon en maan haaks op elkaar: doodtij, met een kleiner verschil tussen eb en vloed. Doodtij volgt zo ongeveer een week na springtij, en een week later is het weer springtij.\n\n## Wat onderzoek zegt\n\nHet Amerikaanse NOAA legt uit dat de getijdenkracht van de zon ongeveer de helft is van die van de maan; een oudere NOAA-publicatie van R. Lawrence Swanson (1977) noemt 46 procent, een ander NOAA-hoofdstuk zegt dat de maan zo'n 2,5 keer sterker is. De zon is veel zwaarder, maar staat zo ver weg dat het verschil in trekkracht over de breedte van de aarde kleiner uitvalt. Precies dat verschil, en niet de totale aantrekking, maakt het getij.\n\n## Nuance of misverstand\n\nSpringtij heeft niets met de lente te maken: het gebeurt twee keer per maand, het hele jaar door. En het echte getij op een plek hangt ook af van de vorm van de kust en de zeebodem. Daarom vallen hoogwater en volle maan niet precies samen, en zijn de verschillen in de Noordzee anders dan midden op de oceaan. Wind en luchtdruk kunnen het water bovendien extra opstuwen, wat bij stormvloed gevaarlijk wordt.\n\n## Wat je ermee doet\n\nKijk voor je naar het strand gaat naar de getijtabel en naar de maanstand. Rond volle of nieuwe maan komt het water bij vloed verder en trekt het bij eb verder terug: ideaal om ver het strand op te wandelen, maar let dan extra op wie op een zandbank of strekdam staat wanneer het water terugkomt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><ellipse cx=\"150\" cy=\"115\" rx=\"78\" ry=\"52\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/>\n<circle cx=\"150\" cy=\"115\" r=\"45\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/>\n<g><animateTransform attributeName=\"transform\" type=\"rotate\" from=\"0 150 115\" to=\"360 150 115\" dur=\"8s\" repeatCount=\"indefinite\"/>\n<circle cx=\"150\" cy=\"70\" r=\"5\" fill=\"#ff6b9d\"/></g>\n<circle cx=\"320\" cy=\"115\" r=\"14\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/>\n<text x=\"304\" y=\"148\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">maan</text>\n<line x1=\"235\" y1=\"115\" x2=\"298\" y2=\"115\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" from=\"0\" to=\"24\" dur=\"2s\" repeatCount=\"indefinite\"/></line>\n<path d=\"M238 110 L230 115 L238 120 Z\" fill=\"#ffd166\"/>\n<text x=\"12\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">2 waterbulten, aarde draait eronder</text>\n<text x=\"12\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">roze stip = Oostende: 2x vloed per 24u50</text>\n<text x=\"234\" y=\"100\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">vloed</text><text x=\"28\" y=\"100\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">vloed</text><text x=\"140\" y=\"56\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">eb</text>\n</svg>",
+   "quiz": {
+    "q": "Wanneer is het springtij?",
+    "o": [
+     "Alleen in de lente",
+     "Rond volle en nieuwe maan",
+     "Rond eerste en laatste kwartier"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "NOAA - Frequency of tides, the lunar day",
+     "u": "https://oceanservice.noaa.gov/education/tutorial_tides/tides05_lunarday.html"
+    },
+    {
+     "t": "NOAA - Tides",
+     "u": "https://www.noaa.gov/education/resource-collections/ocean-coasts/tides"
+    },
+    {
+     "t": "NOAA - Understanding Tides (Swanson)",
+     "u": "https://repository.library.noaa.gov/view/noaa/45665/noaa_45665_DS1.pdf"
+    }
+   ],
+   "date": "2026-11-24T05:46:38Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Sterren twinkelen door onze lucht, planeten veel minder",
+   "body": "Sterrenlicht gaat door luchtbellen met een andere temperatuur en dichtheid. Elke bel buigt het licht een tikje af, waardoor het beeld van een ster verspringt en flikkert. Een ster is zo ver weg dat ze een puntje blijft. Een planeet is een klein schijfje: de verstoringen over dat schijfje middelen uit, dus Venus of Jupiter schijnt rustig.",
+   "take": "Twijfel je of dat heldere puntje een ster of planeet is? Twinkelt het hoog aan de hemel nauwelijks, dan is het wellicht een planeet.",
+   "deep": "## Hoe het werkt\n\nLicht verandert een beetje van richting wanneer het van lucht met de ene dichtheid naar lucht met een andere dichtheid gaat. Onze atmosfeer is geen egale laag maar een woelig geheel van warmere en koudere luchtpakketjes die voortdurend bewegen. Wanneer het licht van een ster door zo'n pakketje gaat, wordt het een fractie afgebogen. Omdat die pakketjes voor je oog heen en weer drijven, verspringt het beeld van de ster van moment tot moment: het lijkt te dansen, feller en zwakker te worden. Sterrenkundigen noemen dat scintillatie. Een ster staat zo onvoorstelbaar ver dat ze voor je oog een oneindig klein punt is, dus elke verstoring raakt meteen het hele beeld.\n\n## Een voorbeeld\n\nGa op een heldere winteravond buiten staan en vergelijk een heldere ster laag boven de horizon met de avondster Venus. De ster flikkert, en laag aan de hemel kan ze zelfs van kleur lijken te wisselen. Venus straalt opvallend rustig. Dat komt omdat een planeet veel dichter bij ons staat en daardoor een klein schijfje vormt in plaats van een punt. Het licht van elk stukje van dat schijfje gaat door een iets ander luchtpakketje, en al die kleine sprongetjes heffen elkaar grotendeels op.\n\n## Wat onderzoek zegt\n\nBritannica en NASA leggen het zo uit: het effect ontstaat in de atmosfeer, niet in de ster zelf. Hoe meer lucht het licht moet doorkruisen, hoe sterker het twinkelen. Daarom twinkelen sterren laag bij de horizon het meest: daar gaat het licht schuin door een veel dikkere laag lucht dan wanneer de ster recht boven je staat. Dezelfde turbulentie maakt telescoopbeelden wazig, en het is een van de redenen waarom sterrenwachten op hoge, droge bergtoppen staan of telescopen de ruimte in gaan.\n\n## Nuance of misverstand\n\nOok planeten kunnen twinkelen. Staat een planeet heel laag bij de horizon of is de lucht erg onrustig, dan kan ook zij een beetje flikkeren. En wie vanuit de ruimte kijkt, zoals een astronaut of een ruimtetelescoop, ziet sterren helemaal niet twinkelen: er is daar geen lucht om het licht te verstoren. Het twinkelen zegt dus iets over onze atmosfeer, niet over de ster.\n\n## Wat je ermee doet\n\nGebruik het als vuistregel bij het sterrenkijken. Zie je een helder, rustig lichtpunt dat niet op je sterrenkaart staat, dan is het vaak een planeet. Wil je zelf door een telescoop kijken, kies dan een avond waarop de sterren weinig twinkelen: dan is de lucht stabiel en zie je meer detail.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"10\" y=\"120\" width=\"340\" height=\"40\" fill=\"rgba(255,255,255,0.14)\"/>\n<text x=\"250\" y=\"145\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">woelige lucht</text>\n<circle cx=\"80\" cy=\"30\" r=\"3\" fill=\"#ffd166\"/><text x=\"92\" y=\"34\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">ster: 1 punt</text>\n<line x1=\"80\" y1=\"34\" x2=\"80\" y2=\"200\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"x2\" values=\"80;70;88;76;80\" dur=\"2s\" repeatCount=\"indefinite\"/></line>\n<circle cx=\"80\" cy=\"200\" r=\"6\" fill=\"#ffd166\"><animate attributeName=\"opacity\" values=\"1;0.3;0.9;0.4;1\" dur=\"2s\" repeatCount=\"indefinite\"/></circle>\n<circle cx=\"230\" cy=\"32\" r=\"12\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"246\" y=\"36\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">planeet: schijfje</text>\n<path d=\"M220 40 L205 200 M230 44 L230 200 M240 40 L255 200\" stroke=\"#06d6a0\" stroke-width=\"2\" fill=\"none\"/>\n<circle cx=\"230\" cy=\"204\" r=\"7\" fill=\"#06d6a0\"/>\n<text x=\"100\" y=\"204\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">flikkert</text><text x=\"262\" y=\"204\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">middelt uit</text>\n</svg>",
+   "quiz": {
+    "q": "Waarom twinkelt een planeet zoals Venus meestal minder dan een ster?",
+    "o": [
+     "Ze lijkt een klein schijfje, geen punt",
+     "Ze geeft zelf geen licht",
+     "Ze staat buiten onze atmosfeer"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Britannica - Why do stars twinkle?",
+     "u": "https://www.britannica.com/science/Why-Do-Stars-Twinkle"
+    },
+    {
+     "t": "Britannica - Scintillation",
+     "u": "https://www.britannica.com/science/scintillation-astronomy"
+    },
+    {
+     "t": "NASA StarChild - Why do stars twinkle?",
+     "u": "https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question26.html"
+    }
+   ],
+   "date": "2026-11-24T05:46:38Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "De maan aan de horizon is helemaal niet groter",
+   "body": "Een opkomende maan lijkt reusachtig, maar meet je haar, dan beslaat ze aan de horizon en hoog aan de hemel ongeveer even veel: zo'n halve graad. De vergroting zit in je hoofd. Onderzoek uit 1994 schat dat we de horizonmaan 1,5 tot 2 keer zo breed waarnemen. Eigenlijk sta je dan zelfs zo'n 6.400 km verder van de maan.",
+   "take": "Houd bij een grote maan je pink op armlengte: hij bedekt de maan aan de horizon even goed als later hoog aan de hemel.",
+   "deep": "## Hoe het werkt\n\nJe oog ziet hoe groot iets is via de hoek die het inneemt, maar je brein rekent daar meteen een afstand bij. Hetzelfde beeld op je netvlies lijkt groter als je denkt dat het voorwerp verder staat. Aan de horizon zie je huizen, bomen en een heel landschap tussen jou en de maan. Volgens de klassieke verklaring doet dat je brein besluiten dat de maan daar heel ver weg is. Hoog aan de hemel ontbreken die aanknopingspunten en lijkt de hemel als een plat gewelf dichterbij. Omdat de beeldgrootte gelijk blijft maar de geschatte afstand verschilt, blaast je brein de horizonmaan op.\n\n## Een voorbeeld\n\nEen volle maan die opkomt boven de polders of achter de torens van Gent lijkt enorm. Neem een foto met dezelfde zoomstand bij opkomst en twee uur later: op beide foto's is de maan even groot. Sterker nog, aan de horizon sta je ongeveer één aardstraal, zo'n 6.400 km, verder van de maan dan wanneer ze recht boven je staat. Op een afstand van zo'n 384.000 km scheelt dat ruwweg anderhalf procent: de horizonmaan is dus een fractie kleiner.\n\n## Wat onderzoek zegt\n\nLloyd en James Kaufman, vader en zoon, publiceerden in 2000 in PNAS een reeks proeven. Proefpersonen moesten een kunstmaan op de helft van de afstand tot de echte maan zetten. Bij de horizonmaan plaatsten ze dat midden gemiddeld ongeveer vier keer verder dan bij de hoge maan. Een overzichtsstudie uit 1994 schatte dat we horizonvoorwerpen 1,5 tot 2 keer zo breed waarnemen. De atmosfeer werkt niet als vergrootglas: lichtbreking is klein en maakt de maan aan de horizon eerder een tikje platter.\n\n## Nuance of misverstand\n\nDe verklaring is niet helemaal rond. Vraag je mensen welke maan dichterbij lijkt, dan kiezen velen net de grote horizonmaan, wat tegen de afstandstheorie in lijkt te gaan. Een mogelijke uitleg is dat dat gevoel van nabijheid volgt uit de grote indruk, en niet omgekeerd. Andere onderzoekers wijzen op meerdere factoren tegelijk, zoals grootte-contrast met objecten op de voorgrond. Over één ding zijn wetenschappers het wel eens: de maan zelf verandert niet.\n\n## Wat je ermee doet\n\nTest het de volgende keer zelf: houd je pink of een muntstuk op gestrekte arm, of kijk door een opgerold papiertje zodat je het landschap niet meer ziet. De maan krimpt dan zichtbaar. Een fijn trucje om kinderen te laten voelen dat je ogen meten, maar je brein interpreteert.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><line x1=\"10\" y1=\"190\" x2=\"350\" y2=\"190\" stroke=\"#fff\" stroke-width=\"2\"/>\n<circle cx=\"40\" cy=\"182\" r=\"6\" fill=\"#fff\"/><text x=\"22\" y=\"210\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">jij</text>\n<path d=\"M40 182 L300 168 M40 182 L300 196\" stroke=\"#ffd166\" stroke-width=\"2\" fill=\"none\"/>\n<path d=\"M40 182 L172 40 M40 182 L192 56\" stroke=\"#ffd166\" stroke-width=\"2\" fill=\"none\"/>\n<circle cx=\"182\" cy=\"48\" r=\"9\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/>\n<circle cx=\"300\" cy=\"182\" r=\"9\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/>\n<circle cx=\"300\" cy=\"182\" r=\"9\" fill=\"rgba(255,209,102,0.3)\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"r\" values=\"9;17;9\" dur=\"5s\" repeatCount=\"indefinite\"/></circle>\n<text x=\"200\" y=\"40\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">hoog: 0,5 graad</text>\n<text x=\"196\" y=\"160\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">horizon: ook 0,5 graad</text>\n<text x=\"12\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Roze rand = wat je brein ervan maakt</text>\n</svg>",
+   "quiz": {
+    "q": "Hoe groot is de maan aan de horizon echt, vergeleken met hoog aan de hemel?",
+    "o": [
+     "Bijna twee keer zo groot",
+     "Ongeveer 20 procent groter",
+     "Even groot, zelfs een fractie kleiner"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "PNAS - Explaining the moon illusion (Kaufman & Kaufman)",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC26692/"
+    },
+    {
+     "t": "PubMed - The natural moon illusion (1994)",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/7971109/"
+    },
+    {
+     "t": "Scientific American - Moon illusion",
+     "u": "https://www.scientificamerican.com/article/why-do-the-moon-and-the-s/"
+    }
+   ],
+   "date": "2026-11-24T05:46:38Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Je oren ploppen omdat een buisje achterloopt",
+   "body": "Achter je trommelvlies zit een luchtkamertje, het middenoor. Een smal buisje, de buis van Eustachius, verbindt het met je keel en houdt de druk gelijk. Bij stijgen en vooral dalen verandert de cabinedruk sneller dan dat buisje volgt. In een Deense studie had na de landing 20 procent van de volwassenen en 40 procent van de kinderen onderdruk.",
+   "take": "Slik, geeuw of kauw kauwgom tijdens de daling, en blijf wakker bij de landing: slapend slik je minder vaak.",
+   "deep": "## Hoe het werkt\n\nJe middenoor is een kleine, met lucht gevulde ruimte tussen je trommelvlies en je binnenoor. Om goed te trillen moet de druk aan beide kanten van het trommelvlies gelijk zijn. Daarvoor zorgt de buis van Eustachius, die van het middenoor naar de achterkant van je neus en keel loopt. Meestal is die buis dicht. Bij slikken, geeuwen of kauwen gaat ze even open en kan er lucht in of uit: dat is de plop die je voelt. Wanneer het vliegtuig stijgt, daalt de cabinedruk en ontsnapt de lucht uit je middenoor vrij makkelijk. Bij de daling stijgt de cabinedruk weer, en moet er lucht naar binnen. Lukt dat niet snel genoeg, dan wordt je trommelvlies naar binnen gedrukt: een dof, pijnlijk gevoel.\n\n## Een voorbeeld\n\nJe vliegt van Zaventem naar Malaga en hebt een lichte verkoudheid. Bij het opstijgen merk je weinig, maar tijdens het laatste halfuur voor de landing worden je oren dof en pijnlijk. Dat is typisch: met een opgezwollen neusslijmvlies krijg je de buis bij het dalen veel moeilijker open. Ook baby's en peuters hebben er vaker last van, omdat hun buisjes kleiner zijn.\n\n## Wat onderzoek zegt\n\nEen Deense studie van Stangerup en collega's onderzocht passagiers na de landing. Bij 20 procent van de volwassenen en 40 procent van de kinderen was de druk in het middenoor duidelijk lager dan buiten. Zichtbare tekenen van barotrauma aan het trommelvlies zagen de artsen bij 10 procent van de volwassenen en 22 procent van de kinderen. Mayo Clinic en Cleveland Clinic noemen verkoudheid, hooikoorts, sinusitis en slapen tijdens de daling als bekende risicofactoren.\n\n## Nuance of misverstand\n\nEen plop is geen teken dat er iets mis is, integendeel: het betekent dat de buis zijn werk doet. Meestal verdwijnen de klachten vanzelf. Blijft je oor uren of dagen pijnlijk, hoor je slecht of komt er vocht uit, ga dan naar een arts. Neusdruppels of ontzwellende middelen kunnen helpen, maar zijn niet voor iedereen geschikt, bijvoorbeeld bij hoge bloeddruk of voor jonge kinderen.\n\n## Wat je ermee doet\n\nSlik, geeuw en kauw vooral tijdens de daling. Werkt dat niet, knijp dan je neus dicht, sluit je mond en blaas zachtjes tot je een plop voelt: de zogenoemde valsalvamanoeuvre. Geef een baby tijdens de daling de borst of een flesje. En ben je flink verkouden, overleg dan met je arts of apotheker voor je vliegt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"12\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Bij dalen duwt hogere druk je trommelvlies in</text>\n<path d=\"M20 110 L120 110\" stroke=\"#fff\" stroke-width=\"2\"/>\n<text x=\"30\" y=\"98\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">cabinelucht</text>\n<line x1=\"130\" y1=\"70\" x2=\"130\" y2=\"150\" stroke=\"#ffd166\" stroke-width=\"3\"><animate attributeName=\"x1\" values=\"130;140;130\" dur=\"4s\" repeatCount=\"indefinite\"/><animate attributeName=\"x2\" values=\"130;140;130\" dur=\"4s\" repeatCount=\"indefinite\"/></line>\n<text x=\"98\" y=\"168\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">trommelvlies</text>\n<rect x=\"150\" y=\"70\" width=\"80\" height=\"80\" rx=\"20\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/>\n<text x=\"162\" y=\"62\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">middenoor</text>\n<path d=\"M220 150 Q260 180 320 190\" stroke=\"#06d6a0\" stroke-width=\"2\" fill=\"none\"/>\n<text x=\"250\" y=\"212\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">buis van Eustachius</text>\n<text x=\"288\" y=\"176\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">keel</text>\n<circle r=\"4\" fill=\"#06d6a0\"><animateMotion path=\"M320 190 Q260 180 220 150 L190 110\" dur=\"4s\" repeatCount=\"indefinite\"/></circle>\n<text x=\"240\" y=\"110\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">slikken = open</text>\n</svg>",
+   "quiz": {
+    "q": "Wanneer krijgen je oren het in een vliegtuig meestal het lastigst?",
+    "o": [
+     "Tijdens het opstijgen",
+     "Tijdens de daling",
+     "Op kruishoogte"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Mayo Clinic - Airplane ear",
+     "u": "https://www.mayoclinic.org/diseases-conditions/airplane-ear/symptoms-causes/syc-20351701"
+    },
+    {
+     "t": "PMC - Airplane ear: a neglected yet preventable problem",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6779601/"
+    },
+    {
+     "t": "Cleveland Clinic - Ear barotrauma",
+     "u": "https://my.clevelandclinic.org/health/diseases/17929-airplane-ear"
+    }
+   ],
+   "date": "2026-11-24T05:46:38Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Naar het oosten vliegen geeft je meer jetlag",
+   "body": "Je biologische klok loopt van nature iets trager dan 24 uur. Uitstellen gaat daardoor makkelijker dan vervroegen. Vlieg je westwaarts, dan wordt je dag langer en moet je klok achteruit: relatief eenvoudig. Oostwaarts moet ze vooruit. Sportwetenschappers rekenen grofweg op een halve dag herstel per tijdzone naar het westen, en een volle dag naar het oosten.",
+   "take": "Reis je oostwaarts? Ga de dagen vooraf telkens een uur vroeger slapen en zoek 's ochtends fel licht op.",
+   "deep": "## Hoe het werkt\n\nDiep in je hersenen houdt een groep zenuwcellen een ritme van ongeveer een dag bij. Laat je die klok zonder daglicht draaien, dan duurt een cyclus bij de meeste mensen iets langer dan 24 uur. Elke dag moet licht hem dus een beetje bijstellen. Een klok die van nature traag loopt, schuif je makkelijk nog wat later, maar moeilijk vroeger. Vlieg je naar het westen, dan wordt je dag langer: je moet later gaan slapen, wat in het verlengde ligt van je natuurlijke neiging. Vlieg je naar het oosten, dan wordt je dag korter en moet je klok vervroegen, tegen de natuurlijke neiging in.\n\n## Een voorbeeld\n\nVlieg je van Brussel naar New York, dan kom je zes uur 'terug in de tijd'. Je bent die avond vroeg moe, maar je klok past zich vrij vlot aan. Op de terugweg land je 's ochtends in Zaventem terwijl je lichaam vindt dat het midden in de nacht is. 's Avonds lig je klaarwakker. Veel reizigers merken dat die terugreis hen dagen langer achtervolgt.\n\n## Wat onderzoek zegt\n\nFysici van de University of Maryland, onder wie Michelle Girvan en Edward Ott, maakten in 2016 in het vakblad Chaos een wiskundig model van de klokcellen. Een natuurlijke cyclus die zo'n half uur langer is dan 24 uur bleek genoeg om een groot oost-westverschil te verklaren. In hun model had iemand die negen tijdzones naar het oosten vloog, van Los Angeles naar Parijs, ongeveer zes dagen meer nodig om te herstellen dan iemand die de omgekeerde reis maakte. Een studie met gegevens van 1,5 miljoen nachten van draagbare slaaptrackers vond dat slaap meer verstoord raakt na reizen naar het oosten en over meer tijdzones.\n\n## Nuance of misverstand\n\nDe regel van een dag per tijdzone is een vuistregel, geen wet. Mensen verschillen: ochtendmensen en avondmensen passen zich niet even snel aan. En niet alle vermoeidheid na een vlucht is jetlag. Droge cabinelucht, weinig beweging en een korte nacht maken je ook moe, zelfs als je geen enkele tijdzone overschrijdt.\n\n## Wat je ermee doet\n\nReis je naar het oosten, begin dan enkele dagen vooraf je slaap telkens een uur te vervroegen en zoek 's ochtends veel licht op; het team van Charmane Eastman toonde dat zo'n vooraf verschoven ritme jetlag flink kan beperken. Ter plaatse helpt ochtendlicht, terwijl je fel licht 's avonds beter vermijdt. Westwaarts helpt het om 's avonds nog wat buiten te zijn.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><circle cx=\"110\" cy=\"115\" r=\"70\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/>\n<text x=\"96\" y=\"38\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">24u</text>\n<g><animateTransform attributeName=\"transform\" type=\"rotate\" from=\"0 110 115\" to=\"360 110 115\" dur=\"8s\" repeatCount=\"indefinite\"/>\n<line x1=\"110\" y1=\"115\" x2=\"110\" y2=\"55\" stroke=\"#ffd166\" stroke-width=\"3\"/></g>\n<g><animateTransform attributeName=\"transform\" type=\"rotate\" from=\"0 110 115\" to=\"345 110 115\" dur=\"8s\" repeatCount=\"indefinite\"/>\n<line x1=\"110\" y1=\"115\" x2=\"110\" y2=\"65\" stroke=\"#ff6b9d\" stroke-width=\"3\"/></g>\n<text x=\"48\" y=\"208\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">geel = dag, roze = binnenklok</text>\n<text x=\"200\" y=\"70\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">West: dag langer</text>\n<text x=\"200\" y=\"88\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">uitstellen: makkelijk</text>\n<text x=\"200\" y=\"140\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Oost: dag korter</text>\n<text x=\"200\" y=\"158\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">vervroegen: lastig</text>\n<path d=\"M200 100 L330 100\" stroke=\"#06d6a0\" stroke-width=\"2\"/><path d=\"M330 95 L340 100 L330 105 Z\" fill=\"#06d6a0\"/>\n<path d=\"M200 170 L330 170\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><path d=\"M330 165 L340 170 L330 175 Z\" fill=\"#ff6b9d\"/>\n</svg>",
+   "quiz": {
+    "q": "Waarom is jetlag meestal erger na een vlucht naar het oosten?",
+    "o": [
+     "De cabinedruk is dan lager",
+     "Je moet je klok vervroegen, en die loopt van nature iets traag",
+     "Oostwaartse vluchten duren langer"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Physics Today - Unraveling the jet-lag asymmetry",
+     "u": "https://physicstoday.aip.org/news/unraveling-the-jet-lag-asymmetry"
+    },
+    {
+     "t": "ScienceDaily - East-west asymmetry of jet lag",
+     "u": "https://www.sciencedaily.com/releases/2016/07/160712115332.htm"
+    },
+    {
+     "t": "Sleep - 1,5 miljoen nachten reisdata (PMC)",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12246376/"
+    },
+    {
+     "t": "PMC - Long-haul travel and athletes (review)",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12576017/"
+    }
+   ],
+   "date": "2026-11-24T05:46:38Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Je zonnebrand kleurt pas rood na de schade",
+   "body": "Uv-straling beschadigt het DNA in je huidcellen terwijl je in de zon ligt. Pas daarna slaan die cellen alarm met ontstekingsstoffen, waardoor bloedvaatjes opengaan. Daarom verschijnt roodheid volgens DermNet pas na 2 tot 6 uur en is ze het ergst na 12 tot 24 uur. Niet rood op het strand betekent dus niet: niet verbrand.",
+   "take": "Wacht niet tot je huid rood ziet om in de schaduw te gaan: smeer vooraf en zoek tussen de middag schaduw op.",
+   "deep": "## Hoe het werkt\n\nUv-B-straling wordt direct door het DNA in je huidcellen opgenomen. Daarbij plakken twee naast elkaar liggende bouwstenen, meestal twee thymines, aan elkaar vast: een soort knik in de genetische code. Uv-A beschadigt het DNA eerder onrechtstreeks, via reactieve zuurstofdeeltjes. Beschadigde huidcellen sturen signaalstoffen uit, zoals prostaglandines en histamine. Die zorgen ervoor dat de bloedvaatjes in je huid verwijden en lekken. Meer bloed onder je huid betekent rood, warm en soms gezwollen. Dat proces kost uren: eerst de schade, dan het alarm, dan de reactie van de bloedvaten.\n\n## Een voorbeeld\n\nJe ligt een zonnige zaterdag op het strand van De Panne. Om vijf uur voel je je nog prima en zie je amper verschil. 's Avonds onder de douche prikt je rug, en de volgende ochtend is hij vuurrood en pijnlijk. Je bent niet 's avonds verbrand: de schade gebeurde rond de middag, je ziet nu pas de ontstekingsreactie.\n\n## Wat onderzoek zegt\n\nDermNet, een dermatologische naslagbron uit Nieuw-Zeeland, beschrijft dat roodheid meestal 2 tot 6 uur na blootstelling verschijnt, piekt na 12 tot 24 uur en na 3 tot 7 dagen wegtrekt. Het MSD Manual zegt dat de piek meestal tussen 12 en 24 uur valt, al kan het tot 72 uur duren. Onderzoek vond dat de hoeveelheid histamine en prostaglandine E2 in de huid na uv-blootstelling ongeveer verviervoudigt. Hoe die schade precies tot ontsteking leidt, is volgens DermNet nog niet volledig opgehelderd.\n\n## Nuance of misverstand\n\nEen veelgehoord misverstand is dat je voelt wanneer je verbrandt. Maar uv-straling warmt je huid niet merkbaar op; de warmte die je voelt, komt van infrarood licht. Op een koele, winderige dag aan zee of in de bergen kun je dus flink verbranden zonder het te merken. En de roodheid verdwijnt na een week, maar de DNA-schade die je cellen niet goed herstellen, kan bijdragen aan huidkanker op lange termijn.\n\n## Wat je ermee doet\n\nSmeer zonnecrème voor je naar buiten gaat, herhaal na zwemmen, en volg de uv-index in plaats van je gevoel. Verbrand je toch, koel dan je huid af met lauw water, drink voldoende en blijf de volgende dagen uit de zon. Blaren, koorts of misselijkheid? Raadpleeg je huisarts.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><line x1=\"20\" y1=\"150\" x2=\"340\" y2=\"150\" stroke=\"#fff\" stroke-width=\"2\"/>\n<path d=\"M334 145 L344 150 L334 155 Z\" fill=\"#fff\"/>\n<g opacity=\"0.25\"><animate attributeName=\"opacity\" values=\"0.25;1;1;0.25\" keyTimes=\"0;0.1;0.9;1\" dur=\"8s\" begin=\"0s\" repeatCount=\"indefinite\"/>\n<circle cx=\"40\" cy=\"150\" r=\"8\" fill=\"#ffd166\"/><text x=\"20\" y=\"130\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">0u: UV</text><text x=\"16\" y=\"180\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">DNA-schade</text></g>\n<g opacity=\"0.25\"><animate attributeName=\"opacity\" values=\"0.25;1;1;0.25\" keyTimes=\"0;0.1;0.9;1\" dur=\"8s\" begin=\"2s\" repeatCount=\"indefinite\"/>\n<circle cx=\"130\" cy=\"150\" r=\"8\" fill=\"#06d6a0\"/><text x=\"108\" y=\"130\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">2-6u</text><text x=\"96\" y=\"180\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">alarmstoffen</text></g>\n<g opacity=\"0.25\"><animate attributeName=\"opacity\" values=\"0.25;1;1;0.25\" keyTimes=\"0;0.1;0.9;1\" dur=\"8s\" begin=\"4s\" repeatCount=\"indefinite\"/>\n<circle cx=\"220\" cy=\"150\" r=\"8\" fill=\"#ff6b9d\"/><text x=\"194\" y=\"130\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">12-24u</text><text x=\"186\" y=\"180\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">vaten open</text></g>\n<g opacity=\"0.25\"><animate attributeName=\"opacity\" values=\"0.25;1;1;0.25\" keyTimes=\"0;0.1;0.9;1\" dur=\"8s\" begin=\"6s\" repeatCount=\"indefinite\"/>\n<circle cx=\"300\" cy=\"150\" r=\"8\" fill=\"#fff\"/><text x=\"282\" y=\"130\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">3-7 d</text><text x=\"278\" y=\"180\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">herstel</text></g>\n<text x=\"20\" y=\"40\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Rood is de reactie, niet de schade zelf</text>\n<text x=\"20\" y=\"62\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">De schade gebeurt al op het strand</text>\n</svg>",
+   "quiz": {
+    "q": "Wanneer is de roodheid van zonnebrand meestal het hevigst?",
+    "o": [
+     "Na 12 tot 24 uur",
+     "Meteen in de zon",
+     "Pas na een week"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "DermNet - Sunburn",
+     "u": "https://dermnetnz.org/topics/sunburn"
+    },
+    {
+     "t": "MSD Manual - Sunburn",
+     "u": "https://www.msdmanuals.com/professional/dermatologic-disorders/reactions-to-sunlight/sunburn"
+    },
+    {
+     "t": "PMC - Review over zonnebrand",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11374383/"
+    }
+   ],
+   "date": "2026-11-24T05:46:38Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Een Russische matroos spreekt eigenlijk een beetje Nederlands",
+   "body": "In augustus 1697 kwam tsaar Peter de Grote naar Amsterdam en leerde hij scheepsbouw op de werven, onder meer in Zaandam. Hij nam niet alleen Nederlandse vakmensen mee naar Rusland, maar ook hun woorden. Матрос (matros) komt van matroos, штурман van stuurman, флаг van vlag. Volgens etymologe Nicoline van der Sijs gebruiken Russen zo'n 500 Nederlandse leenwoorden.",
+   "take": "Op reis in Rusland of Oekraïne? Luister naar havenwoorden zoals matros en sjkiper: je herkent er meer dan je denkt.",
+   "deep": "## Hoe het werkt\n\nWanneer een land een nieuwe techniek overneemt, komen de woorden vaak mee. Rusland had rond 1700 nauwelijks een zeevloot. Peter de Grote, die regeerde van 1682 tot 1725, wilde dat veranderen en ging zelf in de leer bij de beste scheepsbouwers van toen: de Nederlanders. Hij haalde Nederlandse timmerlieden, kapiteins en zeelui naar Rusland. Zij gaven les en bevel in hun eigen taal, en hun Russische leerlingen namen die vaktermen over, aangepast aan hun uitspraak en het Cyrillische schrift.\n\n## Een voorbeeld\n\nKijk naar een Russisch schip en je hoort Nederlands. De matroos heet матрос (matros), de schipper шкипер (sjkiper), de stuurman штурман (sjtoerman) en de bootsman боцман (botsman). Het ruim van het schip heet трюм (trjoem), van het Nederlandse 't ruim, het roer руль (roel) en de vlag флаг (flag). Ook woorden als haven en vaarwater kwamen zo in het Russisch terecht.\n\n## Wat onderzoek zegt\n\nPeter kwam in augustus 1697 in Amsterdam aan en werkte vermomd als scheepstimmerman op de werven; de Amsterdamse burgemeester Nicolaes Witsen regelde een opleiding van vier maanden op de werf van de VOC. Het klassieke standaardwerk is De Hollandsche zee- en scheepstermen in het Russisch van R. van der Meulen uit 1909. Een studie uit 2023 in het Chinese Journal of Slavic Studies telde in haar staal 192 woorden uit scheepvaart en scheepsbouw, ongeveer 79 procent van de Nederlandse leenwoorden die ze onderzocht. Van der Sijs schat dat er zo'n 500 Nederlandse leenwoorden in gewoon gebruik zijn.\n\n## Nuance of misverstand\n\nNiet elk Russisch scheepswoord komt rechtstreeks van Peter. Sommige woorden, zoals барка en бот, kwamen al veel eerder binnen via de handel met de Hanze. Andere reisden via het Duits of Engels, en een recensent wijst erop dat Van der Meulen soms te snel aannam dat alles Nederlands was. Precieze aantallen hangen dus af van hoe je telt.\n\n## Wat je ermee doet\n\nGebruik het als ezelsbruggetje bij het leren van Russisch of Oekraïens: zoek naar Nederlandse klanken in scheepvaart- en bouwwoorden. En wie in Zaandam het Czaar Peterhuisje bezoekt, staat letterlijk op de plek waar dat taalverhaal begon.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"16\" y=\"40\" width=\"110\" height=\"140\" rx=\"10\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/>\n<rect x=\"234\" y=\"40\" width=\"110\" height=\"140\" rx=\"10\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/>\n<text x=\"26\" y=\"30\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Zaandam 1697</text><text x=\"244\" y=\"30\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Russisch</text>\n<text x=\"28\" y=\"72\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">matroos</text><text x=\"28\" y=\"102\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">schipper</text><text x=\"28\" y=\"132\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">stuurman</text><text x=\"28\" y=\"162\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">vlag</text>\n<text x=\"246\" y=\"72\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">matros</text><text x=\"246\" y=\"102\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">sjkiper</text><text x=\"246\" y=\"132\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">sjtoerman</text><text x=\"246\" y=\"162\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">flag</text>\n<line x1=\"132\" y1=\"110\" x2=\"222\" y2=\"110\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"8 6\"><animate attributeName=\"stroke-dashoffset\" from=\"28\" to=\"0\" dur=\"2s\" repeatCount=\"indefinite\"/></line>\n<path d=\"M222 104 L232 110 L222 116 Z\" fill=\"#ffd166\"/>\n<path d=\"M165 92 L195 92 L190 100 L170 100 Z\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"/>\n<line x1=\"180\" y1=\"92\" x2=\"180\" y2=\"76\" stroke=\"#06d6a0\" stroke-width=\"2\"/>\n<text x=\"120\" y=\"208\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">ongeveer 500 leenwoorden</text>\n</svg>",
+   "quiz": {
+    "q": "Van welk Nederlands woord komt het Russische трюм (trjoem)?",
+    "o": [
+     "Trommel",
+     "Stroom",
+     "'t Ruim"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Chinese Journal of Slavic Studies - Dutch Loanwords in Russian",
+     "u": "https://www.degruyterbrill.com/document/doi/10.1515/cjss-2023-0003/html"
+    },
+    {
+     "t": "The Low Countries - Nicolaes Witsen en de tsaar",
+     "u": "https://www.the-low-countries.com/article/nicolaes-witsen-the-dutchman-who-taught-the-tsar-to-build-ships/"
+    },
+    {
+     "t": "The Low Countries - De Nederlanders in het Oostzeegebied",
+     "u": "https://www.the-low-countries.com/article/the-dutch-in-the-baltic-sea-region/"
+    },
+    {
+     "t": "DBNL - Nederlandse woorden in de Russische taal (Onze Taal)",
+     "u": "https://www.dbnl.org/tekst/_taa014197401_01/_taa014197401_01_0029.php"
+    }
+   ],
+   "date": "2026-11-24T05:46:38Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Santa Claus is Sinterklaas met een New Yorks accent",
+   "body": "De naam Santa Claus is een Amerikaanse verbastering van het Nederlandse Sinterklaas, zelf een verkorting van Sint Nikolaas. New York heette ooit Nieuw-Amsterdam. De oudst bekende vermelding staat in een New Yorkse krant van 23 december 1773: 'St. A Claus'. Schrijver Washington Irving maakte er in 1809 een pijprokende Hollander van.",
+   "take": "Vertel kinderen gerust dat Santa een verre Amerikaanse neef van de Sint is: zijn naam bewijst het.",
+   "deep": "## Hoe het werkt\n\nWoorden die van taal wisselen, worden aangepast aan de oren van de nieuwe sprekers. Sint Nikolaas werd in de Nederlanden afgesleten tot Sinterklaas. Nederlandse kolonisten brachten hun heiligen en gewoonten mee naar Nieuw-Nederland, met Nieuw-Amsterdam als hoofdplaats, dat in 1664 Engels werd en New York ging heten. Engelstaligen die Sinterklaas hoorden, schreven het op zoals het klonk. Dat leverde eerst allerlei spellingen op, zoals St. Aclaus, Sancte Klaas en Santeclaw, tot Santa Claus bleef hangen.\n\n## Een voorbeeld\n\nLeg een Amerikaanse kerstkaart naast een Vlaamse sinterklaasprent. Bisschopsmantel en staf zijn verdwenen, een rode jas en een slee met rendieren kwamen in de plaats, en hij komt op kerstavond in plaats van op 6 december. Toch hoor je in zijn naam nog altijd de Nederlandse Sinterklaas, net zoals Brooklyn en Harlem nog naar Breukelen en Haarlem verwijzen.\n\n## Wat onderzoek zegt\n\nVolgens Etymonline en Merriam-Webster dateert de eerste bekende vermelding van 23 december 1773, in Rivington's New-York Gazetteer, over een feest voor Sint-Nicolaas, die er 'St. A Claus' werd genoemd. In 1809 publiceerde Washington Irving onder de schuilnaam Diedrich Knickerbocker zijn satirische A History of New York, waarin Sint-Nicolaas een gezette, pijprokende Hollander is. De New York Public Library wijst erop dat John Pintard en de New-York Historical Society de heilige toen actief promootten. Het gedicht A Visit from St. Nicholas uit 1823 voegde de rendieren toe, en tekenaar Thomas Nast gaf Santa vanaf 1863 in Harper's Weekly zijn bekende uiterlijk.\n\n## Nuance of misverstand\n\nHistorici zijn het oneens over hoe sterk de Nederlandse traditie in New York echt bleef bestaan; sommigen vinden dat Irving en zijn vrienden die vooral nieuw leven inbliezen of zelfs verzonnen. Het St. Nicholas Center wijst er ook op dat gelijkaardige namen in Zwitserland en Zuid-Duitsland voorkomen. En nee, Coca-Cola heeft Santa niet bedacht: zijn naam, rendieren en uiterlijk bestonden al ruim een eeuw voor de bekende frisdrankreclames.\n\n## Wat je ermee doet\n\nGebruik het verhaal om te tonen hoe taal reist: een Nederlandse naam steekt de oceaan over, krijgt een Engelse spelling en komt via films en reclame terug naar Vlaanderen. Wie Santa Claus zegt, spreekt dus eigenlijk een beetje Nederlands.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"12\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Een naam die de oceaan overstak</text>\n<g opacity=\"0.3\"><animate attributeName=\"opacity\" values=\"0.3;1;1;0.3\" keyTimes=\"0;0.1;0.85;1\" dur=\"8s\" begin=\"0s\" repeatCount=\"indefinite\"/>\n<rect x=\"12\" y=\"60\" width=\"100\" height=\"40\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"22\" y=\"85\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Sint Nikolaas</text></g>\n<g opacity=\"0.3\"><animate attributeName=\"opacity\" values=\"0.3;1;1;0.3\" keyTimes=\"0;0.1;0.85;1\" dur=\"8s\" begin=\"2s\" repeatCount=\"indefinite\"/>\n<rect x=\"130\" y=\"60\" width=\"100\" height=\"40\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"142\" y=\"85\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Sinterklaas</text></g>\n<g opacity=\"0.3\"><animate attributeName=\"opacity\" values=\"0.3;1;1;0.3\" keyTimes=\"0;0.1;0.85;1\" dur=\"8s\" begin=\"4s\" repeatCount=\"indefinite\"/>\n<rect x=\"248\" y=\"60\" width=\"100\" height=\"40\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"262\" y=\"85\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">St. A Claus</text><text x=\"304\" y=\"118\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">1773, NY</text></g>\n<g opacity=\"0.3\"><animate attributeName=\"opacity\" values=\"0.3;1;1;0.3\" keyTimes=\"0;0.1;0.85;1\" dur=\"8s\" begin=\"6s\" repeatCount=\"indefinite\"/>\n<rect x=\"130\" y=\"150\" width=\"100\" height=\"40\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"144\" y=\"175\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Santa Claus</text><text x=\"146\" y=\"208\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">Irving, 1809</text></g>\n<path d=\"M112 80 L128 80 M230 80 L246 80\" stroke=\"#fff\" stroke-width=\"2\"/>\n<path d=\"M298 100 L298 170 L234 170\" stroke=\"#fff\" stroke-width=\"2\" fill=\"none\"/>\n</svg>",
+   "quiz": {
+    "q": "Wat is de oudst bekende vermelding van de naam in New York?",
+    "o": [
+     "'St. A Claus' in een krant uit 1773",
+     "'Santa Claus' in een gedicht uit 1823",
+     "'Father Christmas' in een brief uit 1700"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Etymonline - Santa Claus",
+     "u": "https://www.etymonline.com/word/Santa%20Claus"
+    },
+    {
+     "t": "NYPL - Santa's New York Roots",
+     "u": "https://www.nypl.org/blog/2015/12/09/santas-new-york-roots"
+    },
+    {
+     "t": "NEH - How Washington Irving shaped Christmas",
+     "u": "https://www.neh.gov/humanities/2016/fall/feature/how-washington-irving-shaped-christmas-in-america"
+    },
+    {
+     "t": "Britannica - Santa Claus",
+     "u": "https://www.britannica.com/procon/Santa-Claus-debate"
+    }
+   ],
+   "date": "2026-11-24T05:46:38Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Een Belgische schrijnwerker gaf de wereld bruikbare stroom",
+   "body": "Zénobe Gramme, in 1826 geboren in Jehay-Bodegnée bij Luik, was een matige leerling maar een begenadigd vakman. In Parijs bouwde hij een dynamo met een draaiende ring vol spoelen die een gelijkmatige stroom en veel hogere spanning leverde dan eerdere machines. In 1871 werd ze voorgesteld aan de Franse Académie des Sciences. Het MagLab noemt ze de eerste industriële generator.",
+   "take": "Zie je een fietsdynamo of een elektrische auto die remt en oplaadt? Denk aan Gramme: draaiende spoelen in een magneetveld.",
+   "deep": "## Hoe het werkt\n\nEen dynamo zet beweging om in elektriciteit. Wanneer een draadspoel door een magnetisch veld beweegt, ontstaat er een elektrische spanning in die draad, zoals Michael Faraday al ontdekt had. Eerdere machines leverden vooral zwakke of sterk schommelende stroom. Gramme wikkelde draad rond een ijzeren ring, verdeeld in veel kleine spoelen, en liet die ring draaien tussen de polen van een magneet. Via een collector werden de stroompjes van alle spoelen opgeteld tot een vrij constante gelijkstroom. Dat ontwerp heet sindsdien de Gramme-ring.\n\n## Een voorbeeld\n\nGramme groeide op in Haspengouw, leerde in Hannut voor schrijnwerker en trok naar Parijs, waar hij volgens Britannica vanaf 1856 werkte in een fabriek die elektrische toestellen maakte. Als modelmaker zag hij hoe onhandig de machines van toen waren. Hij gebruikte zijn handigheid om er een te bouwen die je urenlang kon laten draaien. Samen met de Franse ingenieur Hippolyte Fontaine opende hij in 1871 een fabriek die Gramme-ringen en -dynamo's produceerde.\n\n## Wat onderzoek zegt\n\nBritannica dateert het ontwerp in 1869 en schrijft dat de machine veel hogere spanningen leverde dan eerdere modellen. In 1871 toonde Gramme een werkend model aan de Académie des Sciences in Parijs. Op de wereldtentoonstelling in Wenen in 1873 bleek, volgens de overlevering per toeval, dat een tweede dynamo ging draaien wanneer je er stroom in stuurde: de machine werkte ook als elektromotor. Het Amerikaanse National MagLab noemt de Gramme-dynamo de eerste industriële generator.\n\n## Nuance of misverstand\n\nGramme vond de dynamo niet uit het niets uit. Hij bouwde voort op Faraday en op de Italiaan Antonio Pacinotti, die rond 1860 al een ringvormig anker had gemaakt. Zijn verdienste was een robuust, praktisch ontwerp dat in fabrieken en lichtinstallaties kon draaien. Gramme stierf in 1901 in Bois-Colombes bij Parijs.\n\n## Wat je ermee doet\n\nKijk anders naar alledaagse technologie: een fietsdynamo, een windmolen en de recuperatierem van een elektrische auto werken op hetzelfde principe van draaiende spoelen in een magneetveld. En als je ooit langs Luik of Hannut komt, weet je dat de wieg van industriële elektriciteit deels in Haspengouw stond.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"40\" y=\"70\" width=\"40\" height=\"80\" fill=\"rgba(255,107,157,0.3)\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"54\" y=\"115\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">N</text>\n<rect x=\"200\" y=\"70\" width=\"40\" height=\"80\" fill=\"rgba(6,214,160,0.3)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"215\" y=\"115\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Z</text>\n<g><animateTransform attributeName=\"transform\" type=\"rotate\" from=\"0 140 110\" to=\"360 140 110\" dur=\"4s\" repeatCount=\"indefinite\"/>\n<circle cx=\"140\" cy=\"110\" r=\"42\" fill=\"none\" stroke=\"#fff\" stroke-width=\"6\" stroke-dasharray=\"4 6\"/>\n<line x1=\"140\" y1=\"68\" x2=\"140\" y2=\"152\" stroke=\"#fff\" stroke-width=\"2\"/></g>\n<path d=\"M140 152 L140 190 L320 190 L320 40 L140 40 L140 68\" stroke=\"#ffd166\" stroke-width=\"2\" fill=\"none\" stroke-dasharray=\"8 8\"><animate attributeName=\"stroke-dashoffset\" from=\"32\" to=\"0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path>\n<circle cx=\"320\" cy=\"115\" r=\"12\" fill=\"rgba(255,209,102,0.3)\" stroke=\"#ffd166\" stroke-width=\"2\"/>\n<text x=\"290\" y=\"146\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">lamp</text>\n<text x=\"96\" y=\"30\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">draaiende ring met spoelen</text>\n<text x=\"150\" y=\"210\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">gelijkstroom, constant</text>\n</svg>",
+   "quiz": {
+    "q": "Wat ontdekten Gramme en Fontaine in 1873 in Wenen?",
+    "o": [
+     "Dat wisselstroom veiliger was",
+     "Dat hun dynamo ook als motor kon werken",
+     "Dat koper door aluminium kon worden vervangen"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Britannica - Zénobe-Théophile Gramme",
+     "u": "https://www.britannica.com/biography/Zenobe-Theophile-Gramme"
+    },
+    {
+     "t": "Britannica - Gramme dynamo",
+     "u": "https://www.britannica.com/technology/Gramme-dynamo"
+    },
+    {
+     "t": "National MagLab - Gramme Dynamo 1871",
+     "u": "https://nationalmaglab.org/magnet-academy/history-of-electricity-magnetism/museum/gramme-dynamo-1871/"
+    },
+    {
+     "t": "Encyclopedia.com - Zénobe-Théophile Gramme",
+     "u": "https://www.encyclopedia.com/people/science-and-technology/electrical-engineering-biographies/zenobe-theophile-gramme"
+    }
+   ],
+   "date": "2026-11-24T05:46:38Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "De rolschaats rolde uit het hoofd van een Hoeienaar",
+   "body": "John Joseph Merlin werd in 1735 in Hoei geboren en trok in 1760 naar Londen. Hij maakte er klokken, rolstoelen en weegtoestellen. Britannica schrijft dat de rolschaats traditioneel aan hem wordt toegeschreven, in de jaren 1760: metalen wieltjes op een rij onder een houten zool. Remmen of sturen kon niet, en volgens de overlevering eindigde zijn demonstratie in een spiegel.",
+   "take": "Ga je rolschaatsen of skeeleren? Oefen eerst remmen en bochten, het stuk dat Merlin oversloeg.",
+   "deep": "## Hoe het werkt\n\nMerlins idee was eenvoudig: neem een schaats zoals op het ijs, maar vervang het ijzer door een rij kleine metalen wieltjes onder een houten zool. Op een gladde vloer kon je zo glijden zoals op een bevroren vijver. Het probleem: de wieltjes stonden vast in één lijn. Je kon dus moeilijk een bocht nemen, en een rem was er niet. Dat maakte de eerste rolschaatsen spectaculair, maar ook gevaarlijk.\n\n## Een voorbeeld\n\nHet bekendste verhaal speelt zich af op een gemaskerd bal in Carlisle House, het feestpaleis van Teresa Cornelys aan Soho Square in Londen. Merlin zou binnengerold zijn terwijl hij viool speelde. Hij kon niet sturen of afremmen, knalde tegen een grote, dure spiegel, en zowel de spiegel als zijn viool gingen aan diggelen; hijzelf raakte gewond. Of het precies zo ging, weet niemand zeker, maar het verhaal maakte hem onsterfelijk als vader van de rolschaats.\n\n## Wat onderzoek zegt\n\nVolgens zijn biografie werd Merlin op 6 september 1735 in Hoei geboren, toen in het prinsbisdom Luik, en stierf hij in 1803 in Londen. Ingenieur John Lienhard van de University of Houston beschrijft hem als een mechanisch wonderkind dat klokken van museumkwaliteit bouwde, een uurwerk dat aangedreven werd door schommelingen in de luchtdruk, en rolstoelen en weegtoestellen. Thomas Gainsborough schilderde zijn portret, dat in Kenwood House in Londen hangt; daar verscheen in 1985 ook de publicatie John Joseph Merlin: the ingenious mechanick.\n\n## Nuance of misverstand\n\nBritannica formuleert het voorzichtig: de uitvinding wordt traditioneel aan Merlin toegeschreven, maar er zijn al eerder berichten over wieltjes onder schaatsen en schoenen. De precieze datum van zijn eerste demonstratie is evenmin zeker. Bovendien werd zijn ontwerp geen succes. De rolschaats zoals we die kennen, met vier wieltjes in twee paren die meedraaien als je overhelt, kwam pas in 1863 van de Amerikaan James Plimpton.\n\n## Wat je ermee doet\n\nVertel het de volgende keer dat iemand denkt dat rolschaatsen of inlineskates een Amerikaanse uitvinding zijn: het eerste bekende ontwerp met wieltjes op een rij kwam van een Belg uit Hoei. En leer vooral uit zijn fout: wie een nieuw toestel test, bedenkt eerst hoe hij stopt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"300\" y=\"40\" width=\"12\" height=\"150\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/>\n<text x=\"250\" y=\"30\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">spiegel</text>\n<line x1=\"10\" y1=\"190\" x2=\"350\" y2=\"190\" stroke=\"#fff\" stroke-width=\"2\"/>\n<g><animateTransform attributeName=\"transform\" type=\"translate\" values=\"0 0;220 0;220 0;0 0\" keyTimes=\"0;0.6;0.8;1\" dur=\"6s\" repeatCount=\"indefinite\"/>\n<rect x=\"20\" y=\"168\" width=\"70\" height=\"8\" rx=\"3\" fill=\"#ffd166\"/>\n<circle cx=\"30\" cy=\"182\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"55\" cy=\"182\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"80\" cy=\"182\" r=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/>\n</g>\n<text x=\"20\" y=\"60\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Merlin, jaren 1760:</text>\n<text x=\"20\" y=\"80\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">wieltjes op een rij, houten zool</text>\n<text x=\"20\" y=\"100\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">geen rem, niet te sturen</text>\n<text x=\"20\" y=\"140\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" fill-opacity=\"1\">dus: recht op de spiegel af</text>\n</svg>",
+   "quiz": {
+    "q": "Wat ontbrak er aan Merlins rolschaatsen uit de jaren 1760?",
+    "o": [
+     "Wieltjes van metaal",
+     "Een houten zool",
+     "Een manier om te remmen en te sturen"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Britannica - Joseph Merlin",
+     "u": "https://www.britannica.com/biography/Joseph-Merlin"
+    },
+    {
+     "t": "Britannica - Roller-skating",
+     "u": "https://www.britannica.com/sports/roller-skating"
+    },
+    {
+     "t": "University of Houston - Engines of Our Ingenuity 630",
+     "u": "https://www.uh.edu/engines/epi630.htm"
+    },
+    {
+     "t": "National Geographic - The roller-skating revolution",
+     "u": "https://www.nationalgeographic.com/history/history-magazine/article/roller-skating-revolution-swept-world-1800s"
+    }
+   ],
+   "date": "2026-11-24T05:46:38Z"
   }
  ],
  "dives": [
