@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T05:45:16Z",
+ "updated": "2026-11-24T05:46:17Z",
  "cards": [
   {
    "cat": "psychologie",
@@ -316,6 +316,326 @@
     }
    ],
    "date": "2026-11-24T05:45:16Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Een dolfijn slaapt met één hersenhelft tegelijk",
+   "body": "Tuimelaars laten telkens maar één hersenhelft in diepe slaap vallen, terwijl de andere wakker blijft. Het oog aan de wakkere kant blijft vaak open. Russische onderzoekers rond Lev Mukhametov maten het vanaf 1973 met EEG: elke helft krijgt zo ongeveer 4 uur diepe slaap per dag.",
+   "take": "Zie je in een dolfinarium of op video een dolfijn traag rondzwemmen met één oog dicht? Dan slaapt hij waarschijnlijk half.",
+   "deep": "## Hoe het werkt\n\nBij de meeste zoogdieren, ook bij jou, slapen beide hersenhelften tegelijk. Dolfijnen en andere walvisachtigen doen het anders. Eén hersenhelft schakelt over naar trage, diepe golven (slow-wave sleep), terwijl de andere een wakker patroon houdt. Na een tijd wisselen ze van rol. Omdat elk oog vooral verbonden is met de tegenovergestelde hersenhelft, gaat meestal het oog dicht dat bij de slapende helft hoort. Rechterhelft in slaap, linkeroog dicht, en omgekeerd. De wakkere helft houdt de omgeving in de gaten en stuurt het zwemmen en ademen bij.\n\n## Een voorbeeld\n\nStel je een tuimelaar voor in een bassin of in open zee. Hij drijft vlak onder het wateroppervlak of zwemt langzaam rondjes, soms naast een groepsgenoot. Hij komt regelmatig boven om te ademen, en één oog blijft open en volgt wat er rondom gebeurt. Voor een toeschouwer lijkt hij gewoon wat te luieren, maar in zijn hoofd ligt de helft van zijn brein in diepe slaap.\n\n## Wat onderzoek zegt\n\nDe Amerikaanse onderzoeker John Lilly vermoedde in 1964 al iets dergelijks, nadat hij dolfijnen met één oog dicht had zien rusten. Het bewijs kwam van Lev Mukhametov en Aleksandr Supin, die in 1973 aan de Zwarte Zee de eerste EEG-metingen deden bij vier tuimelaars. Een overzichtsartikel van Oleg Lyamin, Jerome Siegel en collega's uit 2008 vat het samen: bij elke onderzochte walvisachtige zie je die asymmetrische slaap, en bij de tuimelaar krijgt elke hersenhelft ongeveer 4 uur diepe slaap per dag. Een episode duurt gemiddeld zo'n 42 minuten. Dolfijnen kunnen ook ademen terwijl één helft slaapt.\n\n## Nuance of misverstand\n\nJe hoort vaak dat dolfijnen 'nooit slapen'. Dat klopt niet: ze slapen wel, alleen nooit met het hele brein tegelijk. Een tweede misverstand is dat ze half wakker blijven 'om niet te vergeten ademen'. Dat speelt waarschijnlijk mee, omdat ademen bij dolfijnen een bewuste handeling is, maar onderzoekers noemen ook waakzaamheid voor roofdieren, contact houden met de groep en warm blijven als mogelijke redenen. Opvallend: walvisachtigen tonen nauwelijks of geen REM-slaap, de droomslaap die bij ons zo belangrijk is. Ook sommige zeehonden en vogels kunnen half slapen, maar zij wisselen dat af met gewone slaap.\n\n## Wat je ermee doet\n\nGebruik het als reminder dat 'slaap' niet overal hetzelfde is. Evolutie past zelfs zo'n basisbehoefte aan de omgeving aan. En denk eraan: jij hebt die truc niet. Jouw brein heeft beide helften in slaap nodig, dus doorwerken 'met de helft van je hoofd' bestaat voor jou niet.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Om beurten slapen</text><ellipse cx=\"135\" cy=\"105\" rx=\"50\" ry=\"55\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><ellipse cx=\"225\" cy=\"105\" rx=\"50\" ry=\"55\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><ellipse cx=\"135\" cy=\"105\" rx=\"50\" ry=\"55\" fill=\"#ffd166\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0.7;0.7;0;0;0.7\" keyTimes=\"0;0.4;0.5;0.9;1\" dur=\"8s\" repeatCount=\"indefinite\"/></ellipse><ellipse cx=\"225\" cy=\"105\" rx=\"50\" ry=\"55\" fill=\"#ffd166\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;0.7;0.7;0\" keyTimes=\"0;0.4;0.5;0.9;1\" dur=\"8s\" repeatCount=\"indefinite\"/></ellipse><text x=\"135\" y=\"102\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">linker-</text><text x=\"135\" y=\"117\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">helft</text><text x=\"225\" y=\"102\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">rechter-</text><text x=\"225\" y=\"117\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">helft</text><circle cx=\"70\" cy=\"190\" r=\"9\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"70\" cy=\"190\" r=\"4\" fill=\"#06d6a0\"><animate attributeName=\"r\" values=\"4;4;0;0;4\" keyTimes=\"0;0.4;0.5;0.9;1\" dur=\"8s\" repeatCount=\"indefinite\"/></circle><circle cx=\"290\" cy=\"190\" r=\"9\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"290\" cy=\"190\" r=\"4\" fill=\"#06d6a0\"><animate attributeName=\"r\" values=\"0;0;4;4;0\" keyTimes=\"0;0.4;0.5;0.9;1\" dur=\"8s\" repeatCount=\"indefinite\"/></circle><text x=\"86\" y=\"194\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">linkeroog</text><text x=\"210\" y=\"194\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">rechteroog</text><text x=\"180\" y=\"210\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">geel = slaapt</text></svg>",
+   "quiz": {
+    "q": "Hoe slaapt een tuimelaar?",
+    "o": [
+     "Met één hersenhelft tegelijk, terwijl de andere wakker blijft",
+     "Hij slaapt nooit, want hij moet blijven ademen",
+     "Met beide helften tegelijk, maar alleen aan het wateroppervlak"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Lyamin e.a. 2008, Neurosci. Biobehav. Rev. (UCLA)",
+     "u": "https://teams.semel.ucla.edu/sites/default/files/publications/08%20cetacean%20review%20lyamin%20manger.pdf"
+    },
+    {
+     "t": "Scientific American: Sleeping with half a brain",
+     "u": "https://www.scientificamerican.com/article/sleeping-with-half-a-brain/"
+    },
+    {
+     "t": "Review unihemisferische slaap, 2016 (PubMed)",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/27471418/"
+    }
+   ],
+   "date": "2026-11-24T05:46:17Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Mieren waren boeren lang voor de mens",
+   "body": "Bladsnijdersmieren eten de bladeren die ze sjouwen niet zelf: ze voeden er een schimmel mee, en die schimmel eten ze. Volgens een Smithsonian-studie in Science (2024) begonnen mieren zo'n 66 miljoen jaar geleden met schimmelteelt. De mens doet het pas zo'n 12.000 jaar.",
+   "take": "Zie je mieren met stukjes blad in een documentaire? Denk dan: dat is geen eten, dat is mest voor hun moestuin.",
+   "deep": "## Hoe het werkt\n\nEen bladsnijdersmier knipt met haar kaken een stukje blad uit en draagt het naar het nest. Daar knippen kleinere werksters het fijn, kauwen het tot een pap en leggen het in een ondergrondse kamer. Op die pap groeit een schimmel, meestal Leucoagaricus gongylophorus. De schimmel breekt de taaie plantencellen af die de mieren zelf niet goed kunnen verteren. Hij vormt kleine, voedzame knobbeltjes, en daarmee voeden de mieren vooral hun larven. De werksters zelf drinken daarnaast ook plantensap. Mieren wieden hun tuin ook: ze verwijderen vreemde schimmels en houden de kweek schoon.\n\n## Een voorbeeld\n\nEen volwassen kolonie van het geslacht Atta, in Midden- en Zuid-Amerika, telt soms meer dan vijf miljoen mieren. Britannica beschrijft nesten met meer dan duizend kamers. Wie zo'n nest in een zoo of een tropisch museum ziet, merkt een stoet groene snippers die van een plant naar het nest beweegt. Dat is geen voedselvoorraad: het is de grondstof voor een schimmeltuin die de hele kolonie in leven houdt.\n\n## Wat onderzoek zegt\n\nEen studie in 2008 van Ted Schultz en Seán Brady van het Smithsonian (PNAS) schatte dat mieren al zo'n 50 miljoen jaar schimmels kweken. In 2024 verscheen in Science een groter onderzoek van Schultz en collega's, op basis van DNA van 475 schimmels en 276 miersoorten. Zij schatten het begin op ongeveer 66 miljoen jaar geleden, kort na de inslag van de planetoïde die de dinosauriërs uitroeide. De echt geavanceerde landbouw, waarbij de schimmel volledig afhankelijk werd van de mieren, ontstond pas zo'n 27 miljoen jaar geleden. Vandaag kweken bijna 250 miersoorten in Amerika en de Caraïben schimmels. De bladsnijders zijn de jongste tak.\n\n## Nuance of misverstand\n\nDie 66 miljoen jaar is een schatting met een ruime foutenmarge: de studie geeft plus of min 13 miljoen jaar. Andere publicaties spreken van 45 tot 66 miljoen jaar. Belangrijk is ook dat niet alle schimmelkwekende mieren bladsnijders zijn. De bladsnijders zelf ontstonden veel later, ongeveer 8 tot 12 miljoen jaar geleden. Het is dus juister om te zeggen dat mieren al tientallen miljoenen jaren boeren, en dat bladsnijders de meest gevorderde boeren zijn.\n\n## Wat je ermee doet\n\nOnthoud het als voorbeeld van samenwerking tussen soorten: mier en schimmel kunnen niet meer zonder elkaar. En de volgende keer dat iemand landbouw 'de grote uitvinding van de mens' noemt, kun je glimlachen: mieren waren tienduizenden keren eerder.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Kringloop in het mierennest</text><rect x=\"20\" y=\"70\" width=\"80\" height=\"44\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"60\" y=\"97\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">blad</text><rect x=\"140\" y=\"70\" width=\"80\" height=\"44\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"91\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">gekauwde</text><text x=\"180\" y=\"105\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">pap</text><rect x=\"260\" y=\"70\" width=\"80\" height=\"44\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"300\" y=\"97\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">schimmel</text><rect x=\"140\" y=\"160\" width=\"80\" height=\"44\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"180\" y=\"187\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">larven</text><path d=\"M100 92 H136\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M136 87 L142 92 L136 97 Z\" fill=\"#fff\"/><path d=\"M220 92 H256\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M256 87 L262 92 L256 97 Z\" fill=\"#fff\"/><path d=\"M300 114 V182 H226\" stroke=\"#fff\" stroke-width=\"2\" fill=\"none\"/><path d=\"M226 177 L220 182 L226 187 Z\" fill=\"#fff\"/><path d=\"M140 182 H60 V118\" stroke=\"#fff\" stroke-width=\"2\" fill=\"none\" stroke-dasharray=\"4 4\"/><text x=\"64\" y=\"150\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">werksters</text><circle r=\"5\" fill=\"#06d6a0\"><animateMotion dur=\"6s\" repeatCount=\"indefinite\" path=\"M60 92 H180 H300 V182 H180 H60 V92\"/></circle></svg>",
+   "quiz": {
+    "q": "Wat doen bladsnijdersmieren met de bladeren die ze verzamelen?",
+    "o": [
+     "Ze eten de bladeren zelf als hoofdvoedsel",
+     "Ze voeden er een schimmel mee, die ze daarna eten",
+     "Ze bouwen er alleen hun nest mee"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Smithsonian: Ant agriculture began 66 million years ago",
+     "u": "https://si.edu/es/newsdesk/releases/ant-agriculture-began-66-million-years-ago-aftermath-asteroid-doomed-dinosaurs"
+    },
+    {
+     "t": "ScienceDaily 2008: Ants as fungus farmers",
+     "u": "https://sciencedaily.com/releases/2008/03/080324173459.htm"
+    },
+    {
+     "t": "Britannica: leafcutter ant",
+     "u": "https://www.britannica.com/animal/leafcutter-ant"
+    }
+   ],
+   "date": "2026-11-24T05:46:17Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Elk oog heeft een gat dat je nooit ziet",
+   "body": "Waar de oogzenuw je netvlies verlaat, zitten geen staafjes of kegeltjes. Daar ben je dus blind: een vlek van ongeveer 7,5 bij 5,5 graden, zo'n 15 graden naast je kijkrichting. Je merkt er niets van, omdat je andere oog het gat dekt en je brein de lege plek opvult.",
+   "take": "Test het: sluit je linkeroog, staar naar een kruisje en schuif een stip opzij. Op een bepaalde afstand verdwijnt ze.",
+   "deep": "## Hoe het werkt\n\nJe netvlies zit vol lichtgevoelige cellen: staafjes en kegeltjes. Hun signalen worden verzameld in zenuwvezels die allemaal naar één punt lopen, de papil of optische schijf. Daar verlaten ze samen het oog als oogzenuw, richting hersenen. Op die plek is geen ruimte voor lichtgevoelige cellen. Licht dat daar valt, wordt dus nergens geregistreerd. In je gezichtsveld ligt die blinde vlek ongeveer 12 tot 15 graden opzij van het punt waar je naar kijkt, aan de kant van je slaap, en iets onder de horizon. Ze is ongeveer 7,5 graden hoog en 5,5 graden breed.\n\n## Een voorbeeld\n\nTeken op een papier een kruisje en zo'n acht centimeter rechts ervan een dikke stip. Sluit je linkeroog en kijk met je rechteroog strak naar het kruisje. Beweeg het blad langzaam naar je toe of van je weg. Op een bepaalde afstand, vaak rond 25 tot 35 centimeter, verdwijnt de stip. Je ziet dan geen zwart gat, maar gewoon wit papier. Teken je een lijn door de stip, dan ziet je brein de lijn vaak gewoon doorlopen.\n\n## Wat onderzoek zegt\n\nDe Franse natuurkundige Edme Mariotte beschreef de blinde vlek als eerste in de jaren 1660 en demonstreerde ze zelfs aan het hof van Lodewijk XIV. Britannica en de American Academy of Ophthalmology leggen uit dat je ze zelden opmerkt om twee redenen. Ten eerste vallen de blinde vlekken van je twee ogen niet op dezelfde plek, dus vult het ene oog aan wat het andere mist. Ten tweede 'vult' je brein de leemte in met wat er rondom te zien is. Proeven die Scientific American beschreef, tonen dat dat opvullen vooral lokaal gebeurt: het brein extrapoleert kleuren en patronen van vlak rond de vlek.\n\n## Nuance of misverstand\n\nDe blinde vlek is normaal en geen oogziekte. Het is ook geen 'gat' dat je zwart ziet; je ervaart er gewoon niets, en je brein plakt er iets plausibels overheen. Dat opvullen is een gok, geen waarneming: wat in je blinde vlek valt, zie je echt niet. Opgelet: een plotse nieuwe blinde vlek of donkere plek die je wél opmerkt in je gezichtsveld is iets anders. Dat kan wijzen op een probleem met je netvlies of oogzenuw en verdient een bezoek aan de oogarts.\n\n## Wat je ermee doet\n\nDoe de test met kinderen of vrienden: het is een van de eenvoudigste manieren om te tonen dat je brein actief beelden bouwt in plaats van passief te filmen. En onthoud: wat je 'ziet' is altijd deels een reconstructie.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">De blinde vlek</text><circle cx=\"200\" cy=\"115\" r=\"75\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M275 100 Q300 115 275 130\" stroke=\"#fff\" stroke-width=\"2\" fill=\"none\"/><path d=\"M274 110 H340 M274 120 H340\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"300\" y=\"98\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">zenuw</text><circle cx=\"274\" cy=\"115\" r=\"5\" fill=\"#ff6b9d\"/><path d=\"M10 70 L200 115\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"6 6\" fill=\"none\"><animate attributeName=\"stroke-dashoffset\" values=\"24;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><circle r=\"5\" fill=\"#06d6a0\"><animateMotion dur=\"3s\" repeatCount=\"indefinite\" path=\"M125 115 L274 115\"/><animate attributeName=\"opacity\" values=\"1;1;0\" keyTimes=\"0;0.9;1\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><path d=\"M200 115 L268 152\" stroke=\"#06d6a0\" stroke-width=\"2\" fill=\"none\"/><circle cx=\"268\" cy=\"152\" r=\"4\" fill=\"#06d6a0\"/><text x=\"20\" y=\"195\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">groen: valt op kegeltjes, wordt gezien</text><text x=\"20\" y=\"211\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">roze: papil, geen lichtcellen, niets gezien</text><text x=\"30\" y=\"60\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">licht</text></svg>",
+   "quiz": {
+    "q": "Waarom heeft elk oog een blinde vlek?",
+    "o": [
+     "Omdat daar de lens het licht niet scherp kan bundelen",
+     "Omdat de pupil dat stukje beeld afschermt",
+     "Omdat waar de oogzenuw vertrekt geen staafjes of kegeltjes zitten"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Britannica: blind spot",
+     "u": "https://www.britannica.com/science/blind-spot"
+    },
+    {
+     "t": "American Academy of Ophthalmology: Blind Spot",
+     "u": "https://aao.org/eye-health/anatomy/blind-spot"
+    },
+    {
+     "t": "Scientific American: Mind the Gap",
+     "u": "https://www.scientificamerican.com/article/mind-the-gap/"
+    }
+   ],
+   "date": "2026-11-24T05:46:17Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Na vijf keer rood is zwart niet 'verschuldigd'",
+   "body": "Een roulettewiel heeft geen geheugen: de kans op zwart blijft bij elke draai 18 op 37. Toch denken we dat een reeks 'gecompenseerd' moet worden. In het casino van Monte Carlo viel op 18 augustus 1913 26 keer na elkaar zwart. Spelers verloren fortuinen door telkens op rood te zetten.",
+   "take": "Hoor je jezelf denken 'nu moet het toch eens draaien'? Vraag dan: heeft dit ding een geheugen? Zo niet, verandert de kans niet.",
+   "deep": "## Hoe het werkt\n\nBij onafhankelijke gebeurtenissen beïnvloedt de vorige uitkomst de volgende niet. Een Europees roulettewiel heeft 37 vakjes: 18 rode, 18 zwarte en één groene nul. De kans op zwart is dus bij elke draai 18 op 37, ongeveer 48,6 procent, ongeacht wat er net gebeurde. Ons brein verwacht echter dat een kleine reeks er 'eerlijk' uitziet, met ongeveer evenveel rood als zwart. Zien we vijf keer rood, dan voelt zwart als 'verschuldigd'. Dat heet de gokkersdwaling, of ook de Monte-Carlodwaling.\n\n## Een voorbeeld\n\nJe speelt Lotto en ziet dat het getal 27 al maanden niet meer getrokken is. Dan voelt het alsof 27 nu 'aan de beurt' is. Maar de ballen weten niet welke getallen vorige week vielen; elk getal heeft bij elke trekking dezelfde kans. Hetzelfde geldt voor een ouderpaar met drie zonen dat denkt dat het vierde kind 'zeker' een meisje wordt: de kans blijft ongeveer fifty-fifty.\n\n## Wat onderzoek zegt\n\nHet beroemdste voorbeeld speelde zich af in het casino van Monte Carlo op 18 augustus 1913. Het balletje viel 26 keer op rij op zwart. Volgens verslagen begonnen spelers na een tijd massaal op rood te zetten, in de overtuiging dat de reeks moest breken, en verloren ze miljoenen francs. Wie narekent: de kans op 26 keer dezelfde kleur na elkaar is ongeveer 1 op 67 miljoen. Maar ook na 25 keer zwart was de kans op nog eens zwart gewoon 18 op 37. Statistici en psychologen, onder meer aan de Australische UNSW, beschrijven de dwaling als een gevolg van ons slechte gevoel voor toeval: we verwachten te weinig lange reeksen.\n\n## Nuance of misverstand\n\nDe dwaling geldt alleen voor echt onafhankelijke gebeurtenissen. Bij een stapel kaarten zonder terugleggen verandert de kans wél: als er al veel azen weg zijn, worden azen zeldzamer. Ook is er de omgekeerde denkfout, de 'hot hand': geloven dat een reeks zich juist doorzet. Beide vergissingen ontstaan omdat we patronen zien in toeval. Een heel lange reeks kan wel een signaal zijn dat een wiel scheef staat, maar dan zou je juist op zwart moeten blijven inzetten, niet op rood.\n\n## Wat je ermee doet\n\nBij elke beslissing waarin toeval meespeelt, van gokken tot beleggen, vraag je: hangt deze uitkomst echt af van de vorige? Zo niet, laat de reeks dan los en kijk alleen naar de vaste kans per poging.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Het wiel heeft geen geheugen</text><g transform=\"translate(80 110)\"><g><circle r=\"55\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M0 0 L0 -55 M0 0 L48 -27 M0 0 L48 27 M0 0 L0 55 M0 0 L-48 27 M0 0 L-48 -27\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M0 -55 A55 55 0 0 1 48 -27 L0 0 Z\" fill=\"#ff6b9d\"/><path d=\"M48 27 A55 55 0 0 1 0 55 L0 0 Z\" fill=\"#ff6b9d\"/><path d=\"M-48 27 A55 55 0 0 1 -48 -27 L0 0 Z\" fill=\"#ff6b9d\"/><animateTransform attributeName=\"transform\" type=\"rotate\" from=\"0\" to=\"360\" dur=\"4s\" repeatCount=\"indefinite\"/></g><circle r=\"10\" fill=\"#ffd166\"/></g><rect x=\"170\" y=\"45\" width=\"34\" height=\"34\" rx=\"5\" fill=\"#ff6b9d\"/><rect x=\"210\" y=\"45\" width=\"34\" height=\"34\" rx=\"5\" fill=\"#ff6b9d\"/><rect x=\"250\" y=\"45\" width=\"34\" height=\"34\" rx=\"5\" fill=\"#ff6b9d\"/><rect x=\"290\" y=\"45\" width=\"34\" height=\"34\" rx=\"5\" fill=\"#ff6b9d\"/><rect x=\"170\" y=\"100\" width=\"154\" height=\"44\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"stroke-opacity\" values=\"0.3;1;0.3\" dur=\"3s\" repeatCount=\"indefinite\"/></rect><text x=\"247\" y=\"119\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">volgende draai:</text><text x=\"247\" y=\"136\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">zwart = 18/37</text><text x=\"170\" y=\"96\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">4x rood achter elkaar</text><text x=\"170\" y=\"170\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">elke draai opnieuw 48,6%</text><text x=\"170\" y=\"188\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">verleden telt niet mee</text></svg>",
+   "quiz": {
+    "q": "Op een eerlijk Europees roulettewiel viel net vijf keer rood. Hoe groot is de kans op zwart bij de volgende draai?",
+    "o": [
+     "Groter dan normaal, want zwart is 'aan de beurt'",
+     "Gewoon 18 op 37, net als altijd",
+     "Kleiner, want rood zit duidelijk in een reeks"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "UNSW: The hot hand and the gambler's fallacy",
+     "u": "https://www.unsw.edu.au/newsroom/news/2025/01/the-hot-hand-and-the-gamblers-fallacy-why-our-brains-struggle-to-believe-in-randomness"
+    },
+    {
+     "t": "Live Science: the science of gambling fallacies",
+     "u": "https://livescience.com/44700-wizard-of-odds-or-even-steven-the-science-of-gambling-fallacies.html"
+    },
+    {
+     "t": "Medical Journal of Australia: The Monte Carlo fallacy",
+     "u": "https://www.mja.com.au/journal/2011/195/7/monte-carlo-fallacy"
+    }
+   ],
+   "date": "2026-11-24T05:46:17Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Wat rijmt, klinkt waarder, ook als het niet klopt",
+   "body": "In 2000 lieten psychologen Matthew McGlone en Jessica Tofighbakhsh mensen spreuken beoordelen. 'What sobriety conceals, alcohol reveals' vonden ze juister dan 'what sobriety conceals, alcohol unmasks', hoewel beide hetzelfde zeggen. Het effect verzwakte als proefpersonen eerst gewaarschuwd werden om vorm en inhoud te scheiden.",
+   "take": "Klinkt een slogan of oneliner overtuigend? Herformuleer hem zonder rijm en vraag je af of je hem dan nog gelooft.",
+   "deep": "## Hoe het werkt\n\nEen zin die rijmt, verwerk je makkelijker. Je brein herkent het klankpatroon, onthoudt de zin beter en leest hem vlotter. Psychologen noemen dat verwerkingsgemak of 'fluency'. Het probleem: we gebruiken dat gemak stiekem als signaal voor waarheid. Wat soepel binnenkomt, voelt vertrouwd, en wat vertrouwd voelt, lijkt juist. Rijm geeft een uitspraak zo een gevoel van evidentie dat los staat van de inhoud.\n\n## Een voorbeeld\n\nVergelijk 'Oost west, thuis best' met 'Oost west, thuis het fijnst'. Beide zeggen hetzelfde, maar de eerste klinkt als een wijsheid en de tweede als een mening. Reclame en politiek maken daar dankbaar gebruik van. Een bekend Amerikaans voorbeeld is de zin van advocaat Johnnie Cochran in het proces tegen O.J. Simpson in 1995: 'If it doesn't fit, you must acquit.' Die rijmende zin bleef hangen bij jury en publiek.\n\n## Wat onderzoek zegt\n\nMatthew McGlone en Jessica Tofighbakhsh publiceerden in 2000 in Psychological Science het artikel 'Birds of a feather flock conjointly (?): Rhyme as reason in aphorisms'. Proefpersonen beoordeelden onbekende spreuken, ofwel in hun originele rijmende vorm, ofwel in een herschreven vorm met dezelfde betekenis maar zonder rijm. De rijmende versies werden als juister beoordeeld. Een voorbeeld: 'What sobriety conceals, alcohol reveals' scoorde beter dan 'What sobriety conceals, alcohol unmasks'. Toen de onderzoekers mensen vooraf vroegen om de poëtische kwaliteit los te zien van de inhoud, werd het effect kleiner. Een jaar eerder hadden dezelfde onderzoekers het fenomeen al de 'Keats-heuristiek' genoemd.\n\n## Nuance of misverstand\n\nHet gaat om een gevoel van waarheid bij uitspraken die je nog niet kende; rijm verandert je mening over vaste feiten niet zomaar. De studie werkte met Engelstalige spreuken en studenten, en het effect is niet gigantisch. Rijm is bovendien niet de enige oorzaak: ook een duidelijk lettertype of herhaling verhoogt het verwerkingsgemak en daarmee de geloofwaardigheid. En rijm is niet slecht: het helpt je dingen te onthouden. Het probleem ontstaat pas als je 'klinkt goed' verwart met 'klopt'.\n\n## Wat je ermee doet\n\nGebruik het in twee richtingen. Wil je zelf iets laten onthouden, bijvoorbeeld een veiligheidsregel op het werk, dan helpt een rijmpje. Krijg je een rijmende slogan voorgeschoteld, vertaal hem dan in gewone woorden en beoordeel de inhoud. Dat kleine trucje schakelt de klankmagie grotendeels uit.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Hoe geloofwaardig klinkt het?</text><rect x=\"20\" y=\"40\" width=\"150\" height=\"50\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"95\" y=\"62\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Oost west,</text><text x=\"95\" y=\"78\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">thuis best</text><rect x=\"190\" y=\"40\" width=\"150\" height=\"50\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"265\" y=\"62\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Oost west,</text><text x=\"265\" y=\"78\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">thuis het fijnst</text><path d=\"M30 195 H330\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"65\" y=\"195\" width=\"60\" height=\"0\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"0;80;80;0\" keyTimes=\"0;0.4;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"195;115;115;195\" keyTimes=\"0;0.4;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"235\" y=\"195\" width=\"60\" height=\"0\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"0;55;55;0\" keyTimes=\"0;0.4;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"195;140;140;195\" keyTimes=\"0;0.4;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"95\" y=\"212\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">met rijm</text><text x=\"265\" y=\"212\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">zonder rijm</text><text x=\"180\" y=\"108\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">zelfde inhoud</text></svg>",
+   "quiz": {
+    "q": "Wat vonden McGlone en Tofighbakhsh (2000)?",
+    "o": [
+     "Rijmende spreuken worden als minder ernstig en dus minder waar gezien",
+     "Rijm maakt alleen kinderen ontvankelijker",
+     "Rijmende versies van een spreuk worden als juister beoordeeld dan niet-rijmende met dezelfde betekenis"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "McGlone & Tofighbakhsh 2000, Psychological Science (PubMed)",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/11228916/"
+    },
+    {
+     "t": "Psychology Today: Sounds True to Me",
+     "u": "https://www.psychologytoday.com/us/articles/199809/sounds-true-to-me"
+    },
+    {
+     "t": "Big Think: rhyme as reason",
+     "u": "https://bigthink.com/neuropsych/rhyme-as-reason/"
+    }
+   ],
+   "date": "2026-11-24T05:46:17Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Je scherm toont geen geel, alleen rood plus groen",
+   "body": "Elke pixel op je gsm of tv bestaat uit drie piepkleine lichtjes: rood, groen en blauw. Door ze elk feller of zwakker te laten branden, mengt je oog er miljoenen kleuren uit. Rood plus groen zie je als geel, alle drie vol samen als wit. Een geel subpixel bestaat meestal niet.",
+   "take": "Leg een druppel water of een vergrootglas op je scherm en kijk naar iets wits: je ziet de rode, groene en blauwe streepjes.",
+   "deep": "## Hoe het werkt\n\nEen kleurenscherm is een raster van pixels, en elke pixel is opgedeeld in subpixels: meestal één rode, één groene en één blauwe. Bij een lcd-scherm schijnt een witte achtergrondverlichting door kleurfilters, en per subpixel regelen vloeibare kristallen hoeveel licht erdoor mag. Bij oled geeft elk subpixel zelf licht. Omdat de subpixels zo klein zijn, kan je oog ze op normale afstand niet apart zien. De lichtjes vloeien samen tot één kleur. Dat heet additieve kleurmenging: je telt licht bij elkaar op. Geen licht geeft zwart, rood plus groen geeft geel, groen plus blauw geeft cyaan, en alle drie vol geeft wit.\n\n## Een voorbeeld\n\nKijk naar het gele logo van een app op je gsm. In werkelijkheid zendt dat stukje scherm geen geel licht uit. De rode en groene subpixels branden fel, de blauwe bijna niet. Je oog krijgt rood en groen licht binnen en je brein maakt er geel van. Met een vergrootglas, een macrolens of een waterdruppel op het scherm zie je de afzonderlijke kleurtjes, zoals Harvard en Ohio University het in hun lesdemonstraties tonen.\n\n## Wat onderzoek zegt\n\nDat drie kleuren volstaan, heeft met jouw ogen te maken. Thomas Young stelde in 1802 al voor dat het oog drie soorten lichtgevoelige cellen heeft. We weten nu dat dat klopt: de kegeltjes zijn het gevoeligst voor korte, middellange en lange golflengten, met pieken rond 420, 530 en 560 nanometer. Je brein vergelijkt hoe sterk elk type reageert. Twee totaal verschillende lichtmengsels die de drie kegeltjes op dezelfde manier prikkelen, zien er voor jou identiek uit. Een zuiver geel laserlicht en een mengsel van rood en groen kunnen dus precies dezelfde kleur lijken. Een scherm buit dat uit.\n\n## Nuance of misverstand\n\nDe kegeltjes worden vaak 'rood, groen en blauw' genoemd, maar hun gevoeligheid overlapt sterk, en de 'rode' kegel reageert het best op geelgroen licht. Ook kan een RGB-scherm niet elke kleur tonen die je kunt zien: het bereik zit opgesloten in de driehoek tussen de drie gekozen primaire kleuren. Daarom adverteren fabrikanten met hoe groot hun kleurbereik is. Sommige schermen voegen een witte of extra subpixel toe, en de schikking verschilt per type scherm.\n\n## Wat je ermee doet\n\nStel je ooit de kleuren van je scherm of een digitaal ontwerp in, denk dan in licht en niet in verf. Bij verf geeft rood plus groen bruin; op een scherm geeft het geel. Dat verschil verklaart waarom een geprint ontwerp er vaak anders uitziet dan op je monitor.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Eén pixel, drie lichtjes</text><rect x=\"40\" y=\"50\" width=\"30\" height=\"110\" rx=\"4\" fill=\"#ff4d4d\"/><rect x=\"80\" y=\"50\" width=\"30\" height=\"110\" rx=\"4\" fill=\"#06d6a0\"/><rect x=\"120\" y=\"50\" width=\"30\" height=\"110\" rx=\"4\" fill=\"#4d7dff\"><animate attributeName=\"opacity\" values=\"1;0.08;0.08;1\" keyTimes=\"0;0.2;0.8;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"32\" y=\"42\" width=\"126\" height=\"126\" rx=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M175 105 H220\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M220 100 L226 105 L220 110 Z\" fill=\"#fff\"/><text x=\"200\" y=\"96\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">oog</text><circle cx=\"285\" cy=\"105\" r=\"45\" fill=\"#fff\"><animate attributeName=\"fill\" values=\"#ffffff;#ffe14d;#ffe14d;#ffffff\" keyTimes=\"0;0.2;0.8;1\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><text x=\"95\" y=\"188\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">rood, groen, blauw</text><text x=\"285\" y=\"175\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">alle drie = wit</text><text x=\"285\" y=\"193\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">zonder blauw = geel</text></svg>",
+   "quiz": {
+    "q": "Hoe toont een gewoon RGB-scherm de kleur geel?",
+    "o": [
+     "Door rode en groene subpixels samen te laten branden",
+     "Met een apart geel subpixel",
+     "Door blauw licht te filteren uit een gele lamp"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Harvard Science Demonstrations: TV Color Perception",
+     "u": "https://sciencedemonstrations.fas.harvard.edu/presentations/tv-color-perception"
+    },
+    {
+     "t": "UNSW Physics: Colour mixing and colour vision",
+     "u": "https://animations.physics.unsw.edu.au/jw/light/colour-mixing.htm"
+    },
+    {
+     "t": "Stanford CS248: color (slide)",
+     "u": "https://gfxcourses.stanford.edu/cs248/winter21/lecture/color/slide_77"
+    }
+   ],
+   "date": "2026-11-24T05:46:17Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Je e-reader verbruikt niets terwijl je een pagina leest",
+   "body": "Een e-ink-scherm bestaat uit miljoenen microcapsules zo dun als een haar, met positief geladen witte en negatief geladen zwarte pigmentdeeltjes. Een spanning trekt de ene of de andere soort naar boven. Daarna blijven ze liggen, ook zonder stroom. Alleen omslaan kost energie. Daarom gaat je e-reader wekenlang mee.",
+   "take": "Zet je e-reader in vliegtuigmodus en laat het scherm gewoon aan bij een pauze: een stilstaande pagina kost bijna geen batterij.",
+   "deep": "## Hoe het werkt\n\nEen e-ink-scherm is een elektroforetisch scherm. Tussen twee lagen elektroden zit een film met miljoenen microcapsules, elk ongeveer zo breed als een mensenhaar. In elke capsule zweven in een heldere vloeistof positief geladen witte deeltjes en negatief geladen zwarte deeltjes. Zet je een elektrische spanning op een stukje scherm, dan worden de deeltjes met de tegengestelde lading naar boven getrokken. Witte deeltjes boven: je ziet wit. Zwarte boven: je ziet zwart. Het cruciale punt: als de spanning wegvalt, blijven de deeltjes waar ze zijn. Het scherm is 'bistabiel'. Een beeld vasthouden kost dus geen stroom, alleen het veranderen ervan.\n\n## Een voorbeeld\n\nJe leest in de trein van Gent naar Brussel een roman op je e-reader. Bij elke blaadjesbeweging verschuiven de deeltjes, en dat kost even energie. Maar terwijl je een minuut op dezelfde pagina leest, verbruikt het scherm zelf niets. Een gsm-scherm moet daarentegen tientallen keren per seconde opnieuw opgebouwd worden en verlicht blijven. Daarom houdt een e-reader het vaak weken vol op één lading, en een gsm meestal een dag.\n\n## Wat onderzoek zegt\n\nElektronische inkt werd ontwikkeld aan het MIT Media Lab door professor Joseph Jacobson met studenten Barrett Comiskey en JD Albert. In 1997 richtten zij met anderen het bedrijf E Ink op. In 1998 verscheen in Nature hun artikel 'An electrophoretic ink for all-printed reflective electronic displays', de doorbraak die elektronisch papier mogelijk maakte. Het bedrijf beschrijft zijn schermen zelf als bistabiel. Kleurversies werken met meer soorten pigmentdeeltjes, bijvoorbeeld vier die verschillen in grootte en lading.\n\n## Nuance of misverstand\n\n'Geen stroom' geldt voor het scherm met een stilstaand beeld, niet voor het hele toestel. De processor, wifi en vooral het leeslampje verbruiken wel energie. Ook omslaan is niet gratis. En omdat de deeltjes echt fysiek door een vloeistof moeten bewegen, is e-ink traag. Daardoor is het ongeschikt voor video. Soms zie je een korte zwarte flits bij het omslaan: dat is het scherm dat restjes van het vorige beeld wegveegt. E-ink straalt ook zelf geen licht uit; het weerkaatst omgevingslicht, net als papier, en is daardoor goed leesbaar in de zon.\n\n## Wat je ermee doet\n\nKies voor lange leessessies een e-reader boven een tablet als batterijduur telt. Dim het leeslampje zoveel mogelijk, want dat verbruikt meer dan het scherm zelf. En weet dat sommige elektronische prijsetiketjes in winkels op hetzelfde principe werken.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Een microcapsule in je e-reader</text><rect x=\"60\" y=\"40\" width=\"120\" height=\"8\" fill=\"#fff\"/><rect x=\"60\" y=\"182\" width=\"120\" height=\"8\" fill=\"#fff\"/><ellipse cx=\"120\" cy=\"115\" rx=\"45\" ry=\"58\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><g><animateTransform attributeName=\"transform\" type=\"translate\" values=\"0 0;0 0;0 70;0 70;0 0\" keyTimes=\"0;0.4;0.5;0.9;1\" dur=\"8s\" repeatCount=\"indefinite\"/><circle cx=\"105\" cy=\"75\" r=\"7\" fill=\"#fff\"/><circle cx=\"122\" cy=\"72\" r=\"7\" fill=\"#fff\"/><circle cx=\"138\" cy=\"77\" r=\"7\" fill=\"#fff\"/></g><g><animateTransform attributeName=\"transform\" type=\"translate\" values=\"0 0;0 0;0 -70;0 -70;0 0\" keyTimes=\"0;0.4;0.5;0.9;1\" dur=\"8s\" repeatCount=\"indefinite\"/><circle cx=\"105\" cy=\"152\" r=\"7\" fill=\"#222\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"122\" cy=\"156\" r=\"7\" fill=\"#222\" stroke=\"#fff\" stroke-width=\"1\"/><circle cx=\"138\" cy=\"151\" r=\"7\" fill=\"#222\" stroke=\"#fff\" stroke-width=\"1\"/></g><text x=\"120\" y=\"210\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">wit +, zwart -</text><text x=\"210\" y=\"60\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">stroom</text><rect x=\"210\" y=\"70\" width=\"130\" height=\"30\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"212\" y=\"72\" width=\"0\" height=\"26\" fill=\"#ffd166\"><animate attributeName=\"width\" values=\"0;0;126;0;0;126;0;0\" keyTimes=\"0;0.39;0.45;0.5;0.89;0.95;0.99;1\" dur=\"8s\" repeatCount=\"indefinite\"/></rect><text x=\"210\" y=\"130\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">alleen bij omslaan</text><text x=\"210\" y=\"150\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">stilstaand beeld:</text><text x=\"210\" y=\"168\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">deeltjes blijven liggen</text></svg>",
+   "quiz": {
+    "q": "Waarom kost een stilstaande pagina op een e-ink-scherm (bijna) geen stroom?",
+    "o": [
+     "Omdat het scherm het beeld in een geheugenchip bewaart en ververst",
+     "Omdat de geladen pigmentdeeltjes blijven liggen als de spanning wegvalt",
+     "Omdat het scherm dan automatisch uitschakelt en een foto toont"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "E Ink: What is e-paper",
+     "u": "https://www.eink.com/what-is-e-paper.html"
+    },
+    {
+     "t": "MIT Media Lab: How E Ink developed full-color e-paper",
+     "u": "https://www.media.mit.edu/articles/how-e-ink-developed-full-color-e-paper"
+    },
+    {
+     "t": "Science Friday: How electronic ink was invented",
+     "u": "https://www.sciencefriday.com/articles/how-electronic-ink-was-invented/"
+    }
+   ],
+   "date": "2026-11-24T05:46:17Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Het topwoord komt dubbel zo vaak als nummer twee",
+   "body": "Rangschik de woorden van een grote tekst naar hoe vaak ze voorkomen. Dan blijkt woord nummer twee ongeveer half zo vaak voor te komen als nummer één, nummer drie een derde zo vaak. In het Engelse Brown-corpus staat 'the' 69.971 keer op ruim een miljoen woorden, 'of' 36.411 keer.",
+   "take": "Leer je een nieuwe taal? Begin met de paar honderd frequentste woorden: die dekken een groot deel van elke gewone tekst.",
+   "deep": "## Hoe het werkt\n\nDe wet van Zipf zegt dat de frequentie van een woord ongeveer omgekeerd evenredig is met zijn rang. Zet je alle woorden van een groot tekstcorpus op een lijst, van vaakst naar minst vaak gebruikt, dan komt het woord op plaats 2 ongeveer half zo vaak voor als dat op plaats 1, het woord op plaats 3 ongeveer een derde zo vaak, op plaats 10 een tiende. Gevolg: een handvol kleine woordjes zoals lidwoorden en voorzetsels maakt een groot stuk van elke tekst uit, terwijl de overgrote meerderheid van de woorden zeldzaam is.\n\n## Een voorbeeld\n\nIn het Brown-corpus, een verzameling van ruim een miljoen woorden Amerikaans-Engelse tekst, is 'the' het vaakste woord: 69.971 keer, bijna 7 procent van alle woorden. Op plaats twee staat 'of' met 36.411 keer, iets meer dan 3,5 procent. Dat is bijna exact de helft. In een Nederlandstalige tekst zie je hetzelfde soort patroon: kleine woordjes als 'de', 'het', 'en' en 'van' domineren, terwijl een woord als 'kaasschaaf' er misschien maar één keer in voorkomt.\n\n## Wat onderzoek zegt\n\nDe Amerikaanse taalkundige George Kingsley Zipf (1902-1950) maakte het verband bekend in de jaren 1930. Volgens Britannica beschreef hij het in 1932, en Zipf erkende zelf dat de Franse stenograaf Jean-Baptiste Estoup het al in 1916 had opgemerkt. Britannica vat het zo samen: in het Engels is het vaakste woord goed voor een flink deel van een typische tekst, het tweede voor ongeveer de helft daarvan. Hetzelfde patroon duikt op in veel talen, en buiten taal ook bij bijvoorbeeld de grootte van steden.\n\n## Nuance of misverstand\n\nHet is een empirische vuistregel, geen natuurwet. De verhouding klopt bij benadering en niet voor elke rang even goed. Britannica merkt op dat het patroon voorbij ongeveer rang 1.000 volledig instort. Ook de precieze percentages hangen af van het corpus: in de ene verzameling is 'the' goed voor 7 procent, in een andere bron lees je een tiende. Waarom de wet zo vaak opduikt, is nog steeds onderwerp van discussie. Zipf zelf zocht de verklaring in een principe van minste inspanning, maar er bestaan veel concurrerende verklaringen.\n\n## Wat je ermee doet\n\nGebruik het als leerstrategie. Wie een taal leert, haalt het meeste rendement uit de frequentste woorden eerst: zij komen in elke zin terug. Apps en woordenlijsten die op frequentie gebaseerd zijn, benutten precies dat. En bij het schrijven: let op je eigen stopwoordjes, want die komen vaker voor dan je denkt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Frequentie volgt 1, 1/2, 1/3 ...</text><path d=\"M40 190 H340 M40 190 V35\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"55\" y=\"190\" width=\"40\" height=\"0\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"0;150;150;0\" keyTimes=\"0;0.3;0.9;1\" dur=\"7s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"190;40;40;190\" keyTimes=\"0;0.3;0.9;1\" dur=\"7s\" repeatCount=\"indefinite\"/></rect><rect x=\"110\" y=\"190\" width=\"40\" height=\"0\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"0;75;75;0\" keyTimes=\"0;0.3;0.9;1\" dur=\"7s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"190;115;115;190\" keyTimes=\"0;0.3;0.9;1\" dur=\"7s\" repeatCount=\"indefinite\"/></rect><rect x=\"165\" y=\"190\" width=\"40\" height=\"0\" fill=\"#ff6b9d\"><animate attributeName=\"height\" values=\"0;50;50;0\" keyTimes=\"0;0.3;0.9;1\" dur=\"7s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"190;140;140;190\" keyTimes=\"0;0.3;0.9;1\" dur=\"7s\" repeatCount=\"indefinite\"/></rect><rect x=\"220\" y=\"190\" width=\"40\" height=\"0\" fill=\"rgba(255,255,255,0.5)\"><animate attributeName=\"height\" values=\"0;37;37;0\" keyTimes=\"0;0.3;0.9;1\" dur=\"7s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"190;153;153;190\" keyTimes=\"0;0.3;0.9;1\" dur=\"7s\" repeatCount=\"indefinite\"/></rect><rect x=\"275\" y=\"190\" width=\"40\" height=\"0\" fill=\"rgba(255,255,255,0.5)\"><animate attributeName=\"height\" values=\"0;30;30;0\" keyTimes=\"0;0.3;0.9;1\" dur=\"7s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"190;160;160;190\" keyTimes=\"0;0.3;0.9;1\" dur=\"7s\" repeatCount=\"indefinite\"/></rect><text x=\"75\" y=\"206\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">nr 1</text><text x=\"130\" y=\"206\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">nr 2</text><text x=\"185\" y=\"206\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">nr 3</text><text x=\"240\" y=\"206\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">nr 4</text><text x=\"295\" y=\"206\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">nr 5</text><text x=\"160\" y=\"60\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">'the' 69.971x</text><text x=\"160\" y=\"78\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">'of' 36.411x</text></svg>",
+   "quiz": {
+    "q": "Volgens de wet van Zipf: hoe vaak komt het derde frequentste woord ongeveer voor?",
+    "o": [
+     "Ongeveer een derde zo vaak als het frequentste woord",
+     "Ongeveer even vaak als het frequentste woord",
+     "Ongeveer drie keer zo vaak als het tweede woord"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Britannica: Zipf's law",
+     "u": "https://www.britannica.com/topic/Zipfs-law"
+    },
+    {
+     "t": "Plus Magazine (Cambridge): The mystery of Zipf",
+     "u": "https://plus.maths.org/content/mystery-zipf"
+    },
+    {
+     "t": "NIST Dictionary of Algorithms: Zipf's law",
+     "u": "https://xlinux.nist.gov/dads/HTML/zipfslaw.html"
+    }
+   ],
+   "date": "2026-11-24T05:46:17Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Ging Pompeii pas in oktober ten onder?",
+   "body": "Schoolboeken zeggen 24 augustus 79, op basis van een brief van Plinius de Jongere. Maar in 2018 vonden archeologen in Pompeii een houtskoolopschrift gedateerd op 17 oktober. Toenmalig parkdirecteur Massimo Osanna opperde daarom 24 oktober. Herfstvruchten en een munt wijzen dezelfde kant uit. Het debat is nog niet beslecht.",
+   "take": "Lees je een 'vaststaande' historische datum? Vraag waar ze vandaan komt: vaak hangt ze aan één bron die zelf onzeker is.",
+   "deep": "## Hoe het werkt\n\nDe bekende datum, 24 augustus 79 na Christus, komt uit een brief van Plinius de Jongere aan de geschiedschrijver Tacitus. Plinius zag de uitbarsting van de Vesuvius als tiener vanaf de overkant van de baai. Maar zijn brieven kennen we alleen via middeleeuwse kopieën, en die geven niet allemaal dezelfde datum. Archeologen kijken daarom ook naar wat in de stad zelf bewaard bleef: voedsel, kleding, munten en opschriften. Samen kunnen die aanwijzingen een seizoen suggereren.\n\n## Een voorbeeld\n\nIn 2018 legden archeologen in het Huis met de Tuin, in een deel van Pompeii dat toen werd opgegraven, een opschrift in houtskool bloot. Het verwijst naar 'de zestiende dag voor de kalenden van november', wat overeenkomt met 17 oktober. Een jaartal staat er niet bij. Omdat houtskool kwetsbaar is, redeneerde parkdirecteur Massimo Osanna dat het opschrift kort voor de ramp moest zijn gemaakt, dus in oktober 79. Hij stelde 24 oktober voor als waarschijnlijke datum.\n\n## Wat onderzoek zegt\n\nDie vondst paste in een langer debat. Volgens een overzicht van het Getty Museum vonden archeologen eerder al granaatappels en walnoten, die pas in de herfst geoogst worden, afgesloten wijnvaten die wijzen op een afgeronde druivenoogst, en een munt met een titel van keizer Titus die volgens sommigen pas na begin september 79 kan zijn geslagen. Tegenstanders antwoorden dat Romeinen fruit bewaarden en dat de datering van de munt omstreden is. In 2024 liet het archeologisch park een proef uitvoeren: op 12 oktober 2023 schreven experts een nieuw houtskoolopschrift op dezelfde muur. Op 24 augustus 2024 was het nog perfect leesbaar. Het opschrift uit 2018 kan dus ook van oktober 78 zijn.\n\n## Nuance of misverstand\n\nDe kop 'Pompeii ging in oktober ten onder' is te stellig. De herfstdatum is een sterke hypothese met verschillende aanwijzingen, maar geen bewezen feit. Het park zelf noemde zijn proef 'geen eindpunt maar een bijdrage aan het debat'. Op een internationale conferentie in Pompeii in november 2025 raakten onderzoekers het nog altijd niet eens. Wat vaststaat: het jaar 79 en dat de stad onder as en puimsteen verdween.\n\n## Wat je ermee doet\n\nGebruik Pompeii als oefening in bronkritiek. Als je ergens een exacte datum leest, vraag je af hoeveel bronnen die echt dragen, en of andere sporen hem bevestigen. Bezoek je Pompeii ooit, let dan op hoe archeologen uit kleine dingen, zoals fruitresten en een krabbel op een muur, grote vragen proberen te beantwoorden.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Wanneer barstte de Vesuvius uit?</text><path d=\"M30 80 L70 30 L110 80 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"70\" cy=\"22\" r=\"6\" fill=\"#ff6b9d\"><animate attributeName=\"r\" values=\"4;9;4\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><path d=\"M30 140 H330\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"70\" cy=\"140\" r=\"7\" fill=\"#fff\"/><text x=\"70\" y=\"165\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">24 aug</text><text x=\"70\" y=\"180\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Plinius</text><circle cx=\"230\" cy=\"140\" r=\"7\" fill=\"#06d6a0\"/><text x=\"230\" y=\"120\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">17 okt</text><text x=\"230\" y=\"105\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">houtskool</text><circle cx=\"290\" cy=\"140\" r=\"7\" fill=\"#ffd166\"/><text x=\"295\" y=\"165\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">24 okt?</text><text x=\"295\" y=\"180\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">hypothese</text><path d=\"M70 140 H290\" stroke=\"#ffd166\" stroke-width=\"3\" stroke-dasharray=\"8 6\"><animate attributeName=\"stroke-dashoffset\" values=\"28;0\" dur=\"2s\" repeatCount=\"indefinite\"/></path><text x=\"180\" y=\"208\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">jaar 79 staat vast, de dag niet</text></svg>",
+   "quiz": {
+    "q": "Welke vondst uit 2018 zette vraagtekens bij de datum 24 augustus 79?",
+    "o": [
+     "Een munt met de exacte datum van de uitbarsting erop",
+     "Een brief van Plinius met een andere datum",
+     "Een houtskoolopschrift dat naar 17 oktober verwijst"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Archaeology (AIA): New thoughts on Pompeii's last day",
+     "u": "https://archaeology.org/news/2018/10/16/181016-pompeii-date-inscription/"
+    },
+    {
+     "t": "Getty: When did Vesuvius erupt?",
+     "u": "https://www.getty.edu/news/when-did-vesuvius-erupt-august-october-24/"
+    },
+    {
+     "t": "Artnet News: Pompeii eruption date debate",
+     "u": "https://news.artnet.com/art-world/pompeii-pliny-vesuvius-eruption-date-2587228"
+    }
+   ],
+   "date": "2026-11-24T05:46:17Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "Een beetje spanning helpt, maar niet voor alles evenveel",
+   "body": "In 1908 trainden Robert Yerkes en John Dodson aan Harvard 'dansmuizen' om een witte van een zwarte doorgang te onderscheiden, met een schokje bij een fout. Bij een makkelijke keuze leerden ze sneller met sterkere schokken, bij een moeilijke keuze werkte een middelmatige schok het best. De beroemde 'omgekeerde U' kwam pas later.",
+   "take": "Moeilijke, nieuwe taak? Kalmeer eerst. Saai routinewerk? Een strakkere deadline of wat tempo mag dan best.",
+   "deep": "## Hoe het werkt\n\nHet idee achter de Yerkes-Dodsonwet: een prikkel of spanning kan je prestaties eerst verbeteren, tot een punt waarop meer spanning begint te schaden. Het optimum hangt af van de taak. Bij een eenvoudige taak die je goed kent, mag de druk flink oplopen voor ze schadelijk wordt. Bij een moeilijke taak, waarbij je fijn moet onderscheiden of nadenken, ligt het optimum lager. Te veel spanning maakt je dan slordig of doet je blokkeren.\n\n## Een voorbeeld\n\nDenk aan een student die thuis vlot zijn cursus samenvat, maar op het mondeling examen in Leuven dichtklapt bij een lastige vraag. Een beetje zenuwen hielden hem tijdens het blokken scherp, maar te veel spanning op een moeilijk moment werkt tegen. Dezelfde persoon kan onder tijdsdruk wel perfect een stapel facturen inboeken: dat is routinewerk, en daar helpt wat tempo eerder.\n\n## Wat onderzoek zegt\n\nRobert Yerkes en John Dodson publiceerden hun studie in 1908. Hun muizen moesten kiezen tussen een witte en een zwarte doorgang; wie de zwarte koos, kreeg een elektrisch schokje. De moeilijkheid regelden ze via het verschil in helderheid tussen de twee doorgangen. Bij de makkelijke versie leerden de muizen sneller naarmate de schok sterker was. Bij de moeilijkste versie leerden ze het snelst met een middelmatige schok. Volgens latere bronnen werd het patroon nadien ook bij katten, ratten en mensen gevonden. Neurowetenschapper David Diamond en collega's noemden het in 2007 een veel geciteerd maar slecht begrepen principe: het verband tussen spanning en prestatie kan rechtlijnig of gebogen zijn, afhankelijk van de moeilijkheid van de taak.\n\n## Nuance of misverstand\n\nDe bekende grafiek met de omgekeerde U, waarbij 'arousal' of stress op de as staat, komt niet uit het artikel van 1908. De Noorse psycholoog Karl Halvor Teigen toonde in 1994 dat latere auteurs de wet stap voor stap herschreven: de schokken werden 'opwinding', de taakmoeilijkheid viel soms helemaal weg, en toch bleef de naam van Yerkes en Dodson eraan hangen. Het oorspronkelijke onderzoek was bovendien klein, met soms maar enkele muizen per groep en zonder statistische toetsen. Een heranalyse door Bäumler in 1994 vond slechts zwakke steun in de originele gegevens. De wet is dus eerder een nuttige vuistregel dan een harde natuurwet.\n\n## Wat je ermee doet\n\nStem je spanning af op de taak. Voor moeilijk denkwerk zoek je rust: geen meldingen, geen krappe deadline, eventueel eerst even ademhalen of wandelen. Voor eenvoudig, saai werk kun je spanning juist inzetten, bijvoorbeeld met een timer of een duidelijke tussentijdse deadline. En neem de omgekeerde U niet als excuus om jezelf bewust te stresseren: het optimum ligt vaak lager dan je denkt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Spanning en prestatie per taak</text><path d=\"M40 185 H340 M40 185 V35\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M40 175 Q180 140 330 50\" stroke=\"#06d6a0\" stroke-width=\"2\" fill=\"none\"/><path d=\"M40 175 Q150 20 300 175\" stroke=\"#ffd166\" stroke-width=\"2\" fill=\"none\"/><circle r=\"6\" fill=\"#ffd166\"><animateMotion dur=\"6s\" repeatCount=\"indefinite\" path=\"M40 175 Q150 20 300 175\"/></circle><circle r=\"6\" fill=\"#06d6a0\"><animateMotion dur=\"6s\" repeatCount=\"indefinite\" path=\"M40 175 Q180 140 330 50\"/></circle><text x=\"250\" y=\"45\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">makkelijke taak</text><text x=\"160\" y=\"118\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">moeilijke taak</text><text x=\"190\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">meer spanning</text><text x=\"48\" y=\"48\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">prestatie</text></svg>",
+   "quiz": {
+    "q": "Wat vonden Yerkes en Dodson in 1908 bij de moeilijkste keuzetaak?",
+    "o": [
+     "Hoe sterker de schok, hoe sneller de muizen leerden",
+     "Een middelmatige schok gaf het snelste leren",
+     "Schokken hadden geen enkel effect op het leren"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Yerkes & Dodson 1908 (Classics in the History of Psychology, York University)",
+     "u": "https://psychclassics.yorku.ca/Yerkes/Law/"
+    },
+    {
+     "t": "Teigen 1994, Theory & Psychology: Yerkes-Dodson, a law for all seasons",
+     "u": "https://journals.sagepub.com/doi/10.1177/0959354394044004"
+    },
+    {
+     "t": "Diamond e.a. 2007, Neural Plasticity (PMC)",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1906714"
+    }
+   ],
+   "date": "2026-11-24T05:46:17Z"
   }
  ],
  "dives": [
