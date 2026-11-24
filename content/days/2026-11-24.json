@@ -1,6 +1,323 @@
 {
- "updated": "2026-11-24T05:41:12Z",
- "cards": [],
+ "updated": "2026-11-24T05:45:16Z",
+ "cards": [
+  {
+   "cat": "psychologie",
+   "title": "Je horoscoop klopt, omdat hij over iedereen gaat",
+   "body": "In 1948 gaf psycholoog Bertram Forer zijn 39 studenten een 'persoonlijke' analyse na een test. Iedereen kreeg dezelfde tekst, samengeraapt uit een horoscoopboekje. Toch gaven ze gemiddeld zo'n 4,3 op 5 voor juistheid. Vage, vleiende zinnen passen op bijna iedereen: het Forer- of Barnum-effect.",
+   "take": "Krijg je een persoonlijkheidsprofiel? Vraag je bij elke zin af: zou dit ook over mijn buurman kunnen gaan?",
+   "deep": "## Hoe het werkt\n\nEen Barnum-uitspraak is een zin die persoonlijk klinkt maar op bijna iedereen past. 'Je hebt veel onbenut potentieel.' 'Soms ben je extravert, soms eerder op jezelf.' 'Je wilt graag dat anderen je waarderen.'\n\nDrie dingen maken zo'n zin overtuigend. Hij is vaag genoeg om in je eigen leven een voorbeeld te vinden. Hij is meestal vleiend, en dus prettig om te geloven. En je denkt dat de tekst speciaal voor jou is opgesteld. Je hersenen doen de rest: je zoekt naar momenten die passen en vergeet de momenten die niet passen.\n\n## Een voorbeeld\n\nJe vult op sociale media een quiz in: 'Welk type collega ben jij?' Het resultaat: 'Je bent loyaal, maar je laat niet over je heen lopen.' Het voelt raak. Maar wie kent zichzelf niet zo? Hetzelfde gebeurt bij horoscopen in de krant, bij een waarzegster op de kermis of bij een duur persoonlijkheidsrapport dat je werkgever laat opmaken.\n\n## Wat onderzoek zegt\n\nBertram Forer liet zijn psychologiestudenten in 1948 een persoonlijkheidstest invullen. Een week later kreeg elke student een 'persoonlijke' beschrijving, met onder meer de zin 'You have a great need for other people to like and admire you'. Alle 39 studenten kregen echter exact dezelfde tekst, die Forer had samengesteld uit een astrologieboekje van een krantenkiosk.\n\nOp een schaal van 0 tot 5 gaven de studenten gemiddeld ongeveer 4,3 voor hoe goed de beschrijving bij hen paste. Forer publiceerde dat in 1949 als 'the fallacy of personal validation'. De psycholoog Paul Meehl doopte het verschijnsel in 1956 het Barnum-effect, naar circusman P.T. Barnum, die 'voor elk wat wils' bood.\n\n## Nuance of misverstand\n\nHet effect is vaak herhaald, maar vooral bij universiteitsstudenten in een klaslokaal. Hoe sterk het is, hangt af van de situatie: het werkt beter als de tekst positief is en als je gelooft dat hij op maat is gemaakt.\n\nHet betekent ook niet dat elke persoonlijkheidstest waardeloos is. Goed onderbouwde tests worden juist getoetst op de vraag of ze mensen van elkaar kunnen onderscheiden. Een tekst die op iedereen past, onderscheidt niemand.\n\n## Wat je ermee doet\n\nLees elke zin uit een horoscoop, quiz of rapport en vraag je af of hij op een willekeurige collega zou passen. Zo ja, dan zegt hij weinig over jou. Wees extra alert bij verkopers, coaches of apps die je eerst 'perfect doorgronden' en daarna iets willen verkopen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\">\n<rect x=\"110\" y=\"20\" width=\"140\" height=\"56\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/>\n<text x=\"180\" y=\"44\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">\"Je wilt graag</text>\n<text x=\"180\" y=\"62\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">gewaardeerd worden\"</text>\n<g stroke=\"#fff\" stroke-width=\"2\" fill=\"none\">\n<line x1=\"150\" y1=\"78\" x2=\"70\" y2=\"128\"/><line x1=\"180\" y1=\"78\" x2=\"180\" y2=\"128\"/><line x1=\"210\" y1=\"78\" x2=\"290\" y2=\"128\"/>\n</g>\n<g fill=\"#fff\"><path d=\"M64 132 L76 130 L68 122 Z\"/><path d=\"M174 128 L186 128 L180 136 Z\"/><path d=\"M296 132 L284 130 L292 122 Z\"/></g>\n<g stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\">\n<circle cx=\"70\" cy=\"155\" r=\"12\"/><circle cx=\"180\" cy=\"155\" r=\"12\"/><circle cx=\"290\" cy=\"155\" r=\"12\"/>\n</g>\n<text x=\"70\" y=\"192\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\" opacity=\"0\">\"Klopt!\"<animate attributeName=\"opacity\" values=\"0;1;1;0\" keyTimes=\"0;0.2;0.85;1\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/></text>\n<text x=\"180\" y=\"192\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\" opacity=\"0\">\"Dat ben ik!\"<animate attributeName=\"opacity\" values=\"0;0;1;1;0\" keyTimes=\"0;0.2;0.4;0.85;1\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/></text>\n<text x=\"290\" y=\"192\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\" opacity=\"0\">\"Zo raak!\"<animate attributeName=\"opacity\" values=\"0;0;1;1;0\" keyTimes=\"0;0.4;0.6;0.85;1\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/></text>\n<text x=\"180\" y=\"212\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Eén tekst, iedereen herkent zich</text>\n</svg>",
+   "quiz": {
+    "q": "Wat kregen de studenten van Forer in werkelijkheid?",
+    "o": [
+     "Elk een analyse op maat van hun test",
+     "Allemaal dezelfde tekst uit een astrologieboekje",
+     "Een willekeurige mix van zinnen per persoon"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Cal State Fullerton: The Barnum Effect",
+     "u": "https://psych.fullerton.edu/mbirnbaum/psych101/barnum_demo.htm"
+    },
+    {
+     "t": "Wikipedia: Barnum effect",
+     "u": "https://en.wikipedia.org/wiki/Barnum_effect"
+    }
+   ],
+   "date": "2026-11-24T05:45:16Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Door een deur lopen kan je doel uitwissen",
+   "body": "Je loopt naar de living en weet plots niet meer wat je kwam halen. Psycholoog Gabriel Radvansky (Notre Dame) toonde in 2011 dat proefpersonen meer vergaten na het doorlopen van een deur dan na dezelfde afstand in één kamer. Een deur werkt als 'gebeurtenisgrens': je brein sluit een hoofdstuk af.",
+   "take": "Zeg je doel hardop of herhaal het in je hoofd terwijl je door de deur stapt.",
+   "deep": "## Hoe het werkt\n\nJe brein knipt de dag op in episodes, een beetje zoals scènes in een film. Psychologen spreken van gebeurtenisgrenzen: momenten waarop de situatie duidelijk verandert. Een deur is zo'n grens. Je komt in een andere ruimte, met andere dingen om je heen.\n\nVolgens Radvansky archiveert je brein op dat moment de vorige episode. Wat je in de keuken van plan was, zit dan als het ware in een afgesloten map. Het is er nog, maar minder snel bereikbaar. Daardoor sta je in de living met het gevoel dat je iets vergeten bent.\n\n## Een voorbeeld\n\nJe zit in de zetel en denkt: ik haal de oplader van mijn gsm in de slaapkamer. Je loopt de trap op, stapt de slaapkamer binnen en staat stil. Wat kwam ik hier ook alweer doen? Ga je terug naar de zetel, dan schiet het je vaak plots weer te binnen, omdat je weer bij het begin van die episode zit.\n\n## Wat onderzoek zegt\n\nGabriel Radvansky, Sabine Krawietz en Andrea Tamplin van de University of Notre Dame publiceerden in 2011 in The Quarterly Journal of Experimental Psychology. In een virtuele omgeving droegen proefpersonen voorwerpen van tafel naar tafel. Soms liepen ze door een grote kamer, soms dezelfde afstand door een deur naar een andere kamer. Na een deur was hun geheugen voor het voorwerp slechter.\n\nIn echte kamers, met voorwerpen verstopt in dozen, vonden ze hetzelfde. Terugkeren naar de oorspronkelijke kamer via een tweede deur herstelde het geheugen niet. Dat pleit ervoor dat het om de grens zelf gaat, niet alleen om de omgeving.\n\n## Nuance of misverstand\n\nHet effect is niet zo stevig als de vele krantenkoppen doen vermoeden. Een reeks experimenten in het tijdschrift BMC Psychology (2021) vond in gewone omstandigheden geen significant effect van deuren op vergeten. Alleen wanneer proefpersonen tegelijk iets anders moesten onthouden, bleek hun geheugen na een deur gevoeliger voor verstoring.\n\nZie het dus niet als een vaste wet, maar als een effect dat vooral opduikt als je hoofd al vol zit. Een deur 'wist' je herinnering ook niet uit: je kunt ze meestal terughalen.\n\n## Wat je ermee doet\n\nMaak je doel concreet en houd het actief: zeg 'oplader' hardop of herhaal het tot je het ding vast hebt. Ben je het toch kwijt, ga dan even terug naar de plek waar je het idee kreeg of denk terug aan wat je daar deed. Op het werk helpt het om een taak eerst op te schrijven voor je naar een vergaderzaal loopt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\">\n<rect x=\"20\" y=\"40\" width=\"150\" height=\"130\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/>\n<rect x=\"190\" y=\"40\" width=\"150\" height=\"130\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/>\n<rect x=\"166\" y=\"90\" width=\"28\" height=\"40\" fill=\"#ffd166\"/>\n<text x=\"95\" y=\"30\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Keuken</text>\n<text x=\"265\" y=\"30\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Living</text>\n<text x=\"180\" y=\"150\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">deur</text>\n<circle r=\"8\" fill=\"#06d6a0\"><animateMotion path=\"M60 110 L300 110\" dur=\"6s\" repeatCount=\"indefinite\"/></circle>\n<g>\n<rect x=\"40\" y=\"186\" width=\"120\" height=\"14\" fill=\"#06d6a0\">\n<animate attributeName=\"width\" values=\"120;120;40;40\" keyTimes=\"0;0.5;0.6;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect>\n<text x=\"170\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">\"Waarom kwam ik hier?\"</text>\n</g>\n<text x=\"40\" y=\"214\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">herinnering aan je doel</text>\n</svg>",
+   "quiz": {
+    "q": "Wat gebeurde er in de studies van Radvansky na het doorlopen van een deur?",
+    "o": [
+     "Proefpersonen vergaten meer dan na dezelfde afstand in één kamer",
+     "Proefpersonen onthielden net meer door de nieuwe omgeving",
+     "Er was alleen een effect als de deur gesloten was"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "University of Notre Dame",
+     "u": "https://provost.nd.edu/news/walking-through-doorways-causes-forgetting-new-research-shows"
+    },
+    {
+     "t": "BMC Psychology (2021)",
+     "u": "https://link.springer.com/article/10.1186/s40359-021-00536-3"
+    },
+    {
+     "t": "Scientific American",
+     "u": "https://www.scientificamerican.com/article/why-walking-through-doorway-makes-you-forget/"
+    }
+   ],
+   "date": "2026-11-24T05:45:16Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Puntje van je tong: je kent het woord half",
+   "body": "In 1966 lazen psychologen Roger Brown en David McNeill definities van zeldzame woorden voor, zoals 'een navigatie-instrument om hoeken te meten'. Wie vastzat, kon toch vaak de eerste letter en het aantal lettergrepen raden, veel beter dan toeval. De betekenis ken je dus al; het brein vindt de klank niet.",
+   "take": "Zoek je een naam? Ga na met welke letter hij begint en hoeveel lettergrepen hij heeft: dat weet je vaak al.",
+   "deep": "## Hoe het werkt\n\nEen woord ophalen gebeurt in stappen. Eerst activeer je de betekenis: je weet precies welk ding of welke persoon je bedoelt. Daarna moet je brein de klank van het woord ophalen: de letters, lettergrepen en klemtoon.\n\nBij het 'puntje van de tong'-gevoel lukt die eerste stap wel, maar de tweede maar half. Je hebt flarden van de klank: de beginletter, het ritme, soms een woord dat erop lijkt. Volgens een invloedrijke verklaring van Deborah Burke en collega's zijn de verbindingen naar de klank tijdelijk te zwak om genoeg activatie door te geven.\n\n## Een voorbeeld\n\nJe kijkt naar een quiz op tv en ziet een acteur die je echt kent. 'Hij speelde in die serie... met een S... twee lettergrepen...' Een kwartier later, tijdens het afwassen, schiet zijn naam je zomaar te binnen. Namen van personen zijn een klassieke uitlokker van dit gevoel.\n\n## Wat onderzoek zegt\n\nBrown en McNeill publiceerden in 1966 de eerste systematische studie, in het Journal of Verbal Learning and Verbal Behavior. Ze lazen definities van zeldzame woorden voor, zoals die van 'sextant'. Deelnemers die het woord 'bijna' hadden, konden de eerste letter, het aantal lettergrepen en gelijkklinkende woorden veel beter dan toeval aangeven.\n\nAlan S. Brown zette in 1991 het onderzoek op een rij in Psychological Bulletin. De ervaring is bijna universeel, komt ongeveer eens per week voor, neemt toe met de leeftijd en wordt vaak uitgelokt door eigennamen. Ongeveer de helft van de keren wordt het woord uiteindelijk toch gevonden. Dagboekstudies, onder meer van Burke en collega's uit 1991, toonden dat ouderen het vaker meemaken dan jongeren.\n\n## Nuance of misverstand\n\nVaker een woord op het puntje van je tong hebben naarmate je ouder wordt, is normaal en op zich geen teken van dementie. Ouderen hebben bovendien vaak een grotere woordenschat, dus ook meer woorden om naar te zoeken.\n\nHet gevoel is ook geen illusie: dat je 'bijna' weet, klopt echt. Je hebt vaak al een deel van de klank beet.\n\n## Wat je ermee doet\n\nGebruik de flarden die je wel hebt: beginletter, aantal lettergrepen, een woord dat erop lijkt. Lukt het niet, laat het dan even rusten en ga verder met iets anders. Merk je dat het jou opvallend vaker overkomt dan vroeger, en zijn er ook andere geheugenklachten, bespreek het dan met je huisarts.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\">\n<text x=\"180\" y=\"36\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">\"Een instrument om hoeken te meten...\"</text>\n<rect x=\"84\" y=\"60\" width=\"24\" height=\"32\" rx=\"3\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"112\" y=\"60\" width=\"24\" height=\"32\" rx=\"3\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"140\" y=\"60\" width=\"24\" height=\"32\" rx=\"3\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"168\" y=\"60\" width=\"24\" height=\"32\" rx=\"3\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"196\" y=\"60\" width=\"24\" height=\"32\" rx=\"3\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"224\" y=\"60\" width=\"24\" height=\"32\" rx=\"3\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"252\" y=\"60\" width=\"24\" height=\"32\" rx=\"3\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/>\n<text x=\"96\" y=\"82\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">S</text>\n<text x=\"264\" y=\"82\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\" opacity=\"0.3\">T<animate attributeName=\"opacity\" values=\"0.3;0.9;0.3\" dur=\"4s\" repeatCount=\"indefinite\"/></text>\n<g opacity=\"0.15\">\n<animate attributeName=\"opacity\" values=\"0.15;0.15;0.5;0.15\" keyTimes=\"0;0.5;0.75;1\" dur=\"4s\" repeatCount=\"indefinite\"/>\n<text x=\"124\" y=\"82\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">E</text><text x=\"152\" y=\"82\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">X</text><text x=\"180\" y=\"82\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">T</text><text x=\"208\" y=\"82\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">A</text><text x=\"236\" y=\"82\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">N</text>\n</g>\n<text x=\"96\" y=\"122\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">Wel bekend:</text>\n<text x=\"96\" y=\"140\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">eerste letter, aantal lettergrepen</text>\n<text x=\"96\" y=\"166\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">Niet bereikbaar:</text>\n<text x=\"96\" y=\"184\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">de volledige klank</text>\n</svg>",
+   "quiz": {
+    "q": "Wat konden deelnemers bij Brown en McNeill vaak raden als een woord op het puntje van hun tong lag?",
+    "o": [
+     "De laatste zin waarin ze het woord hoorden",
+     "Niets, ze gokten volledig op goed geluk",
+     "De eerste letter en het aantal lettergrepen"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Brown (1991), Psychological Bulletin",
+     "u": "https://www.ncbi.nlm.nih.gov/pubmed/2034750"
+    },
+    {
+     "t": "MIT Press Reader",
+     "u": "https://thereader.mitpress.mit.edu/tip-of-the-tongue-phenomenon"
+    },
+    {
+     "t": "Cambridge: geschiedenis TOT-onderzoek",
+     "u": "https://www.cambridge.org/core/product/62BD1963BFE21F7F6776C4811D273334/core-reader"
+    }
+   ],
+   "date": "2026-11-24T05:45:16Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "Je takenbord komt uit een Japanse autofabriek",
+   "body": "In 1954 voerde Toyota een 'supermarktmethode' in: een productiestap haalde pas onderdelen bij de vorige stap als ze nodig waren. Een kaartje met productnaam, nummer en aantal gaf het signaal: kanban. Taiichi Ohno bouwde er zijn just-in-time-systeem op. Vandaag gebruiken veel mensen hetzelfde idee op een bord met drie kolommen.",
+   "take": "Maak drie kolommen: Te doen, Bezig, Klaar. Laat maximaal drie taken tegelijk in 'Bezig' staan.",
+   "deep": "## Hoe het werkt\n\nHet kernidee van kanban is 'trekken' in plaats van 'duwen'. In een klassieke fabriek maakt elke stap zoveel mogelijk en schuift alles door, ook als de volgende stap het nog niet nodig heeft. Dat geeft stapels halffabricaten.\n\nBij Toyota werkte het omgekeerd. De latere stap haalt bij de vorige stap alleen wat hij nodig heeft. Een kaartje, de kanban, reist mee en zegt wat er moet worden bijgemaakt en hoeveel. Zo wordt er alleen gemaakt wat nodig is, wanneer het nodig is, in de hoeveelheid die nodig is.\n\n## Een voorbeeld\n\nThuis werkt het met een whiteboard of een paar post-its op de koelkast. Links staat alles wat moet gebeuren: belastingaangifte, band van de fiets plakken, mail aan de school. In het midden staan de taken waar je nu echt mee bezig bent, hooguit drie. Rechts komt wat klaar is. Pas als er iets naar 'Klaar' verhuist, trek je een nieuwe taak naar het midden. Dat voelt traag, maar je maakt meer af.\n\n## Wat onderzoek zegt\n\nVolgens Toyota's eigen bedrijfsgeschiedenis werd de 'supermarktmethode' in 1954 ingevoerd: de assemblage haalde onderdelen op bij de bewerkingsafdeling. Met een productie-instructiekaart erbij groeide dat uit tot het kanbansysteem. Taiichi Ohno (1912-1990) was de productie-expert achter dit just-in-time-denken, schrijft Britannica. Ohno zelf vertelde dat Amerikaanse supermarkten, waar schappen pas worden aangevuld als klanten iets wegnemen, hem inspireerden.\n\nLater werd het idee vertaald naar kenniswerk. Jim Benson en Tonianne DeMaria Barry vatten 'Personal Kanban' samen in twee regels: maak je werk zichtbaar en beperk het werk dat tegelijk loopt.\n\n## Nuance of misverstand\n\nOver de precieze oorsprong bestaan twee verhalen: Toyota's geschiedenis noemt ook een vakartikel over een Amerikaanse vliegtuigfabriek van Lockheed als inspiratie. En een takenbord met kolommen is op zich geen kanban: de kracht zit in de limiet. Een bord met twintig kaartjes in 'Bezig' is gewoon een mooiere to-dolijst.\n\n## Wat je ermee doet\n\nKies een bord, papier of app en start met drie kolommen. Spreek een harde limiet af voor 'Bezig' en houd je eraan. Merk je dat taken in een kolom blijven hangen, dan zie je meteen waar het knelpunt zit. Kijk één keer per week of je limiet past.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\">\n<g stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\">\n<rect x=\"15\" y=\"30\" width=\"105\" height=\"170\" rx=\"6\"/><rect x=\"128\" y=\"30\" width=\"105\" height=\"170\" rx=\"6\"/><rect x=\"241\" y=\"30\" width=\"105\" height=\"170\" rx=\"6\"/>\n</g>\n<text x=\"67\" y=\"50\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Te doen</text>\n<text x=\"180\" y=\"50\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Bezig (max 2)</text>\n<text x=\"293\" y=\"50\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Klaar</text>\n<rect x=\"30\" y=\"100\" width=\"75\" height=\"26\" rx=\"4\" fill=\"#ff6b9d\"/>\n<rect x=\"30\" y=\"134\" width=\"75\" height=\"26\" rx=\"4\" fill=\"#ff6b9d\"/>\n<rect x=\"143\" y=\"100\" width=\"75\" height=\"26\" rx=\"4\" fill=\"#06d6a0\"/>\n<rect x=\"256\" y=\"134\" width=\"75\" height=\"26\" rx=\"4\" fill=\"#ffd166\"/>\n<rect x=\"256\" y=\"168\" width=\"75\" height=\"26\" rx=\"4\" fill=\"#ffd166\"/>\n<rect x=\"0\" y=\"0\" width=\"75\" height=\"26\" rx=\"4\" fill=\"#ffd166\">\n<animateMotion values=\"143,66;143,66;256,100;256,100\" keyTimes=\"0;0.3;0.6;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect>\n<rect x=\"0\" y=\"0\" width=\"75\" height=\"26\" rx=\"4\" fill=\"#ff6b9d\">\n<animateMotion values=\"30,66;30,66;143,66;143,66\" keyTimes=\"0;0.6;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect>\n<text x=\"180\" y=\"214\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Pas iets nieuws trekken als er plaats vrijkomt</text>\n</svg>",
+   "quiz": {
+    "q": "Wat is het belangrijkste principe achter kanban bij Toyota?",
+    "o": [
+     "Een stap maakt pas iets als de volgende stap erom vraagt",
+     "Elke stap produceert zoveel mogelijk op voorraad",
+     "Een planner bepaalt elke ochtend de volgorde van alle taken"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Toyota: 75 jaar bedrijfsgeschiedenis",
+     "u": "https://www.toyota-global.com/company/history_of_toyota/75years/text/taking_on_the_automotive_business/chapter2/section7/item4.html"
+    },
+    {
+     "t": "Britannica: Ohno Taiichi",
+     "u": "https://www.britannica.com/money/Ohno-Taiichi"
+    },
+    {
+     "t": "University of Washington: Personal Kanban",
+     "u": "https://washington.edu/admin/hr/publications/email/pod/convio/leadingedge/su12/leadingedge-Kanban.html"
+    }
+   ],
+   "date": "2026-11-24T05:45:16Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "Bewaar je favoriete podcast voor de saaie klus",
+   "body": "Katherine Milkman (Wharton) gaf 226 mensen spannende luisterboeken, zoals The Hunger Games, die ze alleen in de fitness mochten beluisteren. In het begin gingen ze 51% vaker sporten dan de controlegroep. Dat heet temptation bundling: een verleiding koppelen aan iets wat je uitstelt. Het effect zwakte wel af na enkele weken.",
+   "take": "Kies één serie of podcast die je alleen nog mag opzetten tijdens strijken, sporten of je administratie.",
+   "deep": "## Hoe het werkt\n\nJe hebt twee soorten activiteiten. 'Wil'-dingen zijn meteen leuk, maar op lange termijn niet nuttig: een serie bingen. 'Moet'-dingen zijn nuttig, maar nu saai of zwaar: sporten, strijken, facturen.\n\nBij temptation bundling koppel je die twee aan elkaar, met een vaste regel: het plezier mag alleen samen met de taak. Zo krijgt de saaie taak meteen een beloning, en je verlangen naar de volgende aflevering trekt je naar de taak toe. Tegelijk voel je je minder schuldig over het plezier, omdat het aan iets nuttigs vastzit.\n\n## Een voorbeeld\n\nStel: je wilt drie keer per week gaan lopen, maar je komt er niet toe. Je kiest een spannende true-crimepodcast en spreekt af dat je die alleen tijdens het lopen beluistert. Of je bewaart de nieuwe aflevering van je favoriete reeks voor de strijkmand op zondagavond.\n\n## Wat onderzoek zegt\n\nKatherine Milkman, Julia Minson en Kevin Volpp publiceerden hun studie in 2014 in Management Science. 226 studenten en personeelsleden van een universiteit die meer wilden sporten, werden willekeurig in drie groepen verdeeld. De volle groep kon spannende luisterboeken alleen in de fitness beluisteren. Een tussengroep kreeg de boeken mee naar huis met de aanmoediging ze enkel in de fitness te beluisteren. In het begin gingen die groepen respectievelijk 51% en 29% vaker naar de fitness dan de controlegroep.\n\nEen veel grotere studie van Erika Kirgios, Milkman en collega's (2020, 6792 deelnemers) vond een bescheidener effect: luisterboeken plus uitleg over de techniek verhoogden de kans op een wekelijks fitnessbezoek met ongeveer 10 tot 14%, tot zeventien weken na het programma.\n\n## Nuance of misverstand\n\nIn de eerste studie verdween het effect na de Thanksgivingvakantie, toen mensen hun gewoonte onderbraken. De grote opvolgstudie toont dat het werkt, maar minder spectaculair dan die 51% doet vermoeden. Bovendien voegde de uitleg over de techniek weinig toe ten opzichte van alleen een gratis luisterboek. Verwacht dus een duwtje, geen wonder.\n\n## Wat je ermee doet\n\nMaak een lijstje van taken die je uitstelt en van kleine verleidingen die je graag doet. Koppel telkens één verleiding aan één taak en maak de regel streng: niet zonder de taak. Wordt het saai, kies dan een nieuwe serie of podcast om de spanning hoog te houden.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\">\n<rect x=\"20\" y=\"30\" width=\"90\" height=\"50\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/>\n<text x=\"65\" y=\"60\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Sporten</text>\n<text x=\"128\" y=\"62\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">+</text>\n<rect x=\"146\" y=\"30\" width=\"90\" height=\"50\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ff6b9d\" stroke-width=\"2\"/>\n<text x=\"191\" y=\"60\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Luisterboek</text>\n<line x1=\"245\" y1=\"55\" x2=\"280\" y2=\"55\" stroke=\"#fff\" stroke-width=\"2\"/>\n<path d=\"M280 49 L290 55 L280 61 Z\" fill=\"#fff\"/>\n<text x=\"320\" y=\"60\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">alleen</text>\n<text x=\"320\" y=\"74\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">in de gym</text>\n<line x1=\"40\" y1=\"190\" x2=\"320\" y2=\"190\" stroke=\"#fff\" stroke-width=\"2\"/>\n<rect x=\"90\" y=\"140\" width=\"50\" height=\"50\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/>\n<rect x=\"210\" y=\"114\" width=\"50\" height=\"76\" fill=\"#06d6a0\">\n<animate attributeName=\"height\" values=\"50;76;76;50\" keyTimes=\"0;0.4;0.85;1\" dur=\"6s\" repeatCount=\"indefinite\"/>\n<animate attributeName=\"y\" values=\"140;114;114;140\" keyTimes=\"0;0.4;0.85;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect>\n<text x=\"115\" y=\"208\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">controle</text>\n<text x=\"235\" y=\"208\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">gebundeld</text>\n<text x=\"235\" y=\"104\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">+51% bezoeken</text>\n</svg>",
+   "quiz": {
+    "q": "Wat gebeurde er volgens de grotere opvolgstudie uit 2020 met het effect?",
+    "o": [
+     "Het was groter dan in de eerste studie",
+     "Het was er nog, maar kleiner: ongeveer 10 tot 14%",
+     "Het verdween volledig"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Milkman e.a. (2014), Management Science",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4381662/"
+    },
+    {
+     "t": "Kirgios e.a. (2020), OBHDP",
+     "u": "https://econpapers.repec.org/RePEc:eee:jobhdp:v:161:y:2020:i:s:p:20-35"
+    },
+    {
+     "t": "Knowledge at Wharton",
+     "u": "https://knowledge.wharton.upenn.edu/article/researchers-used-hunger-games-encourage-healthier-choices/"
+    }
+   ],
+   "date": "2026-11-24T05:45:16Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "Recht staan maakt vergaderingen korter, niet dommer",
+   "body": "In 1999 lieten Allen Bluedorn en collega's (University of Missouri) 111 groepjes van vijf een probleem oplossen: 56 recht, 55 zittend. De zittende vergaderingen duurden 34% langer, maar leverden geen betere beslissingen op. Staan houdt het tempo hoog zonder dat de kwaliteit eronder lijdt, al waren de testvergaderingen kort.",
+   "take": "Houd je dagelijkse teamoverleg van een kwartier staand, rond een hoge tafel of het takenbord.",
+   "deep": "## Hoe het werkt\n\nZitten is comfortabel, en comfort nodigt uit om te blijven. Wie rechtstaat, voelt na een tijdje zijn benen en wil tot de kern komen. Zijsporen, lange inleidingen en herhalingen worden minder aantrekkelijk.\n\nStaan verandert ook de dynamiek. Je neemt minder een vaste plek in, je beweegt makkelijker naar een whiteboard en je bent alerter. Dat kan helpen om sneller informatie te delen en knopen door te hakken.\n\n## Een voorbeeld\n\nEen ploeg van een ziekenhuisafdeling of een softwareteam start de dag met een korte staande vergadering rond het planbord. Iedereen zegt wat hij gisteren deed, wat vandaag op de planning staat en waar hij vastzit. Na tien minuten gaat iedereen aan de slag. Zittend, met koffie en koekjes, wordt dat al snel een half uur.\n\n## Wat onderzoek zegt\n\nAllen Bluedorn, Daniel Turban en Mary Sue Love publiceerden hun experiment in 1999 in het Journal of Applied Psychology. Ze vergeleken 56 groepjes van vijf die rechtstonden met 55 groepjes die zaten, bij dezelfde beslissingsopdracht. De zittende vergaderingen duurden 34% langer, zonder betere beslissingen.\n\nIn 2014 vonden Andrew Knight en Markus Baer (Washington University in St. Louis) dat groepen die een half uur zonder stoelen aan een filmpje werkten, lichamelijk meer opgewonden waren, minder territoriaal met hun ideeën omgingen en meer informatie deelden. Hun filmpjes werden ook beter beoordeeld.\n\n## Nuance of misverstand\n\nHet ging om korte vergaderingen van ongeveer 10 tot 20 minuten met één beslissing, in een labo met studenten. Bluedorn zelf waarschuwde dat organisaties voorzichtig moeten experimenteren. Voor een strategiedag van drie uur is recht staan geen goed idee: vermoeidheid gaat dan meespelen. Denk ook aan collega's die niet lang kunnen staan, en zorg voor een stoel of hoge kruk.\n\n## Wat je ermee doet\n\nGebruik staan voor korte, terugkerende overlegmomenten met een duidelijk doel. Zet een vaste eindtijd, bijvoorbeeld een kwartier, en houd de agenda bij één of twee punten. Merk je dat een staand overleg toch uitloopt, dan is dat een teken dat het onderwerp een aparte, zittende vergadering verdient.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\">\n<text x=\"20\" y=\"40\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Duur van de vergadering</text>\n<text x=\"20\" y=\"88\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Zittend</text>\n<rect x=\"90\" y=\"72\" width=\"0\" height=\"24\" fill=\"#ff6b9d\">\n<animate attributeName=\"width\" values=\"0;240;240;0\" keyTimes=\"0;0.4;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect>\n<text x=\"20\" y=\"138\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Staand</text>\n<rect x=\"90\" y=\"122\" width=\"0\" height=\"24\" fill=\"#06d6a0\">\n<animate attributeName=\"width\" values=\"0;179;179;0\" keyTimes=\"0;0.3;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect>\n<line x1=\"269\" y1=\"110\" x2=\"269\" y2=\"155\" stroke=\"#ffd166\" stroke-width=\"2\"/>\n<text x=\"275\" y=\"150\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">34% langer</text>\n<text x=\"275\" y=\"164\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">bij zitten</text>\n<rect x=\"20\" y=\"180\" width=\"320\" height=\"28\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/>\n<text x=\"180\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Kwaliteit beslissing: geen verschil</text>\n</svg>",
+   "quiz": {
+    "q": "Wat vonden Bluedorn en collega's over de kwaliteit van staande beslissingen?",
+    "o": [
+     "Ze waren duidelijk slechter dan zittende",
+     "Ze waren duidelijk beter dan zittende",
+     "Ze waren niet slechter dan zittende"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "University of Missouri: Bluedorn e.a. (1999)",
+     "u": "https://business.missouri.edu/departments-faculty/research-directory/effects-stand-and-sit-down-meeting-formats-meeting-outcomes"
+    },
+    {
+     "t": "Christian Science Monitor",
+     "u": "https://csmonitor.com/2000/1127/p12s5.html"
+    },
+    {
+     "t": "Washington University in St. Louis",
+     "u": "https://source.washu.edu/2014/06/get-up-new-research-shows-standing-meetings-improve-creativity-and-teamwork/"
+    }
+   ],
+   "date": "2026-11-24T05:45:16Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "Dit balkenschema plande al wapenfabrieken in 1917",
+   "body": "De Amerikaanse ingenieur Henry Gantt (1861-1919) tekende rond 1910-1915 werk als balken op een tijdlijn. Tijdens de Eerste Wereldoorlog gebruikte het Amerikaanse leger zijn grafieken om productie in arsenalen te volgen. De naam 'Gantt-diagram' kwam pas in 1922, via een boek van zijn collega Wallace Clark. Een Pool was hem wel voor.",
+   "take": "Zet je volgende project op een tijdlijn: één balk per taak, en duid aan wat op wat moet wachten.",
+   "deep": "## Hoe het werkt\n\nEen Gantt-diagram heeft twee assen. Verticaal staan de taken, horizontaal de tijd in dagen of weken. Elke taak wordt een balk: het begin van de balk is de startdatum, de lengte is de duur.\n\nDaardoor zie je in één oogopslag drie dingen: wat tegelijk loopt, wat op elkaar moet wachten en waar je nu staat. Trek je een verticale lijn op 'vandaag', dan zie je meteen welke taken achterlopen. Gantt zelf gebruikte zijn grafieken vooral om geplande en echt geleverde productie naast elkaar te zetten.\n\n## Een voorbeeld\n\nJe verbouwt je badkamer. De loodgieter moet eerst de leidingen verleggen, daarna kan de tegelzetter beginnen, en pas dan komt het meubel. Op een tijdlijn zie je dat één week vertraging bij de loodgieter alles opschuift. Je ziet ook dat je de tegels al kunt bestellen terwijl de loodgieter bezig is.\n\n## Wat onderzoek zegt\n\nHenry Gantt was een werktuigbouwkundig ingenieur die met Frederick Taylor werkte aan 'wetenschappelijk management'. Hij ontwierp en verspreidde zijn grafiek rond 1910-1915. In 1917 haalde het Amerikaanse leger hem binnen als productieadviseur, eerst in het Frankford Arsenal en daarna bij het Ordnance Department in Washington.\n\nVolgens het boek 'The Gantt Chart: A Working Tool of Management' van Wallace Clark uit 1922 werden de grafieken in 1918 gebruikt in Amerikaanse arsenalen, de productie van marinevliegtuigen en bij de United States Shipping Board. Dat boek bezorgde de grafiek ook haar naam.\n\n## Nuance of misverstand\n\nGantt was niet de eerste. De Poolse ingenieur Karol Adamiecki ontwikkelde al in 1896 een vergelijkbaar schema, het 'harmonogram'. Hij publiceerde vooral in het Pools en Russisch, waardoor het in het Westen nauwelijks bekend raakte.\n\nEen Gantt-diagram is ook geen garantie op een goede planning. Het toont wat je verwacht, maar als je schattingen te optimistisch zijn, ziet het er perfect uit en klopt het toch niet.\n\n## Wat je ermee doet\n\nGebruik een Gantt-diagram voor projecten met duidelijke stappen en afhankelijkheden: een verhuis, een verbouwing, een evenement. Begin met de vaste einddatum en werk terug. Bouw buffers in voor taken waarbij je afhangt van anderen, en werk het schema elke week bij.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\">\n<line x1=\"90\" y1=\"30\" x2=\"340\" y2=\"30\" stroke=\"#fff\" stroke-width=\"2\"/>\n<text x=\"110\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">wk1</text><text x=\"170\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">wk2</text><text x=\"230\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">wk3</text><text x=\"290\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">wk4</text>\n<text x=\"15\" y=\"62\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Ontwerp</text>\n<rect x=\"95\" y=\"48\" width=\"80\" height=\"20\" rx=\"3\" fill=\"#06d6a0\"/>\n<text x=\"15\" y=\"102\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Bestellen</text>\n<rect x=\"160\" y=\"88\" width=\"60\" height=\"20\" rx=\"3\" fill=\"#ffd166\"/>\n<text x=\"15\" y=\"142\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Bouwen</text>\n<rect x=\"215\" y=\"128\" width=\"100\" height=\"20\" rx=\"3\" fill=\"#ff6b9d\"/>\n<text x=\"15\" y=\"182\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">Oplevering</text>\n<path d=\"M322 164 L332 174 L322 184 L312 174 Z\" fill=\"#fff\"/>\n<line x1=\"0\" y1=\"36\" x2=\"0\" y2=\"196\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"4 4\">\n<animateTransform attributeName=\"transform\" type=\"translate\" values=\"95 0;335 0\" dur=\"8s\" repeatCount=\"indefinite\"/></line>\n<text x=\"180\" y=\"212\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">stippellijn = vandaag</text>\n</svg>",
+   "quiz": {
+    "q": "Waar komt de naam 'Gantt-diagram' vandaan?",
+    "o": [
+     "Van een boek van Gantts collega Wallace Clark uit 1922",
+     "Van een octrooi dat Gantt in 1896 aanvroeg",
+     "Van de Poolse ingenieur Karol Adamiecki"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "APM: A brief history of Gantt charts",
+     "u": "https://www.apm.org.uk/blog/a-brief-history-of-gantt-charts/"
+    },
+    {
+     "t": "PMI: The harmonogram",
+     "u": "https://www.pmi.org/learning/library/harmonogram-overlooked-method-scheduling-work-5666"
+    },
+    {
+     "t": "Wallace Clark (1922), archive.org",
+     "u": "https://archive.org/stream/cu31924004570853/cu31924004570853_djvu.txt"
+    }
+   ],
+   "date": "2026-11-24T05:45:16Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Elke website begint met een vraag aan het internettelefoonboek",
+   "body": "Computers vinden elkaar via cijfers, IP-adressen, niet via namen als vrt.be. Het Domain Name System (DNS) vertaalt die naam in milliseconden: een resolver vraagt het na bij een rootserver, dan bij de .be-server, dan bij de server van de site zelf. Paul Mockapetris bedacht het systeem in 1983.",
+   "take": "Laadt een site niet maar werkt je internet wel? Probeer een andere DNS-resolver in je router of gsm-instellingen.",
+   "deep": "## Hoe het werkt\n\nJe typt vrt.be. Je gsm vraagt eerst aan een recursieve resolver, meestal die van je internetprovider: wat is het IP-adres? Kent de resolver het antwoord nog van een vorige vraag, dan geeft hij het meteen uit zijn cache.\n\nZo niet, dan begint een zoektocht in drie stappen. De rootserver kent het adres niet, maar weet wie verantwoordelijk is voor .be. De .be-server verwijst door naar de nameserver die bevoegd is voor vrt.be. Die gezaghebbende nameserver geeft het eigenlijke IP-adres. De resolver stuurt dat naar je gsm en onthoudt het een tijdje. Pas dan maakt je browser verbinding met de site.\n\n## Een voorbeeld\n\nEen telefoonboek vertaalt een naam naar een nummer. DNS doet hetzelfde, maar dan opgedeeld over duizenden servers. Vergelijk het met een postbode die een onbekend adres zoekt: eerst vraagt hij het land, dan de stad, dan de straat. Elke stap kent alleen het volgende stukje, en samen vinden ze het huis.\n\n## Wat onderzoek zegt\n\nPaul Mockapetris ontwierp DNS in 1983 aan het Information Sciences Institute van de University of Southern California en legde het vast in RFC 882 en 883. Daarvoor stonden alle namen en adressen in één tekstbestand, HOSTS.TXT, dat centraal werd bijgehouden bij SRI in Californië en door elke computer moest worden gekopieerd. Met een groeiend netwerk werd dat onhoudbaar. In 2012 werd Mockapetris opgenomen in de Internet Hall of Fame.\n\nEr zijn maar 13 IP-adressen voor de rootservers, een grens die uit technische beperkingen van het protocol voortkomt. Achter die adressen zitten volgens ICANN wel meer dan 1500 servers verspreid over de wereld, die via anycast elk het dichtstbijzijnde verzoek beantwoorden.\n\n## Nuance of misverstand\n\nDNS is niet één groot centraal telefoonboek: geen enkele server kent alle adressen. Het is ook niet zo dat elke klik een tocht langs de rootservers kost: dankzij caching kent je resolver de meeste populaire adressen al.\n\nKlassieke DNS-vragen gaan bovendien onversleuteld over het netwerk. Nieuwere varianten zoals DNS over HTTPS versleutelen ze wel.\n\n## Wat je ermee doet\n\nWeet dat een storing 'het internet ligt plat' soms eigenlijk een DNS-storing is: de sites draaien nog, maar niemand vindt ze. In je router of gsm kun je een andere publieke resolver instellen. Kies daarbij bewust: de resolver ziet welke domeinen je opvraagt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\">\n<g stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\">\n<rect x=\"10\" y=\"90\" width=\"70\" height=\"40\" rx=\"6\"/>\n<rect x=\"125\" y=\"90\" width=\"80\" height=\"40\" rx=\"6\"/>\n<rect x=\"265\" y=\"14\" width=\"85\" height=\"34\" rx=\"6\"/>\n<rect x=\"265\" y=\"93\" width=\"85\" height=\"34\" rx=\"6\"/>\n<rect x=\"265\" y=\"172\" width=\"85\" height=\"34\" rx=\"6\"/>\n</g>\n<text x=\"45\" y=\"114\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Jouw gsm</text>\n<text x=\"165\" y=\"114\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Resolver</text>\n<text x=\"307\" y=\"35\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Root</text>\n<text x=\"307\" y=\"114\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">.be-server</text>\n<text x=\"307\" y=\"193\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Server site</text>\n<g stroke=\"#fff\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\">\n<line x1=\"80\" y1=\"110\" x2=\"125\" y2=\"110\"/><line x1=\"205\" y1=\"105\" x2=\"265\" y2=\"35\"/><line x1=\"205\" y1=\"110\" x2=\"265\" y2=\"110\"/><line x1=\"205\" y1=\"115\" x2=\"265\" y2=\"185\"/>\n</g>\n<circle r=\"6\" fill=\"#ffd166\">\n<animateMotion path=\"M80 110 L125 110 L205 105 L265 35 L205 105 L205 110 L265 110 L205 110 L205 115 L265 185 L205 115 L125 110 L80 110\" dur=\"8s\" repeatCount=\"indefinite\"/></circle>\n<text x=\"12\" y=\"160\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">vrt.be = IP-adres</text>\n<text x=\"12\" y=\"176\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">(daarna in cache)</text>\n</svg>",
+   "quiz": {
+    "q": "Wat doet een rootserver als je resolver naar vrt.be vraagt?",
+    "o": [
+     "Hij geeft meteen het IP-adres van vrt.be",
+     "Hij verwijst door naar de server die .be beheert",
+     "Hij stuurt de webpagina zelf door"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Cloudflare: DNS server types",
+     "u": "https://www.cloudflare.com/learning/dns/dns-server-types/"
+    },
+    {
+     "t": "ICANN RSSAC FAQ",
+     "u": "https://www.icann.org/resources/pages/rssac-faq-2018-03-05-en"
+    },
+    {
+     "t": "Internet Hall of Fame: Paul Mockapetris",
+     "u": "https://internethalloffame.org/inductees/paul-mockapetris"
+    }
+   ],
+   "date": "2026-11-24T05:45:16Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Een elektrische auto tankt stroom bij elk rood licht",
+   "body": "Als je in een elektrische auto het gaspedaal lost of remt, draait de elektromotor om en wordt hij een generator. De draaiende wielen wekken stroom op die terug naar de batterij gaat, en dat afremmen vertraagt de auto. Volgens het Amerikaanse ministerie van Energie wint dat netto zo'n 22% energie terug.",
+   "take": "Rij vooruitziend: los vroeg het gaspedaal voor een rood licht, zodat de motor zachtjes terugwint in plaats van de schijfremmen.",
+   "deep": "## Hoe het werkt\n\nEen elektromotor zet stroom om in beweging. Maar het werkt ook omgekeerd: draai je de as van een motor rond, dan wekt hij stroom op, zoals een fietsdynamo. Een elektrische auto gebruikt dat bij het vertragen.\n\nLos je het gaspedaal of trap je zachtjes op de rem, dan stuurt de elektronica de motor als generator. De wielen draaien de motor aan, de motor maakt stroom en die stroom laadt de batterij op. Omdat het opwekken van stroom kracht kost, remt de auto af. Bij een gewone auto verdwijnt die bewegingsenergie als warmte in de remschijven.\n\n## Een voorbeeld\n\nJe rijdt door de Gentse binnenstad met veel verkeerslichten en rotondes. Bij elk rood licht los je het pedaal en de auto vertraagt vanzelf, terwijl de batterijmeter even omhoog tikt. Op de E40 aan constante snelheid rem je bijna nooit, en wint de auto dus ook amper iets terug. Daarom zijn elektrische auto's relatief zuinig in de stad.\n\n## Wat onderzoek zegt\n\nVolgens fueleconomy.gov, de site van het Amerikaanse ministerie van Energie (DOE) en het milieuagentschap EPA, wordt de motor bij het remmen omgekeerd gebruikt: de draaiende wielen laten de motor stroom maken, en dat vertraagt het voertuig.\n\nEen DOE-overzicht uit 2024 rekent voor de gecombineerde stads- en snelwegrit van de EPA dat 65 tot 69% van de energie uit het net bij de wielen aankomt, en dat recuperatief remmen netto ongeveer 22% terugwint. Zo komt een typische elektrische auto uit op een efficiëntie van 87 tot 91%, tegenover ongeveer 30% voor een gewone benzinewagen.\n\n## Nuance of misverstand\n\nJe wint nooit alle bewegingsenergie terug: bij het omzetten en opslaan gaat altijd een deel verloren. Een volle of ijskoude batterij kan bovendien minder stroom opnemen, waardoor de auto dan minder terugwint. En gewone remmen blijven nodig, voor een noodstop of om helemaal stil te staan. Recuperatief remmen is dus geen eeuwigdurende batterij, wel een flinke besparing in stop-and-goverkeer.\n\n## Wat je ermee doet\n\nKijk in de instellingen van je elektrische auto of hybride welke recuperatiestanden er zijn en probeer ze uit. Rij vooruitziend en laat de auto zoveel mogelijk uitbollen in plaats van laat en hard te remmen. Zo win je meer stroom terug en slijten je remblokken minder snel.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\">\n<g transform=\"translate(70 110)\">\n<circle r=\"45\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/>\n<g stroke=\"#fff\" stroke-width=\"2\">\n<line x1=\"0\" y1=\"-45\" x2=\"0\" y2=\"45\"/><line x1=\"-45\" y1=\"0\" x2=\"45\" y2=\"0\"/>\n<animateTransform attributeName=\"transform\" type=\"rotate\" values=\"0;360\" dur=\"3s\" repeatCount=\"indefinite\"/></g>\n<circle r=\"8\" fill=\"#ffd166\"/>\n</g>\n<text x=\"70\" y=\"180\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Wiel draait</text>\n<text x=\"70\" y=\"196\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">de motor aan</text>\n<rect x=\"150\" y=\"90\" width=\"60\" height=\"40\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/>\n<text x=\"180\" y=\"114\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Generator</text>\n<line x1=\"118\" y1=\"110\" x2=\"150\" y2=\"110\" stroke=\"#fff\" stroke-width=\"2\"/>\n<line x1=\"210\" y1=\"110\" x2=\"262\" y2=\"110\" stroke=\"#06d6a0\" stroke-width=\"3\" stroke-dasharray=\"6 6\">\n<animate attributeName=\"stroke-dashoffset\" values=\"24;0\" dur=\"1s\" repeatCount=\"indefinite\"/></line>\n<path d=\"M260 104 L270 110 L260 116 Z\" fill=\"#06d6a0\"/>\n<rect x=\"275\" y=\"70\" width=\"60\" height=\"80\" rx=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/>\n<rect x=\"281\" y=\"114\" width=\"48\" height=\"30\" fill=\"#06d6a0\">\n<animate attributeName=\"height\" values=\"30;60;30\" dur=\"6s\" repeatCount=\"indefinite\"/>\n<animate attributeName=\"y\" values=\"114;84;114\" dur=\"6s\" repeatCount=\"indefinite\"/></rect>\n<text x=\"305\" y=\"168\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Batterij</text>\n<text x=\"180\" y=\"40\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Afremmen = stroom opwekken</text>\n</svg>",
+   "quiz": {
+    "q": "Waar win je met recuperatief remmen de meeste energie terug?",
+    "o": [
+     "Op de snelweg aan constante snelheid",
+     "Bij het opladen aan een snellader",
+     "In stadsverkeer met veel stoppen en vertragen"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "US DOE: FOTW #1360 (2024)",
+     "u": "https://www.energy.gov/cmei/vehicles/articles/fotw-1360-sept-16-2024-typical-ev-87-91-efficient-compared-30-conventional"
+    },
+    {
+     "t": "fueleconomy.gov: Where the energy goes",
+     "u": "https://fueleconomy.gov/feg/atv-ev.shtml"
+    },
+    {
+     "t": "US DOE AFDC: regeneratief remmen",
+     "u": "https://afdc.energy.gov/fueleconomy/animations/hybrids/hybrid/hybridbraking.html"
+    }
+   ],
+   "date": "2026-11-24T05:45:16Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Je usb-stick bewaart foto's in opgesloten elektronen",
+   "body": "Elke cel in flashgeheugen is een transistor met een extra 'zwevende poort', volledig omringd door isolerend materiaal. Een hoge spanning duwt elektronen door die isolator; daarna zitten ze jarenlang gevangen, ook zonder stroom. Veel of weinig lading betekent een andere bitwaarde. Fujio Masuoka van Toshiba stelde flashgeheugen in 1984 voor.",
+   "take": "Gebruik een usb-stick of SSD niet als enige archief: bewaar belangrijke foto's ook op een tweede plek.",
+   "deep": "## Hoe het werkt\n\nEen flashcel is een transistor met twee poorten boven elkaar. Bovenaan zit de stuurpoort, die je aanstuurt. Daaronder zit de zwevende poort, een laagje geleidend materiaal dat aan alle kanten is ingepakt in een dunne isolator. Onderaan loopt het kanaal waar stroom door kan.\n\nOm te schrijven zet je een hoge spanning op de stuurpoort. Daardoor tunnelen elektronen door de dunne isolatielaag naar de zwevende poort. Valt de spanning weg, dan kunnen ze niet meer weg. Die opgesloten lading maakt het moeilijker om de transistor aan te zetten. Bij het lezen meet de chip hoe makkelijk de cel geleidt, en dat vertaalt hij naar een 0 of een 1. Wissen gebeurt met een omgekeerde spanning, per blok tegelijk.\n\n## Een voorbeeld\n\nJe kopieert vakantiefoto's naar een usb-stick en legt die in een schuif. Er zit geen batterij in, toch staan de foto's er maanden later nog op. Dat komt doordat de elektronen in miljarden cellen gevangen blijven achter hun isolerende laag. De SSD in je laptop en het geheugen in je smartphone werken volgens hetzelfde principe.\n\n## Wat onderzoek zegt\n\nFujio Masuoka en zijn team bij Toshiba presenteerden het eerste flashgeheugen in 1984 op de International Electron Devices Meeting van de IEEE. Het wist grote blokken in één keer, wat de naam 'flash' verklaart. In 1987 volgde op dezelfde conferentie NAND-flash, de compacte variant die nu in usb-sticks en SSD's zit. Toshiba bracht zijn eerste NAND-chip volgens IEEE Spectrum in 1989 op de markt.\n\nModerne chips stoppen meerdere bits in één cel door verschillende hoeveelheden lading te onderscheiden. Dat gaat ten koste van de levensduur: volgens vakmedium TechTarget haalt een cel met één bit ongeveer 100.000 schrijf- en wiscycli, met drie bits ongeveer 3000 en met vier bits ongeveer 1000.\n\n## Nuance of misverstand\n\nFlash is niet onverwoestbaar. Elke schrijfcyclus beschadigt de isolatielaag een beetje, en na verloop van tijd lekken elektronen weg, zeker bij hoge temperaturen. De controller in een SSD vangt veel op met foutcorrectie en door het schrijven slim over alle cellen te spreiden. Veel nieuwe chips gebruiken bovendien geen geleidende zwevende poort meer, maar een isolerende laag die de lading vasthoudt (charge trap). Het basisidee, opgesloten elektronen, blijft hetzelfde.\n\n## Wat je ermee doet\n\nGebruik usb-sticks voor transport en SSD's voor dagelijks werk, maar niet als enige langetermijnarchief. Maak van belangrijke bestanden altijd een tweede kopie, bijvoorbeeld op een externe schijf of in de cloud. Laat een stick ook niet in een hete auto liggen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\">\n<rect x=\"60\" y=\"20\" width=\"200\" height=\"30\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/>\n<text x=\"160\" y=\"40\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Stuurpoort (+ spanning)</text>\n<rect x=\"60\" y=\"50\" width=\"200\" height=\"14\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"3 3\"/>\n<rect x=\"60\" y=\"64\" width=\"200\" height=\"34\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/>\n<text x=\"160\" y=\"85\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Zwevende poort</text>\n<rect x=\"60\" y=\"98\" width=\"200\" height=\"14\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"3 3\"/>\n<rect x=\"60\" y=\"112\" width=\"200\" height=\"34\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/>\n<text x=\"160\" y=\"134\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Kanaal (silicium)</text>\n<text x=\"268\" y=\"60\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">isolator</text>\n<text x=\"268\" y=\"109\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">isolator</text>\n<circle r=\"5\" fill=\"#06d6a0\"><animateMotion values=\"110,130;110,130;110,80;110,80\" keyTimes=\"0;0.3;0.6;1\" dur=\"5s\" repeatCount=\"indefinite\"/></circle>\n<circle r=\"5\" fill=\"#06d6a0\"><animateMotion values=\"160,130;160,130;150,80;150,80\" keyTimes=\"0;0.4;0.7;1\" dur=\"5s\" repeatCount=\"indefinite\"/></circle>\n<circle r=\"5\" fill=\"#06d6a0\"><animateMotion values=\"210,130;210,130;215,80;215,80\" keyTimes=\"0;0.5;0.8;1\" dur=\"5s\" repeatCount=\"indefinite\"/></circle>\n<text x=\"40\" y=\"172\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">elektronen tunnelen door de isolator</text>\n<text x=\"40\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">en blijven gevangen, ook zonder stroom</text>\n<text x=\"40\" y=\"208\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">veel lading = andere bitwaarde dan weinig</text>\n</svg>",
+   "quiz": {
+    "q": "Waarom blijven gegevens op een usb-stick bewaard zonder stroom?",
+    "o": [
+     "Een kleine batterij in de stick houdt de cellen gevoed",
+     "Elektronen zitten opgesloten achter een isolerende laag",
+     "De bits worden magnetisch vastgelegd, zoals op een harde schijf"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "IEEE Spectrum: Chip Hall of Fame",
+     "u": "https://spectrum.ieee.org/chip-hall-of-fame-toshiba-nand-flash-memory"
+    },
+    {
+     "t": "Semiconductor History Museum of Japan",
+     "u": "https://shmj.or.jp/english/pdf/ic/exhibi741E.pdf"
+    },
+    {
+     "t": "TechTarget: NAND flash wear-out",
+     "u": "https://www.techtarget.com/searchstorage/definition/NAND-flash-wear-out"
+    }
+   ],
+   "date": "2026-11-24T05:45:16Z"
+  }
+ ],
  "dives": [
   {
    "id": "2026-11-24",
