@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T05:46:38Z",
+ "updated": "2026-11-24T05:48:12Z",
  "cards": [
   {
    "cat": "psychologie",
@@ -976,6 +976,322 @@
     }
    ],
    "date": "2026-11-24T05:46:38Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "De tulpenmanie ruïneerde bijna niemand",
+   "body": "Het verhaal van Hollanders die in 1637 alles verloren aan tulpenbollen klopt grotendeels niet. Historica Anne Goldgar (King's College London) spitte de archieven van onder meer Haarlem en Alkmaar door en vond geen enkel bewezen faillissement door de krach. De handel liep vooral via contracten, binnen een vrij kleine groep handelaars.",
+   "take": "Hoor je 'dit is een nieuwe tulpenmanie'? Vraag dan: wie verloor echt geld, en hoeveel? Legendes over zeepbellen overdrijven vaak.",
+   "deep": "## Hoe het werkt\n\nIn de winter van 1636-1637 zaten tulpenbollen onder de grond. Wie toen 'kocht', tekende dus een contract voor een bol die pas in de zomer geleverd zou worden. Die contracten wisselden in herbergen snel van eigenaar, zonder dat er een bol of veel geld aan te pas kwam: de Hollanders noemden dat 'windhandel'. Begin februari 1637 sloeg het om. Op een veiling in Haarlem op 3 februari daagden geen kopers op, en binnen enkele dagen wilde niemand de afgesproken prijzen nog betalen. Het Hof van Holland weigerde een knoop door te hakken en stuurde de geschillen terug naar de steden, die de partijen tot een schikking moesten brengen.\n\n## Een voorbeeld\n\nOp 5 februari 1637 werden in de schutterij van Alkmaar de bollen geveild van wijlen herbergier Wouter Winckel, ten voordele van zijn weeskinderen. Eén 'Viceroy' bracht 4.200 gulden op, een van de hoogste prijzen van die dag. Zulke cijfers leven nog altijd voort als bewijs van collectieve waanzin. Maar het ging om zeldzame, gegeerde variëteiten, en of zulke bedragen achteraf ook echt betaald werden, is maar de vraag.\n\n## Wat onderzoek zegt\n\nGoldgar publiceerde in 2007 'Tulipmania: Money, Honor, and Knowledge in the Dutch Golden Age'. Ze vond geen enkel geval van iemand die failliet ging door de krach. Zelfs schilder Jan van Goyen, vaak opgevoerd als slachtoffer, lijkt eerder door grondspeculatie in de problemen te zijn gekomen. Het beeld van een heel land in de ban van bollen komt volgens haar uit moraliserende pamfletten en latere navertellingen, met als bekendste het boek van de Schotse journalist Charles Mackay uit 1841. Mackay steunde op bronnen die zelf al weinig betrouwbaar waren.\n\n## Nuance of misverstand\n\nGoldgar zegt niet dat er niets gebeurde. De prijzen stegen echt spectaculair, en kopers en verkopers procedeerden nog jaren over contracten. Ook haar besluit krijgt kritiek: econoom Peter Garber verklaarde de prijzen eerder grotendeels met gewone marktwerking voor zeldzame bloemen, en critici vinden dat ze het aantal faillissementen te snel op nul zet. De kern blijft overeind: de 'eerste financiële zeepbel' was kleiner, korter en minder verwoestend dan het schoolboekverhaal.\n\n## Wat je ermee doet\n\nWanneer bitcoin, aandelen of sneakers 'een tulpenmanie' genoemd worden, weet je nu dat het origineel zelf een deels opgeklopt verhaal is. Kijk bij elke zogenaamde zeepbel naar drie dingen: wie deed er echt mee, werd er echt betaald, en wie heeft baat bij het dramatische verhaal?",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><line x1=\"40\" y1=\"180\" x2=\"340\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"40\" y1=\"30\" x2=\"40\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"46\" y=\"30\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">prijs contracten</text><path d=\"M40 170 L100 162 L150 142 L190 104 L220 54 L238 48 L252 150 L335 166\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"420\" stroke-dashoffset=\"420\"><animate attributeName=\"stroke-dashoffset\" values=\"420;0;0\" keyTimes=\"0;0.6;1\" dur=\"7s\" repeatCount=\"indefinite\"/></path><circle r=\"5\" fill=\"#ff6b9d\"><animateMotion path=\"M40 170 L100 162 L150 142 L190 104 L220 54 L238 48 L252 150 L335 166\" dur=\"7s\" repeatCount=\"indefinite\"/></circle><text x=\"80\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">winter 1636</text><text x=\"212\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">feb 1637</text><text x=\"262\" y=\"70\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">faillissementen</text><text x=\"262\" y=\"86\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\">gevonden: 0</text><text x=\"60\" y=\"120\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">windhandel</text></svg>",
+   "quiz": {
+    "q": "Wat vond historica Anne Goldgar in de archieven over de tulpenkrach van 1637?",
+    "o": [
+     "Geen enkel bewezen faillissement door de krach",
+     "Duizenden faillissementen in Amsterdam",
+     "Dat tulpen in 1637 nog niet verhandeld werden"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "History.com",
+     "u": "https://www.history.com/articles/tulip-mania-financial-crash-holland"
+    },
+    {
+     "t": "Reviews in History (IHR)",
+     "u": "https://reviews.history.ac.uk/review/666"
+    },
+    {
+     "t": "Smithsonian Magazine",
+     "u": "https://www.smithsonianmag.com/history/there-never-was-real-tulip-fever-180964915/"
+    }
+   ],
+   "date": "2026-11-24T05:48:12Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Ponskaarten telden Amerika en legden de basis voor IBM",
+   "body": "De Amerikaanse volkstelling van 1880 was pas na zowat acht jaar volledig verwerkt. Voor 1890 liet het Census Bureau de gegevens van bijna 63 miljoen mensen op ponskaarten zetten, met machines van Herman Hollerith. Metalen pinnen 'lazen' de gaatjes elektrisch. De eerste telling stond er na zes maanden. Hollerith's bedrijf groeide later uit tot IBM.",
+   "take": "Gegevens in een vast formaat maken telwerk automatiseerbaar. Zet je eigen lijsten dus consequent in kolommen, niet in vrije tekst.",
+   "deep": "## Hoe het werkt\n\nElke persoon kreeg een eigen kaart, ongeveer zo groot als een dollarbiljet uit die tijd. Een klerk ponste met een pantograaf gaatjes op vaste plaatsen: één positie voor man of vrouw, andere voor bijvoorbeeld leeftijd of geboorteland. In de tabelleermachine drukte een plaat met pinnen op de kaart. Waar een gaatje zat, zakte een pin door tot in een bakje kwik eronder. Dat sloot een elektrische kring, waardoor de wijzer van een van de 40 tellers één stap versprong. Zo hoefde niemand nog te turven: de machine telde terwijl de kaarten erdoor gingen.\n\n## Een voorbeeld\n\nDenk aan een vraag als: hoeveel vrouwen tussen 20 en 30 jaar wonen er in een staat? Met de hand betekende dat stapels formulieren doorbladeren en streepjes zetten. Met het systeem van Hollerith ging elke kaart onder de pinnen, sloten de juiste kringen en versprongen de bijbehorende tellers vanzelf. Het voorwerk bleef wel handwerk: een klerk met een pantograaf maakte ongeveer 500 kaarten per dag, en voor de telling van 1890 werden er zo'n 60 miljoen geponst.\n\n## Wat onderzoek zegt\n\nVolgens het Census Bureau won Hollerith in 1888 een wedstrijd door testgegevens in 5,5 uur te verwerken, wat hem het contract voor 1890 opleverde. Op 8 januari 1889 kreeg hij zijn patent. Het bureau huurde een hele vloot machines; de verwerking eindigde maanden voor op schema en ver onder het budget, en de resultaten verschenen achttien maanden sneller dan die van 1880. IBM schrijft dat de telling na zes maanden klaar was en de volledige uitwerking na twee jaar. Landen als Oostenrijk, Canada, Frankrijk, Noorwegen en Rusland kochten daarna ook zijn machines.\n\n## Nuance of misverstand\n\nDe machine van Hollerith was nog geen computer: ze telde, maar rekende of programmeerde niet. Pas in 1928 bracht IBM een tabulator uit die kon optellen én aftrekken. Bronnen spreken elkaar ook tegen over details, zoals of de verwerking van 1880 zeven of acht jaar duurde. En de samenwerking was niet altijd rozengeur: het Census Bureau vond de huurprijzen te hoog en liet medewerkers onder leiding van James Powers eigen machines bouwen.\n\n## Wat je ermee doet\n\nDe echte vondst van Hollerith was niet alleen de machine, maar het vaste formaat: elk gegeven op een vaste plek. Dat principe zit vandaag in elke spreadsheet en databank. Wie gegevens netjes gestructureerd bijhoudt, kan ze later razendsnel laten tellen. Zijn Tabulating Machine Company uit 1896 fuseerde in 1911 met andere bedrijven en heet sinds 1924 International Business Machines.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"30\" y=\"70\" width=\"140\" height=\"80\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"50\" y=\"96\" width=\"8\" height=\"12\" fill=\"#ffd166\"/><rect x=\"90\" y=\"116\" width=\"8\" height=\"12\" fill=\"#ffd166\"/><rect x=\"130\" y=\"86\" width=\"8\" height=\"12\" fill=\"#ffd166\"/><g stroke=\"#fff\" stroke-width=\"2\"><line x1=\"54\" y1=\"30\" x2=\"54\" y2=\"58\"/><line x1=\"94\" y1=\"30\" x2=\"94\" y2=\"58\"/><line x1=\"134\" y1=\"30\" x2=\"134\" y2=\"58\"/><animateTransform attributeName=\"transform\" type=\"translate\" values=\"0 0;0 26;0 0\" dur=\"3s\" repeatCount=\"indefinite\"/></g><path d=\"M46 158 h16 v10 h-16 z M86 158 h16 v10 h-16 z M126 158 h16 v10 h-16 z\" fill=\"#06d6a0\"/><path d=\"M142 172 H260 V140\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"12;0\" dur=\"1s\" repeatCount=\"indefinite\"/></path><path d=\"M254 144 L260 134 L266 144 Z\" fill=\"#ffd166\"/><circle cx=\"270\" cy=\"96\" r=\"36\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"270\" y1=\"96\" x2=\"270\" y2=\"68\" stroke=\"#ff6b9d\" stroke-width=\"3\"><animateTransform attributeName=\"transform\" type=\"rotate\" values=\"0 270 96;360 270 96\" dur=\"8s\" repeatCount=\"indefinite\"/></line><text x=\"10\" y=\"26\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">pinnen</text><text x=\"60\" y=\"202\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">ponskaart</text><text x=\"150\" y=\"202\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">kwik sluit kring</text><text x=\"244\" y=\"50\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">teller +1</text></svg>",
+   "quiz": {
+    "q": "Wat gebeurde er in Hollerith's machine als een pin door een gaatje in de kaart ging?",
+    "o": [
+     "De kaart werd automatisch doormidden geknipt",
+     "De pin raakte kwik, sloot een kring en een teller versprong",
+     "Een klerk noteerde het gaatje met de hand"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "U.S. Census Bureau",
+     "u": "https://www.census.gov/about/history/bureau-history/census-innovations/technology/hollerith-machine.html"
+    },
+    {
+     "t": "IBM History",
+     "u": "https://www.ibm.com/history/punched-card-tabulator"
+    },
+    {
+     "t": "Computer History Museum",
+     "u": "https://www.computerhistory.org/revolution/punched-cards/2/2"
+    }
+   ],
+   "date": "2026-11-24T05:48:12Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Duurdere sigaretten maken je loon niet hoger",
+   "body": "Je loon volgt in België niet de gewone inflatie, maar de gezondheidsindex. Die wordt sinds januari 1994 berekend door uit de consumptieprijsindex alcoholische dranken, tabak en motorbrandstoffen (behalve lpg) te halen. Stijgt de prijs van sigaretten, bier of diesel, dan stijgt je loon daardoor niet mee. Elektriciteit en gas tellen wél mee.",
+   "take": "Volg de afgevlakte gezondheidsindex van Statbel om in te schatten wanneer je volgende loon- of huurindexering eraan komt.",
+   "deep": "## Hoe het werkt\n\nStatbel meet elke maand de prijzen van een grote korf goederen en diensten: dat is de consumptieprijsindex. Voor de gezondheidsindex haalt het daar een paar producten uit: alcoholische dranken, tabakswaren en motorbrandstoffen zoals benzine en diesel, met lpg als uitzondering. Van die gezondheidsindex wordt dan het gemiddelde van de laatste vier maanden genomen: de afgevlakte gezondheidsindex. Zo worden uitschieters gedempt. Overschrijdt dat gemiddelde een vooraf bepaalde drempel, de spilindex, dan stijgen uitkeringen en ambtenarenlonen. In de privésector bepaalt elk paritair comité hoe en wanneer de lonen geïndexeerd worden, maar ook daar vertrekt men van de gezondheidsindex.\n\n## Een voorbeeld\n\nStel: de accijns op sigaretten gaat omhoog en de dieselprijs schiet de hoogte in. In de gewone inflatie zie je dat meteen, in de gezondheidsindex niet. Rook je en rijd je veel met de auto, dan voel je dus een prijsstijging die je loonindexering nooit compenseert. Stijgen daarentegen de prijzen van elektriciteit, gas of brood, dan tellen die wel mee en duwen ze de afgevlakte index richting spilindex.\n\n## Wat onderzoek zegt\n\nDe gezondheidsindex werd ingevoerd bij koninklijk besluit van 24 december 1993 en wordt sinds januari 1994 berekend. Statbel publiceert hem elke maand, samen met de afgevlakte versie. Ter illustratie: in september 2025 stond de gezondheidsindex op 185,85 en de afgevlakte gezondheidsindex op 182,30, telkens met 1996 als basisjaar (= 100). De FOD Werkgelegenheid wijst erop dat de lijst van uitgesloten producten niet in steen gebeiteld is: de Koning kan ze aanpassen na advies van de Indexcommissie.\n\n## Nuance of misverstand\n\nDe naam doet denken aan een index van ziekte- of zorgkosten, maar dat is het niet: 'gezondheid' slaat op het weglaten van producten die als schadelijk voor de gezondheid gelden. Een gevolg is wel dat accijnsverhogingen op tabak of alcohol en pieken in de brandstofprijs zich niet automatisch vertalen in hogere lonen en uitkeringen. Tegelijk volgt je loon nog steeds de prijzen van bijna alles wat je koopt, van huur tot energie.\n\n## Wat je ermee doet\n\nWil je weten wanneer je volgende indexering eraan komt, kijk dan niet naar de inflatiecijfers uit het nieuws, maar naar de afgevlakte gezondheidsindex en de spilindex. En houd in je budget rekening met stijgende prijzen van tabak, alcohol of brandstof: die vangt je loonindexering niet op.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"14\" y=\"20\" width=\"80\" height=\"24\" rx=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"></rect><text x=\"24\" y=\"36\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">brood</text><rect x=\"14\" y=\"52\" width=\"80\" height=\"24\" rx=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"></rect><text x=\"24\" y=\"68\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">stroom</text><rect x=\"14\" y=\"84\" width=\"80\" height=\"24\" rx=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"></rect><text x=\"24\" y=\"100\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">huur</text><rect x=\"14\" y=\"124\" width=\"80\" height=\"24\" rx=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"1;0.3;1\" dur=\"4s\" repeatCount=\"indefinite\"/></rect><text x=\"24\" y=\"140\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">tabak</text><rect x=\"14\" y=\"156\" width=\"80\" height=\"24\" rx=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"1;0.3;1\" dur=\"4s\" repeatCount=\"indefinite\"/></rect><text x=\"24\" y=\"172\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">alcohol</text><rect x=\"14\" y=\"188\" width=\"80\" height=\"24\" rx=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"1;0.3;1\" dur=\"4s\" repeatCount=\"indefinite\"/></rect><text x=\"24\" y=\"204\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">diesel</text><path d=\"M94 64 H216\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M216 58 L226 64 L216 70 Z\" fill=\"#fff\"/><rect x=\"228\" y=\"40\" width=\"120\" height=\"50\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"238\" y=\"61\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">gezondheids-</text><text x=\"238\" y=\"79\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">index</text><circle r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M94 32 C150 32 160 64 226 64\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><circle r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M94 96 C150 96 160 64 226 64\" dur=\"3s\" begin=\"1.5s\" repeatCount=\"indefinite\"/></circle><path d=\"M100 168 H150\" stroke=\"#ff6b9d\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><text x=\"156\" y=\"172\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">telt niet mee</text><path d=\"M288 90 V122\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M282 122 L288 132 L294 122 Z\" fill=\"#fff\"/><text x=\"288\" y=\"150\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">je loon</text></svg>",
+   "quiz": {
+    "q": "Welk product telt NIET mee in de Belgische gezondheidsindex?",
+    "o": [
+     "Elektriciteit",
+     "Brood",
+     "Diesel"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Statbel – Gezondheidsindex",
+     "u": "https://statbel.fgov.be/en/health-index"
+    },
+    {
+     "t": "FOD Werkgelegenheid",
+     "u": "https://werk.belgie.be/nl/themas/verloning/indexsprong"
+    },
+    {
+     "t": "Vlaanderen.be – Indexcijfers",
+     "u": "https://www.vlaanderen.be/economie-en-ondernemen/indexcijfers"
+    }
+   ],
+   "date": "2026-11-24T05:48:12Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Elke beursorder betaalt een stille taks",
+   "body": "Koop of verkoop je als Belgische belegger aandelen, obligaties of fondsen, dan betaal je de taks op de beursverrichtingen (TOB). Er zijn drie tarieven: 0,12% (max. €1.300), 0,35% (max. €1.600) en 1,32% (max. €4.000) per verrichting. Op een aankoop van €10.000 is dat dus €12, €35 of €132.",
+   "take": "Beleg je via een buitenlandse broker? Check of die de TOB inhoudt. Zo niet, dan geef je hem zelf aan via MyMinfin.",
+   "deep": "## Hoe het werkt\n\nDe TOB is een belasting op elke aankoop en verkoop van effecten via een tussenpersoon, zoals een bank of online broker. Het tarief hangt af van wat je verhandelt. Het laagste tarief, 0,12% met een maximum van €1.300 per verrichting, geldt onder meer voor obligaties. Het algemene tarief van 0,35%, met een maximum van €1.600, geldt voor aandelen en veel andere producten. Het hoogste tarief, 1,32% met een maximum van €4.000, geldt onder meer voor kapitaliserende fondsen en ETF's die in België geregistreerd zijn. Een Belgische bank houdt de taks automatisch in; een buitenlandse broker doet dat niet altijd.\n\n## Een voorbeeld\n\nLotte koopt voor €10.000 aandelen: €35 TOB. Een jaar later verkoopt ze ze voor €12.000: opnieuw 0,35%, dus €42. Kiest ze een kapitaliserend fonds dat in België geregistreerd is, dan betaalt ze bij aankoop €132. Belegt ze via een buitenlandse broker die niets inhoudt, dan moet ze haar transacties van juli zelf aangeven en betalen tegen eind september: de deadline is de laatste werkdag van de tweede maand na de verrichting. Dat kan via MyMinfin, bij 'Diverse taksen'.\n\n## Wat onderzoek zegt\n\nVolgens Wikifin, het educatieve platform van de FSMA, gelden er drie tarieven met enkele uitzonderingen. Test-Aankoop meldde in oktober 2017 dat de tarieven vanaf 2018 omhooggingen: het middelste tarief steeg van 0,27% naar 0,35%, het laagste van 0,09% naar 0,12%. De maxima gelden per individuele transactie, niet per jaar. De taks wordt berekend op het aankoop- of verkoopbedrag, zonder makelaarsloon. De FOD Financiën bundelde de regels in maart 2026 in een vernieuwde FAQ-circulaire (2026/C/42).\n\n## Nuance of misverstand\n\nDe TOB is geen belasting op winst: je betaalt ze ook als je met verlies verkoopt, en ze komt bovenop de kosten van je broker. Welk tarief geldt, hangt niet alleen af van het soort product maar ook van de registratie. Zo valt een kapitaliserende ETF die niet in België geregistreerd is doorgaans onder een lager tarief dan 1,32%. Controleer dat per product, want een verkeerde inschatting is snel gemaakt.\n\n## Wat je ermee doet\n\nReken de TOB mee bij elke aankoop én verkoop, zeker als je vaak handelt: wie elke maand €200 in aandelen steekt, betaalt per order €0,70, klein maar het telt op. Beleg je via een buitenlandse broker, zet dan een herinnering voor je aangifte, want een vergeten aangifte kan je een boete opleveren.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><line x1=\"30\" y1=\"180\" x2=\"340\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"20\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">TOB op €10.000</text><rect x=\"50\" y=\"168\" width=\"60\" height=\"12\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"0;12;12\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;168;168\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"80\" y=\"162\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">€12</text><text x=\"80\" y=\"196\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">0,12%</text><text x=\"80\" y=\"211\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">obligaties</text><rect x=\"150\" y=\"145\" width=\"60\" height=\"35\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"0;35;35\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;145;145\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"180\" y=\"139\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">€35</text><text x=\"180\" y=\"196\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">0,35%</text><text x=\"180\" y=\"211\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">aandelen</text><rect x=\"250\" y=\"48\" width=\"60\" height=\"132\" fill=\"#ff6b9d\"><animate attributeName=\"height\" values=\"0;132;132\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;48;48\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"280\" y=\"42\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">€132</text><text x=\"280\" y=\"196\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1,32%</text><text x=\"280\" y=\"211\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">BE-kap.fonds</text></svg>",
+   "quiz": {
+    "q": "Je koopt via een Belgische bank voor €10.000 aandelen. Hoeveel TOB betaal je?",
+    "o": [
+     "€12",
+     "€35",
+     "€132"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Wikifin (FSMA)",
+     "u": "https://www.wikifin.be/nl/belasting-werk-en-inkomen/belastingaangifte/je-roerend-inkomen/de-belastingen-op-je-belgische"
+    },
+    {
+     "t": "Test-Aankoop",
+     "u": "https://www.test-aankoop.be/invest/fiscaliteit-en-wetgeving/belastingheffing/news/2017/10/beurstaks-beursverrichtingen-tob-stijging-januari-2018"
+    },
+    {
+     "t": "Test-Aankoop – TOB aangeven",
+     "u": "https://www.test-aankoop.be/geld/beleggen/nieuws/beleggingen-aangeven-beurs-belgie"
+    }
+   ],
+   "date": "2026-11-24T05:48:12Z"
+  },
+  {
+   "cat": "geld",
+   "title": "In 1923 kostte één dollar 4,2 biljoen mark",
+   "body": "In november 1923 was één Amerikaanse dollar ongeveer 4,2 biljoen Duitse papiermark waard. Een pond roggebrood kostte toen meer dan 100 miljard mark, en arbeiders kregen hun loon vaak twee keer per dag om het meteen uit te geven. De oorzaak: een staat die zijn tekorten dekte door almaar meer geld te drukken.",
+   "take": "Kijk bij inflatie niet alleen naar het cijfer, maar ook naar hoe een overheid haar tekorten financiert. Ongeremd geld bijdrukken ondermijnt vertrouwen.",
+   "deep": "## Hoe het werkt\n\nDuitsland betaalde de Eerste Wereldoorlog grotendeels met leningen en bijgedrukt geld, en bleef na 1918 zijn tekorten op die manier dekken. Daarbovenop kwamen de herstelbetalingen aan de geallieerden. Toen Duitsland leveringen van steenkool niet nakwam, bezetten Franse en Belgische troepen in januari 1923 het Ruhrgebied. De regering riep op tot passief verzet en betaalde de stakende arbeiders met vers gedrukte bankbiljetten. Meer geld voor evenveel of minder goederen betekent hogere prijzen. Iedereen verwachtte dat de mark morgen nog minder waard zou zijn en gaf zijn geld dus zo snel mogelijk uit. Dat joeg de prijzen nog sneller op: een spiraal.\n\n## Een voorbeeld\n\nStel dat je overgrootouders vóór de oorlog 10.000 mark op een spaarboekje hadden, toen een flink bedrag. Eind 1923 kon je daar nog geen brood meer mee kopen. Arbeiders kregen hun loon in de loop van 1923 vaak twee keer per dag en liepen ermee naar de winkel voor de prijzen weer stegen. Volgens een PBS-documentaire kon je op het dieptepunt met een kruiwagen vol geld nog geen krant kopen. Ook België speelde een rol in het verhaal: Belgische soldaten namen deel aan de bezetting van het Ruhrgebied.\n\n## Wat onderzoek zegt\n\nVolgens de Duitse Bundestag werd het dieptepunt bereikt in november 1923, toen één dollar 4,2 biljoen mark kostte. Britannica houdt het voor dezelfde maand op 'duizend miljard' mark; het exacte cijfer hangt af van de dag. Smithsonian meldt dat een pond roggebrood in november 1923 meer dan 100 miljard mark kostte. Vanaf 15 november 1923 kwam de Rentenmark: één Rentenmark stond gelijk aan een biljoen oude mark, zodat een dollar weer 4,20 Rentenmark kostte. Samen met het Dawesplan van 1924, dat de herstelbetalingen herschikte, brak dat de spiraal.\n\n## Nuance of misverstand\n\nHistorici en economen zijn het oneens over hoe zwaar de herstelbetalingen doorwogen; het jarenlang bijdrukken van geld speelde zeker een grote rol. En hoewel de crisis de Weimarrepubliek verzwakte en Britannica een verband legt met de opkomst van Hitler, kwam die pas in 1933 aan de macht, na de wereldwijde economische crisis van de jaren 1930. Niet iedereen verloor trouwens: wie schulden in mark had, zag die wegsmelten.\n\n## Wat je ermee doet\n\nHyperinflatie is zeldzaam en heeft een herkenbaar recept: grote tekorten, geld bijdrukken en verdwenen vertrouwen. Zie je die combinatie in een land waar je spaargeld hebt of zaken doet, wees dan voorzichtig met bedragen in die munt. En onthoud: de 2% inflatie die de ECB nastreeft, is van een totaal andere orde.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><line x1=\"40\" y1=\"180\" x2=\"340\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"40\" y1=\"30\" x2=\"40\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"46\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">mark per dollar</text><path d=\"M40 180 C200 178 262 166 292 34\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"330\" stroke-dashoffset=\"330\"><animate attributeName=\"stroke-dashoffset\" values=\"330;0;0\" keyTimes=\"0;0.7;1\" dur=\"6s\" repeatCount=\"indefinite\"/></path><circle r=\"5\" fill=\"#ff6b9d\"><animateMotion path=\"M40 180 C200 178 262 166 292 34\" keyPoints=\"0;1;1\" keyTimes=\"0;0.7;1\" calcMode=\"linear\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><text x=\"120\" y=\"50\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\">nov 1923: 4,2 biljoen</text><text x=\"40\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">1919</text><text x=\"150\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">1922</text><text x=\"262\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">1923</text><text x=\"60\" y=\"160\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">drukpers draait</text></svg>",
+   "quiz": {
+    "q": "Wat was één Rentenmark waard toen hij in november 1923 werd ingevoerd?",
+    "o": [
+     "Een biljoen oude papiermark",
+     "Honderd oude papiermark",
+     "Precies één Amerikaanse dollar"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Deutscher Bundestag",
+     "u": "https://www.bundestag.de/parlament/geschichte/100-jahre-weimar/hyperinflation-970722"
+    },
+    {
+     "t": "Britannica",
+     "u": "https://www.britannica.com/event/hyperinflation-in-the-Weimar-Republic"
+    },
+    {
+     "t": "Smithsonian Magazine",
+     "u": "https://www.smithsonianmag.com/history/how-hyperinflation-heralded-the-fall-of-german-democracy-180982204/"
+    }
+   ],
+   "date": "2026-11-24T05:48:12Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "De Michelingids moest je vooral meer laten rijden",
+   "body": "In 1900 reden er in Frankrijk nog geen 3.000 auto's. Toch lieten bandenfabrikanten André en Édouard Michelin 35.000 exemplaren van een gratis gids drukken, met adressen van garages, tankplaatsen, hotels en restaurants. Hoe meer mensen reden, hoe sneller hun banden versleten en hoe meer nieuwe ze kochten. De eerste restaurantster kwam pas in 1926.",
+   "take": "Maak iets wat je klant echt helpt bij het gebruik van je product. Een nuttige gids verkoopt soms beter dan een advertentie.",
+   "deep": "## Hoe het werkt\n\nMichelin verkocht banden, en banden verslijten door kilometers. De gebroeders Michelin, die in 1889 een familiebedrijf in Clermont-Ferrand hadden overgenomen, hadden er dus alle belang bij dat mensen méér gingen rijden. De gids nam drempels weg: waar vind ik brandstof, een garage, een bed of een maaltijd? Later gaf de restaurantkeuze mensen ook een reden om ver te rijden. In 1926 begon de gids sterren toe te kennen aan restaurants van hoge kwaliteit; begin jaren 1930 groeide dat uit tot het systeem van één, twee en drie sterren, toegekend door anonieme inspecteurs.\n\n## Een voorbeeld\n\nVandaag zou je dat contentmarketing noemen: je geeft iets nuttigs weg dat niet rechtstreeks over je product gaat, maar het gebruik ervan stimuleert. Denk aan een bouwmarkt die gratis klusvideo's maakt, of een fietsenwinkel die fietsroutes door de Vlaamse Ardennen deelt. Wie die routes fietst, verslijt banden en kettingen, en komt terug naar de winkel die hem de route gaf.\n\n## Wat onderzoek zegt\n\nVolgens Michelin zelf telde Frankrijk bij de eerste editie zo'n 2.800 geregistreerde auto's, terwijl er 35.000 gidsen gratis werden verspreid onder automobilisten. Ongeveer twintig jaar bleef de gids gratis. Rond 1920 vroeg Michelin er voor het eerst geld voor, 7 frank per exemplaar; bronnen twijfelen tussen 1920 en 1922. In 1926 verschenen de eerste sterren. Over het jaar waarin de drie sterren hun huidige vorm kregen, verschillen de bronnen ook: 1931 of 1933.\n\n## Nuance of misverstand\n\nDe sterren, waar de gids nu om bekendstaat, kwamen pas een kwarteeuw na de eerste editie; in het begin was het vooral een praktisch reisboekje voor automobilisten. Het marketingdoel was ook geen geheim: de gids droeg gewoon de naam van de bandenfabrikant. Dat de inspecteurs anoniem werken en de gids geloofwaardig bleef, is net wat hem zo waardevol maakte. Zonder vertrouwen was ook het reclame-effect verdwenen.\n\n## Wat je ermee doet\n\nVraag je bij je eigen project af: wat doet mijn klant vóór en na het gebruik van mijn product, en waar kan ik hem daarbij helpen? Maak die hulp echt nuttig en geloofwaardig, ook als ze niet meteen verkoopt. De Michelingids toont dat zo'n aanpak meer dan een eeuw kan meegaan.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><path d=\"M60 115 A120 70 0 1 1 300 115 A120 70 0 1 1 60 115\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"6 6\"/><circle r=\"6\" fill=\"#ffd166\"><animateMotion path=\"M60 115 A120 70 0 1 1 300 115 A120 70 0 1 1 60 115\" dur=\"8s\" repeatCount=\"indefinite\"/></circle><g><circle cx=\"180\" cy=\"115\" r=\"30\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"180\" cy=\"115\" r=\"10\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M180 85 V105 M180 125 V145 M150 115 H170 M190 115 H210\" stroke=\"#06d6a0\" stroke-width=\"2\"/><animateTransform attributeName=\"transform\" type=\"rotate\" values=\"0 180 115;360 180 115\" dur=\"4s\" repeatCount=\"indefinite\"/></g><text x=\"180\" y=\"34\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">gratis gids</text><text x=\"306\" y=\"119\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">meer km</text><text x=\"180\" y=\"204\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">banden slijten</text><text x=\"54\" y=\"110\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"end\">nieuwe</text><text x=\"54\" y=\"126\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"end\">banden</text></svg>",
+   "quiz": {
+    "q": "Waarom maakten de gebroeders Michelin in 1900 een gratis gids?",
+    "o": [
+     "Om restaurants te laten betalen voor reclame",
+     "Om de Franse overheid te helpen bij het plannen van wegen",
+     "Om mensen meer te laten rijden, zodat ze meer banden kochten"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Michelin Guide – geschiedenis",
+     "u": "https://guide.michelin.com/kr/en/article/features/history-michelin-guide"
+    },
+    {
+     "t": "Michelin UK",
+     "u": "https://www.michelin.co.uk/blog/articles/history-of-the-michelin-guide"
+    },
+    {
+     "t": "Google Arts & Culture",
+     "u": "https://artsandculture.google.com/asset/michelin-guide-michelin-tire-guide/6wF7st_v4b-KHw"
+    }
+   ],
+   "date": "2026-11-24T05:48:12Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Coca-Cola vond de rode kerstman niet uit",
+   "body": "De kerstman in rood pak bestond al decennia vóór de reclame van Coca-Cola. Tekenaar Thomas Nast gaf hem vanaf 1863 in Harper's Weekly zijn bolle, bebaarde gestalte. Coca-Cola liet illustrator Haddon Sundblom hem van 1931 tot 1964 schilderen. Die warme, lachende versie maakte het beeld wereldwijd populair, maar uitgevonden heeft het bedrijf hem niet.",
+   "take": "Hoor je 'merk X heeft Y uitgevonden'? Zoek oudere afbeeldingen of teksten op: populair maken is iets anders dan uitvinden.",
+   "deep": "## Hoe het werkt\n\nHet beeld van de kerstman groeide in lagen. Het gedicht 'A Visit from St. Nicholas' van Clement Clarke Moore uit 1822 beschreef een vrolijke, mollige Sint-Nicolaas met een slee en rendieren. Thomas Nast tekende hem vanaf januari 1863 voor het tijdschrift Harper's Weekly, eerst nog als steun voor het noordelijke leger in de Amerikaanse Burgeroorlog. Zijn bekendste prent, 'Merry Old Santa Claus', verscheen op 1 januari 1881. Omdat Harper's Weekly in zwart-wit drukte, verspreidde het rode pak zich via gekleurde prenten en illustraties. Coca-Cola zegt zelf dat de kerstman al lang vóór Sundblom een rode jas droeg.\n\n## Een voorbeeld\n\nIn Vlaanderen ken je het verschil goed: Sinterklaas met mijter en staf op 6 december, de kerstman in rood pak met Kerstmis. Toch delen ze een wortel in de heilige Nicolaas, zoals de titel van Moores gedicht al verraadt. De Amerikaanse Santa Claus kreeg zijn uiterlijk via Moore en Nast. Coca-Cola gaf hem vanaf de jaren 1930 een vast, warm gezicht met blozende wangen, twinkelende ogen en lachrimpels, jaar na jaar in advertenties.\n\n## Wat onderzoek zegt\n\nCoca-Cola schrijft op zijn eigen website dat het de legende van de kerstman niet heeft gecreëerd, maar dat zijn reclame wel een grote rol speelde in het beeld dat we vandaag kennen. Volgens het bedrijf schilderde Sundblom vanaf 1931 zijn kerstmannen, met Moores gedicht als inspiratie, en maakte hij zijn laatste versie in 1964. Daarna bleef het bedrijf zijn originele werken nog decennialang gebruiken. Factcheckers van Snopes komen tot hetzelfde besluit: de rondbuikige, bebaarde man in rood-wit bestond al vóór Coca-Cola.\n\n## Nuance of misverstand\n\nHet hardnekkige verhaal dat de kerstman rood werd 'in de kleuren van Coca-Cola' klopt dus niet. Toch is het ook overdreven om het bedrijf elke invloed te ontzeggen. Door decennialang elk jaar dezelfde gezellige kerstman op grote schaal te tonen, hielp Coca-Cola één versie standaard te maken, terwijl er voordien kerstmannen in allerlei gedaanten en kleuren circuleerden.\n\n## Wat je ermee doet\n\nGebruik dit als denkoefening bij marketingclaims: wie iets op enorme schaal herhaalt, krijgt vaak ook de eer van de uitvinding. Wil je zelf een beeld aan je merk koppelen, dan helpt consequent herhalen vaak meer dan origineel zijn. Wees wel eerlijk over waar het vandaan komt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><line x1=\"60\" y1=\"110\" x2=\"300\" y2=\"110\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"32\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">rood pak al vóór Coca-Cola</text><circle cx=\"60\" cy=\"110\" r=\"12\" fill=\"#ffd166\" opacity=\"0.3\"><animate attributeName=\"opacity\" values=\"0.3;1;0.3\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/></circle><text x=\"60\" y=\"88\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">1822</text><text x=\"60\" y=\"140\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">gedicht</text><text x=\"60\" y=\"156\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Moore</text><circle cx=\"180\" cy=\"110\" r=\"12\" fill=\"#ffd166\" opacity=\"0.3\"><animate attributeName=\"opacity\" values=\"0.3;1;0.3\" dur=\"6s\" begin=\"2s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"88\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">1863</text><text x=\"180\" y=\"140\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Nast tekent</text><text x=\"180\" y=\"156\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">in Harper's</text><circle cx=\"300\" cy=\"110\" r=\"12\" fill=\"#ffd166\" opacity=\"0.3\"><animate attributeName=\"opacity\" values=\"0.3;1;0.3\" dur=\"6s\" begin=\"4s\" repeatCount=\"indefinite\"/></circle><text x=\"300\" y=\"88\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">1931</text><text x=\"300\" y=\"140\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Coca-Cola</text><text x=\"300\" y=\"156\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">maakt populair</text><circle r=\"5\" fill=\"#ff6b9d\"><animateMotion path=\"M60 110 H300\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"196\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Sundblom schildert tot 1964</text></svg>",
+   "quiz": {
+    "q": "Welke rol speelde Coca-Cola in het beeld van de kerstman?",
+    "o": [
+     "Het bedrijf verzon de kerstman in 1931",
+     "Het maakte een bestaand beeld wereldwijd populair via Sundblom",
+     "Het liet zijn pak van groen naar rood veranderen"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "The Coca-Cola Company",
+     "u": "https://www.coca-colacompany.com/about-us/history/haddon-sundblom-and-the-coca-cola-santas"
+    },
+    {
+     "t": "Ohio State University Libraries – Thomas Nast",
+     "u": "https://library.osu.edu/site/thomasnast/merry-old-santa-claus/"
+    },
+    {
+     "t": "Snopes",
+     "u": "https://www.snopes.com/cokelore/santa.asp"
+    }
+   ],
+   "date": "2026-11-24T05:48:12Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Die spotgoedkope aanbieding is aas, geen cadeau",
+   "body": "Een lokartikel is een product dat een winkel bewust heel goedkoop verkoopt, soms zelfs met verlies, om klanten binnen te halen. De winst komt uit de rest van je winkelkar. Costco verkoopt zijn hotdog met drankje al sinds 1985 voor $1,50. In België is verkoop met verlies in principe verboden, met uitzonderingen zoals de solden.",
+   "take": "Neem een boodschappenlijst mee en koop in de promoweek alleen de aanbiedingen die je echt nodig hebt. Dan win jij.",
+   "deep": "## Hoe het werkt\n\nEen winkel kiest een product dat veel mensen kennen en vaak kopen, zodat de lage prijs meteen opvalt: koffie, frisdrank, wc-papier, een kip aan het spit. Die prijs komt op de folder of de voorpagina van de website. Wie daarvoor naar de winkel komt, koopt zelden alleen dat ene product. De marge op de andere producten in de kar moet de lage winst, of het verlies, op het lokartikel ruim goedmaken. Het werkt dus alleen als er een 'rest van de winkel' is.\n\n## Een voorbeeld\n\nEen supermarkt in Vlaanderen zet een bekende frisdrank aan een opvallend lage prijs in de folder. Jij komt een bak halen, maar neemt ook chips, brood en een fles wijn mee, met een normale marge. In België moet die promoprijs wel minstens gelijk zijn aan de aankoopprijs of de herbevoorradingsprijs: verkoop met verlies is in principe verboden, behalve onder meer tijdens solden of uitverkoop en voor snel bederfelijke producten. Volgens Unizo mag een product uit een gezamenlijk aanbod wel met verlies, als de andere producten in dat aanbod het compenseren.\n\n## Wat onderzoek zegt\n\nEen studie van Talukdar, Gauri en Grewal in het Journal of Retailing (2010) vond dat 'extreme koopjesjagers', die enkel de promo's kopen, maar zo'n 2% van de klanten uitmaken, en dat een lokartikelstrategie de winst van winkels per saldo verhoogt. Onderzoek uit 2017 met gegevens van 24 filialen van een Amerikaanse supermarktketen vond dat diepe kortingen met reclame meer klanten en meer winst opleverden, al trokken ze vaak klanten met kleine winkelkarren aan. McKinsey waarschuwt dan weer dat het 'halo-effect' van promoties moeilijk te meten is en vaak kleiner uitvalt dan winkels hopen.\n\n## Nuance of misverstand\n\nNiet elke lage prijs is een verlies. Costco houdt zijn hotdog volgens analisten goedkoop dankzij eigen vleesverwerking, waardoor het er mogelijk net quitte op speelt. Het Europees Hof van Justitie oordeelde in 2013 dat het toenmalige Belgische verbod op verkoop met verlies niet strookte met de Europese richtlijn oneerlijke handelspraktijken; de wetgever paste de regel daarna aan, maar juristen discussiëren nog over de gevolgen. Een lokartikel is ook iets anders dan het lokaaseffect, waarbij een onaantrekkelijke derde optie je naar de duurdere keuze duwt.\n\n## Wat je ermee doet\n\nGebruik lokartikels in je voordeel: koop de promo, maar laat je niet verleiden tot een volle kar. En als ondernemer: kies een lokartikel dat past bij wat klanten daarna nog kopen, en ken de Belgische regels over verkoop met verlies.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"20\" y=\"70\" width=\"90\" height=\"50\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"65\" y=\"92\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">promo</text><text x=\"65\" y=\"109\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">spotprijs</text><text x=\"65\" y=\"142\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">lage marge</text><path d=\"M110 95 H196\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M196 89 L206 95 L196 101 Z\" fill=\"#fff\"/><circle r=\"5\" fill=\"#ffd166\"><animateMotion path=\"M110 95 H200\" dur=\"2s\" repeatCount=\"indefinite\"/></circle><text x=\"120\" y=\"84\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">klanten</text><rect x=\"208\" y=\"40\" width=\"134\" height=\"150\" rx=\"8\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"275\" y=\"60\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">winkelkar</text><g opacity=\"0\"><rect x=\"225\" y=\"150\" width=\"100\" height=\"20\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"235\" y=\"164\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">+ chips</text><animate attributeName=\"opacity\" values=\"0;1;1;0\" keyTimes=\"0;0.15;0.85;1\" dur=\"6s\" begin=\"0.5s\" repeatCount=\"indefinite\"/></g><g opacity=\"0\"><rect x=\"225\" y=\"122\" width=\"100\" height=\"20\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"235\" y=\"136\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">+ brood</text><animate attributeName=\"opacity\" values=\"0;1;1;0\" keyTimes=\"0;0.15;0.85;1\" dur=\"6s\" begin=\"1.5s\" repeatCount=\"indefinite\"/></g><g opacity=\"0\"><rect x=\"225\" y=\"94\" width=\"100\" height=\"20\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"235\" y=\"108\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">+ wijn</text><animate attributeName=\"opacity\" values=\"0;1;1;0\" keyTimes=\"0;0.15;0.85;1\" dur=\"6s\" begin=\"2.5s\" repeatCount=\"indefinite\"/></g><text x=\"275\" y=\"208\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">winst op de rest</text></svg>",
+   "quiz": {
+    "q": "Waarom verkoopt een winkel een lokartikel aan een heel lage prijs?",
+    "o": [
+     "Om klanten binnen te halen die ook andere, winstgevende producten kopen",
+     "Omdat de overheid dat verplicht voor basisproducten",
+     "Om oude voorraad kwijt te raken die niemand wil"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Unizo – regels rond verkoop",
+     "u": "https://www.unizo.be/ondernemersgids/bedrijfsvoering/marketing-en-verkoop/regels-rond-verkoop"
+    },
+    {
+     "t": "Journal of Retailing via IDEAS/RePEc",
+     "u": "https://ideas.repec.org/a/eee/jouret/v86y2010i4p336-354.html"
+    },
+    {
+     "t": "University of Arkansas",
+     "u": "https://news.uark.edu/articles/39724/do-deep-promotional-discounts-work-new-study-sheds-light-on-strategy"
+    }
+   ],
+   "date": "2026-11-24T05:48:12Z"
+  },
+  {
+   "cat": "taal",
+   "title": "'Huh?' klinkt bijna overal ter wereld hetzelfde",
+   "body": "Taalwetenschappers van het Max Planck Instituut voor Psycholinguïstiek in Nijmegen vergeleken gesprekken in 10 talen op 5 continenten. Overal vonden ze een kort woordje om te vragen 'wat zeg je?', dat opvallend gelijk klinkt: 'huh?', of bij ons 'hè?'. De gelijkenis was veel groter dan toeval. Hun studie uit 2013 won in 2015 een Ig Nobelprijs.",
+   "take": "Iets gemist in een gesprek? Zeg gerust 'hè?': het is een volwaardig woord dat het gesprek snel herstelt.",
+   "deep": "## Hoe het werkt\n\nIn elk gesprek loopt weleens iets mis: je hoort een woord niet of begrijpt een zin niet. Daarom heeft elke taal manieren om de ander te vragen iets te herhalen. Het snelste middel is een kort vraagwoordje. Omdat het in een fractie van een seconde gezegd en begrepen moet worden, liggen de mogelijkheden min of meer vast: één korte lettergreep met een eenvoudige klinker en een vragende toon. Volgens de onderzoekers leidt die gedeelde druk in elke taal onafhankelijk tot bijna hetzelfde woord. Ze spreken van convergente evolutie, zoals in de biologie verschillende diersoorten los van elkaar gelijkaardige vormen ontwikkelen.\n\n## Een voorbeeld\n\nJe zit op café en je vriend zegt iets over 'de match van zaterdag' terwijl de koffiemachine sist. Spontaan zeg je 'hè?', en hij herhaalt zijn zin. Een Spaanstalige, Russische of Chinese vriend zou in dezelfde situatie een woordje gebruiken dat volgens de studie bijna hetzelfde klinkt, met kleine verschillen in klinker en toonhoogte die bij de eigen taal passen.\n\n## Wat onderzoek zegt\n\nMark Dingemanse, Francisco Torreira en Nick Enfield publiceerden hun studie in november 2013 in PLOS ONE. Ze analyseerden opnames van alledaagse gesprekken in 10 talen die sterk verschillen in klanken en grammatica, en vonden dat de gelijkenis in vorm en functie veel groter was dan je bij toeval zou verwachten. In een bredere steekproef van 31 talen vonden ze telkens een gelijkaardig woord. Ze tonen ook aan dat het om een echt, aangeleerd woord gaat en niet om een reflexmatige grom. In 2015 kregen ze er de Ig Nobelprijs voor literatuur voor. Vervolgonderzoek toonde dat mensen gemiddeld ongeveer elke 90 seconden zo'n misverstand rechtzetten.\n\n## Nuance of misverstand\n\n'Universeel' betekent hier niet dat elke taal letterlijk 'huh' zegt. Wat overal terugkomt, is de functie, samen met een reeks beperkingen op de vorm. Tien talen in detail is bovendien een relatief kleine steekproef, wat de auteurs zelf erkennen. En het gaat niet om een aangeboren kreet zoals 'au!': het woordje verschilt subtiel per taal en wordt aangeleerd.\n\n## Wat je ermee doet\n\nSchaam je niet voor een 'hè?' als je iets niet verstond: het is een efficiënt middel om een gesprek weer op het juiste spoor te zetten. Krijg je zelf vaak 'hè?' te horen, spreek dan wat trager of duidelijker, zeker in rumoerige ruimtes.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><circle cx=\"180\" cy=\"110\" r=\"20\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"r\" values=\"20;90\" dur=\"4s\" begin=\"0s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;0\" dur=\"4s\" begin=\"0s\" repeatCount=\"indefinite\"/></circle><circle cx=\"180\" cy=\"110\" r=\"20\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"r\" values=\"20;90\" dur=\"4s\" begin=\"2s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;0\" dur=\"4s\" begin=\"2s\" repeatCount=\"indefinite\"/></circle><rect x=\"148\" y=\"94\" width=\"64\" height=\"32\" rx=\"14\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"115\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">hè?</text><text x=\"16\" y=\"30\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">10 talen</text><text x=\"248\" y=\"30\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">5 continenten</text><text x=\"16\" y=\"206\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">groter dan toeval</text><text x=\"290\" y=\"206\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">31 talen</text></svg>",
+   "quiz": {
+    "q": "Wat toonden Dingemanse en collega's aan over 'huh?'?",
+    "o": [
+     "Het is een aangeboren kreet zonder betekenis",
+     "Het bestaat alleen in Germaanse talen",
+     "Het komt in vergelijkbare vorm voor in heel verschillende talen"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "PLOS ONE (via PMC)",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3832628"
+    },
+    {
+     "t": "Max-Planck-Gesellschaft",
+     "u": "https://www.mpg.de/9646844/is-huh-a-universal-word"
+    },
+    {
+     "t": "MPI voor Psycholinguïstiek",
+     "u": "https://www.mpi.nl/ig-nobel-prize-for-mpi-researchers"
+    }
+   ],
+   "date": "2026-11-24T05:48:12Z"
+  },
+  {
+   "cat": "taal",
+   "title": "'Eh' en 'ehm' vertellen je luisteraar iets",
+   "body": "Volgens psychologen Herbert Clark en Jean Fox Tree (2002) zijn 'uh' en 'um', bij ons 'eh' en 'ehm', geen ruis maar woorden. Met 'uh' kondig je een korte pauze aan, met 'um' een langere. In hun gegevens duurde de stilte na 'um' gemiddeld bijna drie keer zo lang. Luisteraars herkenden het volgende woord zelfs sneller na 'uh'.",
+   "take": "Bij een presentatie hoef je niet elke 'ehm' te bannen. Vervang lange reeksen wel door een bewuste stilte van een seconde.",
+   "deep": "## Hoe het werkt\n\nSpreken is plannen terwijl je praat. Soms zoek je een woord of moet je een gedachte ordenen, en dan valt er een pauze. Volgens Clark en Fox Tree laat je met een tussenwerpsel weten dat er een vertraging aankomt, en ongeveer hoe lang: 'uh', in het Nederlands vaak 'eh', voor een korte, 'um' of 'ehm' voor een langere. Zo hou je het woord, want de ander weet dat je nog niet klaar bent, en krijgt de luisteraar een seintje om even te wachten en op te letten.\n\n## Een voorbeeld\n\nJe vraagt in de bakkerij: 'Doe maar een, ehm... grijs brood.' De verkoopster wacht en begint niet al over iets anders, want ze weet dat er nog iets komt. Zeg je 'een eh... wit', dan volgt het woord bijna meteen. Volgens de theorie verwacht ze bij 'eh' een kortere aarzeling dan bij 'ehm', zonder dat jullie daar bewust bij stilstaan.\n\n## Wat onderzoek zegt\n\nClark en Fox Tree publiceerden hun analyse in 2002 in het vakblad Cognition. Ze baseerden zich vooral op het London-Lund-corpus, een grote verzameling opgenomen Engelse gesprekken, en vonden dat de stilte na 'um' gemiddeld bijna drie keer langer was dan na 'uh'. Fox Tree toonde al in 2001 in Memory & Cognition, met Engelse en Nederlandse luisteraars, dat een 'uh' hielp om het volgende woord sneller te herkennen. Een 'um' had geen meetbaar effect, positief noch negatief.\n\n## Nuance of misverstand\n\nNiet iedereen is overtuigd. Onderzoekers die pauzes akoestisch maten in plaats van te steunen op het oordeel van transcribenten, vonden geen bewijs dat 'uh' en 'um' systematisch verschillende pauzes aankondigen. Corley en Hartsuiker (2011) stelden dat vooral de vertraging zelf luisteraars helpt, ongeacht welk geluidje die vult. Wat overeind blijft: aarzelingen zijn geen pure fout, maar dragen informatie over wat er in het hoofd van de spreker gebeurt.\n\n## Wat je ermee doet\n\nProbeer bij een presentatie of sollicitatie niet krampachtig elke 'ehm' te schrappen: dat vreet aandacht. Bereid wel je openingszinnen en overgangen goed voor, want woorden zoeken en een nieuwe zin plannen veroorzaken pauzes. En als luisteraar: een 'ehm' is een teken om even te wachten, niet om de ander te onderbreken.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"16\" y=\"28\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\">aarzeling = signaal</text><text x=\"16\" y=\"74\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">kort:</text><rect x=\"70\" y=\"56\" width=\"44\" height=\"26\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"92\" y=\"74\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">eh</text><rect x=\"120\" y=\"62\" width=\"0\" height=\"14\" rx=\"3\" fill=\"#06d6a0\"><animate attributeName=\"width\" values=\"0;40;40\" keyTimes=\"0;0.6;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"170\" y=\"74\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">wit</text><text x=\"16\" y=\"154\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">lang:</text><rect x=\"70\" y=\"136\" width=\"44\" height=\"26\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"92\" y=\"154\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">ehm</text><rect x=\"120\" y=\"142\" width=\"0\" height=\"14\" rx=\"3\" fill=\"#06d6a0\"><animate attributeName=\"width\" values=\"0;110;110\" keyTimes=\"0;0.6;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"240\" y=\"154\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">grijs brood</text><text x=\"16\" y=\"204\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">stilte na ehm ≈ 3× langer</text></svg>",
+   "quiz": {
+    "q": "Wat vonden Clark en Fox Tree over 'um' (ehm) vergeleken met 'uh' (eh)?",
+    "o": [
+     "Na 'um' volgt nooit een pauze",
+     "Na 'um' volgt gemiddeld een langere pauze",
+     "Alleen onzekere sprekers gebruiken 'um'"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Clark & Fox Tree, Cognition 2002 (pdf)",
+     "u": "https://gwern.net/doc/psychology/linguistics/2002-clark-2.pdf"
+    },
+    {
+     "t": "Fox Tree, Memory & Cognition 2001",
+     "u": "https://www.scilit.net/publications/a41160b8085202fadf80a4461357c5e8"
+    }
+   ],
+   "date": "2026-11-24T05:48:12Z"
   }
  ],
  "dives": [
