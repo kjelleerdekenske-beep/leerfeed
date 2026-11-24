@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T05:48:12Z",
+ "updated": "2026-11-24T05:53:07Z",
  "cards": [
   {
    "cat": "psychologie",
@@ -1292,6 +1292,326 @@
     }
    ],
    "date": "2026-11-24T05:48:12Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "BepiColombo draait na acht jaar rond Mercurius",
+   "body": "Op 21 november om 18.24 uur (UTC) remde de Europees-Japanse sonde BepiColombo zich in een baan rond Mercurius, na acht jaar reizen en negen scheervluchten langs planeten. Een softwareprobleem maakte de remstoot korter dan gepland, maar de sonde zit veilig in een eerste ellipsbaan van 590 bij 11.640 kilometer.",
+   "take": "Onthoud bij ruimtenieuws: naar de zon toe reizen draait om remmen, niet om gas geven. Daarom duren Mercuriusmissies zo lang.",
+   "deep": "## Hoe het werkt\n\nWie van de aarde richting zon vliegt, valt eigenlijk de zwaartekrachtput van de zon in. Daardoor wint een sonde onderweg voortdurend snelheid. Om rond Mercurius te kunnen draaien, moet ze die snelheid net weer kwijt, anders schiet ze de kleine planeet gewoon voorbij.\n\nRemmen met raketmotoren kost brandstof, en brandstof is zwaar. Daarom gebruiken ingenieurs planeten als gratis rem. Bij een scheervlucht trekt de zwaartekracht van een planeet aan de sonde; door langs de juiste kant te passeren, verliest ze telkens wat snelheid ten opzichte van de zon. BepiColombo deed dat negen keer: één keer langs de aarde, twee keer langs Venus en zes keer langs Mercurius zelf. Een elektrische ionenmotor in de transfermodule duwde ondertussen jarenlang zachtjes bij. Pas helemaal op het einde volgt een laatste remstoot, zodat Mercurius de sonde kan vangen.\n\n## Een voorbeeld\n\nVergelijk het met een fietser die een lange, steile helling afrijdt naar een smal bruggetje. Zonder remmen vlieg je erover. Je kunt de hele weg in de remmen knijpen, wat veel energie kost, of je kiest een kronkelweg vol bochten die je vanzelf vertragen. BepiColombo koos de kronkelweg. Daarom duurde de reis sinds de lancering op 20 oktober 2018 zo lang.\n\n## Wat onderzoek zegt\n\nVolgens ESA begon de manoeuvre op 21 november 2026 om 18.24 uur UTC. Door een softwareprobleem viel de stoot korter uit dan gepland, maar de sonde zit in een eerste elliptische baan van 590 bij 11.640 kilometer en communiceert normaal. De transfermodule met de ionenmotor werd al op 3 september afgekoppeld. Op 9 en 10 december moeten de twee orbiters, ESA's MPO en het Japanse Mio, uit elkaar gaan. Volgens ESA's planning starten de wetenschappelijke metingen in april 2027. De aankomst was eerder al uitgesteld van december 2025, nadat onverwachte stroomproblemen tussen de zonnepanelen en de stroomeenheid opdoken.\n\n## Nuance of misverstand\n\nIn een baan zitten betekent nog niet klaar zijn. Door de ingekorte stoot kan het team extra manoeuvres moeten plannen; ESA heeft nog niet gezegd hoeveel. En BepiColombo is niet de eerste bezoeker: NASA's Messenger draaide van 2011 tot 2015 rond Mercurius. Nieuw is dat er straks twee sondes tegelijk meten, vanop twee plekken in de ruimte rond de planeet.\n\n## Wat je ermee doet\n\nLees je over een zwaartekrachtslinger, weet dan dat die een ruimtetuig zowel kan versnellen als afremmen, afhankelijk van langs welke kant het passeert. En duurt een missie jaren naar een planeet die niet zo ver lijkt, dan zit het probleem meestal niet in de afstand, maar in de snelheid die je kwijt moet.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><circle cx=\"40\" cy=\"110\" r=\"26\" fill=\"#ffd166\"/><text x=\"40\" y=\"156\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Zon</text><circle cx=\"250\" cy=\"110\" r=\"60\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"4 5\" opacity=\"0.5\"/><circle cx=\"250\" cy=\"110\" r=\"16\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"250\" y=\"196\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Mercurius</text><path d=\"M90,40 C150,10 330,40 310,110 A60,60 0 1 1 190,110 A60,60 0 1 1 310,110\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"1\" stroke-dasharray=\"2 4\" opacity=\"0.6\"/><circle r=\"5\" fill=\"#06d6a0\"><animateMotion dur=\"8s\" repeatCount=\"indefinite\" path=\"M90,40 C150,10 330,40 310,110 A60,60 0 1 1 190,110 A60,60 0 1 1 310,110\"/></circle><text x=\"20\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">remmen, dan laten vangen</text><text x=\"84\" y=\"28\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">sonde</text></svg>",
+   "quiz": {
+    "q": "Waarom deed BepiColombo er acht jaar over om Mercurius te bereiken?",
+    "o": [
+     "Mercurius staat verder weg dan Jupiter",
+     "De sonde moest onderweg veel snelheid kwijtraken",
+     "De motoren mochten pas in 2026 starten"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "ESA: BepiColombo safely in Mercury orbit",
+     "u": "https://www.esa.int/articles/about-us/directorates/operations/bepicolombo-safely-in-mercury-orbit-despite-unexpected-challenge"
+    },
+    {
+     "t": "ESA: arrival updates",
+     "u": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury"
+    },
+    {
+     "t": "ESA: MTM-separatie",
+     "u": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/BepiColombo_begins_Mercury_arrival_with_MTM_separation_success"
+    }
+   ],
+   "date": "2026-11-24T05:53:07Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Een wiebelende ster verraadde een verborgen dode ster",
+   "body": "Astronomen van de Université de Montréal ontdekten op 27,6 lichtjaar een drievoudig stersysteem, Welopōʻai: een rode dwerg met vlak naast zich een verborgen witte dwerg, en verder weg een tweede witte dwerg. De rode dwerg verraadde zijn begeleider doordat zijn snelheid in 4,8 jaar zo'n 16 km/s veranderde. Het systeem is 9 tot 11 miljard jaar oud.",
+   "take": "Lees je dat een planeet of ster 'onzichtbaar' ontdekt is? Vaak zag men niet het object, maar het gewiebel dat het veroorzaakt.",
+   "deep": "## Hoe het werkt\n\nTwee hemellichamen die rond elkaar draaien, draaien eigenlijk allebei rond een gemeenschappelijk zwaartepunt. Zelfs als je de lichtzwakke partner niet ziet, schommelt de heldere ster dus een beetje heen en weer. Komt de ster naar ons toe, dan worden de lichtgolven samengedrukt en schuiven de donkere lijnen in haar spectrum een fractie naar blauw. Beweegt ze van ons weg, dan schuiven ze naar rood. Dat is het dopplereffect.\n\nEen spectrograaf meet die verschuiving zeer nauwkeurig. Hoe groter en trager de schommeling, hoe zwaarder en verder weg de onzichtbare begeleider moet zijn. Daarna kun je met scherpe beelden proberen de begeleider rechtstreeks te zien.\n\n## Een voorbeeld\n\nJe kent het effect van een ambulance: de sirene klinkt hoger als ze naar je toe rijdt en lager als ze wegrijdt. Bij sterren gebeurt hetzelfde met licht in plaats van geluid. Of denk aan een hondenbaasje 's avonds in het park: de hond zie je niet, maar aan het rukken van de lamp in zijn hand merk je dat er iets aan de leiband hangt.\n\n## Wat onderzoek zegt\n\nHet team rond Étienne Artigau zocht eigenlijk planeten met SPIRou, een infraroodspectrograaf op de Canada-France-Hawaii Telescope. Bij de rode dwerg TYC 3980-1081-1 zagen ze de snelheid over 4,8 jaar met ongeveer 16 kilometer per seconde veranderen: veel te veel voor een planeet. Met het instrument ʻAlopeke op de Gemini North-telescoop vonden ze de oorzaak: een witte dwerg op ongeveer 0,6 boogseconde, zo'n 6 magnitudes, of ruwweg 250 keer, zwakker. Een tweede witte dwerg verder weg was al bekend. Uit de afkoeling van de witte dwergen leiden de onderzoekers een leeftijd van 9 tot 11 miljard jaar af. De voorloper van de binnenste witte dwerg was wellicht zo'n 40% zwaarder dan de zon en zwol op tot een reus die zijn rode buur bijna opslokte. De studie staat in Astronomy & Astrophysics.\n\n## Nuance of misverstand\n\nSommige koppen spreken van een onmogelijk systeem. Dat is overdreven: het is vooral moeilijk te verklaren. Zo is de rode dwerg rijk aan zware elementen, wat ongewoon is voor zo'n oude ster. En dood betekent hier niet koud: een witte dwerg is de uitgedoofde kern van een ster die nog miljarden jaren nagloeit.\n\n## Wat je ermee doet\n\nLees je over een nieuwe exoplaneet, kijk dan welke methode gebruikt werd. Bij de wiebelmethode zie je de planeet zelf niet, je leidt hem af uit de beweging van zijn ster. Dat verklaart ook waarom zulke ontdekkingen vaak jaren meten vragen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><circle cx=\"40\" cy=\"38\" r=\"5\" fill=\"#fff\"/><text x=\"52\" y=\"42\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">2e witte dwerg (ver weg)</text><g><animateTransform attributeName=\"transform\" type=\"translate\" values=\"-10 0;0 0;10 0;0 0;-10 0\" dur=\"6s\" repeatCount=\"indefinite\"/><circle cx=\"120\" cy=\"110\" r=\"22\" fill=\"#ff6b9d\"/></g><ellipse cx=\"120\" cy=\"110\" rx=\"50\" ry=\"18\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1\" stroke-dasharray=\"3 4\" opacity=\"0.5\"/><circle r=\"4\" fill=\"#fff\"><animateMotion dur=\"6s\" repeatCount=\"indefinite\" path=\"M170,110 A50,18 0 1 1 70,110 A50,18 0 1 1 170,110\"/></circle><text x=\"120\" y=\"158\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">rode dwerg wiebelt</text><text x=\"120\" y=\"176\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">door verborgen witte dwerg</text><line x1=\"180\" y1=\"110\" x2=\"286\" y2=\"110\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"24;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></line><path d=\"M292,110 l-9,-5 v10 z\" fill=\"#ffd166\"/><text x=\"296\" y=\"114\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">telescoop</text><text x=\"236\" y=\"96\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">licht: blauwer/roder</text></svg>",
+   "quiz": {
+    "q": "Hoe merkten de astronomen de verborgen witte dwerg eerst op?",
+    "o": [
+     "Ze zagen hem meteen op een gewone foto",
+     "Hij zond sterke radiosignalen uit",
+     "De rode dwerg wiebelde, wat je in zijn licht ziet"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "EurekAlert: triple-star system 28 light-years",
+     "u": "https://www.eurekalert.org/news-releases/1152534"
+    },
+    {
+     "t": "Sci.News: Welopōʻai",
+     "u": "https://www.sci.news/astronomy/welopoai-hierarchical-triple-system-15210.html"
+    },
+    {
+     "t": "Notebookcheck",
+     "u": "https://www.notebookcheck.net/A-rare-triple-star-system-has-been-detected-by-astronomers.1454773.0.html"
+    }
+   ],
+   "date": "2026-11-24T05:53:07Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Bloedtest spoort hersenziekte CTE misschien al bij leven op",
+   "body": "CTE, een hersenziekte na herhaalde klappen op het hoofd, kan tot nu toe alleen na de dood worden vastgesteld. In JAMA tonen onderzoekers van Boston University dat het eiwitfragment eMTBR-tau verhoogd was in het bloed van American footballspelers bij wie later CTE werd gevonden. Het ging om 21 donoren, van wie 18 met CTE.",
+   "take": "Speel jij of je kind contactsport? Neem elke hersenschudding ernstig: een CTE-test bestaat nog niet, voorzichtigheid wel.",
+   "deep": "## Hoe het werkt\n\nIn je hersencellen houdt het eiwit tau de interne transportbuisjes stevig, een beetje zoals dwarsliggers onder spoorrails. Na herhaalde klappen kan tau loskomen, aan elkaar gaan klitten en zich verspreiden. Dat is wat artsen bij CTE (chronische traumatische encefalopathie) onder de microscoop zien.\n\nStukjes van zo'n beschadigd eiwit lekken in kleine hoeveelheden naar het bloed. Het fragment eMTBR-tau is een brokstuk uit het deel van tau dat net in de klitten zit. Met zeer gevoelige tests kun je het in bloedplasma meten. Een tweede merker, p-tau217, stijgt vooral bij alzheimer. Door beide te meten, hopen onderzoekers de twee ziektes uit elkaar te houden.\n\n## Een voorbeeld\n\nStel: een ex-rugbyspeler van 55 krijgt geheugenproblemen en stemmingswisselingen. Is het alzheimer, CTE of iets anders? Vandaag kan een neuroloog dat enkel vermoeden. Pas na overlijden, bij onderzoek van het hersenweefsel, komt zekerheid. Een bloedtest zou dat raden vervangen door meten, en zou later ook kunnen tonen of een behandeling aanslaat.\n\n## Wat onderzoek zegt\n\nDe studie verscheen op 19 november 2026 in JAMA, geleid door Boston University en Banner Health. Bij 21 overleden ex-footballspelers die hun hersenen schonken, waarvan 18 met CTE bij autopsie, was eMTBR-tau in het bloed verhoogd bij wie CTE had. In hetzelfde nummer van JAMA vond een ander team, met andere patiënten en andere methodes, eveneens verhoogd eMTBR-tau243 bij mensen met bewezen CTE. Onderzoeker Michael Alosco schat dat een goedgekeurde test binnen vijf jaar mogelijk is, als de resultaten standhouden.\n\n## Nuance of misverstand\n\nDe groep is erg klein, er zaten weinig mensen met een vroeg stadium van CTE in, en een controlegroep van dezelfde leeftijd ontbrak. De test is niet goedgekeurd en mag nu niet gebruikt worden om CTE vast te stellen. En klappen op het hoofd betekenen niet automatisch CTE: niet elke contactsporter krijgt de ziekte.\n\n## Wat je ermee doet\n\nKrijg je bij sport een klap tegen het hoofd met hoofdpijn, duizeligheid of verwarring, stop dan met spelen en laat je onderzoeken voor je terugkeert. En lees je binnenkort over een CTE-bloedtest, kijk dan eerst of hij in grote groepen getest en officieel goedgekeurd is.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><ellipse cx=\"72\" cy=\"80\" rx=\"48\" ry=\"36\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M50,70 q10,-14 22,0 q10,14 22,0\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" opacity=\"0.6\"/><text x=\"72\" y=\"134\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">hersenen</text><path d=\"M115,96 C170,96 190,160 272,160\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"6\" opacity=\"0.45\"/><circle r=\"4\" fill=\"#ffd166\"><animateMotion dur=\"4s\" begin=\"0s\" repeatCount=\"indefinite\" path=\"M115,96 C170,96 190,160 272,160\"/></circle><circle r=\"4\" fill=\"#ffd166\"><animateMotion dur=\"4s\" begin=\"1.3s\" repeatCount=\"indefinite\" path=\"M115,96 C170,96 190,160 272,160\"/></circle><circle r=\"4\" fill=\"#ffd166\"><animateMotion dur=\"4s\" begin=\"2.6s\" repeatCount=\"indefinite\" path=\"M115,96 C170,96 190,160 272,160\"/></circle><rect x=\"278\" y=\"104\" width=\"28\" height=\"84\" rx=\"12\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"281\" y=\"150\" width=\"22\" height=\"35\" rx=\"9\" fill=\"#ff6b9d\" opacity=\"0.7\"/><text x=\"292\" y=\"208\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">bloedstaal</text><text x=\"160\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">eiwitbrokjes (tau) in bloed</text><text x=\"196\" y=\"70\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">meten: eMTBR-tau</text></svg>",
+   "quiz": {
+    "q": "Waarom is deze bloedtest zo belangrijk?",
+    "o": [
+     "CTE kon tot nu toe alleen na de dood vastgesteld worden",
+     "De test geneest CTE in een vroeg stadium",
+     "Hij is al in Belgische ziekenhuizen beschikbaar"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Boston University CAMED",
+     "u": "https://www.bumc.bu.edu/camed/news-events/articles/2026/new-study-identifies-blood-test-that-may-detect-cte-during-life/"
+    },
+    {
+     "t": "WBUR",
+     "u": "https://www.wbur.org/news/2026/11/19/boston-university-study-biomarker-cte"
+    },
+    {
+     "t": "Boston Globe",
+     "u": "https://www.bostonglobe.com/2026/11/19/metro/cte-diagnosis-blood-test-bu/"
+    }
+   ],
+   "date": "2026-11-24T05:53:07Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Niet elk antidepressivum houdt je even lang goed",
+   "body": "Onderzoekers van het Radboudumc bundelden 115 studies met samen meer dan 30.000 deelnemers en vergeleken antidepressiva op lange termijn. Escitalopram, agomelatine en duloxetine hielden mensen vaker goed dan fluoxetine (Prozac); bij escitalopram lag de kans op blijvend herstel 62% hoger. Bupropion en reboxetine deden het minder. De studie verscheen in The Lancet Psychiatry.",
+   "take": "Neem je antidepressiva? Stop of wissel nooit op eigen houtje; bespreek zo'n onderzoek met je huisarts of psychiater.",
+   "deep": "## Hoe het werkt\n\nLang niet alle antidepressiva zijn ooit rechtstreeks met elkaar vergeleken. Een netwerk-meta-analyse lost dat op. Als studie 1 middel A met B vergelijkt en studie 2 middel B met C, dan kun je via B ook iets zeggen over A tegenover C. Door honderden van zulke vergelijkingen in één rekenmodel te steken, krijg je een rangorde van alle middelen tegelijk.\n\nDeze studie keek niet naar wie na acht weken beter was, maar naar blijvende respons: mensen die opknapten en ook maanden later nog goed bleven. De uitkomst wordt uitgedrukt als odds ratio. Een odds ratio van 1,62 betekent niet dat 62% meer mensen genezen, wel dat de verhouding tussen wie goed blijft en wie niet, gunstiger ligt.\n\n## Een voorbeeld\n\nEen rekenvoorbeeld: stel dat met fluoxetine 40 op 100 mensen blijvend beter zijn. Hun odds zijn dan 40 tegen 60. Vermenigvuldig je die odds met 1,62, dan kom je op ongeveer 52 op 100. Dat is een echt verschil, maar geen wonder: ook met het beste middel blijft bijna de helft niet blijvend beter.\n\n## Wat onderzoek zegt\n\nHet team van het Radboudumc in Nijmegen bundelde 115 gerandomiseerde studies met meer dan 30.000 deelnemers, gepubliceerd tot maart 2026, en vergeleek een twintigtal antidepressiva met elkaar en met fluoxetine. Escitalopram, agomelatine en duloxetine gaven de beste kansen op blijvende respons; bupropion en reboxetine deden het minder goed. De bekendste eerdere vergelijking, in 2018 in The Lancet onder leiding van Andrea Cipriani, keek naar 21 antidepressiva in 522 studies met meer dan 116.000 mensen, maar alleen op korte termijn.\n\n## Nuance of misverstand\n\nHet gaat om gemiddelden over groepen. Werkt fluoxetine goed voor jou, dan zegt deze studie niet dat je moet wisselen. Elk middel heeft eigen bijwerkingen: agomelatine kan de lever belasten en is in de VS niet goedgekeurd. Bovendien hadden veel van de onderliggende studies vergelijkbare zwaktes in hun opzet, en een rekenmodel kan die niet volledig wegwerken.\n\n## Wat je ermee doet\n\nStart je met een antidepressivum of overweeg je een wissel, vraag dan niet alleen hoe snel het werkt, maar ook hoe goed het je op lange termijn helpt en welke bijwerkingen je kunt verwachten. Afbouwen of veranderen doe je altijd samen met je arts.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"26\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">kans op blijvend herstel</text><line x1=\"30\" y1=\"160\" x2=\"340\" y2=\"160\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"50\" y=\"100\" width=\"40\" height=\"60\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"30\" y1=\"100\" x2=\"340\" y2=\"100\" stroke=\"#fff\" stroke-width=\"1\" stroke-dasharray=\"4 4\" opacity=\"0.5\"/><rect x=\"130\" y=\"63\" width=\"40\" height=\"97\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"0;97;97\" keyTimes=\"0;0.5;1\" dur=\"5s\" begin=\"0s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"160;63;63\" keyTimes=\"0;0.5;1\" dur=\"5s\" begin=\"0s\" repeatCount=\"indefinite\"/></rect><rect x=\"210\" y=\"75\" width=\"40\" height=\"85\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"0;85;85\" keyTimes=\"0;0.5;1\" dur=\"5s\" begin=\"0.3s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"160;75;75\" keyTimes=\"0;0.5;1\" dur=\"5s\" begin=\"0.3s\" repeatCount=\"indefinite\"/></rect><rect x=\"290\" y=\"75\" width=\"40\" height=\"85\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"0;85;85\" keyTimes=\"0;0.5;1\" dur=\"5s\" begin=\"0.6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"160;75;75\" keyTimes=\"0;0.5;1\" dur=\"5s\" begin=\"0.6s\" repeatCount=\"indefinite\"/></rect><text x=\"150\" y=\"56\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">1,62x</text><text x=\"70\" y=\"178\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">fluoxetine</text><text x=\"150\" y=\"178\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">escitalopram</text><text x=\"230\" y=\"178\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">agomelatine</text><text x=\"310\" y=\"178\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">duloxetine</text><text x=\"70\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">referentie</text><text x=\"230\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">vaker blijvend beter</text></svg>",
+   "quiz": {
+    "q": "Wat onderzocht deze studie vooral?",
+    "o": [
+     "Welk antidepressivum in de eerste week het snelst werkt",
+     "Welke middelen mensen op lange termijn het vaakst goed houden",
+     "Of antidepressiva verslavend zijn"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Radboudumc via EurekAlert",
+     "u": "https://www.eurekalert.org/news-releases/1150667"
+    },
+    {
+     "t": "Scimex",
+     "u": "https://scimex.org/newsfeed/some-antidepressants-may-work-better-than-others-over-the-long-term"
+    },
+    {
+     "t": "Medical Xpress",
+     "u": "https://medicalxpress.com/news/2026-11-antidepressants-patients.html"
+    }
+   ],
+   "date": "2026-11-24T05:53:07Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Software controleert claim op beroemdste wiskundeprobleem",
+   "body": "Op 20 november claimde Levent Alpöge, wiskundige bij AI-bedrijf Anthropic, met hulp van AI-model Claude een bewijs van de Riemann-hypothese, een open vraag sinds 1859. Het bewijs is geschreven als code voor de bewijscontroleur Lean, die elke stap mechanisch nakijkt. Onafhankelijke experts moeten het nog beoordelen en een leesbare uitleg ontbreekt.",
+   "take": "Lees je 'AI bewijst iets', vraag dan: werd het formeel gecontroleerd, en begrijpen mensen het argument al?",
+   "deep": "## Hoe het werkt\n\nLean is een bewijsassistent: software waarin je een wiskundig bewijs opschrijft in een strikte, formele taal. Elke stap moet exact volgen uit eerdere stappen, definities en logische regels. Een klein kernprogramma controleert elke stap. Klopt er ergens één regel niet, dan weigert Lean het hele bewijs.\n\nDat maakt de combinatie met AI krachtig. Een taalmodel kan zich vergissen of iets verzinnen, maar zulke fouten raken niet door de controle. Er blijft wel één cruciale vraag over: bewijst de code echt de stelling die wiskundigen bedoelen? Daarom controleerden twee onafhankelijke programma's dat de bewezen stelling exact overeenkomt met de Riemann-hypothese zoals ze in Mathlib, de grote gedeelde wiskundebibliotheek van Lean, staat.\n\n## Een voorbeeld\n\nDenk aan een examen wiskunde waar de leraar elke regel van je berekening nakijkt zonder te vragen waarom je die weg koos. Staat er onderaan het juiste antwoord op de juiste vraag en klopt elke tussenstap, dan krijg je je punten. Begrijpt de klas daarna hoe je het deed? Niet noodzakelijk.\n\n## Wat onderzoek zegt\n\nDe Riemann-hypothese stamt uit 1859 en zegt dat alle niet-triviale nulpunten van de zogenoemde zetafunctie op één lijn liggen, met reëel deel een half. Ze hangt nauw samen met hoe priemgetallen verdeeld zijn en staat op de lijst van zeven Millenniumproblemen van het Clay Mathematics Institute, met een prijs van een miljoen dollar. Alpöge werkte volgens eigen zeggen zo'n zes weken met Claude. Op 21 november gaven de Lean FRO en het Mathlib Initiative een gezamenlijke verklaring uit. Volgens Scientific American zei Stanford-wiskundige Ravi Vakil dat een postdoc van zijn departement al eerder, zonder AI, een eigen bewijs had ingediend. Ook dat moet nog nagekeken worden.\n\n## Nuance of misverstand\n\nFormeel gecontroleerd is niet hetzelfde als begrepen. Volgens Science is de door AI gemaakte uitleg volgens Alpöge meer dan 250.000 pagina's lang en niet vrijgegeven. Een begeleidende uitleg herleidt het bewijs tot dertien hypotheses die daarin zelf niet bewezen worden; die worden nog nagekeken. Ook liep volgens verslagen minstens één volledige onafhankelijke controle nog. Wiskundigen zullen dus nog maanden discussiëren.\n\n## Wat je ermee doet\n\nZie je nieuws over AI en wiskunde of software, maak dan het onderscheid tussen drie claims: een idee gevonden, formeel gecontroleerd, en door experts begrepen en aanvaard. Vooral de tweede is nieuw, want die maakt het mogelijk om ook zeer lange machinebewijzen te vertrouwen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"36\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">AI schrijft miljoenen kleine stappen</text><rect x=\"30\" y=\"52\" width=\"46\" height=\"34\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"30\" y=\"52\" width=\"46\" height=\"34\" rx=\"6\" fill=\"#06d6a0\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0.85;0.85;0\" keyTimes=\"0;0.1;0.8;1\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/></rect><text x=\"53\" y=\"74\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">1</text><rect x=\"92\" y=\"52\" width=\"46\" height=\"34\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"92\" y=\"52\" width=\"46\" height=\"34\" rx=\"6\" fill=\"#06d6a0\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0.85;0.85;0\" keyTimes=\"0;0.1;0.8;1\" dur=\"6s\" begin=\"1s\" repeatCount=\"indefinite\"/></rect><text x=\"115\" y=\"74\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">2</text><rect x=\"154\" y=\"52\" width=\"46\" height=\"34\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"154\" y=\"52\" width=\"46\" height=\"34\" rx=\"6\" fill=\"#06d6a0\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0.85;0.85;0\" keyTimes=\"0;0.1;0.8;1\" dur=\"6s\" begin=\"2s\" repeatCount=\"indefinite\"/></rect><text x=\"177\" y=\"74\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">3</text><rect x=\"216\" y=\"52\" width=\"46\" height=\"34\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"216\" y=\"52\" width=\"46\" height=\"34\" rx=\"6\" fill=\"#06d6a0\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0.85;0.85;0\" keyTimes=\"0;0.1;0.8;1\" dur=\"6s\" begin=\"3s\" repeatCount=\"indefinite\"/></rect><text x=\"239\" y=\"74\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">4</text><rect x=\"278\" y=\"52\" width=\"46\" height=\"34\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"278\" y=\"52\" width=\"46\" height=\"34\" rx=\"6\" fill=\"#06d6a0\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0.85;0.85;0\" keyTimes=\"0;0.1;0.8;1\" dur=\"6s\" begin=\"4s\" repeatCount=\"indefinite\"/></rect><text x=\"301\" y=\"74\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">...</text><line x1=\"180\" y1=\"92\" x2=\"180\" y2=\"118\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M180,126 l-6,-9 h12 z\" fill=\"#fff\"/><rect x=\"60\" y=\"130\" width=\"240\" height=\"36\" rx=\"8\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"180\" y=\"153\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Lean-kern: volgt elke stap?</text><text x=\"20\" y=\"196\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">fout = geweigerd</text><text x=\"340\" y=\"196\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">alles juist = OK</text></svg>",
+   "quiz": {
+    "q": "Wat controleert de software Lean precies?",
+    "o": [
+     "Of het bewijs mooi en begrijpelijk geschreven is",
+     "Of een AI het bewijs geschreven heeft",
+     "Of elke logische stap correct volgt uit de vorige"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Scientific American",
+     "u": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/"
+    },
+    {
+     "t": "Scientific American: dueling claims",
+     "u": "https://www.scientificamerican.com/article/dueling-claims-of-riemann-hypothesis-proofs-emerge/"
+    },
+    {
+     "t": "Nature",
+     "u": "https://www.nature.com/articles/d41586-026-03812-7"
+    },
+    {
+     "t": "Science",
+     "u": "https://www.science.org/content/article/ai-may-have-solved-math-s-greatest-mystery-can-humans-understand-answer"
+    }
+   ],
+   "date": "2026-11-24T05:53:07Z"
+  },
+  {
+   "cat": "tech",
+   "title": "AI-agenten krijgen op kantoor een eigen badge",
+   "body": "Op Microsofts conferentie Ignite (17-20 november, San Francisco) stond één vraag centraal: wie houdt toezicht op AI-agenten die zelfstandig taken uitvoeren? Microsoft lanceerde Agent 365 om agenten te beheren. Elke agent krijgt via Entra Agent ID een eigen digitale identiteit met een menselijke sponsor. Agenten die 90 dagen niets doen, worden standaard uitgeschakeld.",
+   "take": "Gebruik je AI-tools op het werk? Geef ze alleen toegang tot wat ze echt nodig hebben, net als een nieuwe collega.",
+   "deep": "## Hoe het werkt\n\nBedrijfsnetwerken werken met identiteiten. Wie inlogt, krijgt een digitaal toegangsbewijs, een token, waarin staat waartoe je toegang hebt: je mailbox wel, de loonadministratie niet. Elke actie wordt aan die identiteit gekoppeld, zodat je achteraf kunt zien wie wat deed.\n\nAI-agenten liepen tot nu toe vaak mee op het account van een mens of op een gedeelde sleutel. Dan zie je in de logboeken niet of een collega of een agent die map verwijderde, en heeft de agent vaak veel meer rechten dan nodig. Met een eigen agent-ID kan een beheerder de agent precies de minimale rechten geven, zijn acties volgen en hem uitschakelen. Een menselijke sponsor blijft verantwoordelijk. Volgens het standaardbeleid krijgt die sponsor na 60 dagen inactiviteit een melding; na 90 dagen gaat de agent uit.\n\n## Een voorbeeld\n\nVergelijk het met een jobstudent in een Vlaams distributiecentrum. Hij krijgt een badge die het magazijn opent, maar niet de boekhouding. Elke keer dat hij een deur opent, staat dat in het systeem. En eindigt zijn contract, dan wordt de badge geblokkeerd. Een AI-agent die facturen sorteert, verdient dezelfde aanpak.\n\n## Wat onderzoek zegt\n\nIgnite liep van 17 tot 20 november 2026. Het basisplatform Entra Agent ID was volgens Microsofts documentatie al eerder dit jaar algemeen beschikbaar; op Ignite werd onder meer automatisch levenscyclusbeheer voor agent-identiteiten algemeen beschikbaar. Als preview kan Microsofts beveiligingssoftware tientallen soorten lokale AI-agenten op werkcomputers opsporen en er een identiteit aan geven. Microsoft startte ook een AI Transparency Initiative met meer dan 40 partners. Prijzen en einddata voor veel previewfuncties werden niet bekendgemaakt.\n\n## Nuance of misverstand\n\nEen identiteit maakt een agent niet veilig, wel traceerbaar en begrensbaar. Een agent met te ruime rechten blijft riskant, ook met badge. Veel aangekondigde functies zijn nog preview, en volgens waarnemers spreken Microsofts documentatie en marketing elkaar soms tegen over wat al definitief is.\n\n## Wat je ermee doet\n\nKoppel je een AI-assistent aan je mail, agenda of cloudopslag, kijk dan welke rechten hij vraagt en weiger wat niet nodig is. Bedrijven doen er goed aan elke agent een eigenaar te geven en ongebruikte agenten op te ruimen, net zoals oude accounts van vertrokken collega's.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"24\" y=\"30\" width=\"104\" height=\"70\" rx=\"10\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"46\" cy=\"56\" r=\"10\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"62\" y=\"60\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">agent-ID</text><text x=\"34\" y=\"86\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">sponsor: mens</text><text x=\"150\" y=\"56\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">mag: agenda</text><text x=\"150\" y=\"84\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">mag niet: lonen</text><line x1=\"40\" y1=\"160\" x2=\"330\" y2=\"160\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"40\" y=\"153\" width=\"0\" height=\"14\" fill=\"#ffd166\" opacity=\"0.8\"><animate attributeName=\"width\" values=\"0;290;290\" keyTimes=\"0;0.85;1\" dur=\"8s\" repeatCount=\"indefinite\"/></rect><line x1=\"233\" y1=\"146\" x2=\"233\" y2=\"174\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"330\" y1=\"146\" x2=\"330\" y2=\"174\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"233\" y=\"138\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">60 d: melding</text><text x=\"345\" y=\"192\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">90 d: uit</text><text x=\"40\" y=\"192\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">dagen zonder activiteit</text></svg>",
+   "quiz": {
+    "q": "Wat gebeurt er standaard met een agent die 90 dagen niets gedaan heeft?",
+    "o": [
+     "Die wordt uitgeschakeld",
+     "Die krijgt extra rechten om bij te leren",
+     "Die wordt omgezet naar een menselijke gebruiker"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "TechRepublic: Ignite 2026",
+     "u": "https://www.techrepublic.com/article/news-microsoft-ignite-2026-announcements/"
+    },
+    {
+     "t": "Microsoft Learn: Entra what's new",
+     "u": "https://learn.microsoft.com/en-us/entra/fundamentals/whats-new"
+    },
+    {
+     "t": "Thomas Naunheim: Identity recap",
+     "u": "https://www.cloud-architekt.net/microsoft-ignite-2026-identity-recap/"
+    }
+   ],
+   "date": "2026-11-24T05:53:07Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Anthropic naar de beurs: wat een IPO-sprong betekent",
+   "body": "AI-bedrijf Anthropic prijsde zijn beursintroductie op 18 november op 83 dollar per aandeel, boven de vooropgestelde vork van 70 tot 78 dollar, voor 980 miljoen aandelen. Op 19 november opende het aandeel op Nasdaq (ticker ANT) op 111,50 dollar, 34% hoger, en sloot het op 97,17 dollar. Een dag later zakte het verder.",
+   "take": "Overweeg je een vers beursaandeel? Jij betaalt meestal de openingskoers, niet de introductieprijs die grote beleggers kregen.",
+   "deep": "## Hoe het werkt\n\nBij een beursintroductie (IPO) verkoopt een bedrijf voor het eerst aandelen aan het publiek. Zakenbanken peilen eerst bij grote beleggers, zoals pensioenfondsen, hoeveel aandelen ze willen en tegen welke prijs. Ze leggen een prijsvork vast en verzamelen orders: dat heet bookbuilding. Is de vraag groot, dan gaat de prijs omhoog, soms boven de vork, zoals hier.\n\nDe aandelen worden aan die introductieprijs vooral aan grote beleggers toegewezen. Daarna begint de vrije handel. De openingskoers ontstaat uit een veiling van alle koop- en verkooporders van iedereen. Banken prijzen vaak bewust iets te laag, zodat de introductie zeker slaagt en hun klanten tevreden zijn. Het verschil tussen introductieprijs en eerste koers heet in het jargon geld dat op tafel bleef liggen.\n\n## Een voorbeeld\n\nStel dat een belegger in Gent via zijn online broker bij de opening koopt aan 111,50 dollar. Bij het slot staat het aandeel op 97,17 dollar: hij staat na één dag zo'n 13% in het rood. Een pensioenfonds dat aan 83 dollar kon intekenen, staat op hetzelfde moment 17% in de plus. Zelfde aandeel, zelfde dag, totaal ander resultaat.\n\n## Wat onderzoek zegt\n\nAnthropic maakte op 18 november de prijs van 83 dollar bekend, boven de eerder gecommuniceerde vork van 70 tot 78 dollar, voor 980 miljoen aandelen: samen ruwweg 81 miljard dollar. Op 19 november opende ANT op Nasdaq op 111,50 dollar en sloot het op 97,17 dollar, 17% boven de introductieprijs. Op 20 november zakte het vroeg in de handel ongeveer 9%, maar bleef het boven 83 dollar. Wie het verschil van ruim 14 dollar met de introductieprijs vermenigvuldigt met 980 miljoen aandelen, komt op bijna 14 miljard dollar die het bedrijf had kunnen ophalen. De bronnen verschillen sterk over de totale beurswaarde en het totaal opgehaalde bedrag.\n\n## Nuance of misverstand\n\nEen koerssprong op dag één is geen winst voor het bedrijf: Anthropic krijgt 83 dollar per verkocht aandeel, de sprong gaat naar wie toegewezen aandelen kreeg. Een sprong is ook geen oordeel over de toekomst van het bedrijf. Eerste beursdagen worden gedreven door schaarste en aandacht, niet door nieuwe cijfers.\n\n## Wat je ermee doet\n\nVolg je een spraakmakende beursintroductie, kijk dan naar drie getallen: de prijsvork, de introductieprijs en de openingskoers. Koop je zelf, gebruik dan een limietorder in plaats van een marktorder, zodat je niet ongemerkt een piekkoers betaalt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">koers in dollar, eerste beursdagen</text><line x1=\"40\" y1=\"185\" x2=\"340\" y2=\"185\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"40\" y1=\"150\" x2=\"340\" y2=\"150\" stroke=\"#fff\" stroke-width=\"1\" stroke-dasharray=\"4 4\" opacity=\"0.5\"/><text x=\"44\" y=\"172\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">83: introductieprijs</text><polyline points=\"60,150 120,50 230,100 320,131\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"3\" stroke-dasharray=\"340\" stroke-dashoffset=\"340\"><animate attributeName=\"stroke-dashoffset\" values=\"340;0;0\" keyTimes=\"0;0.6;1\" dur=\"6s\" repeatCount=\"indefinite\"/></polyline><circle cx=\"120\" cy=\"50\" r=\"4\" fill=\"#06d6a0\"/><text x=\"128\" y=\"46\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">111,50: opening</text><circle cx=\"230\" cy=\"100\" r=\"4\" fill=\"#fff\"/><text x=\"236\" y=\"92\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">97,17: slot dag 1</text><text x=\"318\" y=\"208\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">dag 2: lager</text></svg>",
+   "quiz": {
+    "q": "Wie verdient vooral aan de koerssprong op de eerste beursdag?",
+    "o": [
+     "Het bedrijf zelf, dat de hogere koers ontvangt",
+     "Beleggers die aandelen kregen aan de introductieprijs",
+     "De beurs, die de winst inhoudt"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Yahoo Finance: Anthropic IPO live",
+     "u": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-company-said-to-price-stock-at-83-begin-trading-thursday-212656452.html"
+    },
+    {
+     "t": "Fast Company",
+     "u": "https://www.fastcompany.com/91645598/anthropic-ipo-what-time-trading-start-stock-price-live-update"
+    },
+    {
+     "t": "Stock Titan",
+     "u": "https://www.stocktitan.net/articles/anthropic-ipo-live-ant-first-trading-day-2026"
+    }
+   ],
+   "date": "2026-11-24T05:53:07Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Nederlanders beleggen recordbedrag, maar sparen dubbel zoveel",
+   "body": "Nederlandse gezinnen hadden eind september voor 241,9 miljard euro aan aandelen, fondsen en obligaties, meldt De Nederlandsche Bank: 2,6% meer dan een kwartaal eerder en een record. Opvallend: de groei bij fondsen kwam vooral van 2,6 miljard euro nieuwe aankopen. Op spaarrekeningen staat wel 550,5 miljard euro, ruim het dubbele.",
+   "take": "Bekijk bij je eigen beleggingen apart wat je zelf inlegde en wat koerswinst is: dat zegt meer dan het totaal.",
+   "deep": "## Hoe het werkt\n\nStatistici splitsen de groei van een beleggingsportefeuille altijd in twee delen. Het eerste deel zijn transacties: hoeveel geld mensen netto bijstortten, dus aankopen min verkopen. Het tweede deel is herwaardering: de koersen van wat je al had, gingen op of neer. Een record kan dus komen doordat mensen meer inleggen, doordat de beurs stijgt, of door beide.\n\nDie splitsing is belangrijk. Groei door aankopen zegt iets over gedrag: mensen verschuiven geld van spaarboekje naar beleggingen. Groei door koersen zegt iets over de markten, en kan bij een daling net zo snel weer verdwijnen.\n\n## Een voorbeeld\n\nNeem Sofie uit Leuven. Ze stort elke maand 100 euro in een indexfonds. Na een jaar is haar fonds 1.500 euro meer waard. Daarvan is 1.200 euro gewoon haar eigen inleg en 300 euro koerswinst. Wie alleen naar die 1.500 euro kijkt, overschat hoe goed het beleggen zelf ging.\n\n## Wat onderzoek zegt\n\nVolgens De Nederlandsche Bank (DNB) steeg de waarde van wat Nederlandse huishoudens aan effecten bezitten in het derde kwartaal van 2026 met ongeveer 2,6% tot 241,9 miljard euro, een record. Het bezit in beleggingsfondsen groeide tot 159,5 miljard euro, vooral door 2,6 miljard euro netto aankopen. Beursgenoteerde aandelen kwamen op 76,0 miljard euro, mee dankzij 548 miljoen euro koerswinst. Tegelijk stond er 550,5 miljard euro op spaarrekeningen en 109,5 miljard op betaalrekeningen. ASML bleef het populairste aandeel. DNB publiceerde de cijfers rond 19 november.\n\n## Nuance of misverstand\n\nEen record in euro is minder spectaculair dan het klinkt. Door inflatie en stijgende beurzen worden zulke totalen bijna vanzelf telkens groter. Het zegt ook niets over hoeveel gezinnen beleggen: een kleine groep vermogende huishoudens kan een groot deel van het totaal bezitten. En dit gaat over Nederland; voor België publiceert de Nationale Bank eigen cijfers.\n\n## Wat je ermee doet\n\nNoteer elk jaar twee getallen: wat je in totaal hebt ingelegd en wat je portefeuille waard is. Het verschil is je echte rendement. Zo zie je ook of een mooi jaartotaal vooral van je eigen spaarinspanning kwam of van de markt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><line x1=\"40\" y1=\"180\" x2=\"320\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"70\" y=\"40\" width=\"70\" height=\"140\" fill=\"rgba(255,255,255,0.14)\"><animate attributeName=\"height\" values=\"0;140;140\" keyTimes=\"0;0.5;1\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;40;40\" keyTimes=\"0;0.5;1\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/></rect><rect x=\"210\" y=\"118\" width=\"70\" height=\"62\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"0;62;62\" keyTimes=\"0;0.5;1\" dur=\"6s\" begin=\"0.4s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;118;118\" keyTimes=\"0;0.5;1\" dur=\"6s\" begin=\"0.4s\" repeatCount=\"indefinite\"/></rect><rect x=\"70\" y=\"40\" width=\"70\" height=\"140\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"105\" y=\"32\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">550,5 mld</text><text x=\"245\" y=\"110\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">241,9 mld</text><text x=\"105\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">spaargeld</text><text x=\"245\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">beleggingen</text><text x=\"245\" y=\"60\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">groei = inleg + koers</text></svg>",
+   "quiz": {
+    "q": "Waardoor groeide het fondsbezit van Nederlandse gezinnen vooral?",
+    "o": [
+     "Door hoge koerswinsten",
+     "Door automatisch herbelegde dividenden",
+     "Door nieuwe aankopen van gezinnen"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "DNB: beleggingen huishoudens 242 miljard",
+     "u": "https://www.dnb.nl/algemeen-nieuws/statistiek/2026/beleggingen-huishoudens-groeien-door-naar-242-miljard/"
+    },
+    {
+     "t": "DNB (Engels)",
+     "u": "https://www.dnb.nl/en/general-news/statistical-news/2026/household-investments-continue-to-rise-to-242-billion/"
+    },
+    {
+     "t": "Nieuws.nl (ANP)",
+     "u": "https://nieuws.nl/economie/beleggingen-nederlandse-huishoudens-naar-recordhoogte-meldt-dnb"
+    }
+   ],
+   "date": "2026-11-24T05:53:07Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Achtervolgende advertenties: handig, tot je je bekeken voelt",
+   "body": "Onderzoekers van Penn State testten retargeting: advertenties die je van site naar site volgen nadat je een product bekeek. Deelnemers vonden ze nuttig en wilden vaker klikken. Maar hoe hardnekkiger de advertenties, hoe sterker het gevoel bekeken te worden, en dat kostte sympathie. Een uitleg 'waarom zie ik dit?' maakte dat gevoel verrassend genoeg net sterker.",
+   "take": "Adverteer je zelf? Beperk hoe vaak en hoe lang je iemand achtervolgt; meer herhaling levert niet vanzelf meer goodwill op.",
+   "deep": "## Hoe het werkt\n\nBekijk je een product in een webshop, dan plaatst die winkel vaak een stukje code, een pixel of cookie, dat je browser herkent. Je komt zo op een lijst van mensen die dat product bekeken. Open je daarna een nieuwssite of sociale media, dan wordt de advertentieruimte daar in een fractie van een seconde geveild. Het advertentiesysteem van de webshop herkent je en biedt extra hoog, omdat je al interesse toonde. Zo verschijnt hetzelfde product overal.\n\nAdverteerders kiezen hoe lang je op de lijst blijft en hoe vaak je de advertentie mag zien: de frequentielimiet. Precies die hardnekkigheid onderzochten de wetenschappers.\n\n## Een voorbeeld\n\nJe bekijkt op een Belgische webshop een winterjas maar koopt hem niet. De volgende dagen zie je diezelfde jas naast je nieuws, tussen je Instagramposts en in een app met recepten. De eerste keer denk je: o ja, die jas. De tiende keer denk je: hoe weten ze dat eigenlijk allemaal?\n\n## Wat onderzoek zegt\n\nDe studie verscheen in het Journal of Current Issues & Research in Advertising, met Sangwook Lee als eerste auteur en S. Shyam Sundar van Penn State als senior auteur; het persbericht verscheen op 23 november 2026. In een experiment ervoeren deelnemers aanhoudende retargeting als een handig hulpmiddel om relevante producten te tonen, en hun klikintentie steeg. Een hoge hardnekkigheid verhoogde echter het gevoel van surveillance, en dat drukte hun houding tegenover de advertenties. Een transparantielabel dat uitlegt waarom je een advertentie ziet, verhoogde het gevoel bekeken te worden, vooral bij mensen die niet eens gericht benaderd waren. Lee noemt aanhoudende targeting een tweesnijdend zwaard.\n\n## Nuance of misverstand\n\nDit is een experiment, geen meting van echte verkoop. Dat transparantie hier averechts werkte, betekent niet dat ze slecht is: in de EU verplicht de Digital Services Act online platformen al om te tonen waarom je een advertentie ziet. De uitdaging is eerder hoe je die uitleg geeft zonder mensen extra ongerust te maken.\n\n## Wat je ermee doet\n\nVoel je je achtervolgd, wis dan je cookies of stel in je browser strengere privacyinstellingen in. Run je zelf campagnes, test dan een lagere frequentie en een kortere looptijd: je behoudt het nut van de herinnering, zonder het gevoel van een schaduw die blijft volgen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"18\" y=\"40\" width=\"92\" height=\"56\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"64\" y=\"34\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">webshop</text><rect x=\"134\" y=\"40\" width=\"92\" height=\"56\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"34\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">nieuwssite</text><rect x=\"250\" y=\"40\" width=\"92\" height=\"56\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"296\" y=\"34\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">sociale media</text><rect x=\"-12\" y=\"-8\" width=\"24\" height=\"16\" rx=\"3\" fill=\"#ffd166\"><animateMotion dur=\"6s\" repeatCount=\"indefinite\" path=\"M64,68 L180,68 L296,68\"/></rect><text x=\"180\" y=\"122\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">dezelfde advertentie volgt je</text><ellipse cx=\"180\" cy=\"160\" rx=\"34\" ry=\"16\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"180\" cy=\"160\" r=\"5\" fill=\"#ff6b9d\"><animate attributeName=\"r\" values=\"4;11;4\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"200\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">gevoel: bekeken worden</text></svg>",
+   "quiz": {
+    "q": "Wat deed een uitleg 'waarom zie je deze advertentie' in het onderzoek?",
+    "o": [
+     "Het gevoel bekeken te worden nam toe",
+     "Mensen klikten op geen enkele advertentie meer",
+     "Het had helemaal geen effect"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Phys.org: Penn State",
+     "u": "https://phys.org/news/2026-11-consumers-oblivious-online-ads.html"
+    },
+    {
+     "t": "EurekAlert",
+     "u": "https://www.eurekalert.org/news-releases/1153108"
+    }
+   ],
+   "date": "2026-11-24T05:53:07Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Walmarts reclame-inkomsten groeien sneller dan zijn winkelverkoop",
+   "body": "Walmart meldde op 19 november dat zijn wereldwijde advertentie-inkomsten in het derde kwartaal met 25% stegen, in de VS zelfs met 37%, mee dankzij tv-merk VIZIO. Reclameplatform Walmart Connect groeide 36%. De totale omzet steeg intussen met 5,2% tot 188,8 miljard dollar. Supermarkten worden zo ook mediabedrijven: retail media.",
+   "take": "Zie je 'gesponsord' bij een product in een webshop? Dan betaalde een merk voor die plek; vergelijk zelf prijs en kwaliteit.",
+   "deep": "## Hoe het werkt\n\nBij retail media verkoopt een winkel advertentieruimte op zijn eigen kanalen: de website, de app, schermen in de winkel en soms zelfs tv-schermen thuis. Merken betalen om bovenaan zoekresultaten te staan of in beeld te komen bij de juiste klanten.\n\nHet grote voordeel is data. Een supermarkt weet via klantenkaarten en online accounts wat je echt koopt, niet alleen wat je bekijkt. Bovendien sluit de cirkel: de winkel ziet of iemand die een advertentie zag, het product daarna ook kocht. Die gesloten lus maakt meten veel eenvoudiger dan bij een affiche of een tv-spot. Voor de winkel is het bijna pure winst, want er hoeft geen extra product voor in de rekken.\n\n## Een voorbeeld\n\nStel: je zoekt in de app van je supermarkt naar koffie. Bovenaan staat een merk met het label gesponsord, ook al is het niet het goedkoopste. Dat merk betaalt per klik of per vertoning. Koop je die week dat pak, dan kan de winkel het merk precies laten zien hoeveel extra verkoop de campagne opleverde.\n\n## Wat onderzoek zegt\n\nIn het kwartaal tot 31 oktober 2026 haalde Walmart 188,8 miljard dollar omzet, 5,2% meer. De wereldwijde e-commerce groeide 17%, de Amerikaanse onlineverkoop 23%. De wereldwijde advertentie-inkomsten stegen 25%, de Amerikaanse 37% inclusief VIZIO, en Walmart Connect 36%. Volgens onderzoeksbureau WARC haalt Walmart in de VS dit jaar ongeveer 6 miljard dollar reclame-inkomsten op en is het daarmee het op één na grootste retailmedianetwerk van het land. Leider Amazon haalde in 2025 68,6 miljard dollar aan advertentie-inkomsten.\n\n## Nuance of misverstand\n\nEen deel van de groei is gekocht: met tv-maker VIZIO kreeg Walmart ook reclameruimte op slimme tv's. Bovendien steunen vergelijkingen tussen platformen vaak op cijfers die de platformen zelf rapporteren. Voor klanten is er een keerzijde: hoe meer gesponsorde plekken, hoe minder de bovenste resultaten zeggen over wat echt het beste past.\n\n## Wat je ermee doet\n\nScroll in een webshop altijd even voorbij de gesponsorde resultaten en sorteer zelf op prijs per kilo of liter. En werk je in marketing, besef dan dat budget steeds vaker naar winkels gaat in plaats van naar klassieke media, omdat ze kunnen tonen wat een advertentie echt verkoopt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><circle cx=\"180\" cy=\"115\" r=\"70\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"5 5\" opacity=\"0.6\"/><circle cx=\"180\" cy=\"45\" r=\"6\" fill=\"#fff\"/><circle cx=\"250\" cy=\"115\" r=\"6\" fill=\"#fff\"/><circle cx=\"180\" cy=\"185\" r=\"6\" fill=\"#fff\"/><circle cx=\"110\" cy=\"115\" r=\"6\" fill=\"#fff\"/><text x=\"180\" y=\"32\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">advertentie</text><text x=\"262\" y=\"119\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">klik</text><text x=\"180\" y=\"206\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">aankoop</text><text x=\"98\" y=\"119\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"end\">data</text><circle r=\"7\" fill=\"#ffd166\"><animateMotion dur=\"6s\" repeatCount=\"indefinite\" path=\"M180,45 A70,70 0 1 1 179.9,45\"/></circle><text x=\"180\" y=\"112\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">gesloten lus</text><text x=\"180\" y=\"128\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">retail media</text></svg>",
+   "quiz": {
+    "q": "Waarom is retail media zo aantrekkelijk voor adverteerders?",
+    "o": [
+     "Het is altijd goedkoper dan tv-reclame",
+     "De winkel ziet of een advertentie tot een aankoop leidde",
+     "Het is in Europa verboden, dus er is weinig concurrentie"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Walmart 8-K (SEC)",
+     "u": "https://www.sec.gov/Archives/edgar/data/0000104169/000010416926000168/earningsreleasefy27q3.htm"
+    },
+    {
+     "t": "MediaPost",
+     "u": "https://www.mediapost.com/publications/article/419574/walmart-gains-us-ad-market-share-jumps-37.html?edition=144546"
+    },
+    {
+     "t": "The Desk: WARC over Walmart",
+     "u": "https://thedesk.net/2026/11/warc-walmart-u-s-ad-revenue-projected-to-reach-6-billion-in-2026/"
+    }
+   ],
+   "date": "2026-11-24T05:53:07Z"
   }
  ],
  "dives": [
