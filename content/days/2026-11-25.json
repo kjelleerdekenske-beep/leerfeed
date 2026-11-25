@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:46:48Z",
+ "updated": "2026-11-25T05:47:06Z",
  "cards": [
   {
    "cat": "tech",
@@ -1260,6 +1260,246 @@
     }
    ],
    "date": "2026-11-25T05:46:48Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Euclid ziet quasar van 630 miljoen jaar na oerknal",
+   "body": "ESA's ruimtetelescoop Euclid vond quasar J1504+6252, bijnaam Dún Aonghasa. We zien hem zoals hij was 630 miljoen jaar na de oerknal, op roodverschuiving 8,13. Het zwarte gat in zijn hart weegt naar schatting 360 miljoen zonnen. Het resultaat verscheen op 24 november in Astronomy & Astrophysics en ligt 40 miljoen jaar verder terug dan Euclids vorige record.",
+   "take": "Lees je 'roodverschuiving' in een ruimtebericht? Hoe hoger dat getal, hoe ouder het licht en hoe jonger het heelal toen.",
+   "deep": "## Hoe het werkt\n\nEen quasar is geen ster maar het hart van een jong sterrenstelsel. Daar zit een superzwaar zwart gat dat gas opslokt. Dat gas draait eerst in een platte schijf rond het gat, wrijft over zichzelf en wordt zo heet dat het feller straalt dan alle sterren van het stelsel samen. Omdat het heelal uitdijt, wordt dat licht onderweg uitgerekt. Bij een roodverschuiving van 8,13 is elke golflengte ruim negen keer langer geworden (1 + 8,13). Ultraviolet licht komt bij ons dus aan als infrarood. Daarom vind je zulke objecten met infraroodtelescopen zoals Euclid, en meet je ze nauwkeuriger na met Webb.\n\n## Een voorbeeld\n\nDenk aan een brief die je pas jaren later in je bus vindt: de inhoud vertelt hoe het toen was, niet hoe het nu is. Het licht van deze quasar vertrok toen het heelal amper 5 procent van zijn huidige leeftijd van 13,8 miljard jaar had. Wat we zien, is dus een babyfoto van een zwart gat dat al gigantisch was.\n\n## Wat onderzoek zegt\n\nVolgens ESA beschreven J. Wolf en collega's de vondst op 24 november 2026 in Astronomy & Astrophysics. Euclid spotte de kandidaat in zijn brede hemelkartering, daarna mat Webb het licht in detail. Uit de breedte van spectraallijnen schatten de onderzoekers de massa op zo'n 360 miljoen keer de zon, met een ruime marge van ongeveer 200 tot 800 miljoen. Opvallend: het gat eet ver onder de Eddingtonlimiet. Die limiet ontstaat doordat de straling van het hete gas het nieuwe gas wegduwt, zodat een zwart gat niet onbeperkt snel kan groeien. Een rustige eter die toch al zo zwaar is, past slecht in de bestaande groeimodellen.\n\n## Nuance of misverstand\n\nDit is de verst bekende quasar, niet het verste object ooit. Webb zag al sterrenstelsels van nog vroeger, maar die hebben geen fel stralend zwart gat. De massa is bovendien een schatting met een grote foutmarge. Mogelijk groeide het gat vroeger sneller, of begon het al met een zware 'kiem'.\n\n## Wat je ermee doet\n\nLees je in een ruimtebericht 'zoveel miljoen jaar na de oerknal', dan weet je nu waar het vandaan komt: uit de roodverschuiving van het licht. En als een vondst 'modellen uitdaagt', vraag dan altijd hoe groot de foutmarge is.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><circle cx=\"50\" cy=\"100\" r=\"14\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"50\" cy=\"100\" r=\"5\" fill=\"#ffd166\"><animate attributeName=\"r\" values=\"4;7;4\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><path d=\"M70 100 Q80 88 90 100 T110 100 T130 100\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"/><path d=\"M150 100 Q165 84 180 100 T210 100\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><path d=\"M230 100 Q252 80 274 100\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><line x1=\"274\" y1=\"100\" x2=\"292\" y2=\"100\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M292 95 L300 100 L292 105 Z\" fill=\"#fff\"/><rect x=\"304\" y=\"86\" width=\"40\" height=\"28\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle r=\"4\" fill=\"#fff\"><animateMotion path=\"M66 100 L300 100\" dur=\"5s\" repeatCount=\"indefinite\"/></circle><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"50\" y=\"138\" text-anchor=\"middle\">quasar</text><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"50\" y=\"152\" text-anchor=\"middle\">z = 8,13</text><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"324\" y=\"138\" text-anchor=\"middle\">Euclid</text><text fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" x=\"180\" y=\"60\" text-anchor=\"middle\">licht rekt mee uit met het heelal</text><text fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"100\" y=\"180\" text-anchor=\"middle\">uv-licht</text><text fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"252\" y=\"180\" text-anchor=\"middle\">infrarood</text><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"180\" y=\"205\" text-anchor=\"middle\">630 miljoen jaar na de oerknal vertrokken</text></svg>",
+   "quiz": {
+    "q": "Waarom zoekt men zulke verre quasars met infraroodtelescopen?",
+    "o": [
+     "Omdat hun licht door de uitdijing van het heelal is uitgerekt naar langere golflengtes",
+     "Omdat zwarte gaten alleen infrarood licht uitzenden",
+     "Omdat infrarood sneller reist dan zichtbaar licht"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "ESA: Euclid breaks own quasar record",
+     "u": "https://www.esa.int/articles/about-us/directorates/science/euclid/euclid-breaks-own-quasar-record-by-40-million-years"
+    },
+    {
+     "t": "US News / AP (24 nov 2026)",
+     "u": "https://www.usnews.com/news/world/articles/2026-11-24/scientists-discover-quasar-formed-within-a-mere-630-million-years-of-the-big-bang-setting-a-record"
+    }
+   ],
+   "date": "2026-11-25T05:47:06Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Speurder vindt 'onmogelijke eiwitten' in 221 onderzoekspapers",
+   "body": "Nature meldde op 20 november dat een onderzoeker 230 gevallen vond waarin papers een eiwit rapporteren in cellen die het gen ervoor missen, verspreid over 221 artikels sinds 2004. Koploper: caspase-3 in borstkankercellijn MCF-7, in 49 papers. Tijdschriften corrigeren of trekken intussen studies terug.",
+   "take": "Lees je over een spectaculaire studie? Kijk even of er een correctie of terugtrekking aan hangt, bijvoorbeeld via de site van het tijdschrift.",
+   "deep": "## Hoe het werkt\n\nLabo's werken vaak met cellijnen: kankercellen die al decennia in kweek groeien en wereldwijd gedeeld worden. Elke lijn heeft haar eigen genetisch profiel. MCF-7, een veelgebruikte borstkankerlijn, mist bijvoorbeeld een stukje van 47 letters in het CASP3-gen. Daardoor wordt een deel van de boodschap overgeslagen en maakt de cel geen bruikbaar caspase-3, een enzym dat geprogrammeerde celdood uitvoert. Wie toch een duidelijk caspase-3-signaal toont, beweert iets wat biologisch niet kan. Zo'n signaal komt meestal van een western blot: je scheidt eiwitten op grootte en kleurt het gezochte eiwit aan met een antilichaam.\n\n## Een voorbeeld\n\nVergelijk het met een wedstrijdverslag van de Rode Duivels waarin een speler scoort die niet eens in de selectie zat. Je hoeft de match niet te hebben gezien om te weten dat er iets mis is. Bij deze papers werkt het net zo: wie weet welk gen een cellijn mist, ziet de fout zonder het experiment over te doen.\n\n## Wat onderzoek zegt\n\nVolgens het nieuwsartikel in Nature van 20 november 2026 doorzocht de speurder de literatuur op zulke onmogelijke combinaties. Hij kwam uit op 230 meldingen in 221 papers. Naast caspase-3 in MCF-7 (49 papers) dook onder meer BAX op in Jurkat-cellen en STAT3 in PC-3-cellen, twee lijnen die die eiwitten ook niet maken. Sommige tijdschriften hebben al artikels gecorrigeerd of teruggetrokken. Nature contacteerde een aantal auteurs, maar kreeg geen antwoord.\n\n## Nuance of misverstand\n\nNiet elk geval is fraude. Een cellijn kan verwisseld of besmet zijn met een andere lijn, of een antilichaam kan aan een verkeerd eiwit kleven. Sommige papers dragen wel tekenen van 'papierfabrieken', bedrijven die nepstudies verkopen, zoals hergebruikte beelden of sjabloontekst. Hoe groot dat aandeel is, is volgens de speurder niet duidelijk.\n\n## Wat je ermee doet\n\nEén studie is geen bewijs. Kijk of andere teams hetzelfde vonden en of er een correctie of terugtrekking bestaat; die staat meestal bovenaan de online versie van het artikel. Voor wie zelf onderzoek doet: controleer de identiteit van je cellijn en test je antilichaam op een lijn waarvan je zeker weet dat het eiwit ontbreekt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" x=\"90\" y=\"30\" text-anchor=\"middle\">cellijn MCF-7</text><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" x=\"270\" y=\"30\" text-anchor=\"middle\">western blot</text><rect x=\"30\" y=\"50\" width=\"120\" height=\"24\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"90\" y=\"66\" text-anchor=\"middle\">CASP3-gen</text><line x1=\"80\" y1=\"50\" x2=\"100\" y2=\"74\" stroke=\"#ff6b9d\" stroke-width=\"3\"/><line x1=\"100\" y1=\"50\" x2=\"80\" y2=\"74\" stroke=\"#ff6b9d\" stroke-width=\"3\"/><text fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"90\" y=\"96\" text-anchor=\"middle\">stukje DNA weg</text><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"90\" y=\"116\" text-anchor=\"middle\">dus geen caspase-3</text><rect x=\"220\" y=\"45\" width=\"100\" height=\"130\" rx=\"4\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"270\" y1=\"45\" x2=\"270\" y2=\"175\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"230\" y=\"100\" width=\"30\" height=\"8\" fill=\"#06d6a0\"/><rect x=\"280\" y=\"100\" width=\"30\" height=\"8\" fill=\"#ffd166\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;1;0\" dur=\"4s\" repeatCount=\"indefinite\"/></rect><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"245\" y=\"190\" text-anchor=\"middle\">echt</text><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"295\" y=\"190\" text-anchor=\"middle\">claim</text><line x1=\"160\" y1=\"105\" x2=\"205\" y2=\"105\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M205 100 L213 105 L205 110 Z\" fill=\"#fff\"/><text fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" x=\"185\" y=\"150\" text-anchor=\"middle\">?</text><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"180\" y=\"212\" text-anchor=\"middle\">een band die er niet kan zijn = alarmsignaal</text></svg>",
+   "quiz": {
+    "q": "Waarom is caspase-3 in MCF-7-cellen een 'onmogelijk' resultaat?",
+    "o": [
+     "Omdat caspase-3 alleen in bloedcellen voorkomt",
+     "Omdat MCF-7 een stukje van het CASP3-gen mist en het eiwit dus niet kan maken",
+     "Omdat western blots geen enzymen kunnen aantonen"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Nature: Sleuth finds 'impossible proteins' (20 nov 2026)",
+     "u": "https://www.nature.com/articles/d41586-026-03799-1"
+    },
+    {
+     "t": "PubMed: caspase-3-tekort in MCF-7",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/27721872"
+    }
+   ],
+   "date": "2026-11-25T05:47:06Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Eerste nieuwe hormoonpil voor vroege borstkanker in twintig jaar",
+   "body": "De Amerikaanse FDA keurde op 23 november giredestrant (Wilserdly) van Roche goed na een operatie voor vroege ER-positieve, HER2-negatieve borstkanker. In de lidERA-studie met 4.170 patiënten verlaagde de pil het risico op terugkeer of overlijden met 30 procent tegenover standaard hormoontherapie. Het is de eerste nieuwe hormoontherapie in die setting in ruim twintig jaar.",
+   "take": "Hoor je 'ER-positief' bij een diagnose? Vraag de arts welke hormoontherapie past en waarom; er komen nieuwe opties bij.",
+   "deep": "## Hoe het werkt\n\nBij ER-positieve borstkanker hebben de tumorcellen oestrogeenreceptoren. Oestrogeen klikt op die receptor, het duo gaat naar de celkern en zet daar groeigenen aan. Klassieke hormoontherapie remt dat op twee manieren. Tamoxifen bezet de receptor, maar blokkeert hem niet volledig. Aromataseremmers verlagen de aanmaak van oestrogeen. Giredestrant is een SERD, een selectieve oestrogeenreceptor-afbreker. Het bindt de receptor, blokkeert hem volledig en zorgt ervoor dat de cel de receptor afbreekt. Zonder receptor valt het groeisignaal weg, ook als er nog oestrogeen rondzwemt.\n\n## Een voorbeeld\n\nStel dat een vrouw uit Gent na een borstoperatie hoort dat haar tumor ER-positief is. Tot nu toe kreeg ze vijf jaar tamoxifen of een aromataseremmer om de kans te verkleinen dat de kanker terugkomt. Een SERD in pilvorm is een derde soort rem. De oudere SERD fulvestrant bestaat al, maar wordt ingespoten en is niet goedgekeurd voor deze vroege fase.\n\n## Wat onderzoek zegt\n\nDe FDA baseerde zich op de fase 3-studie lidERA, met 4.170 patiënten die tot vijf jaar giredestrant of standaardtherapie kregen. Na drie jaar was 92,4 procent in de giredestrant-groep vrij van invasieve ziekte, tegenover 89,6 procent bij standaardtherapie: 30 procent minder risico (hazardratio 0,70). Minder patiënten stopten door bijwerkingen (5,3 tegenover 8,2 procent). Een trage hartslag kwam wel vaker voor: 11,3 tegenover 3,2 procent.\n\n## Nuance of misverstand\n\nEen kleiner risico op terugkeer is nog geen bewezen langer leven. De overlevingsgegevens zijn nog niet rijp, de verschillen daar zijn niet significant. En de goedkeuring geldt voor de Verenigde Staten. In België beslissen het Europees Geneesmiddelenbureau, de Europese Commissie en daarna de terugbetaling over toegang.\n\n## Wat je ermee doet\n\nStop nooit zelf met een voorgeschreven hormoonbehandeling. Wil je weten of een nieuwe optie voor jou of een naaste relevant wordt, vraag dan aan de oncoloog naar het type tumor, het risico op terugkeer en de stand van zaken in Europa.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"20\" y=\"40\" width=\"320\" height=\"140\" rx=\"10\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" x=\"180\" y=\"30\" text-anchor=\"middle\">kankercel (ER-positief)</text><path d=\"M150 150 L150 110 Q180 85 210 110 L210 150\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"1;1;0.15;0.15;1\" dur=\"6s\" repeatCount=\"indefinite\"/></path><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"180\" y=\"168\" text-anchor=\"middle\">receptor</text><circle r=\"9\" fill=\"#ffd166\"><animateMotion path=\"M60 70 L180 112\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><text fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"60\" y=\"58\" text-anchor=\"middle\">oestrogeen</text><rect x=\"270\" y=\"65\" width=\"20\" height=\"20\" fill=\"#06d6a0\"><animateMotion path=\"M0 0 L-100 38\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"285\" y=\"58\" text-anchor=\"middle\">SERD-pil</text><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"275\" y=\"140\" text-anchor=\"middle\">receptor bezet</text><text fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"275\" y=\"155\" text-anchor=\"middle\">en afgebroken</text><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"180\" y=\"205\" text-anchor=\"middle\">geen groeisignaal meer naar de kern</text></svg>",
+   "quiz": {
+    "q": "Wat doet een SERD zoals giredestrant met de oestrogeenreceptor?",
+    "o": [
+     "Het maakt extra oestrogeen aan",
+     "Het verwijdert de tumor operatief",
+     "Het blokkeert de receptor en laat de cel hem afbreken"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "FDA-persbericht (23 nov 2026)",
+     "u": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-new-hormone-therapy-early-stage-breast-cancer-more-20-years"
+    },
+    {
+     "t": "Roche-persbericht (23 nov 2026)",
+     "u": "https://www.roche.com/media/releases/med-cor-2026-11-23"
+    },
+    {
+     "t": "AACR: lidERA-resultaten",
+     "u": "https://www.aacr.org/about-the-aacr/newsroom/news-releases/novel-endocrine-therapy-giredestrant-improves-disease-free-survival-over-standard-of-care-for-patients-with-early-stage-breast-cancer-in-phase-iii-lidera-trial/"
+    }
+   ],
+   "date": "2026-11-25T05:47:06Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Een suikeralcohol wordt eerste medicijn tegen gordelspierdystrofie",
+   "body": "De FDA keurde op 23 november Welgemda (ribitol) goed, de eerste behandeling voor gordelspierdystrofie type 2I/R9, een erfelijke spierziekte door fouten in het FKRP-gen. In de FORTIFY-studie met 112 patiënten steeg het spieranker-eiwit na drie maanden 1,8 keer. Het is ook het eerste goedgekeurde middel voor eender welke vorm van gordelspierdystrofie.",
+   "take": "Een kapot enzym kan soms beter werken als je het meer grondstof geeft. Onthoud dat principe bij nieuws over zeldzame ziektes.",
+   "deep": "## Hoe het werkt\n\nElke spiervezel moet stevig vastzitten aan het steunweefsel eromheen, anders scheurt het celmembraan bij elke samentrekking. Dat anker heet alfa-dystroglycaan, een eiwit met een lange suikerketen: matriglycaan. Het enzym FKRP zet een bouwsteen in die keten, ribitol-fosfaat. Bij type 2I/R9 werkt FKRP door een genfout traag, waardoor er te weinig ankers komen en de spieren langzaam afbreken. Ribitol is een suikeralcohol. Slik je het in, dan maakt het lichaam er de stof CDP-ribitol van, precies de grondstof die FKRP gebruikt. Met meer grondstof haalt het half werkende enzym meer werk uit.\n\n## Een voorbeeld\n\nVergelijk het met een tent met klittenband aan het grondzeil. Bij deze patiënten is de machine die het klittenband aanbrengt traag. Je repareert de machine niet, maar je legt meer rollen klittenband klaar, zodat ze toch meer stukken vastzet.\n\n## Wat onderzoek zegt\n\nBij muizen met FKRP-fouten verhoogde ribitol het matriglycaan en de spierkracht. In de fase 3-studie FORTIFY kregen 112 patiënten ribitol of placebo. Volgens BridgeBio, het bedrijf achter het middel, steeg het correct versierde alfa-dystroglycaan na drie maanden 1,8 keer, terwijl het bij placebo nauwelijks veranderde. Het spierschade-enzym creatinekinase in het bloed daalde fors. Na twaalf maanden scoorden patiënten beter op loop- en longtesten dan met placebo. De goedkeuring geldt voor kinderen en volwassenen vanaf 30 kilo.\n\n## Nuance of misverstand\n\nRibitol herstelt het gen niet; het helpt alleen een enzym dat nog een beetje werkt. De FDA noemt het werkingsmechanisme ook nog niet volledig begrepen. De gegevens komen uit een tussentijdse analyse na twaalf maanden, de eindanalyse na 36 maanden volgt nog. En het middel is enkel bedoeld voor deze ene, zeldzame vorm.\n\n## Wat je ermee doet\n\nHet idee 'geef een zwak enzym meer grondstof' heet substraatsuppletie. Lees je over een behandeling voor een zeldzame ziekte, vraag dan: herstelt ze de oorzaak, of omzeilt ze die? Voor patiënten in België blijven de Europese beoordeling en de terugbetaling de volgende stappen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"30\" y=\"120\" width=\"300\" height=\"60\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" x=\"180\" y=\"158\" text-anchor=\"middle\">spiercel</text><line x1=\"30\" y1=\"40\" x2=\"330\" y2=\"40\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"6 4\"/><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"180\" y=\"30\" text-anchor=\"middle\">steunweefsel rond de spier</text><line x1=\"80\" y1=\"120\" x2=\"80\" y2=\"45\" stroke=\"#06d6a0\" stroke-width=\"3\" stroke-dasharray=\"75\" stroke-dashoffset=\"75\"><animate attributeName=\"stroke-dashoffset\" values=\"75;0;0;75\" dur=\"5s\" begin=\"0.0s\" repeatCount=\"indefinite\"/></line><line x1=\"140\" y1=\"120\" x2=\"140\" y2=\"45\" stroke=\"#06d6a0\" stroke-width=\"3\" stroke-dasharray=\"75\" stroke-dashoffset=\"75\"><animate attributeName=\"stroke-dashoffset\" values=\"75;0;0;75\" dur=\"5s\" begin=\"0.4s\" repeatCount=\"indefinite\"/></line><line x1=\"200\" y1=\"120\" x2=\"200\" y2=\"45\" stroke=\"#06d6a0\" stroke-width=\"3\" stroke-dasharray=\"75\" stroke-dashoffset=\"75\"><animate attributeName=\"stroke-dashoffset\" values=\"75;0;0;75\" dur=\"5s\" begin=\"0.8s\" repeatCount=\"indefinite\"/></line><line x1=\"260\" y1=\"120\" x2=\"260\" y2=\"45\" stroke=\"#06d6a0\" stroke-width=\"3\" stroke-dasharray=\"75\" stroke-dashoffset=\"75\"><animate attributeName=\"stroke-dashoffset\" values=\"75;0;0;75\" dur=\"5s\" begin=\"1.2000000000000002s\" repeatCount=\"indefinite\"/></line><text fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"305\" y=\"90\" text-anchor=\"middle\">matriglycaan</text><circle r=\"5\" fill=\"#ffd166\"><animateMotion path=\"M20 205 L80 125\" dur=\"2.5s\" repeatCount=\"indefinite\"/></circle><text fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"70\" y=\"210\" text-anchor=\"start\">extra ribitol</text><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"330\" y=\"210\" text-anchor=\"end\">FKRP bouwt meer ankers</text></svg>",
+   "quiz": {
+    "q": "Hoe helpt ribitol bij gordelspierdystrofie type 2I/R9?",
+    "o": [
+     "Het geeft het trage FKRP-enzym meer grondstof voor spierankers",
+     "Het vervangt het kapotte FKRP-gen",
+     "Het laat nieuwe spiervezels groeien uit stamcellen"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Pharmacy Times (nov 2026)",
+     "u": "https://www.pharmacytimes.com/view/fda-approves-ribitol-as-first-treatment-for-limb-girdle-muscular-dystrophy"
+    },
+    {
+     "t": "BioSpace / BridgeBio-persbericht",
+     "u": "https://www.biospace.com/press-releases/welgemda-bbp-418-ribitol-receives-traditional-approval-as-the-first-and-only-treatment-for-individuals-living-with-lgmd2i-r9"
+    },
+    {
+     "t": "MDA-persbericht",
+     "u": "https://www.mda.org/press-releases/first-ever-treatment-for-limb-girdle-muscular-dystrophy-type-2ir9-approved-by-fda-a-milestone-for-a"
+    }
+   ],
+   "date": "2026-11-25T05:47:06Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Klein AI-model ontwerpt analoge chips bijna als topmodel",
+   "body": "MIT stelde op 23 november SLIC voor: een klein taalmodel van zo'n 4 miljard parameters dat analoge schakelingen ontwerpt door te gokken, te simuleren, te beoordelen en bij te sturen. Het benadert grote cloudmodellen, met een fractie van de rekenkracht. Bedrijven kunnen het lokaal draaien, zodat gevoelige chipontwerpen in huis blijven.",
+   "take": "Moet AI een technische taak doen? Een klein model dat zijn werk telkens laat narekenen, kan een groot algemeen model verslaan.",
+   "deep": "## Hoe het werkt\n\nAnaloge chips verwerken echte signalen: het geluid van je microfoon, radiogolven van je gsm, de spanning in je lader. Een ontwerper kiest daarvoor de maten van transistors, weerstanden en condensatoren, en checkt met een simulator of het circuit doet wat het moet. Dat is traag gepuzzel. SLIC laat een klein taalmodel dat puzzelwerk doen in een lus: waarden kiezen, simulatie draaien, resultaat lezen, waarden aanpassen. Het model leert in twee stappen. Eerst imiteert het voorbeelden van een groot model. Daarna oefent het zelf, waarbij de simulator als strenge scheidsrechter punten geeft. Dat heet reinforcement learning.\n\n## Een voorbeeld\n\nDenk aan een leerling-kok die eerst een chef nadoet en daarna zelf kookt, met na elke poging een proever die zegt 'te zout' of 'net goed'. Na genoeg rondes heeft de leerling de chef niet meer nodig. Zo'n klein model kan bovendien op een server in het eigen bedrijf draaien, iets wat chipontwerpers met geheime ontwerpen belangrijk vinden.\n\n## Wat onderzoek zegt\n\nHet werk komt van doctoraatsstudent Yan Xu en professor Ruonan Han van MIT, en MIT News bracht het op 23 november 2026. Volgens de projectpagina en de preprint op arXiv haalt de beste SLIC-variant 95,3 procent succes op circuittypes die het al kende en 83,2 procent op nieuwe types, binnen 32 ontwerprondes. Op een commercieel chipproces van TSMC (65 nanometer) zonder extra training lag het succes rond 50 tot 56 procent.\n\n## Nuance of misverstand\n\nHet gaat om simulaties, niet om gebakken chips. De studie is een preprint en nog niet door vakgenoten nagekeken. De vergelijking met het grote GPT-model steunt bovendien op één testronde. Ingenieurs blijven dus nodig om ontwerpen te controleren.\n\n## Wat je ermee doet\n\nHet patroon is breder bruikbaar: een AI-hulp werkt het best als zijn voorstellen meteen getoetst worden, met tests, een rekenblad of een simulator. Laat een model dus niet alleen antwoorden, maar ook nakijken.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"125\" y=\"20\" width=\"110\" height=\"34\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"stroke\" values=\"#fff;#ffd166;#fff;#fff\" dur=\"6s\" begin=\"0.0s\" repeatCount=\"indefinite\"/></rect><rect x=\"235\" y=\"93\" width=\"110\" height=\"34\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"stroke\" values=\"#fff;#ffd166;#fff;#fff\" dur=\"6s\" begin=\"1.5s\" repeatCount=\"indefinite\"/></rect><rect x=\"125\" y=\"166\" width=\"110\" height=\"34\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"stroke\" values=\"#fff;#ffd166;#fff;#fff\" dur=\"6s\" begin=\"3.0s\" repeatCount=\"indefinite\"/></rect><rect x=\"15\" y=\"93\" width=\"110\" height=\"34\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"stroke\" values=\"#fff;#ffd166;#fff;#fff\" dur=\"6s\" begin=\"4.5s\" repeatCount=\"indefinite\"/></rect><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"180\" y=\"42\" text-anchor=\"middle\">1. gok waarden</text><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"290\" y=\"115\" text-anchor=\"middle\">2. simuleer</text><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"180\" y=\"188\" text-anchor=\"middle\">3. beoordeel</text><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"70\" y=\"115\" text-anchor=\"middle\">4. pas aan</text><path d=\"M235 37 Q290 40 290 88\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M285 84 L290 92 L295 84 Z\" fill=\"#fff\"/><path d=\"M290 127 Q290 180 239 183\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M243 178 L235 183 L243 188 Z\" fill=\"#fff\"/><path d=\"M125 183 Q70 180 70 132\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M65 136 L70 128 L75 136 Z\" fill=\"#fff\"/><path d=\"M70 93 Q70 40 121 37\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M117 32 L125 37 L117 42 Z\" fill=\"#fff\"/><text fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" x=\"180\" y=\"104\" text-anchor=\"middle\">klein model</text><text fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"180\" y=\"120\" text-anchor=\"middle\">tot het klopt</text></svg>",
+   "quiz": {
+    "q": "Welke rol speelt de simulator bij het trainen van SLIC?",
+    "o": [
+     "Hij vervangt het taalmodel volledig",
+     "Hij beoordeelt elk ontwerp, zodat het model leert wat werkt",
+     "Hij bakt de chips in de fabriek"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "MIT News (23 nov 2026)",
+     "u": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123"
+    },
+    {
+     "t": "SLIC-projectpagina",
+     "u": "https://slic-agent.github.io/"
+    },
+    {
+     "t": "arXiv-preprint SLIC",
+     "u": "https://arxiv.org/pdf/2611.13452"
+    }
+   ],
+   "date": "2026-11-25T05:47:06Z"
+  },
+  {
+   "cat": "tech",
+   "title": "AI-datacenters maken het geheugen in je gsm duurder",
+   "body": "Xiaomi verwacht dat geheugenchips (DRAM) nog duurder worden tot in 2027, zei het bedrijf op 24 november bij zijn kwartaalcijfers. Het verkocht 29,1 procent minder smartphones (30,7 miljoen), maar de gemiddelde prijs steeg 39,8 procent tot 1.486 yuan. De brutomarge op gsm's zakte naar 9,2 procent, vooral door duurdere onderdelen.",
+   "take": "Een nieuwe gsm of laptop nodig? Vergelijk het werkgeheugen (RAM) bij gelijke prijs; daar wordt nu het eerst op bespaard.",
+   "deep": "## Hoe het werkt\n\nWerkgeheugen wordt gemaakt op siliciumschijven (wafers) in een handvol fabrieken van Samsung, SK Hynix en Micron. Die fabrieken kunnen hun schijven verdelen over gewoon DRAM, voor gsm's en pc's, en HBM, het gestapelde supersnelle geheugen naast AI-chips. HBM levert veel meer winst op. Volgens een Micron-topman kost het per gigabyte ongeveer drie keer zoveel wafercapaciteit. Elke schijf die naar HBM gaat, ontbreekt voor gewoon geheugen. Een nieuwe fabriek bouwen duurt jaren, dus het aanbod groeit niet snel mee. Minder aanbod bij gelijke vraag betekent hogere prijzen.\n\n## Een voorbeeld\n\nStel dat je in december in een Belgische winkel een middenklasser zoekt. De kans is groot dat je voor hetzelfde geld minder RAM krijgt, of dat het goedkoopste model verdwenen is. Xiaomi verkocht in het derde kwartaal duidelijk minder toestellen, maar duurdere: het schoof op naar premiummodellen, waar een duurder geheugen minder doorweegt.\n\n## Wat onderzoek zegt\n\nOp de cijferpresentatie van 24 november 2026 zei Xiaomi-topman William Lu dat DRAM-kosten wellicht blijven stijgen tot ongeveer het tweede kwartaal van 2027, terwijl flashgeheugen (NAND) ongeveer stabiel blijft. Winkelprijzen volgen met vertraging, omdat fabrikanten voorraden hebben. Marktonderzoeker TrendForce verwachtte begin 2026 al contractprijsstijgingen van 55 tot 60 procent per kwartaal voor gewoon DRAM, en SK Hynix noemde zijn capaciteit voor 2026 'zo goed als uitverkocht'.\n\n## Nuance of misverstand\n\nPrognoses lopen uiteen: sommige analisten zien de krapte tot eind 2027 duren. De geheugenmarkt is ook berucht om zijn cycli. Na tekorten volgen vaak overschotten en prijsdalingen, zodra nieuwe fabrieken draaien. Xiaomi zelf zegt ook dat het niet 'blindelings' de prijzen kan verhogen en vooral wil schuiven met zijn aanbod.\n\n## Wat je ermee doet\n\nKoop niet in paniek, maar vergelijk specificaties nauwkeurig. Een vorig model met meer RAM kan een betere deal zijn dan een nieuw toestel dat op geheugen bespaart. Hou ook in gedachten dat de prijsstijging bij laptops, consoles en zelfs elektrische auto's kan opduiken, want ook die gebruiken DRAM.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" x=\"180\" y=\"24\" text-anchor=\"middle\">één fabriek, beperkte siliciumschijven</text><rect x=\"40\" y=\"40\" width=\"280\" height=\"40\" rx=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"40\" y=\"40\" width=\"160\" height=\"40\" rx=\"6\" fill=\"#ff6b9d\" opacity=\"0.8\"><animate attributeName=\"width\" values=\"100;200;100\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"50\" y=\"64\" text-anchor=\"start\">HBM voor AI</text><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"310\" y=\"64\" text-anchor=\"end\">gewoon DRAM</text><line x1=\"180\" y1=\"90\" x2=\"180\" y2=\"120\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M175 116 L180 124 L185 116 Z\" fill=\"#fff\"/><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"180\" y=\"142\" text-anchor=\"middle\">minder gsm-geheugen beschikbaar</text><line x1=\"120\" y1=\"160\" x2=\"240\" y2=\"160\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"160\" y=\"160\" width=\"40\" height=\"20\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"10;40;10\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"180\" y=\"205\" text-anchor=\"middle\">prijs per chip stijgt</text></svg>",
+   "quiz": {
+    "q": "Waarom maakt de AI-boom gewoon gsm-geheugen duurder?",
+    "o": [
+     "Omdat gsm's sinds dit jaar meer stroom verbruiken",
+     "Omdat AI-chips geen geheugen nodig hebben",
+     "Omdat fabrieken wafers verschuiven naar HBM voor AI, waardoor er minder gewoon DRAM is"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "DigiTimes (25 nov 2026)",
+     "u": "https://www.digitimes.com/news/a20261125VL209/xiaomi-2027-europe-dram-chips.html"
+    },
+    {
+     "t": "The Next Web: Xiaomi Q3 2026",
+     "u": "https://thenextweb.com/news/xiaomi-q3-2026-earnings-profit-falls-memory-costs-ev-ai-loss"
+    },
+    {
+     "t": "Network World: Samsung over geheugentekort",
+     "u": "https://www.networkworld.com/article/4113772/samsung-warns-of-memory-shortages-driving-industry-wide-price-surge-in-2026.html"
+    }
+   ],
+   "date": "2026-11-25T05:47:06Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Adverteerders zwijgen net wanneer Black Friday-shoppers luisteren",
+   "body": "Volgens een analyse van advertentiebedrijf Teads, op 19 november gebracht door Retail Insider, stijgt de klikratio op advertenties van 1,3 procent tien dagen voor Black Friday naar 1,82 procent in de laatste vijf dagen. Toch dalen de advertentiebudgetten in die periode met meer dan 30 procent. Op 27 november is het Black Friday.",
+   "take": "Meet je zelf campagnes? Zet een kleine controlegroep zonder advertenties op; het verschil toont wat je reclame echt opbrengt.",
+   "deep": "## Hoe het werkt\n\nVeel bedrijven beslissen over hun budget met 'last-click'-attributie: de verkoop wordt volledig toegeschreven aan de laatste advertentie waarop iemand klikte voor de aankoop. Wie tien dagen voor Black Friday een video zag, daarna een review las en op de dag zelf via Google kocht, levert dus alle eer aan die zoekadvertentie. De vroege advertenties lijken niets op te brengen en worden geschrapt. Een betere maat is incrementaliteit: je laat een deel van de doelgroep willekeurig geen advertenties zien en vergelijkt de verkoop. Het verschil is wat de reclame echt toevoegt.\n\n## Een voorbeeld\n\nEen Vlaamse webwinkel in fietsaccessoires ziet in zijn dashboard dat bijna alle verkopen via zoekadvertenties binnenkomen en schrapt daarom zijn socialemediareclame. Maar veel kopers ontdekten de winkel net via die posts en zochten pas later de naam op. Zonder testgroep merkt de winkel dat pas als de verkoop zakt.\n\n## Wat onderzoek zegt\n\nTeads stelt dat de interesse van consumenten zeven tot tien dagen voor Black Friday sterk begint te groeien, met een versnelling rond 20 november. Volgens dezelfde analyse staat 74 procent van de geplande feestaankopen nog open wanneer Black Friday begint. Teads verwijst ook naar een incrementaliteitsstudie van meetbedrijf Haus over de Cyber Week. Teads oppert zelf dat de budgetdaling wijst op te veel vertrouwen in last-click-metingen.\n\n## Nuance of misverstand\n\nTeads verkoopt zelf advertentieruimte en heeft dus belang bij meer budget; de cijfers zijn niet onafhankelijk gecontroleerd. Een hogere klikratio betekent ook niet automatisch meer verkoop. En er zijn andere redenen om te pauzeren: in de Black Friday-week stijgen advertentieprijzen vaak sterk.\n\n## Wat je ermee doet\n\nKijk kritisch naar elk dashboard dat zegt welk kanaal 'de verkoop' bracht. Vraag hoe dat gemeten is. Wie het echt wil weten, test met een controlegroep in plaats van te vertrouwen op de laatste klik.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><line x1=\"40\" y1=\"180\" x2=\"330\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"40\" y1=\"180\" x2=\"40\" y2=\"30\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M40 150 L180 140 L320 70\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"3\" stroke-dasharray=\"320\" stroke-dashoffset=\"320\"><animate attributeName=\"stroke-dashoffset\" values=\"320;0;0\" dur=\"6s\" repeatCount=\"indefinite\"/></path><path d=\"M40 60 L180 65 L320 120\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"3\" stroke-dasharray=\"320\" stroke-dashoffset=\"320\"><animate attributeName=\"stroke-dashoffset\" values=\"320;0;0\" dur=\"6s\" repeatCount=\"indefinite\"/></path><text fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"318\" y=\"62\" text-anchor=\"end\">klikratio 1,82%</text><text fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"318\" y=\"140\" text-anchor=\"end\">budget -30%</text><text fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"48\" y=\"145\" text-anchor=\"start\">1,3%</text><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"180\" y=\"200\" text-anchor=\"middle\">10 dagen voor → laatste 5 dagen</text><text fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"330\" y=\"212\" text-anchor=\"end\">Black Friday</text></svg>",
+   "quiz": {
+    "q": "Wat is het probleem met 'last-click'-attributie?",
+    "o": [
+     "Ze geeft alle eer aan de laatste klik en negeert eerdere advertenties",
+     "Ze telt alleen advertenties op televisie",
+     "Ze werkt alleen tijdens Black Friday"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Retail Insider (19 nov 2026)",
+     "u": "https://retail-insider.com/retail-insider/2026/11/black-friday-advertising-retailers-cut-ad-spending-as-consumer-purchase-intent-rises-teads/"
+    }
+   ],
+   "date": "2026-11-25T05:47:06Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Wie later geboren is, onthoudt op oudere leeftijd beter",
+   "body": "Een studie in Nature Medicine, geleid door Anders Fjell (Universiteit van Oslo), bundelde zo'n 783.000 geheugentests van 219.000 vijftigplussers, geboren tussen 1910 en 1964. Per decennium later geboren lag de geheugenscore op 60 jaar 10 procent hoger, was de kans op een stabiel geheugen 64 procent groter en de kans op een sterke achteruitgang 38 procent kleiner.",
+   "take": "Je geheugen op latere leeftijd ligt niet vast. Wat je nu leert en hoe gezond je hart blijft, bouwt mee aan je buffer.",
+   "deep": "## Hoe het werkt\n\nOnderzoekers spreken van cognitieve reserve: een buffer in je hersenen die je opbouwt door onderwijs, uitdagend werk, goede voeding en gezondheid. Wie meer reserve heeft, kan meer schade of veroudering opvangen voor het geheugen merkbaar hapert. Om te zien of die reserve per generatie groeit, moet je twee effecten uit elkaar halen: het leeftijdseffect (iedereen wordt vergeetachtiger met de jaren) en het generatie-effect (wanneer je geboren bent). Dat lukt alleen met longitudinale studies die dezelfde mensen jarenlang opnieuw testen, en verschillende geboortejaren naast elkaar leggen.\n\n## Een voorbeeld\n\nNeem een Vlaamse grootmoeder van 1925 die na de lagere school moest gaan werken, en haar dochter van 1955 die naar het middelbaar ging, betere zorg kreeg en minder honger kende. Op hun zestigste kregen ze allebei dezelfde geheugentest. Volgens deze studie scoort de dochter gemiddeld duidelijk beter, en gaat haar geheugen daarna ook trager achteruit.\n\n## Wat onderzoek zegt\n\nDe studie bundelde vijf grote cohortonderzoeken uit de VS, Engeland, Ierland, Nederland en Europa, onder meer SHARE, waaraan ook België meedoet. Mensen werden tot 30 jaar gevolgd. Nature berichtte er op 19 november 2026 over. De trager dalende geheugenlijn ging ook samen met een trager krimpende hippocampus, het geheugencentrum van de hersenen. Volgens de auteurs kan dit mee verklaren waarom het aantal nieuwe dementiegevallen in Europa en de VS al decennia met zo'n 13 procent per decennium daalt.\n\n## Nuance of misverstand\n\nHet gaat om verbanden, niet om bewezen oorzaken. Onderwijs, voeding en zorg zijn plausibele verklaringen, maar de studie kan ze niet afzonderlijk aanwijzen. De auteurs waarschuwen ook dat de trend niet vanzelf doorgaat; ander onderzoek vond dat Amerikanen van middelbare leeftijd vandaag net slechter scoren dan hun leeftijdgenoten vroeger.\n\n## Wat je ermee doet\n\nBehandel je hersenen als een spaarrekening: blijf nieuwe dingen leren, zorg voor je bloeddruk en beweging, en laat je gehoor nakijken. En onthoud: 'vroeger waren mensen scherper' klopt voor het geheugen op oudere leeftijd net niet.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><line x1=\"40\" y1=\"185\" x2=\"330\" y2=\"185\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"40\" y1=\"185\" x2=\"40\" y2=\"30\" stroke=\"#fff\" stroke-width=\"2\"/><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"185\" y=\"205\" text-anchor=\"middle\">leeftijd 60 → 80</text><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"32\" y=\"40\" text-anchor=\"start\">geheugen</text><path d=\"M50 120 Q190 125 320 170\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"3\"/><path d=\"M50 70 Q190 75 320 110\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"3\" stroke-dasharray=\"300\" stroke-dashoffset=\"300\"><animate attributeName=\"stroke-dashoffset\" values=\"300;0;0\" dur=\"6s\" repeatCount=\"indefinite\"/></path><text fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"318\" y=\"160\" text-anchor=\"end\">vroeger geboren</text><text fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"318\" y=\"100\" text-anchor=\"end\">later geboren</text><line x1=\"60\" y1=\"118\" x2=\"60\" y2=\"76\" stroke=\"#ffd166\" stroke-width=\"2\"/><path d=\"M55 80 L60 72 L65 80 Z\" fill=\"#ffd166\"/><text fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"70\" y=\"98\" text-anchor=\"start\">+10% per decennium</text></svg>",
+   "quiz": {
+    "q": "Waarom zijn longitudinale studies nodig om dit generatie-effect te zien?",
+    "o": [
+     "Omdat ze alleen jonge mensen testen",
+     "Omdat ze geen geheugentests gebruiken",
+     "Omdat ze dezelfde mensen jarenlang volgen en zo leeftijd en geboortejaar uit elkaar halen"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Nature: People entering old age now have better memory (19 nov 2026)",
+     "u": "https://www.nature.com/articles/d41586-026-03783-9"
+    },
+    {
+     "t": "Technology.org (20 nov 2026)",
+     "u": "https://www.technology.org/2026/11/20/later-born-generations-better-memory-slower-decline-dementia-study/"
+    },
+    {
+     "t": "Medical Daily",
+     "u": "https://www.medicaldaily.com/later-born-generations-better-memory-slower-decline-481422"
+    }
+   ],
+   "date": "2026-11-25T05:47:06Z"
   }
  ],
  "dives": [
