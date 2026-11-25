@@ -1,6 +1,315 @@
 {
- "updated": "2026-11-25T05:41:13Z",
- "cards": [],
+ "updated": "2026-11-25T05:44:36Z",
+ "cards": [
+  {
+   "cat": "tech",
+   "title": "Je airbag staat in 30 milliseconden vol",
+   "body": "Een airbag staat volledig opgeblazen ongeveer 30 milliseconden nadat de sensor een zware klap meet. Een versnellingssensor geeft het signaal, een ontsteker start een chemische reactie en onschadelijk gas, vaak stikstof, vult de zak. Volgens de Amerikaanse verkeersveiligheidsdienst NHTSA redden frontale airbags in dertig jaar meer dan 50.000 levens.",
+   "take": "Stel je zetel zo af dat je borstbeen minstens 25 centimeter van het midden van je stuur zit.",
+   "deep": "## Hoe het werkt\n\nEen airbagsysteem heeft drie onderdelen. Eerst zijn er crashsensoren: versnellingsmeters die voortdurend meten hoe snel de auto vertraagt. Bij een matige tot zware botsing stuurt de elektronische regeleenheid in een fractie van een seconde een signaal naar de gasgenerator in de airbagmodule. Daar start een ontsteker een chemische reactie die in één klap veel onschadelijk gas maakt, meestal stikstof, soms argon. Dat gas blaast de zak op, die door het deksel van je stuur of dashboard scheurt. Meteen daarna loopt het gas weer weg via kleine openingen, zodat je in een zacht kussen wordt opgevangen in plaats van tegen een harde ballon te botsen.\n\n## Een voorbeeld\n\nJe rijdt op de E40 en de wagen voor je remt plots. Je knalt aan 50 kilometer per uur achteraan in. Nog voor je hoofd naar voren schiet, heeft de sensor de klap herkend en staat de airbag vol. Je gordel houdt je romp tegen, de airbag vangt hoofd en borst op. Tegen de tijd dat je beseft wat er gebeurd is, hangt de zak al slap tegen het stuur.\n\n## Wat onderzoek zegt\n\nDe NHTSA meldt dat een airbag opblaast in minder dan een twintigste van een seconde. Scientific American rekent het nog scherper: van het moment dat de sensor de botsing detecteert tot de zak volledig vol is, duurt het ongeveer 30 milliseconden, of 0,030 seconde. Volgens cijfers van de NHTSA redden frontale airbags in de Verenigde Staten meer dan 50.000 levens over een periode van ongeveer dertig jaar. Alleen al in 2017 waren dat er naar schatting 2.790.\n\n## Nuance of misverstand\n\nDie snelheid is ook het gevaar. Wie te dicht bij het stuur of dashboard zit, krijgt de zak vol in het gezicht of op de borst op het moment dat hij nog met grote kracht openklapt. Volgens de NHTSA kan dat ernstige en soms dodelijke letsels geven. Daarom zijn de eerste centimeters na het openscheuren de risicozone. Een airbag vervangt ook nooit je gordel: zonder gordel schuif je naar voren, precies in die risicozone.\n\n## Wat je ermee doet\n\nKijk bij je volgende rit even naar je zithouding. Schuif je zetel zo ver naar achter dat je nog comfortabel bij de pedalen kunt, en zorg voor minstens 25 centimeter tussen je borstbeen en het midden van het stuur. Kan je stuur kantelen, richt het dan iets naar beneden, naar je borst in plaats van naar je hoofd. Draag altijd je gordel, ook voor een kort ritje naar de bakker. En zet een rugwaarts gericht kinderzitje nooit voor een actieve airbag.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"20\" y=\"90\" width=\"70\" height=\"40\" rx=\"6\" stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"/><text x=\"55\" y=\"114\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">sensor</text><line x1=\"90\" y1=\"110\" x2=\"140\" y2=\"110\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M140 105 L150 110 L140 115 Z\" fill=\"#fff\"/><rect x=\"150\" y=\"90\" width=\"70\" height=\"40\" rx=\"6\" stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"/><text x=\"185\" y=\"114\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">gasgenerator</text><line x1=\"220\" y1=\"110\" x2=\"250\" y2=\"110\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M250 105 L260 110 L250 115 Z\" fill=\"#fff\"/><circle cx=\"295\" cy=\"110\" r=\"10\" stroke=\"#ffd166\" stroke-width=\"2\" fill=\"rgba(255,209,102,0.25)\"><animate attributeName=\"r\" values=\"8;40;40;8\" keyTimes=\"0;0.3;0.8;1\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><text x=\"295\" y=\"180\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">zak vol stikstof</text><circle cx=\"55\" cy=\"75\" r=\"5\" fill=\"#ff6b9d\"><animate attributeName=\"opacity\" values=\"0;1;0\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><text x=\"55\" y=\"60\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">botsing</text><text x=\"180\" y=\"40\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">ongeveer 30 milliseconden van start tot vol</text><text x=\"180\" y=\"205\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">zit minstens 25 cm van het stuur</text></svg>",
+   "quiz": {
+    "q": "Hoe lang duurt het ongeveer van botsing tot volledig opgeblazen airbag?",
+    "o": [
+     "Ongeveer 30 milliseconden",
+     "Ongeveer een halve seconde",
+     "Ongeveer 2 seconden"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "NHTSA – Air Bags",
+     "u": "https://www.nhtsa.gov/airbags"
+    },
+    {
+     "t": "Scientific American – How do airbags work?",
+     "u": "https://www.scientificamerican.com/article/how-do-airbags-work/"
+    },
+    {
+     "t": "CBS News – Almanac: Air bags",
+     "u": "https://www.cbsnews.com/news/almanac-air-bags"
+    }
+   ],
+   "date": "2026-11-25T05:44:36Z"
+  },
+  {
+   "cat": "tech",
+   "title": "CERN gaf het web in 1993 gratis weg",
+   "body": "De eerste website draaide bij CERN in Genève, op info.cern.ch, op een NeXT-computer van Tim Berners-Lee. Op 6 augustus 1991 kondigde hij het project publiek aan. Op 30 april 1993 zette CERN de websoftware in het publieke domein: iedereen mocht ze gratis gebruiken en aanpassen. Zonder die keuze had het web er heel anders uitgezien.",
+   "take": "Surf eens naar info.cern.ch: CERN heeft daar een kopie van de allereerste webpagina teruggezet.",
+   "deep": "## Hoe het werkt\n\nTim Berners-Lee werkte als informaticus bij CERN, het Europese labo voor deeltjesfysica in Genève. Wetenschappers uit de hele wereld wilden er informatie delen, maar elke computer had zijn eigen systeem. Berners-Lee bedacht een manier om documenten aan elkaar te koppelen met links, over het bestaande internet heen. Daarvoor had hij drie dingen nodig: een taal om pagina's te schrijven (HTML), een manier om ze op te vragen (HTTP) en een adres voor elke pagina (de URL). Zijn NeXT-computer werd de eerste webserver, met het adres info.cern.ch.\n\n## Een voorbeeld\n\nElke keer dat je op je gsm een recept, de dienstregeling van De Lijn of een webshop opent, gebruik je nog altijd dezelfde basisideeën: een adres, een vraag naar een server en een pagina vol links. Dat je browser niets kost en dat iedereen zonder licentie een website mag bouwen, gaat terug op een beslissing die CERN in 1993 nam.\n\n## Wat onderzoek zegt\n\nVolgens de geschiedenispagina's van CERN draaide de eerste website op info.cern.ch. Op 6 augustus 1991 kondigde Berners-Lee het project aan in de nieuwsgroep alt.hypertext, met uitleg over hoe je de WWW-software bij CERN kon ophalen. Op 30 april 1993 zette CERN die software via een officieel document in het publieke domein. In 1994 volgde een nieuwe versie onder een opensourcelicentie. In 2013 startte CERN een project om de allereerste website te herstellen, omdat ze niet meer op het oorspronkelijke adres online stond.\n\n## Nuance of misverstand\n\nHet web en het internet zijn niet hetzelfde. Het internet, het netwerk van gekoppelde computers, bestond al langer. Het web is een dienst die erbovenop draait, net als e-mail. Berners-Lee vond dus niet het internet uit, wel de manier om er pagina's met links op te zetten. En het web was ook niet meteen een succes: het was een van meerdere systemen om informatie te delen. Juist omdat het gratis en open was, kon het de concurrentie voorblijven.\n\n## Wat je ermee doet\n\nOnthoud het verschil tussen internet en web, dat helpt bij veel nieuws over technologie. En kijk zelf eens op info.cern.ch: die sobere pagina met blauwe links laat zien hoe eenvoudig het begon. Wie zelf iets bouwt, kan er ook een les uit halen: wat je openstelt voor anderen, kan veel groter worden dan wat je achter slot houdt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><line x1=\"64\" y1=\"110\" x2=\"297\" y2=\"110\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"24;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></line><circle cx=\"50\" cy=\"110\" r=\"14\" stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"><animate attributeName=\"fill\" values=\"rgba(255,255,255,0.14);#ffd166;rgba(255,255,255,0.14)\" dur=\"6s\" begin=\"0.0s\" repeatCount=\"indefinite\"/></circle><text x=\"50\" y=\"80\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">1989</text><text x=\"50\" y=\"148\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">voorstel</text><circle cx=\"137\" cy=\"110\" r=\"14\" stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"><animate attributeName=\"fill\" values=\"rgba(255,255,255,0.14);#ffd166;rgba(255,255,255,0.14)\" dur=\"6s\" begin=\"1.5s\" repeatCount=\"indefinite\"/></circle><text x=\"137\" y=\"80\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">1990</text><text x=\"137\" y=\"148\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">eerste server</text><circle cx=\"224\" cy=\"110\" r=\"14\" stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"><animate attributeName=\"fill\" values=\"rgba(255,255,255,0.14);#ffd166;rgba(255,255,255,0.14)\" dur=\"6s\" begin=\"3.0s\" repeatCount=\"indefinite\"/></circle><text x=\"224\" y=\"80\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">1991</text><text x=\"224\" y=\"148\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">aankondiging</text><circle cx=\"311\" cy=\"110\" r=\"14\" stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"><animate attributeName=\"fill\" values=\"rgba(255,255,255,0.14);#ffd166;rgba(255,255,255,0.14)\" dur=\"6s\" begin=\"4.5s\" repeatCount=\"indefinite\"/></circle><text x=\"311\" y=\"80\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">1993</text><text x=\"311\" y=\"148\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">vrijgegeven</text><text x=\"180\" y=\"40\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Het web bij CERN</text><text x=\"180\" y=\"190\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">30 april 1993: software in het publieke domein</text></svg>",
+   "quiz": {
+    "q": "Wat gebeurde er op 30 april 1993?",
+    "o": [
+     "Berners-Lee schreef zijn eerste voorstel",
+     "CERN zette de websoftware in het publieke domein",
+     "De eerste webshop ging online"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "CERN – A short history of the Web",
+     "u": "https://home.cern/science/computing/the-birth-of-the-web/short-history-web/"
+    },
+    {
+     "t": "CERN – Twenty years of a free, open web",
+     "u": "https://www.home.cern/news/news/computing/twenty-years-free-open-web"
+    },
+    {
+     "t": "NPR – The very first website, 30 years later",
+     "u": "https://www.npr.org/2021/08/06/1025554426/a-look-back-at-the-very-first-website-ever-launched-30-years-later"
+    }
+   ],
+   "date": "2026-11-25T05:44:36Z"
+  },
+  {
+   "cat": "tech",
+   "title": "QWERTY was niet bedoeld om je te vertragen",
+   "body": "Het hardnekkige verhaal luidt dat Christopher Sholes de letters door elkaar gooide om snelle typisten af te remmen. Historici vinden daar geen bewijs voor. Kyoto-onderzoekers Koichi en Motoko Yasuoka stellen dat de indeling jaren bijgeschaafd werd, met telegrafisten als belangrijke vroege gebruikers. Remington verkocht de machine vanaf 1874 en maakte de indeling zo standaard.",
+   "take": "Hoor je 'QWERTY werd gemaakt om te vertragen'? Vraag naar de bron: het is een mythe zonder bewijs.",
+   "deep": "## Hoe het werkt\n\nDe Amerikaanse uitvinder Christopher Latham Sholes werkte eind jaren 1860 en begin jaren 1870 aan een schrijfmachine. De letters zaten op typestaafjes die tegen het papier sloegen. Zijn eerste toetsenborden hadden een indeling die veel op het alfabet leek. Over de jaren schoof hij letters heen en weer, op basis van problemen en feedback van gebruikers. Het resultaat, met Q, W, E, R, T en Y linksboven, kwam op de machines die fabrikant Remington vanaf 1874 verkocht. Omdat Remington ook typecursussen gaf, leerden veel typisten op die indeling, en wie ze kende, wilde niet meer wisselen.\n\n## Een voorbeeld\n\nKijk naar je eigen laptop. In België gebruik je waarschijnlijk AZERTY, een Franse variant waarin A en Z van plaats wisselden met Q en W. Ook die indeling stamt uit dezelfde familie. Dat we 150 jaar later nog altijd typen op een schikking uit het tijdperk van de schrijfmachine, zegt veel over hoe moeilijk gewoontes veranderen.\n\n## Wat onderzoek zegt\n\nDe Japanse onderzoekers Koichi en Motoko Yasuoka van de Universiteit van Kyoto gingen terug naar de patenten en archieven. Zij schrijven dat Sholes de typestaafjes niet zo schikte om te vertragen en dat hij nooit de bedoeling had de typist af te remmen. Volgens hen waren telegrafisten, die snel morseberichten moesten uittypen, cruciale vroege gebruikers. Zo zouden ze de S naast de Z en de E gezet hebben, omdat Z en SE in Amerikaanse morse makkelijk verward worden. Smithsonian Magazine noemt de theorie over vastlopende staafjes daarom omstreden.\n\n## Nuance of misverstand\n\nOok de telegraaftheorie is niet het hele verhaal. Andere historici wijzen erop dat ze niet alles verklaart, bijvoorbeeld waarom E en R gewoon naast elkaar staan. Wellicht speelden meerdere redenen een rol: mechanische beperkingen, wensen van gebruikers en de zakelijke keuzes van Remington. Wat wel vaststaat: er is geen bewijs dat iemand bewust een traag toetsenbord wilde.\n\n## Wat je ermee doet\n\nGebruik dit verhaal als voorbeeld van hoe een simpele uitleg een ingewikkelde geschiedenis kan verdringen. Als iemand stelt dat iets 'expres zo ontworpen is', vraag dan wie dat zegt en op basis van welke documenten. En wil je sneller typen? Dan helpt blind leren typen veel meer dan van indeling wisselen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"40\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Mythe: om typisten te vertragen?</text><rect x=\"35\" y=\"90\" width=\"25\" height=\"25\" rx=\"4\" stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"/><text x=\"47\" y=\"107\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Q</text><rect x=\"64\" y=\"90\" width=\"25\" height=\"25\" rx=\"4\" stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"/><text x=\"76\" y=\"107\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">W</text><rect x=\"93\" y=\"90\" width=\"25\" height=\"25\" rx=\"4\" stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"/><text x=\"105\" y=\"107\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">E</text><rect x=\"122\" y=\"90\" width=\"25\" height=\"25\" rx=\"4\" stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"/><text x=\"134\" y=\"107\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">R</text><rect x=\"151\" y=\"90\" width=\"25\" height=\"25\" rx=\"4\" stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"/><text x=\"163\" y=\"107\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">T</text><rect x=\"180\" y=\"90\" width=\"25\" height=\"25\" rx=\"4\" stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"/><text x=\"192\" y=\"107\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Y</text><rect x=\"209\" y=\"90\" width=\"25\" height=\"25\" rx=\"4\" stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"/><text x=\"221\" y=\"107\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">U</text><rect x=\"238\" y=\"90\" width=\"25\" height=\"25\" rx=\"4\" stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"/><text x=\"250\" y=\"107\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">I</text><rect x=\"267\" y=\"90\" width=\"25\" height=\"25\" rx=\"4\" stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"/><text x=\"279\" y=\"107\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">O</text><rect x=\"296\" y=\"90\" width=\"25\" height=\"25\" rx=\"4\" stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"/><text x=\"308\" y=\"107\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">P</text><line x1=\"60\" y1=\"70\" x2=\"300\" y2=\"70\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"1;0.2;1\" dur=\"4s\" repeatCount=\"indefinite\"/></line><text x=\"180\" y=\"150\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Echt verhaal: jaren bijschaven,</text><text x=\"180\" y=\"168\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">met telegrafisten als testers</text><circle r=\"5\" fill=\"#ffd166\"><animateMotion path=\"M47 135 L307 135\" dur=\"5s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Sholes, jaren 1870, Remington</text></svg>",
+   "quiz": {
+    "q": "Wat zeggen de onderzoekers Yasuoka over QWERTY?",
+    "o": [
+     "Sholes wilde typisten bewust vertragen",
+     "De indeling was willekeurig gekozen",
+     "Telegrafisten waren belangrijke vroege gebruikers die de indeling mee vormden"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Smithsonian – Fact or fiction? The legend of the QWERTY keyboard",
+     "u": "https://www.smithsonianmag.com/arts-culture/fact-of-fiction-the-legend-of-the-qwerty-keyboard-49863249/"
+    },
+    {
+     "t": "Yasuoka & Yasuoka – On the prehistory of QWERTY (Kyoto University)",
+     "u": "https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/139379/1/42_161.pdf"
+    },
+    {
+     "t": "University of Wisconsin – QWERTY and Morse code",
+     "u": "https://wi101.wisc.edu/qwerty-keyboard-and-morse-code/"
+    }
+   ],
+   "date": "2026-11-25T05:44:36Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Je gps heeft vier satellieten nodig, niet drie",
+   "body": "Een gps-satelliet zendt voortdurend zijn positie en de exacte tijd uit. Je gsm meet hoelang elk signaal onderweg was en rekent dat om naar afstand. Drie afstanden volstaan in theorie voor je positie, maar de goedkope kwartsklok in je toestel loopt nooit perfect. Een vierde satelliet lost die klokfout op. Een duizendste seconde fout geeft honderden kilometers fout.",
+   "take": "Sta je in een stad tussen hoge gebouwen en springt je blauwe bolletje? Ga naar een open plek voor beter zicht op satellieten.",
+   "deep": "## Hoe het werkt\n\nGps-satellieten cirkelen op ongeveer 20.200 kilometer hoogte en draaien twee keer per dag rond de aarde. Elke satelliet heeft een atoomklok aan boord en zendt een signaal uit met zijn positie en het tijdstip van verzenden. Je ontvanger kijkt hoe laat het signaal aankomt. Omdat radiogolven met de lichtsnelheid reizen, ongeveer 300.000 kilometer per seconde, geeft het tijdsverschil de afstand. Ken je de afstand tot één satelliet, dan zit je ergens op een bol rond die satelliet. Met meerdere bollen vind je het snijpunt: dat heet trilateratie. Maar je gsm heeft geen atoomklok, enkel een kwartsklok. Die kleine klokfout is een vierde onbekende, naast lengte, breedte en hoogte. Vier onbekenden vragen vier vergelijkingen, dus vier satellieten.\n\n## Een voorbeeld\n\nJe fietst met een fietsapp door de Kempen. Je gsm ontvangt signalen van een hele reeks satellieten tegelijk, ook van het Europese Galileo-systeem. Met minstens vier ervan berekent hij elke seconde opnieuw je positie en stelt hij meteen zijn eigen klok bij. Daarom ziet je app ook je hoogte en je snelheid.\n\n## Wat onderzoek zegt\n\nVolgens de Amerikaanse overheidssite gps.gov telde het gps-netwerk in juli 2023 31 operationele satellieten, zonder reserves. De Amerikaanse oceaan- en weerdienst NOAA legt uit dat je vier satellieten nodig hebt: drie om je positie te bepalen en één om de fout in de klok van je ontvanger te corrigeren. Hoe gevoelig dat is, toont een rekenvoorbeeld uit naslagwerk van EBSCO: een klokfout van slechts een duizendste seconde geeft een positiefout van bijna 200 mijl, ruim 300 kilometer.\n\n## Nuance of misverstand\n\nVaak lees je dat gps werkt met triangulatie, dus met hoeken. Dat klopt niet: het gaat om afstanden, en dat heet trilateratie. Een tweede misverstand is dat je gsm iets terugstuurt naar de satellieten. Ook dat is fout: gps is eenrichtingsverkeer. Je toestel luistert alleen, en de satellieten weten niet wie hen gebruikt.\n\n## Wat je ermee doet\n\nGeef je toestel open zicht op de lucht als je positie springt: tussen hoge gebouwen en onder dicht bladerdak bereiken minder signalen je gsm, of komen ze via weerkaatsingen binnen. Zet in je instellingen gerust ook nauwkeurige locatie aan, zodat je gsm meerdere satellietsystemen en wifi mee mag gebruiken.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"52\" y=\"39\" width=\"16\" height=\"12\" stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"/><line x1=\"60\" y1=\"51\" x2=\"180\" y2=\"170\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"5 5\"><animate attributeName=\"stroke-dashoffset\" values=\"20;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></line><rect x=\"142\" y=\"24\" width=\"16\" height=\"12\" stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"/><line x1=\"150\" y1=\"36\" x2=\"180\" y2=\"170\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"5 5\"><animate attributeName=\"stroke-dashoffset\" values=\"20;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></line><rect x=\"232\" y=\"29\" width=\"16\" height=\"12\" stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"/><line x1=\"240\" y1=\"41\" x2=\"180\" y2=\"170\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"5 5\"><animate attributeName=\"stroke-dashoffset\" values=\"20;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></line><rect x=\"302\" y=\"54\" width=\"16\" height=\"12\" stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"/><line x1=\"310\" y1=\"66\" x2=\"180\" y2=\"170\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"5 5\"><animate attributeName=\"stroke-dashoffset\" values=\"20;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></line><circle cx=\"180\" cy=\"175\" r=\"7\" fill=\"#06d6a0\"/><circle cx=\"180\" cy=\"175\" r=\"7\" stroke=\"#06d6a0\" stroke-width=\"2\" fill=\"none\"><animate attributeName=\"r\" values=\"7;30\" dur=\"3s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;0\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"210\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">jouw gsm: 3 coördinaten + klokfout</text><text x=\"310\" y=\"90\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">4e satelliet</text><text x=\"310\" y=\"104\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">= klok juist</text></svg>",
+   "quiz": {
+    "q": "Waarom heeft je gsm een vierde satelliet nodig?",
+    "o": [
+     "Om de hoogte van de satelliet te kennen",
+     "Om de fout in zijn eigen klok weg te rekenen",
+     "Om een signaal terug te sturen"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "NOAA – Global Positioning System tutorial",
+     "u": "https://oceanservice.noaa.gov/education/tutorial_geodesy/geo09_gps.html"
+    },
+    {
+     "t": "GPS.gov – Space Segment",
+     "u": "https://www.gps.gov/systems/gps/space"
+    },
+    {
+     "t": "EBSCO – Global positioning system (GPS)",
+     "u": "https://www.ebsco.com/research-starters/engineering/global-positioning-system-gps"
+    }
+   ],
+   "date": "2026-11-25T05:44:36Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "Een simpele checklist halveerde bijna de sterfte na operaties",
+   "body": "De WHO lanceerde in 2008 een chirurgische checklist van 19 punten. Alex Haynes en collega's testten ze in acht ziekenhuizen wereldwijd, bij bijna 7.700 patiënten. De sterfte na een operatie zakte van 1,5 naar 0,8 procent, complicaties van 11,0 naar 7,0 procent. Het effect gold in rijke én arme landen.",
+   "take": "Maak voor een taak waarbij fouten duur zijn een korte checklist met vaste pauzemomenten, en overloop ze hardop.",
+   "deep": "## Hoe het werkt\n\nDe checklist van de Wereldgezondheidsorganisatie verdeelt een operatie in drie pauzes. Bij de 'sign in', voor de verdoving, bevestigt het team onder meer wie de patiënt is en welke ingreep gepland is. Bij de 'time out', vlak voor de eerste snede, stellen alle teamleden zich voor en overlopen ze de risico's. Bij de 'sign out', voor de patiënt de operatiezaal verlaat, controleren ze of alles klopt. Op elk moment staat het hele team even stil en bevestigt het dat de punten gedaan zijn, of dat er een goede reden is om er een over te slaan.\n\n## Een voorbeeld\n\nStel je een ochtend voor in een operatiekwartier van een Vlaams ziekenhuis. Net voor de chirurg snijdt, zegt de verpleegkundige: time out. Iedereen noemt zijn naam en rol, het team bevestigt de juiste knie en de anesthesist meldt een allergie. Die minuut kost bijna niets, maar ze haalt fouten boven die anders pas na de ingreep opvallen.\n\n## Wat onderzoek zegt\n\nHaynes en collega's publiceerden in 2009 in The New England Journal of Medicine een studie in acht ziekenhuizen in acht steden, van rijke tot arme landen. Ze vergeleken 3.733 patiënten van voor de checklist met 3.955 patiënten erna. De sterfte in het ziekenhuis daalde van 1,5 naar 0,8 procent. Complicaties daalden van 11,0 naar 7,0 procent. Volgens Harvard daalde het aantal sterfgevallen na grote operaties daarmee met meer dan 40 procent.\n\n## Nuance of misverstand\n\nEen checklist werkt alleen als je hem echt gebruikt. Een studie in Genève vond dat slechts 13 procent van de time-outs en 3 procent van de sign-outs volledig werden overlopen. Bovendien was de studie van Haynes een voor-en-navergelijking: ook extra aandacht voor veiligheid tijdens het onderzoek kan meegespeeld hebben. De lijst is dus geen tovermiddel, maar een hulpmiddel dat teamwerk en communicatie afdwingt.\n\n## Wat je ermee doet\n\nDenk aan een taak waar een vergissing duur is: een belangrijke mail versturen, een factuur betalen, een verhuis plannen of software uitrollen. Maak een lijst van vijf tot tien punten, verdeeld over vaste momenten: ervoor, net voor de actie en erna. Hou ze kort, overloop ze hardop als je met meerdere bent en laat iedereen fouten mogen melden.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"40\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">19 controlepunten in 3 pauzes</text><rect x=\"10\" y=\"80\" width=\"100\" height=\"56\" rx=\"8\" stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"><animate attributeName=\"stroke\" values=\"#fff;#ffd166;#fff\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/></rect><text x=\"60\" y=\"104\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Sign in</text><text x=\"60\" y=\"122\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">voor verdoving</text><line x1=\"110\" y1=\"108\" x2=\"124\" y2=\"108\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M124 104 L130 108 L124 112 Z\" fill=\"#fff\"/><rect x=\"130\" y=\"80\" width=\"100\" height=\"56\" rx=\"8\" stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"><animate attributeName=\"stroke\" values=\"#fff;#ffd166;#fff\" dur=\"6s\" begin=\"2s\" repeatCount=\"indefinite\"/></rect><text x=\"180\" y=\"104\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Time out</text><text x=\"180\" y=\"122\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">voor de snede</text><line x1=\"230\" y1=\"108\" x2=\"244\" y2=\"108\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M244 104 L250 108 L244 112 Z\" fill=\"#fff\"/><rect x=\"250\" y=\"80\" width=\"100\" height=\"56\" rx=\"8\" stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"><animate attributeName=\"stroke\" values=\"#fff;#ffd166;#fff\" dur=\"6s\" begin=\"4s\" repeatCount=\"indefinite\"/></rect><text x=\"300\" y=\"104\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Sign out</text><text x=\"300\" y=\"122\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">voor vertrek</text><text x=\"180\" y=\"175\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">sterfte: 1,5% → 0,8%</text><text x=\"180\" y=\"195\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">complicaties: 11,0% → 7,0%</text></svg>",
+   "quiz": {
+    "q": "Hoe evolueerde de sterfte in de checkliststudie van Haynes (2009)?",
+    "o": [
+     "Van 1,5 naar 0,8 procent",
+     "Van 11 naar 7 procent",
+     "Ze bleef gelijk"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "PubMed – Haynes e.a., NEJM 2009",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/19144931/"
+    },
+    {
+     "t": "Harvard Gazette – Surgical safety checklist drops deaths",
+     "u": "https://news.harvard.edu/gazette/story/2009/01/surgical-safety-checklist-drops-deaths-and-complications-by-more-than-one-third/"
+    }
+   ],
+   "date": "2026-11-25T05:44:36Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "Een wandeling in het park laadt je aandacht op",
+   "body": "Psychologen Marc Berman, John Jonides en Stephen Kaplan lieten deelnemers bijna een uur wandelen: door een arboretum of langs een drukke stadsstraat in Ann Arbor. Na de groene wandeling scoorden ze ongeveer 20 procent beter op een lastige aandachts- en geheugentest. De stadswandeling gaf dat effect niet. Hun verklaring: natuur laat je gerichte aandacht rusten.",
+   "take": "Plan bij een lange werkdag een middagwandeling door een park in plaats van door winkelstraten, en laat je gsm in je zak.",
+   "deep": "## Hoe het werkt\n\nDe onderzoekers vertrekken van de aandachtsherstel-theorie van Stephen en Rachel Kaplan. Gerichte aandacht, die je gebruikt om je te concentreren en afleiding te negeren, raakt uitgeput. In een drukke straat moet je die aandacht blijven gebruiken: let op verkeer, negeer reclame, ontwijk mensen. De natuur trekt je aandacht op een zachte manier, met bladeren, water en wolken, zonder dat je moet ingrijpen. Zo krijgt je gerichte aandacht de kans om te herstellen.\n\n## Een voorbeeld\n\nJe zit al de hele voormiddag te blokken voor je examens of te werken aan een rapport. Over de middag kan je kiezen: door de Meir in Antwerpen naar een broodjeszaak, of een toer door het Stadspark. Volgens dit onderzoek heb je na die tweede wandeling meer aandacht over voor de namiddag.\n\n## Wat onderzoek zegt\n\nBerman, Jonides en Kaplan publiceerden hun studie in 2008 in Psychological Science. Deelnemers deden eerst een vermoeiende taak: reeksen cijfers achterstevoren herhalen. Daarna maakten ze een wandeling van bijna een uur, door het Ann Arbor Arboretum of langs een drukke straat. Later wandelden ze ook de andere route, zodat elke deelnemer zijn eigen vergelijking was. Na de groene wandeling verbeterden ze ongeveer 20 procent op de cijfertaak, na de stadswandeling niet duidelijk. Een vervolgonderzoek bij mensen met een depressie vond een vergelijkbare verbetering van het geheugen na een wandeling in het groen.\n\n## Nuance of misverstand\n\nHet effect zat niet gewoon in een betere stemming: op positieve gevoelens vonden de onderzoekers geen duidelijk verschil tussen de groepen. Het ging ook om één studie met een beperkte groep deelnemers, dus het precieze percentage is geen vaste wet. De Universiteit van Michigan benadrukte wel dat het effect ook optrad bij koud weer: je hoeft het niet leuk te vinden om er voordeel van te hebben.\n\n## Wat je ermee doet\n\nKies voor je pauzewandeling bewust een groene route: een park, een bomenrij langs een kanaal of een stuk bos. Laat je gsm in je zak, want scrollen vraagt opnieuw gerichte aandacht. Plan zo'n wandeling vlak voor taken die veel concentratie vragen, zoals studeren of een moeilijk rapport schrijven.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"90\" y=\"40\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">stadswandeling</text><text x=\"270\" y=\"40\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">wandeling in het groen</text><rect x=\"40\" y=\"150\" width=\"100\" height=\"20\" stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"220\" y=\"150\" width=\"100\" height=\"20\" stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"/><rect x=\"70\" y=\"120\" width=\"40\" height=\"30\" fill=\"#ff6b9d\"/><rect x=\"250\" y=\"120\" width=\"40\" height=\"30\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"30;55;55;30\" keyTimes=\"0;0.4;0.8;1\" dur=\"5s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"120;95;95;120\" keyTimes=\"0;0.4;0.8;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"90\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">aandacht moe</text><text x=\"270\" y=\"190\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">aandacht hersteld</text><circle cx=\"270\" cy=\"70\" r=\"12\" stroke=\"#ffd166\" stroke-width=\"2\" fill=\"none\"><animate attributeName=\"r\" values=\"10;14;10\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"212\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">geheugentest: ongeveer 20% beter na het park</text></svg>",
+   "quiz": {
+    "q": "Wat deden deelnemers in de studie van Berman (2008) na de wandeling in het groen?",
+    "o": [
+     "Ze sliepen beter",
+     "Ze waren vooral blijer, maar niet geconcentreerder",
+     "Ze scoorden ongeveer 20 procent beter op een aandachts- en geheugentaak"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "PubMed – Berman, Jonides & Kaplan 2008",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/19121124/"
+    },
+    {
+     "t": "University of Michigan – Going outside improves memory, attention",
+     "u": "https://news.umich.edu/?p=6892"
+    },
+    {
+     "t": "APA – Speaking of Psychology: nature and the brain",
+     "u": "https://www.apa.org/news/podcasts/speaking-of-psychology/nature-brain"
+    }
+   ],
+   "date": "2026-11-25T05:44:36Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "Wanneer je herhaalt, hangt af van je examendatum",
+   "body": "Nicholas Cepeda en collega's lieten meer dan 1.350 mensen feiten leren, herhalen na een pauze tot 3,5 maanden en testen tot een jaar later. De beste pauze groeit mee met hoelang je iets moet onthouden. Voor een toets binnen een week: herhaal na 20 tot 40 procent van die tijd. Voor een jaar: na 5 tot 10 procent.",
+   "take": "Examen binnen een week? Herhaal na één à drie dagen. Moet het een jaar blijven hangen? Herhaal na drie à vijf weken.",
+   "deep": "## Hoe het werkt\n\nHet spreidingseffect is een van de best onderzochte resultaten uit de geheugenpsychologie: wie leerstof spreidt over meerdere momenten, onthoudt meer dan wie alles in één keer blokt. De vraag is hoe lang die pauze tussen leren en herhalen moet zijn. Herhaal je te snel, dan zit de stof nog vers in je hoofd en levert de herhaling weinig op. Wacht je te lang, dan ben je al te veel vergeten. Ergens daartussen ligt een optimale pauze, en die hangt af van wanneer je de kennis nodig hebt.\n\n## Een voorbeeld\n\nStel dat je over een week een overhoring Frans hebt. Leer de woordjes vandaag en herhaal ze over één tot drie dagen. Studeer je die woordenschat voor een examen op het einde van het jaar, of voor je reis naar Frankrijk volgende zomer? Dan kan je herhaling gerust enkele weken later komen, en een extra herhaling nadien helpt nog meer.\n\n## Wat onderzoek zegt\n\nCepeda, Vul, Rohrer, Wixted en Pashler publiceerden hun studie in 2008 in Psychological Science. Meer dan 1.350 mensen leerden een reeks feiten. Na een pauze tot 3,5 maanden kregen ze een herhaling, en na een tweede wachttijd tot een jaar volgde de eindtoets. Voor elke testdatum steeg de score eerst als de pauze langer werd en daalde ze daarna weer. De beste pauze werd langer naarmate de toets verder lag. Als deel van de wachttijd tot de toets zakte die beste pauze wel: van ongeveer 20 tot 40 procent bij een toets na een week, tot ongeveer 5 tot 10 procent bij een toets na een jaar.\n\n## Nuance of misverstand\n\nEen vaak gehoorde regel is dat je altijd na één dag moet herhalen. Dit onderzoek toont dat zo'n vaste pauze niet bestaat. De percentages zijn richtwaarden uit één grote reeks experimenten, geen exacte formule. Het ging bovendien om losse feiten, niet om ingewikkelde vaardigheden.\n\n## Wat je ermee doet\n\nKijk bij elke leertaak eerst naar je deadline. Ligt die dichtbij, herhaal dan na een paar dagen. Wil je iets lang onthouden, plan dan een herhaling na enkele weken en zet ze meteen in je agenda. Een app met flashcards die de tussenpozen automatisch langer maakt, doet in feite hetzelfde.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"30\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Hoe later de toets, hoe langer de pauze</text><line x1=\"40\" y1=\"180\" x2=\"330\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M330 175 L340 180 L330 185 Z\" fill=\"#fff\"/><circle cx=\"50\" cy=\"180\" r=\"6\" fill=\"#ffd166\"/><text x=\"50\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">leren</text><line x1=\"50\" y1=\"80\" x2=\"320\" y2=\"80\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><circle cx=\"50\" cy=\"80\" r=\"6\" fill=\"#ffd166\"/><circle cx=\"65\" cy=\"80\" r=\"6\" fill=\"#06d6a0\"><animate attributeName=\"cx\" values=\"62;70;62\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><circle cx=\"120\" cy=\"80\" r=\"6\" fill=\"#ff6b9d\"/><text x=\"120\" y=\"65\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">toets na 1 week</text><text x=\"66\" y=\"105\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">herhaal: 20-40%</text><circle cx=\"320\" cy=\"180\" r=\"6\" fill=\"#ff6b9d\"/><text x=\"300\" y=\"165\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">toets na 1 jaar</text><circle cx=\"75\" cy=\"180\" r=\"6\" fill=\"#06d6a0\"><animate attributeName=\"cx\" values=\"70;84;70\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><text x=\"140\" y=\"200\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">herhaal: 5-10%</text></svg>",
+   "quiz": {
+    "q": "Wat vonden Cepeda e.a. (2008) over de beste pauze tussen leren en herhalen?",
+    "o": [
+     "Eén dag is altijd ideaal",
+     "Hoe verder de toets, hoe langer de beste pauze",
+     "Herhalen heeft geen effect"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "PubMed – Cepeda e.a. 2008, Psychological Science",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/19076480/"
+    },
+    {
+     "t": "eScholarship – Volledige tekst Cepeda e.a.",
+     "u": "https://escholarship.org/content/qt0kp5q19x/qt0kp5q19x.pdf"
+    }
+   ],
+   "date": "2026-11-25T05:44:36Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Deze spinnendraad is tien keer taaier dan kevlar",
+   "body": "De draad van Darwins schorsspin uit Madagaskar is het taaiste spinnenzijde ooit gemeten: gemiddeld 350 megajoule per kubieke meter, tot 520 bij sommige stalen. Dat is ongeveer tien keer taaier dan kevlar, de vezel uit kogelwerende vesten. De spin spant er de grootste wielwebben mee die ooit gezien zijn, over rivieren en meren.",
+   "take": "Lees je 'sterker dan staal', vraag dan: sterk per gewicht, sterk tegen trekken, of taai tegen een klap?",
+   "deep": "## Hoe het werkt\n\nSpinnenzijde is een eiwitvezel. Lange eiwitketens wisselen stevige, geordende stukjes af met soepele, losse stukken. De geordende stukjes zorgen voor trekkracht, de losse stukken laten de draad uitrekken. Die combinatie maakt zijde taai: ze kan veel energie opnemen voor ze breekt. Taaiheid is iets anders dan sterkte. Sterkte zegt hoeveel kracht een draad aankan voor hij scheurt. Taaiheid zegt hoeveel energie hij opslorpt, bijvoorbeeld van een vlieg of een kever die er met volle vaart in vliegt.\n\n## Een voorbeeld\n\nZie je in de herfst een kruisspin in je tuin in Gent of Hasselt, kijk dan hoe een vlieg in het web vliegt. De draden rekken mee en vangen de klap op zonder te knappen. Darwins schorsspin doet hetzelfde op een veel grotere schaal: haar webben hangen boven rivieren in Madagaskar, waar ze insecten vangt die over het water vliegen.\n\n## Wat onderzoek zegt\n\nVolgens een studie over Darwins schorsspin (Caerostris darwini) heeft haar sleepdraad een gemiddelde taaiheid van 350 megajoule per kubieke meter, met uitschieters tot 520. Onderzoekster Jessica Garb van de University of Massachusetts Lowell noemt het de taaiste spinnenzijde die ooit is gemeten: ongeveer dubbel zo taai als andere bekende spinnenzijde en ongeveer tien keer taaier dan kevlar. Garbs labo onderzoekt welke genen en eiwitten die extreme taaiheid verklaren, en of ze samenhangt met de reuzenwebben van deze spin.\n\n## Nuance of misverstand\n\nHet populaire 'sterker dan staal' klopt maar half. Per gewicht is spinnenzijde inderdaad sterker dan staal, maar kevlar is sterker tegen trekken. Materiaalwetenschappers waarschuwen dat de vergelijking sterk afhangt van wat je meet. Waar spinnenzijde echt uitblinkt, is taaiheid. En niet elke spinnendraad is zo straf: de cijfers hierboven gelden voor de sleepdraad van één spinnensoort.\n\n## Wat je ermee doet\n\nGebruik dit voorbeeld om beweringen over 'supermaterialen' kritisch te lezen. Vraag welke eigenschap gemeten is: sterkte, stijfheid, taaiheid of gewicht. En spaar het web in je tuin: het is een staaltje natuurtechniek dat ingenieurs nog altijd proberen na te maken.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"30\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Taaiheid: energie opnemen voor het breekt</text><line x1=\"40\" y1=\"70\" x2=\"320\" y2=\"70\" stroke=\"#ffd166\" stroke-width=\"2\"/><circle cx=\"180\" cy=\"40\" r=\"7\" fill=\"#ff6b9d\"><animate attributeName=\"cy\" values=\"40;95;80;95;40\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><path d=\"M40 70 Q180 70 320 70\" stroke=\"#ffd166\" stroke-width=\"2\" fill=\"none\"><animate attributeName=\"d\" values=\"M40 70 Q180 70 320 70;M40 70 Q180 130 320 70;M40 70 Q180 100 320 70;M40 70 Q180 130 320 70;M40 70 Q180 70 320 70\" dur=\"4s\" repeatCount=\"indefinite\"/></path><rect x=\"60\" y=\"160\" width=\"28\" height=\"12\" fill=\"#fff\"/><text x=\"150\" y=\"170\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">kevlar</text><rect x=\"60\" y=\"182\" width=\"260\" height=\"12\" fill=\"#06d6a0\"/><text x=\"66\" y=\"212\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">Darwins schorsspin: ongeveer 10x taaier</text></svg>",
+   "quiz": {
+    "q": "Waarin blinkt de zijde van Darwins schorsspin vooral uit?",
+    "o": [
+     "Taaiheid: veel energie opnemen voor ze breekt",
+     "Ze is zwaarder dan staal",
+     "Ze geleidt elektriciteit"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "UMass Lowell – Super tough spider silk",
+     "u": "https://www.uml.edu/news/news-articles/2019/abc-super-tough-spider-silk.aspx"
+    },
+    {
+     "t": "UMass Lowell – Researchers seek to unlock the secrets of spiders",
+     "u": "https://www.uml.edu/sciences/publications/elements/spiders-2019.aspx"
+    }
+   ],
+   "date": "2026-11-25T05:44:36Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Waarom je maag zichzelf niet opeet",
+   "body": "Maagzuur heeft een pH van ongeveer 1,5 tot 3,5, zuur genoeg om vlees af te breken. Toch blijft je maagwand heel. Een dikke slijmlaag vol bicarbonaat neutraliseert het zuur vlak boven de cellen. Pepsine wordt pas actief in de maagholte, cellen zitten dicht tegen elkaar en de bekleding wordt voortdurend vernieuwd.",
+   "take": "Neem ontstekingsremmers zoals ibuprofen niet langer of vaker dan nodig: ze verzwakken de beschermlaag van je maag.",
+   "deep": "## Hoe het werkt\n\nJe maag gebruikt een gelaagde verdediging. Ten eerste maken cellen in de maagwand een dikke laag slijm die het hele binnenoppervlak bekleedt. Ten tweede zit in die laag bicarbonaat, een base die zuur dat toch binnendringt ter plekke neutraliseert. Vlak tegen de cellen is het daardoor veel minder zuur dan in de maagholte. Ten derde maakt je maag het eiwitsplitsende enzym pepsine eerst als onschuldig pepsinogeen: pas als het zoutzuur in de maagholte erbij komt, wordt het actief. Ten vierde zitten de cellen van de wand met zogenaamde tight junctions aan elkaar vast, zodat zuur er niet tussen kan lekken. En de cellen die toch beschadigd raken, worden voortdurend vervangen.\n\n## Een voorbeeld\n\nJe eet een stoofvlees met frietjes. In je maag mengen spieren het eten met zoutzuur en pepsine, en het vlees wordt stilaan afgebroken. Vlak daarnaast ligt je eigen maagwand, ook uit eiwitten gemaakt. Ze blijft heel, omdat het zuur en het enzym er nooit vrij bij kunnen.\n\n## Wat onderzoek zegt\n\nVolgens Live Science ligt de zuurtegraad in de maag normaal tussen 1,5 en 3,5 op de pH-schaal. Bioloog William Purves legt in Scientific American uit dat slijmcellen in de maag grote hoeveelheden beschermend slijm maken en dat basische stoffen zoals bicarbonaat in die laag het zoutzuur neutraliseren dat erdoor dringt. De cellen die het zuur maken, houden hun eigen binnenkant ongeveer neutraal. Het Geophysical Institute van de University of Alaska beschrijft hoe de buitenste cellen zichzelf als het ware opofferen om de diepere lagen te beschermen.\n\n## Nuance of misverstand\n\nDe bescherming is niet onfeilbaar. De bacterie Helicobacter pylori, ontstekingsremmers zoals ibuprofen en aspirine en veel alcohol kunnen de slijmlaag of de verbindingen tussen de cellen aantasten. Dan kan een maagzweer ontstaan. Een maagzweer ontstaat dus vaak wanneer die verdediging verzwakt, niet alleen door te veel zuur.\n\n## Wat je ermee doet\n\nGebruik pijnstillers van het type ontstekingsremmer met mate en volg de bijsluiter. Heb je langdurig pijn bovenin je buik, zwarte stoelgang of maagklachten die blijven terugkomen? Ga dan naar je huisarts, die onder meer kan testen op Helicobacter.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"30\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">maagholte: pH 1,5 tot 3,5</text><rect x=\"30\" y=\"140\" width=\"300\" height=\"20\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"154\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">slijmlaag + bicarbonaat</text><rect x=\"30\" y=\"160\" width=\"300\" height=\"25\" fill=\"#ff6b9d\" opacity=\"0.6\"/><text x=\"180\" y=\"177\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">maagwand (cellen)</text><circle r=\"5\" fill=\"#ffd166\"><animateMotion path=\"M80 50 L80 138 L80 50\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><circle r=\"5\" fill=\"#ffd166\"><animateMotion path=\"M180 60 L180 138 L180 60\" dur=\"3s\" begin=\"1s\" repeatCount=\"indefinite\"/></circle><circle r=\"5\" fill=\"#ffd166\"><animateMotion path=\"M280 50 L280 138 L280 50\" dur=\"3s\" begin=\"2s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"95\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">zuur</text><text x=\"180\" y=\"208\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">zuur wordt geneutraliseerd voor het de wand raakt</text></svg>",
+   "quiz": {
+    "q": "Wat neutraliseert het maagzuur vlak boven de maagwand?",
+    "o": [
+     "Speeksel dat je inslikt",
+     "Pepsine",
+     "Bicarbonaat in de slijmlaag"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Scientific American – Why don't our digestive acids eat through our stomachs?",
+     "u": "https://www.scientificamerican.com/article/why-dont-our-digestive-ac/"
+    },
+    {
+     "t": "Live Science – Why doesn't stomach acid burn through our stomachs?",
+     "u": "https://www.livescience.com/health/why-doesnt-stomach-acid-burn-through-our-stomachs"
+    },
+    {
+     "t": "University of Alaska – Why doesn't the stomach digest itself?",
+     "u": "https://www.gi.alaska.edu/alaska-science-forum/why-doesnt-stomach-digest-itself"
+    }
+   ],
+   "date": "2026-11-25T05:44:36Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Ongeveer 80 procent van ons is te optimistisch",
+   "body": "Neurowetenschapper Tali Sharot schat dat ongeveer 80 procent van de mensen een optimisme-bias heeft: we onderschatten onze kans op pech. In haar studie uit 2011 schatten deelnemers hun kans op 80 nare gebeurtenissen. Kregen ze daarna betere cijfers dan verwacht, dan stuurden ze sterk bij. Bij slechter nieuws veranderden ze hun schatting veel minder.",
+   "take": "Maak plannen met het gemiddelde als vertrekpunt: neem een buffer in tijd en geld, ook als jij denkt dat het vlot zal gaan.",
+   "deep": "## Hoe het werkt\n\nIedereen heeft een inschatting van zijn eigen kansen: op een ziekte, een inbraak of een project dat uitloopt. Als je nieuwe informatie krijgt, pas je die inschatting aan. Sharot ontdekte dat dat aanpassen scheef gebeurt. Is het nieuws beter dan je dacht, dan neem je het snel over. Is het slechter, dan pas je je schatting maar een beetje aan. Zo blijft je beeld van de toekomst rooskleuriger dan de cijfers. Volgens haar onderzoek houden delen van de prefrontale schors de 'fout' tussen verwachting en nieuws minder goed bij als die fout je optimisme zou moeten verkleinen.\n\n## Een voorbeeld\n\nJe verbouwt een huis in Leuven en denkt dat het in zes maanden klaar is. Een vriend vertelt dat verbouwingen gemiddeld veel langer duren. Je knikt, maar denkt stilletjes dat het bij jou anders zal lopen. Zegt een andere vriend dat het ook sneller kan, dan onthoud je dat meteen als bewijs.\n\n## Wat onderzoek zegt\n\nSharot, Korn en Dolan publiceerden in 2011 in Nature Neuroscience een hersenscanstudie waarin deelnemers hun kans schatten op 80 nare gebeurtenissen, van Alzheimer tot een overval. Daarna zagen ze de gemiddelde kans voor iemand van hun leeftijd, en in een tweede sessie schatten ze opnieuw. Ze pasten hun schatting meer aan na goed dan na slecht nieuws. Het lag niet aan het geheugen: ze herinnerden zich het slechte nieuws even goed. Al in 2007 had Sharot in Nature onderzocht hoe de hersenen die optimistische blik maken. Volgens haar vindt elk onderzoek dat ongeveer 80 procent van de mensen deze bias heeft, ook wie zichzelf realist of pessimist noemt.\n\n## Nuance of misverstand\n\nAndere onderzoekers, onder wie Harris en Hahn en later Shah en collega's, stelden dat een deel van het effect een statistisch artefact zou kunnen zijn. Sharot en collega's antwoordden met nieuwe analyses en houden vol dat de scheefheid echt is. Optimisme is ook niet alleen slecht: het kan motiveren en stress verminderen. Het probleem ontstaat pas als je er geen rekening mee houdt bij plannen.\n\n## Wat je ermee doet\n\nGebruik bij elke planning eerst de gemiddelde cijfers als basis: hoe lang duurt zo'n project meestal, wat kost het gemiddeld? Tel er een buffer bij. Sluit verzekeringen en spaarbuffers af op basis van die cijfers, niet op je buikgevoel dat het jou toch niet overkomt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"30\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Je past je inschatting aan na nieuws</text><rect x=\"40\" y=\"70\" width=\"120\" height=\"40\" rx=\"6\" stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"/><text x=\"100\" y=\"94\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">goed nieuws</text><rect x=\"200\" y=\"70\" width=\"120\" height=\"40\" rx=\"6\" stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"/><text x=\"260\" y=\"94\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">slecht nieuws</text><rect x=\"80\" y=\"130\" width=\"40\" height=\"10\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"10;60;60;10\" keyTimes=\"0;0.4;0.8;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><rect x=\"240\" y=\"130\" width=\"40\" height=\"10\" fill=\"#ff6b9d\"><animate attributeName=\"height\" values=\"10;25;25;10\" keyTimes=\"0;0.4;0.8;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"100\" y=\"208\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">grote bijsturing</text><text x=\"260\" y=\"208\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">kleine bijsturing</text></svg>",
+   "quiz": {
+    "q": "Wat vond Sharot (2011) over hoe we nieuws over risico's verwerken?",
+    "o": [
+     "We passen ons aan na slecht nieuws, niet na goed nieuws",
+     "We passen ons meer aan na goed nieuws dan na slecht nieuws",
+     "We vergeten slecht nieuws sneller"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Sharot, Korn & Dolan 2011 – Nature Neuroscience (PMC)",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3204264"
+    },
+    {
+     "t": "NPR – Are we natural optimists?",
+     "u": "https://www.npr.org/2016/05/06/476597984/are-we-natural-optimists"
+    },
+    {
+     "t": "BPS Research Digest – Brain basis of unrealistic optimism",
+     "u": "https://bps.org.uk/research-digest/brain-basis-unrealistic-optimism"
+    }
+   ],
+   "date": "2026-11-25T05:44:36Z"
+  }
+ ],
  "dives": [
   {
    "id": "2026-11-25",
