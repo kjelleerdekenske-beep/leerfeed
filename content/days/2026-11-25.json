@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:47:06Z",
+ "updated": "2026-11-25T05:49:36Z",
  "cards": [
   {
    "cat": "tech",
@@ -1500,6 +1500,70 @@
     }
    ],
    "date": "2026-11-25T05:47:06Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Duitsland trekt, Frankrijk remt: wat een PMI-cijfer zegt",
+   "body": "De snelle PMI-raming van S&P Global op 23 november toont een eurozone die gelijk blijft op 51,7, de vijfde maand boven 50. Daaronder gaapt een kloof: Duitsland klom naar 55,0, het hoogste sinds maart 2022, terwijl Frankrijk zakte naar 46,2. Volgens S&P Global is het verschil tussen beide landen het grootste in zes jaar.",
+   "take": "Zie je een PMI-cijfer? Vergelijk het met 50: erboven groeit de activiteit bij de meeste bedrijven, eronder krimpt ze.",
+   "deep": "## Hoe het werkt\n\nEen PMI (Purchasing Managers' Index) is een enquête bij aankoopmanagers en bedrijfsleiders. Elke maand krijgen ze eenvoudige vragen: is je productie, je aantal orders of je personeel hoger, gelijk of lager dan vorige maand? Het indexcijfer is het percentage 'hoger' plus de helft van het percentage 'gelijk'. Zegt iedereen 'gelijk', dan kom je op precies 50. Boven 50 zeggen meer bedrijven dat het beter gaat dan slechter. De 'flash' of snelle raming verschijnt nog voor het einde van de maand, op basis van het grootste deel van de antwoorden; het definitieve cijfer volgt begin volgende maand.\n\n## Een voorbeeld\n\nStel dat van 100 Duitse bedrijven 30 meer produceren, 50 evenveel en 20 minder. De PMI is dan 30 plus de helft van 50, of 55. In Frankrijk antwoorden er bijvoorbeeld 17 'meer', 59 'gelijk' en 24 'minder': 17 plus 29,5 geeft 46,5, krimp. Je ziet het: de PMI telt hoeveel bedrijven vooruit of achteruit gaan, niet hoeveel.\n\n## Wat onderzoek zegt\n\nVolgens de cijfers van 23 november 2026 hield de samengestelde eurozone-PMI stand op 51,7, net onder de 51,9 die economen in een Reuters-peiling verwachtten. De dienstensector zakte naar 51,2, het laagste in vijf maanden, terwijl de industrie steeg naar 52,9. Duitsland ging van 53,4 naar 55,0, Frankrijk van 46,6 naar 46,2, het laagste in zes maanden. Het optimisme van bedrijven over het komende jaar daalde voor de vierde maand op rij.\n\n## Nuance of misverstand\n\nEen PMI zegt iets over de breedte van groei, niet over de grootte. Een land met 55 groeit niet per se sneller in euro's dan een land met 52. Het blijft ook een peiling, die soms afwijkt van de latere officiële bbp-cijfers. In België meet de Nationale Bank de stemming bij bedrijven met haar eigen conjunctuurbarometer.\n\n## Wat je ermee doet\n\nGebruik de PMI als vroege thermometer: hij komt weken voor de officiële groeicijfers. Let vooral op de richting over enkele maanden en op de verschillen tussen landen. Voor Belgische bedrijven is Duitsland de grootste klant, dus een sterkere Duitse industrie kan hier ook bestellingen opleveren.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" x=\"180\" y=\"24\" text-anchor=\"middle\">PMI = % meer + helft van % gelijk</text><line x1=\"40\" y1=\"190\" x2=\"330\" y2=\"190\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"30\" y1=\"110\" x2=\"340\" y2=\"110\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"6 4\"/><text fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"336\" y=\"104\" text-anchor=\"end\">50 = status quo</text><rect x=\"70\" y=\"190\" width=\"60\" height=\"0\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"0;88;88;0\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"190;102;102;190\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"150\" y=\"190\" width=\"60\" height=\"0\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"height\" values=\"0;83;83;0\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"190;107;107;190\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"230\" y=\"190\" width=\"60\" height=\"0\" fill=\"#ff6b9d\"><animate attributeName=\"height\" values=\"0;74;74;0\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"190;116;116;190\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"100\" y=\"208\" text-anchor=\"middle\">Duitsland 55,0</text><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"180\" y=\"208\" text-anchor=\"middle\">eurozone 51,7</text><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"260\" y=\"208\" text-anchor=\"middle\">Frankrijk 46,2</text><text fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"100\" y=\"60\" text-anchor=\"middle\">groei</text><text fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"260\" y=\"60\" text-anchor=\"middle\">krimp</text></svg>",
+   "quiz": {
+    "q": "Wat betekent een PMI van precies 50?",
+    "o": [
+     "Dat de economie met 50 procent groeide",
+     "Dat evenveel bedrijven vooruit als achteruit gaan",
+     "Dat de helft van de bedrijven failliet ging"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "S&P Global Market Intelligence (nov 2026)",
+     "u": "https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/11/steady-eurozone-flash-pmi-masks-widening-growth-disparities"
+    },
+    {
+     "t": "RTÉ / Reuters (23 nov 2026)",
+     "u": "https://www.rte.ie/news/business/2026/1123/1600272-euro-zone-growth-pmi/"
+    },
+    {
+     "t": "Investing.com / Reuters",
+     "u": "https://www.investing.com/news/economic-indicators/euro-zone-growth-holds-steady-but-frances-deepening-downturn-clouds-outlook-pmi-shows-5044744"
+    }
+   ],
+   "date": "2026-11-25T05:49:36Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Wie leent jouw land geld? Eurostat telt het na",
+   "body": "Eurostat publiceerde op 20 november wie de overheidsschuld van EU-landen bezit. Eind 2025 hielden binnenlandse financiële instellingen in Tsjechië en Zweden 69 procent van de staatsschuld in handen, het meest van de EU, gevolgd door Kroatië (61 procent). In 16 landen bezaten buitenlanders meer dan de helft, met Cyprus als uitschieter: 90 procent.",
+   "take": "Koop je een staatsbon of obligatiefonds? Dan sta je zelf in dat lijstje: als gezin dat geld leent aan de overheid.",
+   "deep": "## Hoe het werkt\n\nEen overheid die meer uitgeeft dan ze ontvangt, leent het verschil, vooral door obligaties te verkopen: papiertjes die beloven het geld met rente terug te betalen. Wie die obligaties koopt, wordt schuldeiser. Eurostat deelt die schuldeisers op in groepen: binnenlandse financiële instellingen (banken, verzekeraars, pensioenfondsen), de centrale bank, gezinnen en andere binnenlandse spelers, en het buitenland. Wie de schuld bezit, bepaalt mee hoe kwetsbaar een land is. Binnenlandse banken vol staatspapier koppelen het lot van de banken aan dat van de staat. Buitenlandse beleggers verbreden de vraag en drukken zo de rente, maar kunnen bij onrust ook sneller verkopen.\n\n## Een voorbeeld\n\nBelgië kent dit goed. In september 2023 verkocht de Belgische staat een staatsbon met een looptijd van één jaar rechtstreeks aan gezinnen, en haalde daarmee bijna 22 miljard euro op. Op dat moment werden gewone spaarders in één klap een veel grotere schuldeiser van hun eigen land.\n\n## Wat onderzoek zegt\n\nVolgens Eurostat (20 november 2026, cijfers eind 2025) bezaten binnenlandse financiële instellingen in zeven EU-landen meer dan de helft van de staatsschuld. Na Tsjechië en Zweden (elk 69 procent) en Kroatië volgen Polen (56) en Malta (54). Aan de andere kant hielden niet-ingezetenen in 16 landen meer dan de helft. Voor België schreef het IMF in zijn rapport van 2026 dat het aandeel van niet-ingezetenen gestegen was van 55 procent in 2023 naar 61 procent in 2024.\n\n## Nuance of misverstand\n\n'Buitenland' klinkt riskant, maar binnen de eurozone gaat het vaak om banken of fondsen uit buurlanden die in dezelfde munt beleggen. En veel binnenlandse houders zijn geen garantie: tijdens de eurocrisis rond 2010-2012 trokken zwakke banken en zwakke staten elkaar net mee naar beneden.\n\n## Wat je ermee doet\n\nWeet wat je bezit: in een obligatiefonds zit vaak staatsschuld van veel landen. Kijk naar de spreiding over landen en looptijden, en besef dat ook je pensioenspaarfonds of groepsverzekering via verzekeraars indirect geld leent aan overheden.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"140\" y=\"85\" width=\"80\" height=\"50\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"180\" y=\"107\" text-anchor=\"middle\">staats-</text><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"180\" y=\"122\" text-anchor=\"middle\">obligatie</text><rect x=\"10\" y=\"30\" width=\"110\" height=\"30\" rx=\"6\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"65\" y=\"50\" text-anchor=\"middle\">eigen banken</text><rect x=\"240\" y=\"30\" width=\"110\" height=\"30\" rx=\"6\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"295\" y=\"50\" text-anchor=\"middle\">buitenland</text><rect x=\"10\" y=\"160\" width=\"110\" height=\"30\" rx=\"6\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><text fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"65\" y=\"180\" text-anchor=\"middle\">gezinnen</text><rect x=\"240\" y=\"160\" width=\"110\" height=\"30\" rx=\"6\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"295\" y=\"180\" text-anchor=\"middle\">centrale bank</text><circle r=\"4\" fill=\"#06d6a0\"><animateMotion path=\"M90 60 L150 88\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><circle r=\"4\" fill=\"#ff6b9d\"><animateMotion path=\"M270 60 L210 88\" dur=\"3s\" begin=\"0.7s\" repeatCount=\"indefinite\"/></circle><circle r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M90 160 L150 132\" dur=\"3s\" begin=\"1.4s\" repeatCount=\"indefinite\"/></circle><circle r=\"4\" fill=\"#fff\"><animateMotion path=\"M270 160 L210 132\" dur=\"3s\" begin=\"2.1s\" repeatCount=\"indefinite\"/></circle><text fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" x=\"180\" y=\"212\" text-anchor=\"middle\">geld naar de staat, rente terug naar de houders</text></svg>",
+   "quiz": {
+    "q": "Waarom kan het riskant zijn als binnenlandse banken veel schuld van hun eigen staat bezitten?",
+    "o": [
+     "Omdat banken geen obligaties mogen kopen",
+     "Omdat de rente dan automatisch nul wordt",
+     "Omdat problemen bij de staat dan meteen ook de banken raken, en omgekeerd"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Eurostat (20 nov 2026)",
+     "u": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261120-1"
+    },
+    {
+     "t": "Brussels Times",
+     "u": "https://www.brusselstimes.com/eu-affairs/2416101/government-debt-split-reveals-sharp-contrasts-in-eu-ownership-patterns"
+    },
+    {
+     "t": "IMF: Belgium 2026 Article IV",
+     "u": "https://www.elibrary.imf.org/downloadpdf/view/journals/002/2026/049/article-A001-en.pdf"
+    }
+   ],
+   "date": "2026-11-25T05:49:36Z"
   }
  ],
  "dives": [
