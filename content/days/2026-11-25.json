@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:45:49Z",
+ "updated": "2026-11-25T05:46:48Z",
  "cards": [
   {
    "cat": "tech",
@@ -956,6 +956,310 @@
     }
    ],
    "date": "2026-11-25T05:45:49Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Droge spaghetti breekt bijna nooit netjes in twee",
+   "body": "Buig een droge spaghettisliert en hij breekt meestal in drie of meer stukken. Natuurkundige Richard Feynman puzzelde er al over. In 2005 verklaarden Basile Audoly en Sébastien Neukirch het: de eerste breuk stuurt een golf door de sliert die een volgende breuk uitlokt. MIT-onderzoekers vonden in 2018 de truc: eerst stevig draaien, dan buigen.",
+   "take": "Wil je spaghetti halveren voor een kleine kookpot? Draai de sliert eerst stevig rond en buig hem pas daarna.",
+   "deep": "## Hoe het werkt\n\nBuig je een droge sliert spaghetti, dan breekt hij eerst ergens waar de kromming het grootst is. Op dat moment veren beide helften plots terug naar recht. Dat terugveren gaat niet rustig: er loopt een buiggolf door elk stuk. Die golf verhoogt de kromming plaatselijk nog even, zodat de sliert op een andere plek opnieuw bezwijkt. Zo ontstaat een kettingreactie van breuken, en vliegen er kleine stukjes weg.\n\nDraai je de sliert eerst rond zijn eigen as, dan gebeurt er bij de breuk iets extra: de sliert ontrolt zich. Die draaigolf loopt sneller dan de buiggolf en voert energie af voor die een tweede breuk kan veroorzaken.\n\n## Een voorbeeld\n\nJe kookt spaghetti in een te kleine kookpot en breekt de bundel in twee. Kleine stukjes springen over je aanrecht en belanden achter het fornuis. Dat zijn precies die extra breuken uit de kettingreactie. Het ligt dus niet aan zwakke plekken in de pasta, maar aan de manier waarop spanning vrijkomt.\n\n## Wat onderzoek zegt\n\nDe Franse fysici Basile Audoly en Sébastien Neukirch publiceerden in 2005 in Physical Review Letters waarom staafjes niet in twee breken. Ze gebruikten de vergelijkingen voor dunne, elastische staven en een eenvoudig experiment. Het leverde hen in 2006 een Ig Nobelprijs voor natuurkunde op, een prijs voor onderzoek dat eerst doet lachen en dan doet nadenken.\n\nIn 2018 gingen Ronald Heisser en Vishal Patil, uit de groep van wiskundige Jörn Dunkel aan het MIT, verder. Ze bouwden een toestel dat slierten draait en buigt, en filmden de breuken met tot een miljoen beelden per seconde. Hun model voorspelde dat een sliert van ongeveer 25 centimeter die eerst zo'n 270 graden gedraaid wordt en dan gebogen, in twee breekt. De studie verscheen in PNAS.\n\n## Nuance of misverstand\n\nDe truc werkt het netst met een machine die heel precies draait en buigt. Met je handen lukt het niet altijd. Het mechanisme geldt ook niet enkel voor pasta: het gaat over dunne, brosse staafjes in het algemeen. Spaghetti is gewoon een handig, goedkoop proefmateriaal.\n\n## Wat je ermee doet\n\nWil je een bundel halveren, draai hem dan eerst rond en buig daarna langzaam. Of breek hem in een keukenhanddoek, zodat de rondvliegende stukjes niet over de vloer gaan. En onthoud het principe: als spanning plots vrijkomt, kan de schokgolf verderop nieuwe schade aanrichten.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"90\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Gewoon buigen</text><text x=\"270\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Eerst draaien, dan buigen</text><path d=\"M20 110 Q90 60 160 110\" stroke=\"#ffd166\" stroke-width=\"4\" fill=\"none\"/><circle cx=\"90\" cy=\"85\" r=\"6\" fill=\"#ff6b9d\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;1;0\" keyTimes=\"0;0.1;0.8;1\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/></circle><circle cx=\"55\" cy=\"95\" r=\"6\" fill=\"#ff6b9d\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;1;0\" keyTimes=\"0;0.1;0.8;1\" dur=\"6s\" begin=\"0.6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"125\" cy=\"95\" r=\"6\" fill=\"#ff6b9d\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;1;0\" keyTimes=\"0;0.1;0.8;1\" dur=\"6s\" begin=\"1.2s\" repeatCount=\"indefinite\"/></circle><text x=\"90\" y=\"140\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">breuk 1 stuurt een golf</text><text x=\"90\" y=\"156\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">die breuk 2 en 3 maakt</text><text x=\"90\" y=\"190\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">3 of meer stukken</text><line x1=\"180\" y1=\"40\" x2=\"180\" y2=\"200\" stroke=\"#fff\" stroke-width=\"1\" opacity=\"0.4\"/><path d=\"M200 110 Q270 60 340 110\" stroke=\"#ffd166\" stroke-width=\"4\" fill=\"none\"/><g transform=\"translate(270 72)\"><ellipse cx=\"0\" cy=\"0\" rx=\"14\" ry=\"6\" stroke=\"#06d6a0\" stroke-width=\"2\" fill=\"none\"/><circle cx=\"14\" cy=\"0\" r=\"3\" fill=\"#06d6a0\"><animateTransform attributeName=\"transform\" type=\"rotate\" values=\"0 0 0;360 0 0\" dur=\"3s\" repeatCount=\"indefinite\"/></circle></g><circle cx=\"270\" cy=\"85\" r=\"6\" fill=\"#06d6a0\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;1;0\" keyTimes=\"0;0.1;0.8;1\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><text x=\"270\" y=\"140\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">draaigolf voert de</text><text x=\"270\" y=\"156\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">spanning snel weg</text><text x=\"270\" y=\"190\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">precies 2 stukken</text></svg>",
+   "quiz": {
+    "q": "Waarom breekt een gebogen spaghettisliert meestal in meer dan twee stukken?",
+    "o": [
+     "Door een golf die na de eerste breuk door de sliert loopt",
+     "Door luchtbelletjes die al in de pasta zitten",
+     "Omdat droge pasta vocht uit de lucht opneemt"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Audoly & Neukirch, Physical Review Letters 2005",
+     "u": "https://link.aps.org/abstract/PRL/v95/e095505"
+    },
+    {
+     "t": "Heisser e.a., PNAS 2018 (MIT)",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6126751"
+    },
+    {
+     "t": "Physics World",
+     "u": "https://physicsworld.com/a/the-twisted-secret-to-snapping-spaghetti-strands-into-two/"
+    }
+   ],
+   "date": "2026-11-25T05:46:48Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "In de ruimte brandt een kaars als blauw bolletje",
+   "body": "Op aarde is een kaarsvlam een gele druppel: hete gassen stijgen op en trekken verse lucht aan. In gewichtloosheid valt die stroming weg. NASA-proeven tonen dan een ronde, blauwe vlam zonder roet. Zuurstof komt er alleen via trage diffusie, dus de vlam is zwakker. Aan boord van ruimtestation Mir brandden sommige kaarsen toch meer dan 45 minuten.",
+   "take": "Zie je een kaarsvlam omhoog wijzen? Dat is zwaartekracht aan het werk: warme lucht stijgt en zuigt verse lucht van onderen aan.",
+   "deep": "## Hoe het werkt\n\nEen kaars brandt niet de pit, maar de was. De warmte smelt de was, de pit zuigt die op en de vlam verdampt ze. Die wasdamp verbrandt met zuurstof uit de lucht.\n\nOp aarde zijn de hete verbrandingsgassen lichter dan de koele lucht errond, dus ze stijgen op. Van onderen stroomt verse, zuurstofrijke lucht toe. Die stroming heet convectie. Ze rekt de vlam uit tot een druppel en voert kleine roetdeeltjes naar de top, waar ze gloeien. Dat gloeiende roet geeft de vlam haar gele kleur.\n\nIn gewichtloosheid bestaat 'lichter' of 'zwaarder' niet meer: niets stijgt op. Zuurstof en wasdamp mengen enkel nog door diffusie, en die gaat in alle richtingen even snel. De vlam wordt een bol. Omdat de aanvoer van zuurstof trager is, brandt ze koeler en vormt ze minder roet, dus zie je vooral een zwak blauw schijnsel.\n\n## Een voorbeeld\n\nBlaas de kaarsjes op een verjaardagstaart niet meteen uit, maar kantel de taart een beetje. De vlammetjes blijven recht omhoog wijzen, niet loodrecht op de kaars. Ze volgen de opstijgende warme lucht, en die volgt de zwaartekracht. In een ruimtestation zou dezelfde taart bolletjes rond elke pit tonen.\n\n## Wat onderzoek zegt\n\nNASA liet kaarsen branden aan boord van de spaceshuttle en van het Russische ruimtestation Mir. In de shuttle begonnen de vlammen geel en roetig en werden ze daarna dof blauw. Ze brandden meestal minder dan 60 seconden. Op Mir hielden sommige vlammen het van meer dan 100 seconden tot meer dan 45 minuten vol. Een technisch NASA-rapport meldt dat de vlam in gewichtloosheid ongeveer 7 millimeter van de pit blijft, tegenover 1 à 2 millimeter op aarde.\n\n## Nuance of misverstand\n\nDe vlam is niet zwak omdat er in een ruimtestation te weinig zuurstof is: de cabine heeft gewone lucht. Het probleem is dat die lucht niet vanzelf naar de vlam stroomt. Blaast er een ventilator, dan krijgt de vlam weer meer zuurstof. Daarom is brandveiligheid in de ruimte een eigen onderzoeksdomein: vuur gedraagt zich er anders dan op aarde.\n\n## Wat je ermee doet\n\nGebruik het als eenvoudig experiment met kinderen: kantel een kaars en laat hen voorspellen waar de vlam naartoe wijst. Zo zien ze dat zwaartekracht niet alleen dingen laat vallen, maar ook lucht laat stromen. En in je schouw of houtkachel werkt hetzelfde principe: warme lucht stijgt en trekt verse lucht aan.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"95\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Op aarde</text><text x=\"265\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">In de ruimte</text><rect x=\"87\" y=\"150\" width=\"16\" height=\"50\" stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"/><line x1=\"95\" y1=\"150\" x2=\"95\" y2=\"140\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M95 60 C110 95 112 125 95 138 C78 125 80 95 95 60 Z\" fill=\"#ffd166\" opacity=\"0.85\"/><circle r=\"3\" fill=\"#fff\"><animateMotion path=\"M55 185 Q95 150 95 45\" dur=\"3s\" begin=\"0s\" repeatCount=\"indefinite\"/></circle><circle r=\"3\" fill=\"#fff\"><animateMotion path=\"M135 185 Q95 150 95 45\" dur=\"3s\" begin=\"1s\" repeatCount=\"indefinite\"/></circle><circle r=\"3\" fill=\"#fff\"><animateMotion path=\"M45 185 Q95 150 95 45\" dur=\"3s\" begin=\"2s\" repeatCount=\"indefinite\"/></circle><text x=\"95\" y=\"214\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">warme lucht stijgt</text><line x1=\"180\" y1=\"40\" x2=\"180\" y2=\"205\" stroke=\"#fff\" stroke-width=\"1\" opacity=\"0.4\"/><rect x=\"257\" y=\"150\" width=\"16\" height=\"50\" stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"/><line x1=\"265\" y1=\"150\" x2=\"265\" y2=\"140\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"265\" cy=\"118\" r=\"26\" fill=\"#06d6a0\" opacity=\"0.35\"><animate attributeName=\"r\" values=\"24;30;24\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><circle cx=\"265\" cy=\"118\" r=\"26\" stroke=\"#06d6a0\" stroke-width=\"2\" fill=\"none\"/><circle r=\"2.5\" fill=\"#fff\"><animateMotion path=\"M205 60 L240 100\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><circle r=\"2.5\" fill=\"#fff\"><animateMotion path=\"M325 60 L290 100\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><circle r=\"2.5\" fill=\"#fff\"><animateMotion path=\"M205 175 L240 140\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><circle r=\"2.5\" fill=\"#fff\"><animateMotion path=\"M325 175 L290 140\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><text x=\"265\" y=\"214\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">zuurstof komt traag van overal</text></svg>",
+   "quiz": {
+    "q": "Waarom is een kaarsvlam in gewichtloosheid rond?",
+    "o": [
+     "Omdat er in de ruimte geen zuurstof is",
+     "Omdat hete gassen niet opstijgen en zuurstof van alle kanten even traag komt",
+     "Omdat de was in de ruimte niet smelt"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "NASA: Candle Flame 1g vs Microgravity",
+     "u": "https://www.nasa.gov/image-article/candle-flame-1g-vs-microgravity/"
+    },
+    {
+     "t": "NASA Technical Reports Server",
+     "u": "https://ntrs.nasa.gov/api/citations/19960008390/downloads/19960008390.pdf"
+    }
+   ],
+   "date": "2026-11-25T05:46:48Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Elke sneeuwvlok heeft zes armen door de watermolecule",
+   "body": "Watermoleculen klikken bij het bevriezen vast in een rooster van zeshoeken. Daardoor groeit een ijskristal eerst als een plat zeskantig prisma. De zes hoeken steken uit en groeien sneller, en daar ontspruiten armen. Een achtarmige sneeuwvlok vind je in de natuur niet, schrijft Caltech-fysicus Kenneth Libbrecht. Of je plaatjes of zuiltjes krijgt, hangt af van temperatuur en vocht.",
+   "take": "Vang een vlok op een donkere mouw en tel de armen. Een plaatje of een zuiltje verraadt hoe koud het was waar hij groeide.",
+   "deep": "## Hoe het werkt\n\nEen watermolecule bestaat uit één zuurstofatoom en twee waterstofatomen, in een hoekige vorm. Bij het bevriezen hecht elke molecule zich via waterstofbruggen aan vier buren. Die vaste hoeken leveren een kristalrooster met ringen van zes moleculen: zeshoeken.\n\nDat rooster is piepklein, maar de symmetrie wordt zichtbaar door facetten. Vlakke zijden groeien traag, dus een jong ijskristal wordt een plat zeskantig prisma. De zes hoeken steken net iets verder uit in de vochtige lucht, vangen meer waterdamp en groeien daardoor sneller. Zo ontspruiten er zes armen. Omdat de zes armen tijdens de val ongeveer dezelfde temperatuur en vochtigheid meemaken, groeien ze bijna gelijk.\n\n## Een voorbeeld\n\nOp een koude sneeuwdag in de Ardennen vang je vlokken op je donkere jas. Met een loep zie je soms sterretjes met fijne zijtakjes, soms platte zeskantige plaatjes, soms kleine zuiltjes. Die verschillende vormen vertellen hoe koud en hoe vochtig het was in de wolk waar ze groeiden.\n\n## Wat onderzoek zegt\n\nIn de jaren 1930 en 1940 lieten de Japanse onderzoekers Ukichiro Nakaya en collega's als Hanajima sneeuwkristallen groeien in het lab en zetten ze de vorm uit tegen temperatuur en vochtigheid. Dat schema heet nu het Nakaya-diagram. Kenneth Libbrecht (Caltech) vat het samen: plaatjes rond min 2 graden, zuiltjes rond min 5 graden, weer plaatjes rond min 15 graden en vooral zuiltjes onder min 30 graden. Sterk vertakte sterren ontstaan vooral als de lucht erg oververzadigd is met waterdamp. In 2023 publiceerde Libbrecht nog een dataset van 206 groeiwaarnemingen om dat diagram te kwantificeren.\n\n## Nuance of misverstand\n\n'Geen twee sneeuwvlokken zijn gelijk' klopt vooral voor grote, complexe vlokken. Kleine, eenvoudige kristallen lijken sterk op elkaar, en Libbrecht kweekte in het lab bijna identieke tweelingvlokken door ze onder exact dezelfde omstandigheden te laten groeien. Er bestaan ook driehoekige sneeuwkristallen, maar ook die groeien op hetzelfde zeshoekige rooster. En veel vlokken die je ziet, zijn gebroken of samengeklonterde kristallen, dus niet elke vlok toont mooi zes armen.\n\n## Wat je ermee doet\n\nLeg bij de volgende sneeuwbui een donkere doek een paar minuten in de vriezer of buiten, vang er vlokken op en bekijk ze met een loep of de macrostand van je gsm. Tel de armen en vergelijk de vorm met de temperatuur op je weerapp.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><polygon points=\"180,98 190.4,104 190.4,116 180,122 169.6,116 169.6,104\" stroke=\"#ffd166\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"/><g transform=\"rotate(0 180 110)\"><line x1=\"180\" y1=\"98\" x2=\"180\" y2=\"40\" stroke=\"#fff\" stroke-width=\"3\" stroke-dasharray=\"58\" stroke-dashoffset=\"58\"><animate attributeName=\"stroke-dashoffset\" values=\"58;0;0;58\" keyTimes=\"0;0.5;0.85;1\" dur=\"6s\" repeatCount=\"indefinite\"/></line><line x1=\"180\" y1=\"62\" x2=\"168\" y2=\"52\" stroke=\"#06d6a0\" stroke-width=\"2\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1;0\" keyTimes=\"0;0.35;0.5;0.85;1\" dur=\"6s\" repeatCount=\"indefinite\"/></line><line x1=\"180\" y1=\"62\" x2=\"192\" y2=\"52\" stroke=\"#06d6a0\" stroke-width=\"2\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1;0\" keyTimes=\"0;0.35;0.5;0.85;1\" dur=\"6s\" repeatCount=\"indefinite\"/></line></g><g transform=\"rotate(60 180 110)\"><line x1=\"180\" y1=\"98\" x2=\"180\" y2=\"40\" stroke=\"#fff\" stroke-width=\"3\" stroke-dasharray=\"58\" stroke-dashoffset=\"58\"><animate attributeName=\"stroke-dashoffset\" values=\"58;0;0;58\" keyTimes=\"0;0.5;0.85;1\" dur=\"6s\" repeatCount=\"indefinite\"/></line><line x1=\"180\" y1=\"62\" x2=\"168\" y2=\"52\" stroke=\"#06d6a0\" stroke-width=\"2\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1;0\" keyTimes=\"0;0.35;0.5;0.85;1\" dur=\"6s\" repeatCount=\"indefinite\"/></line><line x1=\"180\" y1=\"62\" x2=\"192\" y2=\"52\" stroke=\"#06d6a0\" stroke-width=\"2\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1;0\" keyTimes=\"0;0.35;0.5;0.85;1\" dur=\"6s\" repeatCount=\"indefinite\"/></line></g><g transform=\"rotate(120 180 110)\"><line x1=\"180\" y1=\"98\" x2=\"180\" y2=\"40\" stroke=\"#fff\" stroke-width=\"3\" stroke-dasharray=\"58\" stroke-dashoffset=\"58\"><animate attributeName=\"stroke-dashoffset\" values=\"58;0;0;58\" keyTimes=\"0;0.5;0.85;1\" dur=\"6s\" repeatCount=\"indefinite\"/></line><line x1=\"180\" y1=\"62\" x2=\"168\" y2=\"52\" stroke=\"#06d6a0\" stroke-width=\"2\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1;0\" keyTimes=\"0;0.35;0.5;0.85;1\" dur=\"6s\" repeatCount=\"indefinite\"/></line><line x1=\"180\" y1=\"62\" x2=\"192\" y2=\"52\" stroke=\"#06d6a0\" stroke-width=\"2\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1;0\" keyTimes=\"0;0.35;0.5;0.85;1\" dur=\"6s\" repeatCount=\"indefinite\"/></line></g><g transform=\"rotate(180 180 110)\"><line x1=\"180\" y1=\"98\" x2=\"180\" y2=\"40\" stroke=\"#fff\" stroke-width=\"3\" stroke-dasharray=\"58\" stroke-dashoffset=\"58\"><animate attributeName=\"stroke-dashoffset\" values=\"58;0;0;58\" keyTimes=\"0;0.5;0.85;1\" dur=\"6s\" repeatCount=\"indefinite\"/></line><line x1=\"180\" y1=\"62\" x2=\"168\" y2=\"52\" stroke=\"#06d6a0\" stroke-width=\"2\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1;0\" keyTimes=\"0;0.35;0.5;0.85;1\" dur=\"6s\" repeatCount=\"indefinite\"/></line><line x1=\"180\" y1=\"62\" x2=\"192\" y2=\"52\" stroke=\"#06d6a0\" stroke-width=\"2\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1;0\" keyTimes=\"0;0.35;0.5;0.85;1\" dur=\"6s\" repeatCount=\"indefinite\"/></line></g><g transform=\"rotate(240 180 110)\"><line x1=\"180\" y1=\"98\" x2=\"180\" y2=\"40\" stroke=\"#fff\" stroke-width=\"3\" stroke-dasharray=\"58\" stroke-dashoffset=\"58\"><animate attributeName=\"stroke-dashoffset\" values=\"58;0;0;58\" keyTimes=\"0;0.5;0.85;1\" dur=\"6s\" repeatCount=\"indefinite\"/></line><line x1=\"180\" y1=\"62\" x2=\"168\" y2=\"52\" stroke=\"#06d6a0\" stroke-width=\"2\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1;0\" keyTimes=\"0;0.35;0.5;0.85;1\" dur=\"6s\" repeatCount=\"indefinite\"/></line><line x1=\"180\" y1=\"62\" x2=\"192\" y2=\"52\" stroke=\"#06d6a0\" stroke-width=\"2\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1;0\" keyTimes=\"0;0.35;0.5;0.85;1\" dur=\"6s\" repeatCount=\"indefinite\"/></line></g><g transform=\"rotate(300 180 110)\"><line x1=\"180\" y1=\"98\" x2=\"180\" y2=\"40\" stroke=\"#fff\" stroke-width=\"3\" stroke-dasharray=\"58\" stroke-dashoffset=\"58\"><animate attributeName=\"stroke-dashoffset\" values=\"58;0;0;58\" keyTimes=\"0;0.5;0.85;1\" dur=\"6s\" repeatCount=\"indefinite\"/></line><line x1=\"180\" y1=\"62\" x2=\"168\" y2=\"52\" stroke=\"#06d6a0\" stroke-width=\"2\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1;0\" keyTimes=\"0;0.35;0.5;0.85;1\" dur=\"6s\" repeatCount=\"indefinite\"/></line><line x1=\"180\" y1=\"62\" x2=\"192\" y2=\"52\" stroke=\"#06d6a0\" stroke-width=\"2\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1;0\" keyTimes=\"0;0.35;0.5;0.85;1\" dur=\"6s\" repeatCount=\"indefinite\"/></line></g><text x=\"20\" y=\"24\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">1. zeshoekig rooster</text><text x=\"20\" y=\"40\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">2. zeskantig plaatje</text><text x=\"340\" y=\"24\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">3. hoeken groeien</text><text x=\"340\" y=\"40\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">sneller: 6 armen</text><text x=\"180\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">zelfde kou en vocht = gelijke armen</text></svg>",
+   "quiz": {
+    "q": "Waar komt de zesvoudige vorm van een sneeuwvlok vandaan?",
+    "o": [
+     "Uit stofdeeltjes die altijd zeshoekig zijn",
+     "Uit de wind die de vlok tijdens de val rondblaast",
+     "Uit het zeshoekige rooster dat watermoleculen vormen in ijs"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Caltech, Libbrecht: Snow Crystals FAQ",
+     "u": "https://www.its.caltech.edu/~atomic/snowcrystals/faqs/faqs.htm"
+    },
+    {
+     "t": "Libbrecht, arXiv: snow crystal growth dynamics",
+     "u": "https://arxiv.org/abs/1211.5555"
+    },
+    {
+     "t": "Libbrecht, arXiv: Quantifying the Nakaya Diagram",
+     "u": "https://arxiv.org/abs/2306.13087"
+    }
+   ],
+   "date": "2026-11-25T05:46:48Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Tik een bekend liedje: bijna niemand raadt het",
+   "body": "In 1990 liet Stanford-studente Elizabeth Newton mensen het ritme van bekende liedjes, zoals 'Happy Birthday', op tafel tikken. De tikkers dachten dat luisteraars ongeveer de helft zouden raden. Van de 120 liedjes werden er maar 3 herkend: 2,5%. Tikkers hoorden de melodie in hun hoofd, luisteraars alleen geklop. Dat heet de vloek van kennis.",
+   "take": "Laat je uitleg, presentatie of handleiding testen door iemand die er niets van weet, en kijk waar die vastloopt.",
+   "deep": "## Hoe het werkt\n\nZodra je iets weet, kun je je moeilijk nog voorstellen hoe het is om het niet te weten. De tikker hoort tijdens het tikken de melodie, de tekst en het tempo in zijn hoofd. Die extra informatie kleurt zijn inschatting: het ritme klinkt voor hem overduidelijk. De luisteraar krijgt alleen een reeks klopjes, zonder melodie. Wat voor de ene vanzelfsprekend is, is voor de andere ruis. Het lastige: je kennis wegdenken lukt bijna niet, zelfs als je weet dat je het zou moeten doen.\n\n## Een voorbeeld\n\nJe collega van IT legt uit hoe je de nieuwe vpn instelt: 'Gewoon even je certificaat importeren en de split tunnel aanzetten.' Voor hem is dat één zin, voor jou een raadsel. Of een leerkracht die een oefening 'eenvoudig' noemt omdat hij ze al honderd keer gemaakt heeft. Ook jij doet het: een routebeschrijving naar je huis met 'na de bakker links', terwijl je bezoeker die bakker niet kent.\n\n## Wat onderzoek zegt\n\nElizabeth Newton deed het tikexperiment in 1990 voor haar doctoraat aan Stanford University. Tikkers kregen een lijst met bekende liedjes, zoals 'Happy Birthday' en het Amerikaanse volkslied, en tikten het ritme op een tafel. Vooraf schatten ze in hoe vaak de luisteraar het liedje zou raden: ongeveer de helft van de keren. In werkelijkheid werden maar 3 van de 120 liedjes herkend, of 2,5 procent.\n\nDe term 'curse of knowledge' komt uit een artikel uit 1989 van economen Colin Camerer, George Loewenstein en Martin Weber in de Journal of Political Economy. Zij toonden dat beter geïnformeerde mensen slecht voorspellen wat minder geïnformeerde mensen zullen denken. In hun marktexperimenten verkleinde het effect met ongeveer de helft, maar het verdween niet.\n\n## Nuance of misverstand\n\nHet tikexperiment is één doctoraatsstudie en wordt vooral doorverteld via boeken en artikels; de details over de opzet zijn dus minder goed gedocumenteerd dan bij een groot gepubliceerd experiment. De vloek betekent ook niet dat kennis slecht is. Experts zijn net nuttig omdat ze veel weten. Het probleem zit enkel in het inschatten van wat anderen al weten.\n\n## Wat je ermee doet\n\nTest je uitleg bij een echte beginner en kijk zonder te helpen waar die vastloopt. Gebruik concrete voorbeelden in plaats van vakjargon. Vraag niet 'Is het duidelijk?', want bijna iedereen zegt ja. Vraag liever: 'Kun je het in je eigen woorden herhalen?'",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><circle cx=\"70\" cy=\"70\" r=\"22\" stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"/><text x=\"70\" y=\"108\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">tikker</text><circle cx=\"290\" cy=\"70\" r=\"22\" stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"/><text x=\"290\" y=\"108\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">luisteraar</text><text x=\"70\" y=\"36\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">♪ ♫ ♪</text><text x=\"290\" y=\"36\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">tik tik?</text><line x1=\"100\" y1=\"70\" x2=\"252\" y2=\"70\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"24;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></line><path d=\"M252 64 L262 70 L252 76 Z\" fill=\"#fff\"/><text x=\"20\" y=\"142\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">voorspeld</text><rect x=\"100\" y=\"131\" width=\"0\" height=\"14\" fill=\"#ffd166\"><animate attributeName=\"width\" values=\"0;120;120;0\" keyTimes=\"0;0.4;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"240\" y=\"142\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">± 50%</text><text x=\"20\" y=\"172\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">geraden</text><rect x=\"100\" y=\"161\" width=\"0\" height=\"14\" fill=\"#ff6b9d\"><animate attributeName=\"width\" values=\"0;6;6;0\" keyTimes=\"0;0.4;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"240\" y=\"172\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">2,5%</text><text x=\"180\" y=\"204\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">3 van de 120 liedjes herkend</text></svg>",
+   "quiz": {
+    "q": "Hoeveel van de 120 getikte liedjes raadden de luisteraars in het experiment van Newton?",
+    "o": [
+     "Ongeveer de helft, zoals voorspeld",
+     "Maar 3, ofwel 2,5 procent",
+     "Geen enkel liedje"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "University of Arizona, UCATT: The Curse of Knowledge",
+     "u": "https://ucatt.arizona.edu/news/curse-knowledge"
+    },
+    {
+     "t": "Temple University Law: Tappers and the Curse of Knowledge",
+     "u": "https://law.temple.edu/aer/2021/03/02/brain-lessons-tappers-and-the-curse-of-knowledge/"
+    },
+    {
+     "t": "Camerer, Loewenstein & Weber 1989 (RePEc)",
+     "u": "https://ideas.repec.org/a/ucp/jpolec/v97y1989i5p1232-54.html"
+    }
+   ],
+   "date": "2026-11-25T05:46:48Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Vraag een gunst, en de gever vindt je sympathieker",
+   "body": "Benjamin Franklin beschrijft in zijn autobiografie hoe hij een vijandige collega in het parlement van Pennsylvania voor zich won: hij vroeg om een zeldzaam boek te mogen lenen. In 1969 testten de psychologen Jecker en Landy het. Studenten die gewonnen geld teruggaven als persoonlijke gunst aan de onderzoeker, vonden hem achteraf het sympathiekst.",
+   "take": "Stroeve relatie met een collega of buur? Vraag een kleine, haalbare gunst, zoals advies of iets lenen, en bedank oprecht.",
+   "deep": "## Hoe het werkt\n\nWe denken dat we mensen helpen omdat we ze graag hebben. Maar het werkt ook omgekeerd. Wie iemand een gunst doet, moet dat voor zichzelf verklaren. 'Ik help iemand die ik niet mag' voelt tegenstrijdig. Om dat ongemak op te lossen, past je brein het oordeel aan: 'Blijkbaar vind ik hem toch wel oké.' Psychologen noemen dat ongemak cognitieve dissonantie. Je gedrag stuurt dus mee je gevoel.\n\n## Een voorbeeld\n\nJe nieuwe buren in je straat lijken wat stug. In plaats van te wachten tot zij iets voor jou doen, vraag je of je hun ladder even mag lenen om je dakgoot te kuisen. Je brengt ze dezelfde dag terug, met een bedankje. Grote kans dat het gesprek de volgende keer vlotter loopt dan wanneer jij hen een fles wijn had gebracht.\n\n## Wat onderzoek zegt\n\nFranklin vertelt het verhaal zelf. Een collega in de Assemblee van Pennsylvania stond vijandig tegenover hem. Franklin hoorde dat de man een zeldzaam boek bezat, vroeg het te lenen en stuurde het terug met een bedankbriefje. Daarna was de man volgens Franklin vriendelijk en bereid hem te helpen.\n\nIn 1969 publiceerden Jecker en Landy in het tijdschrift Human Relations een experiment. Studenten wonnen geld in een intellectuele wedstrijd. Daarna vroeg de onderzoeker aan een deel van hen het geld terug te geven, omdat hij het uit eigen zak betaalde en krap zat. Een andere groep kreeg de vraag van een secretaresse, voor het departement. Een derde groep kreeg geen vraag. De studenten die de onderzoeker persoonlijk een gunst deden, vonden hem achteraf het sympathiekst. Een latere, kleinere studie van psychologe Yu Niiya vond een gelijkaardig effect bij Japanse en Amerikaanse deelnemers.\n\n## Nuance of misverstand\n\nDe bekende studies zijn oud en klein, dus behandel het als een interessante neiging, geen wet. Het werkt met kleine, redelijke vragen die iemand vrijwillig doet. Wie voortdurend gunsten vraagt of iemand onder druk zet, wekt eerder ergernis. En het is iets anders dan wederkerigheid: daar voelt de ander zich verplicht iets terug te doen, hier gaat het om hoe de helper zich voelt over jou.\n\n## Wat je ermee doet\n\nVraag bij een nieuwe collega om advies over iets waar die echt goed in is. Hou het klein, bedank oprecht en laat zien wat je met de hulp gedaan hebt. Zo bouw je een band op zonder dat het als slijmen voelt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><circle cx=\"70\" cy=\"110\" r=\"24\" stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"/><text x=\"70\" y=\"152\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">jij vraagt</text><circle cx=\"290\" cy=\"110\" r=\"24\" stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"/><text x=\"290\" y=\"152\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">de helper</text><rect x=\"-10\" y=\"-7\" width=\"20\" height=\"14\" fill=\"#ffd166\"><animateMotion path=\"M265 100 Q180 50 95 100 Q180 150 265 100\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"180\" y=\"56\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">boek lenen</text><text x=\"180\" y=\"170\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">boek terug + dankjewel</text><path d=\"M290 64 C283 52 268 58 290 76 C312 58 297 52 290 64 Z\" fill=\"#ff6b9d\"><animate attributeName=\"opacity\" values=\"0.2;1;0.2\" dur=\"6s\" repeatCount=\"indefinite\"/></path><text x=\"180\" y=\"204\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">wie helpt, gaat je leuker vinden</text></svg>",
+   "quiz": {
+    "q": "Welke studenten vonden de onderzoeker het sympathiekst bij Jecker en Landy?",
+    "o": [
+     "Wie hem persoonlijk een gunst deed door geld terug te geven",
+     "Wie het gewonnen geld mocht houden",
+     "Wie geld teruggaf op vraag van het departement"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Jecker & Landy 1969, Human Relations",
+     "u": "https://doi.org/10.1177/001872676902200407"
+    },
+    {
+     "t": "The Decision Lab: Benjamin Franklin effect",
+     "u": "https://thedecisionlab.com/biases/benjamin-franklin-effect"
+    }
+   ],
+   "date": "2026-11-25T05:46:48Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Op een wiebelbrug lijkt een vreemde aantrekkelijker",
+   "body": "In 1974 lieten psychologen Donald Dutton en Arthur Aron een vrouw mannen aanspreken op de wiebelende Capilano-hangbrug in Canada, zo'n 70 meter boven de rivier, of op een lage, stevige brug. Ze gaf haar telefoonnummer mee. Van de hangbrug belden 9 van de 18 mannen haar later op, van de stevige brug 2 van de 16.",
+   "take": "Bonst je hart bij iemand? Vraag je af of het die persoon is, of de achtbaan, de spannende film of de examenstress.",
+   "deep": "## Hoe het werkt\n\nOpwinding in je lichaam is vrij algemeen: een snellere hartslag, zweethanden, sneller ademen. Die signalen zien er bij angst, spanning en verliefdheid ongeveer hetzelfde uit. Je brein zoekt dus een verklaring in de omgeving. Staat er op dat moment een aantrekkelijke persoon voor je, dan kan je brein de bonzende hartslag toeschrijven aan die persoon in plaats van aan de diepte onder je voeten. Psychologen noemen dat misattributie van opwinding. Het bouwt voort op de tweefactortheorie van Schachter en Singer uit 1962: een emotie is opwinding plus een label.\n\n## Een voorbeeld\n\nJe gaat met een date naar Walibi en neemt samen de wildste achtbaan. Daarna voelt het gesprek extra geladen. Een deel van dat gevoel kan gewoon de adrenaline van de rit zijn die je brein aan je gezelschap koppelt. Hetzelfde kan gebeuren na een spannende film of een intense sportwedstrijd.\n\n## Wat onderzoek zegt\n\nDonald Dutton en Arthur Aron publiceerden hun studie in 1974 in de Journal of Personality and Social Psychology. De Capilano-hangbrug bij Vancouver is ongeveer 1,5 meter breed, 137 meter lang en wiebelt flink. De controlebrug was een stevige, lage brug over dezelfde rivier. Een aantrekkelijke vrouwelijke interviewer vroeg mannen een korte vragenlijst in te vullen en een verhaaltje bij een prent te schrijven. Daarna gaf ze haar naam en nummer, 'voor als je meer wilt weten over de studie'. Op de hangbrug belden 9 van de 18 mannen die het nummer aannamen, op de stevige brug 2 van de 16. De mannen op de hangbrug schreven ook verhaaltjes met meer seksuele inhoud. Bij een mannelijke interviewer verdween het verschil.\n\n## Nuance of misverstand\n\nHet gaat om kleine aantallen mannen, en de groepen waren niet willekeurig ingedeeld: wie voor een enge hangbrug kiest, is misschien gewoon avontuurlijker of meer op zoek naar contact. Dutton en Aron probeerden dat met extra experimenten op te vangen, maar de studie blijft een klassieker met beperkte data. Het betekent ook niet dat angst iedereen verliefd maakt: het effect hangt af van wie er op dat moment voor je staat.\n\n## Wat je ermee doet\n\nWees je bewust van waar je gevoelens vandaan komen voor je grote beslissingen neemt. Een plotse klik na een spannend moment is interessant, maar check later in een rustige situatie of het gevoel blijft. Omgekeerd: een eerste afspraak met wat gezonde spanning, zoals een klimzaal, maakt het misschien net wat memorabeler.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"95\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">hoge hangbrug</text><text x=\"265\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">lage, stevige brug</text><g><animateTransform attributeName=\"transform\" type=\"rotate\" values=\"-4 95 70;4 95 70;-4 95 70\" dur=\"3s\" repeatCount=\"indefinite\"/><path d=\"M25 60 Q95 90 165 60\" stroke=\"#ffd166\" stroke-width=\"3\" fill=\"none\"/><line x1=\"25\" y1=\"40\" x2=\"25\" y2=\"60\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"165\" y1=\"40\" x2=\"165\" y2=\"60\" stroke=\"#fff\" stroke-width=\"2\"/></g><path d=\"M30 110 L50 100 L70 112 L90 102 L110 112 L130 100 L160 110\" stroke=\"#06d6a0\" stroke-width=\"2\" fill=\"none\"/><text x=\"95\" y=\"128\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">70 m diep</text><line x1=\"195\" y1=\"80\" x2=\"335\" y2=\"80\" stroke=\"#fff\" stroke-width=\"4\"/><path d=\"M215 100 L245 96 L285 100 L320 96\" stroke=\"#06d6a0\" stroke-width=\"2\" fill=\"none\"/><text x=\"265\" y=\"128\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">laag boven water</text><rect x=\"45\" y=\"150\" width=\"0\" height=\"16\" fill=\"#ff6b9d\"><animate attributeName=\"width\" values=\"0;100;100;0\" keyTimes=\"0;0.4;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"95\" y=\"190\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">9 van 18 belden</text><rect x=\"215\" y=\"150\" width=\"0\" height=\"16\" fill=\"#fff\"><animate attributeName=\"width\" values=\"0;25;25;0\" keyTimes=\"0;0.4;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"265\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">2 van 16 belden</text><text x=\"180\" y=\"212\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">bonzend hart wordt 'verliefd' gelabeld</text></svg>",
+   "quiz": {
+    "q": "Wat gebeurde er toen een man de interviews op de hangbrug afnam?",
+    "o": [
+     "Er belden nog meer mannen terug",
+     "Vrouwen begonnen vaker te bellen",
+     "Het verschil tussen beide bruggen verdween"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Dutton & Aron 1974 (paper, pdf)",
+     "u": "https://is.muni.cz/el/phil/jaro2020/PSX_512/um/Dutton_Aron_Misattribution_of_arousal.pdf"
+    },
+    {
+     "t": "Penn State: Real-life extension of Schachter and Singer",
+     "u": "https://psu.pb.unizin.org/psych425/chapter/real-life-extension-of-schachter-and-singer-1962/"
+    },
+    {
+     "t": "Scientific American: Fear and Love on a Shaky Bridge",
+     "u": "https://www.scientificamerican.com/blog/psysociety/fear-and-love-on-a-shaky-bridge/"
+    }
+   ],
+   "date": "2026-11-25T05:46:48Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Een staatsbon van één jaar haalde 22 miljard op",
+   "body": "In september 2023 legden Belgen bijna 22 miljard euro in een staatsbon van één jaar: een record. De brutorente was 3,30%. Het lokmiddel: een roerende voorheffing van 15% in plaats van de gebruikelijke 30%. Netto bleef zo 2,81% over: 1.000 euro werd 1.028,10 euro. Het vorige record, uit 2011, lag op 5,7 miljard.",
+   "take": "Vergelijk spaar- en beleggingsproducten altijd op nettorendement: brutorente min belasting en kosten, over dezelfde looptijd.",
+   "deep": "## Hoe het werkt\n\nEen staatsbon is een lening van jou aan de Belgische staat. Je legt een bedrag in, de overheid betaalt je een vaste rente, de coupon, en op de vervaldag krijg je je inleg terug. Op die rente houdt de staat roerende voorheffing in. Normaal is dat 30% op interesten. Voor deze staatsbon gold uitzonderlijk 15%.\n\nDe rekensom: 3,30% bruto maal 0,85 geeft 2,805%, afgerond 2,81% netto. Met de gewone 30% voorheffing was dat maar 2,31% geweest. Het belastingvoordeel maakte het product dus fors aantrekkelijker.\n\n## Een voorbeeld\n\nStel dat je 10.000 euro had staan op een spaarrekening. Via de staatsbon kreeg je na één jaar 330 euro bruto rente, waarvan na voorheffing 280,50 euro overbleef. Voor dat bedrag zat je geld wel een jaar vast. Veel Vlamingen deden de oefening aan de keukentafel en stapten naar hun bank of naar het Grootboek van het Federaal Agentschap van de Schuld.\n\n## Wat onderzoek zegt\n\nHet Federaal Agentschap van de Schuld meldde een opbrengst van 21,896 miljard euro voor de staatsbon met vervaldag 4 september 2024 en een coupon van 3,30%. Dat was veruit de grootste uitgifte voor particulieren ooit. Het vorige record was de zogenaamde Leterme-bon van december 2011, met 5,729 miljard euro. Rechtstreeks via het Grootboek schreven 234.310 mensen in, samen voor 7,093 miljard euro. De NOS berichtte dat meer dan 634.000 Belgen meededen. Volgens het Agentschap hoefde de staat dat jaar 10,4 miljard euro minder kortlopende schatkistcertificaten uit te geven.\n\n## Nuance of misverstand\n\nDe staatsbon was geen gratis winst. Wat je echt overhield, hing ook af van de inflatie in dat jaar. Je geld zat bovendien een jaar vast, terwijl je op een spaarrekening op elk moment kunt opnemen. De grote toeloop was daarnaast een signaal aan de banken, die toen lage spaarrentes gaven: Reuters noemde het een duidelijk signaal voor hogere bankrentes.\n\n## Wat je ermee doet\n\nLeg producten altijd naast elkaar op nettorendement over dezelfde periode. Kijk naar belasting, kosten en hoe snel je aan je geld kunt. En onthoud dat een overheid of bank met een fiscaal voordeel bewust gedrag stuurt: vraag je af of het product ook zonder dat voordeel bij jou past.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Staatsbon sept. 2023, 1 jaar</text><rect x=\"40\" y=\"60\" width=\"80\" height=\"120\" stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"/><text x=\"80\" y=\"120\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">3,30%</text><text x=\"80\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">bruto</text><rect x=\"240\" y=\"78\" width=\"80\" height=\"102\" stroke=\"#06d6a0\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"/><text x=\"280\" y=\"130\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">2,81%</text><text x=\"280\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">netto</text><line x1=\"130\" y1=\"120\" x2=\"222\" y2=\"120\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"24;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></line><path d=\"M222 114 L232 120 L222 126 Z\" fill=\"#fff\"/><text x=\"180\" y=\"108\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">−15% voorheffing</text><circle cx=\"130\" cy=\"138\" r=\"6\" fill=\"#ffd166\"><animateMotion path=\"M0 0 L92 0\" dur=\"3s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;0\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"168\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">€1.000 → €1.028,10</text></svg>",
+   "quiz": {
+    "q": "Waarom bleef er van 3,30% bruto 2,81% netto over bij deze staatsbon?",
+    "o": [
+     "Er ging 30% beurstaks af",
+     "Er ging 15% roerende voorheffing af op de rente",
+     "De bank hield 0,49% instapkosten in"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Federaal Agentschap van de Schuld: resultaten staatsbon",
+     "u": "https://news.belgium.be/en/node/34495"
+    },
+    {
+     "t": "VRT NWS",
+     "u": "https://www.vrt.be/vrtnws/nl/2023/09/04/staatsbon-opbrengst/"
+    },
+    {
+     "t": "NOS",
+     "u": "https://nos.nl/artikel/2489328-belgie-sleept-miljarden-aan-spaargeld-binnen-terwijl-banken-rentes-verlagen"
+    }
+   ],
+   "date": "2026-11-25T05:46:48Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Sinds 1971 wisselt niemand dollars nog in voor goud",
+   "body": "Op 15 augustus 1971 sloot de Amerikaanse president Richard Nixon het 'goudloket': buitenlandse centrale banken konden hun dollars niet langer inruilen voor goud aan 35 dollar per ounce. Tegelijk kondigde hij een loon- en prijsstop van 90 dagen en een extra invoerheffing van 10% aan. Het was het begin van het einde van het Bretton Woods-systeem.",
+   "take": "Je euro is, net als de dollar, geld zonder goudanker: de waarde rust op vertrouwen in de centrale bank en de economie.",
+   "deep": "## Hoe het werkt\n\nNa de Tweede Wereldoorlog spraken de geallieerden in 1944 in het Amerikaanse Bretton Woods een vast wisselkoerssysteem af. Andere munten kregen een vaste koers tegenover de dollar, en de dollar zelf was gekoppeld aan goud aan 35 dollar per ounce. Een buitenlandse centrale bank kon dollars aanbieden in Washington en kreeg daar goud voor.\n\nDat werkte zolang de Verenigde Staten genoeg goud hadden om alle dollars in het buitenland te dekken. In de jaren 1960 groeiden de Amerikaanse uitgaven en tekorten, en kwamen er steeds meer dollars in buitenlandse handen. Toen landen die dollars massaal in goud wilden omzetten, kwam de goudvoorraad onder druk. Nixon koos ervoor de inwisselbaarheid op te schorten in plaats van de goudvoorraad te zien leeglopen.\n\n## Een voorbeeld\n\nVandaag kijk je in je bankapp en zie je dat een dollar de ene week iets meer euro kost dan de andere. Dat schommelen bestaat omdat wisselkoersen sinds de jaren 1970 grotendeels vrij zweven. Onder Bretton Woods lag zo'n koers vast en moesten centrale banken ingrijpen om hem daar te houden.\n\n## Wat onderzoek zegt\n\nVolgens Federal Reserve History kondigde Nixon na overleg met zijn adviseurs in Camp David op de avond van 15 augustus 1971 zijn 'New Economic Policy' aan. Het eerste bevel was het sluiten van het goudloket. Het tweede was een loon- en prijsstop van 90 dagen tegen de inflatie, de eerste keer dat de Amerikaanse overheid zulke controles invoerde buiten oorlogstijd. Het State Department beschrijft ook een extra heffing van 10% op invoer, om handelspartners te dwingen hun munt te herwaarderen. Met het Smithsonian-akkoord van december 1971 probeerden landen nieuwe vaste koersen af te spreken, maar die hielden niet lang stand. Tegen 1973 zweefden de grote munten vrij.\n\n## Nuance of misverstand\n\nNixon nam gewone Amerikanen geen goud af: zij konden hun dollars al sinds de jaren 1930 niet meer inwisselen voor goud. De maatregel van 1971 ging over centrale banken van andere landen. De opschorting werd ook voorgesteld als tijdelijk, maar is nooit teruggedraaid. 'Geld zonder goud' betekent bovendien niet automatisch waardeloos geld: de waarde hangt af van hoe goed centrale banken de inflatie onder controle houden.\n\n## Wat je ermee doet\n\nBegrijp dat je spaargeld in euro geen vaste waarde in goud heeft. Inflatie en rente bepalen wat je geld over tien jaar waard is. Wie gelooft dat 'terug naar goud' alles oplost, vergeet dat het oude systeem net instortte omdat het te strak was.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"30\" y=\"80\" width=\"90\" height=\"50\" rx=\"6\" stroke=\"#06d6a0\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"/><text x=\"75\" y=\"110\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">$ dollar</text><path d=\"M250 130 L262 85 L328 85 L340 130 Z\" stroke=\"#ffd166\" stroke-width=\"2\" fill=\"rgba(255,209,102,0.25)\"/><text x=\"295\" y=\"115\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">goud</text><line x1=\"125\" y1=\"105\" x2=\"240\" y2=\"105\" stroke=\"#fff\" stroke-width=\"3\" stroke-dasharray=\"8 6\"><animate attributeName=\"opacity\" values=\"1;1;0.1;0.1;1\" keyTimes=\"0;0.4;0.5;0.95;1\" dur=\"6s\" repeatCount=\"indefinite\"/></line><text x=\"182\" y=\"92\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">$35 per ounce</text><g opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1;0\" keyTimes=\"0;0.45;0.5;0.95;1\" dur=\"6s\" repeatCount=\"indefinite\"/><line x1=\"170\" y1=\"115\" x2=\"195\" y2=\"140\" stroke=\"#ff6b9d\" stroke-width=\"3\"/><line x1=\"195\" y1=\"115\" x2=\"170\" y2=\"140\" stroke=\"#ff6b9d\" stroke-width=\"3\"/><text x=\"182\" y=\"165\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">goudloket dicht</text></g><text x=\"180\" y=\"30\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Bretton Woods 1944 → 15 augustus 1971</text><text x=\"180\" y=\"200\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">sindsdien: waarde rust op vertrouwen</text></svg>",
+   "quiz": {
+    "q": "Wie kon vóór 15 augustus 1971 dollars inwisselen voor goud aan 35 dollar per ounce?",
+    "o": [
+     "Elke Amerikaan aan het bankloket",
+     "Niemand, dat was al sinds 1944 afgeschaft",
+     "Buitenlandse centrale banken en overheden"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Federal Reserve History: Gold Convertibility Ends",
+     "u": "https://www.federalreservehistory.org/essays/gold-convertibility-ends"
+    },
+    {
+     "t": "US State Department, Office of the Historian",
+     "u": "https://history.state.gov/milestones/1969-1976/nixon-shock"
+    }
+   ],
+   "date": "2026-11-25T05:46:48Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Gratis verslaat een betere deal van één cent",
+   "body": "Onderzoekers Kristina Shampanier, Nina Mazar en Dan Ariely boden een Lindt-truffel aan voor 15 cent en een Hershey's Kiss voor 1 cent: zo'n 73% koos de truffel. Daarna verlaagden ze beide prijzen met 1 cent. Truffel 14 cent, Kiss gratis: nu koos 69% de Kiss. Het prijsverschil bleef gelijk, maar 'gratis' won.",
+   "take": "Zie je 'gratis' bij een aankoop? Doe alsof het één cent kost en vraag je dan af of je nog hetzelfde zou kiezen.",
+   "deep": "## Hoe het werkt\n\nNormaal weeg je bij een keuze kosten en baten af. Een truffel van 15 cent tegenover een gewone chocolade van 1 cent: 14 cent verschil voor een veel betere smaak. Verlaag je beide prijzen met 1 cent, dan blijft dat verschil precies gelijk. Toch verandert de keuze drastisch. De verklaring: 'gratis' voelt niet als gewoon een lage prijs. Bij een gratis product is er geen enkel risico op een slechte koop, en dat geeft een positief gevoel dat het product zelf aantrekkelijker laat lijken. Gratis verlaagt dus niet alleen de kosten, het verhoogt ook de ervaren waarde.\n\n## Een voorbeeld\n\nJe webshopmandje staat op 44 euro en vanaf 50 euro is de levering gratis. Je voegt een product van 9 euro toe dat je eigenlijk niet nodig had, om 4,95 euro verzendkosten te 'besparen'. Of in de supermarkt: '1 + 1 gratis' doet je twee potten kopen, terwijl je er maar één wou. In beide gevallen trekt het woord 'gratis' je over de streep.\n\n## Wat onderzoek zegt\n\nShampanier, Mazar en Ariely publiceerden hun studie 'Zero as a Special Price: The True Value of Free Products' in 2007 in het vaktijdschrift Marketing Science. In een opstelling aan het MIT kozen klanten één chocolade. Bij 15 cent voor de Lindt-truffel en 1 cent voor de Hershey's Kiss koos ongeveer 73% de truffel. Bij 14 cent en gratis koos 69% de Kiss. Een controleproef waarin beide prijzen met 1 cent zakten zonder dat er iets gratis werd, veranderde de keuzes niet. De onderzoekers testten meerdere verklaringen, en een emotionele reactie op 'gratis' bleek de meest waarschijnlijke.\n\n## Nuance of misverstand\n\nCritici wijzen erop dat een deel van het effect ook gewoon gemak kan zijn: voor gratis hoef je geen portemonnee boven te halen. De onderzoekers probeerden zulke verklaringen uit te sluiten, maar in het echte leven spelen ze zeker mee. De percentages komen bovendien uit kleine proeven met snoepgoed van enkele centen. Bij grote aankopen weegt de prijs zwaarder en is het effect niet automatisch even sterk.\n\n## Wat je ermee doet\n\nAls consument: reken 'gratis' weg en vergelijk de echte totaalprijs. Als ondernemer: een gratis proefversie, gratis verzending of een gratis extraatje kan meer doen dan een kleine korting van gelijke waarde.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"95\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">truffel 15¢ / Kiss 1¢</text><text x=\"265\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">truffel 14¢ / Kiss gratis</text><line x1=\"20\" y1=\"180\" x2=\"340\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"45\" y=\"180\" width=\"40\" height=\"0\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"0;110;110;0\" keyTimes=\"0;0.4;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;70;70;180\" keyTimes=\"0;0.4;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"65\" y=\"60\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">73%</text><rect x=\"105\" y=\"180\" width=\"40\" height=\"0\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"0;41;41;0\" keyTimes=\"0;0.4;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;139;139;180\" keyTimes=\"0;0.4;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"125\" y=\"130\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">27%</text><rect x=\"215\" y=\"180\" width=\"40\" height=\"0\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"0;47;47;0\" keyTimes=\"0;0.4;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;133;133;180\" keyTimes=\"0;0.4;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"235\" y=\"124\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">31%</text><rect x=\"275\" y=\"180\" width=\"40\" height=\"0\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"0;104;104;0\" keyTimes=\"0;0.4;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;76;76;180\" keyTimes=\"0;0.4;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"295\" y=\"66\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">69%</text><text x=\"65\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">truffel</text><text x=\"125\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Kiss</text><text x=\"235\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">truffel</text><text x=\"295\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Kiss</text><text x=\"180\" y=\"214\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">zelfde prijsverschil, andere keuze</text></svg>",
+   "quiz": {
+    "q": "Wat veranderde er tussen de twee chocoladeproeven?",
+    "o": [
+     "Beide prijzen zakten 1 cent, waardoor de Kiss gratis werd",
+     "De truffel werd half zo duur",
+     "De Kiss kreeg een mooiere verpakking"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Shampanier, Mazar & Ariely 2007 (Duke, pdf)",
+     "u": "https://people.duke.edu/~dandan/webfiles/PapersPI/Zero%20as%20a%20Special%20Price.pdf"
+    },
+    {
+     "t": "TIME",
+     "u": "https://content.time.com/time/specials/2007/article/0,28804,1623143_1720583_1720579,00.html"
+    },
+    {
+     "t": "The Decision Lab: Zero Price Effect",
+     "u": "https://thedecisionlab.com/reference-guide/psychology/zero-price-effect"
+    }
+   ],
+   "date": "2026-11-25T05:46:48Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Häagen-Dazs klinkt Deens, maar komt uit de Bronx",
+   "body": "Reuben Mattus en zijn vrouw Rose begonnen Häagen-Dazs in 1960 in de Bronx, New York. De naam betekent niets. Mattus zocht een Deens klinkende naam, ook als eerbetoon aan Denemarken dat in de oorlog Joden redde. Maar de 'ä' en de lettercombinatie 'zs' bestaan niet in het Deens. Marketeers noemen dit foreign branding.",
+   "take": "Klinkt een merknaam Italiaans, Frans of Scandinavisch? Kijk op de verpakking waar en door wie het product echt gemaakt wordt.",
+   "deep": "## Hoe het werkt\n\nEen buitenlandse naam roept meteen een stereotype op. Scandinavisch klinkt puur en ambachtelijk, Frans klinkt verfijnd en genietbaar, Duits klinkt degelijk. Die associaties plakt je brein op het product, nog voor je het geproefd hebt. Een merknaam hoeft daarvoor niet echt uit dat land te komen: het volstaat dat hij zo klinkt of eruitziet. Een trema of een ongewone letter is dan een visueel signaal van 'exotisch'.\n\n## Een voorbeeld\n\nMattus was een Joodse immigrant die met zijn familie ijs verkocht in New York. Hij wou een luxe-ijs met een naam die opviel in de diepvries. Hij probeerde Deens klinkende woorden uit tot hij er een vond die hem beviel. Volgens de bekende verhalen zette hij zelfs een kaart van Scandinavië op de vroege verpakking. Een klant die zo'n pot kocht, dacht dus allicht aan een Europees ambachtelijk product, terwijl het ijs gewoon uit New York kwam.\n\n## Wat onderzoek zegt\n\nMarketingonderzoekers France Leclerc, Bernd Schmitt en Laurette Dubé publiceerden in 1994 in de Journal of Marketing Research drie experimenten over foreign branding. Een Franse uitspraak van een merknaam liet producten genotvoller lijken en verbeterde de houding tegenover het merk. Zelfs na een smaaktest bleef het effect bestaan. Wanneer mensen tegenstrijdige informatie kregen over het land van herkomst, werd het effect zwakker.\n\nHäagen-Dazs ondervond zelf de keerzijde. In 1980 daagde het bedrijf de nieuwe ijsmaker Frusen Glädjé voor de rechter, omdat die net zo Scandinavisch oogde. Häagen-Dazs verloor: de rechter vond dat het bedrijf zelf een Scandinavische herkomst suggereerde zonder enige band met die regio.\n\n## Nuance of misverstand\n\nForeign branding is niet per se misleiding: Häagen-Dazs beweerde niet letterlijk dat het ijs uit Denemarken kwam, en het ijs zelf was een echt premiumproduct. Het wordt wel misleidend als een product expliciet een herkomst claimt die niet klopt. En de naam doet niet alles: zonder goed product houdt een mooi klinkend merk het niet lang vol.\n\n## Wat je ermee doet\n\nAls koper: lees het etiket voor de echte producent en herkomst, en laat je oordeel niet sturen door een trema. Als ondernemer: kies een naam die past bij wat je product echt belooft, want de klank van een naam kleurt hoe mensen het product beleven.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><circle cx=\"80\" cy=\"120\" r=\"34\" stroke=\"#fff\" stroke-width=\"2\" fill=\"rgba(255,255,255,0.14)\"/><text x=\"80\" y=\"116\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Bronx,</text><text x=\"80\" y=\"132\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">New York</text><text x=\"80\" y=\"176\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">echte oorsprong</text><circle cx=\"280\" cy=\"120\" r=\"34\" stroke=\"#ff6b9d\" stroke-width=\"2\" fill=\"none\" stroke-dasharray=\"5 5\"/><text x=\"280\" y=\"116\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Denemarken?</text><text x=\"280\" y=\"132\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ä en zs: niet Deens</text><text x=\"280\" y=\"176\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">gesuggereerd</text><path d=\"M114 110 Q180 60 246 110\" stroke=\"#fff\" stroke-width=\"2\" fill=\"none\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"24;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><path d=\"M240 102 L248 112 L236 113 Z\" fill=\"#fff\"/><text x=\"180\" y=\"32\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Häagen-Dazs (1960)</text><g opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;1;0\" keyTimes=\"0;0.2;0.8;1\" dur=\"5s\" repeatCount=\"indefinite\"/><text x=\"180\" y=\"206\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">naam stuurt het gevoel, niet de smaak</text></g></svg>",
+   "quiz": {
+    "q": "Wat betekent de naam Häagen-Dazs in het Deens?",
+    "o": [
+     "IJs van de koninklijke hoeve",
+     "Niets: het is een verzonnen naam",
+     "Zoete room uit Kopenhagen"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Britannica: What does Häagen-Dazs actually mean?",
+     "u": "https://www.britannica.com/one-good-fact/what-does-hagen-dazs-actually-mean"
+    },
+    {
+     "t": "Atlas Obscura",
+     "u": "https://www.atlasobscura.com/articles/haagen-dazs-fake-foreign-branding"
+    }
+   ],
+   "date": "2026-11-25T05:46:48Z"
   }
  ],
  "dives": [
