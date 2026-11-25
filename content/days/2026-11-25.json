@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:44:36Z",
+ "updated": "2026-11-25T05:45:17Z",
  "cards": [
   {
    "cat": "tech",
@@ -308,6 +308,310 @@
     }
    ],
    "date": "2026-11-25T05:44:36Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "De Mona Lisa werd pas wereldberoemd toen ze verdween",
+   "body": "Op 21 augustus 1911 haalde Vincenzo Peruggia, een Italiaan die nog in het Louvre had gewerkt, de Mona Lisa van de muur en wandelde ermee naar buiten. Ze bleef 28 maanden weg. Kranten over de hele wereld openden met het verhaal. Daarvoor was het schilderij lang niet het populairste stuk van het museum.",
+   "take": "Bekendheid zegt vaak meer over het verhaal rond iets dan over de kwaliteit. Vraag je bij elke 'hype' af: welk verhaal maakte dit groot?",
+   "deep": "## Hoe het werkt\n\nRoem ontstaat zelden vanzelf. Een kunstwerk wordt een icoon als heel veel mensen er tegelijk over horen, praten en het beeld steeds opnieuw zien. De diefstal van 1911 deed precies dat. Een mysterie zonder dader, een museum dat voor schut stond en een lege plek aan de muur: dat was perfect krantenvoer. Weken na elkaar verschenen er foto's van het schilderij, in kranten van Parijs tot New York. Zo raakte een portret dat vooral kunstkenners kenden in het geheugen van gewone mensen. Toen het werk terugkwam, wilde iedereen het met eigen ogen zien.\n\n## Een voorbeeld\n\nPeruggia had als klusjesman mee de beschermende glazen kast van het schilderij gebouwd. Hij kende het museum dus goed. Volgens de verhalen verstopte hij zich in een kast, nam het paneel van de muur, verborg het onder zijn werkkiel en liep zo naar buiten. Niemand merkte het meteen: pas de volgende dag ontdekte een schilder die de Mona Lisa wilde kopiëren dat ze weg was. Peruggia hield het werk ruim twee jaar verborgen in Parijs. In december 1913 probeerde hij het in Florence te verkopen aan kunsthandelaar Alfredo Geri. Die schakelde Giovanni Poggi in, de directeur van de Uffizi, die het echte werk herkende. Peruggia werd opgepakt. Na een korte tentoonstelling in Italië hing de Mona Lisa in januari 1914 weer in Parijs.\n\n## Wat onderzoek zegt\n\nSmithsonian Magazine beschreef hoe de Mona Lisa in 1911 verre van het meest bezochte werk in het Louvre was. Vandaag ziet het tijdschrift er een publiekstrekker in die jaarlijks zo'n acht miljoen mensen lokt. Ook de Amerikaanse openbare omroep NPR en History.com vertellen hetzelfde verhaal: de diefstal en de wereldwijde persaandacht maakten het schilderij tot hét bekendste ter wereld. Kranten brachten het nieuws met grote koppen en bleven er wekenlang over schrijven.\n\n## Nuance of misverstand\n\nDat betekent niet dat het schilderij voordien onbekend was. Leonardo da Vinci werd al eeuwen bewonderd en kunstkenners waardeerden het portret. Het verschil zit in het grote publiek. Er doen ook wilde verhalen de ronde, bijvoorbeeld dat Pablo Picasso erachter zat. Picasso en de dichter Guillaume Apollinaire werden wel even verdacht, maar ze waren onschuldig. Peruggia zelf zei dat hij uit vaderlandsliefde handelde: hij vond dat het werk naar Italië moest. Ook over zijn straf lopen de bronnen uiteen; ze varieert van zeven maanden tot iets meer dan een jaar.\n\n## Wat je ermee doet\n\nKijk de volgende keer dat iets 'iedereen' kent kritisch naar hoe het zo ver kwam. Was het uitzonderlijk goed, of had het een sterk verhaal en veel aandacht op het juiste moment? Dat helpt je om reclame, virale filmpjes en 'must-sees' nuchterder te bekijken. En wie zelf iets wil laten opvallen, leert hier dat een verhaal soms meer doet dan het product zelf.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Bekendheid van de Mona Lisa</text><line x1=\"40\" y1=\"180\" x2=\"330\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"60\" y=\"150\" width=\"50\" height=\"30\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"155\" y=\"60\" width=\"50\" height=\"120\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\" stroke-dasharray=\"6 4\"><animate attributeName=\"opacity\" values=\"0.3;1;0.3\" dur=\"3s\" repeatCount=\"indefinite\"/></rect><rect x=\"250\" y=\"180\" width=\"50\" height=\"0\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"0;140;140;0\" keyTimes=\"0;0.5;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;40;40;180\" keyTimes=\"0;0.5;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"85\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">voor 1911</text><text x=\"180\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">weg: 28 maanden</text><text x=\"275\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">vanaf 1914</text><text x=\"85\" y=\"143\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">kunstkenners</text><text x=\"180\" y=\"52\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">lege muur</text></svg>",
+   "quiz": {
+    "q": "Wat maakte de Mona Lisa in 1911 plots wereldberoemd?",
+    "o": [
+     "Een grote Leonardo-tentoonstelling in Florence",
+     "De diefstal en de wereldwijde persaandacht",
+     "Een nieuwe restauratie in het Louvre"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Smithsonian Magazine",
+     "u": "https://www.smithsonianmag.com/arts-culture/the-theft-that-made-the-mona-lisa-a-masterpiece-16406234/"
+    },
+    {
+     "t": "NPR",
+     "u": "https://www.npr.org/2011/07/30/138800110/the-theft-that-made-the-mona-lisa-a-masterpiece"
+    },
+    {
+     "t": "History.com",
+     "u": "https://www.history.com/articles/the-heist-that-made-the-mona-lisa-famous"
+    }
+   ],
+   "date": "2026-11-25T05:45:17Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Jan van Eyck vond de olieverf niet uit",
+   "body": "Rond 1550 schreef Giorgio Vasari dat Jan van Eyck olieverf had uitgevonden. Dat klopt niet. Een twaalfde-eeuws traktaat beschrijft de techniek al, en in de grotten van Bamiyan (Afghanistan) vonden onderzoekers olieverf uit het midden van de zevende eeuw. Van Eyck perfectioneerde ze wel: dunne, doorschijnende lagen die sneller droogden.",
+   "take": "Kijk in Gent naar het Lam Gods en zoek de glans in stoffen en juwelen: dat is laag op laag olieverf.",
+   "deep": "## Hoe het werkt\n\nOlieverf is pigment gemengd met een drogende olie, zoals lijnolie of notenolie. Zo'n olie 'droogt' niet door te verdampen, maar wordt hard doordat ze met zuurstof uit de lucht reageert. Dat gaat traag. Net daardoor kan een schilder lang blijven werken, kleuren laten vloeien en heel fijne overgangen maken. Van Eyck gebruikte die eigenschap slim. Hij bracht dunne, doorschijnende lagen aan, glacis genoemd, over een lichte ondergrond. Licht dringt door die lagen, kaatst terug op de witte grond en lijkt daardoor van binnenuit te gloeien. Volgens het Gentse toerismebureau zette hij ook middelen in die het drogen versnelden, zodat hij sneller laag na laag kon opbouwen.\n\n## Een voorbeeld\n\nHet Lam Gods in de Sint-Baafskathedraal in Gent, dat Hubert en Jan van Eyck in 1432 afwerkten, is het bekendste voorbeeld. De edelstenen, het brokaat en de spiegelende metalen lijken bijna echt. Restaurateurs beschrijven hoe de verf er laag voor laag werd opgebracht, met telkens een droogtijd tussen de lagen. Dat geduldige opbouwen gaf de Vlaamse Primitieven hun typische helderheid.\n\n## Wat onderzoek zegt\n\nHet Metropolitan Museum of Art in New York schrijft dat Van Eyck ten onrechte de 'uitvinding' van de olieverf kreeg toegeschreven, en dat schilderen met olie in Noord-Europa al vanaf de twaalfde eeuw is vastgelegd. In 2008 meldde de Europese synchrotron ESRF in Grenoble dat onderzoekers drogende oliën vonden in muurschilderingen in de grotten van Bamiyan. Twaalf van de vijftig onderzochte grotten waren met olie beschilderd, rond het midden van de zevende eeuw. Onderzoeksleider Yoko Taniguchi noemde het het vroegste duidelijke voorbeeld van olieverfschilderijen.\n\n## Nuance of misverstand\n\nDe mythe gaat terug op Giorgio Vasari, die rond 1550 levens van kunstenaars beschreef en Van Eyck als uitvinder voorstelde. Toch is Van Eyck niet zomaar een van velen. Britannica noemt hem de schilder die de nieuwe olieverftechniek perfectioneerde, en hij maakte ze populair. Dat zijn werk zo overtuigde, hielp de techniek zich te verspreiden, ook naar Italië. Wie ze precies als eerste gebruikte, weten we niet.\n\n## Wat je ermee doet\n\nAls je nog eens een 'uitvinder' hoort noemen, vraag dan: vond die persoon iets echt nieuws uit, of maakte hij een bestaand idee veel beter? Bij Van Eyck is het tweede het geval, en dat is minstens even knap. Bezoek het Lam Gods in Gent of zijn werken in het Groeningemuseum in Brugge en kijk van dichtbij naar de diepte in de kleuren.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Dunne lagen olieverf (glacis)</text><rect x=\"60\" y=\"80\" width=\"240\" height=\"14\" fill=\"rgba(255,209,102,0.18)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"60\" y=\"94\" width=\"240\" height=\"14\" fill=\"rgba(255,209,102,0.24)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"60\" y=\"108\" width=\"240\" height=\"14\" fill=\"rgba(255,209,102,0.30)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"60\" y=\"122\" width=\"240\" height=\"30\" fill=\"rgba(255,255,255,0.6)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"306\" y=\"98\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">glacis</text><text x=\"180\" y=\"172\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">witte grondlaag</text><path d=\"M120 40 L170 140 L220 40\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><circle r=\"5\" fill=\"#ffd166\"><animateMotion path=\"M120 40 L170 140 L220 40\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><text x=\"96\" y=\"48\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">licht in</text><text x=\"228\" y=\"48\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">gloed terug</text><text x=\"180\" y=\"205\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">licht kaatst door de lagen heen</text></svg>",
+   "quiz": {
+    "q": "Wat deed Jan van Eyck echt met olieverf?",
+    "o": [
+     "Hij perfectioneerde de techniek met dunne lagen",
+     "Hij vond olieverf als eerste uit",
+     "Hij verving olieverf door tempera"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "The Met: olieverf in de Lage Landen",
+     "u": "https://www.metmuseum.org/toah/hd/optg/hd_optg.htm"
+    },
+    {
+     "t": "Visit Gent: mythes over het Lam Gods",
+     "u": "https://visit.gent.be/en/blog/myth-busting-3-persistent-fallacies-about-ghent-altarpiece"
+    },
+    {
+     "t": "ESRF: olie in Bamiyan",
+     "u": "https://www.esrf.fr/news/general-old/general-2008/bamiyan"
+    },
+    {
+     "t": "Britannica: Jan van Eyck",
+     "u": "https://www.britannica.com/summary/Jan-van-Eyck"
+    }
+   ],
+   "date": "2026-11-25T05:45:17Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "De Chinese Muur zie je niet vanuit de ruimte",
+   "body": "De muur is grotendeels maar zo'n 5 tot 9 meter breed en heeft dezelfde kleur als het landschap. Vanuit het ISS, zo'n 400 kilometer hoog, is dat te smal voor het blote oog. Astronaut Leroy Chiao fotografeerde hem in 2004 met een telelens van 180 mm, maar zei dat hij hem zelf niet kon onderscheiden.",
+   "take": "Hoor je 'het enige bouwwerk dat je vanuit de ruimte ziet'? Antwoord gerust: steden 's nachts wel, de Chinese Muur met het blote oog niet.",
+   "deep": "## Hoe het werkt\n\nOf je iets ziet, hangt af van twee dingen: hoe breed het lijkt vanaf waar je kijkt, en hoeveel het afsteekt tegen de achtergrond. Een gezond oog onderscheidt ruwweg details van een boogminuut. Op 400 kilometer hoogte komt dat neer op zo'n honderd meter. Een muur van enkele meters breed valt daar ver onder. Daarbij komt dat de muur gebouwd is uit steen en aarde uit de omgeving en de vorm van de heuvels volgt. Hij heeft dus weinig contrast. Een snelweg of een vliegveld met een heel andere kleur valt makkelijker op.\n\n## Een voorbeeld\n\nStel je voor dat je vanop de Kemmelberg een touw van een paar centimeter dik probeert te zien dat ergens in de velden bij Ieper ligt. Het touw is lang genoeg, maar veel te smal, en het heeft de kleur van de grond. Zo ziet een astronaut de Chinese Muur. De lengte helpt niet: je oog heeft een minimale breedte nodig om iets op te pikken.\n\n## Wat onderzoek zegt\n\nNASA bracht in 2005 een artikel uit met de titel 'China's Wall Less Great in View from Space'. Daarin staat dat de muur vanuit een lage baan rond de aarde doorgaans niet met het blote oog te zien is, en zeker niet vanaf de maan. In de NASA-fotocatalogus staat foto ISS010-E-8497 van 24 november 2004, genomen door ISS-commandant Leroy Chiao met een lens van 180 mm. NASA noemt ze 'blijkbaar de eerste verifieerbare foto' van de muur vanuit een lage baan. Chiao zelf zei: hij staat op de foto, maar ik kan niet zeggen dat ik de muur heb onderscheiden. Ook de eerste Chinese astronaut, Yang Liwei, meldde dat hij de muur niet zag.\n\n## Nuance of misverstand\n\nDe mythe is ouder dan de ruimtevaart. Al in 1932 verspreidde een cartoon van 'Ripley's Believe It or Not!' het idee dat je de muur vanuit de ruimte kon zien, decennia voor iemand dat kon controleren. Helemaal zwart-wit is het niet: astronauten als Eugene Cernan en Ed Lu zeiden dat je hem bij uitzonderlijk goede omstandigheden nét kunt zien. Met camera's, telelenzen en radar lukt het wel.\n\n## Wat je ermee doet\n\nGebruik dit als test voor andere 'weetjes': kon iemand dat toen al echt controleren? De Chinese Muur-claim bestond al voor er één mens in de ruimte was. Wil je zelf zien wat astronauten wel herkennen, zoek dan foto's van steden bij nacht vanuit het ISS: de lichtjes van de Belgische steden en snelwegen springen er duidelijk uit.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Te smal om te zien vanuit de ruimte</text><path d=\"M20 200 Q180 160 340 200\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"/><path d=\"M20 70 Q180 30 340 70\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1\" stroke-dasharray=\"4 5\"/><rect x=\"-9\" y=\"-5\" width=\"18\" height=\"10\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"><animateMotion path=\"M20 70 Q180 30 340 70\" dur=\"8s\" repeatCount=\"indefinite\"/></rect><line x1=\"180\" y1=\"52\" x2=\"180\" y2=\"178\" stroke=\"#fff\" stroke-width=\"1\" stroke-dasharray=\"3 4\"/><text x=\"186\" y=\"118\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">ca. 400 km</text><text x=\"30\" y=\"92\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">ISS-baan</text><line x1=\"176\" y1=\"181\" x2=\"184\" y2=\"181\" stroke=\"#ff6b9d\" stroke-width=\"3\"/><text x=\"150\" y=\"212\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">muur: ca. 5 tot 9 m</text><text x=\"210\" y=\"212\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">oog: details van ca. 100 m</text></svg>",
+   "quiz": {
+    "q": "Waarom zie je de Chinese Muur vanuit het ISS niet met het blote oog?",
+    "o": [
+     "Het ISS vliegt nooit boven China",
+     "De muur ligt meestal onder wolken",
+     "Hij is te smal en heeft de kleur van het landschap"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "NASA: China's Wall Less Great in View from Space",
+     "u": "https://www.nasa.gov/wp-content/uploads/static/history/PDFs/great_wall_less_great_from_space.pdf"
+    },
+    {
+     "t": "NASA fotocatalogus ISS010-E-8497",
+     "u": "https://eol.jsc.nasa.gov/searchphotos/photo.pl?frame=8497&mission=ISS010&roll=E"
+    },
+    {
+     "t": "Scientific American",
+     "u": "https://www.scientificamerican.com/article/is-chinas-great-wall-visible-from-space/"
+    }
+   ],
+   "date": "2026-11-25T05:45:17Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Romeinen wasten hun toga's met urine, en betaalden belasting",
+   "body": "Romeinse wassers, de fullones, gebruikten oude urine: daarin verandert ureum in ammoniak, dat vet en vuil losmaakt. Keizer Vespasianus voerde rond 70 na Christus (opnieuw) een belasting op urine in. Toen zijn zoon Titus dat smerig vond, hield hij hem een munt onder de neus. Vandaar het gezegde 'pecunia non olet': geld stinkt niet.",
+   "take": "Ammoniak zit nog in veel schoonmaakmiddelen. Lees het etiket en meng het nooit met bleekwater: dat geeft giftige dampen.",
+   "deep": "## Hoe het werkt\n\nUrine bevat ureum. Laat je ze staan, dan breken bacteriën dat ureum af tot ammoniak, en de vloeistof wordt basisch. Een basische oplossing maakt vet los, net zoals zeep dat doet. De fullones zetten wollen kleding en toga's in kuipen met die oude urine, met water en soms een kleisoort, en stampten erop met hun voeten. Daarna werd de stof gespoeld, gekamd en eventueel gebleekt. Het resultaat: schonere en wittere wol. Ook leerlooiers gebruikten urine in hun werk.\n\n## Een voorbeeld\n\nIn Pompeii zijn verschillende wasserijen bewaard gebleven, met de Fullonica van Stephanus als bekendste. Je ziet er nog de kuipen waarin de wassers stonden te stampen. Vergelijk het met een wassalon in jouw buurt, maar dan zonder machines en met een flinke geur. Volgens populaire bronnen stonden er in de straten potten waarin voorbijgangers konden plassen, waarna de inhoud naar de wasserij ging.\n\n## Wat onderzoek zegt\n\nHet verhaal over Vespasianus komt van de Romeinse schrijver Suetonius, die rond het begin van de tweede eeuw keizerbiografieën schreef. Volgens hem vond Titus het ongepast om geld te verdienen aan urine. Vespasianus hield hem toen een munt uit de eerste opbrengst onder de neus en vroeg of die stonk. Titus zei nee. 'En toch komt ze van urine', antwoordde de keizer. De bekende Latijnse zin 'pecunia non olet' is dus een latere samenvatting, geen letterlijk citaat. Tot vandaag verwijzen woorden naar hem: in Frankrijk heet een openbaar urinoir een vespasienne, in Italië een vespasiano.\n\n## Nuance of misverstand\n\nHistorici zijn het niet eens over wie de belasting precies betaalde: alleen de wassers en leerlooiers die urine gebruikten, of een bredere groep. Recent archeologisch onderzoek nuanceert ook het beeld van een stad vol stinkende wasserijen. Een wetenschappelijk artikel over de fullones stelt dat de wasserijen in Pompeii hun buurt weinig overlast bezorgden, en dat er geen duidelijk bewijs is dat ze systematisch urine uit openbare latrines haalden. Dat de Romeinen urine gebruikten om te wassen, staat wel vast.\n\n## Wat je ermee doet\n\nOnthoud de chemie: ammoniak is een basische stof die vet losmaakt, en daarom zit ze nog in sommige ruitenreinigers en ontvetters. Gebruik zulke middelen met verluchting, en meng ze nooit met bleekwater (chloor), want samen vormen ze giftige gassen. En als iemand zegt dat geld niet stinkt, weet je nu dat het om een Romeinse keizer en een plaspot gaat.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Van urinaal naar witte toga</text><rect x=\"20\" y=\"80\" width=\"80\" height=\"50\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"60\" y=\"110\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">urine</text><rect x=\"140\" y=\"80\" width=\"80\" height=\"50\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"104\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ureum wordt</text><text x=\"180\" y=\"119\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ammoniak</text><rect x=\"260\" y=\"80\" width=\"80\" height=\"50\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"300\" y=\"104\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">vet los,</text><text x=\"300\" y=\"119\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">toga schoon</text><line x1=\"102\" y1=\"105\" x2=\"136\" y2=\"105\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M136 105 L129.7 108.0 L129.7 102.0 Z\" fill=\"#fff\"/><line x1=\"222\" y1=\"105\" x2=\"256\" y2=\"105\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M256 105 L249.7 108.0 L249.7 102.0 Z\" fill=\"#fff\"/><circle r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M60 132 L60 150 L300 150 L300 132\" dur=\"5s\" repeatCount=\"indefinite\"/></circle><g transform=\"translate(180,185)\"><ellipse rx=\"14\" ry=\"14\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"rx\" values=\"14;3;14\" dur=\"3s\" repeatCount=\"indefinite\"/></ellipse></g><text x=\"204\" y=\"189\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">belasting van Vespasianus</text></svg>",
+   "quiz": {
+    "q": "Waarom gebruikten Romeinse wassers oude urine?",
+    "o": [
+     "Urine kleurde de stof mooi geel",
+     "Uit ureum ontstaat ammoniak, dat vet losmaakt",
+     "Het was verplicht door Vespasianus"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "World History Encyclopedia: Roman fullers",
+     "u": "https://www.worldhistory.org/article/46/the-fullers-of-ancient-rome/"
+    },
+    {
+     "t": "Fullones and Roman society: a reconsideration",
+     "u": "https://www.researchgate.net/publication/287935693_Fullones_and_Roman_society_a_reconsideration"
+    }
+   ],
+   "date": "2026-11-25T05:45:17Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Je hart heeft zijn eigen ingebouwde pacemaker",
+   "body": "Bovenaan in je rechterboezem zit de sinusknoop. Die geeft in rust zo'n 60 tot 100 keer per minuut een elektrisch signaal. Dat loopt door de boezems naar de AV-knoop, die het ongeveer een tiende van een seconde ophoudt. Daarna jaagt de bundel van His het via de Purkinjevezels door de kamers, die samentrekken.",
+   "take": "Voel je pols na een trap: sneller dan in rust. Je zenuwstelsel stuurt je sinusknoop bij, je hart start zichzelf.",
+   "deep": "## Hoe het werkt\n\nElke hartslag begint in de sinusknoop, een klein groepje gespecialiseerde cellen bovenaan de rechterboezem. Die cellen laden zichzelf langzaam op tot ze vanzelf 'vuren'. Het signaal verspreidt zich over beide boezems, die samentrekken en bloed naar de kamers duwen. Dan komt het signaal bij de AV-knoop, tussen boezems en kamers. Die laat het ongeveer een tiende van een seconde wachten, zodat de boezems eerst leeg kunnen lopen. Daarna gaat het signaal via de bundel van His door het tussenschot naar beneden, splitst in een linker- en rechtertak, en verspreidt zich via de Purkinjevezels over de kamerwanden. De kamers knijpen samen en pompen het bloed naar je longen en je lichaam.\n\n## Een voorbeeld\n\nJe fietst 's ochtends naar school of werk, en net voor de brug moet je bergop. Je zenuwstelsel geeft de sinusknoop een seintje en die vuurt sneller: je hartslag stijgt. Bovenaan rust je even uit en de sinusknoop vertraagt weer. Op een hartfilmpje (ecg) zie je die stappen terug: een klein golfje voor de boezems en een hoge piek voor de kamers.\n\n## Wat onderzoek zegt\n\nVolgens de Cleveland Clinic is de sinusknoop de natuurlijke pacemaker van het hart en regelt het autonome zenuwstelsel hoe snel hij signalen stuurt. Cedars-Sinai beschrijft dat de sinusknoop 60 tot 100 keer per minuut een elektrisch signaal maakt. Een fysiologie-overzicht van de University of Minnesota legt uit waarom net de sinusknoop de leiding neemt: ook de AV-knoop en de Purkinjevezels kunnen zelf prikkels maken, maar trager. Voor de AV-knoop is dat ongeveer 40 tot 60 per minuut, voor de Purkinjevezels zo'n 15 tot 40. De snelste klok wint en zet de andere telkens op tijd.\n\n## Nuance of misverstand\n\nJe hart heeft dus geen bevel van je hersenen nodig om te kloppen; je zenuwstelsel stuurt alleen het tempo bij. Een kunstmatige pacemaker vervangt dit systeem niet volledig: hij springt bij als de sinusknoop te traag werkt of als het signaal onderweg blokkeert. En een rustpols onder de zestig is niet automatisch slecht; bij goed getrainde sporters komt dat vaak voor. Twijfel je, laat het dan nakijken door je huisarts.\n\n## Wat je ermee doet\n\nLeer je rustpols kennen: tel 's ochtends in bed je hartslag gedurende dertig seconden en verdubbel. Zo merk je sneller wanneer iets afwijkt, bijvoorbeeld een opvallend snelle pols bij koorts of stress. Voel je je hart vaak overslaan, fladderen of plots heel snel slaan zonder reden, ga dan langs bij je huisarts: een ecg toont meteen of het signaal netjes zijn route volgt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Zo loopt de stroomstoot door je hart</text><path d=\"M180 45 C120 20 60 60 80 120 C100 170 160 200 180 210 C200 200 260 170 280 120 C300 60 240 20 180 45 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M110 60 L180 110 L180 150 M180 150 L130 195 M180 150 L240 195\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"3\" stroke-dasharray=\"10 190\"><animate attributeName=\"stroke-dashoffset\" values=\"200;0\" dur=\"2s\" repeatCount=\"indefinite\"/></path><circle cx=\"110\" cy=\"60\" r=\"7\" fill=\"#ff6b9d\"><animate attributeName=\"r\" values=\"5;9;5\" dur=\"1s\" repeatCount=\"indefinite\"/></circle><circle cx=\"180\" cy=\"110\" r=\"6\" fill=\"#06d6a0\"/><text x=\"102\" y=\"52\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">sinusknoop</text><text x=\"190\" y=\"108\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">AV-knoop: even wachten</text><text x=\"188\" y=\"146\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">bundel van His</text><text x=\"300\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Purkinjevezels</text></svg>",
+   "quiz": {
+    "q": "Waarom houdt de AV-knoop het signaal even op?",
+    "o": [
+     "Zodat je hersenen kunnen beslissen",
+     "Om energie te sparen voor de volgende slag",
+     "Zodat de boezems eerst leeg lopen in de kamers"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Cleveland Clinic: Heart Conduction System",
+     "u": "https://my.clevelandclinic.org/health/body/21648-heart-conduction-system"
+    },
+    {
+     "t": "Cedars-Sinai: Electrical System of the Heart",
+     "u": "https://www.cedars-sinai.org/health-topics/anatomy-and-function-of-the-heart-s-electrical-system"
+    },
+    {
+     "t": "University of Minnesota: Conduction System",
+     "u": "https://www.vhlab.umn.edu/atlas/conduction-system-tutorial/overview-of-cardiac-conduction.shtml"
+    }
+   ],
+   "date": "2026-11-25T05:45:17Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Je rode bloedcellen gaan maar vier maanden mee",
+   "body": "Een rode bloedcel heeft geen kern en leeft gemiddeld zo'n 120 dagen. Je beenmerg maakt er ongeveer twee miljoen per seconde bij. Oude, stijve cellen blijven haken in de nauwe gangetjes van je milt, waar opruimcellen (macrofagen) ze opeten. Het ijzer gaat terug naar het beenmerg; de rest wordt bilirubine.",
+   "take": "Je lichaam recyclet ijzer zuinig. Voel je je lang moe en bleek, vraag je huisarts dan om een bloedtest op bloedarmoede.",
+   "deep": "## Hoe het werkt\n\nRode bloedcellen ontstaan in je beenmerg. Tijdens het rijpen stoten ze hun kern uit, zodat er meer plaats is voor hemoglobine, het eiwit dat zuurstof draagt. Zonder kern kunnen ze zichzelf niet herstellen. Na een paar maanden worden ze stijver. Je milt werkt als een fijne zeef: soepele cellen wringen zich door de smalle doorgangen, oude cellen blijven steken. Daar eten macrofagen ze op. Ze halen het ijzer uit de heemgroep en geven het terug aan het bloed, zodat het beenmerg er nieuwe cellen mee kan maken. De rest van het heem wordt omgezet in bilirubine. De lever haalt dat uit het bloed en stuurt het via de gal naar je darm.\n\n## Een voorbeeld\n\nReken even mee: twee miljoen cellen per seconde is ongeveer 170 miljard nieuwe rode bloedcellen per dag. Terwijl je deze kaart leest, heeft je beenmerg er dus al tientallen miljoenen bijgemaakt. Tegelijk worden er even veel opgeruimd. Je bloed lijkt elke dag hetzelfde, maar het is een rivier die voortdurend ververst.\n\n## Wat onderzoek zegt\n\nEen open anatomieleerboek van Oregon State University vermeldt dat rode bloedcellen gemiddeld 120 dagen leven en daarom voortdurend vervangen moeten worden. Volgens hetzelfde soort handboeken maakt het beenmerg er ongeveer twee miljoen per seconde. Macrofagen in vooral beenmerg, lever en milt ruimen de versleten cellen op. Een overzichtsartikel uit 2021 in Frontiers in Physiology bevestigt de gemiddelde levensduur van ongeveer 120 dagen in de bloedsomloop. Andere bronnen schatten dat het lichaam dagelijks zo'n 20 tot 25 milligram ijzer hergebruikt.\n\n## Nuance of misverstand\n\nHet beeld 'de milt doet alles' is te simpel. Ook de lever en het beenmerg ruimen oude cellen op, en uit hetzelfde Frontiers-overzicht blijkt dat mensen zonder milt geen kortere levensduur van hun rode bloedcellen hebben: andere organen nemen het werk over. En 120 dagen is een gemiddelde; bij sommige vormen van bloedarmoede worden cellen veel sneller afgebroken. Dan stijgt soms ook het bilirubine in je bloed, wat je huid of oogwit geel kan kleuren.\n\n## Wat je ermee doet\n\nOmdat je lichaam het meeste ijzer recycleert, heb je uit je voeding maar een kleine aanvulling nodig. Toch lopen sommige mensen een tekort op, bijvoorbeeld door bloedverlies. Langdurige vermoeidheid, kortademigheid bij inspanning of een bleke huid zijn goede redenen om je huisarts een bloedtest te vragen. Een gele kleur van huid of ogen moet je altijd laten nakijken.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">De kringloop van een rode bloedcel</text><circle cx=\"180\" cy=\"120\" r=\"70\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"5 5\"/><ellipse rx=\"10\" ry=\"6\" fill=\"#ff6b9d\"><animateMotion path=\"M180 50 A70 70 0 1 1 179.9 50\" dur=\"8s\" repeatCount=\"indefinite\" rotate=\"auto\"/></ellipse><text x=\"180\" y=\"42\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">beenmerg: 2 miljoen per seconde</text><text x=\"258\" y=\"124\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">bloed:</text><text x=\"258\" y=\"138\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">ca. 120 dagen</text><text x=\"180\" y=\"206\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">milt: oude cel opgegeten</text><text x=\"102\" y=\"124\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">ijzer terug</text><text x=\"102\" y=\"138\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">naar beenmerg</text></svg>",
+   "quiz": {
+    "q": "Wat gebeurt er met het ijzer uit een oude rode bloedcel?",
+    "o": [
+     "Het wordt hergebruikt voor nieuwe bloedcellen",
+     "Het verlaat je lichaam via de urine",
+     "Het blijft voorgoed opgeslagen in de milt"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Oregon State: Erythrocytes",
+     "u": "https://open.oregonstate.education/anatomy2e/chapter/erythrocytes/"
+    },
+    {
+     "t": "Frontiers in Physiology (2021)",
+     "u": "https://www.frontiersin.org/articles/10.3389/fphys.2021.655393/full"
+    }
+   ],
+   "date": "2026-11-25T05:45:17Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Cafeïne geeft geen energie, het verstopt je vermoeidheid",
+   "body": "Hoe langer je wakker bent, hoe meer adenosine zich ophoopt in je hersenen. Die stof koppelt aan receptoren en zegt: tijd om te slapen. Cafeïne lijkt op adenosine, gaat op die receptoren zitten zonder ze te activeren, en blokkeert zo het slaapsignaal. Maar de adenosine verdwijnt niet: ze wacht gewoon.",
+   "take": "Gebruik koffie als hulpje, niet als vervanger van slaap. Plan na een korte nacht vroeg bedtijd, want de vermoeidheid blijft.",
+   "deep": "## Hoe het werkt\n\nJe hersencellen verbruiken energie, en daarbij komt adenosine vrij. Hoe langer je wakker bent, hoe meer adenosine er zich opstapelt. Die stof bindt aan adenosinereceptoren, vooral de types A1 en A2A, en remt zo de activiteit van wakker makende hersengebieden. Dat voel je als slaapdruk. Cafeïne heeft een structuur die op adenosine lijkt. Ze past in hetzelfde slot, maar draait de sleutel niet om. Zolang cafeïne op de receptor zit, kan adenosine haar boodschap niet doorgeven. Je voelt je wakkerder, terwijl de slaapdruk eigenlijk niet gedaald is.\n\n## Een voorbeeld\n\nJe studeert voor een examen in juni en drinkt om 15 uur een koffie. Na een halfuur voel je je scherper. Ondertussen blijft je brein adenosine aanmaken. Als de cafeïne later uitgewerkt is, komt al die opgespaarde adenosine in één keer bij de receptoren. Dat verklaart het bekende gevoel dat je plots 'instort' na een paar koppen.\n\n## Wat onderzoek zegt\n\nEen studie uit 2021 in Nature Communications, bij muizen, vat het samen: de opstapeling van adenosine hangt sterk samen met de nood aan slaap, en cafeïne gaat het detecteren van die slaapdruk tegen. De wekkende effecten lopen volgens de auteurs via de blokkade van adenosinereceptoren, ook al heeft cafeïne nog andere doelwitten. Hetzelfde team toonde dat stoffen die A1- en A2A-receptoren blokkeren, zoals cafeïne, ook de biologische klok kunnen verschuiven. De American Academy of Sleep Medicine legt op haar voorlichtingssite uit dat cafeïne adenosine blokkeert en zo de slaap verstoort.\n\n## Nuance of misverstand\n\nCafeïne geeft je dus geen extra energie zoals voedsel dat doet. Ze schakelt het signaal 'je bent moe' tijdelijk uit. Dat is handig om alert te blijven, maar het herstel dat slaap biedt, krijg je er niet mee. Ook kan cafeïne die je laat op de dag drinkt je slaap verstoren, ook als je wel inslaapt. Wie elke dag veel koffie drinkt, voelt het effect bovendien minder sterk, omdat het lichaam went.\n\n## Wat je ermee doet\n\nZie koffie als een leninkje op je slaap. Drink ze liefst vroeg op de dag, zodat ze uitgewerkt is tegen bedtijd. Na een korte nacht helpt een koffie je door de ochtend, maar plan die avond extra slaap, want de adenosine van gisteren wacht nog. En merk je dat je zonder koffie niet meer functioneert, dan is dat eerder een slaapprobleem dan een koffieprobleem.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Cafeine bezet het slot van adenosine</text><path d=\"M64 160 L64 130 L74 130 L74 145 L86 145 L86 130 L96 130 L96 160 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M134 160 L134 130 L144 130 L144 145 L156 145 L156 130 L166 130 L166 160 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M204 160 L204 130 L214 130 L214 145 L226 145 L226 130 L236 130 L236 160 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M274 160 L274 130 L284 130 L284 145 L296 145 L296 130 L306 130 L306 160 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"140\" y=\"132\" width=\"20\" height=\"13\" fill=\"#ffd166\"><animate attributeName=\"y\" values=\"70;132;132;70\" keyTimes=\"0;0.3;0.8;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><rect x=\"210\" y=\"132\" width=\"20\" height=\"13\" fill=\"#ffd166\"><animate attributeName=\"y\" values=\"70;70;132;132;70\" keyTimes=\"0;0.2;0.5;0.8;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><circle cx=\"80\" cy=\"140\" r=\"7\" fill=\"#06d6a0\"/><circle cx=\"290\" cy=\"85\" r=\"7\" fill=\"#06d6a0\"><animate attributeName=\"cy\" values=\"80;90;80\" dur=\"2s\" repeatCount=\"indefinite\"/></circle><text x=\"80\" y=\"180\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">adenosine:</text><text x=\"80\" y=\"194\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">je wordt moe</text><text x=\"185\" y=\"180\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">cafeine: slot dicht</text><text x=\"290\" y=\"180\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">adenosine</text><text x=\"290\" y=\"194\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">wacht</text></svg>",
+   "quiz": {
+    "q": "Wat doet cafeïne met adenosine in je hersenen?",
+    "o": [
+     "Ze breekt adenosine sneller af",
+     "Ze blokkeert de receptoren waarop adenosine moet binden",
+     "Ze zet adenosine om in energie"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Nature Communications (2021)",
+     "u": "https://www.nature.com/articles/s41467-021-22179-z"
+    },
+    {
+     "t": "AASM Sleep Education: Sleep and Caffeine",
+     "u": "https://sleepeducation.org/sleep-caffeine/"
+    }
+   ],
+   "date": "2026-11-25T05:45:17Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Het woord 'gas' werd in Brussel bedacht",
+   "body": "De Brusselse arts en chemicus Jan Baptista van Helmont (1580-1644) bedacht het woord 'gas', naar het Griekse 'chaos'. Het verscheen in 1648 in zijn verzamelwerk Ortus medicinae, door zijn zoon uitgegeven. Hij merkte dat brandende houtskool en gistend druivensap hetzelfde 'wilde' gas afgaven: wat wij koolstofdioxide noemen.",
+   "take": "Zeg 'gas' tegen een Spanjaard, Japanner of Engelstalige: je gebruikt een woord dat een Brusselaar uitvond.",
+   "deep": "## Hoe het werkt\n\nVoor Van Helmont sprak men vaag over 'lucht' of 'geesten' die uit stoffen kwamen. Van Helmont zag dat bij verbranding en gisting een onzichtbare stof vrijkwam die zich anders gedroeg dan gewone lucht. Hij zocht er een nieuw woord voor en greep naar het Griekse chaos, de vormeloze oertoestand. In het Grieks begint dat woord met een keelklank, die dicht bij onze Nederlandse g ligt. Zo werd chaos in zijn pen 'gas'. Hij onderscheidde verschillende soorten, zoals 'gas sylvestre', het wilde gas van brandende houtskool en gistende wijn.\n\n## Een voorbeeld\n\nVan Helmont woonde en werkte in Vilvoorde, waar hij in 1644 stierf. Zijn bekendste proef: hij plantte een wilgje van ongeveer vijf pond in een pot met tweehonderd pond gedroogde aarde en gaf alleen water. Na vijf jaar woog de boom zo'n 169 pond, terwijl de aarde nauwelijks lichter was geworden. Hij besloot dat de boom bijna helemaal uit water bestond. Ironisch: het gas dat hij zelf had beschreven, koolstofdioxide uit de lucht, was de grote vergeten bouwsteen.\n\n## Wat onderzoek zegt\n\nBritannica beschrijft Van Helmont als Vlaams arts, filosoof en chemicus die het bestaan van afzonderlijke gassen erkende en koolstofdioxide identificeerde. Volgens Britannica bedacht hij het woord gas, afgeleid van chaos, en ontdekte hij dat de 'wilde geesten' van brandende houtskool en gistend druivensap dezelfde waren. Oxford Reference vermeldt dat zijn zoon zijn verzamelde geschriften in 1648 uitgaf als Ortus medicinae, en dat hij de term 'gas' in de taal bracht. De Linda Hall Library in Kansas City noemt hem in haar reeks 'Scientist of the Day'.\n\n## Nuance of misverstand\n\nNiet iedereen is het eens over de precieze herkomst. Sommige bronnen opperen een verband met een Nederlands woord voor gisten of opborrelen. De koppeling met chaos is wel de klassieke uitleg en die gaf Van Helmont zelf. Hij was ook geen moderne chemicus: hij maakte nog geen goed onderscheid tussen koolstofdioxide en koolstofmonoxide, en zijn denken was doordrongen van mystieke ideeën. Toch was zijn idee van aparte gassen een belangrijke stap.\n\n## Wat je ermee doet\n\nVertel het verhaal de volgende keer dat iemand zegt dat België niets aan de wetenschap heeft bijgedragen. En kijk eens naar andere woorden die iemand bewust heeft bedacht, zoals 'robot' of 'vaccin': vaak zit er een verrassend verhaal achter. Wie in Vilvoorde of Brussel woont, kan op zoek gaan naar de plekken waar Van Helmont leefde.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Van chaos naar gas</text><path d=\"M65 60 L65 100 L45 170 L115 170 L95 100 L95 60\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"80\" cy=\"150\" r=\"4\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"><animate attributeName=\"cy\" values=\"150;70\" dur=\"3s\" begin=\"0s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;0\" dur=\"3s\" begin=\"0s\" repeatCount=\"indefinite\"/></circle><circle cx=\"95\" cy=\"150\" r=\"3\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"><animate attributeName=\"cy\" values=\"150;70\" dur=\"3.5s\" begin=\"1s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;0\" dur=\"3.5s\" begin=\"1s\" repeatCount=\"indefinite\"/></circle><circle cx=\"70\" cy=\"150\" r=\"5\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"><animate attributeName=\"cy\" values=\"150;70\" dur=\"4s\" begin=\"2s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;0\" dur=\"4s\" begin=\"2s\" repeatCount=\"indefinite\"/></circle><text x=\"80\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">gistend druivensap</text><text x=\"170\" y=\"80\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\">Grieks: chaos</text><line x1=\"200\" y1=\"92\" x2=\"200\" y2=\"122\" stroke=\"#ffd166\" stroke-width=\"2\"/><path d=\"M200 122 L197.0 115.7 L203.0 115.7 Z\" fill=\"#ffd166\"/><text x=\"170\" y=\"145\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\">Van Helmont: gas</text><text x=\"170\" y=\"170\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">(1648, Ortus medicinae)</text></svg>",
+   "quiz": {
+    "q": "Van welk Grieks woord leidde Van Helmont 'gas' af?",
+    "o": [
+     "Gaia",
+     "Gasteros",
+     "Chaos"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Britannica: Jan Baptista van Helmont",
+     "u": "https://www.britannica.com/biography/Jan-Baptista-van-Helmont"
+    },
+    {
+     "t": "Oxford Reference: Van Helmont",
+     "u": "https://www.oxfordreference.com/display/10.1093/oi/authority.20110803095929616"
+    },
+    {
+     "t": "Linda Hall Library",
+     "u": "https://www.lindahall.org/about/news/scientist-of-the-day/joan-baptista-van-helmont/"
+    }
+   ],
+   "date": "2026-11-25T05:45:17Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Waarom we ij én ei schrijven voor één klank",
+   "body": "De ij was oorspronkelijk een lange i, geschreven als 'ii'; de tweede i kreeg een haaltje en werd zo een j. De ei kwam uit een e-klank. Tussen 1500 en 1700 verschoof de uitspraak van de lange i naar 'ei', en rond 1700 vielen beide klanken samen. De spelling bleef gewoon staan.",
+   "take": "Twijfel je tussen ij en ei? Denk aan het Engels of Duits: 'wine' en 'Wein' horen bij wijn, met ij.",
+   "deep": "## Hoe het werkt\n\nIn het Middelnederlands klonk 'wijn' ongeveer als 'wien', met een lange i. Schrijvers noteerden die lange klank op verschillende manieren, onder meer als ii. Omdat ii in handschrift gemakkelijk op een u leek, kreeg de tweede i een staartje en groeide zo uit tot ij. Intussen bestond er een heel andere klank, de ei, die teruggaat op een e-klank. Vanaf de zestiende eeuw veranderde de lange i stilaan in een tweeklank. Rond 1700 klonken ij en ei in de standaardtaal hetzelfde. Maar de spelling was toen al ingeburgerd en veranderde niet mee.\n\n## Een voorbeeld\n\nGa naar West-Vlaanderen en je hoort het oude verschil nog. Veel West-Vlamingen zeggen 'mien' voor mijn en 'wien' voor wijn. Daar leeft de middeleeuwse lange i nog. Ook paren als peil en pijl, of reizen en rijzen, tonen dat het om twee aparte woorden gaat, met elk een eigen geschiedenis.\n\n## Wat onderzoek zegt\n\nOnze Taal legt in zijn Taalloket uit dat de ij in feite bestaat uit twee keer een i, en dat de uitspraak tussen 1500 en 1700 verschoof naar ei, waarna rond 1700 de uitspraak van ei en ij samenviel. Taaladvies.net, de gezamenlijke taaladviesdienst van Nederland en Vlaanderen, behandelt de ij ook als een aparte letter met eigen regels, onder meer bij het alfabetiseren. In Onze Taal van 1986, te lezen via de Digitale Bibliotheek voor de Nederlandse Letteren (DBNL), staat dat ij en ei pas na de vijftiende eeuw dezelfde klank kregen. Taalkundige Adriaan Kluit legde in 1763 vast dat de y voor de ie-klank in leenwoorden dient, zoals in cyclus.\n\n## Nuance of misverstand\n\nDe ij heet soms 'lange ij' en de ei 'korte ei', maar die namen zeggen niets over de klank: ze klinken even lang. 'Lang' slaat op het staartje onder de letter. Ook is ij niet hetzelfde als y. In Nederland zeggen veel mensen 'Griekse ij' voor de y, maar in het Nederlands schrijf je de ei-klank nooit met een y, behalve in sommige oude familienamen.\n\n## Wat je ermee doet\n\nGebruik verwante talen als geheugensteun. Waar het Engels een lange i schrijft die als 'aai' klinkt, zoals in wine, time en ice, schrijven wij meestal ij: wijn, tijd, ijs. Bij ei-woorden past die truc niet: klein is verwant met het Engelse clean. Werkt dat niet, zoek het dan op in het Groene Boekje of op woordenlijst.org.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Twee klanken smolten samen</text><text x=\"20\" y=\"70\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">ij = lange i</text><text x=\"20\" y=\"150\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">ei = e + i</text><path d=\"M110 66 C200 66 210 110 260 110\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"6 4\"><animate attributeName=\"stroke-dashoffset\" values=\"40;0\" dur=\"2s\" repeatCount=\"indefinite\"/></path><path d=\"M110 146 C200 146 210 110 260 110\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"6 4\"><animate attributeName=\"stroke-dashoffset\" values=\"40;0\" dur=\"2s\" repeatCount=\"indefinite\"/></path><circle cx=\"290\" cy=\"110\" r=\"26\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"r\" values=\"22;28;22\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><text x=\"290\" y=\"114\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ei-klank</text><text x=\"180\" y=\"195\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1500 tot 1700: uitspraak verschuift</text><text x=\"180\" y=\"211\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">spelling blijft</text></svg>",
+   "quiz": {
+    "q": "Waar komt de ij oorspronkelijk vandaan?",
+    "o": [
+     "Uit een lange i, geschreven als ii",
+     "Uit de Griekse y",
+     "Uit de Franse ei-klank"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Onze Taal: ij (oorsprong)",
+     "u": "https://onzetaal.nl/taalloket/ij-oorsprong-van-de-lange-ij"
+    },
+    {
+     "t": "Taaladvies.net: IJ, alfabetisering",
+     "u": "https://taaladvies.net/ij-alfabetisering/"
+    },
+    {
+     "t": "DBNL: Onze Taal 1986, ij = ei = ie?",
+     "u": "https://www.dbnl.org/tekst/_taa014198601_01/_taa014198601_01_0070.php"
+    }
+   ],
+   "date": "2026-11-25T05:45:17Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Boycotten heet zo naar een Britse kapitein in Ierland",
+   "body": "In 1880 was kapitein Charles Boycott rentmeester bij Lough Mask in het Ierse graafschap Mayo. Toen hij pachters wou uitzetten, riep Charles Parnell van de Land League op om zulke mensen niet met geweld, maar met stilte aan te pakken. Knechten vertrokken, winkels weigerden hem. Al snel werd zijn naam een werkwoord.",
+   "take": "Een boycot werkt door massa: één klant die wegblijft voelt niemand. Overleg met anderen voor je een bedrijf links laat liggen.",
+   "deep": "## Hoe het werkt\n\nEen boycot is een vorm van druk zonder geweld. Een gemeenschap spreekt af om iemand volledig te negeren: niet voor hem werken, niets aan hem verkopen, niet met hem praten. Het idee is dat de tegenpartij economisch en sociaal zo geïsoleerd raakt dat toegeven goedkoper wordt dan volhouden. De kracht zit in het aantal: hoe meer mensen meedoen, hoe groter de druk.\n\n## Een voorbeeld\n\nBoycott beheerde de gronden van Lord Erne. Volgens Britannica vroeg de Land League hem de pacht met 25 procent te verlagen. Hij weigerde en probeerde pachters uit te zetten. Daarop vertrokken zijn arbeiders en wilde niemand nog zaken met hem doen. Zijn oogst dreigde te verrotten. Toen kwamen er zo'n vijftig vrijwilligers, vooral oranjemannen uit Cavan en Monaghan, de oogst binnenhalen. Ze werden beschermd door soldaten en meer dan duizend politiemannen. Volgens schattingen kostte die operatie minstens 10.000 pond, om een oogst te redden van hooguit enkele honderden ponden.\n\n## Wat onderzoek zegt\n\nBritannica beschrijft Boycott als een gepensioneerde Britse legerkapitein die als rentmeester in Ierland werkte tijdens de landagitatie, en die zijn naam gaf aan het Engelse werkwoord en zelfstandig naamwoord 'boycott'. Parnell had in een toespraak opgeroepen om wie de eisen van de pachters niet volgde te mijden, zonder geweld. Boycott was het eerste bekende doelwit. Het woord sprong snel over naar andere talen, zoals ons boycot en het Franse boycotter.\n\n## Nuance of misverstand\n\nHet woord is geen uitvinding van Parnell zelf. Zijn bekende toespraak in Ennis, in september 1880, noemde geen naam. Volgens een lokale overlevering stelde een priester voor om het negeren naar Boycott te noemen, maar dat is niet goed gedocumenteerd. Ook ging het niet om een volledig vreedzame tijd: de landoorlog in Ierland kende wel degelijk geweld. De boycot was net bedoeld als alternatief daarvoor.\n\n## Wat je ermee doet\n\nWil je zelf een bedrijf of product boycotten, weet dan dat het effect vooral komt van grote aantallen en duidelijke eisen. Spreek af met anderen wat je precies vraagt en wanneer je stopt. En als je in het nieuws over een boycot leest, denk dan aan een stille boerderij aan Lough Mask, waar de oogst bijna verrotte omdat niemand nog wou helpen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Boycot: niemand werkt of handelt nog</text><circle cx=\"180\" cy=\"115\" r=\"6\" fill=\"#06d6a0\"><animateTransform attributeName=\"transform\" type=\"translate\" values=\"0 0;-110 -60;-110 -60;0 0\" keyTimes=\"0;0.4;0.8;1\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"180\" cy=\"115\" r=\"6\" fill=\"#06d6a0\"><animateTransform attributeName=\"transform\" type=\"translate\" values=\"0 0;110 -60;110 -60;0 0\" keyTimes=\"0;0.4;0.8;1\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"180\" cy=\"115\" r=\"6\" fill=\"#06d6a0\"><animateTransform attributeName=\"transform\" type=\"translate\" values=\"0 0;-120 50;-120 50;0 0\" keyTimes=\"0;0.4;0.8;1\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"180\" cy=\"115\" r=\"6\" fill=\"#06d6a0\"><animateTransform attributeName=\"transform\" type=\"translate\" values=\"0 0;120 50;120 50;0 0\" keyTimes=\"0;0.4;0.8;1\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"180\" cy=\"115\" r=\"6\" fill=\"#06d6a0\"><animateTransform attributeName=\"transform\" type=\"translate\" values=\"0 0;0 75;0 75;0 0\" keyTimes=\"0;0.4;0.8;1\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"180\" cy=\"115\" r=\"22\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"180\" y=\"119\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Boycott</text><text x=\"60\" y=\"45\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">knechten</text><text x=\"300\" y=\"45\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">winkels</text><text x=\"50\" y=\"182\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">handelaars</text><text x=\"310\" y=\"182\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">buren</text><text x=\"180\" y=\"212\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">het dorp</text></svg>",
+   "quiz": {
+    "q": "Waar komt het woord 'boycot' vandaan?",
+    "o": [
+     "Van een Franse vakbond in Parijs",
+     "Van rentmeester Charles Boycott in Ierland",
+     "Van een Amerikaans protest tegen thee"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Britannica: Charles Cunningham Boycott",
+     "u": "https://www.britannica.com/money/Charles-Cunningham-Boycott"
+    }
+   ],
+   "date": "2026-11-25T05:45:17Z"
   }
  ],
  "dives": [
