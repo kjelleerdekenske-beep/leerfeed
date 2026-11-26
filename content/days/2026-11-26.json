@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T05:47:13Z",
+ "updated": "2026-11-26T05:51:12Z",
  "cards": [
   {
    "cat": "wetenschap",
@@ -572,6 +572,302 @@
     }
    ],
    "date": "2026-11-26T05:47:13Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Je wasmiddel en glas danken veel aan een Brusselaar",
+   "body": "Ernest Solvay ontwikkelde in 1861 een manier om soda (natriumcarbonaat) te maken uit zout, kalksteen en ammoniak. In 1863 bouwden hij en zijn broer Alfred een fabriek in Couillet bij Charleroi; de productie startte rond 1865. Soda is een basisgrondstof voor glas, zeep en wasmiddel. Met de winst financierde Solvay later de beroemde Solvayconferenties voor natuurkundigen.",
+   "take": "Zie je een glazen fles? Grote kans dat er soda volgens het Solvayprocedé in verwerkt zit.",
+   "deep": "## Hoe het werkt\n\nSoda maak je in het Solvayprocedé uit twee goedkope grondstoffen: pekel (zout water) en kalksteen. Eerst los je ammoniak op in de pekel. Dan blaas je koolstofdioxide door die vloeistof, dat je wint door kalksteen te verhitten. Daarbij slaat natriumbicarbonaat neer, het spul dat je kent als bakpoeder. Dat filter je af en verhit je, waardoor het soda wordt. Het slimme deel: de ammoniak wordt teruggewonnen en opnieuw gebruikt. Dat maakte het procedé veel goedkoper en minder vervuilend dan de oudere Leblancmethode.\n\n## Een voorbeeld\n\nHet glas van je vensterramen en flessen bestaat grotendeels uit zand, soda en kalk. Soda verlaagt het smeltpunt van zand, zodat je het met minder energie kunt smelten. Ook in waspoeder en zeep zit soda. Toen het Solvayprocedé goedkope soda opleverde, werd glas betaalbaarder.\n\n## Wat onderzoek zegt\n\nVolgens het Science History Institute vroeg Ernest Solvay in 1861, net voor zijn 23ste verjaardag, een octrooi aan op een sodaprocedé met zout, ammoniak en koolzuur. Dat octrooi werd ongeldig verklaard omdat chemici de reactie in theorie al kenden: Augustin Fresnel had al in 1811 gezien dat bicarbonaat neerslaat in ammoniakhoudende pekel. Solvays verdienste was een werkende industriële installatie. Encyclopedia.com meldt dat de broers in 1863 een fabriek bouwden in Couillet en dat de productie in 1865 startte. Daarna verleende Solvay licenties in het buitenland, onder meer in 1884 voor een fabriek in Solvay, New York.\n\n## Nuance of misverstand\n\nSolvay 'vond' de chemie dus niet uit; hij maakte ze rendabel op grote schaal. Dat onderscheid tussen uitvinding en innovatie zie je vaak in de geschiedenis. Het procedé was ook niet zonder afval: er blijft veel calciumchloride over.\n\n## Wat je ermee doet\n\nBezoek de Solvaybibliotheek in het Brusselse Leopoldpark of lees over de Solvayconferentie van 1927, met Einstein, Curie en Bohr op één foto. En onthoud de les: een idee wordt pas waardevol als iemand het betaalbaar laat werken.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Pekel + kalk = soda</text><rect x=\"20\" y=\"60\" width=\"80\" height=\"36\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"60\" y=\"83\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">pekel + NH₃</text><rect x=\"20\" y=\"140\" width=\"80\" height=\"36\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"60\" y=\"163\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">kalksteen</text><rect x=\"150\" y=\"95\" width=\"70\" height=\"46\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"185\" y=\"115\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">toren</text><text x=\"185\" y=\"131\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">CO₂ erin</text><rect x=\"270\" y=\"95\" width=\"70\" height=\"46\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"305\" y=\"123\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">soda</text><line x1=\"100\" y1=\"78\" x2=\"144.6\" y2=\"105.9\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M148 108 L141.0 107.2 L144.3 102.1 Z\" fill=\"#fff\"/><line x1=\"100\" y1=\"158\" x2=\"144.6\" y2=\"130.1\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M148 128 L144.3 133.9 L141.0 128.8 Z\" fill=\"#fff\"/><line x1=\"220\" y1=\"118\" x2=\"264.0\" y2=\"118.0\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M268 118 L261.7 121.0 L261.7 115.0 Z\" fill=\"#fff\"/><path d=\"M185 141 C 185 200, 60 200, 60 100\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" from=\"24\" to=\"0\" dur=\"3s\" repeatCount=\"indefinite\"/></path><text x=\"130\" y=\"205\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ammoniak terug</text></svg>",
+   "quiz": {
+    "q": "Wat maakte Solvays procedé goedkoper dan het oudere?",
+    "o": [
+     "Het gebruikte goud als katalysator",
+     "De ammoniak werd teruggewonnen",
+     "Het werkte zonder warmte"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Science History Institute: Making the process",
+     "u": "https://www.sciencehistory.org/stories/magazine/making-the-process/"
+    },
+    {
+     "t": "Encyclopedia.com: Ernest Solvay",
+     "u": "https://encyclopedia.com/people/science-and-technology/chemistry-biographies/ernest-solvay"
+    },
+    {
+     "t": "Britannica: ammonia-soda process",
+     "u": "https://www.britannica.com/technology/ammonia-soda-process"
+    }
+   ],
+   "date": "2026-11-26T05:51:11Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Je kon vroeger te voet van Vlaanderen naar Engeland",
+   "body": "Tijdens de laatste ijstijd lag de zeespiegel veel lager en was de zuidelijke Noordzee land: Doggerland, met rivieren, moerassen en jagers. Door smeltend ijs steeg de zee. Rond 8.150 jaar geleden raasde een tsunami, veroorzaakt door de Storegga-aardverschuiving bij Noorwegen, over het gebied. Tegen ongeveer 7.000 jaar geleden was Doggerland volledig onder water verdwenen.",
+   "take": "Op het strand een fossiel bot gevonden? Melden: in de Noordzee duiken echt ijstijdresten op.",
+   "deep": "## Hoe het werkt\n\nTijdens een ijstijd zit enorm veel water vast in ijskappen op land. Daardoor ligt de zeespiegel tientallen meters lager dan nu. Het ondiepe deel van de Noordzee viel droog en verbond Groot-Brittannië met het vasteland. Toen het klimaat ongeveer 12.000 jaar geleden opwarmde, smolten de ijskappen en steeg de zee, soms met meer dan een meter per eeuw. Laag land overstroomde eerst; hogere stukken werden eilanden. Het hoogste deel, de huidige Doggersbank, bleef het langst boven water.\n\n## Een voorbeeld\n\nVissers op Belgische en Nederlandse trawlers halen al meer dan honderd jaar botten van mammoeten, wolharige neushoorns en soms menselijke werktuigen boven. Aan de Zandmotor en op Belgische stranden vinden verzamelaars fossiele resten die met zandsuppleties uit zee werden opgespoten. Het zijn sporen van een landschap waar mensen ooit jaagden en visten.\n\n## Wat onderzoek zegt\n\nEen studie van Walker, Gaffney en collega's in het tijdschrift Antiquity (2020) onderzocht boorkernen uit het gebied. Ze bevestigden dat de tsunami van de Storegga-aardverschuiving rond 8.150 jaar geleden grote delen van Doggerland trof. Maar volgens hun interpretatie overleefde 'Dogger Island' met omliggende eilandjes die golf, en verdween het pas later door de verder stijgende zee. Tegen ongeveer 7.000 jaar geleden was Doggerland volgens de auteurs volledig onder water.\n\n## Nuance of misverstand\n\nDe tsunami was dus niet het ene moment waarop het land 'verzwolg'. De zeespiegelstijging was een proces van duizenden jaren, en de exacte timing en kracht van de tsunami blijven onderwerp van discussie. Ook 'te voet naar Engeland' moet je ruim lezen: het ging om een landschap van moerassen en rivieren, niet om een droge wandelroute.\n\n## Wat je ermee doet\n\nBekijk een kaart van de Noordzeebodem en zie hoe ondiep ze is: gemiddeld een paar tientallen meters. Het is een les over hoe snel kusten kunnen veranderen als het klimaat verschuift, en waarom zeespiegelstijging voor een laag land als het onze geen abstract probleem is.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Land wordt zee</text><path d=\"M40 60 L120 50 L130 110 L60 140 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"80\" y=\"96\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">VK</text><path d=\"M250 60 L330 50 L330 180 L240 170 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"290\" y=\"120\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">vasteland</text><rect x=\"120\" y=\"80\" width=\"130\" height=\"90\" rx=\"2\" fill=\"rgba(6,214,160,0.35)\" stroke=\"#06d6a0\" stroke-width=\"2\"><animate attributeName=\"fill\" values=\"rgba(6,214,160,0.35);rgba(100,160,255,0.45);rgba(6,214,160,0.35)\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><circle cx=\"185\" cy=\"110\" r=\"14\" fill=\"rgba(255,209,102,0.3)\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"r\" values=\"22;6;22\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><text x=\"185\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Doggerland: ijstijd → ± 7.000 jaar geleden</text><text x=\"185\" y=\"150\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Doggersbank</text></svg>",
+   "quiz": {
+    "q": "Wanneer was Doggerland volgens de onderzoekers volledig onder water?",
+    "o": [
+     "Rond 7.000 jaar geleden",
+     "In de Romeinse tijd",
+     "Rond 1.000 jaar geleden"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "University of Bradford: Doggerland tsunami",
+     "u": "https://bradford.ac.uk/news/archive/2020/doggerland-tsunami.php"
+    },
+    {
+     "t": "Smithsonian Magazine",
+     "u": "https://www.smithsonianmag.com/smart-news/tiny-islands-survived-tsunami-almost-separated-britain-europe-study-finds-180976430/"
+    }
+   ],
+   "date": "2026-11-26T05:51:11Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "België begon met een avondje opera",
+   "body": "Op 25 augustus 1830 speelde de Brusselse Muntschouwburg 'La Muette de Portici' van Daniel Auber, een opera over een opstand in Napels. Na het duet 'Amour sacré de la patrie' stroomde het publiek de straat op en sloot zich aan bij onrustige menigten. Het werd de start van de Belgische Revolutie tegen het Verenigd Koninkrijk der Nederlanden.",
+   "take": "Sta je ooit in De Munt? Je zit in de zaal waar een land zijn startschot kreeg.",
+   "deep": "## Hoe het werkt\n\nEen revolutie heeft zelden één oorzaak. In 1830 zat er veel spanning in de zuidelijke provincies van het Verenigd Koninkrijk der Nederlanden onder koning Willem I. Er waren klachten over taal, godsdienst, belastingen en ondervertegenwoordiging. Daar kwamen een slechte oogst, dure voeding en werkloosheid bovenop. In juli 1830 verjoegen Parijzenaars hun koning, en dat nieuws werkte aanstekelijk. Een opera over een volksopstand, met een lied over heilige vaderlandsliefde, was dan de lont in het kruitvat.\n\n## Een voorbeeld\n\nStel je de zaal voor: een galavoorstelling tijdens de feestelijkheden voor de koning. Op het podium roept het volk van Napels op tot verzet. Het publiek zingt in gedachten mee met 'Amour sacré de la patrie'. Buiten staat al volk te morren. Na afloop vermengen de operagangers zich met de menigte, en de nacht eindigt met rellen en plunderingen.\n\n## Wat onderzoek zegt\n\nDe opera was eerder verboden na onrust rond de Julirevolutie in Parijs, maar het verbod werd opgeheven voor de voorstelling van 25 augustus, tijdens de festiviteiten voor Willem I. De officiële Belgische overheidssite belgium.be beschrijft hoe de voorstelling uitliep op rellen. De gegoede burgerij vormde daarna milities om haar eigendom te beschermen, en uit die beweging groeide de revolutie. Op 4 oktober 1830 riep een voorlopig bewind de onafhankelijkheid uit.\n\n## Nuance of misverstand\n\nHet verhaal dat de opera de revolutie 'veroorzaakte', is te mooi. Historici wijzen erop dat opstandelingen de laatste feestdag al als startmoment voor ogen hadden, en dat de opera vooral het moment markeerde. Ook wanneer precies het publiek naar buiten liep, wordt verschillend verteld. Echte onafhankelijkheid kwam er pas stap voor stap: Nederland erkende België pas in 1839.\n\n## Wat je ermee doet\n\nLees een revolutieverhaal altijd met twee vragen: wat was het vonkje, en wat lag er al klaar om te ontvlammen? Dat helpt ook bij hedendaags nieuws over protesten: het directe aanleidinkje is zelden de echte oorzaak.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Vonk in een kruitvat</text><rect x=\"30\" y=\"60\" width=\"130\" height=\"90\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"95\" y=\"90\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">De Munt</text><text x=\"95\" y=\"108\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">25 aug 1830</text><text x=\"95\" y=\"132\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">♪ ♪<animate attributeName=\"opacity\" values=\"0.2;1;0.2\" dur=\"3s\" repeatCount=\"indefinite\"/></text><circle r=\"4\" fill=\"#ff6b9d\"><animateMotion path=\"M160 90 C 200 80, 230 120, 280 110\" dur=\"3s\" begin=\"0.0s\" repeatCount=\"indefinite\"/></circle><circle r=\"4\" fill=\"#ff6b9d\"><animateMotion path=\"M160 105 C 200 95, 230 130, 280 115\" dur=\"3s\" begin=\"0.6s\" repeatCount=\"indefinite\"/></circle><circle r=\"4\" fill=\"#ff6b9d\"><animateMotion path=\"M160 120 C 200 110, 230 140, 280 120\" dur=\"3s\" begin=\"1.2s\" repeatCount=\"indefinite\"/></circle><circle r=\"4\" fill=\"#ff6b9d\"><animateMotion path=\"M160 135 C 200 125, 230 150, 280 125\" dur=\"3s\" begin=\"1.7999999999999998s\" repeatCount=\"indefinite\"/></circle><circle cx=\"300\" cy=\"110\" r=\"30\" fill=\"rgba(255,209,102,0.2)\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"r\" values=\"20;34;20\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><text x=\"300\" y=\"114\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">straat</text><text x=\"180\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">spanning: oogst, taal, Parijs juli 1830</text></svg>",
+   "quiz": {
+    "q": "Welke opera speelde op 25 augustus 1830 in De Munt?",
+    "o": [
+     "La Muette de Portici",
+     "La Traviata",
+     "De Toverfluit"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "belgium.be: The Rebellion",
+     "u": "https://www.belgium.be/en/about_belgium/country/history/belgium_from_1830/foundation_and_growth/uprising"
+    },
+    {
+     "t": "Mental Floss: opera sparked revolution",
+     "u": "https://www.mentalfloss.com/article/556634/opera-sparked-revolution-belgium-mute-girl-of-portici"
+    },
+    {
+     "t": "Focus on Belgium",
+     "u": "https://focusonbelgium.be/en/facts/did-dumb-girl-portici-really-set-belgian-revolution-1830"
+    }
+   ],
+   "date": "2026-11-26T05:51:11Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Wordt een cijfer een doel, dan liegt het",
+   "body": "De Britse econoom Charles Goodhart zei in 1975 op een conferentie in Sydney dat elke statistische regelmaat de neiging heeft in te storten zodra je ze gebruikt om te sturen. Antropologe Marilyn Strathern vatte het in 1997 scherper samen: 'Wanneer een maatstaf een doel wordt, is het geen goede maatstaf meer.' Dat heet nu de wet van Goodhart.",
+   "take": "Stuur je op één cijfer, zoals verkochte stuks of bezoekers? Meet er altijd een tweede cijfer naast dat bedrog verraadt.",
+   "deep": "## Hoe het werkt\n\nEen cijfer is waardevol omdat het iets zegt over wat je echt wilt weten. Het aantal verkochte abonnementen zegt iets over klanttevredenheid, het aantal ingediende patches iets over productiviteit. Maar zodra mensen beloond of gestraft worden op dat cijfer, gaan ze het cijfer zelf optimaliseren in plaats van het onderliggende doel. Het verband tussen meting en werkelijkheid breekt. Goodhart zag dat in het monetair beleid: toen centrale banken de groei van een bepaalde geldhoeveelheid als doel namen, veranderden banken en bedrijven hun gedrag, en zei die maatstaf niets meer over de economie.\n\n## Een voorbeeld\n\nEen callcenter beloont medewerkers voor korte gesprekken. Resultaat: klanten worden sneller doorverbonden of afgekapt, en bellen terug. Het gemiddelde gesprek wordt korter, de klant is ontevredener. Of op school: als enkel de slaagpercentages tellen, oefent men vooral examentrucs. Een bekend historisch verhaal is dat van premies voor gedode cobra's die mensen aanzetten om cobra's te kweken, maar dat is moeilijk te bewijzen.\n\n## Wat onderzoek zegt\n\nGoodhart, toen adviseur bij de Bank of England, formuleerde zijn opmerking in 1975 in 'Problems of Monetary Management: The U.K. Experience', gepubliceerd door de Reserve Bank of Australia. De bekendste formulering komt van Marilyn Strathern in een artikel uit 1997 in European Review over audits in Britse universiteiten. De Amerikaanse sociaal-psycholoog Donald Campbell beschreef een gelijkaardig idee, de wet van Campbell, al rond 1969 tot 1976.\n\n## Nuance of misverstand\n\nDe wet zegt niet dat je niets mag meten. Zonder cijfers stuur je blind. Het gaat om het verschil tussen meten om te leren en meten om af te rekenen. Hoe sterker de beloning aan één cijfer hangt, hoe groter de verleiding om het te manipuleren.\n\n## Wat je ermee doet\n\nGebruik een set van cijfers die elkaar controleren: snelheid én kwaliteit, aantal én tevredenheid. Wissel van tijd tot tijd de maatstaven. En vraag bij elk doelcijfer: wat zou iemand doen om dit te halen zonder het echte doel te dienen?",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Meten om te leren of om af te rekenen</text><rect x=\"30\" y=\"70\" width=\"110\" height=\"50\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"85\" y=\"92\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">echt doel</text><text x=\"85\" y=\"108\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">tevreden klant</text><rect x=\"220\" y=\"70\" width=\"110\" height=\"50\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"275\" y=\"92\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">cijfer</text><text x=\"275\" y=\"108\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">korte gesprekken</text><line x1=\"140\" y1=\"95\" x2=\"220\" y2=\"95\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"stroke-dasharray\" values=\"0 0;8 6;80 80\" dur=\"5s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;1;0.1\" dur=\"5s\" repeatCount=\"indefinite\"/></line><rect x=\"220\" y=\"150\" width=\"110\" height=\"40\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0.25;1;1;0.25\" keyTimes=\"0;0.15;0.5;1\" dur=\"5s\" begin=\"2s\" repeatCount=\"indefinite\"/></rect><text x=\"275\" y=\"175\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">premie!</text><line x1=\"275\" y1=\"150\" x2=\"275.0\" y2=\"128.0\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><path d=\"M275 124 L278.0 130.3 L272.0 130.3 Z\" fill=\"#ff6b9d\"/><text x=\"180\" y=\"85\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">verband</text><text x=\"90\" y=\"170\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">verband breekt</text></svg>",
+   "quiz": {
+    "q": "Wie formuleerde in 1997 'Wanneer een maatstaf een doel wordt, is het geen goede maatstaf meer'?",
+    "o": [
+     "Charles Goodhart",
+     "Marilyn Strathern",
+     "Daniel Kahneman"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "MPRA: Goodhart's law paper (pdf)",
+     "u": "https://mpra.ub.uni-muenchen.de/98288/1/MPRA_paper_98288.pdf"
+    },
+    {
+     "t": "BMC: Goodhart's law",
+     "u": "https://www.bmc.com/blogs/goodharts-law/"
+    }
+   ],
+   "date": "2026-11-26T05:51:11Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Gedeelde weides gingen minder vaak kapot dan beweerd",
+   "body": "Garrett Hardin schreef in 1968 in Science 'The Tragedy of the Commons': mag iedereen vrij grazen op een gedeelde weide, dan raakt die uitgeput. Hij baseerde zich op een pamflet van econoom William Forster Lloyd uit 1833. Elinor Ostrom toonde met veldwerk dat gemeenschappen gedeelde bronnen vaak eeuwenlang goed beheren. Ze kreeg er in 2009 de Nobelprijs economie voor.",
+   "take": "Gedeelde koelkast, printer of budget? Spreek samen regels, controle en een lichte sanctie af.",
+   "deep": "## Hoe het werkt\n\nHet idee van Hardin is eenvoudig. Elke herder die één koe extra op de gemeenschappelijke weide zet, krijgt zelf de volle opbrengst van die koe. De schade, minder gras, wordt verdeeld over iedereen. Voor elke herder loont het dus om nog een koe toe te voegen, tot de weide kaal is. Persoonlijk verstandig gedrag leidt samen tot een ramp. Hardin besloot dat je zo'n gemeengoed moet privatiseren of door de overheid laten regelen.\n\n## Een voorbeeld\n\nDenk aan overbevissing in de Noordzee, of aan de koffiepot op kantoor die niemand bijvult. Maar denk ook aan Belgische en Nederlandse markegronden en meenten: gemeenschappelijke heide en bossen die dorpen eeuwenlang samen beheerden, met afspraken over hoeveel schapen elk gezin mocht laten grazen en wanneer.\n\n## Wat onderzoek zegt\n\nHardin publiceerde zijn essay in december 1968 in Science en gebruikte het vooral om te waarschuwen voor bevolkingsgroei. Later zei hij dat hij het beter 'de tragedie van het ongereguleerde gemeengoed' had genoemd. Elinor Ostrom bestudeerde wereldwijd echte gemeenschappen: Zwitserse alpenweides, Japanse bossen, irrigatiesystemen in Spanje en de Filipijnen. In 'Governing the Commons' (1990) beschreef ze ontwerpprincipes van wat werkt: duidelijke grenzen, regels die passen bij de plaats, inspraak van gebruikers, toezicht, sancties die oplopen, en snelle conflictoplossing. In 2009 kreeg ze als eerste vrouw de Nobelprijs economie.\n\n## Nuance of misverstand\n\nOstrom zei niet dat gemeengoed altijd goed afloopt. Sommige systemen falen, vooral als de groep groot en anoniem is, of als buitenstaanders vrij toegang hebben, zoals bij de oceaan of de atmosfeer. Ze toonde wel dat er naast markt en staat een derde weg bestaat: zelfbestuur.\n\n## Wat je ermee doet\n\nBij elke gedeelde bron, van een volkstuin tot een Slack-kanaal: bepaal wie erbij hoort, maak samen eenvoudige regels, zorg dat iemand opvolgt en spreek een milde maar echte sanctie af. Zo voorkom je dat goede bedoelingen eindigen in een kale weide.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Elke koe extra: winst voor één, kost voor allen</text><rect x=\"40\" y=\"50\" width=\"280\" height=\"120\" rx=\"8\" fill=\"rgba(6,214,160,0.3)\" stroke=\"#06d6a0\" stroke-width=\"2\"><animate attributeName=\"fill\" values=\"rgba(6,214,160,0.45);rgba(6,214,160,0.05);rgba(6,214,160,0.45)\" dur=\"8s\" repeatCount=\"indefinite\"/></rect><circle cx=\"80\" cy=\"110\" r=\"8\" fill=\"#fff\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0;0;1;1;0\" keyTimes=\"0;0.10;0.15;0.9;1\" dur=\"8s\" repeatCount=\"indefinite\"/></circle><circle cx=\"125\" cy=\"110\" r=\"8\" fill=\"#fff\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0;0;1;1;0\" keyTimes=\"0;0.22;0.27;0.9;1\" dur=\"8s\" repeatCount=\"indefinite\"/></circle><circle cx=\"170\" cy=\"110\" r=\"8\" fill=\"#fff\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0;0;1;1;0\" keyTimes=\"0;0.34;0.39;0.9;1\" dur=\"8s\" repeatCount=\"indefinite\"/></circle><circle cx=\"215\" cy=\"110\" r=\"8\" fill=\"#fff\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0;0;1;1;0\" keyTimes=\"0;0.46;0.51;0.9;1\" dur=\"8s\" repeatCount=\"indefinite\"/></circle><circle cx=\"260\" cy=\"110\" r=\"8\" fill=\"#fff\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0;0;1;1;0\" keyTimes=\"0;0.58;0.63;0.9;1\" dur=\"8s\" repeatCount=\"indefinite\"/></circle><circle cx=\"305\" cy=\"110\" r=\"8\" fill=\"#fff\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0;0;1;1;0\" keyTimes=\"0;0.70;0.75;0.9;1\" dur=\"8s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"195\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">zonder afspraken: uitgeput; met regels: duurzaam</text><text x=\"180\" y=\"70\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">gedeelde weide</text></svg>",
+   "quiz": {
+    "q": "Wat toonde Elinor Ostrom aan over gedeelde bronnen?",
+    "o": [
+     "Ze moeten altijd geprivatiseerd worden",
+     "Gemeenschappen kunnen ze vaak zelf goed beheren",
+     "Ze raken altijd uitgeput"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Indiana University: Ostrom Workshop",
+     "u": "https://ostromworkshop.indiana.edu/courses-teaching/teaching-tools/tragedy-commons/index.html"
+    },
+    {
+     "t": "Scientific American: commons revisited",
+     "u": "https://www.scientificamerican.com/blog/observations/the-tragedy-of-the-commons-revisited/"
+    }
+   ],
+   "date": "2026-11-26T05:51:12Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Black Friday heette eerst zo uit politie-ergernis",
+   "body": "De naam Black Friday komt niet van winkels die 'uit de rode cijfers' kwamen. Politieagenten in Philadelphia noemden de dag na Thanksgiving zo, eind jaren 1950 of begin jaren 1960: drukte van shoppers, toeristen en de legerfootballmatch de dag erna, en agenten die extra lang moesten werken. De boekhoudverklaring duikt volgens Snopes pas in 1981 op.",
+   "take": "Bij Black Friday-reclame morgen: de naam was ooit een klacht. Kijk kritisch naar de 'deals'.",
+   "deep": "## Hoe het werkt\n\nEen naam kan van betekenis veranderen als marketeers hem overnemen. In Philadelphia was de vrijdag na Thanksgiving een nachtmerrie voor de politie. Duizenden mensen kwamen naar de stad voor de eindejaarsaankopen, en op zaterdag volgde de jaarlijkse footballwedstrijd tussen de legerschool en de marineschool. Verkeer liep vast, winkeldiefstal nam toe en agenten mochten geen verlof nemen. Ze spraken smalend van Black Friday, en soms ook Black Saturday. 'Zwart' had in het Engels al lang een negatieve klank, denk aan Black Tuesday van de beurskrach van 1929.\n\n## Een voorbeeld\n\nHandelaars in Philadelphia hadden een hekel aan de naam en probeerden er 'Big Friday' van te maken. Dat sloeg niet aan. Later werd een positieve uitleg populair: winkels zouden die dag van rood (verlies) naar zwart (winst) gaan in hun boekhouding. Zo werd een klacht een verkoopverhaal. Vandaag zie je in Belgische winkelstraten en webshops 'Black Friday' en zelfs 'Black Week' of 'Black November'.\n\n## Wat onderzoek zegt\n\nVolgens de Philadelphia Inquirer en de feitencheckers van Snopes gebruikte de politie van Philadelphia de term al in 1961 in spottende zin. Andere bronnen, zoals ABC News, wijzen op teksten uit 1966. Taalkundige Ben Zimmer van NPR plaatst het ontstaan ook in de jaren 1960 in Philadelphia. Snopes vond het vroegste bekende gebruik van de boekhoudverklaring in 1981. History.com noemt die verklaring 'officieel goedgekeurd maar onjuist'.\n\n## Nuance of misverstand\n\nEen hardnekkige mythe beweert dat de naam iets met slavernij te maken heeft. Daar is geen bewijs voor; de bronnen wijzen eenduidig naar Philadelphia. Ook de beurscrisis van 'Black Friday' in 1869, toen de goudmarkt instortte, is een ander verhaal met dezelfde naam.\n\n## Wat je ermee doet\n\nAls je morgen deals ziet: vergelijk prijzen met enkele weken geleden, want consumentenorganisaties zoals Testaankoop vinden geregeld 'kortingen' op opgedreven prijzen. En onthoud: een slimme naam kan een slechte ervaring omdopen tot een feest. Merkverhalen zijn vaak achteraf bedacht.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Van politieklacht naar koopfeest</text><rect x=\"20\" y=\"60\" width=\"130\" height=\"60\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"85\" y=\"85\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Philadelphia</text><text x=\"85\" y=\"102\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">± 1961: drukte!</text><rect x=\"210\" y=\"60\" width=\"130\" height=\"60\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"275\" y=\"85\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1981: rood → zwart</text><text x=\"275\" y=\"102\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">verkoopverhaal</text><line x1=\"150\" y1=\"90\" x2=\"204.0\" y2=\"90.0\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M208 90 L201.7 93.0 L201.7 87.0 Z\" fill=\"#fff\"/><circle r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M20 170 L340 170\" dur=\"4s\" begin=\"0.0s\" repeatCount=\"indefinite\"/></circle><circle r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M20 170 L340 170\" dur=\"4s\" begin=\"0.8s\" repeatCount=\"indefinite\"/></circle><circle r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M20 170 L340 170\" dur=\"4s\" begin=\"1.6s\" repeatCount=\"indefinite\"/></circle><circle r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M20 170 L340 170\" dur=\"4s\" begin=\"2.4000000000000004s\" repeatCount=\"indefinite\"/></circle><circle r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M20 170 L340 170\" dur=\"4s\" begin=\"3.2s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">zelfde naam, nieuwe betekenis</text></svg>",
+   "quiz": {
+    "q": "Wie gebruikte de term Black Friday als eerste?",
+    "o": [
+     "Amerikaanse boekhouders",
+     "Politieagenten in Philadelphia",
+     "Een Brits warenhuis"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Snopes: Black Friday",
+     "u": "https://www.snopes.com/fact-check/black-friday-2"
+    },
+    {
+     "t": "Britannica: Why is it called Black Friday?",
+     "u": "https://www.britannica.com/story/why-is-it-called-black-friday"
+    },
+    {
+     "t": "NPR: Why Black Friday has dark roots",
+     "u": "https://www.npr.org/sections/thetwo-way/2012/11/21/165662876/why-black-friday-has-dark-roots"
+    }
+   ],
+   "date": "2026-11-26T05:51:12Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "De eerste kortingsbon was een gratis glas cola",
+   "body": "Volgens de tijdlijn van The Coca-Cola Company werden in 1887 voor het eerst bonnen gebruikt om Coca-Cola te promoten. Ondernemer Asa Candler verspreidde handgeschreven en later gedrukte tickets voor één gratis glas aan een frisdranktoog. Volgens een schatting kreeg tussen 1894 en 1913 één op negen Amerikanen zo een gratis cola: samen 8,5 miljoen glazen.",
+   "take": "Lanceer je iets nieuws? Laat mensen gratis proeven: de eerste ervaring verkoopt beter dan reclame.",
+   "deep": "## Hoe het werkt\n\nEen nieuw product heeft één groot probleem: niemand weet hoe het smaakt. Reclame kan nieuwsgierig maken, maar de echte drempel is de eerste aankoop. Een bon voor een gratis proef haalt die drempel weg. Voor de klant is er geen risico. Voor de verkoper is het een investering: wie het lekker vindt, komt terug en betaalt. Bovendien betaalde Candler de frisdrankverkopers in siroop terug, zodat zij Coca-Cola gingen voorraden en schenken. Zo bouwde de bon zowel vraag bij klanten als aanbod bij winkels.\n\n## Een voorbeeld\n\nJe kent het van de supermarkt: proeverijstandjes, gratis staaltjes in je brievenbus of 'eerste maand gratis' bij streamingdiensten. Ook een kortingsbon voor je eerste bestelling bij een maaltijdbox werkt zo. Het doel is niet die ene verkoop, maar een gewoonte.\n\n## Wat onderzoek zegt\n\nThe Coca-Cola Company vermeldt in haar eigen geschiedenis dat in 1887 voor het eerst bonnen werden gebruikt. Asa Candler, die het bedrijf overnam van uitvinder John Pemberton, liet duizenden bonnen voor een gratis glas verspreiden, onder meer per post en via verkopers. EBSCO Research Starters schat dat tussen 1894 en 1913 één op de negen Amerikanen een gratis Coca-Cola kreeg, in totaal 8,5 miljoen drankjes. Het verhaal wordt vaak omschreven als de eerste kortingsbon in de VS.\n\n## Nuance of misverstand\n\nBronnen verschillen over het precieze jaar van de eerste bon, tussen 1886 en 1888. En 'eerste coupon ooit' is moeilijk te bewijzen: handelaars gaven al eerder kortingen. Ook betekent een gratis proef niet automatisch succes: als het product tegenvalt, verspreid je net snel slechte ervaringen.\n\n## Wat je ermee doet\n\nWil je mensen iets laten proberen, maak de eerste stap gratis of heel goedkoop, maar zorg dat je product daarna overtuigt. Meet hoeveel proevers terugkomen als betalende klant: dat cijfer zegt meer dan het aantal uitgedeelde bonnen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Gratis proeven, later betalen</text><rect x=\"20\" y=\"80\" width=\"80\" height=\"44\" rx=\"4\" fill=\"rgba(255,209,102,0.2)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"60\" y=\"100\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">bon:</text><text x=\"60\" y=\"115\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1 gratis glas</text><path d=\"M170 70 L180 140 L210 140 L220 70 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"176\" y=\"100\" width=\"38\" height=\"0\" rx=\"1\" fill=\"#06d6a0\" stroke=\"#06d6a0\" stroke-width=\"2\"><animate attributeName=\"height\" values=\"0;38;38;0\" keyTimes=\"0;0.4;0.9;1\" dur=\"4s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"140;102;102;140\" keyTimes=\"0;0.4;0.9;1\" dur=\"4s\" repeatCount=\"indefinite\"/></rect><line x1=\"100\" y1=\"102\" x2=\"161.0\" y2=\"102.0\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M165 102 L158.7 105.0 L158.7 99.0 Z\" fill=\"#fff\"/><line x1=\"225\" y1=\"102\" x2=\"276.0\" y2=\"102.0\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M280 102 L273.7 105.0 L273.7 99.0 Z\" fill=\"#fff\"/><rect x=\"282\" y=\"80\" width=\"64\" height=\"44\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"314\" y=\"100\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">vaste</text><text x=\"314\" y=\"115\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">klant</text><text x=\"180\" y=\"180\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1894-1913: ± 8,5 miljoen gratis glazen</text></svg>",
+   "quiz": {
+    "q": "Waarvoor stond de eerste Coca-Cola-bon?",
+    "o": [
+     "10 procent korting op een fles",
+     "Eén gratis glas aan de toog",
+     "Een gratis rondleiding in de fabriek"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "The Coca-Cola Company: history",
+     "u": "https://www.coca-colacompany.com/about-us/history/the-asa-candler-era.html"
+    },
+    {
+     "t": "EBSCO: Pemberton introduces Coca-Cola",
+     "u": "https://www.ebsco.com/research-starters/history/pemberton-introduces-coca-cola"
+    }
+   ],
+   "date": "2026-11-26T05:51:12Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Of je verschil merkt, hangt af van het begin",
+   "body": "De Duitse fysioloog Ernst Weber liet in 1834 proefpersonen gewichten vergelijken. Het kleinste verschil dat ze merkten, was geen vast aantal gram maar een vaste verhouding. Wie 100 gram vasthoudt, voelt 3 gram extra; bij 1.000 gram heb je ongeveer 30 gram nodig. Gustav Fechner bouwde daarop verder. Dat heet de wet van Weber.",
+   "take": "Korting geven? Op een duur product valt 5 euro niet op; op een goedkoop product wel. Denk in procenten.",
+   "deep": "## Hoe het werkt\n\nJe zintuigen meten niet absoluut, maar relatief. Het 'net merkbare verschil' is de kleinste verandering die iemand in ongeveer de helft van de pogingen opmerkt. Weber ontdekte dat dat verschil meegroeit met de sterkte van de prikkel. De verhouding tussen beide, de Weberfractie, blijft min of meer gelijk. Voor gewicht ligt die rond een paar procent. Daardoor valt een kaars extra op in een donkere kamer, maar niet in een zonnige tuin.\n\n## Een voorbeeld\n\nJe koopt een broodje van 3 euro en ziet het geprijsd voor 4 euro: dat voelt als een grote stap. Bij een auto van 30.000 euro merk je 1 euro verschil niet eens, en zelfs 100 euro nauwelijks. Marketeers weten dat ook: een fabrikant kan een reep chocolade een paar gram lichter maken zonder dat klanten het merken, terwijl een prijsverhoging van enkele procenten sneller opvalt.\n\n## Wat onderzoek zegt\n\nVolgens Britannica beschreef Ernst Heinrich Weber het verband in 1834, op basis van proeven met het tillen van gewichten. Gustav Fechner werkte het in 1860 in 'Elemente der Psychophysik' uit tot een wiskundige formule die gevoelssterkte koppelt aan de logaritme van de prikkel: de wet van Weber-Fechner. Een standaardvoorbeeld in naslagwerken: bij een referentiegewicht van 100 gram ligt het net merkbare verschil rond 3 gram, bij 1.000 gram rond 30 gram.\n\n## Nuance of misverstand\n\nDe wet geldt bij benadering en vooral in het middenbereik van een zintuig. Bij heel zwakke of heel sterke prikkels klopt ze minder. Later stelde psycholoog Stanley Stevens een andere wiskundige vorm voor, de machtswet. De Weberfractie verschilt ook per zintuig: we merken kleine verschillen in toonhoogte veel beter op dan in geur.\n\n## Wat je ermee doet\n\nWil je dat een verandering opgemerkt wordt, zoals een loonsverhoging, een prijsverlaging of een verbetering, maak ze dan groot in verhouding tot het startpunt. Wil je een verandering ongemerkt laten, blijf dan onder die drempel, en wees je als klant bewust van wie dat bij jou doet.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Merkbaar verschil groeit mee</text><rect x=\"40\" y=\"120\" width=\"40\" height=\"40\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"60\" y=\"145\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">100 g</text><rect x=\"40\" y=\"100\" width=\"40\" height=\"0\" rx=\"1\" fill=\"#06d6a0\" stroke=\"#06d6a0\" stroke-width=\"2\"><animate attributeName=\"height\" values=\"0;6;6;0\" dur=\"4s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"120;114;114;120\" dur=\"4s\" repeatCount=\"indefinite\"/></rect><text x=\"60\" y=\"185\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">+3 g voel je</text><rect x=\"220\" y=\"80\" width=\"100\" height=\"80\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"270\" y=\"125\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1.000 g</text><rect x=\"220\" y=\"80\" width=\"100\" height=\"0\" rx=\"1\" fill=\"#06d6a0\" stroke=\"#06d6a0\" stroke-width=\"2\"><animate attributeName=\"height\" values=\"0;12;12;0\" dur=\"4s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"80;68;68;80\" dur=\"4s\" repeatCount=\"indefinite\"/></rect><text x=\"270\" y=\"185\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">+30 g nodig</text><text x=\"180\" y=\"210\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">± 3 procent</text></svg>",
+   "quiz": {
+    "q": "Wat zegt de wet van Weber?",
+    "o": [
+     "Je merkt altijd 3 gram verschil",
+     "Het merkbare verschil is een vaste verhouding van de prikkel",
+     "Zware dingen voel je minder nauwkeurig dan lichte, in absolute zin nooit"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Britannica: Weber's law",
+     "u": "https://www.britannica.com/science/Webers-law"
+    },
+    {
+     "t": "University of Minnesota: Sensation and Perception",
+     "u": "https://open.lib.umn.edu/sensationandperception/chapter/psychophysical-methods/"
+    }
+   ],
+   "date": "2026-11-26T05:51:12Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Elke spa is vernoemd naar een Belgisch stadje",
+   "body": "Het Engelse woord 'spa' dook volgens Merriam-Webster rond 1610 op: een minerale bron of een kuuroord eromheen. Het is genoemd naar Spa in de provincie Luik, beroemd om zijn ijzerhoudende bronnen. De naam van het stadje komt wellicht van het Waalse 'espa', bron. Dat 'spa' een Latijnse afkorting zou zijn van 'sanitas per aquam', is een verzinsel.",
+   "take": "Bij een wellnessbon of 'spa'-zakje: de naam komt uit de Ardennen, niet uit het Latijn.",
+   "deep": "## Hoe het werkt\n\nPlaatsnamen worden soms soortnamen. Dat heet een eponiem of toponiem: de naam van een plek gaat over op iets wat er typisch voor is. Spa in de Ardennen werd vanaf de late middeleeuwen bekend om zijn bronnen met water vol ijzer en koolzuur. Rijke Europeanen, onder wie Britse aristocraten en later zelfs tsaar Peter de Grote, reisden erheen om het water te drinken en te baden. Wie in Engeland een eigen geneeskrachtige bron had, noemde die al snel 'a spa'. Later werd het woord gebruikt voor elk kuuroord, en vandaag voor elke wellness met sauna en bubbelbad.\n\n## Een voorbeeld\n\nIn het Engels zijn er tientallen spa's: het Britse Bath heet zelfs zelf naar zijn baden, maar wordt 'a spa town' genoemd. Bij ons kennen we de naam ook van het mineraalwater van Spa Monopole en van het circuit van Spa-Francorchamps. Een vergelijkbaar Belgisch voorbeeld is 'Waterloo', dat in het Engels synoniem werd voor een definitieve nederlaag.\n\n## Wat onderzoek zegt\n\nMerriam-Webster geeft 1610 als eerste bekende gebruik van 'spa' in het Engels en verwijst expliciet naar Spa in België. Andere woordenboeken geven de jaren 1620. Over de oorsprong van de stadsnaam bestaan meerdere theorieën: een Waals woord 'espa' voor fontein of bron, of een Latijnse wortel. In Romeinse teksten zou het gebied Aquae Spadanae genoemd zijn. Bronnen melden dat een ijzermeester uit Luik, Collin le Loup, de bronnen rond 1326 ontdekte, al zijn die verhalen moeilijk te controleren.\n\n## Nuance of misverstand\n\nDe bewering dat 'spa' een afkorting is van 'Salus Per Aquam' of 'Sanitas Per Aquam', gezondheid door water, vind je op veel websites van wellnesscentra. Woordenboeken behandelen dat als een achteraf verzonnen verklaring, een zogenaamd backroniem. Afkortingen als woordbron zijn trouwens zeldzaam vóór de twintigste eeuw.\n\n## Wat je ermee doet\n\nWees argwanend bij woordverklaringen die een woord uitleggen als afkorting: dat klinkt slim, maar is meestal een mythe. Zoek liever in een etymologisch woordenboek. En plan eens een daguitstap naar Spa: de oude Pouhon Pierre-le-Grand is nog te bezoeken.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Van Ardense bron naar wereldwoord</text><path d=\"M30 170 L80 110 L120 140 L170 90 L220 170 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"110\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Spa (Luik)</text><circle cx=\"120\" cy=\"150\" r=\"3\" fill=\"#06d6a0\" stroke=\"#06d6a0\" stroke-width=\"2\"><animate attributeName=\"cy\" values=\"150;120;150\" dur=\"2s\" begin=\"0.0s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;0;1\" dur=\"2s\" begin=\"0.0s\" repeatCount=\"indefinite\"/></circle><circle cx=\"120\" cy=\"150\" r=\"3\" fill=\"#06d6a0\" stroke=\"#06d6a0\" stroke-width=\"2\"><animate attributeName=\"cy\" values=\"150;120;150\" dur=\"2s\" begin=\"0.6s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;0;1\" dur=\"2s\" begin=\"0.6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"120\" cy=\"150\" r=\"3\" fill=\"#06d6a0\" stroke=\"#06d6a0\" stroke-width=\"2\"><animate attributeName=\"cy\" values=\"150;120;150\" dur=\"2s\" begin=\"1.2s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;0;1\" dur=\"2s\" begin=\"1.2s\" repeatCount=\"indefinite\"/></circle><line x1=\"220\" y1=\"110\" x2=\"266.6\" y2=\"82.1\" stroke=\"#ffd166\" stroke-width=\"2\"/><path d=\"M270 80 L266.2 85.9 L263.0 80.6 Z\" fill=\"#ffd166\"/><rect x=\"260\" y=\"50\" width=\"90\" height=\"34\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"305\" y=\"72\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">'a spa' 1610</text><rect x=\"260\" y=\"120\" width=\"90\" height=\"34\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"305\" y=\"142\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Salus Per…?</text><line x1=\"265\" y1=\"125\" x2=\"345\" y2=\"150\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"305\" y=\"175\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">mythe</text></svg>",
+   "quiz": {
+    "q": "Waar komt het woord 'spa' vandaan?",
+    "o": [
+     "Van het Latijnse 'Sanitas Per Aquam'",
+     "Van het Belgische stadje Spa",
+     "Van het Engelse 'space'"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Merriam-Webster: spa",
+     "u": "https://www.merriam-webster.com/dictionary/spa"
+    },
+    {
+     "t": "Amazing Belgium: where the word spa comes from",
+     "u": "https://www.amazingbelgium.be/2020/01/did-you-know-where-word-spa-comes-from.html"
+    }
+   ],
+   "date": "2026-11-26T05:51:12Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Op Venus duurt één draai langer dan een jaar",
+   "body": "Venus draait één keer rond haar as in 243 aardse dagen, maar heeft maar 225 dagen nodig voor een rondje rond de zon. Bovendien draait ze achterstevoren: de zon komt er op in het westen. Door die combinatie duurt een dag van zonsopgang tot zonsopgang er ongeveer 117 aardse dagen. Radarmetingen ontdekten die trage, omgekeerde draai in de jaren 1960.",
+   "take": "Uitleggen aan kinderen: 'dag' kan draaien rond je as betekenen of van zonsopgang tot zonsopgang. Dat verschil telt.",
+   "deep": "## Hoe het werkt\n\nEr zijn twee soorten 'dag'. De sterrendag is de tijd die een planeet nodig heeft om één keer rond haar as te draaien, gemeten tegen verre sterren. De zonnedag is de tijd van de ene middag tot de volgende, en die hangt ook af van de beweging rond de zon. Op aarde verschillen ze maar vier minuten. Op Venus is de sterrendag 243 aardse dagen, langer dan het Venusjaar van 225 dagen. Omdat Venus bovendien andersom draait dan haar baan, werken draaiing en baan elkaar tegen, en zie je de zon ongeveer elke 117 aardse dagen opnieuw opkomen.\n\n## Een voorbeeld\n\nStel dat je op Venus zou staan, onder de dikke wolken. Je zou de zon in het westen zien opkomen, en ongeveer 58 aardse dagen later in het oosten zien ondergaan. Een Venusjaar telt dus ongeveer twee zonsopgangen.\n\n## Wat onderzoek zegt\n\nNASA's Space Place vermeldt dat een dag op Venus 243 aardse dagen duurt, een jaar 225 aardse dagen, en dat Venus in de omgekeerde richting draait van de aarde en de meeste andere planeten. Volgens Scientific American toonden radarmetingen in de jaren 1960 voor het eerst die omgekeerde draai aan, omdat de wolken het oppervlak voor gewone telescopen verbergen. Astronomy meldt bovendien dat de lengte van een Venusdag lichtjes schommelt, met minuten, door de wisselwerking met de zware atmosfeer.\n\n## Nuance of misverstand\n\nDe bewering 'een dag op Venus duurt langer dan een jaar' klopt dus alleen als je de sterrendag bedoelt. Feitencheckers van Snopes noemen ze waar met die kanttekening. Waarom Venus achteruit draait, weet niemand zeker: hypotheses gaan van een grote botsing tot getijdenkrachten van de zon op haar dikke atmosfeer.\n\n## Wat je ermee doet\n\nZoek Venus 's avonds of 's ochtends laag aan de horizon: ze is na de maan het helderste object aan de nachthemel. En gebruik het voorbeeld als je ooit moet uitleggen waarom definities ertoe doen: dezelfde vraag, 'hoe lang is een dag?', heeft hier twee correcte antwoorden.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Trage, omgekeerde draai</text><circle cx=\"180\" cy=\"120\" r=\"18\" fill=\"rgba(255,209,102,0.5)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"180\" y=\"124\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">zon</text><path d=\"M90 120 a90 70 0 1 0 180 0 a90 70 0 1 0 -180 0\" fill=\"none\" stroke=\"#fff\" stroke-width=\"1\" stroke-dasharray=\"3 5\"/><g><g><circle cx=\"0\" cy=\"0\" r=\"12\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><line x1=\"0\" y1=\"-12\" x2=\"0\" y2=\"12\" stroke=\"#fff\" stroke-width=\"2\"/><animateTransform attributeName=\"transform\" type=\"rotate\" from=\"0\" to=\"-330\" dur=\"8s\" repeatCount=\"indefinite\"/></g><animateMotion path=\"M90 120 a90 70 0 1 0 180 0 a90 70 0 1 0 -180 0\" dur=\"8s\" repeatCount=\"indefinite\"/></g><text x=\"60\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">jaar: 225 dagen</text><text x=\"300\" y=\"200\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">draai: 243 dagen</text><text x=\"180\" y=\"50\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Venus draait achteruit</text></svg>",
+   "quiz": {
+    "q": "Hoe lang duurt één draai van Venus rond haar as?",
+    "o": [
+     "24 uur",
+     "117 aardse dagen",
+     "243 aardse dagen"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "NASA Space Place: All about Venus",
+     "u": "https://spaceplace.nasa.gov/all-about-venus/en/"
+    },
+    {
+     "t": "Scientific American: Why Venus spins the wrong way",
+     "u": "https://www.scientificamerican.com/article/why-venus-spins-the-wrong/"
+    },
+    {
+     "t": "Snopes: Venus day longer than year",
+     "u": "https://www.snopes.com/fact-check/one-day-on-venus-is-longer-than-a-year-on-venus/"
+    }
+   ],
+   "date": "2026-11-26T05:51:12Z"
   }
  ],
  "dives": []
