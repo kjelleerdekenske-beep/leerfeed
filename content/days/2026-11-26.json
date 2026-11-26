@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T05:51:12Z",
+ "updated": "2026-11-26T05:55:39Z",
  "cards": [
   {
    "cat": "wetenschap",
@@ -868,6 +868,290 @@
     }
    ],
    "date": "2026-11-26T05:51:12Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Je thermos werd uitgevonden om vloeibare gassen te bewaren",
+   "body": "De Schotse scheikundige James Dewar maakte in 1892 aan de Royal Institution in Londen een glazen fles met dubbele wand en een vacuüm ertussen. Hij wilde er extreem koude vloeibare gassen in bewaren. Dewar nam geen octrooi. De Duitse glasblazers Reinhold Burger en Albert Aschenbrenner maakten er een stevige versie voor dagelijks gebruik van: Thermos, als merk geregistreerd rond 1904.",
+   "take": "Thermos voorverwarmen met heet water verlengt de warmte merkbaar: de wand neemt dan geen warmte meer op.",
+   "deep": "## Hoe het werkt\n\nWarmte verplaatst zich op drie manieren: geleiding (via contact), stroming (via bewegende lucht of vloeistof) en straling. Een thermosfles pakt alle drie aan. Tussen de binnen- en buitenwand zit een bijna luchtledige ruimte. Zonder lucht is er nauwelijks geleiding of stroming. De wanden zijn verzilverd of glanzend, zodat ze warmtestraling terugkaatsen. De binnenwand raakt de buitenwand maar op één plek, aan de hals, en daar lekt dan ook het meeste warmte weg, net als via de dop.\n\n## Een voorbeeld\n\nJe vult 's ochtends je thermos met koffie voor een wandeling in de Kempen. Na zes uur is ze nog altijd warm, terwijl een gewone mok na een halfuur lauw is. Dezelfde fles houdt in de zomer ijsthee koud: het vacuüm werkt in beide richtingen, want het remt gewoon warmte-uitwisseling af.\n\n## Wat onderzoek zegt\n\nVolgens de Royal Institution maakte James Dewar in 1892 een fles van twee in elkaar geplaatste glazen vaten, met een gedeeltelijk vacuüm ertussen, om vloeibare gassen te bewaren voor zijn onderzoek bij zeer lage temperaturen. Het instituut toonde de fles voor het eerst met Kerstmis 1892. Dewar vroeg geen octrooi aan. Volgens het Duitse octrooibureau DPMA kreeg glasblazer Reinhold Burger in 1903 een Duits octrooi op een isolerend vat voor dagelijks gebruik; in 1904 volgde de merknaam Thermos. Dewar spande een rechtszaak aan, maar verloor. In de VS werd 'thermos' in 1963 door een rechter tot soortnaam verklaard.\n\n## Nuance of misverstand\n\nEen vacuüm is niet perfect: er blijft altijd wat gas over, en via hals en dop lekt warmte weg. Daarom koelt een thermos uiteindelijk toch af. Laboratoria gebruiken nog steeds 'dewarvaten' om vloeibare stikstof te bewaren, met dezelfde basisidee.\n\n## Wat je ermee doet\n\nVul je fles tot vlak onder de dop: minder lucht betekent minder warmteverlies. Verwarm ze eerst met heet water. En open ze zo weinig mogelijk. Wil je energie besparen thuis: dubbele beglazing en spouwmuren werken met hetzelfde idee van een isolerende tussenlaag.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Vacuüm remt warmte af</text><path d=\"M130 50 L130 190 Q130 205 145 205 L215 205 Q230 205 230 190 L230 50\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M145 55 L145 180 Q145 190 155 190 L205 190 Q215 190 215 180 L215 55\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"120\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">koffie</text><text x=\"285\" y=\"120\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">vacuüm</text><line x1=\"270\" y1=\"115\" x2=\"240.0\" y2=\"115.0\" stroke=\"#06d6a0\" stroke-width=\"2\"/><path d=\"M236 115 L242.3 112.0 L242.3 118.0 Z\" fill=\"#06d6a0\"/><circle r=\"3\" fill=\"#ff6b9d\"><animateMotion path=\"M180 150 L180 70 L180 150\" dur=\"3s\" begin=\"0s\" repeatCount=\"indefinite\"/></circle><circle r=\"3\" fill=\"#ff6b9d\"><animateMotion path=\"M180 150 L180 70 L180 150\" dur=\"3s\" begin=\"-1s\" repeatCount=\"indefinite\"/></circle><circle r=\"3\" fill=\"#ff6b9d\"><animateMotion path=\"M180 150 L180 70 L180 150\" dur=\"3s\" begin=\"-2s\" repeatCount=\"indefinite\"/></circle><path d=\"M200 140 l20 0 l-6 -4\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"1;0;1\" dur=\"2s\" repeatCount=\"indefinite\"/></path><text x=\"60\" y=\"80\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">straling</text><text x=\"60\" y=\"96\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">kaatst terug</text><line x1=\"95\" y1=\"88\" x2=\"136.1\" y2=\"99.0\" stroke=\"#ffd166\" stroke-width=\"2\"/><path d=\"M140 100 L133.1 101.3 L134.7 95.4 Z\" fill=\"#ffd166\"/></svg>",
+   "quiz": {
+    "q": "Waarvoor maakte Dewar zijn fles oorspronkelijk?",
+    "o": [
+     "Om koffie warm te houden",
+     "Om vloeibare gassen te bewaren",
+     "Om melk te steriliseren"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Royal Institution: Dewar's vacuum flask",
+     "u": "https://www.rigb.org/node/3131"
+    },
+    {
+     "t": "DPMA: Thermosflasche (pdf)",
+     "u": "https://www.dpma.de/docs/postergalerieneu/13_thermosflasche_web.pdf"
+    }
+   ],
+   "date": "2026-11-26T05:55:39Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Licht in glasvezel ontsnapt niet dankzij een spiegeltruc",
+   "body": "In een glasvezel kaatst licht telkens terug op de grens met de mantel, door totale interne reflectie. In 1966 toonde Charles Kao dat de toenmalige vezels vooral licht verloren door onzuiverheden in het glas, niet door glas zelf. Hij voorspelde een verlies van slechts 20 decibel per kilometer. Vandaag ligt dat onder 0,15. Kao kreeg in 2009 de Nobelprijs natuurkunde.",
+   "take": "Glasvezel thuis? Plooi de kabel nooit scherp: bij een te krappe bocht ontsnapt het licht toch.",
+   "deep": "## Hoe het werkt\n\nLicht buigt af als het van het ene materiaal naar het andere gaat. Komt het van een 'dichter' materiaal, met een hogere brekingsindex, en raakt het de grens onder een schuine hoek, dan kan het er niet uit: het wordt volledig teruggekaatst. Dat heet totale interne reflectie. Een glasvezel bestaat uit een dunne kern met een iets hogere brekingsindex dan de mantel errond. Licht dat in de kern gestuurd wordt, kaatst duizenden keren heen en weer en volgt zo de vezel, ook rond flauwe bochten. Een laser zet data om in lichtflitsen aan en uit.\n\n## Een voorbeeld\n\nKijk in een zwembad onder water schuin naar boven: op een bepaald punt zie je het oppervlak als een spiegel. Dat is dezelfde totale interne reflectie. In Vlaanderen leggen operatoren nu glasvezel tot in de woning: één haar dunne vezel kan veel meer data dragen dan een koperen telefoonkabel.\n\n## Wat onderzoek zegt\n\nVolgens het Nobelcomité toonde Charles Kao in 1966, samen met George Hockham bij Standard Telecommunication Laboratories in Engeland, dat het grote verlies in de toenmalige vezels door onzuiverheden kwam. Ze voorspelden dat zuiver glas maar 20 decibel per kilometer zou verliezen, aanvaardbaar voor lange afstanden. Volgens Nature lagen de beste glassoorten toen rond 1.000 decibel per kilometer. Een team van Corning Glass doorbrak in 1970 de grens van 20 decibel. Vandaag halen vezels minder dan 0,15 decibel per kilometer. Kao deelde de Nobelprijs van 2009 met Willard Boyle en George Smith, de uitvinders van de CCD-beeldsensor.\n\n## Nuance of misverstand\n\nLicht in glas gaat niet sneller dan elektrische signalen in koper; het gaat zelfs trager dan licht in lucht, ongeveer twee derde van de lichtsnelheid. Het voordeel van glasvezel is vooral de enorme bandbreedte en het lage verlies, waardoor je minder versterkers nodig hebt.\n\n## Wat je ermee doet\n\nBij een glasvezelaansluiting: leg de kabel in ruime bochten, knik hem niet en stop de stekker niet zonder dopje weg, want stof op het uiteinde vermindert het signaal. En kijk nooit recht in een actieve vezel: infraroodlaserlicht is onzichtbaar maar kan je oog schaden.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Totale interne reflectie</text><rect x=\"20\" y=\"85\" width=\"320\" height=\"50\" rx=\"25\" fill=\"rgba(255,255,255,0.08)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"20\" y=\"95\" width=\"320\" height=\"30\" rx=\"15\" fill=\"rgba(6,214,160,0.2)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><path d=\"M20 110 L60 97 L100 123 L140 97 L180 123 L220 97 L260 123 L300 97 L340 110\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"stroke-dasharray\" values=\"0 500;500 0\" dur=\"3s\" repeatCount=\"indefinite\"/></path><text x=\"180\" y=\"75\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">mantel</text><text x=\"180\" y=\"155\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">kern: hogere brekingsindex</text><text x=\"180\" y=\"195\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1966: 20 dB/km voorspeld; nu &lt; 0,15 dB/km</text></svg>",
+   "quiz": {
+    "q": "Wat was volgens Kao de grootste oorzaak van lichtverlies in vroege vezels?",
+    "o": [
+     "Onzuiverheden in het glas",
+     "De kleur van de mantel",
+     "De lengte van de golven"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "IEEE Spectrum: optical fiber pioneer shares Nobel",
+     "u": "https://spectrum.ieee.org/optical-fiber-pioneer-shares-physics-nobel"
+    },
+    {
+     "t": "Nobelprize.org: Kao lecture (pdf)",
+     "u": "https://www.nobelprize.org/uploads/2018/06/kao_lecture.pdf"
+    }
+   ],
+   "date": "2026-11-26T05:55:39Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Je rekeningnummer controleert zichzelf met een deling",
+   "body": "Een Belgisch IBAN-nummer telt 16 tekens: BE, twee controlecijfers, en twaalf cijfers. De laatste twee daarvan zijn ook controlecijfers: de rest bij deling van de eerste tien door 97. Bijvoorbeeld 5390075470 gedeeld door 97 geeft rest 34. Daarom stopt je bankapp je meteen als je een cijfer verkeerd typt: de deling klopt dan niet meer.",
+   "take": "Melding 'ongeldig rekeningnummer'? Kijk eerst naar verwisselde cijfers: precies die fout vangt modulo 97 op.",
+   "deep": "## Hoe het werkt\n\nEen controlegetal is een klein stukje extra informatie dat met een vaste rekensom uit de andere cijfers volgt. Typ je één cijfer fout, dan klopt de som niet meer. In België gebeurt dat twee keer. Het nationale deel: neem de eerste tien cijfers van je rekeningnummer en deel door 97. De rest van die deling, van 01 tot 97, vormt de laatste twee cijfers. Daarbovenop komt de internationale IBAN-controle volgens de norm ISO 7064: verplaats 'BE' en de twee cijfers erna naar achteren, vervang de letters door getallen (B=11, E=14) en deel het hele lange getal door 97. Bij een geldig IBAN is de rest precies 1.\n\n## Een voorbeeld\n\nNeem het voorbeeldnummer BE68 5390 0754 7034. De eerste tien cijfers van het rekeningnummer zijn 5390075470. Delen door 97 geeft rest 34, en dat zijn inderdaad de laatste twee cijfers. Verwissel je per ongeluk twee cijfers, bijvoorbeeld 5390075740, dan geeft de deling een andere rest, en weet het systeem dat er iets mis is.\n\n## Wat onderzoek zegt\n\nDe IBAN-standaard ISO 13616 gebruikt de controlemethode MOD 97-10 uit ISO/IEC 7064. Wiskundig vangt die methode alle fouten van één cijfer en bijna alle verwisselingen van twee naast elkaar staande cijfers op. Dat komt doordat 97 een priemgetal is dat groter is dan het aantal mogelijke cijfers. Open-sourcesoftware zoals de Python-bibliotheek python-stdnum berekent het Belgische deel precies zo: de tien cijfers modulo 97, waarbij een rest van 0 als 97 geschreven wordt.\n\n## Nuance of misverstand\n\nEen geldig controlegetal betekent niet dat de rekening bestaat of van de juiste persoon is. Het vangt typfouten, geen fraude. Sinds oktober 2025 moeten banken in de eurozone bij overschrijvingen ook de naam van de begunstigde vergelijken met het rekeningnummer ('Verification of Payee'), een aparte controle.\n\n## Wat je ermee doet\n\nKopieer rekeningnummers liever dan ze over te typen. Krijg je een melding dat de naam niet overeenkomt, stop dan en bel de ontvanger via een gekend nummer. En als je zelf een formulier bouwt: laat de controle op modulo 97 meteen in het invoerveld lopen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">10 cijfers ÷ 97 = controlecijfers</text><text x=\"180\" y=\"70\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"14\" text-anchor=\"middle\">BE68 5390 0754 70 34</text><rect x=\"108\" y=\"55\" width=\"110\" height=\"22\" rx=\"4\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"/><rect x=\"222\" y=\"55\" width=\"26\" height=\"22\" rx=\"4\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><line x1=\"163\" y1=\"80\" x2=\"163.0\" y2=\"106.0\" stroke=\"#06d6a0\" stroke-width=\"2\"/><path d=\"M163 110 L160.0 103.7 L166.0 103.7 Z\" fill=\"#06d6a0\"/><rect x=\"110\" y=\"112\" width=\"106\" height=\"30\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"163\" y=\"132\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">÷ 97</text><line x1=\"216\" y1=\"127\" x2=\"246.0\" y2=\"127.0\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><path d=\"M250 127 L243.7 130.0 L243.7 124.0 Z\" fill=\"#ff6b9d\"/><rect x=\"250\" y=\"112\" width=\"60\" height=\"30\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0.25;1;1;0.25\" keyTimes=\"0;0.15;0.5;1\" dur=\"3s\" begin=\"0s\" repeatCount=\"indefinite\"/></rect><text x=\"280\" y=\"132\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">rest 34</text><line x1=\"280\" y1=\"110\" x2=\"241.3\" y2=\"82.3\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><path d=\"M238 80 L244.9 81.2 L241.4 86.1 Z\" fill=\"#ff6b9d\"/><text x=\"180\" y=\"185\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">typfout → andere rest → foutmelding</text></svg>",
+   "quiz": {
+    "q": "Hoe worden de laatste twee cijfers van een Belgisch rekeningnummer berekend?",
+    "o": [
+     "Het geboortejaar van de houder",
+     "De rest van de eerste tien cijfers gedeeld door 97",
+     "Een willekeurig nummer van de bank"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "python-stdnum: be/iban.py",
+     "u": "https://sources.debian.org/src/python-stdnum/2.2-1/stdnum/be/iban.py"
+    },
+    {
+     "t": "Qonto: IBAN from Belgium",
+     "u": "https://qonto.com/en/iban/belgium"
+    }
+   ],
+   "date": "2026-11-26T05:55:39Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Wie ja zegt tegen iets kleins, zegt makkelijker ja",
+   "body": "In 1966 vroegen Jonathan Freedman en Scott Fraser in Palo Alto huiseigenaren eerst om een klein bordje 'Be a safe driver' achter hun raam. Twee weken later vroeg een andere onderzoeker of er een groot, lelijk bord 'Drive Carefully' in hun voortuin mocht. Van wie eerder ja zei tegen het bordje, stemde 76 procent in. Dat heet de voet-tussen-de-deur-techniek.",
+   "take": "Zie je een verkoper eerst een kleine gunst vragen? Herken de opstap en beslis over het grote verzoek apart.",
+   "deep": "## Hoe het werkt\n\nWie ja zegt tegen een klein verzoek, gaat zichzelf anders zien: 'ik ben iemand die zich inzet voor verkeersveiligheid' of 'ik ben behulpzaam'. Als daarna een groter verzoek komt dat in dezelfde lijn ligt, voelt nee zeggen als ingaan tegen dat zelfbeeld. Psychologen verklaren het met zelfperceptie: we leiden onze eigen houding af uit ons gedrag. Daarnaast speelt consistentie: mensen willen niet wispelturig overkomen, ook niet voor zichzelf.\n\n## Een voorbeeld\n\nEen goed doel vraagt op straat of je even een petitie wil tekenen. Een week later belt dezelfde organisatie met de vraag om maandelijks te doneren. Of een webwinkel die je eerst vraagt om 'gratis een account aan te maken', daarna om je e-mail voor kortingen, en dan om een abonnement. Elke stap bouwt op de vorige.\n\n## Wat onderzoek zegt\n\nFreedman en Fraser publiceerden 'Compliance without pressure: the foot-in-the-door technique' in 1966 in het Journal of Personality and Social Psychology. In het bekendste experiment stemde 76 procent van de huiseigenaren die eerder het kleine bordje aanvaardden, in met het grote bord. In andere voorwaarden, waar het eerste verzoek over een ander onderwerp ging, zoals een petitie om Californië mooi te houden, lag het rond 47 procent. Ook dat was veel meer dan bij mensen die meteen het grote verzoek kregen, al verschillen secundaire bronnen over dat laatste exacte cijfer.\n\n## Nuance of misverstand\n\nHet effect is in latere meta-analyses kleiner gebleken dan in de klassieke studie, en het werkt niet altijd. Is het eerste verzoek te klein, dan doet het weinig; is het tweede extreem, dan helpt de opstap niet. Er bestaat ook een omgekeerde techniek, de deur-in-het-gezicht: eerst iets absurds vragen en dan 'toegeven' met een kleiner verzoek.\n\n## Wat je ermee doet\n\nWil je iemand laten beginnen met sporten of sparen: begin met een heel kleine stap die in dezelfde richting wijst. Word je zelf benaderd: merk op wanneer iemand je eerste ja als hefboom gebruikt, en beoordeel elk verzoek op zijn eigen waarde.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Klein ja, dan groot ja</text><rect x=\"40\" y=\"80\" width=\"40\" height=\"30\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"60\" y=\"99\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">klein</text><text x=\"60\" y=\"130\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">bordje</text><line x1=\"95\" y1=\"95\" x2=\"146.0\" y2=\"95.0\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M150 95 L143.7 98.0 L143.7 92.0 Z\" fill=\"#fff\"/><text x=\"122\" y=\"85\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">2 weken</text><rect x=\"160\" y=\"60\" width=\"120\" height=\"70\" rx=\"6\" fill=\"rgba(255,209,102,0.2)\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"width\" values=\"40;120;120;40\" keyTimes=\"0;0.4;0.9;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"220\" y=\"150\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">groot bord in de tuin</text><rect x=\"60\" y=\"175\" width=\"0\" height=\"16\" rx=\"2\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"width\" values=\"0;228;228\" keyTimes=\"0;0.6;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"330\" y=\"188\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"end\">76%</text></svg>",
+   "quiz": {
+    "q": "Welk percentage stemde in met het grote bord na eerst ja te zeggen tegen het kleine?",
+    "o": [
+     "17 procent",
+     "47 procent",
+     "76 procent"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "PubMed: Freedman & Fraser 1966",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/5969145/"
+    },
+    {
+     "t": "MIT: Freedman & Fraser (pdf)",
+     "u": "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Influence_Compliance/Freedman_Fraser_Foot-in-the-door.pdf"
+    }
+   ],
+   "date": "2026-11-26T05:55:39Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Een dollar overtuigde meer dan twintig dollar",
+   "body": "Leon Festinger en James Carlsmith lieten studenten in 1959 een uur saai werk doen, zoals pinnetjes draaien op een bord met 48 pinnen. Daarna moesten ze een volgende deelnemer vertellen dat het leuk was. Wie daarvoor 1 dollar kreeg, vond het werk achteraf leuker dan wie 20 dollar kreeg. Zonder goede reden voor de leugen pas je je mening aan.",
+   "take": "Wil je dat iemand iets echt gaat waarderen? Beloon klein, niet groot: dan zoekt hij de reden bij zichzelf.",
+   "deep": "## Hoe het werkt\n\nCognitieve dissonantie is het ongemakkelijke gevoel als twee gedachten of een gedachte en je gedrag botsen: 'dit was saai' en 'ik zei dat het leuk was'. Mensen willen die spanning verminderen. Wie 20 dollar kreeg, in 1959 een flink bedrag, had een duidelijke reden voor de leugen: het geld. Geen probleem dus. Wie maar 1 dollar kreeg, had die externe uitleg niet. De makkelijkste uitweg was dan de eigen mening bijsturen: 'eigenlijk viel het best mee'.\n\n## Een voorbeeld\n\nJe koopt een dure jas die je achteraf niet zo goed vindt staan. In plaats van spijt te voelen, ga je jezelf overtuigen dat de kwaliteit uitzonderlijk is. Of iemand die een zware doopceremonie bij een studentenclub doorstond, gaat die club net extra waarderen: anders zou al dat afzien voor niets geweest zijn.\n\n## Wat onderzoek zegt\n\nFestinger en Carlsmith publiceerden hun studie in 1959 in het Journal of Abnormal and Social Psychology. Volgens het archief 'Classics in the History of Psychology' van York University deden studenten eerst saaie taken, zoals spoeltjes op een plank zetten en 48 vierkante pinnen telkens een kwartslag draaien. Een controlegroep hoefde niet te liegen. Achteraf beoordeelde de 1-dollargroep de taken als leuker dan de 20-dollargroep en de controlegroep. Festinger had de theorie van cognitieve dissonantie in 1957 voorgesteld.\n\n## Nuance of misverstand\n\nDe studie was klein en sommige deelnemers werden uitgesloten, wat later kritiek kreeg. Ook zijn er andere verklaringen voorgesteld, zoals zelfperceptie: je kijkt naar je eigen gedrag zoals een buitenstaander dat zou doen. Toch werd het basiseffect in veel varianten teruggevonden, al is het niet altijd even sterk.\n\n## Wat je ermee doet\n\nBij grote beslissingen: wees je bewust dat je na afloop geneigd bent je keuze mooier te maken dan ze is. Laat iemand anders je evaluatie nakijken. En bij opvoeding of leidinggeven: grote beloningen kunnen motivatie overschaduwen, terwijl een kleine erkenning ruimte laat voor eigen overtuiging.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Weinig reden = mening bijsturen</text><rect x=\"30\" y=\"60\" width=\"120\" height=\"40\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"90\" y=\"85\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">'dit was saai'</text><rect x=\"210\" y=\"60\" width=\"120\" height=\"40\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"270\" y=\"85\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">'ik zei: leuk'</text><path d=\"M150 80 L210 80\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"stroke-width\" values=\"2;6;2\" dur=\"2s\" repeatCount=\"indefinite\"/></path><text x=\"180\" y=\"115\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">spanning</text><rect x=\"30\" y=\"140\" width=\"120\" height=\"40\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"90\" y=\"165\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">$20: geld is de reden</text><rect x=\"210\" y=\"140\" width=\"120\" height=\"40\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0.25;1;1;0.25\" keyTimes=\"0;0.15;0.5;1\" dur=\"4s\" begin=\"0s\" repeatCount=\"indefinite\"/></rect><text x=\"270\" y=\"158\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">$1: 'het viel mee'</text><text x=\"270\" y=\"173\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">mening past aan</text></svg>",
+   "quiz": {
+    "q": "Welke groep vond de saaie taak achteraf het leukst?",
+    "o": [
+     "Wie 20 dollar kreeg",
+     "Wie 1 dollar kreeg",
+     "Wie niet hoefde te liegen"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "York University: Classics in the History of Psychology",
+     "u": "https://psychclassics.yorku.ca/Festinger/"
+    },
+    {
+     "t": "Britannica: Leon Festinger",
+     "u": "https://www.britannica.com/biography/Leon-Festinger/Cognitive-dissonance"
+    }
+   ],
+   "date": "2026-11-26T05:55:39Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Iedereen is bevooroordeeld, behalve jij (denk je)",
+   "body": "Emily Pronin, Daniel Lin en Lee Ross lieten in 2002 studenten lezen over denkfouten en vroegen hoe vatbaar zij en de gemiddelde student daarvoor waren. De deelnemers vonden zichzelf telkens minder bevooroordeeld dan anderen. Dat heet de bias blind spot. Volgens later onderzoek hangt die blinde vlek niet samen met hoe goed iemand echt beslist.",
+   "take": "Overtuigd dat jij objectief bent? Vraag iemand die het oneens is om je redenering te controleren.",
+   "deep": "## Hoe het werkt\n\nOm je eigen oordeel te beoordelen, kijk je naar binnen: je gedachten, je bedoelingen. Daar zie je geen vooroordelen, want die werken onbewust. Bij anderen kijk je naar hun gedrag en wat ze ervoor terugkrijgen, en daar zie je belangen en vooroordelen wel. Zo ontstaat een scheef beeld: jezelf beoordeel je op je goede bedoelingen, anderen op hun daden. Pronin noemde dat later de introspectie-illusie. Daarbij komt naïef realisme: het gevoel dat jij de wereld gewoon ziet zoals ze is, en wie het anders ziet, wel bevooroordeeld moet zijn.\n\n## Een voorbeeld\n\nBij een discussie over een voetbalmatch vind je de scheidsrechter partijdig voor de tegenstander, maar je eigen kijk op de fases vind je neutraal. Of op het werk: een collega die een vriend aanbeveelt, lijkt je bevooroordeeld; jouw eigen aanbeveling van een vriend voelt als een objectief oordeel.\n\n## Wat onderzoek zegt\n\nPronin, Lin en Ross publiceerden 'The Bias Blind Spot: Perceptions of Bias in Self Versus Others' in 2002 in Personality and Social Psychology Bulletin. Deelnemers kregen beschrijvingen van bekende vertekeningen en scoorden zichzelf gemiddeld minder vatbaar dan de gemiddelde Amerikaan en dan andere studenten. Het effect gold voor meerdere vertekeningen, al niet voor allemaal even sterk. Een studie uit 2015 van Scopelliti en collega's vond dat de grootte van iemands blinde vlek niet samenhing met hoe goed die persoon scoorde op beslissingstaken. Uitleg over de blinde vlek alleen hielp mensen er nauwelijks van af.\n\n## Nuance of misverstand\n\nDe bias blind spot betekent niet dat iedereen even bevooroordeeld is of dat objectiviteit onmogelijk is. Het betekent dat je eigen gevoel van objectiviteit een slechte meter is. Ook experts, zoals rechters en artsen, vertonen het effect.\n\n## Wat je ermee doet\n\nVertrouw bij belangrijke beslissingen minder op je gevoel van neutraliteit en meer op procedures: vooraf criteria vastleggen, blind beoordelen waar het kan, en iemand met een andere mening laten meekijken. Dat werkt beter dan jezelf voornemen om 'gewoon objectief te zijn'.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Bias zie je bij de ander</text><circle cx=\"90\" cy=\"110\" r=\"32\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"90\" y=\"114\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ik</text><circle cx=\"270\" cy=\"110\" r=\"32\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"270\" y=\"114\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ander</text><path d=\"M125 100 L235 100\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"235\" cy=\"100\" r=\"4\" fill=\"#ffd166\" stroke=\"#ffd166\" stroke-width=\"2\"/><path d=\"M180 60 L235 100 L180 140\" fill=\"rgba(255,209,102,0.15)\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0.3;1;0.3\" dur=\"3s\" repeatCount=\"indefinite\"/></path><text x=\"270\" y=\"165\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">'bevooroordeeld'</text><text x=\"90\" y=\"165\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">'objectief'</text><path d=\"M58 110 a32 32 0 0 1 64 0\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0;0.8;0\" dur=\"3s\" begin=\"1.5s\" repeatCount=\"indefinite\"/></path><text x=\"180\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">zelfde fouten, ander oordeel</text></svg>",
+   "quiz": {
+    "q": "Wat is de bias blind spot?",
+    "o": [
+     "Je merkt vooroordelen bij anderen beter dan bij jezelf",
+     "Je ziet geen kleuren in je ooghoek",
+     "Je vergeet wat je bevooroordeeld maakte"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Pronin, Lin & Ross 2002 (pdf)",
+     "u": "https://moodle2.units.it/pluginfile.php/171153/mod_resource/content/1/Pronin%2C%20Lin%20%20Ross%2C%202002.pdf"
+    },
+    {
+     "t": "City University London: Blind spot (pdf)",
+     "u": "https://openaccess.city.ac.uk/id/eprint/5901/1/Blind%20Spot%20-%20published.pdf"
+    }
+   ],
+   "date": "2026-11-26T05:55:39Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Een bankrun begint met een gerucht, niet verlies",
+   "body": "Op 13 september 2007 meldde de BBC dat de Britse bank Northern Rock noodsteun kreeg van de Bank of England. De volgende dag stonden spaarders in rijen om hun geld af te halen: de eerste grote Britse bankrun in meer dan een eeuw. Hij stopte pas toen de regering op 20 september alle spaartegoeden garandeerde.",
+   "take": "Paniek rond je bank? Check eerst de depositogarantie: in België is 100.000 euro per persoon per bank beschermd.",
+   "deep": "## Hoe het werkt\n\nEen bank houdt maar een klein deel van je spaargeld als cash bij. De rest is uitgeleend, bijvoorbeeld als woonlening voor twintig jaar. Dat werkt zolang niet iedereen tegelijk zijn geld komt halen. Een bankrun is een zichzelf versterkende angst: als ik denk dat anderen hun geld zullen halen, haal ik het beter eerst. Ook een gezonde bank kan zo in de problemen raken, omdat ze haar leningen niet zo snel kan omzetten in cash. Economen Douglas Diamond en Philip Dybvig beschreven dat mechanisme in 1983; ze kregen er in 2022 de Nobelprijs economie voor, samen met Ben Bernanke.\n\n## Een voorbeeld\n\nNorthern Rock financierde veel hypotheken niet met spaargeld maar met kortlopende leningen op de financiële markten. Toen die markten in de zomer van 2007 vastliepen door de Amerikaanse subprimecrisis, droogde dat geld op. De bank vroeg noodsteun. Het nieuws daarover lekte uit, en spaarders vertaalden 'noodsteun' als 'mijn geld is in gevaar'.\n\n## Wat onderzoek zegt\n\nVolgens een rapport van de financiële commissie van het Britse parlement (2008) meldde de BBC op de avond van 13 september 2007 de noodsteun; de volgende ochtend werden de voorwaarden officieel aangekondigd en vormden zich rijen aan de kantoren. Websites en telefoonlijnen raakten overbelast. De run stopte nadat de Britse schatkist op 20 september alle bestaande spaartegoeden garandeerde. Northern Rock werd in februari 2008 genationaliseerd.\n\n## Nuance of misverstand\n\nEen run gaat niet altijd over een slechte bank; het gaat over vertrouwen. Vandaag kan een run ook digitaal en razendsnel verlopen: bij Silicon Valley Bank in maart 2023 werd op één dag tientallen miljarden dollar opgevraagd via apps.\n\n## Wat je ermee doet\n\nKen de regels: in België en de EU is spaargeld tot 100.000 euro per persoon per bank gewaarborgd. Heb je meer, spreid het over verschillende bankgroepen. En reageer niet op geruchten in sociale media voor je de officiële bron leest.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Angst versterkt zichzelf</text><rect x=\"130\" y=\"60\" width=\"100\" height=\"90\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M120 60 L180 30 L240 60 Z\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"100\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">bank</text><rect x=\"145\" y=\"115\" width=\"70\" height=\"0\" rx=\"2\" fill=\"#06d6a0\" stroke=\"#06d6a0\" stroke-width=\"2\"><animate attributeName=\"height\" values=\"25;2;25\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"180\" y=\"170\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">cash in kluis</text><circle r=\"5\" fill=\"#ff6b9d\"><animateMotion path=\"M20 200 L120 130\" dur=\"3s\" begin=\"-0.0s\" repeatCount=\"indefinite\"/></circle><circle r=\"5\" fill=\"#ff6b9d\"><animateMotion path=\"M20 200 L120 130\" dur=\"3s\" begin=\"-0.5s\" repeatCount=\"indefinite\"/></circle><circle r=\"5\" fill=\"#ff6b9d\"><animateMotion path=\"M20 200 L120 130\" dur=\"3s\" begin=\"-1.0s\" repeatCount=\"indefinite\"/></circle><circle r=\"5\" fill=\"#ff6b9d\"><animateMotion path=\"M20 200 L120 130\" dur=\"3s\" begin=\"-1.5s\" repeatCount=\"indefinite\"/></circle><circle r=\"5\" fill=\"#ff6b9d\"><animateMotion path=\"M20 200 L120 130\" dur=\"3s\" begin=\"-2.0s\" repeatCount=\"indefinite\"/></circle><text x=\"60\" y=\"215\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">spaarders</text><text x=\"300\" y=\"110\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">gerucht</text><text x=\"300\" y=\"124\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">→ rij</text></svg>",
+   "quiz": {
+    "q": "Wat stopte de run op Northern Rock in 2007?",
+    "o": [
+     "Een staatsgarantie op alle spaartegoeden",
+     "Een hogere spaarrente",
+     "De sluiting van alle kantoren"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "UK Parliament: Treasury Committee report (2008)",
+     "u": "https://publications.parliament.uk/pa/cm200708/cmselect/cmtreasy/56/5604.htm"
+    },
+    {
+     "t": "Yale: Northern Rock emergency liquidity",
+     "u": "https://newbagehot.yale.edu/node/426"
+    }
+   ],
+   "date": "2026-11-26T05:55:39Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Twee risicovolle beleggingen kunnen samen minder riskant zijn",
+   "body": "Harry Markowitz publiceerde in 1952 'Portfolio Selection' in The Journal of Finance. Zijn inzicht: het risico van je portefeuille hangt niet alleen af van elk aandeel apart, maar vooral van hoe ze samen bewegen. Twee aandelen die vaak tegengesteld bewegen, vormen samen minder risico dan elk afzonderlijk. Hij kreeg er in 1990 de Nobelprijs economie voor.",
+   "take": "Spreiden is niet 'veel aandelen kopen', maar dingen kopen die niet allemaal tegelijk zakken.",
+   "deep": "## Hoe het werkt\n\nElke belegging schommelt in waarde. Markowitz mat risico als die schommeling, en rekende uit wat er gebeurt als je beleggingen combineert. Als twee beleggingen perfect samen bewegen, helpt combineren niets. Bewegen ze onafhankelijk of zelfs tegengesteld, dan vangen de dalingen van de ene deels de stijgingen van de andere op. Het resultaat: voor hetzelfde verwachte rendement kun je een lager risico halen. Die verzameling 'beste' combinaties noemde hij de efficiënte grens.\n\n## Een voorbeeld\n\nStel, je hebt een ijsjeszaak en een paraplufabriek. In een zonnige zomer verdient de ijsjeszaak goed en de paraplu's niet; in een natte zomer omgekeerd. Elk bedrijf apart is een gok op het weer. Samen heb je elk jaar een stabieler inkomen. Bij beleggen: een Europees aandelenfonds en een Belgische staatsobligatie reageren vaak verschillend op een crisis.\n\n## Wat onderzoek zegt\n\nMarkowitz publiceerde 'Portfolio Selection' in maart 1952 in The Journal of Finance, volume 7, toen hij nog student was aan de University of Chicago. Volgens het Nobelcomité legde dat essay, en zijn boek uit 1959, de basis voor de moderne portefeuilletheorie. In 1990 deelde hij de Nobelprijs economie met William Sharpe en Merton Miller. Econlib wijst erop dat het idee van spreiden al bestond, maar dat Markowitz een manier gaf om risico te meten en beleggingen wiskundig te combineren.\n\n## Nuance of misverstand\n\nCorrelaties zijn niet stabiel. Tijdens zware crisissen, zoals in 2008, gingen veel beleggingen tegelijk omlaag, net wanneer je spreiding het hardst nodig had. Bovendien is schommeling niet het enige risico: een belegging kan ook blijvend waardeloos worden. Spreiding vermindert risico, maar haalt het nooit weg.\n\n## Wat je ermee doet\n\nBekijk je beleggingen niet stuk voor stuk, maar als geheel. Een brede indextracker over veel landen en sectoren is een eenvoudige vorm van Markowitz' idee. Kijk ook naar je job: werk je bij een bank, dan heb je via je loon al veel 'bankrisico' en hoef je niet nog eens bankaandelen te stapelen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Samen schommelt minder</text><path d=\"M20 90 Q 65 50 110 90 T 200 90 T 290 90 T 340 70\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"330\" y=\"60\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">ijsjes</text><path d=\"M20 90 Q 65 130 110 90 T 200 90 T 290 90 T 340 110\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"330\" y=\"128\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">paraplu's</text><line x1=\"20\" y1=\"170\" x2=\"340\" y2=\"170\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"y1\" values=\"168;172;168\" dur=\"2s\" repeatCount=\"indefinite\"/><animate attributeName=\"y2\" values=\"172;168;172\" dur=\"2s\" repeatCount=\"indefinite\"/></line><text x=\"180\" y=\"195\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">samen: bijna vlak</text><circle cx=\"20\" cy=\"90\" r=\"5\" fill=\"#fff\" stroke=\"#fff\" stroke-width=\"2\"><animateMotion path=\"M0 0 Q 45 -40 90 0 T 180 0 T 270 0 T 320 -20\" dur=\"5s\" repeatCount=\"indefinite\"/></circle></svg>",
+   "quiz": {
+    "q": "Wanneer verlaagt spreiden het risico het meest?",
+    "o": [
+     "Als beleggingen perfect samen bewegen",
+     "Als beleggingen onafhankelijk of tegengesteld bewegen",
+     "Als je alles in één sector belegt"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Nobelprize.org: Harry Markowitz",
+     "u": "https://www.nobelprize.org/prizes/economic-sciences/1990/markowitz/facts/"
+    },
+    {
+     "t": "Econlib: Harry Markowitz",
+     "u": "https://www.econlib.org/library/Enc/bios/Markowitz.html"
+    }
+   ],
+   "date": "2026-11-26T05:55:39Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Het swoosh-logo van Nike kostte 35 dollar",
+   "body": "In 1971 vroeg Phil Knight, toen docent boekhouden aan Portland State University, aan grafisch ontwerpstudente Carolyn Davidson een logo voor zijn sportschoenen. Ze ontwierp de swoosh en stuurde een factuur van 35 dollar. Knight was er niet meteen weg van. In 1983 gaf hij haar een gouden swoosh-ring met diamant en 500 aandelen Nike.",
+   "take": "Een logo wordt pas waardevol door jarenlang consequent gebruik. Kies iets eenvoudigs en blijf het dan gebruiken.",
+   "deep": "## Hoe het werkt\n\nEen logo heeft op zich weinig betekenis. De swoosh is gewoon een gebogen vinkje met een staart. Waarde ontstaat doordat mensen het telkens opnieuw zien naast dezelfde producten, atleten en reclames. Na verloop van tijd roept de vorm alleen al een gevoel en een merk op: dat heet merkassociatie. Eenvoudige vormen werken daarbij goed: ze zijn op elke grootte herkenbaar, van een schoenneus tot een stadionbord, en makkelijk te onthouden.\n\n## Een voorbeeld\n\nJe herkent de swoosh in een flits op een voetbalshirt, zonder dat er 'Nike' bij staat. Bij ons kennen we dat bij andere merken die hun naam soms weglaten en alleen het symbool tonen. Vergelijk het met het rode kruisje van Rode Kruis: de vorm draagt de betekenis door jarenlang gebruik.\n\n## Wat onderzoek zegt\n\nVolgens Nike's eigen geschiedenis stuurde Davidson Knight een factuur van 35 dollar voor het ontwerp. Portland State University bevestigt dat ze de swoosh in 1971 ontwierp als student grafisch ontwerp. Knight zou toen gezegd hebben dat hij het niet geweldig vond, maar dat het wel zou groeien. In september 1983 gaf Knight haar een gouden swoosh-ring met een diamant en 500 aandelen van het bedrijf. Davidson zei later aan ESPN dat die aandelen sindsdien vele keren zijn gesplitst. De naam Nike, naar de Griekse godin van de overwinning, kwam er in hetzelfde jaar.\n\n## Nuance of misverstand\n\nHet verhaal wordt vaak verteld als 'Nike buitte een student uit'. Maar 35 dollar was in 1971 een normaal tarief voor een studentenopdracht: ze rekende ongeveer 2 dollar per uur. De enorme waarde van het logo kwam niet uit de tekening, maar uit decennia aan reclame, sporters en producten. Dat is ook de les: het ontwerp is het begin, niet het eindpunt.\n\n## Wat je ermee doet\n\nStart je een zaak of club, besteed dan niet maanden aan het perfecte logo. Kies een eenvoudige, onderscheidende vorm, check of hij op klein formaat werkt, en gebruik hem dan overal consequent. Herkenning bouw je met herhaling.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Vorm + herhaling = merk</text><path d=\"M70 120 Q 110 160 290 80 Q 150 140 95 112 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0.3;1;1;0.3\" dur=\"4s\" repeatCount=\"indefinite\"/></path><text x=\"80\" y=\"190\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">1971: $35</text><text x=\"270\" y=\"190\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">vandaag: wereldmerk</text><line x1=\"140\" y1=\"185\" x2=\"201.0\" y2=\"185.0\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M205 185 L198.7 188.0 L198.7 182.0 Z\" fill=\"#fff\"/><circle cx=\"120\" cy=\"60\" r=\"5\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0.25;1;1;0.25\" keyTimes=\"0;0.15;0.5;1\" dur=\"4s\" begin=\"0.0s\" repeatCount=\"indefinite\"/></circle><circle cx=\"160\" cy=\"60\" r=\"5\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0.25;1;1;0.25\" keyTimes=\"0;0.15;0.5;1\" dur=\"4s\" begin=\"0.6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"200\" cy=\"60\" r=\"5\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0.25;1;1;0.25\" keyTimes=\"0;0.15;0.5;1\" dur=\"4s\" begin=\"1.2s\" repeatCount=\"indefinite\"/></circle><circle cx=\"240\" cy=\"60\" r=\"5\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0.25;1;1;0.25\" keyTimes=\"0;0.15;0.5;1\" dur=\"4s\" begin=\"1.7999999999999998s\" repeatCount=\"indefinite\"/></circle><circle cx=\"280\" cy=\"60\" r=\"5\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0.25;1;1;0.25\" keyTimes=\"0;0.15;0.5;1\" dur=\"4s\" begin=\"2.4s\" repeatCount=\"indefinite\"/></circle><text x=\"200\" y=\"45\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">elke keer gezien</text></svg>",
+   "quiz": {
+    "q": "Wat kreeg Carolyn Davidson in 1983 van Phil Knight?",
+    "o": [
+     "Een bedrijfswagen",
+     "Een gouden ring en 500 aandelen",
+     "Een vaste job als creatief directeur"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Nike: swoosh logo history",
+     "u": "https://about.nike.com/en/stories/nike-swoosh-logo-history"
+    },
+    {
+     "t": "Portland State University: Legendary by design",
+     "u": "https://www.pdx.edu/alumni/legendary-design"
+    },
+    {
+     "t": "ESPN: Carolyn Davidson",
+     "u": "https://www.espn.com/espn/story/_/id/16286876/how-college-student-carolyn-davidson-created-nike-swoosh"
+    }
+   ],
+   "date": "2026-11-26T05:55:39Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "LEGO betekent in het Deens gewoon: speel goed",
+   "body": "De Deense timmerman Ole Kirk Kristiansen uit Billund maakte houten speelgoed. Hij smeedde de naam LEGO uit de Deense woorden 'leg godt', speel goed. Volgens LEGO zelf werd de naam officieel in januari 1936 voor het eerst gebruikt. Hij overwoog ook 'LEGIO', legioenen. Dat 'lego' in het Latijn 'ik verzamel' betekent, was puur toeval.",
+   "take": "Een merknaam die je kernbelofte draagt en in elke taal uitspreekbaar is, is goud waard.",
+   "deep": "## Hoe het werkt\n\nEen goede merknaam is kort, makkelijk uit te spreken, uniek en vertelt liefst iets over wat het merk wil zijn. LEGO scoort op al die punten. Vier letters, twee lettergrepen, in bijna elke taal gelijk uitgesproken. En de betekenis 'speel goed' sluit aan bij de belofte: speelgoed dat goed gemaakt is en goed spelen mogelijk maakt. Omdat het een samengetrokken, nieuw woord is, kon het bedrijf het makkelijk als merk beschermen, iets wat bij gewone woorden moeilijker gaat.\n\n## Een voorbeeld\n\nEen kind in Gent, Tokio of São Paulo zegt allemaal 'lego'. Vergelijk dat met een naam als 'Leg Godt Speelgoed': in het buitenland onuitspreekbaar en saai. Andere merken deden iets gelijkaardigs: Haribo komt van Hans Riegel uit Bonn, Adidas van Adi Dassler. Ook dat zijn samengetrokken namen die overal werken.\n\n## Wat onderzoek zegt\n\nOp de officiële LEGO-geschiedenissite staat dat Ole Kirk Kristiansen de twee Deense woorden 'leg godt' combineerde. Hij overwoog even 'LEGIO', naar legioenen speelgoed, maar koos de naam die goed spelen benadrukt. Volgens de LEGO-site werd de naam in januari 1936 officieel voor het eerst gebruikt; andere bronnen, zoals Wikipedia, noemen 1934 als jaar van de naamgeving. LEGO benadrukt zelf dat het bedrijf toen nog geen bouwspeelgoed maakte, zodat de Latijnse betekenis 'ik verzamel' of 'ik zet samen' toevallig is. De bekende plastic blokjes met noppen en buisjes kwamen er pas in 1958.\n\n## Nuance of misverstand\n\nHet verhaal dat LEGO naar het Latijn vernoemd is, klopt dus niet, hoe goed het ook past bij bouwstenen. Ook de spelling van de stichter verschilt: LEGO schrijft Kristiansen, andere bronnen Christiansen. En zoals in de roltrapzaak: LEGO vraagt al jaren om 'LEGO-blokjes' te zeggen, niet 'legos', om de merknaam te beschermen.\n\n## Wat je ermee doet\n\nBedenk je een naam: test de uitspraak in een paar talen, check of het domein en de merkregistratie vrij zijn, en kijk of de naam ongewenste betekenissen heeft in andere talen. Een kort, verzonnen woord met een verhaal erachter is vaak de beste keuze.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">leg + godt = LEGO</text><rect x=\"40\" y=\"70\" width=\"90\" height=\"40\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"85\" y=\"95\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">leg</text><rect x=\"230\" y=\"70\" width=\"90\" height=\"40\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"275\" y=\"95\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">godt</text><g transform=\"translate(180 150)\"><rect x=\"-60\" y=\"0\" width=\"120\" height=\"44\" rx=\"6\" fill=\"rgba(255,209,102,0.25)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"0\" y=\"28\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"14\" text-anchor=\"middle\">LEGO</text><circle cx=\"-40\" cy=\"-4\" r=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><circle cx=\"-13\" cy=\"-4\" r=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"-4\" r=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><circle cx=\"41\" cy=\"-4\" r=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/></g><line x1=\"85\" y1=\"112\" x2=\"146.5\" y2=\"148.0\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><path d=\"M150 150 L143.0 149.4 L146.1 144.2 Z\" fill=\"#ff6b9d\"/><line x1=\"275\" y1=\"112\" x2=\"213.5\" y2=\"148.0\" stroke=\"#06d6a0\" stroke-width=\"2\"/><path d=\"M210 150 L213.9 144.2 L217.0 149.4 Z\" fill=\"#06d6a0\"/><text x=\"180\" y=\"50\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">'speel goed' (Deens)</text><rect x=\"120\" y=\"140\" width=\"120\" height=\"60\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" rx=\"6\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" from=\"24\" to=\"0\" dur=\"2s\" repeatCount=\"indefinite\"/></rect></svg>",
+   "quiz": {
+    "q": "Waar komt de naam LEGO vandaan?",
+    "o": [
+     "Het Latijnse 'ik verzamel'",
+     "De Deense woorden 'leg godt'",
+     "De initialen van de stichters"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "LEGO: 90 year history of the LEGO name",
+     "u": "https://www.lego.com/en-ae/aboutus/news/2026/february/90-year-history-of-the-lego-name"
+    },
+    {
+     "t": "LEGO: the beginning of the LEGO Group",
+     "u": "https://www.lego.com/en-gb/history/articles/b-the-beginning-of-the-lego-group"
+    }
+   ],
+   "date": "2026-11-26T05:55:39Z"
   }
  ],
  "dives": []
