@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T05:55:39Z",
+ "updated": "2026-11-26T05:59:30Z",
  "cards": [
   {
    "cat": "wetenschap",
@@ -1152,6 +1152,298 @@
     }
    ],
    "date": "2026-11-26T05:55:39Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Rubens schilderde niet alleen vrede, hij onderhandelde ze",
+   "body": "De Antwerpse schilder Pieter Paul Rubens werkte jarenlang als diplomaat voor de Spaanse koning Filips IV. Tussen 1627 en 1630 pendelde hij tussen Madrid en Londen. In november 1630 sloten Spanje en Engeland vrede. Karel I van Engeland sloeg hem in 1630 tot ridder, Filips IV in 1631: als enige schilder door beide koningen geridderd.",
+   "take": "In het Rubenshuis of de National Gallery? Zoek 'Minerva beschermt Pax tegen Mars': een schilderij als diplomatiek cadeau.",
+   "deep": "## Hoe het werkt\n\nIn de zeventiende eeuw was diplomatie vaak persoonlijk. Vorsten stuurden vertrouwelingen om in stilte te polsen of er ruimte was voor een akkoord, lang voor officiële gezanten in beeld kwamen. Een beroemde schilder was daarvoor ideaal. Hij kon zonder argwaan reizen, kreeg toegang tot paleizen omdat koningen zijn werk wilden, en kon in een atelier vrijuit praten met machtige opdrachtgevers. Kunst werd zo ook een taal: een geschenk kon een boodschap overbrengen die in een brief te gevoelig lag.\n\n## Een voorbeeld\n\nAls gezant van Filips IV schonk Rubens in Londen aan Karel I het schilderij 'Minerva beschermt Pax tegen Mars', ook 'Vrede en Oorlog' genoemd. Je ziet de godin van de wijsheid die de oorlogsgod wegduwt, terwijl de Vrede kinderen voedt. Het hangt vandaag in de National Gallery in Londen. De boodschap was duidelijk: vrede brengt welvaart.\n\n## Wat onderzoek zegt\n\nVolgens de National Gallery maakte Rubens het werk in 1629-1630 voor Karel I en gaf hij het als gezant van Filips IV. Een vredesverdrag tussen Engeland en Spanje werd getekend in november 1630. Art UK vermeldt dat Rubens voor zijn rol in de onderhandelingen geridderd werd door Karel I in 1630 en door Filips IV in 1631. Britannica noemt hem de enige schilder die zo door de koningen van beide landen geëerd werd. Volgens History Today was hij al vanaf de jaren 1620 actief als diplomaat en informant voor het Spaanse hof.\n\n## Nuance of misverstand\n\nRubens alleen maakte die vrede niet: het verdrag kwam er omdat beide landen oorlogsmoe en blut waren, en officiële gezanten tekenden. Zijn rol was die van verkenner en bemiddelaar. Ook thuis was zijn positie niet onomstreden: sommige edelen vonden het ongepast dat een 'handwerker' staatszaken behandelde.\n\n## Wat je ermee doet\n\nBezoek het Rubenshuis in Antwerpen en kijk naar zijn werk als meer dan religieuze of mythologische taferelen: veel schilderijen waren politieke boodschappen. En onthoud het principe: soms bereikt een informeel contact met vertrouwen meer dan een formele vergadering.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Schilder als bemiddelaar</text><rect x=\"20\" y=\"80\" width=\"90\" height=\"50\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"65\" y=\"110\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Madrid</text><rect x=\"250\" y=\"80\" width=\"90\" height=\"50\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"295\" y=\"110\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Londen</text><circle cx=\"180\" cy=\"105\" r=\"14\" fill=\"rgba(255,209,102,0.3)\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"cx\" values=\"120;240;120\" dur=\"5s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"70\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Rubens 1627-1630</text><rect x=\"130\" y=\"155\" width=\"100\" height=\"34\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0.25;1;1;0.25\" keyTimes=\"0;0.15;0.5;1\" dur=\"5s\" begin=\"0s\" repeatCount=\"indefinite\"/></rect><text x=\"180\" y=\"177\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">vrede nov 1630</text><text x=\"180\" y=\"210\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ridder: Karel I 1630, Filips IV 1631</text></svg>",
+   "quiz": {
+    "q": "Welke rol speelde Rubens bij de vrede van 1630?",
+    "o": [
+     "Hij was legeraanvoerder",
+     "Hij bemiddelde als diplomaat voor Filips IV",
+     "Hij financierde de oorlog"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "National Gallery: Minerva protects Pax from Mars",
+     "u": "https://nationalgallery.org.uk/paintings/peter-paul-rubens-minerva-protects-pax-from-mars-peace-and-war"
+    },
+    {
+     "t": "Art UK: Rubens",
+     "u": "https://batch.artuk.org/discover/artists/rubens-peter-paul-15771640"
+    },
+    {
+     "t": "Britannica: Rubens, later career",
+     "u": "https://www.britannica.com/biography/Peter-Paul-Rubens/Later-career"
+    }
+   ],
+   "date": "2026-11-26T05:59:30Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Penicilline begon met een vuil petrischaaltje na vakantie",
+   "body": "Toen Alexander Fleming in september 1928 terugkwam van vakantie in zijn labo in het St Mary's Hospital in Londen, zag hij een schaaltje met stafylokokken dat beschimmeld was. Rond de schimmel, Penicillium, waren de bacteriën verdwenen. Pas een decennium later maakten Howard Florey en Ernst Chain in Oxford er een bruikbaar medicijn van. Alle drie kregen in 1945 de Nobelprijs.",
+   "take": "Iets vreemds in je resultaten? Gooi het niet meteen weg: noteer het. Toevallige ontdekkingen vragen een oplettend oog.",
+   "deep": "## Hoe het werkt\n\nPenicilline is een stof die schimmels maken om bacteriën in hun omgeving te bestrijden. Ze verhindert dat bepaalde bacteriën hun celwand goed opbouwen. Groeiende bacteriën barsten daardoor open. Menselijke cellen hebben geen celwand, dus voor ons is penicilline grotendeels onschadelijk, behalve bij een allergie. Dat principe, een middel dat iets raakt wat de ziekteverwekker heeft en wij niet, is de basis van alle antibiotica.\n\n## Een voorbeeld\n\nFleming had schaaltjes met stafylokokken, bacteriën die onder meer wondinfecties en steenpuisten veroorzaken, op zijn werkbank laten staan. Een schimmelspore, mogelijk uit een ander labo in het gebouw, belandde op één schaaltje. Bij zijn terugkeer zag hij een heldere zone rond de schimmel: daar groeiden geen bacteriën. Hij noemde de werkzame stof penicilline.\n\n## Wat onderzoek zegt\n\nVolgens het Science History Institute en de PBS-reeks NewsHour ontdekte Fleming het effect in september 1928 in het St Mary's Hospital in Londen, na een vakantie van ongeveer twee weken. Hij publiceerde erover in 1929, maar kon de stof niet zuiver en stabiel genoeg maken voor gebruik bij patiënten. Rond 1939-1940 slaagde het team van Howard Florey en Ernst Chain aan de universiteit van Oxford erin penicilline te zuiveren en toonde aan dat ze geïnfecteerde muizen genas. Tijdens de Tweede Wereldoorlog werd de productie opgeschaald in de VS. In 1945 deelden Fleming, Florey en Chain de Nobelprijs geneeskunde.\n\n## Nuance of misverstand\n\nHet verhaal van 'de toevallige ontdekking' vergeet vaak het harde werk van de Oxfordgroep, waaronder ook Norman Heatley die de productietechniek uitwerkte. Bovendien waarschuwde Fleming zelf al in 1945 dat bacteriën resistent kunnen worden als men antibiotica verkeerd gebruikt. Die waarschuwing is vandaag actueler dan ooit.\n\n## Wat je ermee doet\n\nNeem antibiotica alleen als een arts ze voorschrijft, maak de kuur af zoals gevraagd, en gebruik ze niet bij virale infecties zoals griep. En bij eigen werk: wees nieuwsgierig naar mislukte proeven. Een 'fout' is soms een signaal.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Schimmel maakt een heldere zone</text><circle cx=\"180\" cy=\"115\" r=\"85\" fill=\"rgba(255,255,255,0.06)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"250\" cy=\"115\" r=\"4\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><circle cx=\"233\" cy=\"159\" r=\"4\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><circle cx=\"192\" cy=\"183\" r=\"4\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><circle cx=\"146\" cy=\"175\" r=\"4\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><circle cx=\"115\" cy=\"139\" r=\"4\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><circle cx=\"115\" cy=\"92\" r=\"4\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><circle cx=\"145\" cy=\"55\" r=\"4\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><circle cx=\"191\" cy=\"47\" r=\"4\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><circle cx=\"233\" cy=\"70\" r=\"4\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><circle cx=\"229\" cy=\"138\" r=\"4\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"1;0;1\" dur=\"5s\" repeatCount=\"indefinite\"/></circle><circle cx=\"192\" cy=\"168\" r=\"4\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"1;0;1\" dur=\"5s\" repeatCount=\"indefinite\"/></circle><circle cx=\"146\" cy=\"158\" r=\"4\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"1;0;1\" dur=\"5s\" repeatCount=\"indefinite\"/></circle><circle cx=\"126\" cy=\"115\" r=\"4\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"1;0;1\" dur=\"5s\" repeatCount=\"indefinite\"/></circle><circle cx=\"146\" cy=\"73\" r=\"4\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"1;0;1\" dur=\"5s\" repeatCount=\"indefinite\"/></circle><circle cx=\"192\" cy=\"62\" r=\"4\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"1;0;1\" dur=\"5s\" repeatCount=\"indefinite\"/></circle><circle cx=\"229\" cy=\"91\" r=\"4\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"1;0;1\" dur=\"5s\" repeatCount=\"indefinite\"/></circle><circle cx=\"180\" cy=\"115\" r=\"15\" fill=\"rgba(6,214,160,0.5)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><circle cx=\"180\" cy=\"115\" r=\"20\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"r\" values=\"18;45;18\" dur=\"5s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"215\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Penicillium (groen) doodt stafylokokken (roze)</text></svg>",
+   "quiz": {
+    "q": "Wie maakte penicilline geschikt als medicijn?",
+    "o": [
+     "Fleming alleen, in 1928",
+     "Florey en Chain in Oxford",
+     "Louis Pasteur"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Science History Institute: Alexander Fleming",
+     "u": "https://www.sciencehistory.org/historical-profile/alexander-fleming"
+    },
+    {
+     "t": "PBS NewsHour: the real story behind the first antibiotic",
+     "u": "https://www.pbs.org/newshour/health/the-real-story-behind-the-worlds-first-antibiotic"
+    }
+   ],
+   "date": "2026-11-26T05:59:30Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Je stofwisseling vertraagt niet op je veertigste",
+   "body": "Herman Pontzer en collega's analyseerden metingen van 6.421 mensen van acht dagen tot 95 jaar uit 29 landen. In Science (2021) toonden ze: rekening houdend met lichaamsgrootte is je verbranding tussen ongeveer 20 en 60 jaar opvallend stabiel. Ze piekt rond je eerste levensjaar en daalt pas na je zestigste, met minder dan 1 procent per jaar.",
+   "take": "Kilo's erbij na je veertigste? Kijk naar beweging, spiermassa en eten, niet naar een 'tragere stofwisseling'.",
+   "deep": "## Hoe het werkt\n\nJe lichaam verbruikt energie voor drie dingen: in leven blijven (hart, hersenen, temperatuur), bewegen, en eten verteren. Meten hoeveel iemand echt verbrandt in het dagelijks leven is lastig. De beste methode heet dubbel gelabeld water: je drinkt water met zeldzame, niet-radioactieve varianten van waterstof en zuurstof. Via urinestalen zien onderzoekers hoe snel die eruit verdwijnen. Zuurstof verlaat je lichaam ook via koolstofdioxide, waterstof niet. Uit het verschil kun je berekenen hoeveel energie je verbruikt.\n\n## Een voorbeeld\n\nIemand van 45 die zegt 'vroeger kon ik eten wat ik wilde, nu niet meer', heeft volgens deze studie meestal geen tragere stofwisseling dan op zijn 25ste, als je corrigeert voor lichaamsgewicht en spiermassa. Wel bewegen veel mensen minder, zitten ze meer achter een bureau of in de auto, en verliezen ze geleidelijk spiermassa.\n\n## Wat onderzoek zegt\n\nVolgens Duke University analyseerde het team van Herman Pontzer 6.421 mensen uit 29 landen, van acht dagen tot 95 jaar oud. Ze onderscheidden vier levensfasen. Tot ongeveer één jaar stijgt de verbranding, per kilo, tot zo'n 50 procent boven het volwassen niveau. Daarna daalt ze tot rond je twintigste met ongeveer 3 procent per jaar. Tussen 20 en 60 blijft ze stabiel, ook tijdens zwangerschap en menopauze. Na 60 daalt ze met ongeveer 0,7 procent per jaar. De onderzoekers corrigeerden voor spiermassa en vonden dat ook de cellen zelf vertragen bij ouderen.\n\n## Nuance of misverstand\n\nStabiel 'gecorrigeerd voor lichaamsgrootte' betekent niet dat iedereen even veel verbrandt: grotere en gespierdere mensen verbranden meer. Het gaat om gemiddelden; individuen verschillen. En dat je stofwisseling stabiel blijft, wil niet zeggen dat aankomen niet gebeurt: het komt alleen door andere factoren.\n\n## Wat je ermee doet\n\nWil je je gewicht stabiel houden na je dertigste, focus dan op wat je wel kunt sturen: dagelijks bewegen, krachttraining om spiermassa te behouden, voldoende eiwitten en slaap. Na je zestigste wordt die spierkracht nog belangrijker, ook voor evenwicht en zelfstandigheid.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Verbranding per leeftijd (gecorrigeerd)</text><line x1=\"30\" y1=\"190\" x2=\"336.0\" y2=\"190.0\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M340 190 L333.7 193.0 L333.7 187.0 Z\" fill=\"#fff\"/><line x1=\"30\" y1=\"190\" x2=\"30.0\" y2=\"44.0\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M30 40 L33.0 46.3 L27.0 46.3 Z\" fill=\"#fff\"/><text x=\"330\" y=\"207\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">leeftijd</text><path d=\"M30 140 L50 60 L100 120 L140 125 L260 125 L330 150\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"><animate attributeName=\"stroke-dasharray\" values=\"0 500;500 0\" dur=\"5s\" repeatCount=\"indefinite\"/></path><text x=\"55\" y=\"52\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1 jaar</text><text x=\"140\" y=\"145\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">20</text><text x=\"260\" y=\"145\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">60</text><text x=\"200\" y=\"115\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">stabiel</text><text x=\"305\" y=\"170\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">−0,7%/jaar</text></svg>",
+   "quiz": {
+    "q": "Tussen welke leeftijden blijft de verbranding volgens Pontzer vrij stabiel?",
+    "o": [
+     "Tussen 1 en 20 jaar",
+     "Tussen ongeveer 20 en 60 jaar",
+     "Pas na 60 jaar"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Duke Today: Metabolism changes with age",
+     "u": "https://today.duke.edu/2021/08/metabolism-changes-age-just-not-when-you-might-think"
+    },
+    {
+     "t": "NSF: Metabolism changes with age",
+     "u": "https://www.nsf.gov/news/metabolism-changes-age-not-when-people-might-think"
+    },
+    {
+     "t": "PMC: Pontzer e.a. 2021",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8370708"
+    }
+   ],
+   "date": "2026-11-26T05:59:30Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "De vijfsecondenregel geldt niet: bacteriën springen meteen over",
+   "body": "Donald Schaffner en Robyn Miranda van Rutgers University lieten in 2016 watermeloen, brood, boterham met boter en gummisnoep vallen op tegels, inox, hout en tapijt vol bacteriën. Contacttijden: minder dan 1, 5, 30 en 300 seconden. Overdracht gebeurde al binnen één seconde. Natte watermeloen pikte het meest op, gummisnoep het minst. Tapijt gaf verrassend weinig over.",
+   "take": "Iets op de grond gevallen? Hoe natter het eten en hoe gladder de vloer, hoe sneller je het weggooit.",
+   "deep": "## Hoe het werkt\n\nBacteriën kruipen niet naar je eten; ze worden overgedragen via contact en vooral via vocht. Natte voedingsmiddelen maken direct een vochtfilm met het oppervlak, waarin bacteriën meegaan. Droge, harde voedingsmiddelen raken het oppervlak op minder punten en hebben geen vochtbrug. Gladde oppervlakken zoals tegels en inox laten bacteriën makkelijker los dan tapijt, waar ze tussen de vezels blijven hangen. Langer contact betekent wel meer overdracht, maar 'meer' begint al bij nul seconden.\n\n## Een voorbeeld\n\nEen schijfje watermeloen dat op de keukentegels valt, heeft na een tel al bacteriën van de vloer opgepikt. Een gummibeertje dat op tapijt valt en je meteen opraapt, neemt er veel minder mee. Of dat erg is, hangt vooral af van wat er op die vloer lag: rauw kippenvocht op het aanrecht is iets anders dan stof in de woonkamer.\n\n## Wat onderzoek zegt\n\nRobyn Miranda en Donald Schaffner publiceerden hun studie in 2016 in Applied and Environmental Microbiology. Ze besmetten oppervlakken met Enterobacter aerogenes, een onschuldige verwant van salmonella, en testten vier voedingsmiddelen en vier ondergronden, met contacttijden van minder dan één seconde tot vijf minuten. Volgens Rutgers University vonden ze overdracht in minder dan één seconde. Watermeloen nam het meest op, gummisnoep het minst. Tapijt gaf het minst door; bij hout varieerde het sterk. Langere contacttijd gaf in het algemeen meer overdracht.\n\n## Nuance of misverstand\n\nDe studie zegt niet dat je ziek wordt van elk gevallen koekje. Het risico hangt af van welke bacteriën er liggen en hoeveel. Je eigen keukenvloer is meestal niet de grote bron van voedselinfecties; slecht gekoelde of onvoldoende gegaarde etenswaren zijn dat veel vaker. Maar de 'regel' van vijf seconden heeft geen wetenschappelijke basis.\n\n## Wat je ermee doet\n\nGooi natte of kleverige etenswaren die op de grond vallen weg, zeker in de keuken waar rauw vlees verwerkt wordt. Maak snijplanken en aanrechten na rauw vlees of vis meteen grondig schoon. En voor kinderen: jonge, oudere en zieke mensen zijn gevoeliger, dus daar is voorzichtigheid extra zinvol.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Overdracht start meteen</text><line x1=\"20\" y1=\"170\" x2=\"340\" y2=\"170\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"195\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">vloer met bacteriën</text><circle cx=\"40\" cy=\"170\" r=\"3\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><circle cx=\"65\" cy=\"170\" r=\"3\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><circle cx=\"90\" cy=\"170\" r=\"3\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><circle cx=\"115\" cy=\"170\" r=\"3\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><circle cx=\"140\" cy=\"170\" r=\"3\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><circle cx=\"165\" cy=\"170\" r=\"3\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><circle cx=\"190\" cy=\"170\" r=\"3\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><circle cx=\"215\" cy=\"170\" r=\"3\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><circle cx=\"240\" cy=\"170\" r=\"3\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><circle cx=\"265\" cy=\"170\" r=\"3\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><circle cx=\"290\" cy=\"170\" r=\"3\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><circle cx=\"315\" cy=\"170\" r=\"3\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><circle cx=\"340\" cy=\"170\" r=\"3\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><g><rect x=\"150\" y=\"0\" width=\"60\" height=\"30\" rx=\"4\" fill=\"rgba(6,214,160,0.3)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">meloen</text><animateTransform attributeName=\"transform\" type=\"translate\" values=\"0 40;0 140;0 140;0 40\" keyTimes=\"0;0.3;0.6;1\" dur=\"4s\" repeatCount=\"indefinite\"/></g><circle cx=\"170\" cy=\"165\" r=\"3\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"cy\" values=\"170;170;150;150;170\" keyTimes=\"0;0.3;0.35;0.95;1\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><circle cx=\"180\" cy=\"165\" r=\"3\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"cy\" values=\"170;170;150;150;170\" keyTimes=\"0;0.3;0.35;0.95;1\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><circle cx=\"190\" cy=\"165\" r=\"3\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"cy\" values=\"170;170;150;150;170\" keyTimes=\"0;0.3;0.35;0.95;1\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><text x=\"300\" y=\"60\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">&lt; 1 seconde</text></svg>",
+   "quiz": {
+    "q": "Welk voedingsmiddel pikte in de Rutgers-studie het meeste bacteriën op?",
+    "o": [
+     "Gummisnoep",
+     "Watermeloen",
+     "Droog brood"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Rutgers: researchers debunk five-second rule",
+     "u": "https://www.rutgers.edu/news/rutgers-researchers-debunk-five-second-rule-eating-food-floor-isnt-safe"
+    },
+    {
+     "t": "PMC: Miranda & Schaffner 2016",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5066366"
+    }
+   ],
+   "date": "2026-11-26T05:59:30Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Bluetooth is vernoemd naar een Deense Vikingkoning",
+   "body": "Intel-ingenieur Jim Kardach stelde eind jaren 1990 'Bluetooth' voor als tijdelijke codenaam voor een draadloze standaard van onder meer Intel, Ericsson en Nokia. Hij had gelezen over Harald Blauwtand Gormsson, de tiende-eeuwse koning die Denemarken en Noorwegen verenigde. Zo zou de technologie toestellen verenigen. Het logo combineert de runen voor H en B, zijn initialen.",
+   "take": "Bedenk je een projectnaam? Een goede codenaam met een verhaal blijft vaak langer hangen dan gepland.",
+   "deep": "## Hoe het werkt\n\nEen codenaam is een tijdelijke naam voor een project zolang het nog geheim is of de marketingafdeling nog geen naam heeft gekozen. Bluetooth was zo'n naam. Het verhaal paste: koning Harald Blauwtand bracht in de tiende eeuw rivaliserende Scandinavische gebieden samen, en de nieuwe draadloze standaard moest toestellen van rivaliserende merken met elkaar laten praten. Toen de officiële kandidaat-namen niet bruikbaar bleken, bleef de codenaam hangen. Het logo bestaat uit twee in elkaar geschoven runen uit het jongere futhark-alfabet: Hagall voor H en Bjarkan voor B.\n\n## Een voorbeeld\n\nElke keer dat je je draadloze oortjes koppelt aan je gsm of je auto, staat dat blauwe runensymbool op je scherm. Het is letterlijk de handtekening van een Vikingkoning. In Denemarken staan in Jelling nog runenstenen die Harald zelf liet maken, waarop hij zegt dat hij Denemarken en Noorwegen won en de Denen christen maakte.\n\n## Wat onderzoek zegt\n\nDe Bluetooth Special Interest Group vertelt op haar officiële site dat Jim Kardach van Intel de naam voorstelde als tijdelijke codenaam, nadat hij een boek over Vikingen had gelezen. Volgens verschillende bronnen ontstond het idee tijdens een avond met Ericsson-ingenieur Sven Mattisson in Toronto. De jaartallen variëren in de bronnen tussen 1996 en 1997. De SIG bevestigt dat het logo de runen Hagall en Bjarkan combineert. De bijnaam 'Blauwtand' zou volgens sommige historici verwijzen naar een dode, verkleurde tand, maar dat is niet zeker.\n\n## Nuance of misverstand\n\nDe naam was nooit bedoeld om te blijven. Andere voorstellen, zoals 'RadioWire' en 'PAN', vielen af omdat ze juridisch of praktisch niet haalbaar waren tegen de lanceringsdatum. En Harald heeft natuurlijk niets met radiogolven te maken: het verband is louter symbolisch.\n\n## Wat je ermee doet\n\nLeg bij een project meteen vast of een naam tijdelijk of definitief is, en check de merkrechten vroeg. Een sterke codenaam met een verhaal kan blijven plakken, in goede of slechte zin. En wie naar Denemarken gaat: de runenstenen van Jelling staan op de werelderfgoedlijst van UNESCO.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">H + B = Bluetooth</text><path d=\"M80 60 L80 160 M60 90 L100 130 M100 90 L60 130\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"80\" y=\"185\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Hagall (H)</text><path d=\"M270 60 L270 160 L300 135 L270 110 L300 85 L270 60\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"285\" y=\"185\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Bjarkan (B)</text><g><path d=\"M180 60 L180 160 L205 135 L155 85 M180 60 L205 85 L155 135\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"/><animate attributeName=\"opacity\" values=\"0.2;1;0.2\" dur=\"4s\" repeatCount=\"indefinite\"/></g><line x1=\"105\" y1=\"110\" x2=\"141.0\" y2=\"110.0\" stroke=\"#ffd166\" stroke-width=\"2\"/><path d=\"M145 110 L138.7 113.0 L138.7 107.0 Z\" fill=\"#ffd166\"/><line x1=\"255\" y1=\"110\" x2=\"219.0\" y2=\"110.0\" stroke=\"#ffd166\" stroke-width=\"2\"/><path d=\"M215 110 L221.3 107.0 L221.3 113.0 Z\" fill=\"#ffd166\"/><text x=\"180\" y=\"185\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">logo</text></svg>",
+   "quiz": {
+    "q": "Waarom koos men de naam Bluetooth?",
+    "o": [
+     "Het eerste toestel was blauw",
+     "Naar een koning die rijken verenigde",
+     "Het is een afkorting"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Bluetooth SIG: origin of the name",
+     "u": "https://bluetooth.com/about-us/bluetooth-origin/"
+    },
+    {
+     "t": "National Geographic: Viking origins of Bluetooth",
+     "u": "https://www.nationalgeographic.com/premium/article/bluetooth-technology-viking-king-harald"
+    }
+   ],
+   "date": "2026-11-26T05:59:30Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Edison koos 'hello' voor de telefoon, Bell wou 'ahoy'",
+   "body": "Alexander Graham Bell nam de telefoon op met 'ahoy', een groet van op zee. Thomas Edison schreef op 15 augustus 1877 in een brief dat 'hello' tot 3 à 6 meter ver te horen was, en promootte dat woord. De eerste telefoonhandleiding uit New Haven (1878) raadde 'hulloa' aan. Rond 1880 had 'hello' 'ahoy' verdrongen.",
+   "take": "Neem je op met 'hallo'? Je volgt een technische keuze uit 1877: een woord dat duidelijk door de lijn kwam.",
+   "deep": "## Hoe het werkt\n\nEen nieuw toestel vraagt nieuwe gewoontes. Bij de eerste telefoons wist niemand hoe je een gesprek moest beginnen. Je zag de ander niet, de geluidskwaliteit was slecht, en vaak moest je eerst controleren of er überhaupt iemand aan de lijn was. Een korte, luide uitroep werkte het best. 'Hello', toen nog vooral een kreet om aandacht te trekken of verbazing uit te drukken, had heldere klinkers en een duidelijke klemtoon. Het won van alternatieven omdat het praktisch was en omdat Edisons bedrijf veel telefoons installeerde.\n\n## Een voorbeeld\n\nIn het Nederlands nemen we vaak op met 'hallo' of met onze naam. In Italië zegt men 'pronto' (klaar), in Japan 'moshi moshi'. Telkens is het een kort signaal: ik ben hier, je kunt praten. Bell bleef zelf tot het einde 'ahoy' zeggen, wat later een grap werd in tekenfilms.\n\n## Wat onderzoek zegt\n\nNPR en Merriam-Webster vertellen dat Edison op 15 augustus 1877 aan T.B.A. David schreef dat 'Hello!' op 10 à 20 voet afstand te horen was. Volgens Merriam-Webster en lexicograaf Ammon Shea bracht Edison het woord zo in algemeen gebruik. De eerste telefoonhandleiding, in 1878 uitgegeven in New Haven, raadde 'hulloa' aan als begroeting. Het woord bestond al eerder: Mark Twain gebruikte varianten in 'Tom Sawyer' (1876). Rond 1880 lijkt 'hello' 'ahoy' verdrongen te hebben, en tegen eind jaren 1880 werden telefonistes 'hello girls' genoemd.\n\n## Nuance of misverstand\n\nEdison bedacht het woord niet, en waarom hij net 'hello' koos, is onbekend. Hij hielp vooral een bestaand woord een nieuwe functie te geven. Ook 'ahoy' is verwant aan onze taal: het zou teruggaan op het Nederlandse 'hoi'.\n\n## Wat je ermee doet\n\nGebruik het voorbeeld om te zien hoe technologie taal vormt: van 'hello' bij de telefoon tot 'googelen' en 'appen'. Wil je zelf duidelijk zijn in een rumoerige omgeving of slechte verbinding, kies dan korte woorden met open klinkers.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Wie wint de begroeting?</text><rect x=\"30\" y=\"60\" width=\"120\" height=\"50\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"90\" y=\"82\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Bell</text><text x=\"90\" y=\"100\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">'ahoy!'</text><rect x=\"210\" y=\"60\" width=\"120\" height=\"50\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"270\" y=\"82\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Edison</text><text x=\"270\" y=\"100\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">'hello!'</text><circle cx=\"270\" cy=\"140\" r=\"8\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"r\" values=\"5;40\" dur=\"2.5s\" begin=\"0.0s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;0\" dur=\"2.5s\" begin=\"0.0s\" repeatCount=\"indefinite\"/></circle><circle cx=\"270\" cy=\"140\" r=\"8\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"r\" values=\"5;40\" dur=\"2.5s\" begin=\"-0.8s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;0\" dur=\"2.5s\" begin=\"-0.8s\" repeatCount=\"indefinite\"/></circle><circle cx=\"270\" cy=\"140\" r=\"8\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"r\" values=\"5;40\" dur=\"2.5s\" begin=\"-1.6s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;0\" dur=\"2.5s\" begin=\"-1.6s\" repeatCount=\"indefinite\"/></circle><text x=\"90\" y=\"145\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1876</text><text x=\"180\" y=\"200\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1877: hello tot 6 meter hoorbaar</text></svg>",
+   "quiz": {
+    "q": "Welke begroeting gebruikte Alexander Graham Bell aan de telefoon?",
+    "o": [
+     "Hello",
+     "Ahoy",
+     "Pronto"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "NPR: A shockingly short history of hello",
+     "u": "https://www.npr.org/blogs/krulwich/2011/02/17/133785829/a-shockingly-short-history-of-hello"
+    },
+    {
+     "t": "Merriam-Webster: Where does 'hello' come from?",
+     "u": "https://merriam-webster.com/wordplay/the-origin-of-hello"
+    }
+   ],
+   "date": "2026-11-26T05:59:30Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Lewis Carroll stopte twee woorden in één koffer",
+   "body": "In 'Through the Looking-Glass' (1871) legt Humpty Dumpty aan Alice uit dat 'slithy' 'lithe' en 'slimy' samenvoegt: twee betekenissen in één woord, zoals een portmanteau, een koffer met twee vakken. Volgens Britannica gebruikte Lewis Carroll als eerste dat woord voor zo'n versmelting. Hij bedacht ook 'chortle', uit chuckle en snort.",
+   "take": "Zoek je een productnaam? Een versmelting zoals 'brunch' of 'Brexit' vertelt in één woord twee dingen.",
+   "deep": "## Hoe het werkt\n\nEen portmanteauwoord of mengwoord ontstaat als je delen van twee woorden in elkaar schuift, zodat beide betekenissen hoorbaar blijven. Anders dan bij een gewone samenstelling, zoals 'voetbal', verlies je stukken van de woorden. Het werkt het best als de woorden op een plek overlappen in klank: 'smog' uit smoke en fog, 'motel' uit motor en hotel. Ons brein herkent de fragmenten en plakt de betekenissen samen. Daardoor kan één kort woord een hele nieuwe combinatie van ideeën dragen.\n\n## Een voorbeeld\n\nIn het Nederlands kennen we 'brunch' (ontleend), 'infotainment', 'Benelux' (België, Nederland, Luxemburg) en 'Brexit' (Britain en exit). Ook 'smartlap' wordt soms zo genoemd, al is dat eerder een samenstelling. Merknamen gebruiken het graag: Microsoft komt van microcomputer en software.\n\n## Wat onderzoek zegt\n\nVolgens Britannica, die zich baseert op de Oxford English Dictionary, gebruikte Lewis Carroll als eerste 'portmanteau' voor een bepaald soort woord. In 'Through the Looking-Glass', uitgegeven eind 1871 (op de titelpagina staat 1872), vraagt Alice uitleg bij het onzingedicht 'Jabberwocky'. Humpty Dumpty zegt dat 'slithy' 'lithe and slimy' betekent: 'You see it's like a portmanteau, there are two meanings packed up into one word.' Een portmanteau was een reiskoffer die in twee helften openklapte. Carroll bedacht ook 'chortle' (chuckle plus snort) en 'galumph' (gallop plus triumph), die vandaag in Engelse woordenboeken staan.\n\n## Nuance of misverstand\n\nCarroll vond het fenomeen niet uit: mengwoorden bestonden al eerder. Zelfs 'slithy' werd volgens Interesting Literature al in 1622 gebruikt in een andere betekenis. Wat hij deed, was het verschijnsel een naam geven en het speels populair maken.\n\n## Wat je ermee doet\n\nProbeer bij brainstorms voor namen eens twee kernwoorden te versmelten. Test dan of mensen beide delen nog herkennen; als niemand het oorspronkelijke woord hoort, verlies je het voordeel. En geniet van het gedicht 'Jabberwocky': veel van die verzonnen woorden begrijp je toch half.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Twee woorden, één koffer</text><rect x=\"40\" y=\"60\" width=\"100\" height=\"36\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"90\" y=\"83\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">slimy</text><rect x=\"220\" y=\"60\" width=\"100\" height=\"36\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"270\" y=\"83\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">lithe</text><g transform=\"translate(90 78)\"><rect x=\"-30\" y=\"-15\" width=\"60\" height=\"30\" rx=\"4\" fill=\"rgba(6,214,160,0.2)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><animateTransform attributeName=\"transform\" type=\"translate\" values=\"90 78;180 150;180 150;90 78\" dur=\"4s\" repeatCount=\"indefinite\"/></g><g transform=\"translate(270 78)\"><rect x=\"-30\" y=\"-15\" width=\"60\" height=\"30\" rx=\"4\" fill=\"rgba(255,107,157,0.2)\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><animateTransform attributeName=\"transform\" type=\"translate\" values=\"270 78;180 150;180 150;270 78\" dur=\"4s\" repeatCount=\"indefinite\"/></g><rect x=\"120\" y=\"130\" width=\"120\" height=\"44\" rx=\"6\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"180\" y=\"198\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">slithy</text></svg>",
+   "quiz": {
+    "q": "Wat betekende 'portmanteau' oorspronkelijk?",
+    "o": [
+     "Een reiskoffer met twee vakken",
+     "Een soort jas",
+     "Een Frans gedicht"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Britannica: portmanteau word",
+     "u": "https://www.britannica.com/print/article/471231"
+    },
+    {
+     "t": "Dictionary.com: words invented by Lewis Carroll",
+     "u": "https://www.dictionary.com/e/words-invented-by-lewis-carroll/"
+    }
+   ],
+   "date": "2026-11-26T05:59:30Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "De bliksem slaat wel vaker op dezelfde plek in",
+   "body": "'De bliksem slaat nooit twee keer op dezelfde plek in' is een mythe, zegt NASA. Hoge, spitse en vrijstaande objecten worden net herhaaldelijk getroffen. Het Empire State Building in New York krijgt volgens de New Yorkse noodplanningsdienst, op basis van de National Weather Service, gemiddeld zo'n 25 inslagen per jaar. Daarom hebben hoge gebouwen bliksemafleiders.",
+   "take": "Onweer in open veld? Schuil niet onder één losstaande boom: net die trekt de inslag aan.",
+   "deep": "## Hoe het werkt\n\nEen onweerswolk bouwt een enorme elektrische spanning op tegenover de grond. Uit de wolk zakt een onzichtbaar kanaal van geladen lucht naar beneden, de leider. Tegelijk schieten vanaf hoge punten op de grond kleine ontladingen omhoog. Waar die elkaar raken, ontstaat het pad voor de echte bliksemflits. Hoe hoger en spitser een object, hoe korter de afstand tot de leider en hoe sterker het elektrisch veld aan de top. Dat object krijgt dus telkens opnieuw een voorsprong. Er is geen 'geheugen' dat een plek beschermt na een inslag.\n\n## Een voorbeeld\n\nKerktorens in Vlaanderen werden vroeger regelmatig door de bliksem getroffen en brandden soms af. Sinds bliksemafleiders, een metalen staaf op het hoogste punt met een dikke geleider naar de aarde, gaat de stroom veilig naar de grond. De toren wordt nog steeds getroffen, maar raakt niet beschadigd.\n\n## Wat onderzoek zegt\n\nNASA's Goddard Space Flight Center noemt het spreekwoord een mythe en legt uit dat bliksem vaak herhaaldelijk op dezelfde plaats inslaat, zeker bij hoge, spitse en geïsoleerde objecten. De New Yorkse dienst voor noodbeheer meldt, op basis van de National Weather Service, dat het Empire State Building gemiddeld 25 keer per jaar getroffen wordt. Andere bronnen, zoals NASA's eigen klimatologiepagina, noemen ongeveer 23 keer volgens de Amerikaanse weerdienst NOAA. Hogere schattingen tot 100 keer zijn niet officieel onderbouwd.\n\n## Nuance of misverstand\n\nOok één flits kan meerdere keren inslaan: wat je als één bliksem ziet, bestaat vaak uit meerdere ontladingen langs hetzelfde kanaal, binnen een fractie van een seconde. Het flikkeren dat je soms ziet, is precies dat.\n\n## Wat je ermee doet\n\nBij onweer: ga binnen of in een auto met metalen dak. Vermijd losstaande bomen, masten en open water. Ben je in open veld zonder schuilplaats, hurk dan laag met je voeten tegen elkaar. Wacht na de laatste donder nog een halfuur voor je weer naar buiten gaat.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Hoog en spits = vaker raak</text><path d=\"M40 40 Q 80 20 120 40 Q 180 15 240 40 Q 300 20 330 40 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"170\" y=\"90\" width=\"30\" height=\"110\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"185\" y1=\"90\" x2=\"185\" y2=\"70\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"240\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">toren + afleider</text><path d=\"M185 45 L175 60 L190 62 L180 70\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0;0;1;0;1;0;0\" keyTimes=\"0;0.5;0.55;0.6;0.65;0.7;1\" dur=\"3s\" repeatCount=\"indefinite\"/></path><rect x=\"40\" y=\"170\" width=\"30\" height=\"30\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"55\" y=\"212\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">laag</text><text x=\"300\" y=\"90\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">± 25 keer</text><text x=\"300\" y=\"106\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">per jaar</text><text x=\"300\" y=\"122\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">(Empire State)</text></svg>",
+   "quiz": {
+    "q": "Klopt het dat de bliksem nooit twee keer op dezelfde plek inslaat?",
+    "o": [
+     "Ja, de lading is dan op",
+     "Nee, hoge objecten worden herhaaldelijk getroffen",
+     "Alleen in de zomer"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "NASA SVS: Where does lightning strike?",
+     "u": "https://svs.gsfc.nasa.gov/30872/"
+    },
+    {
+     "t": "NYC Emergency Management: thunderstorms",
+     "u": "https://www.nyc.gov/site/em/ready/thunderstorms.page"
+    }
+   ],
+   "date": "2026-11-26T05:59:30Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "Het duurt altijd langer, ook als je dat incalculeert",
+   "body": "Douglas Hofstadter schreef in 1979 in 'Gödel, Escher, Bach': 'Het duurt altijd langer dan je verwacht, zelfs als je rekening houdt met de wet van Hofstadter.' Hij dacht aan schaakcomputers: al in de jaren 1960 voorspelde men een computer-wereldkampioen binnen tien jaar. Het lukte pas in 1997, toen Deep Blue van IBM Garry Kasparov versloeg.",
+   "take": "Plan je een project? Schat in stappen, tel er buffer bij, en vergelijk met hoe lang gelijkaardige projecten écht duurden.",
+   "deep": "## Hoe het werkt\n\nBij plannen stel je je meestal het scenario voor waarin alles volgens plan verloopt. Onverwachte zaken zoals ziekte, wachttijd op anderen, fouten of extra wensen pas je niet in, omdat je niet weet welke het zullen zijn. Maar dat er iets onverwachts komt, is net zeker. Hofstadter maakte er een grap van die zichzelf herhaalt: zelfs als je extra tijd voorziet, onderschat je opnieuw. Psychologen noemen het verwante verschijnsel de planningsdrogreden.\n\n## Een voorbeeld\n\nJe verbouwing zou drie maanden duren. Je rekent er zelf al vier. Uiteindelijk worden het er zes, omdat de tegels te laat geleverd worden, de loodgieter ziek is en er onder de oude vloer een verrassing zat. Of op het werk: een 'klein' rapport voor vrijdag eindigt dinsdag erna.\n\n## Wat onderzoek zegt\n\nHofstadter formuleerde de wet in 1979 in zijn boek 'Gödel, Escher, Bach: An Eternal Golden Braid', in een passage over schaakcomputers. Die rekenden toen al dieper vooruit dan mensen, maar verloren nog altijd van topspelers. Men had verwacht dat een computer binnen tien jaar wereldkampioen zou zijn; tien jaar later was het nog niet zover. In mei 1997 versloeg IBM's Deep Blue regerend wereldkampioen Garry Kasparov in een match: ongeveer achttien jaar na Hofstadters opmerking. Onderzoek van Roger Buehler en collega's in de jaren 1990 bevestigde dat studenten hun afwerktijden systematisch onderschatten, ook als ze aan eerdere vertragingen herinnerd werden.\n\n## Nuance of misverstand\n\nDe 'wet' is een geestige observatie, geen meetbare natuurwet. Niet elk project loopt uit. Maar gemiddeld, en zeker bij nieuwe en complexe taken, is uitlopen de regel. Het lost zich niet op door gewoon 'meer buffer' te nemen, want die buffer wordt vaak ook opgesoupeerd: denk aan de wet van Parkinson.\n\n## Wat je ermee doet\n\nGebruik referentieklassen: kijk hoe lang vergelijkbare projecten van jezelf of anderen echt duurden, en vertrek van dat cijfer. Knip werk op in kleine stappen en schat die afzonderlijk. Plan vaste tussentijdse controles, zodat je vroeg ziet dat het uitloopt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Plan vs werkelijkheid</text><rect x=\"30\" y=\"70\" width=\"120\" height=\"24\" rx=\"4\" fill=\"rgba(6,214,160,0.3)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"90\" y=\"87\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">plan</text><rect x=\"30\" y=\"110\" width=\"160\" height=\"24\" rx=\"4\" fill=\"rgba(255,209,102,0.3)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"110\" y=\"127\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">plan + buffer</text><rect x=\"30\" y=\"150\" width=\"0\" height=\"24\" rx=\"4\" fill=\"rgba(255,107,157,0.4)\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"width\" values=\"0;290;290\" keyTimes=\"0;0.8;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"60\" y=\"167\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">echt</text><text x=\"180\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">schaakcomputer: 'binnen 10 jaar' → 1997</text></svg>",
+   "quiz": {
+    "q": "Wanneer versloeg een computer de regerende wereldkampioen schaken?",
+    "o": [
+     "In 1979",
+     "In 1997",
+     "In 2007"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "TechTarget: Hofstadter's law",
+     "u": "https://www.techtarget.com/whatis/definition/Hofstadters-law"
+    },
+    {
+     "t": "NYU: Hofstadter (pdf)",
+     "u": "https://cs.nyu.edu/~ed1/papers/hofstadter.pdf"
+    }
+   ],
+   "date": "2026-11-26T05:59:30Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "Zelf deadlines zetten helpt, maar minder dan opgelegde",
+   "body": "Dan Ariely en Klaus Wertenbroch publiceerden in 2002 in Psychological Science een studie over uitstelgedrag. Studenten die zelf tussentijdse deadlines mochten kiezen, deden dat ook, en presteerden beter dan wie één einddeadline had. Maar door de docent gelijk gespreide deadlines werkten nog beter: mensen kozen hun eigen deadlines niet optimaal. Recente herhalingsstudies vonden het effect echter niet altijd terug.",
+   "take": "Groot werk? Laat iemand anders tussentijdse deadlines vastleggen, of maak ze bindend met een afspraak.",
+   "deep": "## Hoe het werkt\n\nUitstellen gebeurt omdat de kosten van werken nu voelbaar zijn en de voordelen pas later komen. Een deadline brengt een deel van die toekomst naar vandaag: ze maakt uitstel duur. Wie zichzelf kent, kan dat bewust gebruiken: een zogenaamd commitment device, een zelfopgelegde verplichting met een gevolg. Odysseus die zich aan de mast liet vastbinden om de sirenen te weerstaan, is het klassieke beeld. Maar mensen zijn er niet zo goed in om die verplichtingen streng genoeg te maken. Ze kiezen deadlines met wat speling, en die speling vreet uitstel weer op.\n\n## Een voorbeeld\n\nJe moet een thesis schrijven tegen juni. Zonder tussenstappen begin je in mei. Als je promotor elke maand een hoofdstuk vraagt, schrijf je gespreid en beter. Kies je zelf data, dan leg je ze vaak dicht bij het einde, 'voor de zekerheid'.\n\n## Wat onderzoek zegt\n\nIn het artikel 'Procrastination, deadlines, and performance: self-control by precommitment' (Psychological Science, mei 2002) toonden Ariely en Wertenbroch dat mensen bereid zijn deadlines te gebruiken om uitstel tegen te gaan, en dat zelfgekozen deadlines helpen. Maar ze werkten minder goed dan sommige van buitenaf opgelegde, gelijk gespreide deadlines. Op de vraag of mensen hun eigen deadlines optimaal kiezen, antwoordden de auteurs 'nee'. Een herhalingsstudie uit 2026 in Psychological Science kon de resultaten van hun tweede studie echter niet repliceren, en economen zoals Duffy en collega's vonden dat deadlines de voltooiing niet altijd verhogen.\n\n## Nuance of misverstand\n\nDeze studie is een klassieker, maar het bewijs is minder sterk dan vaak gedacht. Het algemene idee, dat vaste tussenstappen helpen tegen uitstel, blijft plausibel en wordt in de praktijk veel gebruikt, maar verwacht er geen wonderen van.\n\n## Wat je ermee doet\n\nMaak tussenstappen concreet en extern: plan een afspraak waarop je iets moet tonen, of spreek af met een collega. Koppel er eventueel een klein gevolg aan. En evalueer eerlijk of het voor jou werkt: niet iedereen reageert hetzelfde op deadlines.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Gespreide deadlines vs één einddatum</text><line x1=\"30\" y1=\"80\" x2=\"330\" y2=\"80\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"30\" y1=\"72\" x2=\"30\" y2=\"88\" stroke=\"#06d6a0\" stroke-width=\"2\"/><line x1=\"105\" y1=\"72\" x2=\"105\" y2=\"88\" stroke=\"#06d6a0\" stroke-width=\"2\"/><line x1=\"180\" y1=\"72\" x2=\"180\" y2=\"88\" stroke=\"#06d6a0\" stroke-width=\"2\"/><line x1=\"255\" y1=\"72\" x2=\"255\" y2=\"88\" stroke=\"#06d6a0\" stroke-width=\"2\"/><line x1=\"330\" y1=\"72\" x2=\"330\" y2=\"88\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"25\" y=\"65\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">gespreid</text><circle cx=\"30\" cy=\"80\" r=\"6\" fill=\"#06d6a0\" stroke=\"#06d6a0\" stroke-width=\"2\"><animate attributeName=\"cx\" values=\"30;105;105;180;180;255;255;330\" keyTimes=\"0;0.12;0.25;0.37;0.5;0.62;0.75;0.9\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><line x1=\"30\" y1=\"150\" x2=\"330\" y2=\"150\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"330\" y1=\"142\" x2=\"330\" y2=\"158\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"25\" y=\"135\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">één deadline</text><circle cx=\"30\" cy=\"150\" r=\"6\" fill=\"#ff6b9d\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"cx\" values=\"30;40;60;330\" keyTimes=\"0;0.5;0.7;0.9\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"195\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">werk: rustig gespreid vs eindspurt</text></svg>",
+   "quiz": {
+    "q": "Wat vonden Ariely en Wertenbroch over zelfgekozen deadlines?",
+    "o": [
+     "Ze werken altijd het best",
+     "Ze helpen, maar minder dan gelijk gespreide opgelegde deadlines",
+     "Ze verhogen het uitstel"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "PubMed: Ariely & Wertenbroch 2002",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/12009041/"
+    },
+    {
+     "t": "Psychological Science: replicatie 2026",
+     "u": "https://journals.sagepub.com/doi/full/10.1177/09567976261460772"
+    },
+    {
+     "t": "NBER: Duffy e.a. (pdf)",
+     "u": "https://www.nber.org/papers/w19874.pdf"
+    }
+   ],
+   "date": "2026-11-26T05:59:30Z"
   }
  ],
  "dives": []
