@@ -11,11 +11,11 @@
    "quiz": {
     "q": "Wat doet een vallende kat als eerste?",
     "o": [
-     "Haar staart snel ronddraaien",
      "Haar kop en voorlijf omdraaien",
+     "Haar staart snel ronddraaien",
      "Haar poten wijd spreiden om te zweven"
     ],
-    "a": 1
+    "a": 0
    },
    "src": [
     {
@@ -36,10 +36,10 @@
     "q": "Wat zorgt voor de tweede klap bij de bidsprinkhaankreeft?",
     "o": [
      "Een tweede poot die volgt",
-     "Een terugkaatsende schelp",
-     "Een imploderend dampbelletje"
+     "Een imploderend dampbelletje",
+     "Een terugkaatsende schelp"
     ],
-    "a": 2
+    "a": 1
    },
    "src": [
     {
@@ -63,11 +63,11 @@
    "quiz": {
     "q": "Wat toonde Fazio in 2015 over herhaalde valse uitspraken?",
     "o": [
-     "Kennis beschermt er niet volledig tegen",
      "Alleen kinderen trappen erin",
-     "Herhaling werkt enkel bij absurde claims"
+     "Herhaling werkt enkel bij absurde claims",
+     "Kennis beschermt er niet volledig tegen"
     ],
-    "a": 0
+    "a": 2
    },
    "src": [
     {
@@ -91,11 +91,11 @@
    "quiz": {
     "q": "Wat bedoelde Veblen met opzichtige consumptie?",
     "o": [
-     "Zo goedkoop mogelijk kopen",
      "Dure dingen kopen om status te tonen",
+     "Zo goedkoop mogelijk kopen",
      "Alleen in solden winkelen"
     ],
-    "a": 1
+    "a": 0
    },
    "src": [
     {
@@ -148,10 +148,10 @@
     "q": "Waarom heette de griep van 1918 'Spaans'?",
     "o": [
      "Het virus kwam bewezen uit Madrid",
-     "Spaanse kranten berichtten vrij, zonder oorlogscensuur",
-     "Spanje telde de meeste doden"
+     "Spanje telde de meeste doden",
+     "Spaanse kranten berichtten vrij, zonder oorlogscensuur"
     ],
-    "a": 1
+    "a": 2
    },
    "src": [
     {
@@ -236,10 +236,10 @@
     "q": "Wanneer grijpt de rem van Otis in?",
     "o": [
      "Als de liftbediende op een knop drukt",
-     "Als het touw zijn spanning verliest",
-     "Als de lift te traag gaat"
+     "Als de lift te traag gaat",
+     "Als het touw zijn spanning verliest"
     ],
-    "a": 1
+    "a": 2
    },
    "src": [
     {
@@ -263,11 +263,11 @@
    "quiz": {
     "q": "Hoeveel communicatielijnen zijn er in een team van tien?",
     "o": [
-     "10",
      "45",
+     "10",
      "100"
     ],
-    "a": 1
+    "a": 0
    },
    "src": [
     {
@@ -291,11 +291,11 @@
    "quiz": {
     "q": "Wat zag Hera op de geraakte kant van Dimorphos?",
     "o": [
-     "Een krater zo groot als een stadion",
      "Een gat dwars door de planetoïde",
+     "Een krater zo groot als een stadion",
      "Helemaal geen sporen"
     ],
-    "a": 0
+    "a": 1
    },
    "src": [
     {
@@ -408,10 +408,10 @@
     "q": "Wat is een System1-sterrenscore precies?",
     "o": [
      "Gemeten extra verkoop",
-     "Een voorspelling op basis van kijkersemoties",
-     "Het aantal YouTube-views"
+     "Het aantal YouTube-views",
+     "Een voorspelling op basis van kijkersemoties"
     ],
-    "a": 1
+    "a": 2
    },
    "src": [
     {
@@ -439,11 +439,11 @@
    "quiz": {
     "q": "Hoeveel zou volgens Adobe in de VS via 'nu kopen, later betalen' gaan dit seizoen?",
     "o": [
-     "1,09 miljard dollar",
      "21,3 miljard dollar",
+     "1,09 miljard dollar",
      "275,1 miljard dollar"
     ],
-    "a": 1
+    "a": 0
    },
    "src": [
     {
@@ -467,11 +467,11 @@
    "quiz": {
     "q": "Wat doet een 'local privilege escalation'-lek?",
     "o": [
-     "Een gewone gebruiker beheerdersrechten geven",
      "Je wifi vertragen",
+     "Een gewone gebruiker beheerdersrechten geven",
      "Je wachtwoord naar het internet sturen"
     ],
-    "a": 0
+    "a": 1
    },
    "src": [
     {
@@ -500,10 +500,10 @@
     "q": "Wat bedoelen Kahneman en Tversky met verliesaversie?",
     "o": [
      "Mensen vergeten verliezen snel",
-     "Verliezen wegen zwaarder dan even grote winsten",
-     "Mensen houden van gokken"
+     "Mensen houden van gokken",
+     "Verliezen wegen zwaarder dan even grote winsten"
     ],
-    "a": 1
+    "a": 2
    },
    "src": [
     {
@@ -527,11 +527,11 @@
    "quiz": {
     "q": "In welk album debuteerden de smurfen in 1958?",
     "o": [
-     "Kuifje in Tibet",
      "La Flûte à six trous",
+     "Kuifje in Tibet",
      "Robbedoes en Kwabbernoot"
     ],
-    "a": 1
+    "a": 0
    },
    "src": [
     {
@@ -584,10 +584,10 @@
     "q": "Wat maakte Solvays procedé goedkoper dan het oudere?",
     "o": [
      "Het gebruikte goud als katalysator",
-     "De ammoniak werd teruggewonnen",
-     "Het werkte zonder warmte"
+     "Het werkte zonder warmte",
+     "De ammoniak werd teruggewonnen"
     ],
-    "a": 1
+    "a": 2
    },
    "src": [
     {
@@ -643,11 +643,11 @@
    "quiz": {
     "q": "Welke opera speelde op 25 augustus 1830 in De Munt?",
     "o": [
-     "La Muette de Portici",
      "La Traviata",
+     "La Muette de Portici",
      "De Toverfluit"
     ],
-    "a": 0
+    "a": 1
    },
    "src": [
     {
@@ -676,10 +676,10 @@
     "q": "Wie formuleerde in 1997 'Wanneer een maatstaf een doel wordt, is het geen goede maatstaf meer'?",
     "o": [
      "Charles Goodhart",
-     "Marilyn Strathern",
-     "Daniel Kahneman"
+     "Daniel Kahneman",
+     "Marilyn Strathern"
     ],
-    "a": 1
+    "a": 2
    },
    "src": [
     {
@@ -703,11 +703,11 @@
    "quiz": {
     "q": "Wat toonde Elinor Ostrom aan over gedeelde bronnen?",
     "o": [
-     "Ze moeten altijd geprivatiseerd worden",
      "Gemeenschappen kunnen ze vaak zelf goed beheren",
+     "Ze moeten altijd geprivatiseerd worden",
      "Ze raken altijd uitgeput"
     ],
-    "a": 1
+    "a": 0
    },
    "src": [
     {
@@ -764,10 +764,10 @@
     "q": "Waarvoor stond de eerste Coca-Cola-bon?",
     "o": [
      "10 procent korting op een fles",
-     "Eén gratis glas aan de toog",
-     "Een gratis rondleiding in de fabriek"
+     "Een gratis rondleiding in de fabriek",
+     "Eén gratis glas aan de toog"
     ],
-    "a": 1
+    "a": 2
    },
    "src": [
     {
@@ -791,11 +791,11 @@
    "quiz": {
     "q": "Wat zegt de wet van Weber?",
     "o": [
-     "Je merkt altijd 3 gram verschil",
      "Het merkbare verschil is een vaste verhouding van de prikkel",
+     "Je merkt altijd 3 gram verschil",
      "Zware dingen voel je minder nauwkeurig dan lichte, in absolute zin nooit"
     ],
-    "a": 1
+    "a": 0
    },
    "src": [
     {
@@ -879,11 +879,11 @@
    "quiz": {
     "q": "Waarvoor maakte Dewar zijn fles oorspronkelijk?",
     "o": [
-     "Om koffie warm te houden",
      "Om vloeibare gassen te bewaren",
+     "Om koffie warm te houden",
      "Om melk te steriliseren"
     ],
-    "a": 1
+    "a": 0
    },
    "src": [
     {
@@ -907,11 +907,11 @@
    "quiz": {
     "q": "Wat was volgens Kao de grootste oorzaak van lichtverlies in vroege vezels?",
     "o": [
-     "Onzuiverheden in het glas",
      "De kleur van de mantel",
+     "Onzuiverheden in het glas",
      "De lengte van de golven"
     ],
-    "a": 0
+    "a": 1
    },
    "src": [
     {
@@ -936,10 +936,10 @@
     "q": "Hoe worden de laatste twee cijfers van een Belgisch rekeningnummer berekend?",
     "o": [
      "Het geboortejaar van de houder",
-     "De rest van de eerste tien cijfers gedeeld door 97",
-     "Een willekeurig nummer van de bank"
+     "Een willekeurig nummer van de bank",
+     "De rest van de eerste tien cijfers gedeeld door 97"
     ],
-    "a": 1
+    "a": 2
    },
    "src": [
     {
@@ -963,11 +963,11 @@
    "quiz": {
     "q": "Welk percentage stemde in met het grote bord na eerst ja te zeggen tegen het kleine?",
     "o": [
+     "76 procent",
      "17 procent",
-     "47 procent",
-     "76 procent"
+     "47 procent"
     ],
-    "a": 2
+    "a": 0
    },
    "src": [
     {
@@ -1019,11 +1019,11 @@
    "quiz": {
     "q": "Wat is de bias blind spot?",
     "o": [
-     "Je merkt vooroordelen bij anderen beter dan bij jezelf",
      "Je ziet geen kleuren in je ooghoek",
-     "Je vergeet wat je bevooroordeeld maakte"
+     "Je vergeet wat je bevooroordeeld maakte",
+     "Je merkt vooroordelen bij anderen beter dan bij jezelf"
     ],
-    "a": 0
+    "a": 2
    },
    "src": [
     {
@@ -1104,10 +1104,10 @@
     "q": "Wat kreeg Carolyn Davidson in 1983 van Phil Knight?",
     "o": [
      "Een bedrijfswagen",
-     "Een gouden ring en 500 aandelen",
-     "Een vaste job als creatief directeur"
+     "Een vaste job als creatief directeur",
+     "Een gouden ring en 500 aandelen"
     ],
-    "a": 1
+    "a": 2
    },
    "src": [
     {
@@ -1135,11 +1135,11 @@
    "quiz": {
     "q": "Waar komt de naam LEGO vandaan?",
     "o": [
-     "Het Latijnse 'ik verzamel'",
      "De Deense woorden 'leg godt'",
+     "Het Latijnse 'ik verzamel'",
      "De initialen van de stichters"
     ],
-    "a": 1
+    "a": 0
    },
    "src": [
     {
@@ -1196,10 +1196,10 @@
     "q": "Wie maakte penicilline geschikt als medicijn?",
     "o": [
      "Fleming alleen, in 1928",
-     "Florey en Chain in Oxford",
-     "Louis Pasteur"
+     "Louis Pasteur",
+     "Florey en Chain in Oxford"
     ],
-    "a": 1
+    "a": 2
    },
    "src": [
     {
@@ -1223,11 +1223,11 @@
    "quiz": {
     "q": "Tussen welke leeftijden blijft de verbranding volgens Pontzer vrij stabiel?",
     "o": [
-     "Tussen 1 en 20 jaar",
      "Tussen ongeveer 20 en 60 jaar",
+     "Tussen 1 en 20 jaar",
      "Pas na 60 jaar"
     ],
-    "a": 1
+    "a": 0
    },
    "src": [
     {
@@ -1284,10 +1284,10 @@
     "q": "Waarom koos men de naam Bluetooth?",
     "o": [
      "Het eerste toestel was blauw",
-     "Naar een koning die rijken verenigde",
-     "Het is een afkorting"
+     "Het is een afkorting",
+     "Naar een koning die rijken verenigde"
     ],
-    "a": 1
+    "a": 2
    },
    "src": [
     {
@@ -1311,11 +1311,11 @@
    "quiz": {
     "q": "Welke begroeting gebruikte Alexander Graham Bell aan de telefoon?",
     "o": [
-     "Hello",
      "Ahoy",
+     "Hello",
      "Pronto"
     ],
-    "a": 1
+    "a": 0
    },
    "src": [
     {
@@ -1339,11 +1339,11 @@
    "quiz": {
     "q": "Wat betekende 'portmanteau' oorspronkelijk?",
     "o": [
-     "Een reiskoffer met twee vakken",
      "Een soort jas",
+     "Een reiskoffer met twee vakken",
      "Een Frans gedicht"
     ],
-    "a": 0
+    "a": 1
    },
    "src": [
     {
@@ -1368,10 +1368,10 @@
     "q": "Klopt het dat de bliksem nooit twee keer op dezelfde plek inslaat?",
     "o": [
      "Ja, de lading is dan op",
-     "Nee, hoge objecten worden herhaaldelijk getroffen",
-     "Alleen in de zomer"
+     "Alleen in de zomer",
+     "Nee, hoge objecten worden herhaaldelijk getroffen"
     ],
-    "a": 1
+    "a": 2
    },
    "src": [
     {
@@ -1395,11 +1395,11 @@
    "quiz": {
     "q": "Wanneer versloeg een computer de regerende wereldkampioen schaken?",
     "o": [
-     "In 1979",
      "In 1997",
+     "In 1979",
      "In 2007"
     ],
-    "a": 1
+    "a": 0
    },
    "src": [
     {
