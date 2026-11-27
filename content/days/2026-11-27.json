@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T05:43:41Z",
+ "updated": "2026-11-27T05:46:06Z",
  "cards": [
   {
    "cat": "psychologie",
@@ -316,6 +316,346 @@
     }
    ],
    "date": "2026-11-27T05:43:41Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Een aandelensplitsing maakt je geen cent rijker",
+   "body": "Bij een splitsing 10-voor-1 krijg je tien keer zoveel aandelen, elk aan een tiende van de prijs. Nvidia deed dat in juni 2024: van ongeveer 1.208 naar zo'n 120 dollar per aandeel. Wat je bezit, blijft exact even veel waard. Het is dezelfde taart, alleen in meer stukken gesneden.",
+   "take": "Koop of verkoop nooit alleen omdat een bedrijf splitst; kijk naar winst, waardering en je eigen beleggingsplan.",
+   "deep": "## Hoe het werkt\n\nEen bedrijf is een taart en elk aandeel is een stuk. Bij een aandelensplitsing beslist het bedrijf om elk bestaand stuk in kleinere stukken te verdelen. Bij een splitsing 2-voor-1 krijg je voor elk aandeel er één extra bij, en de koers wordt gehalveerd. Bij 10-voor-1 krijg je er negen bij en deelt de koers door tien. Het aantal aandelen gaat omhoog, de prijs per aandeel omlaag, en het product van die twee blijft gelijk. De winst, de schulden, de klanten en de toekomstplannen van het bedrijf veranderen niet. Er komt dus geen waarde bij. Er komen alleen meer en kleinere stukjes bij.\n\n## Een voorbeeld\n\nStel dat je 20 aandelen hebt van 6 euro per stuk, samen 120 euro. Na een splitsing 2-voor-1 heb je 40 aandelen van 3 euro, nog altijd 120 euro. Een echt voorbeeld is Nvidia. Na de beurs op vrijdag 7 juni 2024 kregen aandeelhouders negen extra aandelen per aandeel. Vanaf maandag 10 juni noteerde het aandeel rond 120 dollar in plaats van ongeveer 1.208 dollar. Wie in Vlaanderen via een Belgische broker één aandeel had, zag plots tien lijntjes in zijn overzicht staan, maar zijn portefeuille was niet meer waard geworden.\n\n## Wat onderzoek zegt\n\nBeleggingshuizen zoals Fidelity en Schwab zeggen het duidelijk: de waarde van je positie en je totale aankoopprijs blijven gelijk. Alleen je aantal aandelen en je aankoopprijs per aandeel veranderen. Volgens Fidelity verandert een splitsing de waarde niet, omdat de fundamenten en groeivooruitzichten van het bedrijf niet veranderen. Nvidia zelf gaf als reden om aandelen \"toegankelijker te maken voor werknemers en beleggers\". Een lagere prijs per stuk maakt het makkelijker om kleine bedragen te beleggen, zeker bij brokers die geen fracties van aandelen verkopen.\n\n## Nuance of misverstand\n\nHet misverstand is dat een goedkoper aandeel een koopje is. Een aandeel van 120 dollar is niet goedkoper dan een aandeel van 1.200 dollar als je er tien keer minder van het bedrijf voor krijgt. Toch beweegt de koers soms rond een splitsing. Dat komt door de omstandigheden: bedrijven splitsen meestal na een sterke stijging, en de aankondiging trekt aandacht en kleine beleggers aan. Dat effect is onvoorspelbaar en kan ook de andere kant op gaan. Het omgekeerde bestaat ook: een omgekeerde splitsing voegt aandelen samen, vaak bij bedrijven waarvan de koers erg laag is gezakt.\n\n## Wat je ermee doet\n\nLees je dat een bekend bedrijf gaat splitsen, vraag je dan af of je het aandeel ook zou kopen zonder dat nieuws. Vergelijk bedrijven nooit op prijs per aandeel, maar op cijfers zoals de koers-winstverhouding of de totale beurswaarde. Kijk na een splitsing gerust even in je overzicht: je aantal stukken is veranderd, je vermogen niet.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Splitsing 1-voor-4: zelfde taart, meer stukken</text><circle cx=\"90\" cy=\"115\" r=\"55\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"90\" y=\"112\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">1 aandeel</text><text x=\"90\" y=\"128\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">€ 100</text><line x1=\"160\" y1=\"115\" x2=\"194\" y2=\"115\" stroke=\"#ffd166\" stroke-width=\"2\"/><path d=\"M200 115 L192 110 L192 120 Z\" fill=\"#ffd166\"/><circle cx=\"270\" cy=\"115\" r=\"55\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"270\" y1=\"60\" x2=\"270\" y2=\"170\" stroke=\"#06d6a0\" stroke-width=\"2\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;1;0\" keyTimes=\"0;0.2;0.85;1\" dur=\"6s\" repeatCount=\"indefinite\"/></line><line x1=\"215\" y1=\"115\" x2=\"325\" y2=\"115\" stroke=\"#06d6a0\" stroke-width=\"2\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1;0\" keyTimes=\"0;0.25;0.45;0.85;1\" dur=\"6s\" repeatCount=\"indefinite\"/></line><g opacity=\"0\"><text x=\"245\" y=\"95\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">€25</text><text x=\"295\" y=\"95\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">€25</text><text x=\"245\" y=\"145\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">€25</text><text x=\"295\" y=\"145\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">€25</text><animate attributeName=\"opacity\" values=\"0;0;1;1;0\" keyTimes=\"0;0.5;0.6;0.85;1\" dur=\"6s\" repeatCount=\"indefinite\"/></g><text x=\"90\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">waarde: € 100</text><text x=\"270\" y=\"198\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">4 x € 25 = € 100</text></svg>",
+   "quiz": {
+    "q": "Je hebt 5 aandelen van 200 euro. Na een splitsing 4-voor-1 heb je…",
+    "o": [
+     "5 aandelen van 50 euro",
+     "20 aandelen van 50 euro",
+     "20 aandelen van 200 euro"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Fidelity – Stock splits",
+     "u": "https://www.fidelity.com/learning-center/trading-investing/stock-splits"
+    },
+    {
+     "t": "Schwab – What investors should know about stock splits",
+     "u": "https://workplace.schwab.com/resource-center/insights/story/what-are-stock-splits-and-why-do-stocks-split"
+    },
+    {
+     "t": "Fortune – Nvidia 10-for-1 split",
+     "u": "https://fortune.com/2024/06/10/nvidia-stock-split-10-for-1-rally-3-trillion-market-cap-ai-chips/"
+    }
+   ],
+   "date": "2026-11-27T05:46:06Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Twee kwartalen krimp is geen officiële recessie",
+   "body": "'Twee kwartalen na elkaar krimp' is een journalistieke vuistregel. In de VS beslist de NBER-commissie, die kijkt naar banen, inkomen en uitgaven. In 2001 benoemde ze een recessie zonder twee krimpkwartalen. De eurozone kende eind 2022 en begin 2023 twee keer -0,1%, maar volgens de Europese commissie was dat geen recessie.",
+   "take": "Hoor je 'technische recessie', kijk dan ook naar de werkloosheid en de bestedingen voor je conclusies trekt.",
+   "deep": "## Hoe het werkt\n\nEen recessie is in essentie een flinke, brede en aanhoudende daling van de economische activiteit. De vuistregel van twee opeenvolgende kwartalen met een dalend bruto binnenlands product is handig, omdat iedereen die meteen kan nagaan zodra de cijfers verschijnen. Maar het bbp is maar één meter en wordt achteraf vaak nog herzien. In de Verenigde Staten beslist daarom een commissie van het National Bureau of Economic Research (NBER) wanneer een recessie begint en eindigt. Die kijkt naar diepte, spreiding over de economie en duur, en weegt maandcijfers zoals werkgelegenheid, inkomen, consumptie en industriële productie.\n\n## Een voorbeeld\n\nIn de eerste helft van 2022 kromp het Amerikaanse bbp twee kwartalen na elkaar, terwijl de werkgelegenheid bleef groeien. Het Witte Huis legde toen publiek uit dat twee krimpkwartalen niet de officiële definitie zijn, en de NBER riep geen recessie uit. In de eurozone gebeurde iets gelijkaardigs: volgens Eurostat daalde de productie met 0,1% in het laatste kwartaal van 2022 en opnieuw in het eerste kwartaal van 2023. De Europese dateringscommissie van het onderzoekscentrum CEPR besliste in juni 2023 dat dit geen recessie was, onder meer omdat de werkloosheid een recordlaagte van 6,5% bereikte.\n\n## Wat onderzoek zegt\n\nDe NBER schrijft zelf dat de meeste recessies wel twee of meer krimpkwartalen bevatten, maar niet allemaal: in 2001 waren er geen twee opeenvolgende dalende kwartalen, en toch was er een recessie. Omgekeerd kan het bbp twee keer licht dalen zonder dat de commissie een recessie ziet. De coronarecessie van 2020 duurde volgens de NBER maar twee maanden, van februari tot april, en is de kortste ooit gemeten. De NBER oordeelt bovendien pas achteraf: dat duurde in het verleden tussen 4 en 21 maanden. De Europese commissie werkt op dezelfde manier en noemt een recessie \"een periode van dalende activiteit, niet van lage activiteit\".\n\n## Nuance of misverstand\n\nDe vuistregel zit er vaak niet ver naast, want de meeste echte recessies bevatten wel minstens twee krimpkwartalen. Het probleem zit vooral aan de randen: bij een groei die rond nul schommelt, zoals in Europa, duiken kleine minnetjes geregeld op zonder dat de economie echt achteruitgaat. België heeft geen eigen officiële dateringscommissie. De Nationale Bank en de media gebruiken in de praktijk de term 'technische recessie' voor twee kwartalen krimp, en de Europese commissie dateert alleen de eurozone als geheel.\n\n## Wat je ermee doet\n\nLees je een kop over een technische recessie, kijk dan naar drie dingen: hoe groot de krimp is, of de werkloosheid stijgt en of gezinnen en bedrijven minder uitgeven. Een daling van 0,1% met stijgende werkgelegenheid is iets heel anders dan een brede terugval. Neem grote financiële beslissingen dus niet op basis van één bbp-cijfer.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Bbp per kwartaal: vuistregel vs. commissie</text><line x1=\"40\" y1=\"120\" x2=\"320\" y2=\"120\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"60\" y=\"60\" width=\"30\" height=\"60\" fill=\"#06d6a0\" opacity=\"0.9\"/><text x=\"75\" y=\"168\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">K1</text><rect x=\"110\" y=\"76\" width=\"30\" height=\"44\" fill=\"#06d6a0\" opacity=\"0.9\"/><text x=\"125\" y=\"168\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">K2</text><rect x=\"160\" y=\"120\" width=\"30\" height=\"20\" fill=\"#ff6b9d\" opacity=\"0.9\"/><text x=\"175\" y=\"168\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">K3</text><rect x=\"210\" y=\"120\" width=\"30\" height=\"24\" fill=\"#ff6b9d\" opacity=\"0.9\"/><text x=\"225\" y=\"168\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">K4</text><rect x=\"260\" y=\"84\" width=\"30\" height=\"36\" fill=\"#06d6a0\" opacity=\"0.9\"/><text x=\"275\" y=\"168\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">K5</text><rect x=\"152\" y=\"40\" width=\"96\" height=\"140\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"6 4\"><animate attributeName=\"stroke-dashoffset\" values=\"0;-20\" dur=\"2s\" repeatCount=\"indefinite\"/></rect><text x=\"200\" y=\"196\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">2x krimp = 'technische recessie'</text><g opacity=\"0\"><text x=\"200\" y=\"212\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">commissie checkt ook jobs, inkomen, uitgaven</text><animate attributeName=\"opacity\" values=\"0;0;1;1;0\" keyTimes=\"0;0.3;0.45;0.9;1\" dur=\"7s\" repeatCount=\"indefinite\"/></g></svg>",
+   "quiz": {
+    "q": "Wie bepaalt in de VS officieel wanneer een recessie begon?",
+    "o": [
+     "De centrale bank (Fed)",
+     "Het statistiekbureau op basis van twee krimpkwartalen",
+     "Een commissie van het NBER"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "NBER – Business cycle dating FAQ",
+     "u": "https://www.nber.org/research/business-cycle-dating/business-cycle-dating-procedure-frequently-asked-questions"
+    },
+    {
+     "t": "Witte Huis (CEA) – How economists determine a recession",
+     "u": "https://bidenwhitehouse.archives.gov/cea/written-materials/2022/07/21/how-do-economists-determine-whether-the-economy-is-in-a-recession"
+    },
+    {
+     "t": "CEPR – Euro Area Business Cycle Dating Committee, juni 2023",
+     "u": "https://cepr.org/about/news/latest-findings-cepr-eabcn-euro-area-business-cycle-dating-committee-eabcdc-june-2023"
+    },
+    {
+     "t": "EABCN – Hoe definieert de commissie een recessie",
+     "u": "https://eabcn.org/dc/faq"
+    }
+   ],
+   "date": "2026-11-27T05:46:06Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Elke 210.000 blokken halveert de beloning van bitcoinminers",
+   "body": "Wie een nieuw bitcoinblok toevoegt, krijgt nieuwe munten. Die beloning halveert automatisch elke 210.000 blokken, ongeveer om de vier jaar: van 50 BTC in 2009 naar 3,125 BTC sinds blok 840.000 op 20 april 2024. Zo groeit het aanbod steeds trager, tot een plafond van bijna 21 miljoen bitcoin.",
+   "take": "Geloof geen 'na de halvering stijgt de koers altijd'-verhalen: het aanbodschema ligt vast, de vraag niet.",
+   "deep": "## Hoe het werkt\n\nBitcoin heeft geen centrale bank die geld bijdrukt. Nieuwe munten ontstaan wanneer een 'miner' een blok met transacties aan de blockchain toevoegt. Als beloning mag die miner nieuwe bitcoin aanmaken, de zogenaamde block subsidy, plus de transactiekosten die gebruikers betalen. Het netwerk regelt de moeilijkheid zo dat er gemiddeld ongeveer elke tien minuten een blok bijkomt. In de code staat dat de subsidie na elke 210.000 blokken halveert. Reken je 210.000 keer tien minuten, dan kom je op ongeveer vier jaar. De halvering hangt dus vast aan het bloknummer, niet aan een datum op de kalender.\n\n## Een voorbeeld\n\nBij de start in januari 2009 kreeg een miner 50 bitcoin per blok. In november 2012 werd dat 25, in juli 2016 12,5 en in mei 2020 6,25. Op 20 april 2024 bereikte het netwerk blok 840.000 en zakte de beloning naar 3,125 bitcoin. Voor een miner met een hal vol rekenmachines betekent dat van de ene minuut op de andere de helft minder nieuwe munten voor hetzelfde werk en dezelfde stroomrekening. De volgende halvering wordt verwacht rond 2028, bij blok 1.050.000, naar 1,5625 bitcoin.\n\n## Wat onderzoek zegt\n\nOmdat elke periode 210.000 blokken telt en de beloning telkens halveert, vormt het totale aanbod een meetkundige reeks die nadert naar 21 miljoen. Volgens Blockstream eindigt het exact op 20.999.999,9769 bitcoin, omdat de code kleine restjes afrondt. De laatste fractie wordt naar schatting rond 2140 gemined. Na de halvering van 2024 bleven miners ook gewoon transactiekosten ontvangen bovenop de kleinere subsidie. Op lange termijn moeten die kosten de miners betalen, want de subsidie wordt steeds kleiner.\n\n## Nuance of misverstand\n\nEen populair verhaal is dat de koers na elke halvering stijgt omdat er minder nieuwe munten bijkomen. Het aanbodschema is echter al sinds 2009 openbaar bekend, dus markten kunnen het op voorhand inprijzen. Decrypt merkt bovendien op dat de koers vóór een halvering meestal al een tijd onder een eerder record lag. Met vier halveringen heb je ook maar vier datapunten, veel te weinig om een vaste wet uit af te leiden. Wat vastligt, is het aanbod. De vraag naar bitcoin hangt af van rente, regelgeving en sentiment.\n\n## Wat je ermee doet\n\nZie je een advertentie of een filmpje dat je 'voor de halvering' moet instappen, beschouw dat dan als verkooppraat. Begrijp het mechanisme: minder nieuwe munten per blok, een maximum van bijna 21 miljoen en miners die steeds meer van transactiekosten moeten leven. Beleg in crypto alleen met geld dat je kunt missen, en spreid je risico.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Beloning per blok halveert elke 210.000 blokken</text><rect x=\"40\" y=\"50\" width=\"40\" height=\"120\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"60\" y=\"186\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">2009</text><text x=\"60\" y=\"45\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">50</text><rect x=\"102\" y=\"110\" width=\"40\" height=\"60\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"122\" y=\"186\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">2012</text><text x=\"122\" y=\"105\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">25</text><rect x=\"164\" y=\"140\" width=\"40\" height=\"30\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"184\" y=\"186\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">2016</text><text x=\"184\" y=\"135\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">12,5</text><rect x=\"226\" y=\"155\" width=\"40\" height=\"15\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"246\" y=\"186\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">2020</text><text x=\"246\" y=\"150\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">6,25</text><rect x=\"288\" y=\"162\" width=\"40\" height=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"308\" y=\"186\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">2024</text><text x=\"308\" y=\"157\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">3,125</text><circle r=\"5\" fill=\"#06d6a0\"><animateMotion dur=\"6s\" repeatCount=\"indefinite\" path=\"M60 44 L122 104 L184 134 L246 149 L308 156\"/></circle><text x=\"180\" y=\"208\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">≈ elke 4 jaar · totaal max. ±21 miljoen</text></svg>",
+   "quiz": {
+    "q": "Waarop is het moment van een bitcoin-halvering gebaseerd?",
+    "o": [
+     "Op het aantal blokken: elke 210.000",
+     "Op een vaste datum, elke 1 januari na vier jaar",
+     "Op een stemming onder de grootste miners"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "The Block – Bitcoin ushers in fourth halving",
+     "u": "https://www.theblock.co/post/289875/bitcoin-ushers-in-fourth-halving-as-miners-block-subsidy-reward-drops-to-3-125-btc"
+    },
+    {
+     "t": "Blockstream – What is the bitcoin halving",
+     "u": "https://help.blockstream.com/education/economics/bitcoin-economics/what-is-the-bitcoin-halving"
+    },
+    {
+     "t": "Trezor – Bitcoin halving: how block rewards decrease",
+     "u": "https://trezor.io/learn/supported-assets/bitcoin/bitcoin-halving-how-block-rewards-decrease-over-time"
+    },
+    {
+     "t": "Decrypt – What is the bitcoin halving",
+     "u": "https://decrypt.co/resources/what-is-the-bitcoin-halving"
+    }
+   ],
+   "date": "2026-11-27T05:46:06Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Waarom beleggers schrikken als korte rente hoger is",
+   "body": "Normaal brengt geld voor tien jaar uitlenen meer op dan voor drie maanden. Is het omgekeerd, dan spreekt men van een omgekeerde rentecurve. Volgens de Fed van San Francisco kwam zo'n inversie de voorbije zestig jaar 6 tot 24 maanden vóór elke Amerikaanse recessie. Maar 2022-2024 bleek de langste inversie zonder snelle recessie.",
+   "take": "Zie een omgekeerde rentecurve als waarschuwingslampje, niet als verkoopsignaal: verkoop je beleggingen er niet in paniek door.",
+   "deep": "## Hoe het werkt\n\nDe rentecurve toont hoeveel rente een overheid betaalt voor leningen met verschillende looptijden. Economen kijken meestal naar het verschil tussen de Amerikaanse staatsrente op tien jaar en die op drie maanden. Normaal is de lange rente hoger, omdat beleggers een vergoeding vragen om hun geld langer vast te zetten. De korte rente volgt grotendeels wat de centrale bank nu doet. De lange rente weerspiegelt vooral wat beleggers verwachten van de korte rente in de komende jaren. Zakt de lange rente onder de korte, dan verwacht de markt dat de centrale bank later de rente zal moeten verlagen, meestal omdat de economie verzwakt. Bovendien lenen banken kort en lenen ze lang uit, dus een omgekeerde curve drukt hun marge en kan de kredietverlening afremmen.\n\n## Een voorbeeld\n\nVolgens een analyse van U.S. Bank lag de Amerikaanse rente op drie maanden boven die op tien jaar van 25 oktober 2022 tot 13 december 2024, de langste inversie in minstens 45 jaar. Veel beleggers verwachtten een recessie, ook in Europa, waar Belgische spaarders net toen termijnrekeningen en staatsbons met hoge korte rentes zagen. Toch volgde in de VS niet binnen de gebruikelijke termijn een recessie. BMO-economen noemden het daarom een vals positief signaal.\n\n## Wat onderzoek zegt\n\nEconoom Campbell Harvey maakte de indicator in de jaren 1980 bekend. Michael Bauer en Thomas Mertens van de Federal Reserve Bank of San Francisco schreven in 2018 dat elke Amerikaanse recessie in de voorgaande zestig jaar werd voorafgegaan door een omgekeerde curve, en dat een inversie op één uitzondering na door een recessie werd gevolgd. De tijd tussen inversie en recessie schommelde tussen 6 en 24 maanden. De New York Fed rekent met het verschil tussen tien jaar en drie maanden een kans uit op een recessie in de komende twaalf maanden. Die kans steeg vóór elke recente recessie ruim boven 50%.\n\n## Nuance of misverstand\n\nEen voorspeller met acht of negen recessies als ervaring rust op weinig gevallen. De wachttijd is lang en wisselt sterk, dus je weet niet wanneer de klap komt. In de jaren 1960 gaf de curve al eens een vals signaal. Onderzoekers van de Boston Fed vonden dat een inversie de kans op recessie overschat als het monetaire beleid op dat moment niet echt streng is. De New York Fed waarschuwt zelf dat de onzekerheid rond haar kansberekening groot is. En de curve kan ook veranderen door grote obligatieaankopen van centrale banken, los van de verwachtingen over groei.\n\n## Wat je ermee doet\n\nGebruik de rentecurve als één signaal tussen andere, zoals werkloosheid en bedrijfswinsten. Lees je dat de curve omgekeerd is, controleer dan of je noodbuffer in orde is en of je beleggingen passen bij je termijn. Probeer niet de markt te timen op basis van één grafiek.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Rentecurve: normaal vs. omgekeerd</text><line x1=\"50\" y1=\"180\" x2=\"330\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"50\" y1=\"180\" x2=\"50\" y2=\"40\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"70\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">3 maanden</text><text x=\"325\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">10 jaar</text><text x=\"56\" y=\"50\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">rente</text><path d=\"M60 150 Q190 95 320 80\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"><animate attributeName=\"d\" values=\"M60 150 Q190 95 320 80;M60 150 Q190 95 320 80;M60 80 Q190 105 320 140;M60 80 Q190 105 320 140;M60 150 Q190 95 320 80\" keyTimes=\"0;0.2;0.45;0.75;1\" dur=\"8s\" repeatCount=\"indefinite\"/><animate attributeName=\"stroke\" values=\"#06d6a0;#06d6a0;#ff6b9d;#ff6b9d;#06d6a0\" keyTimes=\"0;0.2;0.45;0.75;1\" dur=\"8s\" repeatCount=\"indefinite\"/></path><g opacity=\"0\"><text x=\"200\" y=\"64\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">korte rente &gt; lange rente</text><text x=\"200\" y=\"80\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">markt verwacht renteverlagingen</text><animate attributeName=\"opacity\" values=\"0;0;1;1;0\" keyTimes=\"0;0.4;0.5;0.75;0.85\" dur=\"8s\" repeatCount=\"indefinite\"/></g></svg>",
+   "quiz": {
+    "q": "Wat betekent een omgekeerde rentecurve?",
+    "o": [
+     "De lange rente ligt hoger dan ooit",
+     "De korte rente ligt hoger dan de lange rente",
+     "De centrale bank heeft de rente negatief gemaakt"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "FRBSF Economic Letter 2018-07 (Bauer & Mertens)",
+     "u": "https://www.frbsf.org/wp-content/uploads/el2018-07.pdf"
+    },
+    {
+     "t": "Liberty Street Economics (NY Fed) – Uncertainty in recession probability",
+     "u": "https://libertystreeteconomics.newyorkfed.org/2025/05/how-uncertain-is-the-estimated-probability-of-a-future-recession"
+    },
+    {
+     "t": "Boston Fed – Predicting recessions using the yield curve",
+     "u": "https://www.bostonfed.org/publications/current-policy-perspectives/2020/predicting-recessions-using-the-yield-curve.aspx"
+    },
+    {
+     "t": "U.S. Bank – Treasury yields invert",
+     "u": "https://www.usbank.com/investing/financial-perspectives/market-news/treasury-yields-invert-as-investors-weigh-risk-of-recession.html"
+    }
+   ],
+   "date": "2026-11-27T05:46:06Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Je voornaam op een cola begon in Australië",
+   "body": "In de Australische zomer van 2011 verving Coca-Cola zijn logo op flesjes door de 150 populairste voornamen van het land. Het idee kwam van reclamebureau Ogilvy Sydney. Volgens Coca-Cola dronken jonge volwassenen 7% meer cola. Daarna namen landen van Groot-Brittannië tot China en de VS 'Share a Coke' over.",
+   "take": "Personaliseer een product of bericht met iets kleins en herkenbaars, zoals een naam, en maak het makkelijk om te delen.",
+   "deep": "## Hoe het werkt\n\nEen merk als Coca-Cola is zo bekend dat mensen het logo nauwelijks nog zien. Door het logo te vervangen door een voornaam, verandert een massaproduct in iets dat over jou lijkt te gaan. Je naam springt eruit tussen honderden flesjes in het rek. Daarnaast nodigt de slogan 'Share a Coke with...' uit om een flesje voor iemand anders te kopen. Dat maakt van een aankoop een klein cadeau en van het flesje iets om te fotograferen en te delen. Zoek je je eigen naam of die van een vriend, dan ben je bovendien langer met het merk bezig dan bij een gewone aankoop.\n\n## Een voorbeeld\n\nVolgens Coca-Cola zat marketingdirecteur Lucie Austin van Coca-Cola South Pacific in 2011 in Sydney met haar team te luisteren naar vijf reclamebureaus die een zomercampagne voorstelden. Het idee van Ogilvy won. Het doel was om mensen die al een tijd geen cola meer hadden gedronken een excuus te geven om er weer een te nemen. Op de etiketten kwamen de 150 populairste voornamen van Australië. Volgens Coca-Cola Australië was het de eerste keer in de geschiedenis van het merk dat er namen op etiketten werden gedrukt. Stel je het in Vlaanderen voor: je ziet in de supermarkt een flesje met 'Lotte' of 'Arthur' en denkt meteen aan een vriendin of een broer.\n\n## Wat onderzoek zegt\n\nDe cijfers komen vooral van Coca-Cola zelf. In de eigen evaluatie van Coca-Cola Australië steeg de consumptie bij jonge volwassenen met 7%, en 2011 werd de meest succesvolle zomer ooit. Het reclamevakblad Marketing Mag publiceerde die evaluatie als gevalstudie. Volgens het eigen geschiedenisoverzicht van Coca-Cola gaven teams in onder meer Groot-Brittannië, Turkije, China en de Verenigde Staten er daarna hun eigen draai aan. Wat begon als lokale zomeractie, werd zo een wereldwijd terugkerend concept.\n\n## Nuance of misverstand\n\nWees voorzichtig met de succescijfers: het zijn bedrijfscijfers, zonder onafhankelijke controle, en een warme zomer of extra reclame speelt ook mee. Het idee werkt bovendien niet voor iedereen. Wie een zeldzame naam heeft, vindt zijn eigen flesje niet terug, en dat kan eerder frustreren dan blij maken. Latere versies van de campagne vingen dat op met algemene woorden en met mogelijkheden om een eigen etiket te laten maken.\n\n## Wat je ermee doet\n\nWil je een nieuwsbrief, een product of een uitnodiging laten opvallen, maak het dan persoonlijk met iets wat mensen meteen als 'van mij' herkennen. Denk ook na over het delen: geef mensen een reden om het door te geven aan een ander. En meet het effect zelf, in plaats van te vertrouwen op succesverhalen van grote merken.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Australië 2011: logo maakt plaats voor namen</text><text x=\"180\" y=\"50\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">150 populairste voornamen op het etiket</text><rect x=\"50\" y=\"70\" width=\"40\" height=\"100\" rx=\"12\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><g opacity=\"0.15\"><text x=\"70\" y=\"125\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Emma</text><animate attributeName=\"opacity\" values=\"0.15;1;1;0.15\" keyTimes=\"0;0.15;0.6;1\" dur=\"6s\" begin=\"0.0s\" repeatCount=\"indefinite\"/></g><rect x=\"125\" y=\"70\" width=\"40\" height=\"100\" rx=\"12\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><g opacity=\"0.15\"><text x=\"145\" y=\"125\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Lucas</text><animate attributeName=\"opacity\" values=\"0.15;1;1;0.15\" keyTimes=\"0;0.15;0.6;1\" dur=\"6s\" begin=\"1.2s\" repeatCount=\"indefinite\"/></g><rect x=\"200\" y=\"70\" width=\"40\" height=\"100\" rx=\"12\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><g opacity=\"0.15\"><text x=\"220\" y=\"125\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Noor</text><animate attributeName=\"opacity\" values=\"0.15;1;1;0.15\" keyTimes=\"0;0.15;0.6;1\" dur=\"6s\" begin=\"2.4s\" repeatCount=\"indefinite\"/></g><rect x=\"275\" y=\"70\" width=\"40\" height=\"100\" rx=\"12\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><g opacity=\"0.15\"><text x=\"295\" y=\"125\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Louis</text><animate attributeName=\"opacity\" values=\"0.15;1;1;0.15\" keyTimes=\"0;0.15;0.6;1\" dur=\"6s\" begin=\"3.5999999999999996s\" repeatCount=\"indefinite\"/></g><text x=\"180\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">jonge volwassenen +7% (cijfers Coca-Cola)</text></svg>",
+   "quiz": {
+    "q": "Waar startte Coca-Cola de campagne met voornamen op flesjes?",
+    "o": [
+     "In de Verenigde Staten, in 2014",
+     "In Groot-Brittannië, in 2008",
+     "In Australië, in 2011"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "The Coca-Cola Company – How a campaign got its start down under",
+     "u": "https://www.coca-colacompany.com/about-us/history/how-a-campaign-got-its-start-down-under"
+    },
+    {
+     "t": "Coca-Cola Australia – Local idea goes global",
+     "u": "https://www.coca-cola.com/au/en/media-center/local-idea-goes-global-share-a-coke"
+    },
+    {
+     "t": "Marketing Mag – Share a Coke campaign post-analysis",
+     "u": "https://www.marketingmag.com.au/hubs-c/share-a-coke-campaign-post-analysis/"
+    }
+   ],
+   "date": "2026-11-27T05:46:06Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Waarom je Uber-rit na een concert plots duurder is",
+   "body": "Zijn er in een buurt meer ritaanvragen dan chauffeurs, dan verhoogt Uber automatisch de prijs. Dat lokt chauffeurs en laat sommige klanten wachten. Toen het systeem op oudejaarsnacht 2014 in New York 26 minuten uitviel, werd volgens Uber hooguit een kwart van de aanvragen een rit. Toch vinden veel mensen zulke prijspieken oneerlijk.",
+   "take": "Zie je een prijspiek, wacht dan tien minuten of wandel een paar straten verder: de piek geldt per zone.",
+   "deep": "## Hoe het werkt\n\nUber noemt het surge pricing. Het systeem vergelijkt per zone hoeveel mensen een rit vragen en hoeveel chauffeurs beschikbaar zijn. Zijn er meer reizigers dan chauffeurs, dan gaat de prijs automatisch omhoog, met een vermenigvuldiger op het normale tarief, een vast extra bedrag of een vaste ritprijs vooraf. Chauffeurs zien op een kaart waar de prijzen hoog zijn en rijden ernaartoe. Een deel van de reizigers betaalt, anderen wachten tot de prijs zakt. Zo komen vraag en aanbod weer dichter bij elkaar. De tarieven worden voortdurend bijgewerkt, dus de piek kan snel verdwijnen, en één wijk kan duur zijn terwijl de wijk ernaast normaal blijft.\n\n## Een voorbeeld\n\nStel dat er in Brussel een groot concert eindigt en duizenden mensen tegelijk naar huis willen. Wie meteen een rit bestelt, ziet een hogere prijs dan normaal. Wie eerst iets drinkt of een paar straten verder wandelt, buiten de drukke zone, betaalt vaak minder. Dezelfde logica gebruiken airlines en hotels al lang: tijdens schoolvakanties zijn vliegtickets duurder, omdat de vraag dan piekt.\n\n## Wat onderzoek zegt\n\nIn 2015 publiceerden Jonathan Hall en Cory Kendrick van Uber en Chris Nosko van de University of Chicago een gevalstudie. Na een uitverkocht concert van Ariana Grande in Madison Square Garden werkte de prijspiek: meer chauffeurs kwamen naar de zone en de gemiddelde wachttijd bleef 2,6 minuten. Op oudejaarsnacht 2014 viel het systeem in New York 26 minuten uit. Toen werd hooguit 25% van de aanvragen een rit en steeg de wachttijd naar 8 minuten. Over hoe klanten zich voelen, gaat het klassieke onderzoek van Daniel Kahneman, Jack Knetsch en Richard Thaler uit 1986. Zij vroegen mensen of een winkel na een sneeuwstorm de prijs van sneeuwschoppen van 15 naar 20 dollar mag optrekken. Volgens latere besprekingen vond 82% dat oneerlijk.\n\n## Nuance of misverstand\n\nDe gevalstudie komt van Uber zelf en is geen onafhankelijk experiment. Critici wezen erop dat ze maar één concert en een klein gebied rond de zaal onderzocht. En efficiënt is niet hetzelfde als eerlijk: mensen aanvaarden hogere prijzen beter als de kosten stijgen dan wanneer een bedrijf vooral profiteert van een piek in de vraag. Dat merkte de Amerikaanse hamburgerketen Wendy's in februari 2024. Na een vermelding van 'dynamic pricing' brak een storm van kritiek los, en Burger King lanceerde een 'No urge to surge'-actie. Wendy's verduidelijkte dat het geen surge pricing zou invoeren.\n\n## Wat je ermee doet\n\nAls klant: vergelijk, wacht even of verander van zone. Als ondernemer: verkoop dynamische prijzen als korting in rustige uren, eerder dan als toeslag op drukke momenten, en leg uit waarom de prijs verandert.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Meer ritaanvragen dan chauffeurs</text><circle cx=\"60\" cy=\"90\" r=\"7\" fill=\"#ff6b9d\"/><circle cx=\"82\" cy=\"90\" r=\"7\" fill=\"#ff6b9d\"/><circle cx=\"104\" cy=\"90\" r=\"7\" fill=\"#ff6b9d\"/><circle cx=\"60\" cy=\"112\" r=\"7\" fill=\"#ff6b9d\"/><circle cx=\"82\" cy=\"112\" r=\"7\" fill=\"#ff6b9d\"/><circle cx=\"104\" cy=\"112\" r=\"7\" fill=\"#ff6b9d\"/><circle cx=\"60\" cy=\"134\" r=\"7\" fill=\"#ff6b9d\"/><circle cx=\"82\" cy=\"134\" r=\"7\" fill=\"#ff6b9d\"/><circle cx=\"104\" cy=\"134\" r=\"7\" fill=\"#ff6b9d\"/><text x=\"82\" y=\"170\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">aanvragen</text><rect x=\"140\" y=\"80\" width=\"80\" height=\"50\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"180\" y=\"102\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">prijs</text><text x=\"180\" y=\"120\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">x1,8</text><circle r=\"6\" fill=\"#06d6a0\"><animateMotion dur=\"4s\" repeatCount=\"indefinite\" path=\"M340 60 L270 95\"/></circle><circle r=\"6\" fill=\"#06d6a0\"><animateMotion dur=\"4s\" begin=\"1.3s\" repeatCount=\"indefinite\" path=\"M340 150 L270 115\"/></circle><circle r=\"6\" fill=\"#06d6a0\"><animateMotion dur=\"4s\" begin=\"2.6s\" repeatCount=\"indefinite\" path=\"M345 105 L270 105\"/></circle><text x=\"290\" y=\"170\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">extra chauffeurs</text><text x=\"180\" y=\"200\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">hogere prijs: meer aanbod, minder vraag</text></svg>",
+   "quiz": {
+    "q": "Wat gebeurde er volgens Uber toen surge pricing op oudejaarsnacht 2014 uitviel?",
+    "o": [
+     "Er werden meer ritten voltooid dan ooit",
+     "Hooguit een kwart van de aanvragen werd een rit",
+     "De chauffeurs gingen massaal staken"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Uber – How surge pricing works",
+     "u": "https://www.uber.com/us/en/marketplace/pricing/surge-pricing/"
+    },
+    {
+     "t": "Uber – The effects of Uber's surge pricing: a case study",
+     "u": "https://www.uber.com/blog/research/the-effects-of-ubers-surge-pricing-a-case-study/"
+    },
+    {
+     "t": "Fortune – Uber's surge pricing study",
+     "u": "https://fortune.com/2015/09/17/uber-surge-price-study/"
+    },
+    {
+     "t": "Kahneman, Knetsch & Thaler (1986), AER",
+     "u": "https://eml.berkeley.edu/~saez/course131/Kahneman-FairnessConstraintProfit-1986.pdf"
+    },
+    {
+     "t": "Axios – Wendy's says it will not use surge pricing",
+     "u": "https://www.axios.com/2024/02/28/wendys-pricing-plans-digital-boards"
+    }
+   ],
+   "date": "2026-11-27T05:46:06Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Het bedriegersgevoel is geen diagnose, en vrij gewoon",
+   "body": "Psychologen Pauline Clance en Suzanne Imes beschreven in 1978 het impostorfenomeen: succesvolle mensen die denken dat ze hun succes niet verdienen en vrezen 'ontmaskerd' te worden. Het is geen officiële diagnose. Een overzichtsstudie uit 2020 vond, afhankelijk van de meetlat, dat 9 tot 82% van de deelnemers het herkende.",
+   "take": "Schrijf na een succes op wat jij concreet deed om het te bereiken, en lees die lijst bij twijfel opnieuw.",
+   "deep": "## Hoe het werkt\n\nHet impostorfenomeen is het hardnekkige gevoel dat je je succes niet verdiend hebt en dat anderen je ooit zullen doorzien. Clance beschreef later een typische cirkel. Je krijgt een nieuwe taak en begint te twijfelen of je dat wel kunt. Je reageert door extreem hard te werken of door uit te stellen tot het laatste moment. Lukt het, dan schrijf je dat toe aan dat harde werk of aan geluk, niet aan je kunnen. Zo bevestigt elk succes het gevoel dat je 'eigenlijk' niet goed genoeg bent, en begint de cirkel bij de volgende taak opnieuw.\n\n## Een voorbeeld\n\nEen jonge ingenieur in Gent krijgt promotie tot teamleider. In plaats van trots voelt ze vooral angst: straks merken ze dat ik er niets van ken. Ze bereidt elke vergadering tot diep in de nacht voor. Als het project een succes wordt, denkt ze: dat kwam door het goede team, en ik had geluk met de timing. Haar collega's zien een sterke leider. Zij ziet iemand die er nog net mee wegkomt.\n\n## Wat onderzoek zegt\n\nClance en Imes publiceerden hun artikel in 1978 in het vakblad Psychotherapy: Theory, Research & Practice. Ze baseerden zich op hun werk met meer dan 150 succesvolle vrouwen, en dachten aanvankelijk dat het vooral vrouwen trof. Clance kwam daar later op terug. In 2020 bundelden Dena Bravata en collega's in het Journal of General Internal Medicine tientallen studies met samen meer dan 14.000 deelnemers. Het aandeel mensen met het fenomeen liep uiteen van 9 tot 82%, vooral afhankelijk van de vragenlijst en de grens die onderzoekers kozen. Het kwam vaak voor bij etnische minderheden en ging samen met depressie- en angstklachten en burn-out.\n\n## Nuance of misverstand\n\nIn de media heet het vaak 'impostorsyndroom', maar het is geen erkende diagnose. Clance zei in 2021 in het magazine van de American Psychological Association dat 'fenomeen' of 'ervaring' betere woorden zijn, net omdat het geen klinische diagnose is. Dat de cijfers zo uiteenlopen, toont dat er geen vaste meetlat is. Wees ook voorzichtig met het etiket: soms is twijfel terecht, bijvoorbeeld in een nieuwe job, en soms komt het gevoel voort uit een omgeving die iemand echt doet voelen dat hij er niet bij hoort.\n\n## Wat je ermee doet\n\nBenoem het gevoel als een bekend patroon, niet als bewijs dat je faalt. Hou een lijstje bij van feedback en resultaten waarin jouw rol duidelijk is. Praat erover met een collega of mentor: veel mensen blijken hetzelfde te voelen. Belemmeren angst of somberheid je dagelijks leven, praat er dan over met je huisarts of een psycholoog.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">De cirkel van het bedriegersgevoel</text><circle cx=\"180\" cy=\"115\" r=\"70\" fill=\"none\" stroke=\"rgba(255,255,255,0.4)\" stroke-width=\"2\" stroke-dasharray=\"4 6\"/><text x=\"180\" y=\"42\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">nieuwe taak</text><text x=\"278\" y=\"120\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">twijfel</text><text x=\"180\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">overwerken</text><text x=\"84\" y=\"120\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">'geluk gehad'</text><circle r=\"7\" fill=\"#ffd166\"><animateMotion dur=\"8s\" repeatCount=\"indefinite\" path=\"M180 45 A70 70 0 1 1 179.9 45\"/></circle><text x=\"180\" y=\"112\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">succes voelt</text><text x=\"180\" y=\"128\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">niet verdiend</text></svg>",
+   "quiz": {
+    "q": "Wat klopt over het impostorfenomeen?",
+    "o": [
+     "Het is geen officiële diagnose",
+     "Het staat sinds 1978 als stoornis in de DSM",
+     "Het komt alleen voor bij vrouwen"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Bravata e.a. (2020), J Gen Intern Med – systematische review",
+     "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7174434/"
+    },
+    {
+     "t": "APA Monitor (2021) – Feel like a fraud?",
+     "u": "https://www.apa.org/monitor/2021/06/cover-impostor-phenomenon"
+    }
+   ],
+   "date": "2026-11-27T05:46:06Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Leerkrachtverwachtingen werken, maar veel zwakker dan de legende",
+   "body": "In 1968 vertelden Robert Rosenthal en Lenore Jacobson leerkrachten dat willekeurig gekozen leerlingen 'laatbloeiers' waren. Die leerlingen gingen er in IQ gemiddeld iets meer op vooruit. Dat werd het Pygmalion-effect. Latere overzichtsstudies vinden dat verwachtingen echt meespelen, maar het effect is meestal klein, vaak tijdelijk en bij IQ zwak aangetoond.",
+   "take": "Verwacht veel van iemand en toon dat met concrete uitdaging en feedback, maar reken niet op wonderen.",
+   "deep": "## Hoe het werkt\n\nHet idee achter het Pygmalion-effect is een zichzelf waarmakende voorspelling. Een leerkracht, coach of leidinggevende verwacht veel van iemand. Die verwachting verandert ongemerkt het gedrag: meer aandacht, moeilijkere vragen, meer geduld en meer positieve feedback. De leerling voelt dat vertrouwen, doet meer moeite en presteert daardoor beter. Zo wordt de verwachting waar, ook als ze oorspronkelijk nergens op gebaseerd was. Het omgekeerde, lage verwachtingen die prestaties drukken, noemt men soms het golemeffect.\n\n## Een voorbeeld\n\nRosenthal en Jacobson lieten op een Amerikaanse lagere school, de Oak School, alle leerlingen een test afleggen die zogezegd voorspelde wie intellectueel zou 'openbloeien'. In werkelijkheid kozen ze per klas willekeurig ongeveer 20% van de kinderen en gaven die namen aan de leerkrachten. Volgens een verslag in Time uit 1968 steeg het IQ van die groep over de hele school gemiddeld met 12,2 punten, tegenover 8,4 punten bij de andere leerlingen. Het verschil zat vooral in het eerste en tweede leerjaar. Het boek Pygmalion in the Classroom werd wereldberoemd.\n\n## Wat onderzoek zegt\n\nAl in 1969 schreef onderzoeker Richard Snow dat de studie kampte met serieuze meetproblemen en een gebrekkige analyse. Stephen Raudenbush vond in 1984 in een meta-analyse dat het effect op IQ alleen opdook als leerkrachten hun leerlingen nog nauwelijks kenden wanneer ze de valse informatie kregen. Kenden ze de kinderen al langer dan een week of twee, dan was er nauwelijks effect. Lee Jussim en Kent Harber bekeken in 2005 vijfendertig jaar onderzoek. Hun conclusie: zichzelf waarmakende voorspellingen in de klas bestaan, maar de effecten zijn meestal klein, vaak tijdelijk en stapelen zich zelden op. De bewering dat verwachtingen het IQ verhogen, noemden ze hooguit zwak onderbouwd.\n\n## Nuance of misverstand\n\nDe populaire versie zegt dat je een kind slimmer maakt door erin te geloven. Zo sterk is het niet. Verwachtingen van leerkrachten zijn bovendien meestal behoorlijk accuraat: ze zijn gebaseerd op wat ze in de klas zien. Een groot deel van het verband tussen verwachting en prestatie komt dus doordat leerkrachten juist inschatten, niet doordat ze prestaties veroorzaken. Dat het effect klein is, betekent niet dat het onbelangrijk is: bij leerlingen die al achterstand of vooroordelen ervaren, kan ook een klein duwtje meetellen.\n\n## Wat je ermee doet\n\nOf je nu ouder, leerkracht of teamleider bent: vertaal hoge verwachtingen in gedrag. Geef iedereen uitdagende opdrachten, concrete feedback en een eerlijke kans om te tonen wat hij kan. Wantrouw tegelijk verhalen die beloven dat geloof alleen al een wonder verricht.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Verwachting → gedrag → prestatie</text><rect x=\"20\" y=\"80\" width=\"90\" height=\"50\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"65\" y=\"102\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">leerkracht</text><text x=\"65\" y=\"118\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">verwacht veel</text><rect x=\"135\" y=\"80\" width=\"90\" height=\"50\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"102\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">meer aandacht</text><text x=\"180\" y=\"118\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">en uitdaging</text><rect x=\"250\" y=\"80\" width=\"90\" height=\"50\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"295\" y=\"102\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">leerling</text><text x=\"295\" y=\"118\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">presteert</text><line x1=\"110\" y1=\"105\" x2=\"135\" y2=\"105\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"4 4\"><animate attributeName=\"stroke-dashoffset\" values=\"8;0\" dur=\"1s\" repeatCount=\"indefinite\"/></line><line x1=\"225\" y1=\"105\" x2=\"250\" y2=\"105\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"4 4\"><animate attributeName=\"stroke-dashoffset\" values=\"8;0\" dur=\"1s\" repeatCount=\"indefinite\"/></line><text x=\"180\" y=\"160\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">effect volgens reviews: klein</text><rect x=\"80\" y=\"172\" width=\"200\" height=\"12\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"80\" y=\"172\" width=\"20\" height=\"12\" fill=\"#06d6a0\"><animate attributeName=\"width\" values=\"0;30;30\" keyTimes=\"0;0.5;1\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"180\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">niet het wonder van de legende</text></svg>",
+   "quiz": {
+    "q": "Wat concludeerden Jussim en Harber (2005) over verwachtingseffecten in de klas?",
+    "o": [
+     "Ze bestaan niet",
+     "Ze verhogen het IQ met gemiddeld 20 punten",
+     "Ze bestaan, maar zijn meestal klein en tijdelijk"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Jussim & Harber (2005), Personality and Social Psychology Review",
+     "u": "https://www.gwern.net/doc/statistics/bias/publication/2005-jussim.pdf"
+    },
+    {
+     "t": "Raudenbush (1984), Journal of Educational Psychology",
+     "u": "https://gwern.net/doc/statistics/bias/1984-raudenbush.pdf"
+    },
+    {
+     "t": "Snow (1969), Contemporary Psychology – recensie",
+     "u": "https://gwern.net/doc/iq/1969-snow.html"
+    },
+    {
+     "t": "Time (1968) – Teachers: Blooming by deception",
+     "u": "https://time.com/archive/6632846/teachers-blooming-by-deception/"
+    }
+   ],
+   "date": "2026-11-27T05:46:06Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "Bij Amazon begint een vergadering met stil lezen",
+   "body": "Op 9 juni 2004 mailde Jeff Bezos zijn topteam: voortaan geen PowerPoint meer. Een memo van vier pagina's schrijven is volgens hem moeilijker dan twintig slides, omdat volzinnen je dwingen om verbanden te leggen. Vandaag schrijft Amazon memo's van zes pagina's die iedereen bij het begin van de vergadering in stilte leest.",
+   "take": "Stuur voor je volgende belangrijke vergadering één pagina doorlopende tekst in plaats van slides, en laat iedereen eerst lezen.",
+   "deep": "## Hoe het werkt\n\nSlides met opsommingstekens laten toe om losse ideeën naast elkaar te zetten zonder te zeggen hoe ze samenhangen. Een tekst in volzinnen dwingt je om te kiezen wat belangrijker is, waarom iets zo is en wat eruit volgt. Bij Amazon schrijft wie een voorstel heeft daarom een verhalend memo. Bij het begin van de vergadering leest iedereen dat in stilte, als een soort studie-uur. Pas daarna begint de discussie. Zo heeft iedereen dezelfde informatie, kan niemand doen alsof hij zich voorbereidde, en gaat de tijd naar vragen in plaats van naar een presentatie.\n\n## Een voorbeeld\n\nStel dat een team in een Vlaamse kmo een nieuwe webshop wil. In een slidedeck staat 'snellere levering, hogere marge, nieuwe klanten'. In een memo moet het team uitschrijven welke klanten, waarom die zouden overstappen, wat het kost en welke risico's er zijn. Tijdens de vergadering lezen de zaakvoerder en de collega's eerst tien minuten, noteren hun vragen in de kantlijn en bespreken daarna alleen wat onduidelijk of betwistbaar is.\n\n## Wat onderzoek zegt\n\nDe mail van Bezos aan zijn senior team, verstuurd op 9 juni 2004 met als onderwerp 'No powerpoint presentations from now on at steam', werd later door Reuters en Business Insider aangehaald. Hij schreef dat een goed memo van vier pagina's moeilijker te schrijven is dan een PowerPoint van twintig pagina's, omdat de verhaalstructuur je dwingt beter na te denken over wat belangrijker is dan wat en hoe dingen samenhangen. In zijn brief aan de aandeelhouders van april 2018 schreef Bezos: 'We doen geen PowerPoint-presentaties bij Amazon. In plaats daarvan schrijven we verhalend opgebouwde memo's van zes pagina's.' Die memo's worden bij het begin van de vergadering in stilte gelezen. In interviews sprak hij van ongeveer een halfuur leestijd.\n\n## Nuance of misverstand\n\nDit is een bedrijfspraktijk, geen wetenschappelijk bewezen methode, en Amazon is succesvol om veel redenen. Een memo werkt ook niet vanzelf. Een slechte tekst van zes pagina's is even nutteloos als een slechte presentatie, en schrijven kost veel meer tijd. Voor snelle updates of beelden zoals een ontwerp of een grafiek zijn visuele hulpmiddelen soms beter. Het punt van Bezos is vooral dat schrijven gedachten blootlegt die slides kunnen verbergen.\n\n## Wat je ermee doet\n\nBegin klein. Schrijf voor één belangrijke beslissing een tekst van één of twee pagina's met de vraag, de context, de opties en je voorstel. Stuur hem niet vooraf door in de hoop dat iedereen hem leest, maar geef de eerste minuten van de vergadering leestijd. Merk je dat je iets niet in volzinnen kunt uitleggen, dan heb je het waarschijnlijk zelf nog niet helemaal doordacht.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Amazon: slides eruit, memo erin</text><rect x=\"40\" y=\"65\" width=\"100\" height=\"70\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"62\" cy=\"90\" r=\"5\" fill=\"#fff\"/><circle cx=\"62\" cy=\"110\" r=\"5\" fill=\"#fff\"/><line x1=\"74\" y1=\"90\" x2=\"125\" y2=\"90\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"74\" y1=\"110\" x2=\"115\" y2=\"110\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"90\" y=\"155\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">opsommingstekens</text><line x1=\"40\" y1=\"60\" x2=\"140\" y2=\"140\" stroke=\"#ff6b9d\" stroke-width=\"3\"/><line x1=\"150\" y1=\"105\" x2=\"189\" y2=\"105\" stroke=\"#ffd166\" stroke-width=\"2\"/><path d=\"M195 105 L187 100 L187 110 Z\" fill=\"#ffd166\"/><rect x=\"205\" y=\"65\" width=\"64\" height=\"110\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"215\" y1=\"78\" x2=\"259\" y2=\"78\" stroke=\"rgba(255,255,255,0.6)\" stroke-width=\"2\"/><line x1=\"215\" y1=\"90\" x2=\"259\" y2=\"90\" stroke=\"rgba(255,255,255,0.6)\" stroke-width=\"2\"/><line x1=\"215\" y1=\"102\" x2=\"259\" y2=\"102\" stroke=\"rgba(255,255,255,0.6)\" stroke-width=\"2\"/><line x1=\"215\" y1=\"114\" x2=\"259\" y2=\"114\" stroke=\"rgba(255,255,255,0.6)\" stroke-width=\"2\"/><line x1=\"215\" y1=\"126\" x2=\"259\" y2=\"126\" stroke=\"rgba(255,255,255,0.6)\" stroke-width=\"2\"/><line x1=\"215\" y1=\"138\" x2=\"259\" y2=\"138\" stroke=\"rgba(255,255,255,0.6)\" stroke-width=\"2\"/><line x1=\"215\" y1=\"150\" x2=\"259\" y2=\"150\" stroke=\"rgba(255,255,255,0.6)\" stroke-width=\"2\"/><line x1=\"215\" y1=\"162\" x2=\"259\" y2=\"162\" stroke=\"rgba(255,255,255,0.6)\" stroke-width=\"2\"/><rect x=\"205\" y=\"65\" width=\"64\" height=\"4\" fill=\"#06d6a0\"><animate attributeName=\"y\" values=\"68;168;68\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"237\" y=\"192\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">6 pagina's proza</text><text x=\"310\" y=\"100\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">eerst</text><text x=\"310\" y=\"116\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">samen</text><text x=\"310\" y=\"132\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">stil lezen</text></svg>",
+   "quiz": {
+    "q": "Wat gebeurt er bij Amazon aan het begin van een belangrijke vergadering?",
+    "o": [
+     "Iedereen leest in stilte een memo",
+     "De indiener geeft een presentatie van twintig slides",
+     "Iedereen stemt eerst anoniem"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Business Insider – A 2004 email from Jeff Bezos",
+     "u": "https://www.businessinsider.in/tech/a-2004-email-from-jeff-bezos-explains-why-powerpoint-presentations-arent-allowed-at-amazon/articleshow/48258641.cms"
+    },
+    {
+     "t": "CNBC – What Jeff Bezos learned from requiring 6-page memos",
+     "u": "https://www.cnbc.com/2018/04/23/what-jeff-bezos-learned-from-requiring-6-page-memos-at-amazon.html"
+    },
+    {
+     "t": "Inc. – Why Bezos banned PowerPoint",
+     "u": "https://www.inc.com/justin-bariso/amazon-jeff-bezos-powerpoint-meetings-how-to-think.html"
+    }
+   ],
+   "date": "2026-11-27T05:46:06Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "De beroemde Harvard-doelenstudie heeft nooit bestaan",
+   "body": "Het verhaal dat 3% van de afgestudeerden met geschreven doelen later meer verdiende dan de rest samen, is nooit teruggevonden, zegt de bibliotheek van Harvard. Psychologe Gail Matthews (Dominican University) testte het idee wel: wie doelen opschreef en een vriend wekelijks op de hoogte hield, bereikte er na vier weken 76% van, tegenover 43%.",
+   "take": "Schrijf je doel op en stuur een vriend elke week een kort berichtje over je vooruitgang.",
+   "deep": "## Hoe het werkt\n\nEen doel in je hoofd blijft vaag. Opschrijven dwingt je om het concreet te maken. Een actieplan vertaalt het in eerste stappen. Het delen met iemand anders voegt verantwoording toe: je weet dat er gevraagd zal worden hoe het gaat. En een wekelijks verslag zorgt dat je regelmatig stilstaat bij je vooruitgang, waardoor je sneller bijstuurt. Volgens Matthews werkt vooral die combinatie: elk extra element maakt het moeilijker om je doel stilletjes te laten vallen.\n\n## Een voorbeeld\n\nStel dat je in januari wilt beginnen met lopen. In je hoofd blijft het bij 'meer bewegen'. Op papier wordt het: drie keer per week twintig minuten, op maandag, woensdag en zaterdag. Je stuurt je plan naar een vriendin en belooft haar elke zondag een berichtje over hoe het ging. Wanneer je op een regenachtige woensdag geen zin hebt, denk je aan dat berichtje van zondag.\n\n## Wat onderzoek zegt\n\nHet populaire verhaal gaat zo: in 1953 vroeg Yale, of in andere versies in 1979 Harvard, afgestudeerden of ze hun doelen hadden opgeschreven. Slechts 3% deed dat, en twintig jaar later zouden zij meer verdienen dan de andere 97% samen. De bibliotheek van Harvard schrijft dat ze zo'n studie nooit heeft kunnen vinden, en het tijdschrift Fast Company ontmaskerde het verhaal al in 1996. Gail Matthews van Dominican University in Californië besloot het idee zelf te testen. Ze verdeelde 149 deelnemers uit verschillende landen en beroepen in vijf groepen. Groep 1 dacht alleen na over zijn doelen voor de komende vier weken. De andere groepen schreven ze op, en kregen er stap voor stap extra elementen bij: een actieplan, het delen met een vriend en ten slotte een wekelijks voortgangsverslag aan die vriend. Volgens verslagen van haar resultaten bereikte de laatste groep gemiddeld 76% van haar doelen of was ze voor meer dan de helft op weg, tegenover 43% in de groep die alleen nadacht.\n\n## Nuance of misverstand\n\nDe studie van Matthews is klein, duurde maar vier weken en werd voor zover bekend niet in een wetenschappelijk tijdschrift met peerreview gepubliceerd. De bibliotheek van Harvard wijst daar ook op. De deelnemers beoordeelden hun eigen vooruitgang, en de cijfers verschillen tussen versies van haar verslag. Zie het dus als een interessante aanwijzing, niet als hard bewijs. Wat de studie zeker niet toont, is dat opschrijven alleen een magisch effect heeft: het grootste verschil kwam er toen verantwoording en regelmatige opvolging werden toegevoegd.\n\n## Wat je ermee doet\n\nWantrouw voortaan elk motivatieverhaal dat een exacte 3%-statistiek aanhaalt zonder bron. Gebruik wel het bruikbare deel: schrijf één concreet doel op, noteer de eerste stap, kies een vriend of collega en spreek een vast moment per week af om kort te melden hoe het gaat.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Matthews: doelen bereikt na 4 weken</text><line x1=\"40\" y1=\"170\" x2=\"320\" y2=\"170\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"80\" y=\"170\" width=\"60\" height=\"0\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"height\" values=\"0;68;68\" keyTimes=\"0;0.4;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"170;102;102\" keyTimes=\"0;0.4;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"220\" y=\"170\" width=\"60\" height=\"0\" fill=\"#06d6a0\" opacity=\"0.85\"><animate attributeName=\"height\" values=\"0;0;120;120\" keyTimes=\"0;0.2;0.6;1\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"170;170;50;50\" keyTimes=\"0;0.2;0.6;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"110\" y=\"96\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">43%</text><text x=\"250\" y=\"44\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">76%</text><text x=\"110\" y=\"188\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">alleen bedenken</text><text x=\"250\" y=\"188\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">opschrijven + vriend</text><text x=\"250\" y=\"204\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">+ wekelijks verslag</text><text x=\"110\" y=\"212\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">'Harvard 3%': verzonnen</text></svg>",
+   "quiz": {
+    "q": "Wat is er bekend over de 'Harvard/Yale-studie' over geschreven doelen?",
+    "o": [
+     "Ze werd in 1979 in Science gepubliceerd",
+     "Harvard heeft ze nooit kunnen terugvinden",
+     "Ze toonde dat 3% van de deelnemers geen doelen had"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Harvard Library – Ask a librarian (goals study)",
+     "u": "https://ask.library.harvard.edu/faq/82314"
+    },
+    {
+     "t": "Dominican University – Matthews, research summary",
+     "u": "https://www.dominican.edu/sites/default/files/2020-02/gailmatthews-harvard-goals-researchsummary.pdf"
+    },
+    {
+     "t": "Daily Bruin – Students can benefit from goal-setting",
+     "u": "https://dailybruin.com/2010/10/14/students_can_benefit_from_goalsetting"
+    }
+   ],
+   "date": "2026-11-27T05:46:06Z"
   }
  ],
  "dives": [
