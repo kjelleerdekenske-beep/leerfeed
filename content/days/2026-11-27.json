@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T05:47:42Z",
+ "updated": "2026-11-27T05:49:45Z",
  "cards": [
   {
    "cat": "psychologie",
@@ -1288,6 +1288,394 @@
     }
    ],
    "date": "2026-11-27T05:47:42Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Een gekko plakt aan het plafond zonder lijm",
+   "body": "Een gekkopoot telt bijna een half miljoen haartjes (setae). Elk haartje waaiert uit in honderden spatels van zo'n 200 nanometer breed. Die komen zo dicht tegen het oppervlak dat zwakke van der Waalskrachten tussen moleculen gaan meetellen. Opgeteld houden die een gekko moeiteloos ondersteboven, zonder lijm of zuignappen.",
+   "take": "Zie je 'gekkotape' of grijpers met microhaartjes? Dat is hetzelfde principe: ontelbare minuscule contactpunten in plaats van kleefstof.",
+   "deep": "## Hoe het werkt\n\nVan der Waalskrachten ontstaan doordat de elektronen in moleculen voortdurend een beetje verschuiven. Daardoor krijgt een molecule kortstondig een iets positievere en een iets negatievere kant, en die trekt naburige moleculen aan. Die kracht is extreem zwak en werkt alleen over enkele nanometers. Je hand of een rubberen zool raakt een muur maar op weinig punten echt aan, dus je merkt er niets van. De gekko lost dat op met vertakking in lagen: op de teen zitten lamellen, daarop staan de haartjes, en elk haartje splitst aan het uiteinde in honderden tot duizend spatels. Zo brengt het dier volgens de onderzoekers ongeveer een miljard spatels tot vlak tegen het oppervlak. Al die minuscule aantrekkingen tellen op tot een stevige greep.\n\n## Een voorbeeld\n\nNeem de tokeh (Gekko gecko), de soort waarmee de onderzoekers in Berkeley werkten. Hij hangt zonder moeite ondersteboven aan een glasplaat. Om los te komen, trekt hij niet zomaar zijn poot weg: hij krult zijn tenen op, zoals je een stuk plakband aftrekt. Wordt een haartje onder een hoek van ongeveer 30 graden gekanteld, dan laten de spatels vanzelf los. Daardoor kan hij tegelijk muurvast hangen en snel lopen. Vergelijk het met een stuk tape dat je in één ruk recht omhoog probeert te trekken: dat lukt slecht, terwijl afpellen vanaf een hoekje vlot gaat.\n\n## Wat onderzoek zegt\n\nKellar Autumn, Robert Full en collega's maten in 2000 in Nature voor het eerst de kleefkracht van één enkel haartje. Die bleek ongeveer tien keer groter dan je op basis van metingen aan hele dieren zou verwachten. In 2002 publiceerde hetzelfde team in PNAS bewijs voor van der Waalskrachten: de haartjes kleefden even goed op waterafstotende als op waterminnende oppervlakken. Als water (capillaire kracht) de hoofdrol speelde, zou dat verschil groot moeten zijn. Kunstmatige spatels van siliconenrubber en polyester kleefden ook, zolang hun punten klein genoeg waren. Volgens de universiteit zouden een miljoen haartjes, samen niet groter dan een klein muntstuk, een kind van zo'n 20 kilo kunnen tillen.\n\n## Nuance of misverstand\n\nHet is geen zuignap en geen lijm: gekkotenen scheiden niets af. Maar 'alleen van der Waals' is ook te simpel. Huber en collega's maten in 2005, eveneens in PNAS, de kracht van één enkele spatel en zagen dat luchtvochtigheid de kleefkracht op nanoschaal merkbaar verhoogt. Een dun waterlaagje uit de lucht helpt dus mee. De kern blijft wel hetzelfde: enorm veel nanocontact, mogelijk gemaakt door de vertakte bouw van de haartjes.\n\n## Wat je ermee doet\n\nOnthoud het principe 'veel kleine contactpunten'. Het verklaart waarom ingenieurs droge kleefstrips en robotgrijpers met microhaartjes ontwikkelen die zonder resten loslaten. En zie je ooit een gekko tegen een raam hangen, kijk dan naar zijn tenen: hij pelt ze bij elke stap op, en net dat afpellen is het geheim van zijn snelheid.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Van grof naar nano</text><ellipse cx=\"65\" cy=\"120\" rx=\"38\" ry=\"20\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"45\" y1=\"104\" x2=\"45\" y2=\"136\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"58\" y1=\"104\" x2=\"58\" y2=\"136\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"71\" y1=\"104\" x2=\"71\" y2=\"136\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"84\" y1=\"104\" x2=\"84\" y2=\"136\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"110\" y1=\"120\" x2=\"134\" y2=\"120\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M132,115 L140,120 L132,125 Z\" fill=\"#fff\"/><path d=\"M185,180 L185,95 M185,95 L165,62 M185,95 L175,60 M185,95 L185,58 M185,95 L195,60 M185,95 L205,62\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"220\" y1=\"120\" x2=\"242\" y2=\"120\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M240,115 L248,120 L240,125 Z\" fill=\"#fff\"/><line x1=\"250\" y1=\"52\" x2=\"340\" y2=\"52\" stroke=\"#fff\" stroke-width=\"3\"/><text x=\"295\" y=\"44\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">oppervlak</text><g><line x1=\"295\" y1=\"170\" x2=\"265\" y2=\"74\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"265\" cy=\"72\" r=\"3\" fill=\"#06d6a0\"/><line x1=\"295\" y1=\"170\" x2=\"280\" y2=\"74\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"280\" cy=\"72\" r=\"3\" fill=\"#06d6a0\"/><line x1=\"295\" y1=\"170\" x2=\"295\" y2=\"74\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"295\" cy=\"72\" r=\"3\" fill=\"#06d6a0\"/><line x1=\"295\" y1=\"170\" x2=\"310\" y2=\"74\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"310\" cy=\"72\" r=\"3\" fill=\"#06d6a0\"/><line x1=\"295\" y1=\"170\" x2=\"325\" y2=\"74\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"325\" cy=\"72\" r=\"3\" fill=\"#06d6a0\"/><animateTransform attributeName=\"transform\" type=\"translate\" values=\"0 22;0 0;0 0;0 22\" keyTimes=\"0;0.35;0.75;1\" dur=\"5s\" repeatCount=\"indefinite\"/></g><g opacity=\"0\"><line x1=\"265\" y1=\"56\" x2=\"265\" y2=\"64\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"280\" y1=\"56\" x2=\"280\" y2=\"64\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"295\" y1=\"56\" x2=\"295\" y2=\"64\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"310\" y1=\"56\" x2=\"310\" y2=\"64\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"325\" y1=\"56\" x2=\"325\" y2=\"64\" stroke=\"#ffd166\" stroke-width=\"2\"/><animate attributeName=\"opacity\" values=\"0;0;1;1;0\" keyTimes=\"0;0.33;0.4;0.72;0.8\" dur=\"5s\" repeatCount=\"indefinite\"/></g><text x=\"65\" y=\"168\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">teen</text><text x=\"65\" y=\"183\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">met lamellen</text><text x=\"185\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">1 haartje (seta)</text><text x=\"295\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">spatels ~200 nm</text><text x=\"295\" y=\"206\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">van der Waals</text></svg>",
+   "quiz": {
+    "q": "Wat houdt een gekko vooral vast aan het plafond?",
+    "o": [
+     "Kleverig slijm uit zijn tenen",
+     "Van der Waalskrachten via miljarden spatels",
+     "Zuignapjes onder zijn poten"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "UC Berkeley (2002)",
+     "u": "https://newsarchive.berkeley.edu/news/media/releases/2002/08/26_gecko.html"
+    },
+    {
+     "t": "Autumn e.a., PNAS 2002",
+     "u": "https://www.pnas.org/doi/10.1073/pnas.192252799"
+    },
+    {
+     "t": "Autumn e.a., Nature 2000",
+     "u": "https://www.nature.com/articles/35015073"
+    },
+    {
+     "t": "UC Berkeley (2000)",
+     "u": "https://newsarchive.berkeley.edu/news/media/releases/2000/06/07_gecko.html"
+    },
+    {
+     "t": "Huber e.a., PNAS 2005 (MPG)",
+     "u": "https://icm.is.mpg.de/publications/escidoc-1577018"
+    }
+   ],
+   "date": "2026-11-27T05:49:45Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Een vleermuis versnelt tot 200 roepjes per seconde",
+   "body": "Een jagende vleermuis stoot ultrasone roepjes uit en luistert naar de echo. De wachttijd verraadt de afstand, het verschil tussen beide oren de richting. Vlak voor de vangst versnelt ze tot zo'n 160 à 200 roepjes per seconde: de 'feeding buzz'. Onze gewone dwergvleermuis roept rond 45 kHz, te hoog voor mensenoren.",
+   "take": "Stel op een zomeravond een batdetector in op 45 kHz: een plotse snelle ratel betekent dat een dwergvleermuis een insect probeert te vangen.",
+   "deep": "## Hoe het werkt\n\nDe vleermuis maakt in haar strottenhoofd korte, hoge geluidspulsen en stuurt die de wereld in. Botst zo'n puls op een mug of nachtvlinder, dan kaatst een zwakke echo terug. Geluid legt ongeveer 343 meter per seconde af, dus een insect op één meter geeft al na zo'n 6 milliseconden een echo: heen en terug. Hoe langer de echo uitblijft, hoe verder de prooi. Het verschil in aankomsttijd en luidheid tussen haar twee oren vertelt waar het insect zit. Een jacht verloopt in drie fasen. Tijdens het zoeken roept ze in een rustig ritme. Bij het naderen worden de roepjes korter en sneller. In de eindfase, de terminal of feeding buzz, volgen ze elkaar zo snel op dat ze de positie van haar prooi bijna continu bijwerkt.\n\n## Een voorbeeld\n\nOp een zomeravond langs een vijver of in je tuin vliegt bijna zeker een gewone dwergvleermuis, volgens Natuurpunt onze meest algemene soort. Met een batdetector, die ultrasoon geluid omzet naar hoorbare tikken, hoor je haar het best rond 45 kHz. Eerst klinkt een regelmatig getik, dan plots een snelle ratel: dat is de buzz, het moment waarop ze een insect probeert te pakken. De kleine dwergvleermuis roept hoger, rond 52 kHz en meer, de ruige dwergvleermuis lager, ongeveer tussen 36 en 41 kHz. Zo kan je met één apparaatje soorten uit elkaar houden.\n\n## Wat onderzoek zegt\n\nIn de achttiende eeuw besloot de Italiaan Lazzaro Spallanzani al dat vleermuizen in het donker iets anders dan hun ogen gebruiken, maar hij ontdekte niet dat het om horen ging. In 1938 hoorde Harvard-student Donald Griffin samen met fysicus G.W. Pierce, via een speciale detector, voor het eerst hun ultrasone roepjes. Met Robert Galambos toonde hij daarna aan dat vleermuizen hun echo's echt gebruiken: met afgesloten oren of bek botsten ze tegen obstakels. Studies naar jagende vleermuizen beschrijven hoe de buzz uit twee delen bestaat, waarbij het tweede deel boven de 160 roepjes per seconde gaat. Volgens een studie over hun strottenhoofd halen speciale supersnelle spiertjes tot ongeveer 180 samentrekkingen per seconde.\n\n## Nuance of misverstand\n\nHet getal 200 is geen vaste regel: het hangt af van soort en situatie. Onderzoekers die vleermuizen automatisch monitoren, rekenen een reeks al als feeding buzz vanaf 100 roepjes per seconde. En een buzz betekent niet altijd een vangst. Japanse onderzoekers bestuderen daarom de korte stilte na de buzz om geslaagde van mislukte vangstpogingen te onderscheiden.\n\n## Wat je ermee doet\n\nGebruik echolocatie als denkmodel voor sonar: afstand is de wachttijd van de echo maal de geluidssnelheid, gedeeld door twee. Dezelfde rekensom zit in de parkeersensoren van een auto. En wie eens met een batdetector op stap gaat, hoort plots een hele nachtelijke jacht die altijd al boven zijn hoofd bezig was.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><path d=\"M40,90 Q55,70 70,88 Q85,70 100,90 Q85,84 70,96 Q55,84 40,90 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"70\" y=\"118\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">vleermuis</text><circle cx=\"290\" cy=\"90\" r=\"5\" fill=\"#06d6a0\"/><text x=\"290\" y=\"118\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">mug</text><circle cx=\"72\" cy=\"90\" r=\"8\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"r\" values=\"8;220\" dur=\"3s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;0\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><circle cx=\"290\" cy=\"90\" r=\"4\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\" opacity=\"0\"><animate attributeName=\"r\" values=\"4;4;220\" keyTimes=\"0;0.33;1\" dur=\"3s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"0;0;0.9;0\" keyTimes=\"0;0.33;0.4;1\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><text x=\"20\" y=\"24\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">roep (ultrasoon)</text><text x=\"340\" y=\"24\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"end\">echo terug</text><text x=\"180\" y=\"146\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">wachttijd = afstand, verschil tussen oren = richting</text><line x1=\"40\" y1=\"178\" x2=\"40\" y2=\"192\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"64\" y1=\"178\" x2=\"64\" y2=\"192\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"86\" y1=\"178\" x2=\"86\" y2=\"192\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"106\" y1=\"178\" x2=\"106\" y2=\"192\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"122\" y1=\"178\" x2=\"122\" y2=\"192\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"134\" y1=\"178\" x2=\"134\" y2=\"192\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"143\" y1=\"178\" x2=\"143\" y2=\"192\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"150\" y1=\"178\" x2=\"150\" y2=\"192\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"155\" y1=\"178\" x2=\"155\" y2=\"192\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"159\" y1=\"178\" x2=\"159\" y2=\"192\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"162\" y1=\"178\" x2=\"162\" y2=\"192\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"165\" y1=\"178\" x2=\"165\" y2=\"192\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"168\" y1=\"178\" x2=\"168\" y2=\"192\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"171\" y1=\"178\" x2=\"171\" y2=\"192\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"174\" y1=\"178\" x2=\"174\" y2=\"192\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"177\" y1=\"178\" x2=\"177\" y2=\"192\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"180\" y1=\"178\" x2=\"180\" y2=\"192\" stroke=\"#ffd166\" stroke-width=\"2\"/><line x1=\"183\" y1=\"178\" x2=\"183\" y2=\"192\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"40\" y=\"210\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">zoeken</text><text x=\"105\" y=\"210\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">naderen</text><text x=\"150\" y=\"210\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">buzz ~200/s</text></svg>",
+   "quiz": {
+    "q": "Wat is de 'feeding buzz' van een vleermuis?",
+    "o": [
+     "Het gezoem van haar vleugels tijdens de vlucht",
+     "Een sociale roep naar soortgenoten",
+     "Een razendsnelle reeks roepjes vlak voor de vangst"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Natuurpunt: batdetectorhandleiding",
+     "u": "https://www.natuurpunt.be/sites/default/files/documents/publication/pag_1050_bat_detector_handleiding.pdf"
+    },
+    {
+     "t": "Scientific Reports (2016)",
+     "u": "https://www.nature.com/articles/srep21500"
+    },
+    {
+     "t": "National Geographic",
+     "u": "https://www.nationalgeographic.com/animals/article/110929-bats-superfast-muscles-animals-science"
+    },
+    {
+     "t": "AAAS: Discovering sonar in bats",
+     "u": "https://www.aaas.org/membership/scientia/discovering-sonar-bats"
+    },
+    {
+     "t": "Post-buzz pause (PMC)",
+     "u": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9080750/"
+    }
+   ],
+   "date": "2026-11-27T05:49:45Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "De zee is blauw omdat water rood licht opslorpt",
+   "body": "De zee is niet alleen blauw omdat ze de lucht weerspiegelt. Watermoleculen absorberen een klein beetje rood licht, doordat hun O-H-bindingen gaan trillen. Over meters water telt dat op: rood verdwijnt, blauw blijft over en wordt door water en deeltjes teruggekaatst. Slib en algen kunnen kustwater daardoor groen of bruin kleuren.",
+   "take": "Kijk bij helder water eens naar beneden: hoe dieper je kijkt, hoe blauwer, omdat er onderweg steeds meer rood wordt weggefilterd.",
+   "deep": "## Hoe het werkt\n\nZonlicht bevat alle kleuren van de regenboog. Valt het in water, dan wordt elke kleur onderweg in een andere mate opgeslorpt. Het rode deel gaat het eerst. Watermoleculen nemen die energie op door hun O-H-bindingen te laten trillen. Strikt genomen gaat het om boventonen van die trillingen: de grondtrilling zit in het infrarood, maar zwakkere hogere harmonischen reiken tot in het zichtbare rood. Volgens Braun en Smirnov is elke volgende boventoon 10 tot 20 keer zwakker, dus per centimeter is het effect piepklein. Over meters water telt het wel op. Wat overblijft, is vooral blauw licht. Om dat blauw ook te zien, moet het terug naar boven komen, en dat gebeurt doordat watermoleculen en zwevende deeltjes het licht verstrooien.\n\n## Een voorbeeld\n\nEen glas kraantjeswater lijkt kleurloos: de laag is gewoon te dun. Een diep, wit betegeld zwembad heeft wel een lichtblauwe gloed, ook als het overdekt is en er geen hemel boven hangt. Dat past bij de uitleg: daar weerspiegelt geen blauwe lucht, toch zie je blauw. Aan de Belgische kust oogt de zee vaak eerder grijsgroen, want zand, slib en plankton absorberen en verstrooien licht op hun eigen manier. Wie op vakantie in heldere, diepe zee snorkelt, ziet het diepe blauw van het water zelf.\n\n## Wat onderzoek zegt\n\nCharles Braun en Sergei Smirnov publiceerden in 1993 in het Journal of Chemical Education het artikel 'Why is water blue?'. Ze toonden dat water een zwakke, eigen blauwe kleur heeft die voortkomt uit trillingen van de molecule zelf. Ze benadrukten ook dat verstrooiing door zwevend materiaal nodig is om dat blauwe licht terug naar het oppervlak te sturen. Het Amerikaanse NOAA vat het zo samen: water werkt als een filter dat het rode deel van het spectrum wegneemt en blauw overlaat. Zwevende sedimenten en deeltjes kunnen de kleur naar groen, rood of andere tinten verschuiven. NASA schrijft dat helder oceaanwater blauw oogt omdat blauw de enige kleur is die water niet sterk absorbeert.\n\n## Nuance of misverstand\n\nDe weerspiegeling van de lucht speelt wel mee. Op een kalm wateroppervlak, bekeken onder een kleine hoek, zie je deels de hemel, zegt natuurkundige Christopher Baird. Maar dat verklaart niet waarom water zelf blauw is. Ook de vergelijking met de blauwe lucht loopt mank: de lucht is blauw doordat luchtmoleculen blauw licht verstrooien, de zee vooral doordat water rood licht opslorpt.\n\n## Wat je ermee doet\n\nGebruik dit als je naar water kijkt: groene of bruine zee wijst meestal op veel deeltjes of plankton, diepblauw op helder water. En wie foto's onder water maakt, weet nu waarom alles blauwgroen kleurt: het water heeft het rood al onderweg opgegeten.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"160\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">zonlicht</text><path d=\"M20,48 Q45,40 70,48 T120,48 T170,48 T220,48 T270,48 T320,48 T345,48\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"20\" y=\"50\" width=\"325\" height=\"160\" fill=\"rgba(255,255,255,0.14)\"/><line x1=\"70\" y1=\"48\" x2=\"70\" y2=\"80\" stroke=\"#ff6b9d\" stroke-width=\"3\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"12;0\" dur=\"1s\" repeatCount=\"indefinite\"/></line><text x=\"76\" y=\"84\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">rood</text><line x1=\"130\" y1=\"48\" x2=\"130\" y2=\"115\" stroke=\"#ffd166\" stroke-width=\"3\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"12;0\" dur=\"1s\" repeatCount=\"indefinite\"/></line><text x=\"136\" y=\"119\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">geel</text><line x1=\"190\" y1=\"48\" x2=\"190\" y2=\"150\" stroke=\"#06d6a0\" stroke-width=\"3\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"12;0\" dur=\"1s\" repeatCount=\"indefinite\"/></line><text x=\"196\" y=\"154\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">groen</text><line x1=\"250\" y1=\"48\" x2=\"250\" y2=\"192\" stroke=\"#fff\" stroke-width=\"3\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"12;0\" dur=\"1s\" repeatCount=\"indefinite\"/></line><text x=\"256\" y=\"196\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">blauw</text><path d=\"M290,180 L290,70\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"4 4\"><animate attributeName=\"stroke-dashoffset\" values=\"0;8\" dur=\"1s\" repeatCount=\"indefinite\"/></path><path d=\"M285,76 L290,66 L295,76 Z\" fill=\"#fff\"/><text x=\"298\" y=\"110\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">blauw</text><text x=\"298\" y=\"124\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">komt</text><text x=\"298\" y=\"138\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">terug</text><text x=\"28\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">dieper: meer rood weg</text></svg>",
+   "quiz": {
+    "q": "Waarom is diep, helder zeewater blauw?",
+    "o": [
+     "Water absorbeert rood licht, blauw blijft over",
+     "Het weerspiegelt enkel de blauwe lucht",
+     "Opgelost zout kleurt het water blauw"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "NOAA Ocean Service",
+     "u": "https://oceanservice.noaa.gov/facts/oceanblue.html"
+    },
+    {
+     "t": "Braun & Smirnov, J. Chem. Educ. 1993",
+     "u": "https://www.webexhibits.org/causesofcolor/ref/Braun-Smirnov.html"
+    },
+    {
+     "t": "C. Baird, West Texas A&M",
+     "u": "https://wtamu.edu/~cbaird/sq/2012/12/20/what-is-it-about-the-ocean-that-makes-it-look-blue-when-it-reflects-the-sky"
+    },
+    {
+     "t": "NASA Ocean Color",
+     "u": "https://oceancolor.gsfc.nasa.gov/outreach/ocsciencefocus/BlueBluerBluestOcean.pdf"
+    }
+   ],
+   "date": "2026-11-27T05:49:45Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Je lever breekt alcohol af aan een vast tempo",
+   "body": "Je lever verwerkt gemiddeld zo'n 7 gram alcohol per uur. Een Belgisch standaardglas bevat 10 gram, dus elk glas kost ongeveer anderhalf uur. Ongeveer 90 procent verloopt via de lever, de rest via adem, zweet en speeksel. Koffie, een koude douche of sporten versnellen dat niet: alleen tijd helpt.",
+   "take": "Reken per standaardglas anderhalf uur. Tien glazen tussen 21 en 2 uur? Om 8 uur 's ochtends zit er dan nog alcohol in je bloed.",
+   "deep": "## Hoe het werkt\n\nAlcohol komt via je maag en dunne darm in je bloed terecht. De lever doet het grootste deel van de afbraak, ongeveer 90 procent. De rest verlaat je lichaam via uitgeademde lucht, zweet en speeksel. In de levercellen zet het enzym alcoholdehydrogenase ethanol om in acetaldehyde, een reactieve en giftige stof die mee verantwoordelijk is voor katerklachten. Een tweede enzym, acetaldehyde-dehydrogenase, maakt daar azijnzuur van, dat uiteindelijk wordt afgebroken tot koolstofdioxide en water. Het cruciale punt is dat die afbraak een eigen, onverstoorbaar tempo heeft. Drink je sneller dan je lever kan volgen, dan stapelt de alcohol zich op in je bloed en wacht hij gewoon zijn beurt af.\n\n## Een voorbeeld\n\nJe bent op een trouwfeest en drinkt tussen 21 en 2 uur tien standaardglazen: pintjes, wijn, een jenevertje. Dat is 100 gram alcohol. Aan 7 gram per uur heeft je lever ruim veertien uur nodig, gerekend vanaf het eerste glas. Om 8 uur 's ochtends is er dus nog ongeveer 20 gram over, het equivalent van twee glazen. Let op: streekbieren zoals tripels, cocktails en mixdranken bevatten vaak meer dan één standaardglas. Wie 'maar' vijf zware bieren dronk, zit dus snel hoger dan hij denkt.\n\n## Wat onderzoek zegt\n\nDe Druglijn, de Vlaamse infolijn van het expertisecentrum VAD, houdt het op gemiddeld 7 gram per uur en ongeveer anderhalf uur per standaardglas, met het voorbehoud dat het exacte tempo per persoon verschilt. Een Belgisch standaardglas bevat ongeveer 10 gram pure alcohol, wat overeenkomt met een correct uitgeschonken pint, glas wijn of borrel. De huidige Belgische richtlijn van VAD adviseert volwassenen om niet meer dan 10 standaardglazen per week te drinken en zegt erbij dat er geen volledig veilige hoeveelheid bestaat.\n\n## Nuance of misverstand\n\nKoffie maakt je wakkerder, niet nuchterder: cafeïne verandert niets aan de snelheid waarmee je lever alcohol afbreekt. Ook een koude douche, frisse lucht, braken of lichamelijke inspanning zijn volgens de Druglijn mythes. Zogenaamde ontnuchterende frisdranken werken evenmin en kunnen gevaarlijk zijn, omdat ze de illusie geven dat je weer veilig kunt rijden. Water drinken tussen je glazen door is wel slim: je wordt minder snel dronken en hebt minder kans op een kater, maar ook water versnelt de afbraak niet.\n\n## Wat je ermee doet\n\nTel je glazen en reken terug met anderhalf uur per glas. Moet je de volgende ochtend rijden, plan dan op voorhand je laatste glas. Of maak het jezelf makkelijk: spreek een vaste chauffeur af, of neem de trein of een taxi naar huis.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><path d=\"M30,50 L60,50 L55,100 L35,100 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"45\" y=\"120\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">10 g/glas</text><path d=\"M110,60 Q150,35 200,55 Q215,85 180,100 Q130,108 110,90 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"158\" y=\"80\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">lever</text><text x=\"158\" y=\"122\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">~7 g per uur</text><circle r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M58,75 L110,75\" dur=\"2s\" repeatCount=\"indefinite\"/></circle><circle r=\"4\" fill=\"#06d6a0\"><animateMotion path=\"M205,75 L250,75\" dur=\"2s\" repeatCount=\"indefinite\"/></circle><text x=\"255\" y=\"72\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">azijnzuur</text><text x=\"255\" y=\"86\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">CO2 + water</text><text x=\"30\" y=\"150\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">alcohol in je bloed</text><rect x=\"30\" y=\"158\" width=\"300\" height=\"16\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"31\" y=\"159\" width=\"298\" height=\"14\" fill=\"#ff6b9d\"><animate attributeName=\"width\" values=\"298;0;0\" keyTimes=\"0;0.85;1\" dur=\"7s\" repeatCount=\"indefinite\"/></rect><text x=\"30\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">koffie: nee   douche: nee   sporten: nee</text><text x=\"330\" y=\"198\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"end\">tijd: ja</text><text x=\"30\" y=\"214\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">daalt aan een vrij vast tempo</text></svg>",
+   "quiz": {
+    "q": "Je wilt na een feestje sneller nuchter worden. Wat helpt echt?",
+    "o": [
+     "Een sterke koffie",
+     "Een koude douche",
+     "Wachten: de lever werkt aan een vast tempo"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "De Druglijn: snel ontnuchteren?",
+     "u": "https://druglijn.be/drugs-abc/alcohol/veelgestelde-vragen/word-je-nuchter-van-koffie"
+    },
+    {
+     "t": "De Druglijn: hoeveel alcohol is te veel?",
+     "u": "https://www.druglijn.be/drugs/alcohol/hoeveel-alcohol-glazen-eenheden-mag-je-drinken-per-week/"
+    },
+    {
+     "t": "VAD: richtlijn alcoholgebruik",
+     "u": "https://vad.be/artikels/een-nieuwe-richtlijn-voor-alcoholgebruik/"
+    },
+    {
+     "t": "Test Aankoop: alcohol in je lichaam",
+     "u": "https://www.test-aankoop.be/gezond/gezondheidszorg/preventie/dossier/alcohol-en-gezondheid/wat-gebeurt-er-in-ons-lichaam"
+    },
+    {
+     "t": "Jellinek: afbraak van alcohol",
+     "u": "https://www.jellinek.nl/vraag-antwoord/hoe-wordt-alcohol-door-het-lichaam-afgebroken/"
+    }
+   ],
+   "date": "2026-11-27T05:49:45Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Waarom je elke tien jaar een tetanusprik krijgt",
+   "body": "Tetanusbacteriën zitten als sporen in aarde, stof en mest en komen binnen via een wonde. Hun gif, tetanospasmine, veroorzaakt zware spierkrampen. Tetanus doormaken maakt je niet immuun, en de bescherming van het vaccin zakt met de jaren. Daarom adviseert de Hoge Gezondheidsraad volwassenen elke 10 jaar een booster, samen met difterie en kinkhoest (dTpa).",
+   "take": "Zoek op wanneer je laatste tetanusprik was. Langer dan tien jaar geleden? Vraag je huisarts om een dTpa-booster.",
+   "deep": "## Hoe het werkt\n\nDe bacterie Clostridium tetani overleeft als taaie sporen in aarde, stof en mest. Via een snee, een splinter of een prik met een vuil voorwerp raken die sporen onder je huid. In zuurstofarm, beschadigd weefsel kiemen ze en maken ze tetanospasmine, een gif dat zenuwen ontregelt en spieren krampachtig laat aanspannen. Het vaccin bevat een onschadelijk gemaakte versie van dat gif. Je immuunsysteem maakt er antistoffen tegen, die het echte gif onschadelijk maken voor het schade aanricht. Die antistoffen nemen geleidelijk af, en een booster tilt ze weer op. Omdat zelfs een doorgemaakte tetanus geen blijvende immuniteit geeft, blijft vaccinatie de enige bescherming.\n\n## Een voorbeeld\n\nJe haalt je hand open aan een braamstruik terwijl je in de moestuin werkt, of je trapt in een vuile spijker. Bij zo'n diepe of vuile wonde vraagt je arts wanneer je laatste prik was. Ligt die meer dan vijf jaar achter je, dan krijg je vaak meteen een booster, ook al ben je nog niet aan je tien jaar toe. In België krijg je als kind een basisreeks, met een herhaling rond 15 à 16 jaar. Daarna volgt elke tien jaar een dTpa-prik. Zwangere vrouwen krijgen er bij elke zwangerschap een, vooral om de baby tegen kinkhoest te beschermen.\n\n## Wat onderzoek zegt\n\nDe Hoge Gezondheidsraad raadt in zijn basisvaccinatieschema (advies 9606 uit 2021) een difterie-tetanus-kinkhoestbooster om de tien jaar aan voor volwassenen. In april 2026 herzag de Raad het schema voor zuigelingen en jonge kinderen. In de bronnen die ik raadpleegde, bleef de tienjaarlijkse booster voor volwassenen ongewijzigd. Ook het Amerikaanse CDC adviseert volwassenen elke tien jaar een booster. Volgens het CDC beschermen deze vaccins meer dan 95 procent van de mensen ongeveer tien jaar lang. De meeste tetanusgevallen in de VS vallen bij volwassenen die nooit gevaccineerd werden of hun booster lieten verlopen.\n\n## Nuance of misverstand\n\nNiet alle experts vinden een prik om de tien jaar nodig. Een team rond Mark Slifka (Oregon Health & Science University) vergeleek in 2020 landen en vond dat landen zonder volwassenenbooster niet meer tetanus of difterie hadden. De Wereldgezondheidsorganisatie beveelt sinds 2017 geen routinematige boosters meer aan voor volwassenen die als kind volledig gevaccineerd zijn, en het Verenigd Koninkrijk doet dat al sinds de jaren 1950 niet meer boven 14 jaar. België houdt vast aan tien jaar, mee omdat de prik ook tegen kinkhoest en difterie beschermt.\n\n## Wat je ermee doet\n\nVolg het Belgische advies en noteer de datum van je laatste prik, bijvoorbeeld in de agenda van je gsm. Werk je veel in de tuin of op de bouw, dan is dat extra nuttig. En bij een diepe of vuile wonde: vertel je arts altijd wanneer je laatste tetanusprik was.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><line x1=\"40\" y1=\"175\" x2=\"330\" y2=\"175\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"40\" y1=\"175\" x2=\"40\" y2=\"35\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"46\" y=\"30\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">antistoffen</text><line x1=\"40\" y1=\"148\" x2=\"330\" y2=\"148\" stroke=\"#ff6b9d\" stroke-width=\"2\" stroke-dasharray=\"5 5\"/><text x=\"326\" y=\"162\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">te laag</text><path d=\"M40,170 L50,60 C80,90 110,120 133,132 L143,60 C173,90 203,120 227,132 L237,60 C267,90 297,120 320,132\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><circle r=\"5\" fill=\"#06d6a0\"><animateMotion path=\"M40,170 L50,60 C80,90 110,120 133,132 L143,60 C173,90 203,120 227,132 L237,60 C267,90 297,120 320,132\" dur=\"8s\" repeatCount=\"indefinite\"/></circle><text x=\"40\" y=\"192\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">0</text><text x=\"133\" y=\"192\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">10</text><text x=\"227\" y=\"192\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">20</text><text x=\"320\" y=\"192\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">30 jaar</text><text x=\"143\" y=\"52\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">booster</text><text x=\"237\" y=\"52\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">booster</text><text x=\"180\" y=\"212\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">bescherming zakt langzaam, booster tilt ze weer op</text></svg>",
+   "quiz": {
+    "q": "Waarom volstaat één tetanusprik niet voor het hele leven?",
+    "o": [
+     "De bacterie verandert elk jaar van vorm",
+     "De bescherming zakt na verloop van tijd",
+     "Het vaccin werkt pas na tien jaar"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Pfizer België: HGR-advies 9606",
+     "u": "https://www.pfizer.be/nl/uw-gezondheid/gezond-leven/vaccinatie/vaccinatie-bij-volwassenen"
+    },
+    {
+     "t": "Zorg en Gezondheid: HGR-fiche tetanus",
+     "u": "https://www.zorg-en-gezondheid.be/system/files?file=2022-04%2Fvaccinatie_fiche_volw_tetanus_06032013.pdf"
+    },
+    {
+     "t": "Victor Vaccin: tetanus/difterie/kinkhoest",
+     "u": "https://victorvaccin.be/vaccineerbare-ziektes/tetanus-difterie-kinkhoest/"
+    },
+    {
+     "t": "CDC: Clinical Overview of Tetanus",
+     "u": "https://www.cdc.gov/tetanus/hcp/clinical-overview"
+    },
+    {
+     "t": "MedlinePlus: tetanus",
+     "u": "https://medlineplus.gov/ency/article/000615.htm"
+    },
+    {
+     "t": "Harvard Health: tetanus boosters",
+     "u": "https://www.health.harvard.edu/blog/do-adults-really-need-tetanus-booster-shots-2020051219786"
+    }
+   ],
+   "date": "2026-11-27T05:49:45Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "De Berlijnse Muur viel na een verwarde persconferentie",
+   "body": "Op 9 november 1989 las SED-woordvoerder Günter Schabowski live op tv een nieuwe reisregeling voor waarover hij nauwelijks gebriefd was. Gevraagd wanneer die inging, bladerde hij in zijn papieren en zei: 'sofort, unverzüglich'. Eigenlijk zou ze pas de volgende dag gelden. Duizenden Oost-Berlijners trokken naar de grens; rond 23.30 uur ging Bornholmer Straße open.",
+   "take": "Kondig je iets aan? Zeg altijd expliciet vanaf wanneer het geldt. Eén geïmproviseerd woord kan meer veranderen dan het document zelf.",
+   "deep": "## Hoe het werkt\n\nIn het najaar van 1989 stond de DDR onder enorme druk: tienduizenden burgers waren al gevlucht en op straat werd massaal betoogd. De partijtop stelde een nieuwe reisregeling op, waarmee Oost-Duitsers een visum konden aanvragen voor reizen en emigratie. Die zou op 10 november ingaan, met een geordende aanvraagprocedure. Kort voor een persconferentie gaf partijleider Egon Krenz de tekst aan Schabowski, die niet bij de bespreking was geweest. Aan het einde van de persconferentie, die om 18 uur begon, las Schabowski de regeling voor. Toen journalisten vroegen wanneer ze inging, antwoordde hij na wat geblader dat ze 'voor zover ik weet' meteen gold: 'sofort, unverzüglich'.\n\n## Een voorbeeld\n\nStel je de Bornholmer Straße die avond voor. Oost-Berlijners hadden het nieuws op de West-Duitse tv gezien en stroomden naar de grensovergang. Ze eisten dat de poorten opengingen. De grenswachters hadden geen enkel bevel gekregen. Hun commandant, Harald Jäger, stond voor een onmogelijke keuze en besliste rond 23.30 uur, zonder toestemming van hogerhand, om de slagboom te openen. Tegen middernacht volgden de andere overgangen in de stad. Mensen klommen op de muur, huilden en vielen wildvreemden in de armen.\n\n## Wat onderzoek zegt\n\nHet originele geluidsverslag, dat de site Chronik der Mauer uitschreef, toont hoe rommelig het moment was. Terwijl Schabowski 'sofort, unverzüglich' zei, merkte minister Gerhard Beil zacht op dat de Ministerraad dat eerst moest beslissen. Historicus Hans-Hermann Hertle reconstrueerde de avond in zijn boek 'Sofort, unverzüglich'. Volgens de Duitse federale overheid en het Bundeszentrale für politische Bildung begrepen kijkers het antwoord als een onmiddellijke opening van de grens. Schabowski zei later zelf dat de toestand gevaarlijk was, omdat de grenssoldaten nog niets van de nieuwe regeling wisten.\n\n## Nuance of misverstand\n\nDe Muur viel niet 'per ongeluk' uit het niets. De reisregeling bestond al, en de druk van vluchtelingen en betogers was enorm. Schabowski's verwarde antwoord versnelde wel wat de partij gecontroleerd wilde laten verlopen, met de bevolking die het heft in handen nam. Ook viel de muur die nacht niet letterlijk om: het betonnen bouwwerk afbreken duurde nog maanden. Wat op 9 november viel, was de grenscontrole.\n\n## Wat je ermee doet\n\nOnthoud 9 november 1989 als les in communicatie: een boodschap zonder duidelijke ingangsdatum laat mensen zelf kiezen wat ze horen. Op het werk geldt hetzelfde. Vermeld bij een nieuwe regel altijd vanaf wanneer, voor wie en wat er verandert, en zorg dat wie het moet uitvoeren het als eerste weet.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"28\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">9 november 1989, Berlijn</text><line x1=\"50\" y1=\"100\" x2=\"320\" y2=\"100\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"12;0\" dur=\"1s\" repeatCount=\"indefinite\"/></line><g opacity=\"1\"><circle cx=\"50\" cy=\"100\" r=\"14\" fill=\"#ffd166\"/><text x=\"50\" y=\"72\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">18.00</text><text x=\"50\" y=\"134\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">persconferentie</text><text x=\"50\" y=\"149\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">begint</text></g><g opacity=\"0.25\"><circle cx=\"140\" cy=\"100\" r=\"14\" fill=\"#ffd166\"/><text x=\"140\" y=\"72\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">~18.55</text><text x=\"140\" y=\"134\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">\"sofort,</text><text x=\"140\" y=\"149\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">unverzüglich\"</text><animate attributeName=\"opacity\" values=\"0.25;1\" keyTimes=\"0;0.25\" calcMode=\"discrete\" dur=\"8s\" repeatCount=\"indefinite\"/></g><g opacity=\"0.25\"><circle cx=\"230\" cy=\"100\" r=\"14\" fill=\"#ffd166\"/><text x=\"230\" y=\"72\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">avond</text><text x=\"230\" y=\"134\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">tv-nieuws: massa</text><text x=\"230\" y=\"149\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">naar de grens</text><animate attributeName=\"opacity\" values=\"0.25;1\" keyTimes=\"0;0.5\" calcMode=\"discrete\" dur=\"8s\" repeatCount=\"indefinite\"/></g><g opacity=\"0.25\"><circle cx=\"320\" cy=\"100\" r=\"14\" fill=\"#ffd166\"/><text x=\"320\" y=\"72\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">23.30</text><text x=\"320\" y=\"134\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Bornholmer</text><text x=\"320\" y=\"149\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Straße open</text><animate attributeName=\"opacity\" values=\"0.25;1\" keyTimes=\"0;0.75\" calcMode=\"discrete\" dur=\"8s\" repeatCount=\"indefinite\"/></g><text x=\"180\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">regeling moest pas op 10 november ingaan</text></svg>",
+   "quiz": {
+    "q": "Wat antwoordde Schabowski op de vraag wanneer de reisregeling inging?",
+    "o": [
+     "'Sofort, unverzüglich': onmiddellijk",
+     "Vanaf volgend jaar",
+     "Dat moest Moskou nog beslissen"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Bundesregierung: 9. November 1989",
+     "u": "https://www.bundesregierung.de/breg-de/schwerpunkte/deutsche-einheit/die-mauer-ist-offen--403858"
+    },
+    {
+     "t": "Chronik der Mauer: transcript persconferentie",
+     "u": "https://www.chronik-der-mauer.de/material/180619/internationale-pressekonferenz-von-guenter-schabowski-in-begleitung-der-sed-zk-mitglieder-helga-labs-gerhard-beil-und-manfred-banaschak-9-november-1989-ton-abschrift"
+    },
+    {
+     "t": "Hertle: Schabowskis Auftritt",
+     "u": "https://www.chronik-der-mauer.de/material/180368/hans-hermann-hertle-9-november-1989-18-00-uhr-schabowskis-auftritt"
+    },
+    {
+     "t": "bpb: Mauerfall",
+     "u": "https://www.bpb.de/themen/deutsche-teilung/ddr-kompakt/521628/mauerfall/"
+    }
+   ],
+   "date": "2026-11-27T05:49:45Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "In Antwerpen wapperde de olympische vlag voor het eerst",
+   "body": "Op 14 augustus 1920 werd tijdens de openingsceremonie in Antwerpen voor het eerst de vlag met de vijf ringen gehesen, die Pierre de Coubertin in 1913 had ontworpen. De Belgische atleet Victor Boin sprak als eerste de olympische eed uit, en witte duiven werden gelost als vredessymbool. 29 landen deden mee; Duitsland was niet uitgenodigd.",
+   "take": "Kijk bij de volgende openingsceremonie naar de vlag en de eed: beide gingen in Antwerpen in première, twee jaar na de Eerste Wereldoorlog.",
+   "deep": "## Hoe het werkt\n\nDe Spelen van 1920 waren de eerste na de Eerste Wereldoorlog, en België was zwaar getroffen. Antwerpen wilde ze tot een symbool van vrede en herstel maken. Bij de openingsceremonie op 14 augustus droegen ze de nieuwe olympische vlag het stadion binnen en hesen ze die plechtig in de mast. De vlag bleef er hangen tot de slotceremonie. Daarna las de Belgische atleet Victor Boin, schermer en waterpolospeler, als eerste een eed voor namens alle deelnemers: eerlijk strijden, volgens de regels. Ook de duiven waren nieuw. Volgens het IOC droegen ze de kleuren van de deelnemende landen.\n\n## Een voorbeeld\n\nWie vandaag langs het Olympisch Stadion op het Kiel in Antwerpen loopt, staat vlak bij de plek waar dat allemaal begon. Volgens de officiële cijfers van het IOC namen in 1920 2.626 atleten deel, onder wie 65 vrouwen, in 156 onderdelen. IJshockey maakte er zijn olympisch debuut, touwtrekken stond er voor het laatst op het programma. België won goud in het voetbal, een moment dat het IOC vandaag nog als hoogtepunt van de Rode Duivels in de verf zet. De Italiaan Nedo Nadi won vijf keer goud bij het schermen, de Fin Paavo Nurmi drie keer.\n\n## Wat onderzoek zegt\n\nRond die eerste vlag hangt een opmerkelijk verhaal. De Amerikaanse schoonspringer Hal Prieste haalde in 1920, na een uitdaging van teamgenoot Duke Kahanamoku, een olympische vlag weg en bewaarde die decennialang in een koffer. Pas in 1997 vertelde hij een journalist dat hij de vlag had. Tijdens de Spelen van Sydney in 2000 gaf hij, toen 103 jaar oud, het doek terug aan het IOC. Voorzitter Juan Antonio Samaranch overhandigde hem toen een herdenkingsmedaille. De vlag is nu te zien in het Olympisch Museum in Lausanne.\n\n## Nuance of misverstand\n\nHet verhaal van Prieste is minder zeker dan het klinkt. Vlaggenhistorici wijzen erop dat er in 1920 meerdere vlaggen in de straten hingen en dat er verschillende gestolen werden. Volgens die lezing pikte Prieste waarschijnlijk een straatvlag en niet de ceremoniële vlag uit het stadion. Ook de vredesboodschap had grenzen: de landen die de oorlog verloren hadden, waaronder Duitsland, werden niet uitgenodigd.\n\n## Wat je ermee doet\n\nGebruik Antwerpen 1920 als voorbeeld van hoe symbolen ontstaan: vlag, eed en vredesduiven werden bewust gekozen om een verscheurde wereld samen te brengen. Een bezoek aan het Kiel of het Olympisch Museum maakt die geschiedenis tastbaar. En de volgende keer dat een atleet de eed uitspreekt, weet je dat het een Belg was die het voordeed.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><line x1=\"60\" y1=\"205\" x2=\"60\" y2=\"25\" stroke=\"#fff\" stroke-width=\"3\"/><g><rect x=\"62\" y=\"30\" width=\"116\" height=\"56\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1.5\"/><circle cx=\"92\" cy=\"52\" r=\"11\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2.5\"/><circle cx=\"120\" cy=\"52\" r=\"11\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2.5\"/><circle cx=\"148\" cy=\"52\" r=\"11\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2.5\"/><circle cx=\"106\" cy=\"64\" r=\"11\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2.5\"/><circle cx=\"134\" cy=\"64\" r=\"11\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2.5\"/><animateTransform attributeName=\"transform\" type=\"translate\" values=\"0 110;0 0;0 0\" keyTimes=\"0;0.6;1\" dur=\"6s\" repeatCount=\"indefinite\"/></g><text x=\"200\" y=\"40\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\">Antwerpen 1920</text><text x=\"200\" y=\"66\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">14 augustus:</text><text x=\"200\" y=\"82\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">eerste olympische vlag</text><text x=\"200\" y=\"108\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">eerste eed door een</text><text x=\"200\" y=\"124\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">atleet: Victor Boin</text><text x=\"200\" y=\"150\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">duiven als</text><text x=\"200\" y=\"166\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">vredessymbool</text><path d=\"M0,0 Q5,-6 10,0 Q15,-6 20,0\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"><animateMotion path=\"M300,185 Q320,145 335,100\" dur=\"4s\" repeatCount=\"indefinite\"/></path><text x=\"200\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">29 landen, 2.626 atleten</text></svg>",
+   "quiz": {
+    "q": "Welke olympische traditie ging in Antwerpen 1920 in première?",
+    "o": [
+     "De olympische fakkeltocht",
+     "De olympische eed door een atleet",
+     "De medaille-uitreiking op een podium"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "IOC: Antwerp 1920 facts and figures",
+     "u": "https://www.olympics.com/ioc/news/antwerp-1920-olympic-games-facts-and-figures"
+    },
+    {
+     "t": "Olympics.com: de eerste olympische vlag",
+     "u": "https://www.olympics.com/en/news/ninety-nine-years-ago-the-olympic-flag-was-flown-for-the-first-time"
+    },
+    {
+     "t": "Olympics.com: Antwerp 1920, peace and unity",
+     "u": "https://www.olympics.com/en/news/antwerp-1920-is-a-symbol-of-peace-and-unity-100-years-after-the-games"
+    },
+    {
+     "t": "Olympics.com: Red Devils 1920",
+     "u": "https://www.olympics.com/en/news/the-red-devils-at-the-top-of-world-football-at-antwerp-1920"
+    },
+    {
+     "t": "ABC News: vlag terug na 80 jaar",
+     "u": "https://abcnews.go.com/Sports/story?id=100602"
+    },
+    {
+     "t": "Flags of the World: Antwerp flag",
+     "u": "https://crwflags.com/fotw/flags/oly@s07.html"
+    }
+   ],
+   "date": "2026-11-27T05:49:45Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "De Maya's schreven al een nul: een schelp",
+   "body": "De Maya's rekenden in een twintigtallig positiestelsel met drie tekens: een punt voor 1, een streep voor 5 en een schelp voor 0. Dankzij die nul konden ze enorme getallen, zoals kalenderdata over duizenden jaren, ondubbelzinnig noteren. Ze bedachten hun nul onafhankelijk van de Babyloniërs en de Indiërs.",
+   "take": "Probeer 2026 in Maya-cijfers te schrijven: streep, punt, en streep met punt. Zo voel je waarom een positiestelsel een nul nodig heeft.",
+   "deep": "## Hoe het werkt\n\nWij rekenen tientallig: 205 betekent 2 keer honderd, 0 keer tien en 5 keer één. De nul is een plaatshouder die zegt: op deze plek staat niets. Zonder nul zou 205 niet te onderscheiden zijn van 25. De Maya's rekenden met twintig in plaats van tien, en ze stapelden hun posities van onder naar boven. De onderste plek telt eenheden van 0 tot 19, de plek daarboven twintigtallen, en in het zuivere stelsel komt daarboven 400. Getallen van 1 tot 19 schreven ze met punten en strepen: 7 is een streep met twee punten, 19 is drie strepen met vier punten. Een lege positie kreeg een schelp.\n\n## Een voorbeeld\n\nNeem het jaartal 2026. Dat is 5 keer 400, plus 1 keer 20, plus 6. Bovenaan teken je dus een streep, in het midden een punt, en onderaan een streep met een punt. Het getal 20 schrijf je als een punt boven een schelp: één twintigtal, nul eenheden. En 400 wordt een punt boven twee schelpen. Zonder schelp zou je 20 en 1 niet uit elkaar kunnen houden. In de Long Count, de lange kalendertelling, waren de eenheden een dag, 20 dagen, 360 dagen en 7.200 dagen.\n\n## Wat onderzoek zegt\n\nDe vroegst bekende Long Count-datum staat op Stela 2 in Chiapa de Corzo (Mexico) en komt overeen met 36 voor Christus, schrijft het Penn Museum. Volgens Scientific American dook de nul in de Nieuwe Wereld onafhankelijk op bij de Maya's, waarschijnlijk in de eerste eeuwen na Christus, als hulpmiddel voor hun sterrenkunde. Elders gingen de Babyloniërs hen voor: rond 300 voor Christus gebruikten ze twee schuine spijkertekens als plaatshouder in hun zestigtallig stelsel. De Indiase wiskundige Brahmagupta beschreef in 628 als eerste de nul als volwaardig getal, met rekenregels erbij.\n\n## Nuance of misverstand\n\nWie 'de Maya's vonden de nul uit' zegt, vertelt maar een deel van het verhaal. Hun schelp was vooral een plaatshouder in data en berekeningen. Een getal waarmee je ook optelt, aftrekt en vermenigvuldigt zoals Brahmagupta beschreef, is nog een stap verder. Bovendien is de Long Count niet zuiver twintigtallig: de derde positie telt 18 keer 20, zodat een 'jaar' 360 dagen telt. En welke inscriptie de eerste schelpnul draagt, is onder onderzoekers nog niet beslecht.\n\n## Wat je ermee doet\n\nGebruik het Maya-stelsel als oefening om ons eigen getallensysteem te doorgronden. Schrijf je leeftijd of je geboortejaar in punten, strepen en schelpen. Je merkt meteen dat de positie het werk doet en dat de nul de onzichtbare held is die posities op hun plaats houdt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"20\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">drie tekens</text><circle cx=\"40\" cy=\"50\" r=\"4.5\" fill=\"#06d6a0\"/><text x=\"70\" y=\"54\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">= 1</text><rect x=\"20\" y=\"85\" width=\"40\" height=\"7\" fill=\"#ffd166\"/><text x=\"70\" y=\"93\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">= 5</text><ellipse cx=\"40\" cy=\"130\" rx=\"14\" ry=\"7\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M31,130 Q40,125 49,130\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"70\" y=\"134\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">= 0</text><text x=\"20\" y=\"176\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">twintigtallig,</text><text x=\"20\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">van onder naar boven</text><text x=\"195\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\">2026 in Maya-cijfers</text><rect x=\"190\" y=\"38\" width=\"150\" height=\"40\" rx=\"6\" fill=\"#ffd166\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0.18;0\" keyTimes=\"0;0.1;0.33\" begin=\"0s\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"190\" y=\"88\" width=\"150\" height=\"40\" rx=\"6\" fill=\"#ffd166\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0.18;0\" keyTimes=\"0;0.1;0.33\" begin=\"2s\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"190\" y=\"138\" width=\"150\" height=\"40\" rx=\"6\" fill=\"#ffd166\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0.18;0\" keyTimes=\"0;0.1;0.33\" begin=\"4s\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><rect x=\"200\" y=\"57\" width=\"40\" height=\"7\" fill=\"#ffd166\"/><circle cx=\"220\" cy=\"110\" r=\"4.5\" fill=\"#06d6a0\"/><circle cx=\"220\" cy=\"152\" r=\"4.5\" fill=\"#06d6a0\"/><rect x=\"200\" y=\"160\" width=\"40\" height=\"7\" fill=\"#ffd166\"/><text x=\"255\" y=\"64\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">x 400: 5 = 2000</text><text x=\"255\" y=\"114\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">x 20: 1 = 20</text><text x=\"255\" y=\"164\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">x 1: 6 = 6</text><text x=\"195\" y=\"205\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\">2000 + 20 + 6 = 2026</text></svg>",
+   "quiz": {
+    "q": "Hoe schreven de Maya's het getal 20?",
+    "o": [
+     "Vier strepen op één niveau",
+     "Twee punten met een streep",
+     "Een punt boven een schelp"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Mexicolore: The Maya and Zero",
+     "u": "https://www.mexicolore.co.uk/maya/home/the-maya-and-zero"
+    },
+    {
+     "t": "Penn Museum: Maya Long Count numbers",
+     "u": "https://www.penn.museum/sites/expedition/maya-long-count-numbers/"
+    },
+    {
+     "t": "Scientific American: The Origin of Zero",
+     "u": "https://www.scientificamerican.com/article/history-of-zero/"
+    },
+    {
+     "t": "Britannica: Brahma-sphuta-siddhanta",
+     "u": "https://www.britannica.com/topic/Brahma-sphuta-siddhanta"
+    }
+   ],
+   "date": "2026-11-27T05:49:45Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Je gsm herkent vingerafdrukken met stroom, licht of geluid",
+   "body": "Een capacitieve sensor, zoals Touch ID, meet piepkleine verschillen in elektrische capaciteit tussen de ribbels en groeven van je vinger. Een optische sensor onder het scherm belicht je vinger en maakt een 2D-beeld. Een ultrasone sensor, zoals Qualcomms 3D Sonic, stuurt geluidspulsen en bouwt uit de echo's een 3D-beeld, ook met natte vingers.",
+   "take": "Ontgrendelt je gsm slecht? Droog je vinger even af en registreer twee vingers: capacitieve en optische sensoren hebben het moeilijker met water.",
+   "deep": "## Hoe het werkt\n\nJe vingertop bestaat uit ribbels en groeven die bij iedereen anders lopen. Een capacitieve sensor heeft een raster van piepkleine elektroden. Elke elektrode vormt één plaat van een condensator, de geleidende huidlaag onder je opperhuid vormt de andere. Waar een ribbel ligt, zit de huid dichterbij dan bij een groef, en dat geeft een andere capaciteit. Zo ontstaat pixel per pixel een kaart van je afdruk. Een optische sensor zit onder het scherm, belicht je vinger en maakt er een foto van. Een ultrasone sensor zendt een geluidspuls naar je vinger: een deel wordt geabsorbeerd, de rest kaatst terug, en uit die echo's maakt de chip een driedimensionaal beeld.\n\n## Een voorbeeld\n\nWie ooit een iPhone met thuisknop had, gebruikte een capacitieve sensor. Volgens Apple is die knop van saffierkristal, dat de sensor beschermt en als een lens op je vinger richt. Een stalen ring rond de knop merkt dat je vinger erop ligt en zet het lezen in gang. De sensor neemt een beeld met hoge resolutie uit de lagen net onder je huidoppervlak. Veel Android-toestellen hebben vandaag een sensor onder het scherm, optisch of ultrasoon. Bij een optische sensor zie je soms een felle vlek oplichten waar je je vinger legt.\n\n## Wat onderzoek zegt\n\nApple beschrijft hoe Touch ID werkt in zijn ondersteuningsdocumentatie. Patentaanvragen over dit soort capacitieve sensoren vermelden een resolutie van 500 pixels per inch. Qualcomm stelt dat zijn ultrasone 3D Sonic-sensor werkt bij droge, natte en vuile vingers en dat foto's of mallen het toestel niet ontgrendelen. Dat zijn claims van de fabrikant zelf. Belangrijk voor je privacy: volgens Apple bewaart Touch ID geen beeld van je vingerafdruk, maar alleen een wiskundige voorstelling ervan, die niet terug om te zetten is naar je echte afdruk.\n\n## Nuance of misverstand\n\nEen vingerafdruksensor is niet onkraakbaar, en niet elk type is even sterk. Een optische sensor maakt een plat 2D-beeld, en zo'n beeld is in principe makkelijker na te bootsen dan een 3D-meting. Daarom combineren fabrikanten optische sensoren vaak met extra controles die nagaan of er echt een vinger ligt. Ook is een vingerafdruk geen wachtwoord dat je kunt veranderen: lekt hij ergens, dan heb je geen nieuwe.\n\n## Wat je ermee doet\n\nGebruik je vingerafdruk voor gemak, maar kies daarnaast een sterke pincode. Registreer meerdere vingers, zodat je toestel ook werkt als je met je andere hand belt. En werkt de sensor slecht met natte handen, dan weet je nu waarom: water verstoort lading en licht meer dan geluid.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><path d=\"M30,85 Q60,125 90,85 Q120,125 150,85 Q180,125 210,85 Q240,125 270,85 Q300,125 330,85 L330,30 L30,30 Z\" fill=\"rgba(255,255,255,0.14)\"/><path d=\"M30,85 Q60,125 90,85 Q120,125 150,85 Q180,125 210,85 Q240,125 270,85 Q300,125 330,85\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"50\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">vingertop</text><line x1=\"30\" y1=\"114\" x2=\"330\" y2=\"114\" stroke=\"#fff\" stroke-width=\"1.5\" stroke-dasharray=\"3 3\"/><rect x=\"32\" y=\"126\" width=\"14\" height=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"52\" y=\"126\" width=\"14\" height=\"8\" fill=\"#ffd166\"><animate attributeName=\"opacity\" values=\"0.4;1;0.4\" dur=\"2s\" repeatCount=\"indefinite\"/></rect><rect x=\"72\" y=\"126\" width=\"14\" height=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"92\" y=\"126\" width=\"14\" height=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"112\" y=\"126\" width=\"14\" height=\"8\" fill=\"#ffd166\"><animate attributeName=\"opacity\" values=\"0.4;1;0.4\" dur=\"2s\" repeatCount=\"indefinite\"/></rect><rect x=\"132\" y=\"126\" width=\"14\" height=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"152\" y=\"126\" width=\"14\" height=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"172\" y=\"126\" width=\"14\" height=\"8\" fill=\"#ffd166\"><animate attributeName=\"opacity\" values=\"0.4;1;0.4\" dur=\"2s\" repeatCount=\"indefinite\"/></rect><rect x=\"192\" y=\"126\" width=\"14\" height=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"212\" y=\"126\" width=\"14\" height=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"232\" y=\"126\" width=\"14\" height=\"8\" fill=\"#ffd166\"><animate attributeName=\"opacity\" values=\"0.4;1;0.4\" dur=\"2s\" repeatCount=\"indefinite\"/></rect><rect x=\"252\" y=\"126\" width=\"14\" height=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"272\" y=\"126\" width=\"14\" height=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><rect x=\"292\" y=\"126\" width=\"14\" height=\"8\" fill=\"#ffd166\"><animate attributeName=\"opacity\" values=\"0.4;1;0.4\" dur=\"2s\" repeatCount=\"indefinite\"/></rect><rect x=\"312\" y=\"126\" width=\"14\" height=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"1\"/><text x=\"60\" y=\"152\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ribbel</text><text x=\"90\" y=\"152\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\" dx=\"8\">groef</text><circle r=\"3.5\" fill=\"#06d6a0\"><animateMotion path=\"M240,126 L240,106 L240,126\" dur=\"1.6s\" repeatCount=\"indefinite\"/></circle><text x=\"252\" y=\"152\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\">puls en echo</text><text x=\"180\" y=\"180\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">capacitief: lading | optisch: licht | ultrasoon: echo</text><text x=\"180\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ribbels en groeven geven een ander signaal</text></svg>",
+   "quiz": {
+    "q": "Wat meet een capacitieve vingerafdruksensor?",
+    "o": [
+     "Verschillen in capaciteit tussen ribbels en groeven",
+     "De temperatuur van je vingertop",
+     "De echo van geluidsgolven"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Apple Support: Touch ID",
+     "u": "https://support.apple.com/en-us/105095"
+    },
+    {
+     "t": "Qualcomm: 3D Sonic Sensor",
+     "u": "https://www.qualcomm.com/products/features/fingerprint-sensors"
+    },
+    {
+     "t": "Android Authority: how fingerprint scanners work",
+     "u": "https://www.androidauthority.com/how-fingerprint-scanners-work-670934/"
+    },
+    {
+     "t": "USPTO-patent 10068118",
+     "u": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10068118"
+    }
+   ],
+   "date": "2026-11-27T05:49:45Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Het antidiefstalpoortje luistert naar een label dat natrilt",
+   "body": "De meeste winkelpoortjes werken akoesto-magnetisch of met radiofrequentie. Een akoesto-magnetisch poortje zendt pulsen op ongeveer 58 kHz. Een metaalstrip in het label trilt mee en blijft even natrillen als de puls stopt: dat naklinkende signaal geeft alarm. Aan de kassa wordt het label gedemagnetiseerd. RF-labels zijn kleine afgestemde kringen rond 8,2 MHz.",
+   "take": "Gaat het alarm af nadat je betaald hebt? Meestal is een label niet goed gedeactiveerd: laat het aan de kassa opnieuw over de deactivator halen.",
+   "deep": "## Hoe het werkt\n\nEen akoesto-magnetisch label bevat twee strips. De eerste is van amorf metaal dat onder een magnetisch veld een heel klein beetje van lengte verandert. De tweede is een licht magnetische strip die de eerste 'voorspant'. Het poortje stuurt korte pulsen rond 58 kHz, precies de frequentie waarop de amorfe strip graag trilt. Die gaat mee resoneren en blijft na elke puls nog even natrillen, waarbij hij zelf een zwak signaal uitzendt. Het poortje luistert tussen de pulsen door naar die naklank. Een sleutelbos of blikje doet dat niet, waardoor valse alarmen beperkt blijven. Een RF-label werkt anders: het is een spoeltje met een condensator, afgestemd op ongeveer 8,2 MHz. Het poortje zendt rond die frequentie, en het label reageert alleen op zijn eigen resonantie.\n\n## Een voorbeeld\n\nIn een kledingwinkel of boekhandel vind je vaak een stijf, langwerpig plastic stripje achter een sticker: typisch een akoesto-magnetisch label. Een plat papieren etiket met een vierkant spiraaltje erin is meestal een RF-label. Aan de kassa schuift de kassier het product over een pad. Bij een akoesto-magnetisch label demagnetiseert een spoel met een uitdovend wisselveld de voorspanstrip. Bij een RF-label brandt een sterk veld de condensator door, zodat het kringetje niet meer afgestemd is.\n\n## Wat onderzoek zegt\n\nDe techniek staat uitgebreid beschreven in patenten van fabrikanten van winkelbeveiliging. Daarin lees je dat het label in de detectiezone een signaal uitzendt rond 57 tot 59 kHz, en dat demagnetiseren de resonantiefrequentie buiten het detectievenster schuift en de signaalsterkte sterk verlaagt. Een gewoon akoesto-magnetisch label kan ook opnieuw geactiveerd worden, handig bij retours. RF-labels hebben een resonantiepiek ergens tussen 1,75 en 9,5 MHz, waarbij 8,2 MHz de standaard is in de detailhandel.\n\n## Nuance of misverstand\n\nZo'n label is geen RFID-chip met jouw gegevens: het geeft enkel 'aanwezig' of 'niet aanwezig' door. De twee systemen zijn ook niet uitwisselbaar. Een akoesto-magnetisch poortje reageert niet op een RF-label en omgekeerd. Dat verklaart waarom een vergeten label van de ene winkel elders soms wel en soms geen alarm geeft.\n\n## Wat je ermee doet\n\nBewaar je kassaticket als je met nieuwe aankopen nog andere winkels binnengaat. Gaat een poortje af, dan ligt het meestal aan een label dat niet of slecht gedeactiveerd werd, en met je ticket is dat snel opgelost. Kijk thuis gerust eens in je aankopen: vaak zit het stripje nog verstopt in een verpakking.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"50\" y=\"40\" width=\"18\" height=\"150\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"292\" y=\"40\" width=\"18\" height=\"150\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"168\" y=\"110\" width=\"24\" height=\"10\" fill=\"#ffd166\"/><circle r=\"4\" fill=\"#fff\"><animateMotion path=\"M70,115 L165,115 L165,115\" keyTimes=\"0;0.4;1\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><circle cx=\"180\" cy=\"115\" r=\"8\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\" opacity=\"0\"><animate attributeName=\"r\" values=\"8;8;90\" keyTimes=\"0;0.4;1\" dur=\"3s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"0;0;1;0\" keyTimes=\"0;0.4;0.45;1\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">1. poortje zendt puls van ~58 kHz</text><text x=\"180\" y=\"100\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">label</text><text x=\"180\" y=\"150\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">2. strip trilt na</text><text x=\"180\" y=\"166\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">3. poortje hoort naklank: alarm</text><text x=\"180\" y=\"208\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">gedemagnetiseerd label blijft stil</text></svg>",
+   "quiz": {
+    "q": "Waarom geeft een akoesto-magnetisch label na het afrekenen geen alarm meer?",
+    "o": [
+     "De batterij in het label wordt uitgeschakeld",
+     "Het wordt gedemagnetiseerd en trilt niet meer mee op 58 kHz",
+     "De kassa wist een code in de chip"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "USPTO-patent 8746580 (AM-label)",
+     "u": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/8746580"
+    },
+    {
+     "t": "USPTO-patent 7830255 (deactivator)",
+     "u": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/7830255"
+    },
+    {
+     "t": "Wikipedia: Electronic article surveillance",
+     "u": "https://en.wikipedia.org/wiki/Electronic_article_surveillance"
+    },
+    {
+     "t": "Vitag: EAS-woordenlijst",
+     "u": "https://www.vitag.com.au/eas/eas-glossary/"
+    }
+   ],
+   "date": "2026-11-27T05:49:45Z"
   }
  ],
  "dives": [
