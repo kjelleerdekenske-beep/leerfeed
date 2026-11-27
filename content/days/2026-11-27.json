@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T05:46:44Z",
+ "updated": "2026-11-27T05:47:42Z",
  "cards": [
   {
    "cat": "psychologie",
@@ -984,6 +984,310 @@
     }
    ],
    "date": "2026-11-27T05:46:44Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Eiwitlijm houdt chromosomen in oude eicellen bij elkaar",
+   "body": "Onderzoekers bouwden 'TALhesins': eiwitten die chromosomen in eicellen aan elkaar binden, zoals het natuurlijke cohesine doet. Bij muizen van 17 maanden steeg het aandeel eicellen zonder vroegtijdige scheidingsfouten van 46,7 naar 74,1 procent, bijna het niveau van jonge muizen. De studie verscheen op 26 november; embryo's of jongen werden nog niet getest.",
+   "take": "Hoor je over 'ouder wordende eicellen', denk dan aan versleten lijm tussen chromosomen, niet aan 'opgebruikte' eicellen.",
+   "deep": "## Hoe het werkt\n\nEen eicel ontstaat in twee delingen (meiose). Vóór de eerste deling liggen de chromosomen in paren, en elk chromosoom bestaat uit twee identieke helften. Een ringvormig eiwit, cohesine, houdt die helften aan elkaar tot het juiste moment. Het bijzondere bij vrouwen: eicellen worden al vóór de geboorte aangelegd en blijven daarna jaren of decennia 'gepauzeerd' midden in die eerste deling. Het cohesine moet het al die tijd volhouden, en het wordt nauwelijks vernieuwd. Met de leeftijd verslapt die lijm. Laten helften te vroeg los, dan kan een eicel een chromosoom te veel of te weinig krijgen. Dat heet aneuploïdie en het is een belangrijke reden waarom miskramen en chromosoomafwijkingen vaker voorkomen bij oudere moeders. TALhesins zijn kunstmatige eiwitten die zich vastzetten op specifieke DNA-stukken vlak bij het centrum van elk chromosoom en de helften zo extra vastbinden.\n\n## Een voorbeeld\n\nDenk aan een koppel uit Gent van eind dertig dat een ivf-traject start. Vaak worden er wel eicellen gevonden, maar een deel blijkt bij onderzoek chromosomaal afwijkend. Een behandeling die de lijm versterkt, zou in theorie meer bruikbare eicellen opleveren, zonder dat er meer eicellen nodig zijn.\n\n## Wat onderzoek zegt\n\nVolgens Nature (26 november 2026) en STAT News verminderde het systeem het vroegtijdig loslaten van chromosomen bij muizen van 13, 17 en 20 maanden oud. In de groep van 17 maanden steeg het aandeel foutloze eicellen van 46,7 procent zonder behandeling naar 74,1 procent met TALhesin, dicht bij wat jonge muizen halen. In gedoneerde menselijke eicellen stapelden de eiwitten zich op de beoogde plekken op, wat toont dat ze daar kunnen binden.\n\n## Nuance of misverstand\n\nDit is een proof of concept. Er is nog niet getest of behandelde eicellen gezonde embryo's of jongen opleveren, bij geen enkele soort. Er is ook een praktisch probleem: de meeste eicellen die bij ivf worden opgehaald, zijn de eerste deling al voorbij. Schade door eerder verslapt cohesine kan dan al gebeurd zijn en valt achteraf niet te herstellen. Een fertiliteitsbehandeling voor mensen is dus nog jaren weg, als ze er al komt.\n\n## Wat je ermee doet\n\nOnthoud het mechanisme: leeftijd tast bij eicellen vooral de nauwkeurigheid van de chromosoomverdeling aan, niet alleen het aantal. Lees je een kop als 'oplossing voor late kinderwens', kijk dan of het om muizen gaat en of er al embryo's getest zijn. Bij deze studie is het antwoord twee keer: nog niet.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Twee helften, één lijmring</text><rect x=\"60\" y=\"60\" width=\"18\" height=\"110\" rx=\"9\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"84\" y=\"60\" width=\"18\" height=\"110\" rx=\"9\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><ellipse cx=\"81\" cy=\"115\" rx=\"30\" ry=\"10\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"3\"/><text x=\"81\" y=\"195\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">jong: cohesine sterk</text><g><rect x=\"230\" y=\"60\" width=\"18\" height=\"110\" rx=\"9\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"x\" values=\"230;214;214;230\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><rect x=\"254\" y=\"60\" width=\"18\" height=\"110\" rx=\"9\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"x\" values=\"254;270;270;254\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><ellipse cx=\"251\" cy=\"115\" rx=\"30\" ry=\"10\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"3\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1;0\" keyTimes=\"0;0.5;0.6;0.95;1\" dur=\"5s\" repeatCount=\"indefinite\"/></ellipse></g><text x=\"251\" y=\"195\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">oud: lijm lost, TALhesin bindt</text><path d=\"M140 115 L190 115\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M190 109 L200 115 L190 121 Z\" fill=\"#fff\"/><text x=\"170\" y=\"105\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">leeftijd</text></svg>",
+   "quiz": {
+    "q": "Waarom raakt het cohesine in eicellen met de jaren verzwakt?",
+    "o": [
+     "Eicellen wachten jaren midden in een deling en vernieuwen die lijm nauwelijks",
+     "Eicellen delen zich elke maand opnieuw en slijten zo",
+     "Het lichaam maakt na je dertigste geen eicellen meer aan"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Nature News",
+     "u": "https://www.nature.com/articles/d41586-026-03874-7"
+    },
+    {
+     "t": "STAT News",
+     "u": "https://www.statnews.com/2026/11/26/fertility-advance-engineered-protein-stabilizes-chromosomes-in-aging-eggs/"
+    }
+   ],
+   "date": "2026-11-27T05:47:42Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Te weinig zuurstof remt de mijt die bijenvolken doodt",
+   "body": "Op het Tibetaans plateau, boven 3.500 meter, planten varroamijten zich minder voort en groeien hun jongen trager. Van 15 besmette bijenvolken daar overleefden er 13 twee jaar; op lagere plaatsen haalde geen enkel volk meer dan één jaar. Ook zuurstofarme lucht op lage hoogte remde de mijt, meldt PLOS Biology.",
+   "take": "Imkert je? Blijf varroa tellen en behandelen; deze ontdekking is een spoor naar chemievrije methodes, nog geen kant-en-klare oplossing.",
+   "deep": "## Hoe het werkt\n\nDe varroamijt (Varroa destructor) is een parasiet van honingbijen. Een vrouwtjesmijt kruipt een broedcel binnen vlak voor de werksters die met was afsluiten. Achter dat dekseltje legt ze eitjes, en moeder en jongen voeden zich met de bijenpop. Als de jonge bij uitkomt, wandelen nieuwe, bevruchte mijten mee naar buiten. Zo groeit de mijtenpopulatie mee met het broed. Daarbij brengen mijten virussen over die bijen verzwakken. Een mijt die zich minder goed voortplant, kan een volk dus veel minder snel uitputten. Op grote hoogte is de luchtdruk lager en zit er in elke ademteug minder zuurstof. De onderzoekers denken dat precies dat de ontwikkeling van mijtenjongen in de broedcel vertraagt.\n\n## Een voorbeeld\n\nEen Vlaamse imker met vijf kasten in de Kempen telt in de zomer de natuurlijke mijtenval op een lade onder de kast en behandelt vaak na de honingoogst en opnieuw in de winter. Zonder behandeling sterft een besmet volk in onze streken vaak binnen een paar jaar. De Tibetaanse resultaten tonen hoe sterk die afloop afhangt van hoe vlot de mijt zich kan vermenigvuldigen.\n\n## Wat onderzoek zegt\n\nHet team rond Ruike Wei publiceerde rond 20 november 2026 in PLOS Biology. Boven 3.500 meter planten mijten zich minder voort en ontwikkelen hun jongen zich trager. Van 15 besmette volken op grote hoogte overleefden er 13 twee jaar, terwijl op lagere locaties geen enkel volk langer dan een jaar overleefde. Om andere verklaringen uit te sluiten, zoals temperatuur, testten ze ook zuurstofarme omstandigheden op lage hoogte: ook dan daalde de voortplanting van de mijt. Volgens de auteurs is de lagere zuurstofdruk de eenvoudigste verklaring voor het patroon.\n\n## Nuance of misverstand\n\nDat betekent niet dat je bijen best in de bergen zet, en ook niet dat er al een behandeling bestaat. Hoogte verandert meer dan zuurstof alleen, dus het laboexperiment is belangrijk maar nog geen eindpunt. De hoofdauteur noemt mogelijke chemievrije bestrijding een vooruitzicht, niet een geteste methode. En het gaat om bijen in Tibet, die aan grote hoogte gewend zijn.\n\n## Wat je ermee doet\n\nKijk bij nieuws over parasieten altijd naar de voortplantingssnelheid: wie die vertraagt, wint tijd voor de gastheer. Als imker of tuinier met bijenhotel: het werk blijft monitoren en tijdig ingrijpen, en je volgt met interesse of zuurstof straks een nieuw werktuig wordt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Minder zuurstof, minder mijten</text><path d=\"M20 190 L120 70 L180 130 L240 50 L340 190 Z\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"20\" y1=\"95\" x2=\"340\" y2=\"95\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"6 5\"/><text x=\"26\" y=\"88\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\">3.500 m</text><text x=\"280\" y=\"88\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">13/15 volken</text><text x=\"270\" y=\"210\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">laag: 0 na 1 jaar</text><circle cx=\"60\" cy=\"175\" r=\"6\" fill=\"#ff6b9d\"><animate attributeName=\"r\" values=\"4;12;4\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><circle cx=\"245\" cy=\"70\" r=\"5\" fill=\"#ff6b9d\"><animate attributeName=\"r\" values=\"4;6;4\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><text x=\"78\" y=\"180\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">mijten groeien snel</text><text x=\"150\" y=\"60\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">mijten traag</text></svg>",
+   "quiz": {
+    "q": "Waarom laat een tragere voortplanting van varroa een bijenvolk langer leven?",
+    "o": [
+     "Omdat mijten dan geen virussen meer dragen",
+     "Omdat de mijtenpopulatie dan minder snel met het broed mee aangroeit",
+     "Omdat bijen op hoogte geen broed meer maken"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "PLOS Biology",
+     "u": "https://journals.plos.org/plosbiology/article?id=10.1371%2Fjournal.pbio.3004091"
+    },
+    {
+     "t": "EurekAlert",
+     "u": "https://www.eurekalert.org/news-releases/1152893"
+    }
+   ],
+   "date": "2026-11-27T05:47:42Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Antibiotica al in de ambulance redden geen extra levens",
+   "body": "In de PITSTOP-studie (JAMA, 24 november) kregen 2.048 volwassenen met vermoedelijke sepsis in Ontario al in de ambulance ceftriaxon of een placebo. Ze werden gemiddeld drie uur sneller behandeld, maar de sterfte in het ziekenhuis bleef gelijk: 18,0 tegenover 18,4 procent. Bijwerkingen kwamen vaker voor met het antibioticum: 6,2 tegenover 1,5 procent.",
+   "take": "Vermoed je sepsis (koorts of onderkoeling, verwardheid, snelle ademhaling)? Bel 112; snelle herkenning en vervoer blijven cruciaal.",
+   "deep": "## Hoe het werkt\n\nSepsis is geen gewone infectie, maar een ontspoorde afweerreactie erop. Het immuunsysteem reageert zo hevig dat bloedvaten lekken, de bloeddruk zakt en organen te weinig zuurstof krijgen. Daarom geldt in ziekenhuizen: hoe sneller antibiotica, hoe beter. De logische volgende stap leek om ze al in de ambulance te geven. Maar daar weet niemand zeker of het echt om een bacteriële infectie gaat, en welke bacterie. Een breed antibioticum als ceftriaxon raakt veel bacteriën, maar niet alle. En wie al antibiotica kreeg vóór er bloed werd afgenomen, maakt het het labo moeilijker om de boosdoener te vinden.\n\n## Een voorbeeld\n\nEen 78-jarige vrouw in Brugge is verward en koortsig na een blaasontsteking. De ziekenwagen brengt haar naar spoed, waar bloed wordt afgenomen en antibiotica volgen. De vraag was of een antibioticum al onderweg in de ziekenwagen een gemiste kans is. Deze studie zegt: waarschijnlijk niet veel.\n\n## Wat onderzoek zegt\n\nPITSTOP-Antibiotics liep bij vier ambulancediensten in Ontario, Canada, en verscheen op 24 november 2026 in JAMA. Patiënten kregen willekeurig ceftriaxon of een placebo. Ze kregen hun antibioticum gemiddeld 3 uur vroeger, maar de ziekenhuissterfte bleef vrijwel gelijk: 18,0 procent met ceftriaxon, 18,4 procent met placebo. Bijwerkingen waren zeldzaam, maar kwamen vaker voor met het middel (6,2 tegenover 1,5 procent), vooral pijn op de prikplaats. Het is de tweede gerandomiseerde studie, na PHANTASi uit 2018, die geen overlevingswinst vindt. Een zusterstudie, PITSTOP-Fluids, vond evenmin voordeel van royaler vocht in de ambulance.\n\n## Nuance of misverstand\n\nDit betekent niet dat snelheid bij sepsis niet uitmaakt. Het betekent dat die drie uur winst in de ambulance, bovenop een snelle ziekenhuisbehandeling, geen meetbaar verschil gaf. De onderzoekers waarschuwen dat de studie te klein kan zijn geweest voor kleine maar belangrijke effecten. Een nadeel was ook zichtbaar: bloedkweken waren minder vaak positief bij wie het middel al had gekregen (40,1 tegenover 52,7 procent), omdat bloed niet vooraf werd afgenomen.\n\n## Wat je ermee doet\n\nKen de alarmsignalen van sepsis bij jezelf en je ouders: verwardheid, snelle ademhaling, zeer ziek voelen, gevlekte of bleke huid. Bel dan 112 en zeg dat je aan sepsis denkt. Snel in het ziekenhuis geraken is waar de winst zit.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">3 uur sneller, zelfde uitkomst</text><rect x=\"20\" y=\"70\" width=\"70\" height=\"40\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"55\" y=\"95\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ambulance</text><rect x=\"270\" y=\"70\" width=\"70\" height=\"40\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"305\" y=\"95\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ziekenhuis</text><line x1=\"90\" y1=\"90\" x2=\"270\" y2=\"90\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"24;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></line><circle r=\"6\" fill=\"#ffd166\"><animateMotion path=\"M95 90 L265 90\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"80\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">antibioticum vroeg</text><rect x=\"90\" y=\"150\" width=\"60\" height=\"18\" fill=\"#ffd166\"/><rect x=\"90\" y=\"175\" width=\"61\" height=\"18\" fill=\"#06d6a0\"/><text x=\"160\" y=\"164\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">18,0% sterfte met middel</text><text x=\"160\" y=\"189\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">18,4% sterfte met placebo</text></svg>",
+   "quiz": {
+    "q": "Wat vond de PITSTOP-studie over ceftriaxon in de ambulance bij vermoedelijke sepsis?",
+    "o": [
+     "Het halveerde de sterfte",
+     "Het verlaagde de sterfte niet, en gaf iets vaker bijwerkingen",
+     "Het werkte alleen bij vocht erbij"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "JAMA (PITSTOP-Antibiotics)",
+     "u": "https://jamanetwork.com/journals/jama/fullarticle/2857281"
+    },
+    {
+     "t": "Contagion Live",
+     "u": "https://www.contagionlive.com/view/prehospital-ceftriaxone-fails-to-cut-sepsis-mortality-in-pitstop-trial"
+    }
+   ],
+   "date": "2026-11-27T05:47:42Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "WHO keurt nieuwe pil tegen resistente gonorroe goed",
+   "body": "De WHO raadt sinds 25 november zoliflodacin aan: één orale dosis van 3 gram als extra optie bij ongecompliceerde gonorroe van geslachtsorganen en urinewegen. Een ceftriaxonprik blijft de eerste keuze. Tegelijk meldt de WHO resistentie tegen ceftriaxon en cefixime in Cambodja, India, Thailand en Vietnam, en tegen azitromycine in acht van tien opgevolgde landen.",
+   "take": "Neem antibiotica altijd volledig zoals voorgeschreven, en laat je na een soa-behandeling opnieuw testen als je arts dat aanraadt.",
+   "deep": "## Hoe het werkt\n\nGonorroe wordt veroorzaakt door de bacterie Neisseria gonorrhoeae. Die is berucht omdat ze bijna elk antibioticum na verloop van tijd leert ontwijken. Elke keer als een middel veel gebruikt wordt, overleven de paar bacteriën met een toevallige mutatie die beschermt. Zij vermenigvuldigen zich en geven die eigenschap door. Zo verloor de wereld eerst penicilline, daarna onder meer tetracycline en ciprofloxacine. Vandaag steunt de behandeling grotendeels op één middel: ceftriaxon, als spuit in de spier. Zoliflodacin is een nieuw soort antibioticum dat een bacterieel enzym (DNA-gyrase) op een andere plek aanpakt dan oudere middelen. Bacteriën die resistent zijn tegen oudere middelen, zijn daardoor niet automatisch beschermd.\n\n## Een voorbeeld\n\nIemand gaat na een onveilig contact naar de huisarts of een soa-centrum in Antwerpen en test positief. Vandaag volgt meestal een prik met ceftriaxon. Een pil die je in één keer inneemt, is praktischer, zeker waar spuiten en verpleegkundigen schaars zijn. Maar het belangrijkste argument is reserve: een tweede middel met een ander aangrijpingspunt.\n\n## Wat onderzoek zegt\n\nDe WHO publiceerde op 25 november 2026 voorlopige richtlijnen. Daarin staat zoliflodacin als bijkomende optie: één orale dosis van 3 gram bij ongecompliceerde infectie van geslachtsorganen en urinewegen, voor tieners en volwassenen. Het geldt niet voor infecties in keel of anus, niet voor zware gevallen en niet tijdens de zwangerschap. Een tweede nieuw middel, gepotidacin, beval de WHO niet aan voor algemeen gebruik. In het bewakingsrapport EGASP 2026, met gegevens uit 10 landen, werd resistentie tegen ceftriaxon en cefixime gevonden in Cambodja, India, Thailand en Vietnam, en resistentie tegen azitromycine in 8 landen.\n\n## Nuance of misverstand\n\nEen nieuw middel lost resistentie niet op, het koopt tijd. Wie zoliflodacin breed en slordig inzet, kweekt er ook resistentie tegen. Daarom blijft ceftriaxon eerste keuze en is de nieuwe pil een aanvulling. Resistentie ontstaat ook niet in je lichaam omdat je 'te vaak' antibiotica nam; het zijn de bacteriën die resistent worden, en die kun je doorgeven.\n\n## Wat je ermee doet\n\nGebruik condooms, laat je testen bij klachten of na risicocontact, en informeer partners. Krijg je antibiotica, neem ze precies zoals voorgeschreven. Zo help je mee om nieuwe middelen langer bruikbaar te houden.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Zo wint resistentie terrein</text><circle cx=\"50\" cy=\"80\" r=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"75\" cy=\"105\" r=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"45\" cy=\"125\" r=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"80\" cy=\"70\" r=\"8\" fill=\"#ff6b9d\"/><text x=\"62\" y=\"160\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">voor</text><path d=\"M115 100 L165 100\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M165 94 L175 100 L165 106 Z\" fill=\"#fff\"/><text x=\"145\" y=\"90\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">middel</text><circle cx=\"230\" cy=\"90\" r=\"8\" fill=\"#ff6b9d\"/><circle cx=\"250\" cy=\"110\" r=\"8\" fill=\"#ff6b9d\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;1;1;0\" keyTimes=\"0;0.3;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"270\" cy=\"85\" r=\"8\" fill=\"#ff6b9d\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1;0\" keyTimes=\"0;0.3;0.5;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"290\" cy=\"115\" r=\"8\" fill=\"#ff6b9d\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1;0\" keyTimes=\"0;0.5;0.7;0.9;1\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><text x=\"260\" y=\"160\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">resistente overleven</text><rect x=\"60\" y=\"180\" width=\"240\" height=\"24\" rx=\"6\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"180\" y=\"196\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">nieuw aangrijpingspunt = extra reserve</text></svg>",
+   "quiz": {
+    "q": "Wat is de rol van zoliflodacin in de nieuwe WHO-richtlijn?",
+    "o": [
+     "Het vervangt ceftriaxon als eerste keuze",
+     "Het is ook goedgekeurd bij keelinfecties en zwangerschap",
+     "Het is een extra optie naast ceftriaxon, voor ongecompliceerde genitale infecties"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "WHO",
+     "u": "https://www.who.int/news/item/25-11-2026-who-recommends-new-oral-treatment-option-for-gonorrhoea-and-reports-new-data-on-antimicrobial-resistance"
+    },
+    {
+     "t": "GARDP",
+     "u": "https://gardp.org/gardp-welcomes-who-interim-recommendation-for-zoliflodacin-as-alternative-treatment-option-for-uncomplicated-urogenital-gonorrhoea/"
+    }
+   ],
+   "date": "2026-11-27T05:47:42Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Amazon betaalt miljarden voor software die chips sneller maakt",
+   "body": "Amazon koopt de chipoptimalisatiesoftware van de jonge firma Decart, plus de oprichters, voor naar verluidt zo'n 7,5 miljard dollar. Die software moet AI-modellen sneller laten draaien op Amazons eigen Trainium- en Inferentia-chips. Amazon maakte de deal op 23 november bekend maar noemde geen prijs. Toezichthouders moeten nog goedkeuren.",
+   "take": "Vergelijk je AI-diensten of hardware, kijk dan niet alleen naar de chip maar ook naar de software die hem aanstuurt.",
+   "deep": "## Hoe het werkt\n\nEen AI-model is in wezen een gigantische reeks rekenstappen, vooral vermenigvuldigingen van grote getallentabellen. Een chip voert die niet rechtstreeks uit: een compiler vertaalt het model naar instructies, en kleine stukjes code, kernels, bepalen hoe elke bewerking precies over de rekeneenheden en het geheugen verdeeld wordt. Slim schrijven betekent: data zo weinig mogelijk heen en weer slepen, rekeneenheden niet laten wachten, bewerkingen samenvoegen. Een slecht geoptimaliseerde kernel kan een snelle chip het grootste deel van de tijd laten stilstaan. Nvidia's voorsprong zit daarom niet alleen in silicium, maar ook in jarenlang bijgeschaafde software (CUDA). Wie een concurrerende chip bouwt, moet die softwarelaag ook inhalen.\n\n## Een voorbeeld\n\nVergelijk het met een snelle sportwagen in de Brusselse spits. De motor kan veel, maar zonder goede route sta je toch stil. Optimalisatiesoftware is de gps die de rekenstappen zo plant dat de chip zelden hoeft te wachten. Voor een bedrijf dat dagelijks miljoenen vragen aan een chatbot beantwoordt, scheelt dat stroom, tijd en dus geld.\n\n## Wat onderzoek zegt\n\nVolgens TechCrunch (24 november 2026) gaat het om de Decart Optimization Stack; Decarts eigen AI-modellen horen niet bij de deal. Mede-oprichters Dean Leitersdorf, Orian Leitersdorf en Moshe Shalev stappen over. De software komt bij Annapurna Labs, Amazons chipafdeling, om de prestaties op Trainium en Inferentia te verbeteren. Bloomberg bracht het bedrag van ongeveer 7,5 miljard dollar naar buiten; andere berichten spreken van 7 tot ruim 7,5 miljard. Analisten van Futurum zeggen dat dit bijna het dubbele is van Decarts waardering van ongeveer 4 miljard in mei. AWS zelf biedt al de Neuron-softwarekit met compiler en kernelbibliotheken voor zijn chips.\n\n## Nuance of misverstand\n\n'Software kopen' klinkt kleiner dan 'chips bouwen', maar in AI is het vaak de bottleneck. Toch is het geen wondermiddel: hoeveel sneller modellen echt worden, heeft Amazon niet publiek gemaakt, en de prijs komt uit anonieme bronnen. Wat er met bestaande klanten van Decart gebeurt, is ook nog onduidelijk.\n\n## Wat je ermee doet\n\nLees bij chipnieuws de vraag achter de vraag: welke software maakt de hardware bruikbaar? Wie een AI-dienst kiest voor zijn bedrijf, vraagt best naar echte prestaties per euro, niet naar het merk van de chip.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Model → software → chip</text><rect x=\"15\" y=\"80\" width=\"80\" height=\"50\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"55\" y=\"110\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">AI-model</text><rect x=\"140\" y=\"80\" width=\"90\" height=\"50\" rx=\"6\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"185\" y=\"102\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">compiler +</text><text x=\"185\" y=\"117\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">kernels</text><rect x=\"270\" y=\"75\" width=\"75\" height=\"60\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"307\" y=\"110\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">chip</text><path d=\"M95 105 L135 105\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M130 100 L140 105 L130 110 Z\" fill=\"#fff\"/><path d=\"M230 105 L265 105\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M260 100 L270 105 L260 110 Z\" fill=\"#fff\"/><circle r=\"4\" fill=\"#06d6a0\"><animateMotion path=\"M60 105 L307 105\" dur=\"2s\" repeatCount=\"indefinite\"/></circle><circle r=\"4\" fill=\"#06d6a0\"><animateMotion path=\"M60 105 L307 105\" dur=\"2s\" begin=\"1s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"175\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">betere planning = chip wacht minder</text></svg>",
+   "quiz": {
+    "q": "Wat kocht Amazon precies van Decart?",
+    "o": [
+     "Software die AI-modellen efficiënter op chips laat draaien, plus het oprichtersteam",
+     "Een chipfabriek in Israël",
+     "Decarts eigen AI-videomodellen"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "TechCrunch",
+     "u": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/"
+    },
+    {
+     "t": "GeekWire",
+     "u": "https://www.geekwire.com/2026/amazon-is-buying-decarts-ai-chip-software-for-a-reported-7-5b-and-bringing-its-founders-aboard/"
+    },
+    {
+     "t": "AWS Neuron",
+     "u": "https://aws.amazon.com/ai/machine-learning/neuron/"
+    }
+   ],
+   "date": "2026-11-27T05:47:42Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Cloudflare geeft websites een zoekloket voor AI-agenten",
+   "body": "Sinds 25 november kunnen websites bij Cloudflare met één schakelaar 'Search for Agents' aanzetten (bèta). Cloudflare indexeert dan de site en opent een zoekadres op het eigen domein, /.well-known/search, dat passages teruggeeft in plaats van hele pagina's. AI-agenten hoeven zo niet pagina per pagina te crawlen. Of grote AI-assistenten het gebruiken, is nog onzeker.",
+   "take": "Heb je een website? Kijk in je statistieken hoeveel bots je pagina's ophalen; dat bepaalt of zo'n zoekloket je kosten kan drukken.",
+   "deep": "## Hoe het werkt\n\nEen zoekmachine werkt in twee stappen. Eerst crawlen: een bot bezoekt pagina's en volgt links. Dan indexeren: van elke pagina wordt bijgehouden welke woorden en betekenissen erin staan, zoals de index achteraan een boek. Bij een vraag zoek je in die index, niet in alle pagina's. AI-agenten, programma's die zelfstandig iets opzoeken of uitvoeren, crawlen vandaag vaak zelf: ze halen pagina na pagina binnen om één antwoord te vinden. Dat kost de website bandbreedte en rekenkracht. Cloudflare draait het om: de site bouwt zelf een index en biedt een vast zoekadres aan. De agent stelt één vraag en krijgt de relevante passages terug, in eenvoudige tekst (Markdown).\n\n## Een voorbeeld\n\nStel: een agent moet voor jou de openingsuren van een zwembad in Leuven opzoeken. Zonder zoekloket laadt hij de homepage, het menu, het nieuws en drie subpagina's. Met zoekloket stuurt hij één vraag naar het adres van de site en krijgt meteen het stukje met de uren terug. Minder verkeer voor de site, sneller antwoord voor de agent.\n\n## Wat onderzoek zegt\n\nCloudflare lanceerde de functie op 25 november 2026 als bèta, volgens The Next Web, Techzine en Dataconomy. Het zoekadres staat op /.well-known/search, een standaardmap waar machines afspraken over een site verwachten. Cloudflare voegt ook metadata toe aan pagina's zodat agenten het adres kunnen vinden. Het eindpunt geeft passages terug, geen door AI geschreven antwoord. Het gebruik valt onder de prijzen van Cloudflare AI Search, dat vanaf 1 december aanrekent met een maandelijkse gratis hoeveelheid; ook gratis klanten kunnen het gebruiken, met strengere limieten.\n\n## Nuance of misverstand\n\nEen loket is pas nuttig als iemand aanschuift. Volgens analisten heeft nog geen grote AI-assistent publiek gezegd dat hij naar dit adres zal kijken. Bots die nu al alles crawlen, kunnen dat blijven doen. En een site die zelf haar zoekresultaten aanlevert, bepaalt mee wat een agent te zien krijgt: handig, maar ook iets om kritisch te blijven over.\n\n## Wat je ermee doet\n\nBen je verantwoordelijk voor een site van een club, winkel of gemeente, volg dan hoe AI-bots je site gebruiken en welke afspraken (robots.txt, .well-known) ontstaan. Als gebruiker: weet dat een AI-antwoord steeds vaker rechtstreeks uit de zoekindex van de site zelf komt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Crawlen of één vraag stellen</text><text x=\"20\" y=\"50\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">zonder loket</text><circle cx=\"40\" cy=\"80\" r=\"12\" fill=\"#ff6b9d\"/><rect x=\"120\" y=\"60\" width=\"30\" height=\"40\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"170\" y=\"60\" width=\"30\" height=\"40\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"220\" y=\"60\" width=\"30\" height=\"40\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"270\" y=\"60\" width=\"30\" height=\"40\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><circle r=\"4\" fill=\"#ff6b9d\"><animateMotion path=\"M52 80 L135 80 L52 80 L185 80 L52 80 L235 80 L52 80 L285 80 L52 80\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><text x=\"20\" y=\"140\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">met /.well-known/search</text><circle cx=\"40\" cy=\"175\" r=\"12\" fill=\"#06d6a0\"/><rect x=\"230\" y=\"155\" width=\"70\" height=\"40\" rx=\"6\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"265\" y=\"180\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">index</text><line x1=\"55\" y1=\"175\" x2=\"225\" y2=\"175\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"8 6\"><animate attributeName=\"stroke-dashoffset\" values=\"28;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></line><text x=\"140\" y=\"168\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">één vraag, passages terug</text></svg>",
+   "quiz": {
+    "q": "Wat geeft Cloudflares zoekadres voor agenten terug?",
+    "o": [
+     "Een door AI geschreven samenvatting van de hele site",
+     "Passages uit de site die bij de zoekvraag passen",
+     "Een volledige kopie van alle pagina's"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "The Next Web",
+     "u": "https://thenextweb.com/news/cloudflare-search-for-agents-ai-website-search"
+    },
+    {
+     "t": "Techzine",
+     "u": "https://www.techzine.eu/news/applications/146069/cloudflare-makes-websites-searchable-for-ai-agents/"
+    },
+    {
+     "t": "Dataconomy",
+     "u": "https://dataconomy.com/2026/11/26/cloudflare-launches-ai-agent-search-service-for-websites/"
+    }
+   ],
+   "date": "2026-11-27T05:47:42Z"
+  },
+  {
+   "cat": "geld",
+   "title": "ECB stond in oktober al dicht bij een renteverhoging",
+   "body": "Volgens het verslag van de oktobervergadering, gepubliceerd op 26 november, had een grote groep ECB-bestuurders toen al een renteverhoging willen steunen. De inflatie in de eurozone liep in oktober op tot 4 procent. Markten rekenen nu volledig op een verhoging van 0,25 procentpunt op 17 december, van 2,50 naar 2,75 procent.",
+   "take": "Heb je een lening met variabele rente of denk je aan een spaarrekening? Hogere ECB-rentes werken met vertraging door: vergelijk tarieven na december.",
+   "deep": "## Hoe het werkt\n\nDe ECB stuurt geen prijzen rechtstreeks, maar de prijs van geld. Haar belangrijkste knop is de depositorente: wat banken krijgen als ze geld bij de ECB parkeren. Stijgt die, dan rekenen banken ook meer aan voor leningen en bieden ze iets meer op spaargeld. Lenen voor een huis, auto of investering wordt duurder, sparen aantrekkelijker. Daardoor daalt de vraag, en met minder vraag kunnen bedrijven prijzen minder makkelijk verhogen. Dat werkt traag: vaak duurt het een jaar of langer. Bij een energieschok is de afweging lastig. Een rentestijging maakt gas niet goedkoper. De ECB grijpt vooral in om tweederonde-effecten te voorkomen: dat duurdere energie doorsijpelt naar lonen en alle andere prijzen, en mensen hogere inflatie gaan verwachten.\n\n## Een voorbeeld\n\nIn België is dat tweederonde-mechanisme heel tastbaar door de automatische indexering. Stijgt de inflatie, dan volgen lonen en uitkeringen na een tijd. Dat beschermt koopkracht, maar duwt ook de kosten van bedrijven omhoog, die dat weer in prijzen kunnen doorrekenen. Een ECB die vreest voor zo'n spiraal, zal eerder de rente optrekken.\n\n## Wat onderzoek zegt\n\nHet verslag van de vergadering van 28-29 oktober 2026 verscheen op 26 november. Daarin staat dat een grote groep leden een verhoging al had kunnen steunen, maar wilde wachten op meer inflatiecijfers. De inflatie in de eurozone kwam in oktober uit op 4 procent, tegen 3,8 procent in september; de kerninflatie zonder energie bleef op 2,5 procent. De ECB noemt het een waarschuwingssignaal dat consumenten binnen vijf jaar 2,5 procent inflatie verwachten, tegen 2,0 procent twee jaar eerder. De depositorente staat volgens de Nationale Bank op 2,50 procent.\n\n## Nuance of misverstand\n\nEen verslag is geen beslissing. Dat markten 'volledig' een verhoging inprijzen, betekent dat beleggers het zeer waarschijnlijk achten, niet dat het vastligt. Verderop is er minder haast: volgens berichtgeving zijn tweederonde-effecten nog niet zichtbaar en is de arbeidsmarkt zwakker dan in 2022.\n\n## Wat je ermee doet\n\nVolg bij ECB-nieuws de verwachtingen, niet alleen de inflatie: die bepalen of de rente stijgt. Heb je een woonlening met variabele rente, reken uit wat 0,25 procentpunt extra per maand kost. Spaar je, vergelijk dan na december of je bank de hogere rente ook doorgeeft.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Zo remt een hogere rente prijzen af</text><rect x=\"10\" y=\"80\" width=\"70\" height=\"44\" rx=\"6\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"45\" y=\"100\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ECB-rente</text><text x=\"45\" y=\"115\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">omhoog</text><rect x=\"100\" y=\"80\" width=\"70\" height=\"44\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"stroke\" values=\"#fff;#06d6a0;#fff;#fff;#fff\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"135\" y=\"100\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">lenen</text><text x=\"135\" y=\"115\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">duurder</text><rect x=\"190\" y=\"80\" width=\"70\" height=\"44\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"stroke\" values=\"#fff;#fff;#06d6a0;#fff;#fff\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"225\" y=\"100\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">minder</text><text x=\"225\" y=\"115\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">vraag</text><rect x=\"280\" y=\"80\" width=\"70\" height=\"44\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"stroke\" values=\"#fff;#fff;#fff;#06d6a0;#fff\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"315\" y=\"100\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">trager</text><text x=\"315\" y=\"115\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">prijzen</text><path d=\"M80 102 L92 102\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M92 98 L99 102 L92 106 Z\" fill=\"#fff\"/><path d=\"M170 102 L182 102\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M182 98 L189 102 L182 106 Z\" fill=\"#fff\"/><path d=\"M260 102 L272 102\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M272 98 L279 102 L272 106 Z\" fill=\"#fff\"/><text x=\"180\" y=\"165\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">verwacht 17 dec: 2,50% → 2,75%</text><text x=\"180\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">effect duurt vaak een jaar of langer</text></svg>",
+   "quiz": {
+    "q": "Waarom verhoogt de ECB de rente bij een energieschok, al maakt dat gas niet goedkoper?",
+    "o": [
+     "Om de eurokoers te laten dalen",
+     "Om banken meer winst te laten maken",
+     "Om te voorkomen dat duurdere energie doorsijpelt naar lonen, andere prijzen en verwachtingen"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "ECB, verslag 28-29 oktober 2026",
+     "u": "https://www.ecb.europa.eu/press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html"
+    },
+    {
+     "t": "Global Banking & Finance (Reuters)",
+     "u": "https://www.globalbankingandfinance.com/ecb-already-large-support-rate-hike-oct-accounts-show/"
+    },
+    {
+     "t": "Irish Times",
+     "u": "https://www.irishtimes.com/business/2026/11/18/euro-area-inflation-hits-4-paving-way-for-more-ecb-rate-hikes/"
+    }
+   ],
+   "date": "2026-11-27T05:47:42Z"
+  },
+  {
+   "cat": "geld",
+   "title": "De Fed kijkt naar een andere inflatiemeter dan jij",
+   "body": "Op 25 november bleek de Amerikaanse PCE-prijsindex, de inflatiemaatstaf die de Fed verkiest, in oktober op 3,8 procent te staan, na 3,6 procent in september. Zonder voeding en energie: 3,3 procent. Het groeicijfer voor het derde kwartaal werd opgetrokken naar 4,3 procent op jaarbasis. Beleggers rekenden daarna op een renteverhoging in december.",
+   "take": "Zie je twee inflatiecijfers voor hetzelfde land? Kijk eerst welke index het is, vóór je conclusies trekt over je koopkracht.",
+   "deep": "## Hoe het werkt\n\nInflatie meet je met een denkbeeldig winkelkarretje: je volgt de prijzen van duizenden goederen en diensten en weegt ze volgens hoeveel mensen eraan uitgeven. De consumentenprijsindex (CPI) gebruikt een karretje gebaseerd op wat huishoudens zelf betalen, met gewichten die jaarlijks worden bijgewerkt. De PCE-index rekent breder: ook uitgaven die voor huishoudens gebeuren, zoals ziekteverzekering via de werkgever of overheidszorg. De gewichten worden maandelijks aangepast. Wordt rundvlees duur en schakelen mensen over op kip, dan verwerkt PCE die verschuiving sneller. Daardoor ligt PCE meestal wat lager dan CPI. Volgens de Cleveland Fed was de jaarlijkse CPI-inflatie sinds 2000 gemiddeld 0,39 procentpunt hoger.\n\n## Een voorbeeld\n\nOok in België bestaan twee maatstaven naast elkaar. Statbel berekent de nationale consumptieprijsindex, die onder meer dient voor de indexering, en de Europese geharmoniseerde index (HICP), die landen vergelijkbaar maakt. In oktober 2026 stond de eerste op 5,3 procent, de tweede op 5,2 procent. Dezelfde maand, dezelfde winkels, toch een ander cijfer door een andere rekenwijze.\n\n## Wat onderzoek zegt\n\nVolgens Axios steeg de PCE-inflatie in oktober naar 3,8 procent, van 3,6 procent in september; de kern-PCE naar 3,3 procent, van 3,1 procent. De tweede schatting van de groei in het derde kwartaal kwam uit op 4,3 procent op jaarbasis, tegenover 3,4 procent in de eerste raming. Na die cijfers prijsden handelaars volgens Yahoo Finance een kans van ongeveer 98 procent in op een Fed-renteverhoging van een kwartpunt in december. De St. Louis Fed legt uit dat de Fed in 2000 overstapte van CPI naar PCE, onder meer omdat PCE vervanging door goedkopere producten beter meeneemt.\n\n## Nuance of misverstand\n\nPCE is niet 'de echte' inflatie en CPI ook niet. Ze beantwoorden een andere vraag. Een nadeel van PCE: oudere cijfers kunnen nog flink herzien worden, terwijl de niet-seizoensgezuiverde CPI nooit wordt herzien. Dat PCE lager uitvalt, maakt het ook geen trucje van de centrale bank; het ligt aan de rekenregels.\n\n## Wat je ermee doet\n\nLees bij elk inflatiecijfer drie dingen: welke index, met of zonder energie en voeding, en tegenover welke periode. Voor je eigen budget telt je eigen karretje: wie veel met de auto rijdt of slecht geïsoleerd woont, voelt energieprijzen harder dan het gemiddelde.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Zelfde prijzen, ander karretje</text><rect x=\"40\" y=\"60\" width=\"110\" height=\"70\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"95\" y=\"85\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">CPI</text><text x=\"95\" y=\"105\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">gewichten jaarlijks</text><rect x=\"210\" y=\"60\" width=\"110\" height=\"70\" rx=\"8\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"265\" y=\"85\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">PCE</text><text x=\"265\" y=\"105\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">gewichten maandelijks</text><circle cx=\"95\" cy=\"165\" r=\"10\" fill=\"#ff6b9d\"/><text x=\"95\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">rundvlees</text><circle cx=\"265\" cy=\"165\" r=\"10\" fill=\"#06d6a0\"/><text x=\"265\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">kip</text><circle r=\"6\" fill=\"#fff\"><animateMotion path=\"M105 165 Q180 135 255 165\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"150\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">overschakelen</text></svg>",
+   "quiz": {
+    "q": "Waarom ligt de PCE-inflatie doorgaans iets lager dan de CPI?",
+    "o": [
+     "PCE past gewichten sneller aan wanneer mensen overschakelen op goedkopere producten",
+     "PCE telt energie helemaal niet mee",
+     "PCE wordt alleen door de Fed zelf berekend"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Axios",
+     "u": "https://axios.com/2026/11/25/economy-gdp-inflation-ai"
+    },
+    {
+     "t": "Cleveland Fed",
+     "u": "https://www.clevelandfed.org/collections/infographics/2024/infogr-20241205-cpi-versus-pce-price-index"
+    },
+    {
+     "t": "St. Louis Fed",
+     "u": "https://www.stlouisfed.org/publications/regional-economist/july-2013/cpi-vs-pce-inflation--choosing-a-standard-measure"
+    },
+    {
+     "t": "AGF (Statbel-cijfers)",
+     "u": "https://www.agf.nl/article/9894062/belgische-inflatie-stijgt-naar-5-2-in-oktober-gedreven-door-energieprijzen/"
+    }
+   ],
+   "date": "2026-11-27T05:47:42Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Unilever halveert Britse tv-reclame, Channel 4 verliest bijna alles",
+   "body": "Unilever gaf dit jaar ruim de helft minder uit aan Britse tv-reclame dan in 2025, volgens een analyse van The Guardian. Bij Channel 4 ging het budget met ongeveer 92 procent omlaag, bij Sky met 44 en bij ITV met 42 procent. Het geld gaat naar creators: Unilevers netwerk groeide van 75.000 in 2024 naar meer dan 500.000.",
+   "take": "Meet niet alleen klikken en verkoop per post, maar ook of mensen je merk nog kennen en herinneren.",
+   "deep": "## Hoe het werkt\n\nReclame doet grofweg twee dingen. Op korte termijn duwt ze mensen die al willen kopen over de streep: dat heet activatie en is makkelijk te meten met klikken en kortingscodes. Op lange termijn bouwt ze geheugen: wie later in de winkel staat, denkt sneller aan een merk dat hij vaak gezien heeft. Marketeers noemen dat mentale beschikbaarheid. Tv bereikt in één keer veel mensen, ook wie nu niets nodig heeft, en dat maakt het sterk in geheugen opbouwen. Creators bereiken kleinere, specifieke groepen met een vertrouwd gezicht, en hun resultaten zijn vaak sneller zichtbaar in de cijfers. Een budget verschuiven is dus ook kiezen welk effect je het belangrijkst vindt.\n\n## Een voorbeeld\n\nDenk aan een shampoomerk in de Colruyt. Een tv-spot tijdens een populair programma zorgt dat bijna iedereen de naam kent. Een reeks TikToks van een Vlaamse influencer zorgt dat jonge kijkers het merk proberen, met een code die je precies kunt opvolgen. Het tweede is makkelijker te verantwoorden in een rapport. Het eerste is moeilijker te meten, maar daarom niet minder belangrijk.\n\n## Wat onderzoek zegt\n\nMarketing Week en Net Influencer brachten rond 24 november 2026 de cijfers uit de Guardian-analyse van sectordata: Unilever verlaagde zijn Britse tv-uitgaven met iets meer dan 50 procent tegenover 2025. Channel 4 kreeg de grootste procentuele klap, ongeveer 92 procent; Sky 44 en ITV 42 procent, al verloren die laatste twee in absolute bedragen meer. Unilever zegt dat creatorcontent 1,5 keer meer rendement oplevert dan inhoud van het merk zelf. Tegelijk vond een studie in opdracht van Thinkbox, de Britse tv-reclameorganisatie, bij 1.478 merken dat reclamebekendheid gemiddeld 17 procent van de merkoverweging verklaart.\n\n## Nuance of misverstand\n\nDe cijfers betekenen niet dat Unilever stopt met tv. Het bedrijf spreekt zelf van gerichte tv-momenten in plaats van altijd aanwezig zijn. Het rendementscijfer van 1,5 is Unilevers eigen claim, en de Thinkbox-studie komt van de tv-sector zelf. Beide kampen hebben dus belang bij hun cijfers.\n\n## Wat je ermee doet\n\nKijk bij elke 'dit kanaal werkt beter'-claim wie het meet en over welke termijn. Wie voor een eigen zaak adverteert, combineert best: iets wat breed bekendheid bouwt, en iets wat je nauwkeurig kunt opvolgen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Unilever UK: tv-budget verschuift</text><text x=\"20\" y=\"62\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">Channel 4</text><text x=\"20\" y=\"102\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">Sky</text><text x=\"20\" y=\"142\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">ITV</text><rect x=\"90\" y=\"50\" width=\"200\" height=\"16\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"width\" values=\"200;16;16;200\" keyTimes=\"0;0.4;0.9;1\" dur=\"7s\" repeatCount=\"indefinite\"/></rect><rect x=\"90\" y=\"90\" width=\"200\" height=\"16\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"width\" values=\"200;112;112;200\" keyTimes=\"0;0.4;0.9;1\" dur=\"7s\" repeatCount=\"indefinite\"/></rect><rect x=\"90\" y=\"130\" width=\"200\" height=\"16\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"width\" values=\"200;116;116;200\" keyTimes=\"0;0.4;0.9;1\" dur=\"7s\" repeatCount=\"indefinite\"/></rect><text x=\"300\" y=\"62\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">-92%</text><text x=\"300\" y=\"102\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">-44%</text><text x=\"300\" y=\"142\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\">-42%</text><text x=\"180\" y=\"185\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">creators: 75.000 → 500.000+</text><text x=\"180\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">bron: Guardian-analyse via Marketing Week</text></svg>",
+   "quiz": {
+    "q": "Waarom is tv-reclame volgens marketeers sterk, ook al is het effect moeilijk te meten?",
+    "o": [
+     "Omdat tv-kijkers meer geld hebben",
+     "Omdat het veel mensen tegelijk bereikt en zo merkgeheugen opbouwt",
+     "Omdat tv-spots altijd goedkoper zijn dan creators"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Marketing Week",
+     "u": "https://www.marketingweek.com/unilever-tv-spend-half/"
+    },
+    {
+     "t": "Net Influencer",
+     "u": "https://www.netinfluencer.com/unilever-cuts-uk-tv-spending-by-more-than-half-as-it-scales-creator-marketing/"
+    },
+    {
+     "t": "The Media Leader (Thinkbox)",
+     "u": "https://uk.themedialeader.com/marketers-should-be-tracking-ad-awareness-says-thinkbox-study/"
+    }
+   ],
+   "date": "2026-11-27T05:47:42Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Late tieners voelen onverwachte reacties het hardst",
+   "body": "Een Duitse studie bij 141 mensen van 10 tot 40 jaar toont dat onverwachte sociale feedback de zelfwaardering het sterkst doet schommelen in de late tienerjaren. Ook in het dagelijks leven reageerden jongere deelnemers sterker op hoe aangenaam een sociaal contact voelde. De studie verscheen op 25 november in Nature Communications.",
+   "take": "Reageert je tiener hevig op een opmerking of uitblijvende likes? Dat is ontwikkelingsgewijs normaal: erken het gevoel voor je relativeert.",
+   "deep": "## Hoe het werkt\n\nJe brein voorspelt voortdurend wat er gaat gebeuren, ook sociaal. Verwacht je dat een vriend je idee goed vindt en hij reageert lauw, dan is er een verschil tussen verwachting en uitkomst: een predictiefout. Zo'n fout is een leersignaal. Het brein past er zijn beeld van de wereld mee aan, en bij sociale feedback ook het beeld van jezelf. De sociometertheorie, ooit voorgesteld door psycholoog Mark Leary, ziet zelfwaardering als een soort meter die aangeeft hoe aanvaard je je voelt. Een onverwachte afwijzing doet die meter zakken, een onverwachte aanmoediging laat ze stijgen. In de adolescentie wordt de vraag 'waar hoor ik bij?' extra belangrijk, en dus wegen die signalen zwaarder.\n\n## Een voorbeeld\n\nEen zeventienjarige uit Mechelen post een foto en rekent op veel reacties. Er komen er amper drie. Voor haar voelt dat als een duidelijke boodschap over wie ze is. Haar moeder van 45 zou bij hetzelfde voorval eerder denken dat het algoritme de foto niet toonde. Zelfde gebeurtenis, ander gewicht.\n\n## Wat onderzoek zegt\n\nKlara Gregorová en collega's, verbonden aan het Duitse Centrum voor Preventieonderzoek Geestelijke Gezondheid in Würzburg, publiceerden op 25 november 2026 in Nature Communications. Ze testten 141 deelnemers van 10 tot 40 jaar met een sociale beoordelingstaak in het labo en volgden hen daarna in het dagelijks leven met korte vragenlijsten op de gsm (ecological momentary assessment). In het labo volgde de gevoeligheid voor onverwachte feedback geen rechte lijn met de leeftijd, maar een curve met een piek in de late adolescentie. In het dagelijks leven reageerden jongere deelnemers sterker op hoe aangenaam ze een sociaal contact vonden en op onverwachte sociale ervaringen.\n\n## Nuance of misverstand\n\nDit betekent niet dat tieners 'te gevoelig' zijn of dat sociale media de oorzaak zijn. De studie gaat over schommelingen in zelfwaardering, niet over depressie, en ze toont een samenhang met leeftijd, geen oorzaak. Een groep van 141 mensen over dertig leeftijdsjaren is ook beperkt. Positief nieuws zit er ook in: aangename contacten tillen de zelfwaarde bij jongeren extra hard op.\n\n## Wat je ermee doet\n\nHelp jongeren hun verwachtingen bewust te maken: 'Wat had je gehoopt?' maakt de predictiefout bespreekbaar. Zorg voor veel voorspelbaar positieve contacten, zoals een hobby, club of vaste vrienden. En bij jezelf: als een reactie onverwacht hard binnenkomt, vraag je af wat je had verwacht.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Gevoeligheid voor onverwachte feedback</text><line x1=\"40\" y1=\"180\" x2=\"340\" y2=\"180\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"40\" y1=\"180\" x2=\"40\" y2=\"45\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"40\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">10</text><text x=\"140\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">18</text><text x=\"330\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">40 jaar</text><path d=\"M40 150 C90 120 120 60 140 60 C170 60 220 130 340 150\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"3\" stroke-dasharray=\"400\" stroke-dashoffset=\"400\"><animate attributeName=\"stroke-dashoffset\" values=\"400;0;0\" keyTimes=\"0;0.6;1\" dur=\"6s\" repeatCount=\"indefinite\"/></path><circle cx=\"140\" cy=\"60\" r=\"6\" fill=\"#ff6b9d\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1\" keyTimes=\"0;0.5;0.6;1\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><text x=\"150\" y=\"50\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">piek: late adolescentie</text><text x=\"200\" y=\"168\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\">verwachting ≠ uitkomst</text></svg>",
+   "quiz": {
+    "q": "Wanneer schommelde de zelfwaardering het sterkst door onverwachte sociale feedback?",
+    "o": [
+     "Rond je tiende verjaardag",
+     "Na je dertigste",
+     "In de late adolescentie"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Nature Communications",
+     "u": "https://www.nature.com/articles/s41467-026-79292-0"
+    },
+    {
+     "t": "PubMed",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/43086258/"
+    }
+   ],
+   "date": "2026-11-27T05:47:42Z"
   }
  ],
  "dives": [
