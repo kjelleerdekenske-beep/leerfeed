@@ -1,6 +1,323 @@
 {
- "updated": "2026-11-27T05:40:19Z",
- "cards": [],
+ "updated": "2026-11-27T05:43:41Z",
+ "cards": [
+  {
+   "cat": "psychologie",
+   "title": "Wat je op jezelf betrekt, blijft beter hangen",
+   "body": "In 1977 lieten Rogers, Kuiper en Kirker proefpersonen bij eigenschapswoorden beslissen: 'past dit bij mij?' Die woorden onthielden ze beter dan woorden waarvan ze alleen de betekenis beoordeelden. Een meta-analyse van Symons en Johnson (1997) over 129 studies bevestigde dit zelfreferentie-effect.",
+   "take": "Vraag je bij elke nieuwe leerstof af: waar heb ik dit zelf al meegemaakt, of wanneer zou ik dit gebruiken?",
+   "deep": "## Hoe het werkt\n\nJe geheugen bewaart niet alles even goed. Hoe dieper je iets verwerkt, hoe groter de kans dat je het later terugvindt. Kijk je alleen naar de vorm van een woord, dan blijft er weinig hangen. Denk je na over de betekenis, dan gaat het al beter. Koppel je het woord aan jezelf, dan haal je vaak het beste resultaat.\n\nWaarom? Over jezelf weet je ontzettend veel: herinneringen, voorkeuren, ervaringen. Dat is een rijk, goed georganiseerd netwerk. Een nieuw stukje informatie dat je daaraan vasthaakt, krijgt meteen veel aanknopingspunten. Later heb je dus meer sporen om het terug te vinden.\n\n## Een voorbeeld\n\nJe leest dat 'opportuniteitskost' betekent wat je opgeeft als je voor iets anders kiest. Je kunt de definitie drie keer herlezen. Of je denkt: toen ik vorige zaterdag ging werken in plaats van mee te gaan naar zee, was die dag aan zee mijn opportuniteitskost. Die tweede versie hangt vast aan je eigen leven en blijft veel beter plakken.\n\n## Wat onderzoek zegt\n\nDe term komt uit een studie van T.B. Rogers, N.A. Kuiper en W.S. Kirker uit 1977. Proefpersonen kregen eigenschapswoorden en een opdracht: oordelen over de letters, over de klank, over de betekenis, of over de vraag 'beschrijft dit jou?'. Woorden uit die laatste opdracht werden het best herinnerd, zelfs beter dan na nadenken over de betekenis.\n\nCynthia Symons en Blair Johnson bundelden in 1997 in Psychological Bulletin 129 studies. Conclusie: zelfreferentie verslaat gemiddeld zowel betekenisverwerking als het betrekken van informatie op een ander persoon. Wel was het effect wisselend van studie tot studie.\n\n## Nuance of misverstand\n\nHet effect is geen toverformule. Ongeveer 80 procent van de studies gebruikte eigenschapswoorden, zoals 'eerlijk' of 'verlegen'. Die passen natuurlijk heel goed bij nadenken over jezelf. Bij ander materiaal, zoals gewone zelfstandige naamwoorden, vonden sommige onderzoekers geen voordeel.\n\nOok het verschil met 'aan een ander denken' is kleiner dan met loutere betekenisverwerking. Denk je aan iemand die je goed kent, dan maak je ook een rijk netwerk aan. Het voordeel zit dus vooral in koppelen aan iets wat je goed kent, en jezelf ken je toevallig het best.\n\n## Wat je ermee doet\n\nMaak bij het studeren je eigen voorbeelden in plaats van die uit het boek over te nemen. Vraag je bij een nieuw begrip af waar je het al tegenkwam. In een cursus of opleiding kun je hetzelfde doen met je eigen job: hoe zou dit er bij ons op het werk uitzien? Twee minuten zoeken naar een persoonlijke link levert vaak meer op dan tien minuten herlezen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"24\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Hoe goed onthoud je een woord?</text><text x=\"110\" y=\"66\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"end\">Hoofdletters?</text><rect x=\"120\" y=\"50\" width=\"30\" height=\"22\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"width\" values=\"0;30;30\" keyTimes=\"0;0.5;1\" dur=\"5s\" begin=\"0.0s\" repeatCount=\"indefinite\"/></rect><text x=\"110\" y=\"104\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"end\">Rijmt op…?</text><rect x=\"120\" y=\"88\" width=\"50\" height=\"22\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"width\" values=\"0;50;50\" keyTimes=\"0;0.5;1\" dur=\"5s\" begin=\"0.4s\" repeatCount=\"indefinite\"/></rect><text x=\"110\" y=\"142\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"end\">Betekent…?</text><rect x=\"120\" y=\"126\" width=\"95\" height=\"22\" fill=\"#06d6a0\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"width\" values=\"0;95;95\" keyTimes=\"0;0.5;1\" dur=\"5s\" begin=\"0.8s\" repeatCount=\"indefinite\"/></rect><text x=\"110\" y=\"180\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"end\">Past bij mij?</text><rect x=\"120\" y=\"164\" width=\"140\" height=\"22\" fill=\"#ffd166\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"width\" values=\"0;140;140\" keyTimes=\"0;0.5;1\" dur=\"5s\" begin=\"1.2000000000000002s\" repeatCount=\"indefinite\"/></rect><text x=\"180\" y=\"210\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">dieper verwerkt = beter onthouden</text></svg>",
+   "quiz": {
+    "q": "Welke opdracht gaf in Rogers' experiment het beste geheugen voor woorden?",
+    "o": [
+     "Beoordelen of het woord bij jou past",
+     "Beoordelen of het woord in hoofdletters staat",
+     "Beoordelen of het woord ergens op rijmt"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Symons & Johnson 1997 (Psychological Bulletin)",
+     "u": "https://core.ac.uk/download/194456453.pdf"
+    },
+    {
+     "t": "Kihlstrom e.a., Self-reference effect",
+     "u": "https://www.ocf.berkeley.edu/%7Ejfkihlstrom/PDFs/2010s/2010/SelfReferenceCDP_ref.pdf"
+    }
+   ],
+   "date": "2026-11-27T05:43:41Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Zakt de beurs? Dan kijken beleggers liever niet",
+   "body": "Beleggers loggen minder vaak in op hun rekening als de markt daalt. Karlsson, Loewenstein en Seppi noemden dat in 2009 het struisvogeleffect. Een latere studie met dagelijkse logins van pensioenrekeningen vond 9,5 procent minder logins na een beursdaling.",
+   "take": "Spreek vooraf een vast moment af om je beleggingen te bekijken, bijvoorbeeld elk kwartaal, los van wat de beurs doet.",
+   "deep": "## Hoe het werkt\n\nInformatie is niet neutraal: ze verandert hoe je je voelt. Goed nieuws over je spaarpotje geeft een fijn gevoel, slecht nieuws doet pijn. Als je vermoedt dat het nieuws slecht is, kun je die pijn uitstellen door gewoon niet te kijken. Zolang je het getal niet ziet, voelt het verlies minder echt.\n\nGaat de markt omhoog, dan werkt het omgekeerd: je kijkt graag, want het bevestigt dat je goed bezig bent. Zo ontstaat een scheef patroon. Je aandacht gaat vooral naar goed nieuws, en je kop gaat in het zand zodra het tegenzit.\n\n## Een voorbeeld\n\nStel: je belegt maandelijks in een fonds via de app van je bank. In een goede maand open je die app geregeld en kijk je tevreden naar het groene percentage. Staat er in het journaal dat de beurzen fors dalen, dan laat je de app een week dicht. Je weet ongeveer wat je zou zien, en dat wil je liever niet.\n\n## Wat onderzoek zegt\n\nNiklas Karlsson, George Loewenstein en Duane Seppi publiceerden in 2009 in het Journal of Risk and Uncertainty een model en data van Scandinavische en Amerikaanse beleggers. Ze vonden dat mensen hun rekening minder vaak bekeken in dalende markten dan in stijgende.\n\nEen grotere studie van Sicherman, Loewenstein, Seppi en Utkus (Review of Financial Studies, 2016) gebruikte dagelijkse logins van pensioenrekeningen bij Vanguard. Na een beursdaling zakte het aantal logins met 9,5 procent. Ook bij hoge verwachte onrust, gemeten met de VIX-index, keken mensen minder. Opvallend: wie alleen obligaties had, keek juist vaker als de aandelen zakten. Voor hen was een stijgende aandelenmarkt het slechte nieuws.\n\n## Nuance of misverstand\n\nWegkijken is niet altijd dom. De onderzoekers opperen dat het mensen kan beschermen tegen paniekverkopen op het slechtste moment. Wie niet kijkt, verkoopt ook niet in een opwelling.\n\nDe keerzijde is dat je ook goede beslissingen mist, zoals bijkopen tegen lagere koersen of controleren of je spreiding nog klopt. En buiten beleggen kan dezelfde reflex duur uitvallen: een brief van de belastingen of een medische uitslag laten liggen lost niets op.\n\n## Wat je ermee doet\n\nMaak je kijkgedrag onafhankelijk van je stemming. Plan een vaste afspraak met jezelf, bijvoorbeeld de eerste zaterdag van elk kwartaal, en bekijk dan alles, ook als het rood staat. Leg vooraf op papier vast wat je doet bij een daling, zodat je op dat moment niet hoeft te beslissen onder emotie.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Beurs omlaag, minder vaak kijken</text><path d=\"M30 70 L90 60 L150 75 L210 120 L270 140 L330 135\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"40\" y=\"52\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">koers</text><line x1=\"30\" y1=\"190\" x2=\"330\" y2=\"190\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"40\" y=\"140\" width=\"26\" height=\"50\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"90\" y=\"138\" width=\"26\" height=\"52\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"140\" y=\"142\" width=\"26\" height=\"48\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"190\" y=\"160\" width=\"26\" height=\"30\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"240\" y=\"168\" width=\"26\" height=\"22\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"290\" y=\"166\" width=\"26\" height=\"24\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"330\" y=\"208\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">aantal keer inloggen</text><circle r=\"5\" fill=\"#ffd166\"><animateMotion path=\"M30 70 L90 60 L150 75 L210 120 L270 140 L330 135\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><text x=\"240\" y=\"170\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">−9,5%</text></svg>",
+   "quiz": {
+    "q": "Welke groep logde in de Vanguard-studie juist vaker in als de aandelenbeurs zakte?",
+    "o": [
+     "Beleggers met alleen aandelen",
+     "Beleggers met alleen obligaties",
+     "Beleggers zonder pensioenrekening"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Karlsson, Loewenstein & Seppi 2009 (J Risk Uncertainty)",
+     "u": "https://link.springer.com/article/10.1007/s11166-009-9060-6"
+    },
+    {
+     "t": "Sicherman e.a., Financial Attention (RFS 2016)",
+     "u": "https://ideas.repec.org/a/oup/rfinst/v29y2016i4p863-897..html"
+    },
+    {
+     "t": "Carnegie Mellon University",
+     "u": "https://www.cmu.edu/dietrich/news/news-stories/2015/ostrich-effect.html"
+    }
+   ],
+   "date": "2026-11-27T05:43:41Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Bijna iedereen vindt zichzelf een bovengemiddelde chauffeur",
+   "body": "In 1981 vroeg Ola Svenson Amerikaanse en Zweedse studenten hoe goed ze reden. In de VS vond 93 procent zich vaardiger dan de middelste chauffeur, in Zweden 69 procent. Veiliger dan de mediaan: 88 en 77 procent. Een replicatie met 1.203 deelnemers vond in 2021 hetzelfde patroon.",
+   "take": "Vraag bij je volgende zelfinschatting: 'vergeleken met wie, en op welk criterium precies?' Laat het eventueel iemand anders inschatten.",
+   "deep": "## Hoe het werkt\n\nAls je jezelf vergelijkt met 'de gemiddelde chauffeur', vergelijk je twee heel verschillende dingen. Over jezelf weet je veel: je goede bedoelingen, je ervaring, de keren dat je net op tijd remde. Van anderen zie je vooral de fouten: de bumperklever, de man die zonder pinker van rijstrook wisselt.\n\nDaarnaast kies je zelf wat 'goed rijden' betekent. De ene vindt vlot invoegen belangrijk, de andere voorzichtigheid. Iedereen kiest ongemerkt de maatstaf waarop hij zelf sterk is. Zo kan bijna iedereen zich bovengemiddeld voelen.\n\n## Een voorbeeld\n\nVraag op een familiefeest wie er goed kan rijden. Weinig mensen zullen zeggen dat ze slechter rijden dan de rest van de familie. Toch kan niet iedereen bij de beste helft horen. En vaak klaagt dezelfde persoon in de file op de Antwerpse ring over 'al die slechte chauffeurs'.\n\n## Wat onderzoek zegt\n\nOla Svenson publiceerde in 1981 in Acta Psychologica een studie met Amerikaanse en Zweedse studenten. Ze moesten zichzelf plaatsen ten opzichte van de andere deelnemers. Voor veiligheid plaatste 88 procent van de Amerikanen en 77 procent van de Zweden zich boven de mediaan. Voor vaardigheid was dat 93 procent in de VS en 69 procent in Zweden.\n\nIn 2021 publiceerden Koppel en collega's in Meta-Psychology een vooraf geregistreerde replicatie met 1.203 deelnemers. Ook daar vond de meerderheid zichzelf vaardiger en veiliger dan gemiddeld.\n\n## Nuance of misverstand\n\nHet is verleidelijk te zeggen dat dit wiskundig onmogelijk is, maar dat klopt maar half. Boven de mediaan kan per definitie maar de helft zitten. Boven het rekenkundig gemiddelde kunnen er wel meer zijn: als een kleine groep heel slecht rijdt, trekt die het gemiddelde naar beneden.\n\nBovendien bestond Svensons groep uit studenten, dus niet uit een doorsnee van alle chauffeurs. Onderzoekers als Roy en Liersch tonen dat een deel van het effect komt doordat mensen 'goed rijden' anders definiëren. Dat is minder irrationeel dan het lijkt, maar het blijft een reden om je eigen oordeel niet blind te vertrouwen.\n\n## Wat je ermee doet\n\nNeem je eigen gevoel van 'ik kan dat goed' als hypothese, niet als feit. Zoek objectieve feedback: een rijles-opfrissing, een rijhulp in je wagen, of iemand die eerlijk is. Hetzelfde geldt op het werk: als je team allemaal denkt dat ze beter presteren dan gemiddeld, spreek dan concrete, meetbare criteria af.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Waar plaats jij jezelf?</text><path d=\"M30 170 Q110 170 140 110 Q180 40 220 110 Q250 170 330 170\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><line x1=\"180\" y1=\"50\" x2=\"180\" y2=\"180\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><text x=\"180\" y=\"198\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">mediaan: 50% zit erboven</text><text x=\"90\" y=\"60\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">realiteit</text><text x=\"285\" y=\"60\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">eigen oordeel</text><circle cx=\"180\" cy=\"160\" r=\"7\" fill=\"#ffd166\"><animate attributeName=\"cx\" values=\"180;260;260;180\" keyTimes=\"0;0.4;0.8;1\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"214\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">VS: 93% vond zich vaardiger dan de mediaan</text></svg>",
+   "quiz": {
+    "q": "Waarom is 'meer dan de helft rijdt beter dan gemiddeld' niet per se onmogelijk?",
+    "o": [
+     "Omdat Svenson alleen beroepschauffeurs ondervroeg",
+     "Omdat studenten altijd beter rijden",
+     "Omdat een kleine groep slechte chauffeurs het gemiddelde omlaag kan trekken"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Svenson 1981, Acta Psychologica (TRID)",
+     "u": "https://trid.trb.org/view.aspx?id=180902"
+    },
+    {
+     "t": "Koppel e.a. 2021, replicatie (Meta-Psychology)",
+     "u": "https://open.lnu.se/index.php/metapsychology/article/view/2932"
+    },
+    {
+     "t": "SWOV-bibliotheek",
+     "u": "https://swov.nl/en/publicatie/are-we-all-less-risky-and-more-skilful-our-fellow-drivers"
+    }
+   ],
+   "date": "2026-11-27T05:43:41Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "Zes taken op papier, de rest moet wachten",
+   "body": "De Ivy Lee-methode: schrijf 's avonds de zes belangrijkste taken voor morgen op, in volgorde. Begin met nummer één en ga pas verder als die klaar is. Het bekende verhaal dat staalbaas Charles Schwab daar 25.000 dollar voor betaalde, is een anekdote zonder harde bron.",
+   "take": "Schrijf vanavond zes taken voor morgen op, nummer ze, en open morgen pas je mail als taak één af is.",
+   "deep": "## Hoe het werkt\n\nDe methode telt vier stappen. Eén: schrijf op het einde van je werkdag de zes belangrijkste dingen op die je morgen moet doen. Twee: zet ze in volgorde van belang. Drie: begin de volgende ochtend met taak één en werk die af voor je aan taak twee begint. Vier: wat op het einde van de dag niet klaar is, gaat naar de nieuwe lijst voor morgen.\n\nDe kracht zit in twee beperkingen. Zes is weinig, dus je moet kiezen wat echt telt. En door de vaste volgorde hoef je 's ochtends niet te beslissen waar je begint: dat deed je de avond ervoor al, met een frissere blik op het geheel.\n\n## Een voorbeeld\n\nEen zelfstandige boekhouder in Gent schrijft om vijf uur: 1. aangifte klant A afwerken, 2. offerte klant B, 3. terugbellen over de factuur, 4. btw-listing nakijken, 5. website-tekst, 6. bureau opruimen. 's Ochtends begint ze aan de aangifte, ook al lonkt de inbox. Om vier uur zit ze aan taak vijf; taak zes schuift door naar morgen.\n\n## Wat onderzoek zegt\n\nHet verhaal gaat zo: consultant Ivy Lee bood Charles M. Schwab, voorzitter van Bethlehem Steel, deze methode aan. Lee vroeg niets vooraf: Schwab mocht na drie maanden betalen wat hij het waard vond, en stuurde een cheque van 25.000 dollar. James Clear, die het verhaal populair maakte, plaatst het in 1918 maar geeft zelf toe dat een originele bron bijna niet te vinden is.\n\nFortune schreef in 2022 dat zelfhulpauteurs het verhaal in de jaren 1960 oppikten en de naam 'Ivy Lee-methode' eraan gaven. Er bestaat geen gecontroleerde studie naar precies deze methode.\n\n## Nuance of misverstand\n\nHet getal zes is niet magisch. Sommige mensen werken beter met drie, anderen met vijf. Belangrijker is het principe: een korte, gerangschikte lijst die je de avond voordien maakt.\n\nOok de strikte regel 'pas verder als één klaar is' werkt niet in elke job. Wie veel onderbroken wordt, zoals in de zorg of een klantendienst, kan beter een paar blokken per dag beschermen. En wees eerlijk tegenover jezelf: als dezelfde taak al een week bovenaan staat, is ze waarschijnlijk te groot en moet je ze opsplitsen.\n\n## Wat je ermee doet\n\nProbeer het een week. Zet een herinnering op het einde van je werkdag, schrijf zes taken op papier of in een notitie op je gsm, en nummer ze. Kijk na vijf dagen hoeveel van je nummer-één-taken effectief klaar raakten. Pas daarna het aantal aan tot het bij jouw werk past.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Zes taken, één tegelijk</text><rect x=\"90\" y=\"38\" width=\"180\" height=\"21\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"104\" y=\"53\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">1</text><text x=\"180\" y=\"53\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">taak 1</text><path d=\"M248 49 l5 5 l9 -10\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1\" keyTimes=\"0;0.12;0.15;1\" dur=\"8s\" repeatCount=\"indefinite\"/></path><rect x=\"90\" y=\"65\" width=\"180\" height=\"21\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"104\" y=\"80\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">2</text><text x=\"180\" y=\"80\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">taak 2</text><path d=\"M248 76 l5 5 l9 -10\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1\" keyTimes=\"0;0.25;0.28;1\" dur=\"8s\" repeatCount=\"indefinite\"/></path><rect x=\"90\" y=\"92\" width=\"180\" height=\"21\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"104\" y=\"107\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">3</text><text x=\"180\" y=\"107\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">taak 3</text><path d=\"M248 103 l5 5 l9 -10\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1\" keyTimes=\"0;0.38;0.40;1\" dur=\"8s\" repeatCount=\"indefinite\"/></path><rect x=\"90\" y=\"119\" width=\"180\" height=\"21\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"104\" y=\"134\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">4</text><text x=\"180\" y=\"134\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">taak 4</text><path d=\"M248 130 l5 5 l9 -10\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1\" keyTimes=\"0;0.50;0.53;1\" dur=\"8s\" repeatCount=\"indefinite\"/></path><rect x=\"90\" y=\"146\" width=\"180\" height=\"21\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"104\" y=\"161\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">5</text><text x=\"180\" y=\"161\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">taak 5</text><path d=\"M248 157 l5 5 l9 -10\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1\" keyTimes=\"0;0.62;0.65;1\" dur=\"8s\" repeatCount=\"indefinite\"/></path><rect x=\"90\" y=\"173\" width=\"180\" height=\"21\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"104\" y=\"188\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">6</text><text x=\"180\" y=\"188\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">taak 6</text><path d=\"M248 184 l5 5 l9 -10\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\" opacity=\"0\"><animate attributeName=\"opacity\" values=\"0;0;1;1\" keyTimes=\"0;0.75;0.78;1\" dur=\"8s\" repeatCount=\"indefinite\"/></path><text x=\"180\" y=\"210\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">pas naar 2 als 1 klaar is</text></svg>",
+   "quiz": {
+    "q": "Wat is eerlijk gezegd over het verhaal van de 25.000 dollar?",
+    "o": [
+     "Het staat in de jaarrekening van Bethlehem Steel",
+     "Het werd bewezen in een gecontroleerd experiment",
+     "Het is een populaire anekdote zonder harde originele bron"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "James Clear, The Ivy Lee Method",
+     "u": "https://jamesclear.com/ivy-lee"
+    },
+    {
+     "t": "Fortune (2022)",
+     "u": "https://fortune.com/2022/09/01/dark-history-executive-to-do-list-productivity-history-jim-edwards/"
+    }
+   ],
+   "date": "2026-11-27T05:43:41Z"
+  },
+  {
+   "cat": "productiviteit",
+   "title": "Inbox Zero ging nooit over een lege inbox",
+   "body": "Merlin Mann schreef in 2006 op zijn blog 43 Folders een reeks over Inbox Zero. De 'nul' sloeg volgens hem niet op het aantal mails, maar op hoeveel tijd je hoofd in je inbox zit. In 2007 gaf hij er een bekende lezing over bij Google.",
+   "take": "Beslis bij elke mail meteen: wissen, doorgeven, antwoorden, uitstellen of doen. Daarna sluit je je mailprogramma.",
+   "deep": "## Hoe het werkt\n\nMann vertrok van één idee: je inbox is een plek om binnenkomende dingen te verwerken, geen plek om te wonen. Wie de hele dag in zijn mail blijft hangen, laat anderen bepalen waar zijn aandacht naartoe gaat.\n\nDaarom gaf hij elke mail een beperkt aantal mogelijke beslissingen: wissen of archiveren, doorgeven aan wie het moet doen, kort antwoorden, uitstellen naar een takenlijst, of meteen doen als het snel kan. Het systeem leunt op Getting Things Done van David Allen. Een lege inbox kan een bijwerking zijn, maar is niet het doel.\n\n## Een voorbeeld\n\nJe opent je mail om negen uur en ziet 34 nieuwe berichten. Je leest ze niet allemaal half om ze daarna te laten staan. Nieuwsbrieven gaan weg. De vraag van een collega over een planning stuur je door naar wie die planning maakt. Een korte vraag beantwoord je in twee zinnen. Een offerte die een uur werk vraagt, zet je in je agenda voor die namiddag. Na twintig minuten sluit je je mailprogramma.\n\n## Wat onderzoek zegt\n\nMerlin Mann publiceerde zijn Inbox Zero-reeks in 2006 op 43folders.com. Op 23 juli 2007 gaf hij er een Google Tech Talk over in Mountain View; de video en slides staan nog op zijn site. In die lezing beschreef hij de werkwoorden waarmee je elke mail afhandelt.\n\nVolgens samenvattingen van onder meer TechTarget zei Mann dat de nul staat voor 'de hoeveelheid tijd dat je brein in je inbox zit'. Er is geen wetenschappelijke studie die Inbox Zero als methode heeft getest; het is een praktische vuistregel.\n\n## Nuance of misverstand\n\nHet grootste misverstand is dat je faalt als er nog mails in je inbox staan. Sommige mensen gaan net daardoor nog vaker kijken, om het tellertje op nul te houden. Dat is precies het omgekeerde van wat Mann bedoelde. Hij zei later zelf dat de term verkeerd begrepen wordt.\n\nOok is 'alles archiveren' geen oplossing. Een mail wegzetten zonder beslissing verschuift het probleem alleen maar naar een andere map.\n\n## Wat je ermee doet\n\nKies twee of drie vaste momenten per dag om je mail te verwerken, en neem bij elk bericht één beslissing uit het rijtje. Zet taken die langer duren in je agenda of op je takenlijst, niet in je inbox. Het doel is niet een lege map, maar dat je de rest van de dag aan iets anders kunt denken.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Elke mail krijgt één beslissing</text><rect x=\"20\" y=\"85\" width=\"70\" height=\"50\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"55\" y=\"115\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">inbox</text><path d=\"M90 110 L230 45\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"24;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><path d=\"M230 40 l8 5 l-8 5 z\" fill=\"#fff\"/><text x=\"246\" y=\"49\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">wissen</text><path d=\"M90 110 L230 78\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"24;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><path d=\"M230 73 l8 5 l-8 5 z\" fill=\"#fff\"/><text x=\"246\" y=\"82\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">doorgeven</text><path d=\"M90 110 L230 111\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"24;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><path d=\"M230 106 l8 5 l-8 5 z\" fill=\"#fff\"/><text x=\"246\" y=\"115\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">antwoorden</text><path d=\"M90 110 L230 144\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"24;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><path d=\"M230 139 l8 5 l-8 5 z\" fill=\"#fff\"/><text x=\"246\" y=\"148\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">uitstellen</text><path d=\"M90 110 L230 177\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"24;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><path d=\"M230 172 l8 5 l-8 5 z\" fill=\"#fff\"/><text x=\"246\" y=\"181\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">doen</text><text x=\"180\" y=\"214\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">nul = minder tijd ín je inbox</text></svg>",
+   "quiz": {
+    "q": "Waar sloeg de 'nul' in Inbox Zero volgens Merlin Mann op?",
+    "o": [
+     "Het aantal ongelezen mails",
+     "De tijd dat je hoofd in je inbox zit",
+     "Het aantal mappen in je mailprogramma"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "43 Folders, Inbox Zero-reeks",
+     "u": "https://www.43folders.com/43f-series-inbox-zero"
+    },
+    {
+     "t": "43 Folders, Google Tech Talk 2007",
+     "u": "https://www.43folders.com/2007/07/25/merlins-inbox-zero-talk"
+    },
+    {
+     "t": "TechTarget, Inbox Zero",
+     "u": "https://www.techtarget.com/whatis/definition/inbox-zero"
+    },
+    {
+     "t": "Inc.",
+     "u": "https://www.inc.com/betsy-mikel/the-guy-who-invented-inbox-zero-says-were-all-doing-it-wrong.html"
+    }
+   ],
+   "date": "2026-11-27T05:43:41Z"
+  },
+  {
+   "cat": "taal",
+   "title": "'Boss' is eigenlijk gewoon ons woord 'baas'",
+   "body": "Het Engelse 'boss' komt van het Nederlandse 'baas'. Het woord kwam in het Amerikaans-Engels via de Nederlandse kolonie Nieuw-Nederland, met Nieuw-Amsterdam, het latere New York. Volgens Merriam-Webster werd het geleend uit het Nederlands van New York en New Jersey. De eerste zekere Engelse vermelding dateert van 1806.",
+   "take": "Vertel het de volgende keer dat een Engelstalige collega 'the boss' zegt: dat is gewoon Nederlands met een Amerikaans accent.",
+   "deep": "## Hoe het werkt\n\nIn de 17e eeuw stichtten Nederlanders langs de Hudsonrivier de kolonie Nieuw-Nederland, met Nieuw-Amsterdam op het eiland Manhattan. In de jaren 1660 namen de Engelsen de kolonie over, maar de Nederlandstalige bewoners bleven. Generaties lang werd in New York en New Jersey nog Nederlands gesproken.\n\nEngelstalige buren hoorden de Nederlandse knechten hun meester 'baas' noemen. Ze namen het woord over en pasten de uitspraak en spelling aan. Zo werd 'baas' in het Engels 'boss'.\n\n## Een voorbeeld\n\nWie vandaag in New York rondloopt, botst nog op meer Nederlandse sporen. Brooklyn komt van Breukelen, Harlem van Haarlem. 'Boss' hoort in hetzelfde rijtje, alleen merk je het minder omdat het woord zo gewoon is geworden. In het Engels kun je zelfs 'to boss someone around' zeggen, iets wat wij weer terugleenden als 'bazig doen'.\n\n## Wat onderzoek zegt\n\nEtymonline omschrijft 'boss' als een Amerikaans-Engels woord, afkomstig van het Nederlandse 'baas', meester, uit het Middelnederlandse 'baes'. Merriam-Webster zegt dat het in de late 17e en de 18e eeuw ontleend werd aan het Nederlands van New York en New Jersey.\n\nWord Origins wijst erop dat een vaak geciteerde vermelding uit de 17e eeuw niet terug te vinden is. De eerste vermelding die met zekerheid te controleren is, staat in een brief van schrijver Washington Irving van 26 mei 1806.\n\n## Nuance of misverstand\n\nWaarom kozen Amerikanen dit woord? Merriam-Webster suggereert dat ze een afkeer hadden van 'master', dat in Brits Engels gangbaar was. Sommige media koppelen dat aan de slavernij, maar dat is een populaire verklaring, geen bewezen feit.\n\nOok waar 'baas' zelf vandaan komt, is onzeker. Woordenboeken noemen de oorsprong duister; mogelijk was het oorspronkelijk een familiewoord, maar dat is niet zeker. En pas op voor sites die beweren dat 'boss' van het Engelse 'base' komt: daar is geen steun voor.\n\n## Wat je ermee doet\n\nWoorden reizen met mensen mee. Als je een Engels woord tegenkomt dat vreemd vertrouwd klinkt, zoals 'cookie' (van 'koekje'), zoek dan eens de herkomst op in een etymologisch woordenboek zoals Etymonline. Je ontdekt vaak dat het Nederlands er meer in heeft bijgedragen dan je denkt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Een woord steekt de oceaan over</text><path d=\"M40 150 Q180 60 320 150\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"5 5\"/><path d=\"M312 141 l10 10 l-13 3 z\" fill=\"#fff\"/><text x=\"55\" y=\"175\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Nederland</text><text x=\"305\" y=\"175\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Nieuw-Nederland</text><text x=\"305\" y=\"192\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">(nu New York)</text><g><animateMotion path=\"M40 150 Q180 60 320 150\" dur=\"6s\" repeatCount=\"indefinite\"/><rect x=\"-24\" y=\"-12\" width=\"48\" height=\"22\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"0\" y=\"4\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">baas<animate attributeName=\"opacity\" values=\"1;1;0;0;1\" keyTimes=\"0;0.45;0.5;0.95;1\" dur=\"6s\" repeatCount=\"indefinite\"/></text><text x=\"0\" y=\"4\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\" opacity=\"0\">boss<animate attributeName=\"opacity\" values=\"0;0;1;1;0\" keyTimes=\"0;0.45;0.5;0.95;1\" dur=\"6s\" repeatCount=\"indefinite\"/></text></g><text x=\"180\" y=\"212\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">eerste zekere Engelse vermelding: 1806</text></svg>",
+   "quiz": {
+    "q": "Via welke weg kwam 'baas' in het Engels terecht?",
+    "o": [
+     "Via de Nederlandse kolonie rond het huidige New York",
+     "Via Vlaamse wevers in Londen",
+     "Via Nederlandse zeelieden in Australië"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Etymonline, boss",
+     "u": "https://www.etymonline.com/word/boss"
+    },
+    {
+     "t": "Merriam-Webster, boss",
+     "u": "https://www.merriam-webster.com/dictionary/boss"
+    },
+    {
+     "t": "Word Origins, boss",
+     "u": "https://wordorigins.org/big-list-entries/boss"
+    }
+   ],
+   "date": "2026-11-27T05:43:41Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Nieuw-Zeeland draagt de naam van een Nederlandse provincie",
+   "body": "Abel Tasman zag Nieuw-Zeeland op 13 december 1642 en noemde het Staten Landt. Pas later gaven Nederlandse cartografen het de naam Nova Zeelandia, naar de provincie Zeeland. Australië heette toen al Nieuw-Holland, dus kreeg de andere grote zeeprovincie ook een 'nieuw' land.",
+   "take": "Zit er 'nieuw' of een vertrouwde naam in een buitenlandse plaatsnaam? Dan vertelt die vaak wie er eerst kaarten tekende.",
+   "deep": "## Hoe het werkt\n\nEuropese ontdekkingsreizigers gaven ver gelegen kusten vaak namen uit hun thuisland. Nederlandse zeevaarders van de Verenigde Oost-Indische Compagnie (VOC) brachten de westkust van Australië in kaart en noemden dat Nieuw-Holland, naar het gewest Holland.\n\nToen er verder oostelijk een nieuw land opdook, lag het voor de hand om de andere belangrijke zeeprovincie te gebruiken: Zeeland. Zo kwamen Nieuw-Holland en Nieuw-Zeeland naast elkaar op de kaart te staan, net zoals Holland en Zeeland thuis buren waren.\n\n## Een voorbeeld\n\nZeeland ligt vlak tegen de Belgische grens. Wie vanuit Brugge of Knokke even naar Sluis of Vlissingen rijdt, staat in de provincie waarnaar een land aan de andere kant van de wereld genoemd is. Het 'nieuwe' Zeeland is vele malen groter dan het origineel, maar de naam komt van daar.\n\n## Wat onderzoek zegt\n\nTe Ara, de officiële encyclopedie van Nieuw-Zeeland, beschrijft hoe Abel Tasman het land op 13 december 1642 voor het eerst zag. Na een bloedige confrontatie met Māori in Golden Bay vertrok hij zonder aan land te gaan. Hij noemde de kust Staten Landt, omdat hij dacht dat ze misschien vastzat aan Staten Landt bij Zuid-Amerika.\n\nToen bleek dat dat Zuid-Amerikaanse Staten Landt een eiland was, verdween die naam. Volgens Te Ara zette Joan Blaeu, officieel cartograaf van de VOC, de Latijnse naam Nova Zeelandia rond 1646 op een wereldkaart. In het Engels werd dat New Zealand.\n\n## Nuance of misverstand\n\nTasman zelf noemde het land dus niet Nieuw-Zeeland; dat deden cartografen achteraf. Over het exacte jaar en de eerste kaart verschillen de bronnen wat. Soms hoor je ook dat de naam naar het Deense eiland Seeland zou verwijzen, maar Te Ara verbindt hem duidelijk met de Nederlandse provincie.\n\nEn de naam was nooit de enige. De Māori woonden er al eeuwen voor Tasman kwam, en vandaag wordt de Māori-naam Aotearoa vaak naast New Zealand gebruikt.\n\n## Wat je ermee doet\n\nPlaatsnamen zijn kleine geschiedenislessen. Kijk op een wereldkaart naar namen als Tasmanië, Kaap Hoorn of Staten Island: allemaal Nederlandse sporen uit de 17e eeuw. Wie de naam begrijpt, onthoudt makkelijker wie er wanneer kwam, en vergeet niet dat er vaak al een oudere naam was.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Twee provincies, twee nieuwe landen</text><rect x=\"30\" y=\"50\" width=\"100\" height=\"34\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"80\" y=\"72\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Holland</text><rect x=\"230\" y=\"50\" width=\"110\" height=\"34\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"285\" y=\"72\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Nieuw-Holland</text><text x=\"285\" y=\"100\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">(Australië)</text><rect x=\"30\" y=\"130\" width=\"100\" height=\"34\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"80\" y=\"152\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Zeeland</text><rect x=\"230\" y=\"130\" width=\"110\" height=\"34\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"285\" y=\"152\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Nova Zeelandia</text><text x=\"285\" y=\"180\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">(Nieuw-Zeeland)</text><line x1=\"132\" y1=\"67\" x2=\"222\" y2=\"67\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"24;0\" dur=\"1.5s\" begin=\"0s\" repeatCount=\"indefinite\"/></line><path d=\"M220 62 l9 5 l-9 5 z\" fill=\"#fff\"/><line x1=\"132\" y1=\"147\" x2=\"222\" y2=\"147\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" values=\"24;0\" dur=\"1.5s\" begin=\"1.5s\" repeatCount=\"indefinite\"/></line><path d=\"M220 142 l9 5 l-9 5 z\" fill=\"#ffd166\"/><text x=\"180\" y=\"208\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Tasman zag het land in 1642</text></svg>",
+   "quiz": {
+    "q": "Hoe noemde Abel Tasman Nieuw-Zeeland zelf in 1642?",
+    "o": [
+     "Nova Zeelandia",
+     "Staten Landt",
+     "Nieuw-Holland"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Te Ara, European discovery of New Zealand",
+     "u": "https://www.teara.govt.nz/en/european-discovery-of-new-zealand/3"
+    },
+    {
+     "t": "Te Ara, Place names",
+     "u": "https://teara.govt.nz/en/place-names/1"
+    }
+   ],
+   "date": "2026-11-27T05:43:41Z"
+  },
+  {
+   "cat": "taal",
+   "title": "'Emoji' heeft niets met 'emotie' te maken",
+   "body": "'Emoji' is Japans: 'e' betekent beeld, 'moji' betekent teken. Dat het op het Engelse 'emotion' lijkt, is puur toeval. In 1999 bracht NTT Docomo 176 emoji uit voor gsm's en piepers, onder leiding van Shigetaka Kurita. Het MoMA in New York nam die set in 2016 op in zijn collectie.",
+   "take": "Gebruik 'emoji' voor plaatjes en 'emoticon' voor gezichtjes uit leestekens zoals :-) — dat laatste woord komt wél van emotie.",
+   "deep": "## Hoe het werkt\n\nHet Japans schrijft 'emoji' als 絵文字. Het eerste teken, 'e', betekent tekening of beeld. De twee volgende vormen 'moji', teken of letter. Een emoji is dus letterlijk een 'beeldteken': een klein plaatje dat je typt zoals een letter.\n\nHet Engelse woord 'emotion' komt uit het Latijn en heeft een totaal andere geschiedenis. Dat beide woorden met 'emo' beginnen, is een toevallige klankgelijkenis. Omdat veel emoji gezichtjes met gevoelens zijn, lijkt het verband logisch, maar het bestaat niet.\n\n## Een voorbeeld\n\nJe stuurt een duim omhoog, een pizza en een regenwolkje naar je vriendengroep. Geen van die drie drukt een emotie uit; het zijn gewoon beeldtekens. Een gezichtje met tranen van het lachen is ook een emoji, maar het woord zegt alleen dat het een plaatje is, niet dat het over gevoel gaat.\n\n## Wat onderzoek zegt\n\nHet MoMA beschrijft in zijn collectie hoe de Japanse telecomfirma NTT Docomo in 1999 de oorspronkelijke 176 emoji uitbracht voor mobiele telefoons en piepers, met de uitleg 'e' is beeld en 'moji' is teken. Het museum nam de set in 2016 op in zijn collectie.\n\nHet project werd geleid door Shigetaka Kurita, toen planner bij de i-mode-dienst van Docomo en geen opgeleide ontwerper, aldus de Japanse overheid. De tekens waren gebaseerd op onder meer manga, symbolen en bestaande emoticons. Science Friday benadrukt dat de gelijkenis met 'emotion' louter toeval is.\n\n## Nuance of misverstand\n\nKurita wordt vaak 'de uitvinder van de emoji' genoemd, maar die bewering is de voorbije jaren bijgesteld: andere Japanse aanbieders hadden al eerdere sets. Zijn 176 tekens zijn wel de bekendste vroege set.\n\nVerwar emoji ook niet met emoticons. Een emoticon zoals :-) of ;-) is opgebouwd uit gewone leestekens, en dat woord is wel een samentrekking van 'emotion' en 'icon'. Zo hebben twee woorden die bijna hetzelfde klinken een totaal verschillende afkomst.\n\n## Wat je ermee doet\n\nGebruik het als geheugensteun bij het leren van talen: woorden die op elkaar lijken, zijn niet altijd familie. Twijfel je, zoek de etymologie op voor je een verband aanneemt. En de volgende keer dat iemand zegt dat emoji 'emotie-icoontjes' zijn, weet jij beter.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"24\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">emoji = e + moji</text><rect x=\"40\" y=\"50\" width=\"110\" height=\"70\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"95\" y=\"80\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">e</text><text x=\"95\" y=\"100\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">beeld</text><rect x=\"210\" y=\"50\" width=\"110\" height=\"70\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"265\" y=\"80\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">moji</text><text x=\"265\" y=\"100\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">teken</text><text x=\"180\" y=\"90\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">+</text><circle cx=\"180\" cy=\"165\" r=\"22\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"r\" values=\"18;24;18\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><circle cx=\"172\" cy=\"160\" r=\"3\" fill=\"#ffd166\"/><circle cx=\"188\" cy=\"160\" r=\"3\" fill=\"#ffd166\"/><path d=\"M170 171 Q180 180 190 171\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"180\" y=\"208\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">geen 'emotie': toeval</text></svg>",
+   "quiz": {
+    "q": "Wat betekent 'moji' in het woord 'emoji'?",
+    "o": [
+     "Gevoel",
+     "Gezicht",
+     "Teken"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "MoMA, Shigetaka Kurita: Emoji",
+     "u": "https://www.moma.org/collection/works/196070"
+    },
+    {
+     "t": "Science Friday, The origin of the word emoji",
+     "u": "https://www.sciencefriday.com/articles/the-origin-of-the-word-emoji/"
+    },
+    {
+     "t": "Japanse overheid, Highlighting Japan",
+     "u": "https://gov-online.go.jp/eng/publicity/book/hlj/html/201808/201808_12_en.html"
+    }
+   ],
+   "date": "2026-11-27T05:43:41Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "De Marlboro Man verkocht een vroegere vrouwensigaret",
+   "body": "Philip Morris lanceerde Marlboro in de jaren 1920 als sigaret voor vrouwen, met de slogan 'Mild as May' en een mondstuk dat lippenstiftsporen verborg. In de jaren 1950 golden filtersigaretten als vrouwelijk. Reclamebureau Leo Burnett maakte er vanaf 1954 een stoer mannenmerk van, met de cowboy als symbool.",
+   "take": "Onthoud bij elke reclame: het product verandert vaak nauwelijks, het verhaal eromheen wel. Vraag je af wat er écht verkocht wordt.",
+   "deep": "## Hoe het werkt\n\nEen merk is meer dan een product; het is een verzameling associaties. Wie die associaties verandert, verandert voor wie het merk is. Leo Burnett liet daarom de gezondheidsclaims en technische details links liggen en bouwde de reclame rond een figuur met een duidelijk karakter.\n\nDe cowboy stond in de Amerikaanse cultuur voor vrijheid, buitenleven en mannelijkheid. Door die figuur steeds opnieuw naast de sigaret te tonen, ging dat beeld aan het merk kleven. De sigaret zelf hoefde daarvoor amper te veranderen.\n\n## Een voorbeeld\n\nStel je een merk voor dat vroeger reclame maakte met elegante dames en een rood mondstukje tegen lippenstiftvlekken. Enkele jaren later zie je dezelfde naam op affiches met een ruige man te paard, ver van de stad. Wie die evolutie niet kent, zou nooit vermoeden dat het om hetzelfde merk gaat.\n\n## Wat onderzoek zegt\n\nVolgens Business Insider en het tabaksarchief van Stanford werd Marlboro midden jaren 1920 als vrouwensigaret gelanceerd; de bronnen noemen 1924 of 1927. Slogans als 'Mild as May' en mondstukken die lippenstift camoufleerden, mikten duidelijk op vrouwen, aldus onder meer de University of Alabama.\n\nIn de jaren 1950 begonnen studies te wijzen op een verband tussen roken en longkanker. Mannen zochten veiliger ogende filtersigaretten, maar filters hadden een vrouwelijk imago. Philip Morris gaf het merk aan Leo Burnett, en in 1954 verscheen de Marlboro Man. Volgens verschillende bronnen haalde het bureau inspiratie uit een fotoreportage over een Texaanse cowboy in Life uit 1949.\n\n## Nuance of misverstand\n\nDe Marlboro Man was in het begin niet altijd een cowboy. Er waren ook andere stoere types, zoals een getatoeëerde man, voor de cowboy de vaste vorm werd.\n\nBelangrijker: deze campagne is geen onschuldig succesverhaal. Ze maakte een product populair dat ernstige ziektes veroorzaakt, op het moment dat de gezondheidsrisico's aan het licht kwamen. Ze wordt in marketingopleidingen bestudeerd als voorbeeld van imagobouw, en tegelijk als waarschuwing over wat reclame kan verbergen.\n\n## Wat je ermee doet\n\nKijk bij reclame eerst naar wat er niet over het product gezegd wordt. Gaat de boodschap over smaak, prijs of kwaliteit, of over wie je wordt als je het koopt? Bij een energiedrankje, een auto of een parfum zie je hetzelfde mechanisme. Wie het herkent, kiest bewuster.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Zelfde merk, ander verhaal</text><rect x=\"25\" y=\"55\" width=\"130\" height=\"100\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"90\" y=\"80\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">jaren 1920</text><text x=\"90\" y=\"102\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">'Mild as May'</text><text x=\"90\" y=\"120\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">voor vrouwen</text><text x=\"90\" y=\"138\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">tip tegen lippenstift</text><rect x=\"205\" y=\"55\" width=\"130\" height=\"100\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"270\" y=\"80\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">vanaf 1954</text><text x=\"270\" y=\"102\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">cowboy</text><text x=\"270\" y=\"120\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">filter = stoer</text><text x=\"270\" y=\"138\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">voor mannen</text><circle r=\"6\" fill=\"#06d6a0\"><animateMotion path=\"M155 105 L205 105\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><line x1=\"155\" y1=\"105\" x2=\"200\" y2=\"105\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M198 100 l8 5 l-8 5 z\" fill=\"#fff\"/><text x=\"180\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">product bijna hetzelfde, imago omgedraaid</text></svg>",
+   "quiz": {
+    "q": "Voor wie werd Marlboro oorspronkelijk in de markt gezet?",
+    "o": [
+     "Voor cowboys in Texas",
+     "Voor vrouwen",
+     "Voor soldaten"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Stanford, Tobacco ads: Marlboro",
+     "u": "https://tobacco.stanford.edu/cigarettes/womens-cigarettes/marlboro"
+    },
+    {
+     "t": "University of Alabama, CSTS: Marlboro",
+     "u": "https://csts.ua.edu/btba/history/marlboro/"
+    },
+    {
+     "t": "Business Insider",
+     "u": "https://www.businessinsider.in/science/news/vintage-ads-show-the-hidden-legacy-of-the-marlboro-man-the-brand-first-became-popular-as-a-womens-cigarette-/amp_articleshow/74229422.cms"
+    },
+    {
+     "t": "NPR (2002)",
+     "u": "https://www.npr.org/2002/10/21/1152015/present-at-the-creation-the-marlboro-man"
+    }
+   ],
+   "date": "2026-11-27T05:43:41Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Apples beroemdste tv-spot liep maar één keer nationaal",
+   "body": "De '1984'-reclame voor de Macintosh, geregisseerd door Ridley Scott en gemaakt door bureau Chiat/Day, liep op 22 januari 1984 tijdens de Super Bowl op CBS. Dat was de enige nationale uitzending in de VS. Eerder liep hij alleen één keer lokaal in Idaho, om mee te dingen naar een reclameprijs.",
+   "take": "Schaarste kan aandacht versterken: één opvallend moment met veel gespreksstof weegt soms zwaarder dan honderd herhalingen.",
+   "deep": "## Hoe het werkt\n\nDe meeste reclame werkt door herhaling: hoe vaker je een spot ziet, hoe beter je het merk onthoudt. '1984' deed het omgekeerde. De spot verscheen één keer, op het moment dat de grootste groep Amerikanen tegelijk tv keek.\n\nDaarna nam de rest het over. Nieuwsprogramma's en kranten praatten erover en toonden fragmenten, mensen bespraken hem op het werk. Die gratis aandacht en het idee dat je iets bijzonders kon missen, maakten de spot groter dan een gewone campagne.\n\n## Een voorbeeld\n\nVergelijk het met een merk dat tijdens een finale van de Rode Duivels één opvallende spot uitzendt, die daarna nergens meer op tv komt. De volgende dag gaat het gesprek aan de koffieautomaat niet alleen over de match, maar ook over die ene reclame. Wie hem miste, zoekt hem op.\n\n## Wat onderzoek zegt\n\nVolgens Britannica en History.com werd '1984' uitgezonden tijdens Super Bowl XVIII op 22 januari 1984. De spot verwees naar George Orwells roman: een vrouw gooit een voorhamer door een scherm waarop een Big Brother-figuur spreekt. Ridley Scott regisseerde; Steve Jobs werkte samen met Lee Clow van Chiat/Day.\n\nHet bestuur van Apple vond de spot maar niets en vroeg Chiat/Day de gekochte zendtijd door te verkopen. Het bureau raakte slechts een deel kwijt, dus werd de spot toch uitgezonden. Op 31 december 1983 liep hij al één keer op de lokale zender KMVT in Twin Falls, Idaho, zodat hij in aanmerking kwam voor de Clio Awards. Britannica merkt op dat het feit dat hij maar één keer nationaal liep, bijdroeg aan het succes.\n\n## Nuance of misverstand\n\n'Maar één keer uitgezonden' klopt dus niet helemaal: het was de enige nationale uitzending, na een lokale. Daarna werd de spot nog vaak getoond in nieuwsuitzendingen en later online, maar niet meer als betaalde nationale reclame.\n\nDe strategie is ook niet zomaar te kopiëren. '1984' werkte door een uitzonderlijke combinatie van timing, een bekende regisseur en een gewaagd idee. Eén spot zonder echt verrassende inhoud levert vooral een dure uitzending op.\n\n## Wat je ermee doet\n\nAls je iets lanceert, een product, een evenement of zelfs een presentatie, denk dan na over één sterk moment dat mensen willen doorvertellen. Kies het moment waarop je publiek echt kijkt, en zorg dat er een verhaal in zit dat anderen zelf willen navertellen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Hoe vaak liep '1984' op tv?</text><line x1=\"30\" y1=\"120\" x2=\"330\" y2=\"120\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"90\" cy=\"120\" r=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"90\" y=\"95\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">31 dec 1983</text><text x=\"90\" y=\"148\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">lokaal, Idaho</text><text x=\"90\" y=\"164\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">(voor de Clio)</text><circle cx=\"260\" cy=\"120\" r=\"8\" fill=\"#ffd166\"><animate attributeName=\"r\" values=\"8;16;8\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><text x=\"260\" y=\"90\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">22 jan 1984</text><text x=\"260\" y=\"150\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Super Bowl XVIII</text><text x=\"260\" y=\"166\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">enige nationale keer</text><text x=\"180\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">zeldzaamheid maakte het spot extra besproken</text></svg>",
+   "quiz": {
+    "q": "Waarom liep '1984' al op 31 december 1983 op een lokale zender in Idaho?",
+    "o": [
+     "Om in aanmerking te komen voor de Clio Awards",
+     "Omdat Apple de spot daar eerst wilde testen",
+     "Omdat CBS de spot eerst had geweigerd"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Britannica",
+     "u": "https://www.britannica.com/story/what-was-the-super-bowls-first-blockbuster-commercial"
+    },
+    {
+     "t": "History.com",
+     "u": "https://www.history.com/this-day-in-history/january-22/apple-1984-commercial-airs-during-super-bowl-xviii"
+    },
+    {
+     "t": "Mental Floss",
+     "u": "https://www.mentalfloss.com/technology/computers/how-apples-1984-super-bowl-ad-was-almost-canceled"
+    }
+   ],
+   "date": "2026-11-27T05:43:41Z"
+  }
+ ],
  "dives": [
   {
    "id": "2026-11-27",
