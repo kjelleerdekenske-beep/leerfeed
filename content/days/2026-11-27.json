@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T05:46:06Z",
+ "updated": "2026-11-27T05:46:44Z",
  "cards": [
   {
    "cat": "psychologie",
@@ -656,6 +656,334 @@
     }
    ],
    "date": "2026-11-27T05:46:06Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Kattenogen gloeien niet, ze weerkaatsen jouw licht",
+   "body": "Kattenogen maken zelf geen licht. Achter hun netvlies zit een spiegelende laag, het tapetum lucidum. Licht dat de lichtgevoelige cellen mist, kaatst terug en krijgt een tweede kans. Daardoor zien katten beter in het schemerdonker. Het deel dat weer naar buiten ontsnapt, zie jij als groene of gele gloed in je koplampen.",
+   "take": "Zie je 's nachts oplichtende oogjes langs de weg? Rem af: er staat een dier naar je lampen te kijken.",
+   "deep": "## Hoe het werkt\n\nLicht valt door de pupil en de lens op het netvlies. Daar zitten staafjes en kegeltjes die licht opvangen en omzetten in zenuwsignalen. Maar niet elk lichtdeeltje wordt meteen opgevangen: een deel glipt erdoor. Bij mensen verdwijnt dat licht in een donkere laag achter het netvlies. Bij katten zit daar het tapetum lucidum, Latijn voor 'glanzend tapijt'. Die laag werkt als een reflector: ze stuurt het licht terug door het netvlies, zodat de lichtgevoelige cellen een tweede kans krijgen. Wat dan nog overblijft, verlaat het oog langs dezelfde weg als het binnenkwam. Daarom lijkt het oog op te lichten precies in de richting van de lamp, en zie je de gloed alleen als je zelf dicht bij die lichtbron staat.\n\n## Een voorbeeld\n\nJe rijdt 's avonds door een Kempense verkaveling en ziet onder een geparkeerde auto twee groene puntjes. Dat is de buurkat, gevangen in je koplampen. In een bosrijke streek kan het ook een ree zijn: herten en reeën hebben eveneens een tapetum. Neem je met flits een foto van je kat, dan krijg je vaak felle, gekleurde ogen. Bij een foto van je partner zie je hooguit rode ogen.\n\n## Wat onderzoek zegt\n\nDe laag komt voor bij heel wat dieren, waaronder katten, honden, herten, runderen, paarden en fretten. Mensen, varkens, vogels, reptielen en de meeste knaagdieren en primaten hebben er geen. Bij katten bestaat het reflecterende materiaal volgens bronnen uit riboflavine, een B-vitamine, die vooral licht weerkaatst in het kleurgebied waarvoor katten gevoelig zijn. Andere bronnen spreken van guanine: over het precieze materiaal zijn de bronnen het niet eens. De kleur van de gloed verschilt per dier: bij katten meestal groen, bij sommige rassen zoals de Siamees eerder geel. Bij honden varieert ze sterker, zelfs tussen honden van hetzelfde ras.\n\n## Nuance of misverstand\n\nRode ogen op een flitsfoto van een mens zijn geen zwakke versie van kattenogen. Dat rood is licht dat terugkaatst van het netvlies zelf, gekleurd door de bloedvaatjes achterin het oog. Het tapetum heeft ook een prijs: al dat weerkaatste licht verstrooit een beetje, waardoor katten minder scherp zien dan wij. Ze ruilen scherpte in voor gevoeligheid. En nee, katten zien niet in volledige duisternis: zonder enig licht valt er ook niets te weerkaatsen.\n\n## Wat je ermee doet\n\nGebruik de gloed als waarschuwing in het verkeer: oplichtende ogen betekenen een dier dat in je lichtbundel kijkt, vaak nog voor je het lijf ziet. Rem rustig af. Wil je je kat fotograferen zonder spookogen, zet de flits uit en gebruik zacht omgevingslicht, of laat het licht van opzij komen in plaats van vanuit je gsm naast de lens.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><circle cx=\"230\" cy=\"110\" r=\"70\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M285 65 A70 70 0 0 1 285 155\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"6\"/><path d=\"M276 62 A70 70 0 0 1 276 158\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><ellipse cx=\"164\" cy=\"110\" rx=\"8\" ry=\"26\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"10\" y=\"94\" width=\"34\" height=\"32\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"27\" y=\"145\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">lamp</text><path d=\"M44 104 L270 104\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" from=\"24\" to=\"0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><path d=\"M270 116 L44 116\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"6 6\"><animate attributeName=\"stroke-dashoffset\" from=\"24\" to=\"0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><path d=\"M44 116 l8 -4 v8 z\" fill=\"#06d6a0\"/><circle r=\"5\" fill=\"#ffd166\"><animateMotion dur=\"3s\" repeatCount=\"indefinite\" path=\"M44 104 L282 104 L282 116 L44 116\"/></circle><text x=\"205\" y=\"30\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">netvlies</text><text x=\"300\" y=\"30\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">tapetum</text><text x=\"120\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1e kans: netvlies vangt licht</text><text x=\"270\" y=\"200\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">2e kans na spiegel</text><text x=\"100\" y=\"90\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">licht in</text><text x=\"100\" y=\"138\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">gloed terug</text></svg>",
+   "quiz": {
+    "q": "Waarom lichten kattenogen op in je koplampen?",
+    "o": [
+     "Een spiegelende laag achter het netvlies kaatst jouw licht terug",
+     "Kattenogen maken zelf een beetje licht aan",
+     "Hun pupil bevat fluorescerende kristallen"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "WGBH News",
+     "u": "https://www.wgbh.org/news/national/2022-04-11/why-do-cats-eyes-glow-in-the-dark"
+    },
+    {
+     "t": "NPR",
+     "u": "https://www.npr.org/2008/10/31/96414364/why-do-animals-eyes-glow-in-the-dark"
+    },
+    {
+     "t": "Texas Parks & Wildlife",
+     "u": "https://tpwd.texas.gov/publications/nonpwdpubs/young_naturalist/animals/eyeshine/"
+    }
+   ],
+   "date": "2026-11-27T05:46:44Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Troebele ijsblokjes zitten vol gevangen lucht",
+   "body": "Kraantjeswater bevat opgeloste lucht. IJs kan daar veel minder van vasthouden, dus tijdens het bevriezen wordt die lucht weggeduwd. In een ijsblokjesvorm bevriest het water van alle kanten naar binnen. De lucht kan nergens heen en blijft als minuscule belletjes in het midden steken. Die belletjes verstrooien licht: zo krijg je een witte, troebele kern.",
+   "take": "Wil je helder ijs? Laat water in een open koelboxje in de diepvries van boven naar onder bevriezen en snij het troebele stuk weg.",
+   "deep": "## Hoe het werkt\n\nVloeibaar water kan een hoeveelheid lucht opgelost bevatten. IJs kan ook wat lucht opnemen, maar veel minder. Wanneer water bevriest, schuift het groeiende ijsfront de overtollige lucht dus voor zich uit. In een gewone ijsblokjesvorm koelt het water aan alle kanten tegelijk af: bovenaan, onderaan en langs de wanden. Het ijs groeit van buiten naar binnen, en de lucht wordt steeds verder naar het midden geduwd. Als ook dat laatste stukje bevriest, zit de lucht gevangen als ontelbare kleine belletjes. Elk belletje buigt en verstrooit licht, waardoor de kern melkwit oogt. Opgeloste mineralen en andere onzuiverheden worden op dezelfde manier naar het midden gedreven en kunnen bijdragen.\n\n## Een voorbeeld\n\nJe maakt een gin-tonic en de blokjes uit je diepvrieslade hebben een witte kern met soms een barstje erin. Bij een goede cocktailbar zijn de blokken glashelder. Het verschil zit zelden in het water, wel in de manier van bevriezen. Vul een klein koelboxje zonder deksel met water en zet het in de diepvries. Omdat de geïsoleerde wanden en bodem de kou tegenhouden, bevriest het water vooral van bovenaf naar beneden. De lucht wordt naar de bodem geduwd: bovenaan krijg je helder ijs, onderaan een troebel restje.\n\n## Wat onderzoek zegt\n\nEen uitleg van materiaalkundige Nathan Yoder voor Purdue University beschrijft precies dit mechanisme: water houdt meer lucht vast dan ijs, een ijsblokje bevriest van buiten naar binnen en duwt de lucht naar het midden, terwijl helder ijs ontstaat door in één richting te bevriezen. Het Geophysical Institute van de University of Alaska legt uit dat onzuiverheden zich ophopen vlak voor het groeiende ijsoppervlak. Onderzoek aan UC Santa Barbara, besproken in Scientific American, toont dat de vorm van belletjes iets verraadt over hoe het ijs groeide: veel kleine belletjes wijzen op snel bevriezen en veel opgelost gas.\n\n## Nuance of misverstand\n\nVeel mensen denken dat troebel ijs vies is of dat je beter gefilterd water gebruikt. Mineralen spelen wel mee, maar de grootste boosdoener is lucht. Water eerst koken helpt een beetje, want warm water bevat minder opgeloste gassen. Toch blijft het ijs troebel als het nog steeds van alle kanten bevriest, want het probleem zit in de richting van het bevriezen. Troebel ijs is gewoon veilig en smelt even goed, het ziet er alleen minder mooi uit.\n\n## Wat je ermee doet\n\nVoor een feestje: leg een dag op voorhand een koelboxje zonder deksel in de diepvries, haal het blok eruit voor het helemaal bevroren is, en kap of snij de heldere bovenkant in stukken. Voor dagelijks gebruik hoef je niets te veranderen: je weet nu gewoon waarom die witte kern er zit.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"40\" y=\"40\" width=\"140\" height=\"140\" rx=\"10\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"50\" y=\"50\" width=\"120\" height=\"120\" rx=\"8\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"4 4\"><animate attributeName=\"x\" values=\"50;100;50\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"50;100;50\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"width\" values=\"120;20;120\" dur=\"6s\" repeatCount=\"indefinite\"/><animate attributeName=\"height\" values=\"120;20;120\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><g fill=\"#fff\"><circle cx=\"105\" cy=\"105\" r=\"3\"/><circle cx=\"115\" cy=\"112\" r=\"2.5\"/><circle cx=\"108\" cy=\"118\" r=\"2\"/><circle cx=\"118\" cy=\"102\" r=\"2\"/><animate attributeName=\"opacity\" values=\"0;0;1;0\" keyTimes=\"0;0.35;0.5;1\" dur=\"6s\" repeatCount=\"indefinite\"/></g><text x=\"110\" y=\"30\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">bevriest van buiten naar binnen</text><text x=\"110\" y=\"200\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">lucht klemt vast in het midden</text><rect x=\"230\" y=\"60\" width=\"100\" height=\"110\" rx=\"8\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"230\" y=\"60\" width=\"100\" height=\"10\" fill=\"rgba(255,255,255,0.14)\"><animate attributeName=\"height\" values=\"10;90;10\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><path d=\"M280 70 L280 150\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"/><path d=\"M280 158 l-5 -9 h10 z\" fill=\"#06d6a0\"/><text x=\"280\" y=\"45\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">koelbox: van boven</text><text x=\"280\" y=\"190\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">helder ijs, troebel</text><text x=\"280\" y=\"205\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">stukje onderaan</text></svg>",
+   "quiz": {
+    "q": "Wat is de belangrijkste oorzaak van de witte kern in een ijsblokje?",
+    "o": [
+     "Chloor uit het kraantjeswater",
+     "Lucht die door het bevriezen naar het midden wordt geduwd",
+     "Vorst die het ijs aan de binnenkant doet barsten"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Purdue University",
+     "u": "https://engineering.purdue.edu/MSE/aboutus/gotmaterials/Other/yoder.html"
+    },
+    {
+     "t": "University of Alaska Geophysical Institute",
+     "u": "https://www.gi.alaska.edu/alaska-science-forum/principles-growing-clear-ice"
+    },
+    {
+     "t": "Scientific American",
+     "u": "https://www.scientificamerican.com/article/strangely-shaped-bubbles-tell-the-story-of-ices-formation-and-composition/"
+    }
+   ],
+   "date": "2026-11-27T05:46:44Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Wat je 'proeft', ruik je vaak via je keel",
+   "body": "Je tong herkent maar vijf smaken: zoet, zout, zuur, bitter en umami. Dat een aardbei naar aardbei smaakt, komt van geurmoleculen die bij het kauwen en slikken via de achterkant van je keel naar je neus stromen. Dat heet retronasaal ruiken. Je hersenen plakken die geur op je mond, dus je denkt dat je proeft.",
+   "take": "Knijp je neus dicht, eet met gesloten ogen een fruitsnoepje en raad de smaak. Laat dan los en merk het verschil.",
+   "deep": "## Hoe het werkt\n\nEr zijn twee wegen waarlangs geur je neus bereikt. Bij orthonasaal ruiken snuif je lucht van buiten op, zoals wanneer je aan een kop koffie ruikt. Bij retronasaal ruiken komen de geurmoleculen uit je mond: kauwen en slikken duwen lucht vol aroma's langs de achterkant van je keelholte omhoog naar het reukslijmvlies. Daar worden ze door dezelfde geurreceptoren opgepikt. Je tong zelf meet alleen zoet, zout, zuur, bitter en umami. Alles wat je 'smaak' noemt bovenop die vijf, zoals het verschil tussen appel en peer, komt van je neus. Omdat de geur samen met voedsel in je mond binnenkomt, plaatsen je hersenen de sensatie in je mond.\n\n## Een voorbeeld\n\nNeem een Limburgse of Herveaanse kaas. Aan de neus ruikt hij naar zweetvoeten, maar in je mond vinden veel mensen hem lekker en mild. Dat is precies het voorbeeld dat psycholoog Paul Rozin gebruikte: dezelfde geurstoffen kunnen anders aanvoelen naargelang ze van buiten of van binnenuit je neus bereiken. Wie verkouden is en een verstopte neus heeft, merkt het omgekeerde: soep smaakt plots naar zout water.\n\n## Wat onderzoek zegt\n\nRozin publiceerde in 1982 in Perception & Psychophysics een artikel over 'smaak-geurverwarring'. Hij stelde dat reuk het enige 'dubbele' zintuig is: geuren via de neusgaten worden in de buitenwereld geplaatst, geuren via de keel in de mond. Hij merkte ook op dat geen van de grote talen die hij bekeek een gewoon woord heeft voor het geurdeel van smaak. Psycholoog Charles Spence van de universiteit van Oxford ging in 2015 in het tijdschrift Flavour na waar het bekende cijfer vandaan komt dat 75 tot 95 procent van smaak eigenlijk geur zou zijn.\n\n## Nuance of misverstand\n\nDat percentage hoor je vaak, maar Spence vond er geen degelijke onderbouwing voor. Het hangt ervan af wat je 'smaak' noemt: in de volksmond bedoelen we het hele smaakbeeld, wetenschappers bedoelen met smaak enkel wat de tong meet. Een exact cijfer is volgens hem niet te geven. Het idee zelf blijft overeind: geur levert een groot deel van wat je bij eten ervaart, alleen niet een precies te meten '80 procent'. Ook de oude tongkaart met smaakzones is trouwens een mythe.\n\n## Wat je ermee doet\n\nRuik actief tijdens het eten: kauw rustig en adem uit door je neus, dan komen meer aroma's bij je reukslijmvlies. Proef je wijn of koffie, neem dan een slokje en adem daarna uit door je neus. En verlies je je reukvermogen langer dan bij een gewone verkoudheid, vertel het je huisarts: het is meer dan een detail.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><path d=\"M90 190 L90 150 Q60 140 60 110 Q60 40 140 30 Q210 25 225 80 L240 105 L225 110 L228 130 Q228 150 200 150 L200 190\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M222 90 L180 90\" fill=\"none\" stroke=\"rgba(255,255,255,0.5)\" stroke-width=\"2\"/><ellipse cx=\"195\" cy=\"128\" rx=\"22\" ry=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><path d=\"M200 128 Q160 130 150 115 Q145 95 170 88 L215 88\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"5 5\"><animate attributeName=\"stroke-dashoffset\" from=\"20\" to=\"0\" dur=\"1.2s\" repeatCount=\"indefinite\"/></path><circle r=\"4\" fill=\"#ffd166\"><animateMotion dur=\"3s\" repeatCount=\"indefinite\" path=\"M200 128 Q160 130 150 115 Q145 95 170 88 L215 88\"/></circle><circle r=\"4\" fill=\"#06d6a0\"><animateMotion dur=\"3s\" begin=\"1.5s\" repeatCount=\"indefinite\" path=\"M200 128 Q160 130 150 115 Q145 95 170 88 L215 88\"/></circle><text x=\"250\" y=\"85\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">neus: geuren</text><text x=\"250\" y=\"135\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">tong: 5 smaken</text><text x=\"250\" y=\"160\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">kauwen duwt geur</text><text x=\"250\" y=\"175\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">via de keel</text><text x=\"250\" y=\"190\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">naar de neus</text><text x=\"180\" y=\"212\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">neus dicht = smaak weg</text></svg>",
+   "quiz": {
+    "q": "Hoe bereikt de geur van je eten je neus terwijl je kauwt?",
+    "o": [
+     "Via je tong, die geuren doorgeeft aan je zenuwen",
+     "Via je oren en de buis van Eustachius",
+     "Via de achterkant van je keel naar je neusholte"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Rozin 1982, Perception & Psychophysics",
+     "u": "https://link.springer.com/article/10.3758/BF03202667"
+    },
+    {
+     "t": "Spence 2015, Flavour",
+     "u": "https://flavourjournal.biomedcentral.com/track/pdf/10.1186/s13411-015-0040-2"
+    }
+   ],
+   "date": "2026-11-27T05:46:44Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Thee bij je boterham remt je ijzeropname",
+   "body": "Plantaardig ijzer, uit brood, peulvruchten en groenten, neem je minder goed op dan ijzer uit vlees. Vitamine C helpt: het verhoogt de opname van dat plantaardige ijzer. Thee en koffie doen het omgekeerde. In een studie verlaagden ze de ijzeropname uit een broodmaaltijd met 50 tot 90 procent, afhankelijk van de hoeveelheid polyfenolen.",
+   "take": "Drink bij je ontbijt of lunch een glas sinaasappelsap of eet wat fruit, en schuif thee of koffie op naar tussen de maaltijden.",
+   "deep": "## Hoe het werkt\n\nIJzer zit in je eten in twee vormen. Heemijzer komt uit vlees, vis en gevogelte en wordt vlot opgenomen, vrij onafhankelijk van wat je erbij eet. Non-heemijzer zit in planten, in brood, peulvruchten, noten en groenten, en ook in vlees. Het is de grootste ijzerbron in de meeste voedingspatronen, maar hoeveel je ervan opneemt hangt sterk af van de rest van je maaltijd. Vitamine C (ascorbinezuur) bevordert de opname van dat non-heemijzer in je darm. Polyfenolen, de stoffen die thee en koffie hun bittere, wrange smaak geven, binden zich juist aan ijzer en remmen de opname. Ook fytaat uit volkoren granen en peulvruchten remt, en calcium kan de opname van beide vormen verminderen.\n\n## Een voorbeeld\n\nEen typisch Vlaamse lunch: twee boterhammen met kaas of choco en een grote tas koffie of zwarte thee. Een groot deel van het ijzer in die boterhammen is non-heemijzer, en net dat wordt door de koffie of thee geremd. Vervang je de drank door een glas sinaasappelsap, of eet je er een kiwi of paprikareepjes bij, dan haal je meer ijzer uit dezelfde boterhammen.\n\n## Wat onderzoek zegt\n\nHet Office of Dietary Supplements van het Amerikaanse NIH schat de opname van ijzer op ongeveer 14 tot 18 procent bij een gemengd dieet met vlees, vis en vitamine C, en op 5 tot 12 procent bij een vegetarisch dieet. Richard Hurrell en collega's lieten in 1999 in de British Journal of Nutrition proefpersonen een broodmaaltijd eten met verschillende dranken. Vergeleken met water verlaagden dranken met 20 tot 50 milligram polyfenolen per portie de ijzeropname met 50 tot 70 procent. Bij 100 tot 400 milligram was dat 60 tot 90 procent. Zwarte thee hoorde bij de sterkste remmers en melk toevoegen veranderde daar weinig aan.\n\n## Nuance of misverstand\n\nDit betekent niet dat thee of koffie ongezond is of dat iedereen ijzertekort riskeert. Wie gevarieerd eet, heeft meestal genoeg. Het effect telt vooral voor mensen die weinig ijzer binnenkrijgen of veel verliezen, zoals vegetariërs, vrouwen met zware menstruaties en zwangere vrouwen. Laboproeven suggereren dat vitamine C de rem van polyfenolen deels kan compenseren, maar dat is in mensen minder hard bewezen. Neem ook niet zomaar ijzersupplementen: dat doe je best na een bloedonderzoek en overleg met je huisarts.\n\n## Wat je ermee doet\n\nCombineer plantaardige ijzerbronnen met iets vers en zuur: tomaat, paprika, citrus, kiwi of aardbeien. Drink water of sap bij de maaltijd. Hurrell testte de dranken samen met de maaltijd, dus het veiligste is je tas thee of koffie een tijd vóór of na het eten te drinken. Ben je vaak moe en eet je weinig vlees, laat dan je ijzerwaarden eens controleren.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"20\" y=\"30\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">plantaardig ijzer uit je bord</text><rect x=\"20\" y=\"60\" width=\"60\" height=\"110\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"50\" y=\"120\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Fe</text><rect x=\"290\" y=\"60\" width=\"50\" height=\"110\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"315\" y=\"190\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">bloed</text><path d=\"M80 85 L290 85\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"2\"/><path d=\"M290 85 l-9 -5 v10 z\" fill=\"#06d6a0\"/><path d=\"M80 145 L170 145\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><path d=\"M178 133 l14 24 M192 133 l-14 24\" stroke=\"#ff6b9d\" stroke-width=\"3\"/><text x=\"185\" y=\"75\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">+ vitamine C: meer erdoor</text><text x=\"125\" y=\"170\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">+ thee/koffie</text><text x=\"240\" y=\"150\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">geremd</text><circle r=\"5\" fill=\"#ffd166\"><animateMotion dur=\"2.5s\" repeatCount=\"indefinite\" path=\"M80 85 L290 85\"/></circle><circle r=\"5\" fill=\"#ffd166\"><animateMotion dur=\"2.5s\" begin=\"0.8s\" repeatCount=\"indefinite\" path=\"M80 85 L290 85\"/></circle><circle r=\"5\" fill=\"#ffd166\"><animateMotion dur=\"2.5s\" begin=\"1.6s\" repeatCount=\"indefinite\" path=\"M80 85 L290 85\"/></circle><circle r=\"5\" fill=\"#ffd166\"><animateMotion dur=\"2.5s\" repeatCount=\"indefinite\" path=\"M80 145 L170 145\"/></circle></svg>",
+   "quiz": {
+    "q": "Wat helpt je lichaam om meer ijzer uit planten op te nemen?",
+    "o": [
+     "Een tas zwarte thee bij de maaltijd",
+     "Vitamine C in dezelfde maaltijd",
+     "Een glas melk erbij drinken"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "NIH Office of Dietary Supplements",
+     "u": "https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/"
+    },
+    {
+     "t": "Hurrell e.a. 1999, British Journal of Nutrition",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/10999016/"
+    }
+   ],
+   "date": "2026-11-27T05:46:44Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Kerstmis 1914: vijanden zongen samen bij Ieper",
+   "body": "Op kerstavond 1914 zetten Duitse soldaten bij Ieper kaarsjes op hun loopgraven en zongen kerstliederen. De Britten zongen terug. Tussen 24 en 26 december legden naar schatting 100.000 Britse en Duitse soldaten op eigen houtje de wapens neer, ook bij Ploegsteert. Ze ruilden tabak, begroeven hun doden en schopten hier en daar tegen een bal.",
+   "take": "Bezoek bij Ploegsteert het kerstbestandmonument aan Prowse Point en het kruis van 1999 in Sint-Yvon, in Komen-Waasten.",
+   "deep": "## Hoe het werkt\n\nHet kerstbestand was geen afspraak tussen legers of regeringen. Het was een reeks spontane staakt-het-vurens, van loopgraaf tot loopgraaf. Paus Benedictus XV had begin december 1914 nog gevraagd om de kanonnen te laten zwijgen 'in de nacht dat de engelen zongen', maar de oorlogvoerende landen gingen daar niet op in. Op het terrein ging het anders. Soldaten zongen naar elkaar, riepen wensen over het niemandsland, en waagden zich dan voorzichtig uit hun loopgraaf. Er werd getoast, sigaretten en souvenirs werden geruild, en beide kampen gebruikten de rust om gesneuvelde kameraden te begraven.\n\n## Een voorbeeld\n\nHet bekendste Belgische decor ligt rond Ploegsteert en Sint-Yvon, ten zuiden van Ieper, vandaag deel van Komen-Waasten in Henegouwen. Het Imperial War Museum bewaart een foto van Britse en Duitse soldaten die op kerstdag 1914 samen staan bij Ploegsteert, aan het front van de 11de Brigade. De Britse cartoonist Bruce Bairnsfather lag die winter in Sint-Yvon en beschreef het bestand in zijn boek Bullets & Billets uit 1916. In 1999 plaatste een herdenkingsvereniging er een houten kruis, en op 11 december 2014 onthulde UEFA-voorzitter Michel Platini vlakbij een monument voor het voetbal tijdens het bestand.\n\n## Wat onderzoek zegt\n\nVolgens The London Gazette waren ongeveer 100.000 Britse en Duitse soldaten betrokken. Historicus Malcolm Brown, die voor het Imperial War Museum werkte, schatte dat het bestand minstens twee derde van de Britse frontlijn besloeg. Het Imperial War Museum wijst erop dat veel brieven en dagboeken van toen vermelden dat soldaten tegen een bal trapten.\n\n## Nuance of misverstand\n\nHet beeld van één grote, georganiseerde voetbalmatch tussen twee ploegen is waarschijnlijk te mooi. Historici discussiëren nog over hoe vaak en hoe serieus er gevoetbald werd. Het ging vaker om wat rondtrappen dan om een wedstrijd met doelen en een score. Liederen, tabak en het begraven van de doden speelden een veel grotere rol. Het bestand was ook niet overal: op sommige plaatsen werd gewoon doorgevochten, en na de feestdagen ging de oorlog nog bijna vier jaar verder.\n\n## Wat je ermee doet\n\nWil je het verhaal zelf voelen, rijd dan in de kerstperiode naar Ploegsteert. Combineer het monument aan Prowse Point met de dagelijkse Last Post aan de Menenpoort in Ieper. En als iemand het over 'de match van 1914' heeft, weet je nu dat het echte verhaal kleiner en menselijker is.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><path d=\"M60 40 L50 70 L62 100 L48 130 L60 160 L52 190\" fill=\"none\" stroke=\"#fff\" stroke-width=\"3\"/><path d=\"M300 40 L310 70 L298 100 L312 130 L300 160 L308 190\" fill=\"none\" stroke=\"#fff\" stroke-width=\"3\"/><circle cx=\"300\" cy=\"50\" r=\"4\" fill=\"#ffd166\" opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;1;0.2\" dur=\"5s\" begin=\"0.0s\" repeatCount=\"indefinite\"/></circle><circle cx=\"300\" cy=\"80\" r=\"4\" fill=\"#ffd166\" opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;1;0.2\" dur=\"5s\" begin=\"0.8s\" repeatCount=\"indefinite\"/></circle><circle cx=\"300\" cy=\"110\" r=\"4\" fill=\"#ffd166\" opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;1;0.2\" dur=\"5s\" begin=\"1.6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"300\" cy=\"140\" r=\"4\" fill=\"#ffd166\" opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;1;0.2\" dur=\"5s\" begin=\"2.4000000000000004s\" repeatCount=\"indefinite\"/></circle><circle cx=\"300\" cy=\"170\" r=\"4\" fill=\"#ffd166\" opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;1;0.2\" dur=\"5s\" begin=\"3.2s\" repeatCount=\"indefinite\"/></circle><text x=\"40\" y=\"25\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Britten</text><text x=\"310\" y=\"25\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Duitsers</text><text x=\"180\" y=\"45\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">niemandsland</text><path d=\"M80 150 Q180 90 280 150\" fill=\"none\" stroke=\"rgba(255,255,255,0.4)\" stroke-width=\"2\" stroke-dasharray=\"4 6\"/><circle r=\"7\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"><animateMotion dur=\"4s\" repeatCount=\"indefinite\" path=\"M80 150 Q180 90 280 150 Q180 90 80 150\"/></circle><text x=\"180\" y=\"185\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">24-26 december 1914</text><text x=\"180\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">kaarsjes, liederen, ruilen, soms een bal</text></svg>",
+   "quiz": {
+    "q": "Wie besliste over het kerstbestand van 1914?",
+    "o": [
+     "De soldaten zelf, spontaan en zonder officieel bevel",
+     "De paus, die het via een verdrag afdwong",
+     "De Britse en Duitse regeringen samen"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Imperial War Museums",
+     "u": "https://www.iwm.org.uk/history/the-real-story-of-the-christmas-truce"
+    },
+    {
+     "t": "The Gazette",
+     "u": "https://www.thegazette.co.uk/awards-and-accreditation/content/287"
+    },
+    {
+     "t": "RTBF",
+     "u": "https://www.rtbf.be/article/ploegsteert-michel-platini-a-inaugure-la-stele-en-hommage-aux-soldats-de-1914-8556211"
+    }
+   ],
+   "date": "2026-11-27T05:46:44Z"
+  },
+  {
+   "cat": "geschiedenis",
+   "title": "Ambachtslui met pieken versloegen in 1302 Franse ridders",
+   "body": "Op 11 juli 1302 versloegen Vlaamse stadsmilities, vooral ambachtslui zoals wevers, bij Kortrijk een Frans ridderleger onder graaf Robert II van Artois. Te voet, met pieken en goedendags, braken ze de charges van de ruiters op drassige grond langs de Groeningebeek. Artois sneuvelde. Naar verluidt hingen de winnaars 500 gulden sporen op in de Onze-Lieve-Vrouwekerk.",
+   "take": "Ga in Kortrijk naar de Onze-Lieve-Vrouwekerk en de beleving '1302', en kijk dan naar het Groeningemonument.",
+   "deep": "## Hoe het werkt\n\nRond 1300 wilde de Franse koning Filips IV het graafschap Vlaanderen onder controle krijgen. In Brugge en andere steden groeide verzet. In 1302 belegerden Vlaamse troepen het kasteel van Kortrijk, waar een Franse bezetting zat. Een Frans leger onder graaf Robert II van Artois trok op om het te ontzetten. De Vlamingen kozen een positie op een open veld bij de Groeningebeek. Het terrein was laag en doorsneden door beken, met moerassige grond richting Leie. De Vlaamse infanterie stond in een dichte formatie met pieken en goedendags, een zware knots met een metalen punt. Toen de Franse ruiters aanvielen, verloren ze vaart in de natte grond en botsten ze op een muur van punten.\n\n## Een voorbeeld\n\nElke 11 juli hangen in Vlaanderen leeuwenvlaggen uit: de Vlaamse feestdag verwijst rechtstreeks naar deze slag. In Kortrijk kun je de plek nog voelen. Het Groeningemonument staat in de buurt van het vroegere slagveld, en de Onze-Lieve-Vrouwekerk heeft een belevingstentoonstelling '1302'. Volgens het stedelijk toerismebureau hingen de Vlamingen na de slag vijfhonderd sporen van gesneuvelde Franse ridders in die kerk op, als dank aan Onze-Lieve-Vrouw van Groeninge.\n\n## Wat onderzoek zegt\n\nOver de legers zijn de cijfers onzeker. Encyclopedische bronnen geven voor het Vlaamse leger schattingen van ruwweg 7.000 tot 10.000 man, maar schattingen voor het Franse leger lopen sterk uiteen, afhankelijk van of je alleen ridders telt of ook voetvolk. Een Franstalige bron meldt dat bijna duizend edelen sneuvelden, onder wie Robert van Artois zelf. Historicus J.F. Verbruggen bestudeerde de slag grondig en verwierp het verhaal van verborgen kuilen en gecamoufleerde grachten. Hij erkende wel dat de beken op het slagveld een rol speelden.\n\n## Nuance of misverstand\n\nDe sporen zelf zijn verdwenen: van 1302 is niets tastbaars bewaard. Een bron uit 1840 noemde zelfs zevenhonderd sporen, dus het getal vijfhonderd is eerder traditie dan telling. Ook belangrijk: Kortrijk was geen eindoverwinning. Frankrijk won uiteindelijk de bredere oorlog. De slag kreeg zijn grote symbolische lading pas in de negentiende en twintigste eeuw, toen de Vlaamse Beweging hem als oorsprongsmoment gebruikte, mee dankzij Hendrik Consciences roman De Leeuw van Vlaanderen.\n\n## Wat je ermee doet\n\nOp 11 juli weet je nu wat er gevierd wordt, en wat mythe is. Ben je in Kortrijk, combineer dan de kerk met een wandeling naar het Groeningeveld. En als iemand beweert dat 'boeren met hooivorken' de ridders versloegen: het waren georganiseerde stedelijke milities met degelijke wapens en een slim gekozen terrein.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><path d=\"M200 20 Q190 60 205 100 Q220 140 200 200\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"3\"/><text x=\"232\" y=\"30\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">beek</text><path d=\"M245 40 L300 34\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"305\" cy=\"34\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M255 56 L300 50\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"305\" cy=\"50\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M245 72 L300 66\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"305\" cy=\"66\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M255 88 L300 82\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"305\" cy=\"82\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M245 104 L300 98\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"305\" cy=\"98\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M255 120 L300 114\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"305\" cy=\"114\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M245 136 L300 130\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"305\" cy=\"130\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M255 152 L300 146\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"305\" cy=\"146\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M245 168 L300 162\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"305\" cy=\"162\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M255 184 L300 178\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"305\" cy=\"178\" r=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"300\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Vlaamse pieken</text><g><animateTransform attributeName=\"transform\" type=\"translate\" values=\"0 0;105 0;105 0;0 0\" keyTimes=\"0;0.45;0.7;1\" dur=\"6s\" repeatCount=\"indefinite\"/><path d=\"M40 50 l40 8 l-40 8 z\" fill=\"#ff6b9d\"/><path d=\"M40 78 l40 8 l-40 8 z\" fill=\"#ff6b9d\"/><path d=\"M40 106 l40 8 l-40 8 z\" fill=\"#ff6b9d\"/><path d=\"M40 134 l40 8 l-40 8 z\" fill=\"#ff6b9d\"/><path d=\"M40 162 l40 8 l-40 8 z\" fill=\"#ff6b9d\"/></g><text x=\"60\" y=\"30\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Franse ridders</text><text x=\"110\" y=\"205\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">charge loopt vast</text></svg>",
+   "quiz": {
+    "q": "Waaraan dankt de Guldensporenslag zijn naam?",
+    "o": [
+     "Aan gouden munten die de Vlamingen als losgeld kregen",
+     "Aan de bekende Kortrijkse goudsmid Jan Guldensporen",
+     "Aan de vergulde sporen die op het slagveld werden buitgemaakt"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Visit Kortrijk",
+     "u": "https://visitkortrijk.be/en/onze-lieve-vrouwekerk"
+    },
+    {
+     "t": "EBSCO Research Starters",
+     "u": "https://www.ebsco.com/research-starters/military-history-and-science/battle-golden-spurs"
+    },
+    {
+     "t": "Brussels Times",
+     "u": "https://www.brusselstimes.com/254010/hidden-belgium-how-flanders-gained-its-spurs"
+    },
+    {
+     "t": "De Re Militari: Verbruggen",
+     "u": "https://deremilitari.org/RESOURCES/SOURCES/goldenspurs.htm"
+    }
+   ],
+   "date": "2026-11-27T05:46:44Z"
+  },
+  {
+   "cat": "taal",
+   "title": "December betekent gewoon 'de tiende maand'",
+   "body": "December komt van het Latijnse decem, tien. Het oudste Romeinse jaar begon in maart, dus september (septem, zeven), oktober (octo, acht), november (novem, negen) en december waren maanden zeven tot tien. Toen januari en februari vooraan het jaar kwamen, schoven ze allemaal twee plaatsen op. De namen bleven gewoon staan.",
+   "take": "Onthoud het rijtje septem-octo-novem-decem: zo ken je meteen vier Latijnse telwoorden, handig bij woorden als octopus en decimaal.",
+   "deep": "## Hoe het werkt\n\nDe oudste Romeinse kalender telde volgens de overlevering tien maanden en begon in maart, de maand van Mars. Vanaf de vijfde maand werden de maanden gewoon genummerd: Quintilis (vijfde), Sextilis (zesde), September, October, November en December. De wintermaanden daarna hadden aanvankelijk geen naam. Later werden januari en februari toegevoegd. Daarmee werd het een jaar van twaalf maanden. Uiteindelijk ging het jaar ook officieel op 1 januari beginnen, maar niemand paste de oude nummernamen aan. Zo werd de tiende maand de twaalfde, met behoud van zijn naam.\n\n## Een voorbeeld\n\nEen Vlaamse leerling Latijn ziet het meteen: septem, octo, novem, decem. Ook in het Nederlands vind je die wortels terug. Een octaaf telt acht noten, een decennium tien jaar, en een decimaal getal werkt met tientallen. Juli en augustus heetten oorspronkelijk Quintilis en Sextilis, maar kregen later de namen van Julius Caesar en keizer Augustus. Voor de nummermaanden september tot december is zo'n naamswijziging nooit blijvend gelukt.\n\n## Wat onderzoek zegt\n\nWoordenboeken zoals Dictionary.com en het Online Etymology Dictionary leiden december af van decem en wijzen op de positie als tiende maand in de vroege Romeinse kalender. De Encyclopaedia Romana van de University of Chicago meldt dat de consuls tot 153 voor Christus hun ambt aanvingen op de Iden van maart en daarna op 1 januari. Die datum werd ook het begin van het burgerlijke jaar. De aanleiding was een opstand in Hispania, waardoor de nieuwe consuls vroeger moesten vertrekken.\n\n## Nuance of misverstand\n\nHet verhaal van de tien maanden is deels legende. De kalender wordt traditioneel toegeschreven aan Romulus, en de toevoeging van januari en februari aan koning Numa Pompilius, rond 700 voor Christus. Historici zien dat eerder als overlevering dan als vastgestelde geschiedenis. Ook de precieze datum waarop het jaar begon te verschuiven, verschilt tussen bronnen: sommige noemen 153 voor Christus, andere een ander jaar. Wat wel vaststaat, is de betekenis van de namen.\n\n## Wat je ermee doet\n\nGebruik dit als geheugensteun en gespreksstof aan de kersttafel. Wie de Latijnse telwoorden kent, ontcijfert sneller woorden als octopus, decimeter en september. En wanneer iemand zegt dat december de laatste maand is, kun je antwoorden dat zijn naam iets anders beweert.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"10\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">vroeg-Romeins jaar begon in maart</text><text x=\"10\" y=\"62\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">toen:</text><text x=\"10\" y=\"77\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">Mrt = 1</text><text x=\"10\" y=\"147\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">nu:</text><text x=\"10\" y=\"162\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">Jan = 1</text><rect x=\"110\" y=\"45\" width=\"54\" height=\"44\" rx=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"137\" y=\"62\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Sep</text><text x=\"137\" y=\"80\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">7</text><rect x=\"110\" y=\"130\" width=\"54\" height=\"44\" rx=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"137\" y=\"147\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Sep</text><text x=\"137\" y=\"165\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">9</text><g opacity=\"0.15\"><animate attributeName=\"opacity\" values=\"0.15;1;0.15\" dur=\"4s\" begin=\"0s\" repeatCount=\"indefinite\"/><text x=\"137\" y=\"112\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">septem</text></g><rect x=\"172\" y=\"45\" width=\"54\" height=\"44\" rx=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"199\" y=\"62\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Okt</text><text x=\"199\" y=\"80\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">8</text><rect x=\"172\" y=\"130\" width=\"54\" height=\"44\" rx=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"199\" y=\"147\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Okt</text><text x=\"199\" y=\"165\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">10</text><g opacity=\"0.15\"><animate attributeName=\"opacity\" values=\"0.15;1;0.15\" dur=\"4s\" begin=\"1s\" repeatCount=\"indefinite\"/><text x=\"199\" y=\"112\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">octo</text></g><rect x=\"234\" y=\"45\" width=\"54\" height=\"44\" rx=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"261\" y=\"62\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Nov</text><text x=\"261\" y=\"80\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">9</text><rect x=\"234\" y=\"130\" width=\"54\" height=\"44\" rx=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"261\" y=\"147\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Nov</text><text x=\"261\" y=\"165\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">11</text><g opacity=\"0.15\"><animate attributeName=\"opacity\" values=\"0.15;1;0.15\" dur=\"4s\" begin=\"2s\" repeatCount=\"indefinite\"/><text x=\"261\" y=\"112\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">novem</text></g><rect x=\"296\" y=\"45\" width=\"54\" height=\"44\" rx=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"323\" y=\"62\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Dec</text><text x=\"323\" y=\"80\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">10</text><rect x=\"296\" y=\"130\" width=\"54\" height=\"44\" rx=\"5\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"323\" y=\"147\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Dec</text><text x=\"323\" y=\"165\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">12</text><g opacity=\"0.15\"><animate attributeName=\"opacity\" values=\"0.15;1;0.15\" dur=\"4s\" begin=\"3s\" repeatCount=\"indefinite\"/><text x=\"323\" y=\"112\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">decem</text></g><text x=\"180\" y=\"205\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Jan en Feb vooraan: alles schuift 2 op</text></svg>",
+   "quiz": {
+    "q": "Waarom heet de twaalfde maand 'december', van decem (tien)?",
+    "o": [
+     "Omdat het oude Romeinse jaar in maart begon",
+     "Omdat december vroeger tien dagen telde",
+     "Omdat keizer Decimus hem zo noemde"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Online Etymology Dictionary",
+     "u": "https://www.etymonline.com/word/december"
+    },
+    {
+     "t": "Dictionary.com",
+     "u": "https://www.dictionary.com/e/december/"
+    },
+    {
+     "t": "Encyclopaedia Romana (University of Chicago)",
+     "u": "https://penelope.uchicago.edu/encyclopaedia_romana/calendar/consuls.html"
+    }
+   ],
+   "date": "2026-11-27T05:46:44Z"
+  },
+  {
+   "cat": "taal",
+   "title": "Afrikaans werd pas in 1925 een officiële taal",
+   "body": "Afrikaans groeide uit het Nederlands van kolonisten die vanaf 1652 aan de Kaap terechtkwamen, waar de VOC een verversingspost stichtte. Lang gold het als Nederlands dialect. Op 8 mei 1925 besliste het Zuid-Afrikaanse parlement dat 'Nederlands' in de wet voortaan ook Afrikaans omvatte. Vandaag spreekt 10,6 procent van de Zuid-Afrikanen het thuis.",
+   "take": "Lees eens een Afrikaanse nieuwssite zoals Netwerk24 of Maroela Media: als Vlaming begrijp je verrassend veel.",
+   "deep": "## Hoe het werkt\n\nIn april 1652 kwam Jan van Riebeeck in de Tafelbaai aan met de opdracht van de Verenigde Oost-Indische Compagnie om er een verversingspost voor schepen te bouwen. Rond die post groeide een gemengde gemeenschap van Europese kolonisten, tot slaaf gemaakte mensen en de oorspronkelijke Khoekhoe-bewoners. Hun omgangstaal was het Nederlands van de zeventiende eeuw, maar die veranderde snel: werkwoordvervoegingen vielen weg, woorden kwamen uit andere talen. Taalkundigen debatteren nog hoe dat precies gebeurde: sommigen zien vooral een natuurlijke ontwikkeling van Nederlandse dialecten, anderen benadrukken creolisering onder invloed van andere talen. Lange tijd werd het 'Kaaps-Hollands' als dialect gezien, terwijl standaard-Nederlands de taal van kerk, school en overheid bleef.\n\n## Een voorbeeld\n\nEen Vlaming in Kaapstad leest op een bord 'Baie dankie' en begrijpt het meteen: hartelijk dank. Of 'Ek is moeg': ik ben moe. De woorden zijn herkenbaar, de grammatica is eenvoudiger. Zo vervoeg je in het Afrikaans werkwoorden niet naar persoon: ek is, jy is, hy is. Omgekeerd kunnen veel Zuid-Afrikanen met wat moeite Nederlands lezen.\n\n## Wat onderzoek zegt\n\nDe Official Languages of the Union Act werd op 8 mei 1925 aangenomen en trad op 27 mei in werking. Juridisch zei de wet dat verwijzingen naar het Nederlands in de grondwet van 1909 ook het Afrikaans omvatten, met terugwerkende kracht tot de oprichting van de Unie van Zuid-Afrika in 1910. De grondwet van 1961 keerde de verhouding om: voortaan omvatte Afrikaans het Nederlands. Bij de volkstelling van 2022 gaf 10,6 procent van de bevolking Afrikaans op als thuistaal, na isiZulu met 24,4 procent en isiXhosa met 16,3 procent. In 2011 was dat nog 13,5 procent.\n\n## Nuance of misverstand\n\nEen veelgehoord misverstand: Afrikaans zou gewoon 'slecht Nederlands' zijn. Afrikaans is echter geen verbasterd Nederlands of een dialect: het is een eigen standaardtaal, sinds 1925 erkend en vandaag een van de twaalf officiële talen van Zuid-Afrika. Het Nederlands en het Afrikaans zijn dus zustertalen geworden met een gemeenschappelijke voorouder, ook al stamt het Afrikaans uit het Nederlands.\n\n## Wat je ermee doet\n\nWil je je taalgevoel testen, luister dan naar Afrikaanse muziek of lees een kort nieuwsbericht en noteer welke woorden je zonder woordenboek snapt. Op reis in Zuid-Afrika kan een paar woorden Afrikaans deuren openen, maar besef dat het voor veel mensen een gevoelige geschiedenis heeft, onder meer door de rol van de taal tijdens de apartheid.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><rect x=\"20\" y=\"85\" width=\"110\" height=\"40\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"75\" y=\"102\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Nederlands</text><text x=\"75\" y=\"117\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">17e eeuw</text><path d=\"M130 105 Q180 105 200 55 L225 55\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"6 5\"><animate attributeName=\"stroke-dashoffset\" from=\"22\" to=\"0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><path d=\"M130 105 Q180 105 200 155 L225 155\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"6 5\"><animate attributeName=\"stroke-dashoffset\" from=\"22\" to=\"0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><path d=\"M233 55 l-9 -5 v10 z\" fill=\"#fff\"/><path d=\"M233 155 l-9 -5 v10 z\" fill=\"#ffd166\"/><rect x=\"235\" y=\"35\" width=\"110\" height=\"40\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"290\" y=\"52\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Nederlands</text><text x=\"290\" y=\"67\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Europa</text><rect x=\"235\" y=\"135\" width=\"110\" height=\"40\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><text x=\"290\" y=\"152\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Afrikaans</text><text x=\"290\" y=\"167\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Kaapkolonie</text><text x=\"150\" y=\"148\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">1652</text><g opacity=\"0.2\"><animate attributeName=\"opacity\" values=\"0.2;1;1;0.2\" keyTimes=\"0;0.3;0.8;1\" dur=\"5s\" repeatCount=\"indefinite\"/><text x=\"290\" y=\"198\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">1925: officiële taal</text></g><text x=\"75\" y=\"25\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">één stam, twee takken</text></svg>",
+   "quiz": {
+    "q": "Wat veranderde er in 1925 voor het Afrikaans?",
+    "o": [
+     "Het werd als enige taal van Zuid-Afrika verplicht",
+     "Het kreeg officiële status naast het Engels",
+     "Het werd voor het eerst neergeschreven"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "South African History Online",
+     "u": "https://www.sahistory.org.za/dated-event/afrikaans-declared-official-language-south-africa"
+    },
+    {
+     "t": "Universiteit van die Vrystaat",
+     "u": "https://www.ufs.ac.za/templates/news-archive/campus-news/2025/may/the-centenary-of-afrikaans-as-an-official-language"
+    },
+    {
+     "t": "Stats SA, Census 2022",
+     "u": "https://census.statssa.gov.za/assets/documents/2022/Census_2022_SG_Presentation_10102023.pdf"
+    },
+    {
+     "t": "SAHO: aankomst Van Riebeeck",
+     "u": "https://www.sahistory.org.za/article/arrival-jan-van-riebeeck-cape-6-april-1652"
+    }
+   ],
+   "date": "2026-11-27T05:46:44Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Flitspaal meet één moment, trajectcontrole je gemiddelde",
+   "body": "Een klassieke flitspaal stuurt radargolven naar je auto. Rijd je, dan kaatst de golf terug met een iets andere frequentie: het Dopplereffect. Hoe groter het verschil, hoe sneller je rijdt. Trajectcontrole werkt anders: ANPR-camera's lezen je nummerplaat op twee punten en berekenen je gemiddelde snelheid uit afstand en tijd.",
+   "take": "Remmen voor de camera heeft bij trajectcontrole geen zin: hou je gewoon het hele traject aan de limiet.",
+   "deep": "## Hoe het werkt\n\nEen radarflitspaal zendt radiogolven met een vaste frequentie uit in een smalle bundel over de weg. Een stilstaande auto kaatst ze terug met dezelfde frequentie. Komt een auto naar de radar toe, dan worden de teruggekaatste golven samengedrukt en is de frequentie hoger. Rijdt hij weg, dan is ze lager. Het toestel vergelijkt de uitgezonden en ontvangen golf en rekent het verschil om naar snelheid. Is die te hoog, dan neemt de camera een foto. Trajectcontrole gebruikt geen radar. Een camera bij het begin van het traject leest je nummerplaat en noteert het tijdstip. Een tweede camera, verderop, doet hetzelfde. Afstand gedeeld door tijd geeft je gemiddelde snelheid.\n\n## Een voorbeeld\n\nOp de E40 tussen Erpe-Mere en Wetteren hing een van de bekendere Vlaamse trajectcontroles. Rijd je daar een stuk te snel en rem je even later af, dan maakt dat niets uit: telt alleen hoe lang je over het hele traject deed. Bij een klassieke flitspaal zie je bestuurders vlak ervoor hard in de remmen gaan en daarna weer optrekken. Dat is precies wat trajectcontrole wil vermijden.\n\n## Wat onderzoek zegt\n\nEen bekende pionier van de flitspaal was Nederlander. Rallypiloot Maurice Gatsonides bouwde een toestel om zijn eigen snelheid in bochten te meten en richtte in 1958 Gatsometer op. Zijn eerste systeem werkte met rubberen slangen over de weg. Volgens de verkeersdienst van Washington D.C. maakt een fotoradar 200 tot 300 snelheidsberekeningen per seconde. Een studie van de UHasselt over de trajectcontrole op de E40 bij Erpe-Mere vond na de invoering 31 procent minder letselongevallen en 18 procent minder ongevallen met alleen stoffelijke schade.\n\n## Nuance of misverstand\n\nNiet elke flitspaal werkt met radar. Sommige toestellen gebruiken laser, die de afstand tot je auto via lichtpulsen meet en zo je snelheid berekent. En trajectcontrole is meer dan een snelheidsmeter: de Vlaamse overheid koppelt de camera's aan het nationale ANPR-netwerk, dat de politie ook gebruikt om geseinde voertuigen op te sporen. Lang niet alle trajectcontroles waren trouwens altijd actief, onder meer door samenwerkingsproblemen tussen Vlaanderen en het federale niveau.\n\n## Wat je ermee doet\n\nRijd met een rustige, constante snelheid en gebruik je cruisecontrol of snelheidsbegrenzer op trajecten met controle. Op de site van de Vlaamse overheid vind je een kaart met de trajectcontroles op gewestwegen en snelwegen. Weet ook dat een korte versnelling na een traject je niet ontslaat van flitspalen verderop.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"10\" y=\"22\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">flitspaal: radar op één punt</text><rect x=\"20\" y=\"35\" width=\"24\" height=\"50\" rx=\"4\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M60 45 Q70 60 60 75\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"1;0.2;1\" dur=\"1.2s\" repeatCount=\"indefinite\"/></path><path d=\"M75 40 Q88 60 75 80\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0.2;1;0.2\" dur=\"1.2s\" repeatCount=\"indefinite\"/></path><rect x=\"150\" y=\"50\" width=\"44\" height=\"20\" rx=\"5\" fill=\"#ff6b9d\"/><text x=\"250\" y=\"58\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">golf kaatst terug</text><text x=\"250\" y=\"73\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">met andere frequentie</text><path d=\"M10 100 L350 100\" stroke=\"rgba(255,255,255,0.3)\" stroke-width=\"1\"/><text x=\"10\" y=\"122\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">trajectcontrole: gemiddelde over afstand</text><path d=\"M20 175 L340 175\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"40\" y=\"135\" width=\"8\" height=\"40\" fill=\"#fff\"/><rect x=\"300\" y=\"135\" width=\"8\" height=\"40\" fill=\"#fff\"/><text x=\"44\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">camera A</text><text x=\"304\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">camera B</text><rect x=\"-22\" y=\"-8\" width=\"44\" height=\"16\" rx=\"4\" fill=\"#06d6a0\"><animateMotion dur=\"5s\" repeatCount=\"indefinite\" path=\"M30 160 L320 160\"/></rect><text x=\"175\" y=\"212\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">snelheid = afstand / tijd tussen A en B</text></svg>",
+   "quiz": {
+    "q": "Hoe bepaalt trajectcontrole je snelheid?",
+    "o": [
+     "Met radargolven die van je auto terugkaatsen",
+     "Met een sensor in het wegdek bij één camera",
+     "Met de tijd tussen twee nummerplaatcamera's"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Vlaamse overheid: trajectcontrole",
+     "u": "https://www.vlaanderen.be/mobiliteit-en-openbare-werken/verkeer/trajectcontrole"
+    },
+    {
+     "t": "HyperPhysics, Georgia State University",
+     "u": "https://hyperphysics.gsu.edu/hbase/sound/radar.html"
+    },
+    {
+     "t": "DDOT Washington D.C.",
+     "u": "https://ddot.dc.gov/page/photo-radar-operation"
+    },
+    {
+     "t": "UHasselt",
+     "u": "https://documentserver.uhasselt.be/bitstream/1942/18872/2/vabb23502.pdf"
+    },
+    {
+     "t": "Country Life",
+     "u": "https://www.countrylife.co.uk/luxury/motoring/curious-questions-who-invented-the-speed-camera-218703"
+    }
+   ],
+   "date": "2026-11-27T05:46:44Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Je radiatorkraan regelt de warmte zonder één watt",
+   "body": "In de knop van een thermostatische radiatorkraan zit een voeler met was, vloeistof of gas. Wordt de lucht rond de knop warmer, dan zet die vulling uit en duwt ze een pinnetje dat de klep geleidelijk dichtknijpt. Koelt de kamer af, dan krimpt de vulling en gaat de klep weer open. Geen batterij, geen kabel.",
+   "take": "Hang geen gordijn of zetel voor je radiatorkraan: de voeler meet de lucht vlak rond de knop, niet in de hele kamer.",
+   "deep": "## Hoe het werkt\n\nEen thermostatische kraan bestaat uit twee delen. Onderaan zit het ventiel op de leiding naar de radiator, met een klep en een veer. Bovenaan zit de draaiknop met daarin het voelelement: een capsule of balg gevuld met was, een vloeistof of een gas. Die vulling zet uit als ze opwarmt en krimpt als ze afkoelt. Bij het uitzetten duwt ze op een pin, die de klep naar beneden drukt en de doorstroom van warm water verkleint. Met de draaiknop verander je de voorspanning: hoe hoger de stand, hoe warmer het moet worden voor de klep sluit. Zo regelt elke radiator zichzelf, volledig mechanisch.\n\n## Een voorbeeld\n\nJe zet de kraan in de living op een gemiddelde stand. 's Ochtends is het fris, de vulling is gekrompen en de klep staat open: de radiator wordt warm. Rond de middag schijnt de zon binnen en kookt iemand pasta. De luchttemperatuur stijgt, de vulling zet uit en de radiator koelt af zonder dat jij iets doet. Dat is precies de energiebesparing waarvoor zulke kranen bedoeld zijn.\n\n## Wat onderzoek zegt\n\nDe Deense fabrikant Danfoss dateert zijn eerste radiatorthermostaat in 1943; het prototype werd getest in het kantoor van oprichter Mads Clausen. Sindsdien rolden volgens het bedrijf ongeveer 350 miljoen exemplaren van de band. Een technische bulletin van Penn State University beschrijft hetzelfde principe met een wasprop die uitzet en krimpt en zo een pin op het ventiel bedient. Danfoss benadrukt dat er geen bekabeling nodig is.\n\n## Nuance of misverstand\n\nDe voeler meet de lucht rond de knop, niet de temperatuur in de hele kamer. Tocht vlak bij de kraan kan hem doen denken dat het koud is, waardoor de klep te lang openstaat. Achter een gordijn of meubel warmt de lucht rond de knop snel op, en dan sluit de klep terwijl de kamer nog koud is. Ook de montage telt: een voeler die verticaal boven het warme ventiel zit, wordt door die warmte beïnvloed. Na jaren kan de vulling ook aan nauwkeurigheid verliezen.\n\n## Wat je ermee doet\n\nHou de knop vrij van gordijnen en meubels, kies een stand per kamer en laat hem daar staan. Slaapkamers mogen lager dan de living. Lijkt een radiator niet meer goed te regelen, laat dan een installateur kijken: na jaren kan de voeler minder nauwkeurig worden, en een thermostaatkop vervangen is meestal een kleine ingreep.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><path d=\"M20 180 L150 180\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"10\" stroke-dasharray=\"10 8\"><animate attributeName=\"stroke-dashoffset\" from=\"36\" to=\"0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><path d=\"M210 180 L340 180\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"10\" stroke-dasharray=\"10 8\"><animate attributeName=\"stroke-dashoffset\" from=\"36\" to=\"0\" dur=\"1.5s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" values=\"1;1;0.15;0.15;1\" keyTimes=\"0;0.2;0.5;0.8;1\" dur=\"8s\" repeatCount=\"indefinite\"/></path><rect x=\"150\" y=\"160\" width=\"60\" height=\"40\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"150\" y=\"30\" width=\"60\" height=\"100\" rx=\"10\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"162\" y=\"40\" width=\"36\" height=\"30\" rx=\"4\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"30;62;62;30;30\" keyTimes=\"0;0.3;0.5;0.8;1\" dur=\"8s\" repeatCount=\"indefinite\"/></rect><rect x=\"177\" y=\"70\" width=\"6\" height=\"70\" fill=\"#fff\"><animate attributeName=\"y\" values=\"70;102;102;70;70\" keyTimes=\"0;0.3;0.5;0.8;1\" dur=\"8s\" repeatCount=\"indefinite\"/></rect><rect x=\"165\" y=\"140\" width=\"30\" height=\"6\" fill=\"#06d6a0\"><animate attributeName=\"y\" values=\"140;172;172;140;140\" keyTimes=\"0;0.3;0.5;0.8;1\" dur=\"8s\" repeatCount=\"indefinite\"/></rect><text x=\"80\" y=\"45\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">voeler met was</text><text x=\"80\" y=\"60\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">of vloeistof</text><text x=\"290\" y=\"60\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">warm: zet uit,</text><text x=\"290\" y=\"75\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">pin duwt klep dicht</text><text x=\"290\" y=\"110\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">koud: krimpt,</text><text x=\"290\" y=\"125\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">klep veert open</text><text x=\"80\" y=\"165\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">warm water</text><text x=\"275\" y=\"210\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">naar radiator</text></svg>",
+   "quiz": {
+    "q": "Wat sluit een thermostatische radiatorkraan als de kamer warm wordt?",
+    "o": [
+     "Een klein elektrisch motortje op een batterij",
+     "Een vulling die uitzet en een pin op de klep duwt",
+     "Een signaal van de centrale thermostaat in de gang"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Danfoss",
+     "u": "https://www.danfoss.com/en/about-danfoss/our-businesses/heating/knowledge-center/heating-school/how-does-a-thermostatic-radiator-valve-work/"
+    },
+    {
+     "t": "Danfoss: 75 jaar radiatorthermostaat",
+     "u": "https://www.danfoss.com/en-in/about-danfoss/news/cf/danfoss-icon-turns-75"
+    },
+    {
+     "t": "Penn State University",
+     "u": "https://d7opp.prod.fbweb.psu.edu/sites/opp/files/opp-tb-238216.010_1.docx"
+    }
+   ],
+   "date": "2026-11-27T05:46:44Z"
   }
  ],
  "dives": [
