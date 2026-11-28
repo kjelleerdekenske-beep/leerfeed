@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T05:46:11Z",
+ "updated": "2026-11-28T05:46:17Z",
  "cards": [
   {
    "cat": "psychologie",
@@ -600,6 +600,318 @@
     }
    ],
    "date": "2026-11-28T05:46:11Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Groen noorderlicht is oplichtende zuurstof hoog in de lucht",
+   "body": "Noorderlicht ontstaat als geladen deeltjes van de zon, de zonnewind, via het aardmagnetisch veld richting de polen worden geleid. Daar botsen ze op zuurstof en stikstof, die de opgenomen energie terug uitstralen als licht. Zuurstof op grofweg 100 tot 200 km hoogte geeft groen, hoger geeft het rood. Stikstof, lager, kleurt blauw-paars.",
+   "take": "Is er noorderlicht voorspeld? Zoek een donkere plek, kijk naar het noorden en richt je gsm-camera: die vangt zwakke kleuren beter dan je ogen.",
+   "deep": "## Hoe het werkt\n\nDe zon blaast voortdurend geladen deeltjes de ruimte in: de zonnewind. Het magnetisch veld van de aarde werkt als een schild dat de meeste deeltjes afbuigt. Maar wanneer de zonnewind op dat veld botst, kunnen veldlijnen open- en weer dichtklappen (magnetische reconnectie). Daardoor raken deeltjes toch binnen en worden ze langs de veldlijnen naar de gebieden rond de magnetische polen versneld.\n\nDaar duiken elektronen en protonen de bovenste atmosfeer in en botsen ze op zuurstof- en stikstofatomen. Die atomen raken in een 'aangeslagen' toestand en geven de extra energie meteen of even later terug als licht. Welke kleur je ziet, hangt af van het gas en de hoogte. Zuurstof op ongeveer 100 tot 200 kilometer geeft het bekende groene licht (golflengte 557,7 nanometer). Hoger, waar de lucht ijler is, straalt zuurstof rood licht uit (630 nanometer). Stikstof zorgt lager voor blauwe en paarse tinten.\n\n## Een voorbeeld\n\nIn de nacht van 10 op 11 mei 2024 was het noorderlicht de hele nacht zichtbaar boven België. Een extreme zonnestorm, met de grootste zonnevlam sinds 2017, stuurde zoveel deeltjes naar de aarde dat de lichtband ver naar het zuiden opschoof. Het KMI schreef dat meerdere uitbarstingen van de zon waren samengesmolten tot een bijzonder intense magnetische storm.\n\n## Wat onderzoek zegt\n\nNASA situeert groen licht op ongeveer 100 tot 200 kilometer hoogte en rood erboven. Volgens Volkssterrenwacht MIRA was het poollicht van mei 2024 het hevigste op lagere breedtegraden sinds maart 1989. Hoe meer energie de zonnewind meebrengt, zeker als zijn magnetisch veld zuidwaarts staat, hoe meer energie in de magnetosfeer belandt en hoe verder het licht van de polen afdwaalt.\n\n## Nuance of misverstand\n\nDe hoogtegrenzen zijn geen harde lijnen: bronnen verschillen, omdat het afhangt van de energie van de deeltjes en de dichtheid van de lucht. Ook leuk om te weten: rond de zuidpool bestaat precies hetzelfde verschijnsel, het zuiderlicht. Samen heten ze poollicht. Dat we het in België zelden zien, komt doordat het licht normaal in een ring rond de magnetische polen hangt.\n\n## Wat je ermee doet\n\nVolg bij een zware zonnestorm de berichten van het KMI of VRT NWS. Zoek dan een plek zonder straatverlichting, met vrij zicht op het noorden. Gebruik je gsm-camera met nachtmodus: bij een zonnestorm in oktober 2026 was het licht boven Vlaanderen vooral op foto te zien, nauwelijks met het blote oog.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><circle cx=\"40\" cy=\"110\" r=\"26\" fill=\"#ffd166\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"40\" y=\"160\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">zon</text><circle cx=\"250\" cy=\"120\" r=\"34\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"250\" y=\"124\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">aarde</text><path d=\"M250 86 C190 40 190 200 250 154\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><path d=\"M250 86 C310 40 310 200 250 154\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><text x=\"300\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">magnetisch veld</text><circle r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M70 105 C130 70 190 50 245 84\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><circle r=\"4\" fill=\"#ffd166\"><animateMotion path=\"M70 115 C130 80 190 55 245 84\" dur=\"3s\" begin=\"1.5s\" repeatCount=\"indefinite\"/></circle><text x=\"150\" y=\"50\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">zonnewind</text><path d=\"M226 80 Q250 62 274 80\" fill=\"none\" stroke=\"#06d6a0\" stroke-width=\"6\"><animate attributeName=\"opacity\" values=\"0.2;1;0.2\" dur=\"3s\" repeatCount=\"indefinite\"/></path><path d=\"M222 70 Q250 48 278 70\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"4\"><animate attributeName=\"opacity\" values=\"0.1;0.8;0.1\" dur=\"3s\" begin=\"0.5s\" repeatCount=\"indefinite\"/></path><text x=\"320\" y=\"40\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">rood: hoog</text><text x=\"320\" y=\"58\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">groen: lager</text><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Deeltjes + zuurstof = licht</text></svg>",
+   "quiz": {
+    "q": "Welk gas zorgt voor het typische groene noorderlicht?",
+    "o": [
+     "Stikstof",
+     "Zuurstof",
+     "Waterstof"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "NASA – Auroras",
+     "u": "https://science.nasa.gov/sun/auroras"
+    },
+    {
+     "t": "MIRA – De zonnestormen van mei 2024",
+     "u": "https://www.mira.be/node/910"
+    },
+    {
+     "t": "VRT NWS – Noorderlicht in België (mei 2024)",
+     "u": "https://www.vrt.be/vrtnws/nl/2024/05/11/noorderlicht-in-belgie-door-geomagnetische-storm-en-dat-levert/"
+    }
+   ],
+   "date": "2026-11-28T05:46:17Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Mars is rood omdat de planeet letterlijk roest",
+   "body": "Ijzer in de rotsen van Mars reageerde ooit met water en zuurstof tot ijzeroxide, zoals roest op een fiets. Wind maalde dat over miljarden jaren tot fijn stof dat een groot deel van de planeet bedekt. Een studie in Nature Communications (februari 2025) wijst ferrihydriet aan, een ijzeroxide met water erin.",
+   "take": "Zie je Mars als oranje 'ster' aan de hemel? Dan kijk je eigenlijk naar stofkorrels met een laagje roest.",
+   "deep": "## Hoe het werkt\n\nMars bevat veel ijzer. Wanneer ijzer in contact komt met water, of met water en zuurstof, ontstaat ijzeroxide. Dat is chemisch hetzelfde proces als roest op aarde. Op Mars gebeurde dat ooit in de rotsen aan het oppervlak.\n\nDaarna nam de wind het over. Over miljarden jaren werd het verroeste gesteente fijngemalen tot stof. Krachtige winden en stofstormen verspreidden dat stof over de hele planeet, en dat proces gaat vandaag nog altijd door. Dat fijne, roestige stof bepaalt de kleur die wij van op aarde zien.\n\n## Een voorbeeld\n\nLaat een oude stalen fiets een winter buiten staan in de Vlaamse regen. Na een tijd zie je bruinrode vlekken: ijzer dat met water en zuurstof heeft gereageerd. Schraap je die roest eraf, dan krijg je een rood poeder. Stel je nu een hele planeet voor waar zulk poeder door de wind overal is uitgestrooid, en je hebt Mars.\n\n## Wat onderzoek zegt\n\nLang gingen wetenschappers ervan uit dat het ijzeroxide op Mars vooral hematiet was, een droge vorm. Ruimtetuigen vonden namelijk geen sporen van water in het stof. In februari 2025 verscheen een studie in Nature Communications. De onderzoekers maakten in het labo nagemaakt Marsstof en vergeleken dat met waarnemingen van ruimtesondes. De beste match was een mengsel van vulkanisch basalt en ferrihydriet: een ijzeroxide dat water in zijn structuur bevat.\n\nDat is meer dan een detail. Ferrihydriet bevat water en vormt zich in een natte omgeving. Als dat mineraal de rode kleur verklaart, dan was Mars in het verleden natter, en mogelijk ooit leefbaar.\n\n## Nuance of misverstand\n\nDat Mars 'roest' is breed aanvaard. Welke soort roest precies, daarover loopt het debat nog. De nieuwe studie is gebaseerd op labovergelijkingen en metingen van op afstand. Zekerheid komt pas wanneer stalen van Mars op aarde in een labo onderzocht kunnen worden.\n\nOok belangrijk: de kleur zit vooral in het stof aan het oppervlak. Het is dat stoflaagje dat we van op aarde zien.\n\n## Wat je ermee doet\n\nGebruik Mars als geheugensteun voor chemie: ijzer plus water plus zuurstof geeft roest. Wil je je fiets of tuingereedschap beschermen, dan weet je wat je moet vermijden: lang nat blijven. En kijk je naar Mars aan de nachtelijke hemel, dan herken je hem aan zijn oranjerode kleur, de kleur van stof.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Van ijzer naar rood stof</text><rect x=\"20\" y=\"60\" width=\"80\" height=\"50\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"60\" y=\"90\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ijzer in rots</text><text x=\"140\" y=\"75\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">+ water</text><text x=\"140\" y=\"92\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">+ zuurstof</text><path d=\"M115 102 L165 102\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M165 97 L173 102 L165 107 Z\" fill=\"#fff\"/><rect x=\"180\" y=\"60\" width=\"80\" height=\"50\" rx=\"6\" fill=\"#ff6b9d\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0.3;1;1;0.3\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"220\" y=\"90\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ijzeroxide</text><path d=\"M20 180 Q180 150 340 180\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">oppervlak van Mars</text><circle r=\"3\" fill=\"#ff6b9d\"><animateMotion path=\"M230 115 C260 140 300 150 330 172\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><circle r=\"3\" fill=\"#ff6b9d\"><animateMotion path=\"M220 115 C180 140 110 150 40 172\" dur=\"4s\" begin=\"1s\" repeatCount=\"indefinite\"/></circle><circle r=\"3\" fill=\"#ff6b9d\"><animateMotion path=\"M225 115 C220 140 190 150 160 162\" dur=\"4s\" begin=\"2s\" repeatCount=\"indefinite\"/></circle><text x=\"310\" y=\"125\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">wind</text><text x=\"310\" y=\"142\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">verspreidt stof</text></svg>",
+   "quiz": {
+    "q": "Welke stof geeft Mars volgens een studie uit 2025 vermoedelijk zijn rode kleur?",
+    "o": [
+     "Koperoxide",
+     "Rode algen",
+     "Ferrihydriet, een ijzeroxide met water"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "NASA – New study on why Mars is red",
+     "u": "https://www.nasa.gov/solar-system/nasa-new-study-on-why-mars-is-red-supports-potentially-habitable-past"
+    },
+    {
+     "t": "ESA – Why is Mars red?",
+     "u": "https://www.esa.int/ESA_Multimedia/Images/2025/02/Why_is_Mars_red"
+    }
+   ],
+   "date": "2026-11-28T05:46:17Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Waarom een opgedroogde koffievlek een donkere rand krijgt",
+   "body": "Een opgedroogde druppel koffie heeft een donkere rand. In 1997 verklaarden Robert Deegan, Sidney Nagel, Thomas Witten en collega's van de Universiteit van Chicago in Nature waarom: de rand van de druppel zit vast. Wat aan de rand verdampt, wordt aangevuld vanuit het midden, en die stroom sleept bijna alle deeltjes naar buiten.",
+   "take": "Droog glazen af in plaats van ze te laten uitdruppen: zo krijgt opgeloste kalk minder kans om zich in een rand af te zetten.",
+   "deep": "## Hoe het werkt\n\nEen druppel op tafel heeft een buitenrand, de contactlijn. Die blijft vaak vastzitten aan kleine oneffenheden in het oppervlak. Tegelijk verdampt de vloeistof, en aan de dunne rand gaat dat relatief snel.\n\nAls de rand niet kan terugwijken, zou de druppel daar gewoon opdrogen en krimpen. Maar dat kan niet: de contactlijn zit vast. Dus moet het verloren water worden aangevuld met vloeistof uit het midden. Zo ontstaat een onzichtbare stroming van binnen naar buiten. Die stroom neemt alles mee wat in de vloeistof zweeft, zoals kleine koffiedeeltjes. Aan de rand blijven ze achter als het water verdampt. Resultaat: een donkere ring en een lichter midden.\n\n## Een voorbeeld\n\nZet je kopje koffie op een papieren servet en mors een druppel. Na een kwartier zie je geen egale bruine vlek, maar een cirkel met een duidelijk donkerdere omtrek. Hetzelfde zie je bij een opgedroogde wijnvlek op een tafelkleed, of bij kalkranden op een glas dat je na de afwas liet uitdruppen.\n\n## Wat onderzoek zegt\n\nHet sleutelartikel is 'Capillary flow as the cause of ring stains from dried liquid drops' van Deegan, Bakajin, Dupont, Huber, Nagel en Witten, in Nature in 1997. Zij toonden dat de vastgepinde rand en de verdamping samen een stroming naar buiten veroorzaken die vrijwel al het opgeloste materiaal naar de rand kan dragen. Klassieke verklaringen zoals convectie bleken het effect niet te verklaren.\n\nIn 2000 werkte dezelfde groep de theorie verder uit in Physical Review E. Volgens Deegan hangt het effect niet af van wat er in de druppel zit, welke vloeistof het is of op welk oppervlak hij ligt. Voorwaarde is wel dat de vloeistof verdampt, het oppervlak gedeeltelijk bevochtigt en de rand vastzit.\n\n## Nuance of misverstand\n\nHet ligt dus niet aan de koffie zelf: ook andere vloeistoffen met zwevende deeltjes geven ringen. En het effect is niet onvermijdelijk. Op sterk waterafstotende oppervlakken zit de rand minder snel vast, en dan vormt zich veel minder snel een ring.\n\nVoor de industrie is dit meer dan een curiositeit. Ringvormige afzettingen spelen een rol bij printen, coaten en wassen, waar je juist een egale laag wilt.\n\n## Wat je ermee doet\n\nVlekken en kalkranden ontstaan als water op zijn plek verdampt. Droog glazen en kranen daarom af. Zie je een ring op een tafelblad, dan weet je dat het vuil vooral aan de buitenkant zit: daar moet je het hardst poetsen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Doorsnede van een drogende druppel</text><path d=\"M40 150 Q180 40 320 150\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M20 150 L340 150\" stroke=\"#fff\" stroke-width=\"2\"/><circle cx=\"40\" cy=\"150\" r=\"5\" fill=\"#ffd166\"/><circle cx=\"320\" cy=\"150\" r=\"5\" fill=\"#ffd166\"/><text x=\"40\" y=\"172\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">rand zit vast</text><text x=\"320\" y=\"172\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">rand zit vast</text><path d=\"M60 110 L80 92 M300 110 L280 92\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"3 3\"/><text x=\"60\" y=\"80\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">verdamping</text><text x=\"300\" y=\"80\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">verdamping</text><circle r=\"3\" fill=\"#ff6b9d\"><animateMotion path=\"M180 130 L50 146\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><circle r=\"3\" fill=\"#ff6b9d\"><animateMotion path=\"M180 130 L310 146\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><circle r=\"3\" fill=\"#ff6b9d\"><animateMotion path=\"M170 120 L50 146\" dur=\"3s\" begin=\"1.5s\" repeatCount=\"indefinite\"/></circle><circle r=\"3\" fill=\"#ff6b9d\"><animateMotion path=\"M190 120 L310 146\" dur=\"3s\" begin=\"1.5s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">stroming naar buiten sleept deeltjes naar de rand</text></svg>",
+   "quiz": {
+    "q": "Waarom komen de koffiedeeltjes vooral aan de rand terecht?",
+    "o": [
+     "Een stroming vult verdampt water aan de vastzittende rand aan",
+     "De zwaarste deeltjes rollen naar beneden",
+     "Het midden van de druppel verdampt het snelst"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Deegan e.a. 1997, Nature (abstract via NASA ADS)",
+     "u": "https://ui.adsabs.harvard.edu/abs/1997Natur.389..827D/abstract"
+    },
+    {
+     "t": "Deegan e.a. 2000, Physical Review E",
+     "u": "https://public.websites.umich.edu/~rddeegan/PDF/Coffee_Rings_3_PRE.pdf"
+    }
+   ],
+   "date": "2026-11-28T05:46:17Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Zebrastrepen laten dazen hun landing missen",
+   "body": "Waarom heeft een zebra strepen? Tim Caro, Martin How en collega's filmden in 2016 dazen bij zebra's en paarden op een Engelse paardenstal. Vliegen vlogen zebra's even vaak aan, maar remden niet af en landden zelden. Paarden in een dekentje met zebrastreep kregen veel minder landingen dan in zwart of wit. Publicatie: PLOS ONE, 2019.",
+   "take": "Onthoud: een slimme oplossing werkt soms pas op het allerlaatste moment. Zoek bij een probleem ook naar die laatste stap.",
+   "deep": "## Hoe het werkt\n\nDazen, bloedzuigende vliegen, vliegen op grote dieren af om te steken. Van ver lijken strepen ze niet af te schrikken: ze komen even vaak op een zebra af als op een paard. Het verschil zit in de laatste meters. Een daas moet afremmen om netjes te landen. Bij zebra's lukt dat slecht: de vliegen komen sneller binnen, remmen niet af en botsen eerder tegen de vacht dan dat ze landen. Een vlieg die niet landt, kan niet bijten.\n\nDe onderzoekers vermoeden dat de strepen het zicht van de vlieg van dichtbij verstoren, waardoor ze haar snelheid en afstand slecht inschat.\n\n## Een voorbeeld\n\nStel je een warme julidag voor in een weide in de Kempen. Een paard staat met zijn staart te zwiepen en zijn huid te trillen tegen de dazen. Zou je het paard een gestreepte deken omdoen, dan zouden volgens dit onderzoek veel minder dazen op die deken landen. Zijn blote hoofd blijft wel even kwetsbaar.\n\n## Wat onderzoek zegt\n\nHet team van Tim Caro (University of California, Davis) en Martin How (University of Bristol) werkte in juli 2016 op Hill Livery, een stal in North Somerset met zowel zebra's als paarden. Ze volgden de vliegen met video. In een tweede proef droegen dezelfde paarden om beurten een zwart, een wit en een gestreept dekentje. In streep kwamen er veel minder dazen aan en op de deken. Op hun onbedekte hoofd zagen de onderzoekers geen verschil. Omdat het telkens om dezelfde paarden ging, konden geur of gedrag van het dier het verschil niet verklaren.\n\nOok het gedrag verschilde: zebra's zwiepten met hun staart en liepen weg van de vliegen, paarden trilden vaker met hun huid. Het artikel verscheen in februari 2019 in PLOS ONE.\n\n## Nuance of misverstand\n\nHet onderzoek gebeurde op één locatie in Groot-Brittannië, met zebra's in gevangenschap. Hoe de strepen de vlieg precies in de war brengen, werd in deze studie niet rechtstreeks getest. En wat voor paarden werkt, mag je niet zomaar doortrekken naar mensen in gestreepte kleren: daar zegt deze studie niets over.\n\n## Wat je ermee doet\n\nDit is een mooi voorbeeld van hoe wetenschap een oude vraag aanpakt: niet alleen observeren, maar ook een slimme proef bedenken die andere verklaringen uitsluit. Wil je zelf iets testen, verander dan telkens één ding en houd de rest gelijk, net zoals die paarden met hun dekentjes.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Waar landt de daas?</text><rect x=\"40\" y=\"100\" width=\"100\" height=\"70\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M55 100 L55 170 M75 100 L75 170 M95 100 L95 170 M115 100 L115 170 M135 100 L135 170\" stroke=\"#fff\" stroke-width=\"8\"/><text x=\"90\" y=\"192\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">streep: botst, vliegt weg</text><rect x=\"220\" y=\"100\" width=\"100\" height=\"70\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"270\" y=\"192\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">effen: landt netjes</text><circle r=\"5\" fill=\"#ffd166\"><animateMotion path=\"M20 40 Q60 60 90 98 Q110 70 150 50\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><circle r=\"5\" fill=\"#06d6a0\"><animateMotion path=\"M340 40 Q300 60 280 92 L270 96\" dur=\"4s\" repeatCount=\"indefinite\"/></circle><text x=\"90\" y=\"60\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">remt niet af</text><text x=\"300\" y=\"60\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">remt af</text></svg>",
+   "quiz": {
+    "q": "Wat zagen de onderzoekers bij dazen rond zebra's?",
+    "o": [
+     "Ze vlogen zebra's veel minder vaak aan",
+     "Ze remden niet goed af en landden zelden",
+     "Ze werden door de geur van zebra's afgeschrikt"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "University of Bristol – Research reveals why the zebra got its stripes",
+     "u": "https://bristol.ac.uk/news/2019/february/zebra-stripes.html"
+    },
+    {
+     "t": "Caro e.a. 2019, PLOS ONE (Bristol Research Portal)",
+     "u": "https://research-information.bris.ac.uk/en/publications/benefits-of-zebra-stripes-behaviour-of-tabanid-flies-around-zebra/"
+    },
+    {
+     "t": "UC Davis – How zebra stripes disrupt flies' flight patterns",
+     "u": "https://www.ucdavis.edu/news/how-zebra-stripes-disrupt-flies-flight-patterns"
+    }
+   ],
+   "date": "2026-11-28T05:46:17Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Je skelet vernieuwt elk jaar zo'n tien procent",
+   "body": "Bot is levend weefsel. Osteoclasten breken oud bot af, osteoblasten bouwen nieuw bot op, in kleine ploegjes die na elkaar werken. Bij volwassenen wordt zo ongeveer 10 procent van het skelet per jaar vernieuwd, waardoor het grootste deel ongeveer om de tien jaar vervangen is. Zo ruimt je lichaam microschade op.",
+   "take": "Wandel, loop of spring regelmatig: botten die gewicht en schokken dragen, krijgen het signaal om sterk te blijven.",
+   "deep": "## Hoe het werkt\n\nJe skelet lijkt een vast geraamte, maar het is een bouwwerf die nooit sluit. Op duizenden plekken tegelijk zijn kleine ploegjes cellen aan het werk. Eerst komen de osteoclasten: zij lossen een stukje oud of beschadigd bot op. Daarna nemen osteoblasten het over: zij leggen nieuw botweefsel aan, dat later verhardt.\n\nWetenschappers beschrijven die cyclus in vijf stappen: activatie, afbraak (resorptie), omschakeling, opbouw en afronding. Die stappen lopen overal in het skelet, maar niet overal op hetzelfde moment.\n\nWaarom al die moeite? Bot krijgt elke dag kleine klappen en microscheurtjes. Door oud, beschadigd bot te vervangen door nieuw, mechanisch sterker bot blijft het geheel stevig.\n\n## Een voorbeeld\n\nDenk aan een oude kerk in een Vlaamse stad. Er staat bijna altijd ergens een stelling: hier wordt een verweerde steen vervangen, daar een stuk voeg. Na genoeg jaren is een groot deel van de stenen nieuw, terwijl de kerk er gewoon blijft staan. Zo werkt je skelet ook.\n\n## Wat onderzoek zegt\n\nVolgens het rapport over botgezondheid van de Amerikaanse Surgeon General gaat botombouw je hele leven door, zodat het grootste deel van het volwassen skelet ongeveer om de tien jaar vervangen is. Dat komt neer op zo'n 10 procent per jaar. Bij baby's gaat het veel sneller: in het eerste levensjaar wordt bijna het hele skelet vernieuwd.\n\nHetzelfde rapport benadrukt dat bot belasting nodig heeft. Botten worden zwakker als ze onvoldoende gewicht dragen; astronauten in gewichtloosheid verliezen snel bot. Harvard Health vat studies samen die tonen dat gewichtdragende beweging botverlies kan afremmen, en dat activiteiten met meer impact een groter effect hebben.\n\n## Nuance of misverstand\n\n'Elke tien jaar een nieuw skelet' is een vereenvoudiging. Tien procent per jaar is een gemiddelde: sommige delen worden sneller vernieuwd, andere trager.\n\nBotombouw is ook een evenwicht. Bij het ouder worden kan de afbraak de opbouw overstijgen. Dan verlies je bot, en dat kan leiden tot osteoporose, de meest voorkomende botziekte. Ook geldt: alleen de botten die belast worden, profiteren. Fietsen belast je benen anders dan wandelen of springen.\n\n## Wat je ermee doet\n\nBeweeg zo dat je botten gewicht dragen: wandelen, trappen lopen, joggen, dansen of krachttraining. Wat de ideale dosis is, weten onderzoekers nog niet precies, maar regelmatig in beweging blijven helpt je bouwwerf draaiende te houden.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Botombouw: afbreken en opbouwen</text><rect x=\"30\" y=\"110\" width=\"300\" height=\"50\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"185\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">bot</text><circle r=\"10\" fill=\"#ff6b9d\"><animateMotion path=\"M50 100 L310 100\" dur=\"6s\" begin=\"0s\" repeatCount=\"indefinite\"/></circle><circle r=\"10\" fill=\"#06d6a0\"><animateMotion path=\"M50 100 L310 100\" dur=\"6s\" begin=\"1.5s\" repeatCount=\"indefinite\"/></circle><text x=\"90\" y=\"60\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">osteoclast</text><text x=\"90\" y=\"76\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">breekt af</text><text x=\"270\" y=\"60\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">osteoblast</text><text x=\"270\" y=\"76\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">bouwt op</text><text x=\"180\" y=\"210\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">volwassene: ca. 10% van het skelet per jaar</text></svg>",
+   "quiz": {
+    "q": "Wat doen osteoclasten in je botten?",
+    "o": [
+     "Ze bouwen nieuw bot op",
+     "Ze maken bloedcellen aan",
+     "Ze breken oud bot af"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Surgeon General – Bone Health and Osteoporosis (NCBI)",
+     "u": "https://www.ncbi.nlm.nih.gov/books/NBK45504/"
+    },
+    {
+     "t": "Harvard Health – Weight-bearing exercise and bone loss",
+     "u": "https://www.health.harvard.edu/staying-healthy/slowing-bone-loss-with-weight-bearing-exercise"
+    },
+    {
+     "t": "Stanford Medicine – The hidden life of bones",
+     "u": "https://stanmed.stanford.edu/osteoclasts-osteoblasts-bone-health/"
+    }
+   ],
+   "date": "2026-11-28T05:46:17Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Wat de twee getallen van je bloeddruk betekenen",
+   "body": "Bij 120/80 is 120 de systolische druk: de druk in je slagaders terwijl je hart samentrekt. 80 is de diastolische druk: als je hart ontspant tussen twee slagen. Beide in mmHg, millimeter kwik. De Europese richtlijn (ESC, 2024) spreekt van hoge bloeddruk vanaf 140/90 en van verhoogd vanaf 120/70.",
+   "take": "Noteer bij een meting altijd beide getallen. Komt een van de twee boven 140 of 90, bespreek het dan met je huisarts.",
+   "deep": "## Hoe het werkt\n\nJe hart pompt bloed in golven. Bij elke slag knijpt de hartspier samen en perst bloed in de slagaders: dan is de druk het hoogst. Dat is de systolische druk, het bovenste getal. Daarna ontspant het hart en vult het zich opnieuw. De druk in de slagaders zakt, maar niet tot nul: dat laagste punt is de diastolische druk, het onderste getal.\n\nDe eenheid mmHg, millimeter kwik, komt van de oude kwikmeters. Een druk van 120 mmHg kan een kolom kwik 120 millimeter omhoog duwen. Digitale meters gebruiken nog altijd dezelfde eenheid.\n\n## Een voorbeeld\n\nJe huisarts meet 132/78. Het bovenste getal valt tussen 120 en 139, het onderste tussen 70 en 89: allebei 'verhoogd'. Een andere patiënt meet 118/92. Het bovenste getal is netjes, maar het onderste haalt de grens van 90. Omdat je naar beide getallen kijkt, telt hier de hoogste categorie: dat is hoge bloeddruk.\n\n## Wat onderzoek zegt\n\nDe European Society of Cardiology publiceerde in 2024 nieuwe richtlijnen. Op basis van metingen bij de arts onderscheiden ze drie groepen: niet verhoogd (onder 120/70), verhoogd (systolisch 120 tot 139 of diastolisch 70 tot 89) en hypertensie (vanaf 140/90). De categorie 'verhoogd' is nieuw en moet mensen opsporen die baat kunnen hebben bij strengere opvolging. Voor wie bloeddrukverlagende medicatie neemt, raadt de richtlijn een systolisch streefdoel van 120 tot 129 aan.\n\n## Nuance of misverstand\n\nNiet elke richtlijn hanteert dezelfde grenzen. De Amerikaanse cardiologen (AHA en ACC) noemen alles onder 120/80 normaal en spreken al van hypertensie vanaf 130 systolisch of 80 diastolisch. Lees je een Amerikaans artikel, dan kunnen de cijfers dus anders klinken.\n\nOok belangrijk: bloeddruk schommelt door de dag heen, bijvoorbeeld bij inspanning of stress. Eén meting is een momentopname, geen diagnose. Je arts beslist op basis van meerdere metingen en je totale risico.\n\n## Wat je ermee doet\n\nMeet je thuis, ga dan eerst een paar minuten rustig zitten en noteer beide getallen met datum en uur. Neem dat lijstje mee naar je huisarts. Zie je herhaaldelijk een bovenste getal vanaf 140 of een onderste vanaf 90, maak dan een afspraak, ook als je je goed voelt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Eén hartslag, twee drukken</text><circle cx=\"50\" cy=\"110\" r=\"22\" fill=\"#ff6b9d\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"r\" values=\"22;16;22\" dur=\"1.5s\" repeatCount=\"indefinite\"/></circle><text x=\"50\" y=\"155\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">hart</text><path d=\"M95 60 L330 60\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><path d=\"M95 150 L330 150\" stroke=\"#06d6a0\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><path d=\"M95 150 Q115 50 135 60 Q155 70 175 150 Q195 50 215 60 Q235 70 255 150 Q275 50 295 60 Q315 70 330 150\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"500\" stroke-dashoffset=\"500\"><animate attributeName=\"stroke-dashoffset\" values=\"500;0\" dur=\"4.5s\" repeatCount=\"indefinite\"/></path><text x=\"212\" y=\"48\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">120 = systolisch (hart knijpt samen)</text><text x=\"212\" y=\"172\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">80 = diastolisch (hart ontspant)</text><text x=\"180\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">ESC 2024: hypertensie vanaf 140/90 mmHg</text></svg>",
+   "quiz": {
+    "q": "Wat meet het onderste getal van je bloeddruk?",
+    "o": [
+     "De druk terwijl je hart ontspant tussen twee slagen",
+     "De druk terwijl je hart samenknijpt",
+     "Het aantal hartslagen per minuut"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "ESC – 2024 Guidelines Elevated Blood Pressure and Hypertension (persbericht)",
+     "u": "https://www.escardio.org/news/press/press-releases/New-ESC-Hypertension-Guidelines-recommend-intensified-BP-targets-and-introduce-a-novel-elevated-blood-pressure-category-to-better-identify-people-at-risk-for-heart-attack-and-stroke/"
+    },
+    {
+     "t": "American Heart Association – What do the numbers mean?",
+     "u": "https://www.heart.org/en/news/2023/05/02/blood-pressure-what-do-the-numbers-mean-and-why-do-they-matter"
+    },
+    {
+     "t": "HealthLinkBC – Systolic and diastolic blood pressure",
+     "u": "https://www.healthlinkbc.ca/healthwise/systolic-and-diastolic-blood-pressure"
+    }
+   ],
+   "date": "2026-11-28T05:46:17Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Bij hooikoorts slaat je afweer alarm voor stuifmeel",
+   "body": "Bij hooikoorts maakt je afweer IgE-antistoffen tegen onschuldig stuifmeel. Die gaan op mestcellen in je neus en ogen zitten. Bij een volgende blootstelling koppelt stuifmeel aan die IgE en lossen de mestcellen histamine en andere stoffen. Gevolg: jeuk, niezen, een verstopte neus. Antihistaminica blokkeren de H1-receptor waarop histamine inwerkt.",
+   "take": "Begint je hooikoorts elk jaar rond dezelfde tijd? Vraag je apotheker of je antihistaminicum al twee tot vier weken vooraf mag starten.",
+   "deep": "## Hoe het werkt\n\nHooikoorts is een allergische reactie van type I, gestuurd door IgE-antistoffen. Het begint met sensibilisatie: je afweersysteem ziet stuifmeel ten onrechte als een indringer en maakt er IgE-antistoffen tegen. Die antistoffen gaan vastzitten op mestcellen in je weefsels, zoals in het slijmvlies van neus en ogen, en op basofielen in je bloed. Op dat moment merk je nog niets.\n\nDe volgende keer dat je stuifmeel inademt, bindt het aan die IgE en verbindt het de receptoren op de mestcel met elkaar. Dat is het startsein: de mestcel laat histamine en andere stoffen vrij. Histamine hecht aan zijn receptoren in de omgeving en veroorzaakt jeuk, niezen, een loopneus en een verstopte neus.\n\n## Een voorbeeld\n\nJe fietst op een zonnige dag langs een grasveld waar net gemaaid is. Binnen enkele minuten begint je neus te kriebelen en tranen je ogen. Je collega naast je merkt niets. Zij heeft geen IgE tegen graspollen, jouw mestcellen zijn wel 'geladen'.\n\n## Wat onderzoek zegt\n\nKlassieke antihistaminica werken door de plaats van histamine in te nemen. Ze binden aan de histamine-1-receptor (H1R) zonder hem te activeren, waardoor histamine zijn werk niet meer kan doen. Dat beschrijft onder meer een studie in The Journal of Clinical Investigation. Oudere antihistaminica maken vaak slaperig; nieuwere middelen doen dat zelden, volgens de MSD-handleiding.\n\nAndere middelen grijpen eerder in. Cromoglicaat kan voorkomen dat mestcellen hun inhoud lossen, maar alleen als je het neemt voor de blootstelling.\n\n## Nuance of misverstand\n\nHistamine is niet de enige stof die mestcellen vrijlaten. Daarom nemen antihistaminica niet altijd alle klachten weg, en zijn er ook andere behandelingen, zoals een neusspray met corticosteroïden. Volgens de Britse gezondheidsdienst NHS kun je hooikoorts niet genezen of voorkomen; je kunt de klachten wel verlichten. Immunotherapie, waarbij je afweer langzaam went aan het allergeen, start doorgaans enkele maanden voor het pollenseizoen.\n\n## Wat je ermee doet\n\nHoud bij wanneer je klachten elk jaar beginnen. Asthma + Lung UK geeft aan dat je sommige antihistaminica twee tot vier weken vooraf kunt starten en het hele seizoen kunt doornemen. Een neusspray met corticosteroïden start je best een tot twee weken voor de klachten. Vraag je apotheker of huisarts welk middel bij jou past, zeker als je met de auto rijdt: kies dan een niet-slaperig middel.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Hoe stuifmeel histamine losmaakt</text><circle cx=\"40\" cy=\"70\" r=\"8\" fill=\"#ffd166\"><animate attributeName=\"cx\" values=\"20;120;120\" keyTimes=\"0;0.4;1\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><text x=\"50\" y=\"50\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">stuifmeel</text><circle cx=\"150\" cy=\"120\" r=\"40\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"150\" y=\"124\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">mestcel</text><path d=\"M126 86 L120 76 M134 82 L132 70\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"150\" y=\"182\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">IgE op het oppervlak</text><circle cx=\"200\" cy=\"110\" r=\"4\" fill=\"#ff6b9d\"><animate attributeName=\"cx\" values=\"190;190;270\" keyTimes=\"0;0.45;1\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><circle cx=\"200\" cy=\"130\" r=\"4\" fill=\"#ff6b9d\"><animate attributeName=\"cx\" values=\"190;190;262\" keyTimes=\"0;0.5;1\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><text x=\"230\" y=\"95\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">histamine</text><path d=\"M280 100 L280 140 L300 140 L300 100\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"300\" y=\"160\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">H1-receptor</text><text x=\"300\" y=\"176\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">jeuk, niezen</text><rect x=\"276\" y=\"92\" width=\"28\" height=\"10\" fill=\"#06d6a0\"><animate attributeName=\"opacity\" values=\"0;0;1;1\" keyTimes=\"0;0.6;0.7;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"350\" y=\"80\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">antihistaminicum blokkeert</text></svg>",
+   "quiz": {
+    "q": "Hoe helpt een antihistaminicum tegen hooikoorts?",
+    "o": [
+     "Het vernietigt het stuifmeel in je neus",
+     "Het blokkeert de receptor waarop histamine inwerkt",
+     "Het maakt je ongevoelig voor alle allergieën"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "MSD Manual – Overview of Allergic and Atopic Disorders",
+     "u": "https://www.msdmanuals.com/professional/immunology-allergic-disorders/allergic,-autoimmune,-and-other-hypersensitivity-disorders/overview-of-allergic-and-atopic-disorders"
+    },
+    {
+     "t": "NHS – Hay fever",
+     "u": "https://www.nhs.uk/conditions/hay-fever/"
+    },
+    {
+     "t": "Asthma + Lung UK – Hay fever treatments",
+     "u": "https://www.asthmaandlung.org.uk/conditions/hay-fever/treatments"
+    }
+   ],
+   "date": "2026-11-28T05:46:17Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Stress maakt muizen grijs, bij mensen ligt het genuanceerder",
+   "body": "In 2020 toonde het team van Ya-Chieh Hsu (Harvard) in Nature dat acute stress muizen grijs maakt. Stresszenuwen lossen noradrenaline, waardoor pigmentstamcellen in de haarzakjes zich allemaal tegelijk activeren en opgebruikt raken. In veel haarzakjes waren ze binnen vijf dagen verdwenen. Bij mensen is het bewijs nog beperkt.",
+   "take": "Na een zware periode een grijze haar? Geen paniek: bij mensen bleek pigment in sommige haren terug te keren toen de stress zakte.",
+   "deep": "## Hoe het werkt\n\nAan de voet van elk haar zitten stamcellen die pigmentcellen kunnen aanmaken: melanocytstamcellen. Normaal rusten ze grotendeels en leveren ze bij elke nieuwe haargroei net genoeg pigmentcellen. Zo blijft er een reserve over.\n\nBij muizen ontdekten onderzoekers dat acute stress het sympathisch zenuwstelsel aanzet, het deel van je zenuwstelsel achter de vecht-of-vluchtreactie. Die zenuwen lopen tot in de haarzakjes en lossen daar noradrenaline. Die stof jaagt de stamcellen op: ze delen zich snel, worden allemaal pigmentcellen en verlaten hun plek. De reserve is op, en nieuwe haren groeien wit.\n\n## Een voorbeeld\n\nIemand gaat door een zware periode, bijvoorbeeld een verbouwing, examens en een zieke ouder tegelijk, en ziet daarna meer grijze haren. Het muizenonderzoek biedt een mogelijk mechanisme. Of dat bij die persoon echt zo werkte, kun je er niet uit afleiden.\n\n## Wat onderzoek zegt\n\nBing Zhang, Ya-Chieh Hsu en collega's publiceerden hun studie in 2020 in Nature. Ze gaven zwarte muizen onder meer een injectie met resiniferatoxine, een stof die pijnzenuwen prikkelt. In veel haarzakjes waren de pigmentstamcellen binnen vijf dagen helemaal verdwenen. Het team sloot andere verklaringen uit: muizen zonder afweercellen werden ook grijs, en muizen zonder bijnieren, die geen cortisolachtige hormonen maken, eveneens. Muizen bij wie de stamcellen geen noradrenalinereceptor (bèta-2) hadden, werden niet grijs.\n\nIn 2021 bekeek een team rond Martin Picard (Columbia University) in eLife haren van ongeveer een dozijn mensen, millimeter per millimeter. Bij sommigen verloor een haar pigment in een stressvolle periode en kreeg het dat terug toen de stress afnam. Bij één persoon werden vijf haren tijdens een vakantie weer donker.\n\n## Nuance of misverstand\n\nHet harde mechanisme is aangetoond bij muizen, met extreme prikkels. Hsu zei zelf dat verder onderzoek nodig is voor sluitend bewijs bij mensen, en dat onduidelijk is of dezelfde zenuwen ons met de leeftijd grijs maken. De menselijke studie was klein. Bovendien was het verlies bij muizen blijvend, terwijl sommige menselijke haren hun kleur terugkregen. Picard denkt dat een haar pas grijs wordt boven een drempel die vooral door leeftijd bepaald wordt; stress kan haren rond die drempel een duwtje geven.\n\n## Wat je ermee doet\n\nZie grijze haren niet als bewijs van een mislukt leven: veroudering speelt de hoofdrol. Wil je minder stress, dan is dat goed voor je hele lichaam. Een paar haren die weer kleur krijgen, zou een mooie bonus zijn, maar reken er niet op.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Stress, zenuw en pigmentstamcellen (muis)</text><path d=\"M40 60 C80 60 90 110 130 120\" fill=\"none\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"6 4\"><animate attributeName=\"stroke-dashoffset\" values=\"20;0\" dur=\"1s\" repeatCount=\"indefinite\"/></path><text x=\"45\" y=\"50\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">stresszenuw</text><path d=\"M150 200 L150 120 Q150 90 180 90 Q210 90 210 120 L210 200\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"215\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">haarzakje</text><circle cx=\"165\" cy=\"140\" r=\"6\" fill=\"#06d6a0\"><animate attributeName=\"opacity\" values=\"1;1;0;0\" keyTimes=\"0;0.4;0.6;1\" dur=\"7s\" repeatCount=\"indefinite\"/></circle><circle cx=\"195\" cy=\"140\" r=\"6\" fill=\"#06d6a0\"><animate attributeName=\"opacity\" values=\"1;1;0;0\" keyTimes=\"0;0.45;0.65;1\" dur=\"7s\" repeatCount=\"indefinite\"/></circle><text x=\"300\" y=\"145\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">stamcellen raken op</text><path d=\"M180 90 L180 40\" stroke=\"#333\" stroke-width=\"5\"><animate attributeName=\"stroke\" values=\"#333;#333;#fff;#fff\" keyTimes=\"0;0.55;0.75;1\" dur=\"7s\" repeatCount=\"indefinite\"/></path><text x=\"270\" y=\"60\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">nieuw haar groeit wit</text></svg>",
+   "quiz": {
+    "q": "Welke stof bleek bij muizen de pigmentstamcellen op te jagen?",
+    "o": [
+     "Noradrenaline uit sympathische zenuwen",
+     "Cortisol uit de bijnieren",
+     "Afweercellen die de stamcellen aanvallen"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Zhang e.a. 2020, Nature (PubMed)",
+     "u": "https://pubmed.ncbi.nlm.nih.gov/31969699/"
+    },
+    {
+     "t": "Harvard Gazette – How stress may trigger gray hair",
+     "u": "https://news.harvard.edu/gazette/story/2020/01/new-findings-suggest-how-stress-may-trigger-gray-hair/"
+    },
+    {
+     "t": "Rosenberg e.a. 2021, eLife",
+     "u": "https://elifesciences.org/articles/67437"
+    }
+   ],
+   "date": "2026-11-28T05:46:17Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Milgrams schokproef: 65 procent ging tot het einde",
+   "body": "Aan Yale liet Stanley Milgram vanaf 1961 proefpersonen een 'leerling' schokken geven bij elke fout, oplopend van 15 tot 450 volt. De schokken waren nep, de leerling een acteur. In zijn artikel uit 1963 gingen 26 van de 40 mannen, 65 procent, door tot het maximum, enkel omdat een proefleider aandrong.",
+   "take": "Voel je druk van een autoriteit om iets te doen wat niet klopt? Benoem je twijfel hardop: zeggen is de eerste stap naar weigeren.",
+   "deep": "## Hoe het werkt\n\nDe proefpersoon dacht mee te doen aan een studie over leren en straffen. Hij kreeg de rol van 'leraar', een medewerker van Milgram speelde de 'leerling' in een andere kamer. Bij elke fout moest de leraar een schok geven via een toestel met 30 knoppen, van 15 tot 450 volt. De leerling protesteerde steeds heviger. Aarzelde de leraar, dan zei de proefleider in labojas rustig dat hij moest doorgaan. In werkelijkheid kreeg niemand een schok.\n\n## Een voorbeeld\n\nDenk aan een jobstudent in een winkel. De verantwoordelijke zegt: 'Zet die vervallen kip er nog maar bij, dat is altijd zo gedaan.' Hij voelt dat het niet klopt, maar de baas is de baas. Milgrams werk gaat precies over die spanning tussen je eigen geweten en een opdracht van iemand die verantwoordelijk lijkt.\n\n## Wat onderzoek zegt\n\nMilgram publiceerde 'Behavioral Study of Obedience' in 1963 in het Journal of Abnormal and Social Psychology. Van de 40 mannen tussen 20 en 50 jaar gingen er 26 tot 450 volt, 65 procent. Hij herhaalde de basisversie zelf minstens drie keer met vergelijkbare resultaten, en wereldwijd zijn er zo'n twintig herhalingen bekend, aldus Scientific American. Zijn boek 'Obedience to Authority' volgde in 1974.\n\n## Nuance of misverstand\n\nDe psychologe en schrijfster Gina Perry dook voor haar boek 'Behind the Shock Machine' (2013) in de archieven van Yale en sprak met oud-deelnemers. Zij stelt dat proefleiders vaak van het script afweken en deelnemers bleven aanporren. Volgens haar heranalyse twijfelde ook een groter deel van de deelnemers aan de echtheid van de schokken dan Milgram rapporteerde: eerder de helft dan een kwart. Bovendien liepen de resultaten tussen de varianten sterk uiteen, en in sommige varianten gehoorzaamde niemand.\n\nDe beroemde '65 procent' is dus het resultaat van één opzet, geen vaste eigenschap van de mens. Toch wijzen herhalingen erop dat veel mensen verder gaan dan ze zelf zouden voorspellen. Opvallend: inleidende handboeken laten de kritiek vaak weg.\n\n## Wat je ermee doet\n\nOnthoud twee lessen. Eén: situaties met een duidelijke autoriteit duwen ons verder dan we denken. Twee: zo'n klassieker verdient een kritische blik. Zie je zelf iets wat niet klopt, zeg het dan hardop en zoek een medestander. Wie de eerste stap durft te zetten, maakt het voor anderen makkelijker om ook nee te zeggen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Schokgenerator: 15 tot 450 volt</text><rect x=\"30\" y=\"60\" width=\"300\" height=\"30\" fill=\"none\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"30\" y=\"60\" width=\"300\" height=\"30\" fill=\"#ff6b9d\"><animate attributeName=\"width\" values=\"0;300;300\" keyTimes=\"0;0.7;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"30\" y=\"108\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">15 V</text><text x=\"330\" y=\"108\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">450 V</text><rect x=\"30\" y=\"140\" width=\"195\" height=\"24\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ffd166\" stroke-width=\"2\"/><rect x=\"225\" y=\"140\" width=\"105\" height=\"24\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"127\" y=\"157\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">26 tot het einde</text><text x=\"277\" y=\"157\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">14 stopten</text><text x=\"180\" y=\"195\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">40 mannen, 1963: 65 procent tot 450 volt</text><text x=\"180\" y=\"212\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">kritiek: proefleiders weken af van script</text></svg>",
+   "quiz": {
+    "q": "Welke kritiek uitte Gina Perry op Milgrams experiment?",
+    "o": [
+     "De schokken waren in werkelijkheid echt",
+     "Er deden alleen vrouwen mee",
+     "Proefleiders weken vaak af van het script"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Milgram 1963, Behavioral Study of Obedience (PDF)",
+     "u": "https://www.psy.miami.edu/_assets/pdf/rpo-articles/milgram-1963.pdf"
+    },
+    {
+     "t": "NPR – Taking a closer look at Milgram's obedience study",
+     "u": "https://www.npr.org/2013/08/28/209559002/taking-a-closer-look-at-milgrams-shocking-obedience-study"
+    },
+    {
+     "t": "Scientific American – Milgram's shock studies still hold lessons",
+     "u": "https://www.scientificamerican.com/article/milgrams-infamous-shock-studies-still-hold-lessons-for-confronting/"
+    }
+   ],
+   "date": "2026-11-28T05:46:17Z"
+  },
+  {
+   "cat": "psychologie",
+   "title": "Het Stanford-gevangenisexperiment was sterker gestuurd dan beweerd",
+   "body": "In augustus 1971 speelden studenten in een nagebouwde gevangenis aan Stanford bewaker of gevangene. Philip Zimbardo stopte na zes van de geplande veertien dagen: de bewakers zouden vanzelf wreed geworden zijn. Thibault Le Texier dook in de archieven en schreef in 2019 in American Psychologist dat de bewakers instructies kregen, zoals nachtelijke tellingen.",
+   "take": "Hoor je een spectaculaire psychologieles? Vraag: hoe wisten de deelnemers wat er van hen verwacht werd?",
+   "deep": "## Hoe het werkt\n\nHet klassieke verhaal: uit 75 kandidaten werden 24 jonge mannen geselecteerd, die door toeval bewaker of gevangene werden. Binnen enkele dagen werden de bewakers zo hard en vernederend dat Zimbardo het experiment na zes dagen afblies. De les leek duidelijk: een slechte situatie maakt gewone mensen wreed, ook zonder dat iemand het vraagt.\n\nPrecies dat laatste staat ter discussie. Als de bewakers aanwijzingen kregen over hoe ze zich moesten gedragen, dan toont het experiment vooral dat mensen doen wat de onderzoekers van hen verwachten. Psychologen noemen dat 'demand characteristics': deelnemers pikken op wat er verwacht wordt en gedragen zich daarnaar.\n\n## Een voorbeeld\n\nStel dat een leidinggevende in een Vlaams bedrijf een nieuwe ploegbaas vertelt: 'We willen hier strak toezicht, laat je niet doen.' Als die ploegbaas daarna streng optreedt, zeg je niet dat de functie hem vanzelf streng maakte. Hij volgde vooral een signaal van boven.\n\n## Wat onderzoek zegt\n\nDe Franse onderzoeker Thibault Le Texier bestudeerde de archieven van het experiment en interviewde 15 deelnemers. In 2019 publiceerde hij 'Debunking the Stanford Prison Experiment' in American Psychologist. Zijn kritiek: de bewakers kregen instructies, zoals nachtelijke tellingen. De gegevens werden onvolledig en selectief verzameld. En het experiment leunde sterk op een gevangenisexperiment dat studenten uit Zimbardo's les drie maanden eerder hadden opgezet.\n\nAl in 1975 lieten Banuazizi en Movahedi mensen alleen een beschrijving van de opzet lezen: 90 procent voorspelde dat de bewakers hard en vijandig zouden zijn. De BBC Prison Study van Haslam en Reicher uit 2002, waarin bewakers zulke sturing niet kregen, gaf ook andere resultaten.\n\n## Nuance of misverstand\n\nZimbardo heeft de kritiek van Le Texier verworpen. Hij verweet hem vooral persoonlijke aanvallen en het negeren van gegevens die zijn punten tegenspreken. De discussie gaat bovendien niet over de vraag of situaties ons gedrag beïnvloeden: dat doen ze zeker. Ze gaat over de vraag of dit experiment dat bewijst zoals het altijd werd verteld.\n\n## Wat je ermee doet\n\nWees voorzichtig met beroemde experimenten als bewijs voor een simpele les over de mens. Stel bij elk opvallend resultaat drie vragen. Wisten de deelnemers wat er verwacht werd? Werd het experiment herhaald? Wie heeft de ruwe gegevens bekeken? En als je zelf leiding geeft: besef dat je verwachtingen het gedrag van je team sterker sturen dan je denkt.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"20\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Spontaan of gestuurd?</text><rect x=\"20\" y=\"70\" width=\"90\" height=\"44\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"stroke\" values=\"#fff;#ffd166;#fff;#fff\" keyTimes=\"0;0.15;0.3;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"65\" y=\"96\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">onderzoekers</text><rect x=\"135\" y=\"70\" width=\"90\" height=\"44\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"stroke\" values=\"#fff;#fff;#ffd166;#fff\" keyTimes=\"0;0.3;0.45;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"180\" y=\"90\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">instructies</text><text x=\"180\" y=\"104\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">verwachtingen</text><rect x=\"250\" y=\"70\" width=\"90\" height=\"44\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"stroke\" values=\"#fff;#fff;#fff;#ffd166\" keyTimes=\"0;0.45;0.6;1\" dur=\"6s\" repeatCount=\"indefinite\"/></rect><text x=\"295\" y=\"90\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">gedrag</text><text x=\"295\" y=\"104\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">bewakers</text><path d=\"M112 92 L128 92\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M128 88 L134 92 L128 96 Z\" fill=\"#fff\"/><path d=\"M227 92 L243 92\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M243 88 L249 92 L243 96 Z\" fill=\"#fff\"/><text x=\"180\" y=\"150\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">klassiek verhaal: rol maakt wreed</text><text x=\"180\" y=\"172\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">Le Texier 2019: bewakers kregen sturing</text><text x=\"180\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">1971, gestopt na 6 van 14 geplande dagen</text></svg>",
+   "quiz": {
+    "q": "Wat was een kernpunt van Le Texiers kritiek uit 2019?",
+    "o": [
+     "Er deden helemaal geen studenten mee",
+     "De bewakers kregen instructies over hoe ze zich moesten gedragen",
+     "Het experiment duurde langer dan gepland"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Le Texier 2019, American Psychologist (PDF)",
+     "u": "https://www.gwern.net/doc/psychology/2019-letexier.pdf"
+    },
+    {
+     "t": "University of Melbourne – The Stanford prison experiment was flawed",
+     "u": "https://findanexpert.unimelb.edu.au/news/98029-the-infamous-stanford-prison-experiment-was-flawed-%E2%80%93-so-why-is-it-still-so-influential-today"
+    },
+    {
+     "t": "Stanford Libraries – Stanford Prison Experiment archief",
+     "u": "https://purl.stanford.edu/vx097ry2810"
+    }
+   ],
+   "date": "2026-11-28T05:46:17Z"
   }
  ],
  "dives": [
