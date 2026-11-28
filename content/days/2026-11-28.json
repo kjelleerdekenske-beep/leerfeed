@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T05:50:39Z",
+ "updated": "2026-11-28T05:54:10Z",
  "cards": [
   {
    "cat": "psychologie",
@@ -1444,6 +1444,98 @@
     }
    ],
    "date": "2026-11-28T05:50:39Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Sprinkhanen liepen 100 miljoen jaar geleden over water",
+   "body": "Chinese paleontologen beschrijven in Proceedings of the Royal Society B (24 november 2026) een nieuwe familie uitgestorven sprinkhanen, Hydrelcanidae, bewaard in Burmees barnsteen van zo'n 99 tot 100 miljoen jaar oud. Hun lange poten droegen waterafstotende haartjes en peddelachtige structuren. Eén stuk barnsteen bevat minstens negen dieren samen: het oudste bewijs van groepsgedrag bij sprinkhanen.",
+   "take": "Zie je een schaatsenrijder op een vijver? Kijk naar de kuiltjes rond zijn poten: daar draagt oppervlaktespanning hem.",
+   "deep": "## Hoe het werkt\n\nWatermoleculen trekken elkaar aan. Aan het oppervlak hebben ze boven zich geen buren, dus trekken ze extra hard naar elkaar en naar beneden. Zo ontstaat een soort elastisch velletje: oppervlaktespanning. Een klein, licht dier kan daarop staan, zolang het niet door dat velletje prikt.\n\nTwee dingen helpen daarbij. Ten eerste waterafstotende haartjes: die houden luchtlaagjes vast, zodat de poot niet nat wordt en het water hem terugduwt. Ten tweede lange, uitgespreide poten: die verdelen het gewicht over een groter oppervlak. De nieuw beschreven sprinkhanen hadden allebei: waterafstotende haartjes op de voorpoten en peddelachtige structuren op de achterpoten, wellicht voor evenwicht en voortbeweging.\n\n## Een voorbeeld\n\nIn elke Vlaamse vijver of sloot zie je in de zomer schaatsenrijders over het water glijden. Ze zakken niet, maar duwen kleine kuiltjes in het wateroppervlak. Zo moet je je deze uitgestorven sprinkhanen ongeveer voorstellen, maar dan in een tropisch bos uit de tijd van de dinosaurussen.\n\n## Wat onderzoek zegt\n\nHet team van Chunpeng Xu, verbonden aan het Nanjing Institute of Geology and Palaeontology, beschreef de soort Hydrelcana zhangi in een nieuwe familie, de Hydrelcanidae. De fossielen zitten in barnsteen uit Kachin in Myanmar, dat zo'n 99 tot 100 miljoen jaar oud is. Barnsteen is versteende boomhars: een insect dat erin vastraakte, blijft tot in detail bewaard, tot de haartjes op de poten toe. In één stuk zitten minstens negen individuen, volwassen dieren én nimfen. Volgens de auteurs is dat het oudst bekende fossiele bewijs van groepsgedrag bij sprinkhanen en hun verwanten. Lopen op water is bij insecten dus meermaals onafhankelijk ontstaan.\n\n## Nuance of misverstand\n\nNiemand heeft deze dieren zien lopen. Dat ze over water bewogen, is afgeleid uit de bouw van hun poten, vergeleken met nu levende waterlopers. Ook groepsgedrag is een interpretatie: negen dieren in één klomp hars kan ook toeval zijn, al maakt de mix van volwassenen en jongen dat minder waarschijnlijk. Bovendien is barnsteen uit Myanmar omstreden, omdat de handel erin verbonden is met het gewapend conflict in de regio. Een aantal wetenschappelijke organisaties vraagt daarom terughoudendheid met nieuw materiaal.\n\n## Wat je ermee doet\n\nOnthoud het principe: oppervlaktespanning draagt alleen wie licht is en het gewicht spreidt. Daarom drijft een paperclip als je hem heel voorzichtig neerlegt, en zinkt hij als je hem erin duwt. Probeer het thuis met een glas water: zo zie je zelf waar deze sprinkhanen op vertrouwden.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Lopen op water dankzij oppervlaktespanning</text><path d=\"M20,140 Q60,134 100,140 T180,140 T260,140 T340,140\" stroke=\"#06d6a0\" stroke-width=\"2\" fill=\"none\"/><text x=\"300\" y=\"165\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">wateroppervlak</text><g><animateTransform attributeName=\"transform\" type=\"translate\" values=\"0,0;140,0;0,0\" dur=\"8s\" repeatCount=\"indefinite\"/><ellipse cx=\"110\" cy=\"110\" rx=\"26\" ry=\"9\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M95,115 L70,138 M105,117 L95,138 M120,117 L135,138 M128,114 L160,138\" stroke=\"#fff\" stroke-width=\"2\" fill=\"none\"/><path d=\"M66,138 L78,138 M154,138 L168,138\" stroke=\"#ffd166\" stroke-width=\"3\"/></g><text x=\"180\" y=\"60\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">waterafstotende haartjes + peddelpoten</text><text x=\"180\" y=\"195\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Burmees barnsteen, ongeveer 99-100 miljoen jaar oud</text></svg>",
+   "quiz": {
+    "q": "Waaruit leiden onderzoekers af dat deze sprinkhanen over water liepen?",
+    "o": [
+     "Uit versteende voetsporen op een rivierbodem",
+     "Uit de bouw van hun poten, met waterafstotende haartjes",
+     "Uit waterdruppels die in het barnsteen zitten"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Phys.org – water-walking grasshoppers",
+     "u": "https://phys.org/news/2026-11-amber-fossils-reveal-grasshoppers-million.html"
+    },
+    {
+     "t": "Science News",
+     "u": "https://www.sciencenews.org/article/extinct-grasshoppers-walked-on-water"
+    }
+   ],
+   "date": "2026-11-28T05:54:10Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Elektrisch plasma bakt cementklinker in seconden",
+   "body": "Onderzoekers van Stanford en UC Berkeley beschrijven in Nature (25 november 2026) hoe ze cementklinker in seconden maken in plaats van uren. Een plasma op stroom verhit kalksteen en klei lokaal tot boven 2400 °C. Volgens het team gaat zo'n 80 procent van de warmte nuttig naar het cement, tegenover 30 à 40 procent in klassieke ovens.",
+   "take": "Lees je 'CO2-vrij cement'? Vraag dan apart naar de brandstof voor de oven én naar de CO2 uit de kalksteen zelf.",
+   "deep": "## Hoe het werkt\n\nGewoon cement begint als een mengsel van kalksteen en klei. Dat gaat in een lange draaioven die op ongeveer 1450 °C wordt gestookt, meestal met fossiele brandstoffen. Daarbij gebeuren twee dingen. De kalksteen (calciumcarbonaat) valt uiteen in kalk en CO2. Daarna smelt een deel van het mengsel en vormen zich nieuwe mineralen: klinker, de korrels die na het malen cement worden.\n\nDe nieuwe methode vervangt de vlam door een plasma: een gas dat met elektriciteit zo heet wordt gemaakt dat het geleidend en gloeiend wordt. Het plasma brengt de grondstoffen plaatselijk boven 2400 °C. Daardoor ontstaat veel meer vloeibare fase, en in vloeistof verlopen de reacties veel sneller. Wat in een oven uren duurt, gebeurt dan in seconden.\n\n## Een voorbeeld\n\nIn België staan cementfabrieken onder meer in de regio Doornik en Bergen, waar kalksteen wordt ontgonnen. Zo'n fabriek draait dag en nacht met een enorme oven. Stel je voor dat die oven vervangen wordt door een compacte plasmabrander op groene stroom, die alleen draait wanneer er aanbod is. Dat is de belofte, al is het nog lang geen fabriek.\n\n## Wat onderzoek zegt\n\nDe studie in Nature, onder leiding van Qi Zheng met Yi Cui als een van de corresponderende auteurs, beschrijft hoe lokale temperaturen boven 2400 °C de vorming van vloeibare fase maximaliseren en het klinkerproces sterk versnellen. Het werk werd eerder in augustus voorgesteld op het najaarscongres van de American Chemical Society. Daar meldde het team dat klinker zich bijna honderd keer sneller vormde dan normaal en dat zo'n 80 procent van de warmte nuttig gebruikt werd. Ook gerecycleerde cementpasta uit betonafval kon opnieuw tot klinker worden verwerkt die aan de normen voor portlandklinker voldeed. Cementproductie is goed voor bijna 8 procent van de wereldwijde CO2-uitstoot.\n\n## Nuance of misverstand\n\nPlasma lost maar een deel van het probleem op. Het vervangt de brandstof, maar de CO2 die vrijkomt als kalksteen uiteenvalt, blijft bestaan. Daarvoor zijn koolstofvangst of andere grondstoffen nodig. Bovendien hangt de winst af van de stroom: plasma op steenkoolstroom helpt weinig. En het gaat om labwerk; opschalen naar miljoenen ton per jaar is een heel ander verhaal.\n\n## Wat je ermee doet\n\nOnthoud dat cement twee CO2-bronnen heeft: de warmte en de kalksteen zelf. Lees je over groener bouwen, kijk dan welke van de twee wordt aangepakt. En wie verbouwt, kan vragen naar cementsoorten met minder klinker of naar gerecycleerd materiaal.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Klassieke oven vs. plasma</text><rect x=\"20\" y=\"50\" width=\"140\" height=\"60\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"90\" y=\"76\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">draaioven op brandstof</text><text x=\"90\" y=\"94\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">uren, 30-40% nuttige warmte</text><rect x=\"200\" y=\"50\" width=\"140\" height=\"60\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"270\" y=\"76\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">elektrisch plasma</text><text x=\"270\" y=\"94\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">seconden, ~80%</text><circle cx=\"270\" cy=\"150\" r=\"16\" fill=\"#ffd166\"><animate attributeName=\"r\" values=\"10;20;10\" dur=\"2s\" repeatCount=\"indefinite\"/></circle><text x=\"270\" y=\"186\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">meer dan 2400 °C</text><circle cx=\"90\" cy=\"150\" r=\"12\" fill=\"#ff6b9d\"><animate attributeName=\"opacity\" values=\"0.3;1;0.3\" dur=\"6s\" repeatCount=\"indefinite\"/></circle><text x=\"90\" y=\"186\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">CO2 uit kalksteen blijft</text><text x=\"180\" y=\"210\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">kalksteen + klei worden klinker</text></svg>",
+   "quiz": {
+    "q": "Welke CO2-bron in cementproductie lost plasma níet op?",
+    "o": [
+     "De brandstof voor de oven",
+     "De CO2 die vrijkomt als kalksteen uiteenvalt",
+     "De uitstoot van vrachtwagens op de werf"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Nature – liquid-phase cement",
+     "u": "https://www.nature.com/articles/s41586-026-11313-w"
+    },
+    {
+     "t": "Newswise – ACS persbericht",
+     "u": "https://www.newswise.com/articles/decarbonizing-cement-production-with-electricity"
+    },
+    {
+     "t": "CemNet",
+     "u": "https://www.cemnet.com/News/story/181982/stanford-develops-plasma-heating-process-for-low-carbon-cement.html"
+    }
+   ],
+   "date": "2026-11-28T05:54:10Z"
+  },
+  {
+   "cat": "geld",
+   "title": "EU koopt meer dan ze verkoopt, vooral door China",
+   "body": "Volgens Eurostat (26 november 2026) voerde de EU in het derde kwartaal voor 730,0 miljard euro goederen in en voor 694,0 miljard uit: een tekort van ongeveer 36 miljard, na een overschot een jaar eerder. China leverde 22,3 procent van de invoer, 14 procent meer dan vorig jaar. De VS bleven de grootste afnemer.",
+   "take": "Hoor je 'handelstekort'? Dat is geen schuld of verlies, maar gewoon: meer gekocht dan verkocht in het buitenland.",
+   "deep": "## Hoe het werkt\n\nDe handelsbalans is het verschil tussen wat een land of regio uitvoert en wat het invoert. Verkoopt de EU meer goederen aan de rest van de wereld dan ze koopt, dan is er een overschot. Koopt ze meer, dan is er een tekort. Eurostat telt daarbij alleen handel met landen buiten de EU; handel tussen België en Duitsland telt dus niet mee. Het gaat hier ook enkel om goederen, niet om diensten zoals software of toerisme.\n\nEen tekort ontstaat als de invoer sneller groeit dan de uitvoer, of als de uitvoer daalt. Duurdere energie is een klassieke oorzaak: Europa moet olie en gas grotendeels invoeren, dus als die prijzen stijgen, stijgt de invoerfactuur meteen.\n\n## Een voorbeeld\n\nDenk aan een Belgisch gezin dat elektrische fietsen, zonnepanelen en een gsm koopt die in China gemaakt zijn, en dat met gas stookt uit Noorwegen. Al die aankopen tellen als invoer. Een Vlaams bedrijf dat machines verkoopt aan de VS of chocolade aan Japan, telt als uitvoer. Optellen over de hele EU levert de handelsbalans op.\n\n## Wat onderzoek zegt\n\nIn het derde kwartaal van 2026 bedroeg de EU-invoer 730,0 miljard euro en de uitvoer 694,0 miljard. Seizoensgecorrigeerd geeft dat een tekort van ongeveer 36 miljard euro, terwijl er in hetzelfde kwartaal van 2025 nog een overschot was. China was de grootste leverancier, met 163,0 miljard euro of 22,3 procent van de invoer; die invoer steeg met 14,0 procent op jaarbasis. De invoer uit Noorwegen groeide het snelst, met 46,5 procent. De VS waren de grootste exportmarkt, met 137,0 miljard euro of 19,7 procent van de uitvoer. Energieproducten wogen het zwaarst op de balans, met een tekort van 96,3 miljard euro.\n\n## Nuance of misverstand\n\nEen handelstekort is niet automatisch slecht. Het kan betekenen dat consumenten goedkope spullen kopen of dat bedrijven investeren met ingevoerde machines. Het wordt wel een aandachtspunt als het tekort lang aanhoudt, of als een regio sterk afhankelijk wordt van één leverancier. Bovendien vertekent energie het beeld: hogere gasprijzen vergroten het tekort zonder dat Europa meer gas verbruikt.\n\n## Wat je ermee doet\n\nKijk bij elk handelscijfer naar drie dingen: gaat het om goederen of ook diensten, welke productgroep trekt het cijfer (vaak energie), en van welke partners zijn we afhankelijk? Zo begrijp je beter waarom Europa debatteert over invoerheffingen en over eigen productie van bijvoorbeeld batterijen en zonnepanelen.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">EU-goederenhandel, derde kwartaal 2026</text><path d=\"M180,70 L180,180\" stroke=\"#fff\" stroke-width=\"2\"/><g><animateTransform attributeName=\"transform\" type=\"rotate\" values=\"0 180 70;-4 180 70;-4 180 70\" keyTimes=\"0;0.4;1\" dur=\"5s\" repeatCount=\"indefinite\"/><path d=\"M60,70 L300,70\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"40\" y=\"70\" width=\"80\" height=\"44\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#06d6a0\" stroke-width=\"2\"/><text x=\"80\" y=\"96\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">export 694</text><rect x=\"240\" y=\"70\" width=\"80\" height=\"48\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#ff6b9d\" stroke-width=\"2\"/><text x=\"280\" y=\"98\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">import 730</text></g><path d=\"M150,180 L210,180\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"180\" y=\"150\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">tekort ±36 miljard euro</text><text x=\"180\" y=\"200\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">China: 22,3% van de invoer (+14%)</text><text x=\"180\" y=\"215\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"10\" text-anchor=\"middle\">bedragen in miljard euro</text></svg>",
+   "quiz": {
+    "q": "Wat betekent een EU-handelstekort in goederen?",
+    "o": [
+     "Dat de EU geld schuldig is aan China",
+     "Dat de EU meer goederen invoert dan uitvoert",
+     "Dat Europese bedrijven verlies maken"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "The Brussels Times",
+     "u": "https://www.brusselstimes.com/eu-affairs/2424816/eu-trade-deficit-deepens-as-china-dominates-imports-us-leads-exports"
+    },
+    {
+     "t": "Fibre2Fashion – Eurostat Q3 2026",
+     "u": "https://www.fibre2fashion.com/news/textile-news/eu-goods-trade-turns-deficit-in-q3-2026-as-china-gap-widens-315380-newsdetails.htm"
+    },
+    {
+     "t": "Eurostat – news article",
+     "u": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261126-1"
+    }
+   ],
+   "date": "2026-11-28T05:54:10Z"
   }
  ],
  "dives": [
