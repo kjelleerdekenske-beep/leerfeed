@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T05:47:15Z",
+ "updated": "2026-11-28T05:50:39Z",
  "cards": [
   {
    "cat": "psychologie",
@@ -1224,6 +1224,226 @@
     }
    ],
    "date": "2026-11-28T05:47:15Z"
+  },
+  {
+   "cat": "wetenschap",
+   "title": "Zwakste supernova ooit bleef bijna een jaar nagloeien",
+   "body": "SN 2024vjm, in september 2024 ontdekt in sterrenstelsel NGC 6744, is mogelijk de zwakste supernova ooit gezien: ongeveer 300 keer zwakker dan een gewone type Ia. Toch bleef hij bijna een jaar zichtbaar. Een studie in Nature Astronomy (26 november 2026) toont met een oudere foto van ruimtetelescoop Euclid dat de bron vooraf onzichtbaar zwak was.",
+   "take": "Hoor je dat supernova's 'standaardkaarsen' zijn? Onthoud dat er zwakke buitenbeentjes bestaan die die meetlat kunnen verstoren.",
+   "deep": "## Hoe het werkt\n\nEen witte dwerg is het uitgebrande restant van een ster zoals de zon. Krijgt zo'n dwerg materie van een begeleidende ster, dan kan hij ontploffen. Dat is een supernova van type Ia. Omdat die explosies vrij gelijkaardig zijn, gebruiken astronomen ze als 'standaardkaars': weet je hoe fel iets echt is, dan kun je uit hoe fel het lijkt afleiden hoe ver het staat.\n\nEr bestaat ook een zwakkere variant, type Iax. Daarbij komt veel minder energie vrij en beweegt het uitgestoten gas trager. Bij SN 2024vjm bleef de gaswolk daardoor compact. Die hield het licht langer dan 70 dagen gevangen, waardoor de supernova niet snel uitdoofde maar bijna een jaar bleef nagloeien.\n\n## Een voorbeeld\n\nVergelijk het met een vuurpijl en een sterretje op oudejaarsavond. De vuurpijl is fel en meteen weg. Het sterretje is veel zwakker, maar sputtert lang door. SN 2024vjm is het sterretje onder de supernova's.\n\n## Wat onderzoek zegt\n\nDe supernova werd op 13 september 2024 ontdekt door de BlackGEM-telescopen, aan de rand van het sterrenstelsel NGC 6744, op zo'n 9,4 megaparsec (ruim 30 miljoen lichtjaar). Het team, met onder meer de Universiteit van Turku, schat hem 100 tot 300 keer zwakker dan een typische supernova. Op een diepe opname van Euclid van vóór de explosie was op die plek geen heldere ster te zien. De voorloper moet dus zwakker zijn geweest dan alle eerdere kandidaten voor type Iax. Het spectrum past bij een ontploffende witte dwerg, mogelijk met een kleine heliumster als begeleider. Opvallend: bij gewone type Ia doven fellere exemplaren trager uit. Deze zwakke Iax doet net het omgekeerde.\n\n## Nuance of misverstand\n\n'Zwakste ooit' betekent: de zwakste die we tot nu toe zagen. Zulke flauwe explosies zijn moeilijk te vinden, dus er zijn er waarschijnlijk veel meer. Daarom waarschuwen de onderzoekers: als zulke buitenbeentjes ongemerkt tussen gewone type Ia sluipen, kan dat afstandsmetingen in het heelal vertekenen. Het is geen bewijs dat die metingen fout zijn.\n\n## Wat je ermee doet\n\nOnthoud het principe achter de standaardkaars: afstand meten met licht werkt alleen als je zeker weet hoe fel de bron echt is. Lees je nieuws over 'het heelal dijt sneller uit dan gedacht', vraag je dan af welke meetlat gebruikt werd en hoe zeker men is dat die lat overal gelijk is.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Lichtcurve: snel uit of lang nagloeien</text><path d=\"M40,190 L40,40 M40,190 L330,190\" stroke=\"#fff\" stroke-width=\"2\" fill=\"none\"/><text x=\"34\" y=\"115\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">licht</text><text x=\"330\" y=\"207\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"end\">tijd</text><path d=\"M45,185 C70,40 90,40 115,110 S200,185 320,186\" stroke=\"#ffd166\" stroke-width=\"2\" fill=\"none\"/><text x=\"150\" y=\"70\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">gewone type Ia</text><path d=\"M45,186 C70,150 100,150 140,152 S260,160 320,166\" stroke=\"#06d6a0\" stroke-width=\"2\" fill=\"none\"/><text x=\"170\" y=\"138\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">SN 2024vjm: 300x zwakker</text><circle r=\"5\" fill=\"#06d6a0\"><animateMotion dur=\"6s\" repeatCount=\"indefinite\" path=\"M45,186 C70,150 100,150 140,152 S260,160 320,166\"/></circle><circle r=\"5\" fill=\"#ffd166\"><animateMotion dur=\"6s\" repeatCount=\"indefinite\" path=\"M45,185 C70,40 90,40 115,110 S200,185 320,186\"/></circle></svg>",
+   "quiz": {
+    "q": "Waarom bleef SN 2024vjm zo lang zichtbaar?",
+    "o": [
+     "Een compacte, trage gaswolk hield het licht lang vast",
+     "Het was een supernova vlak naast de aarde",
+     "Euclid bleef hem met een laser verlichten"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "IEEC – faintest supernova",
+     "u": "https://www.ieec.cat/en/the-faintest-supernova-ever-observed-refused-to-fade-due-to-its-weak-explosion/"
+    },
+    {
+     "t": "Nature Astronomy – SN 2024vjm",
+     "u": "https://www.nature.com/articles/s41550-026-03024-z"
+    },
+    {
+     "t": "Phys.org",
+     "u": "https://phys.org/news/2026-11-faintest-supernova-staying-visible-year.html"
+    }
+   ],
+   "date": "2026-11-28T05:50:39Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Veel chips als tiener, later vaker darmontsteking?",
+   "body": "Een studie in het vakblad Gut (november 2026) volgde bijna 112.000 kinderen uit Noorwegen, Denemarken en Zweden 12 tot 17 jaar lang. Wie als tiener veel zoute snacks at, zoals chips en popcorn, kreeg volgens het persbericht 32 procent vaker een chronische darmontsteking (IBD). Fruit en vis gingen samen met minder kans op de ziekte van Crohn.",
+   "take": "Lees je 'X procent meer risico'? Vraag dan: meer dan wat, bij hoeveel mensen, en is het verband statistisch stevig?",
+   "deep": "## Hoe het werkt\n\nBij een chronische darmontsteking (IBD, van inflammatory bowel disease) valt je afweersysteem je eigen darmwand aan. De twee bekendste vormen zijn de ziekte van Crohn en colitis ulcerosa. Waarom iemand het krijgt, is maar deels bekend: erfelijkheid speelt mee, net als de darmbacteriën en de omgeving, waaronder voeding.\n\nIn deze studie keken onderzoekers niet in het lab, maar in grote groepen mensen. Ze vroegen tijdens de kindertijd en de tienerjaren wat de deelnemers aten, en volgden daarna wie IBD kreeg. Zo vind je verbanden: groepen die meer van iets aten, kregen vaker of minder vaak de ziekte. De onderzoekers opperen dat vezels en omega-3-vetten uit fruit en vis beschermend kunnen werken, en dat vetten in zoute snacks ontstekingen kunnen aanwakkeren.\n\n## Een voorbeeld\n\nDenk aan een tiener die elke avond na het voetbal een zak chips leegeet. Volgens deze cijfers loopt zo'n groep gemiddeld iets meer risico. Maar die tiener eet misschien ook minder groenten, slaapt anders of komt uit een gezin met andere gewoonten. Dat soort factoren proberen onderzoekers mee te verrekenen, maar nooit volledig.\n\n## Wat onderzoek zegt\n\nDe studie bundelde drie Scandinavische geboortecohorten: MoBa uit Noorwegen, DNBC uit Denemarken en ABIS uit Zweden. Bij 111.999 deelnemers kwamen 653 gevallen van IBD voor. Volgens het persbericht hing veel zoute snacks als tiener samen met 32 procent meer kans op IBD en 51 procent meer kans op colitis ulcerosa, vergeleken met weinig snacks. Meer fruit en vis in de kindertijd ging samen met minder kans op Crohn. Vreemd genoeg ging fruit in de kindertijd wel samen met iets meer colitis ulcerosa, iets wat de auteurs niet konden verklaren.\n\n## Nuance of misverstand\n\nDit is een observationele studie: ze toont verbanden, geen oorzaak. Bovendien geven verslagen een verschillend beeld. Het medische nieuwsplatform HealthDay schrijft dat de verbanden met zoute snacks statistisch niet significant waren, wat betekent dat toeval niet uit te sluiten is. Ook belangrijk: IBD blijft zeldzaam. Met 653 gevallen op bijna 112.000 mensen gaat een relatieve stijging van 32 procent over een klein absoluut risico.\n\n## Wat je ermee doet\n\nZie dit niet als reden om in paniek elke chip te weren, wel als nog een argument voor een gevarieerd bord met fruit en vis. En train jezelf om bij elk gezondheidsbericht het verschil te zien tussen relatief en absoluut risico, en tussen verband en oorzaak.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Verband is nog geen oorzaak</text><rect x=\"30\" y=\"60\" width=\"110\" height=\"50\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"85\" y=\"82\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">veel zoute snacks</text><text x=\"85\" y=\"98\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">als tiener</text><rect x=\"220\" y=\"60\" width=\"110\" height=\"50\" rx=\"8\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"275\" y=\"82\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">later vaker</text><text x=\"275\" y=\"98\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">IBD</text><path d=\"M140,85 L214,85\" stroke=\"#fff\" stroke-width=\"2\" stroke-dasharray=\"6 4\"><animate attributeName=\"stroke-dashoffset\" values=\"20;0\" dur=\"1.5s\" repeatCount=\"indefinite\"/></path><path d=\"M214,80 L222,85 L214,90 Z\" fill=\"#fff\"/><text x=\"180\" y=\"76\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">+32%?</text><rect x=\"125\" y=\"140\" width=\"110\" height=\"40\" rx=\"8\" fill=\"none\" stroke=\"#ff6b9d\" stroke-width=\"2\"><animate attributeName=\"opacity\" values=\"0.2;1;0.2\" dur=\"4s\" repeatCount=\"indefinite\"/></rect><text x=\"180\" y=\"165\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">andere factoren?</text><path d=\"M150,140 L100,112 M210,140 L260,112\" stroke=\"#ff6b9d\" stroke-width=\"2\" stroke-dasharray=\"3 4\"/><text x=\"180\" y=\"206\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">112.000 Scandinaviërs, 653 gevallen</text></svg>",
+   "quiz": {
+    "q": "Wat toont deze studie over zoute snacks en IBD?",
+    "o": [
+     "Dat chips IBD veroorzaken",
+     "Dat zoute snacks beschermen tegen Crohn",
+     "Een verband, maar geen bewijs van oorzaak"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "EurekAlert – BMJ/Gut persbericht",
+     "u": "https://www.eurekalert.org/news-releases/1152831"
+    },
+    {
+     "t": "News-Medical",
+     "u": "https://www.news-medical.net/news/20261123/Salty-snacks-in-adolescence-linked-to-higher-risk-of-IBD.aspx"
+    },
+    {
+     "t": "HealthDay",
+     "u": "https://www.healthday.com/healthpro-news/digestive-system/high-intake-of-salty-snacks-in-adolescence-linked-to-risk-for-ibd"
+    }
+   ],
+   "date": "2026-11-28T05:50:39Z"
+  },
+  {
+   "cat": "gezondheid",
+   "title": "Muziek tijdens hartonderzoek verlaagt hartslag en bloeddruk",
+   "body": "In de MUS.E I-studie, gepubliceerd in het vakblad Heart (november 2026), kregen 100 patiënten bij een coronarografie geen muziek, muziek vooraf, of muziek vooraf én tijdens de ingreep. Met muziek lag hun hartslag gemiddeld op 71 à 72 slagen per minuut, zonder op 80. De groep die ook tijdens de ingreep muziek hoorde, had het minste pijn.",
+   "take": "Moet je binnenkort een spannend medisch onderzoek ondergaan? Vraag of je eigen muziek met oortjes mag meebrengen.",
+   "deep": "## Hoe het werkt\n\nBij een coronarografie schuift een arts een dun buisje, een katheter, via de pols of de lies naar je hart. Daarna spuit hij contrastvloeistof in en maakt röntgenbeelden van de kransslagaders. Je bent meestal wakker. Logisch dat veel mensen dan gespannen zijn.\n\nStress zet je 'gaspedaal' in werking: het sympathische zenuwstelsel. Je lichaam maakt adrenaline aan, je hart klopt sneller en je bloeddruk stijgt. Rustgevende muziek kan helpen om dat gaspedaal wat te lossen en de 'rem' van je zenuwstelsel meer ruimte te geven. Daardoor zakken hartslag en bloeddruk, en voelt pijn vaak minder erg aan.\n\n## Een voorbeeld\n\nStel: je ligt in een Vlaams ziekenhuis op de onderzoekstafel. In plaats van te luisteren naar piepende toestellen en gesprekken van het team, hoor je via oortjes je eigen favoriete nummers. Je ademt rustiger, je focust minder op wat er gebeurt en de tijd lijkt sneller te gaan.\n\n## Wat onderzoek zegt\n\nDe MUS.E I-studie verdeelde tussen november 2024 en maart 2025 honderd patiënten willekeurig over drie groepen: 34 zonder muziek, 34 met persoonlijke muziek gedurende 30 minuten vooraf, en 32 met muziek vooraf én tijdens de ingreep. In beide muziekgroepen lag de gemiddelde hartslag op 71 tot 72 slagen per minuut, tegenover 80 zonder muziek. De groep met muziek vooraf én tijdens had de laagste bovendruk; een verslag spreekt van ongeveer 13 mmHg minder dan zonder muziek. Die groep meldde ook het minste pijn. Daarnaast lag het gehalte aan troponine, een stofje dat vrijkomt bij hartspierschade, lager in beide muziekgroepen. De auteurs pleiten voor muziek in katheterisatiezalen.\n\n## Nuance of misverstand\n\nHet gaat om één studie met honderd patiënten. Patiënten wisten uiteraard of ze muziek hoorden, en dat kan hun eigen pijnscore beïnvloeden. Het lagere troponine is interessant, maar zegt nog niet dat muziek het hart beschermt; daarvoor zijn grotere studies nodig. Muziek vervangt ook geen verdoving of medische zorg: het is een goedkope aanvulling.\n\n## Wat je ermee doet\n\nMuziek is een eenvoudig, gratis middel tegen spanning, ook buiten het ziekenhuis: bij de tandarts, voor een examen of tijdens een bloedafname. Kies muziek die jij rustgevend vindt, want het effect in de studie kwam van persoonlijk gekozen muziek.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Hartslag tijdens coronarografie</text><path d=\"M20,80 L80,80 L92,50 L104,110 L116,80 L200,80 L212,50 L224,110 L236,80 L340,80\" stroke=\"#ff6b9d\" stroke-width=\"2\" fill=\"none\" stroke-dasharray=\"60 400\"><animate attributeName=\"stroke-dashoffset\" values=\"460;0\" dur=\"3s\" repeatCount=\"indefinite\"/></path><text x=\"70\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">geen muziek</text><text x=\"180\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">muziek vooraf</text><text x=\"290\" y=\"205\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">vooraf + tijdens</text><rect x=\"45\" y=\"110\" width=\"50\" height=\"80\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"70\" y=\"104\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">80</text><rect x=\"155\" y=\"119\" width=\"50\" height=\"71\" fill=\"#06d6a0\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"height\" values=\"80;71;71\" dur=\"4s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"110;119;119\" dur=\"4s\" repeatCount=\"indefinite\"/></rect><text x=\"180\" y=\"113\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">71-72</text><rect x=\"265\" y=\"119\" width=\"50\" height=\"71\" fill=\"#06d6a0\" stroke=\"#fff\" stroke-width=\"2\"><animate attributeName=\"height\" values=\"80;71;71\" dur=\"4s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"110;119;119\" dur=\"4s\" repeatCount=\"indefinite\"/></rect><text x=\"290\" y=\"113\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">71-72</text></svg>",
+   "quiz": {
+    "q": "Welke groep had in de studie de laagste bovendruk?",
+    "o": [
+     "Muziek vooraf én tijdens de ingreep",
+     "Geen muziek",
+     "Alleen muziek na de ingreep"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "BMJ Group – persbericht Heart",
+     "u": "https://bmjgroup.com/music-before-during-stressful-procedure-to-visualise-coronary-artery-blood-flow-linked-to-lower-blood-pressure/"
+    },
+    {
+     "t": "News-Medical",
+     "u": "https://www.news-medical.net/news/20261124/Music-calms-the-heart-and-lowers-blood-pressure-during-angiography.aspx"
+    },
+    {
+     "t": "Medical Xpress",
+     "u": "https://medicalxpress.com/news/2026-11-music-coronary-angiography-linked-blood.html"
+    }
+   ],
+   "date": "2026-11-28T05:50:39Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Een chip maakt ultraviolet licht voor kwantumcomputers",
+   "body": "Ingenieurs van Harvard, in het lab van Marko Lončar, halen 4,2 milliwatt ultraviolet licht van 390 nanometer uit een chip van dunne-film-lithiumniobaat. Ze verdubbelen daarvoor de frequentie van rood laserlicht van 780 nanometer. Dat is ongeveer honderd keer meer dan vergelijkbare chips. Kwantumcomputers met gevangen ionen hebben zulk licht nodig. Het verscheen in Nature Communications.",
+   "take": "Zie je een groene laserpointer? Die gebruikt hetzelfde trucje: onzichtbaar infrarood licht wordt in een kristal omgezet naar groen.",
+   "deep": "## Hoe het werkt\n\nLicht bestaat uit pakketjes energie, fotonen. Hoe korter de golflengte, hoe meer energie per foton. Rood licht van 780 nanometer heeft precies half zoveel energie per foton als ultraviolet licht van 390 nanometer. In bepaalde kristallen kunnen twee rode fotonen samensmelten tot één UV-foton. Dat heet frequentieverdubbeling.\n\nHet lastige: de rode en de UV-golf lopen in het kristal niet even snel. Ze raken uit de pas en doven elkaar dan weer uit. De oplossing is het kristal om de paar micrometer 'om te polen', zodat de nieuwe UV-golf telkens weer versterkt wordt. Het Harvard-team deed dat met elektroden naast de lichtgeleider in plaats van erboven. Zo klapt het kristal over de volledige doorsnede om, wat veel meer UV oplevert. Een extra stap past de afstanden tussen de zones aan, om kleine verschillen in de dikte van het kristal op te vangen.\n\n## Een voorbeeld\n\nEen groene laserpointer van een paar euro werkt volgens hetzelfde principe: binnenin wordt infrarood licht van 1064 nanometer verdubbeld tot groen licht van 532 nanometer. Harvard doet iets gelijkaardigs, maar dan op een chip kleiner dan een vingernagel en in het ultraviolet.\n\n## Wat onderzoek zegt\n\nHet artikel 'Milliwatt-level UV generation using sidewall poled lithium niobate' in Nature Communications meldt 4,2 milliwatt bij 390,6 nanometer. Persberichten spreken van ongeveer 120 keer meer dan eerdere dunne-film-chips; het artikel zelf zegt twee grootteordes, dus ongeveer honderd keer. De auteurs verwachten dat hun aanpak ook werkt tot 350 nanometer, zij het met een lager rendement.\n\nWaarom dat telt: kwantumcomputers met gevangen ionen sturen hun qubits, individuele geladen atomen, met laserlicht van heel precieze golflengtes, vaak in of vlak bij het ultraviolet. Vandaag gebeurt dat met grote lasersystemen op een optische tafel.\n\n## Nuance of misverstand\n\nDit is geen kwantumcomputer op een chip. Het is één onderdeel: een kleine, krachtige lichtbron. Er is nog altijd een rode laser nodig om de chip te voeden, en elk type ion vraagt zijn eigen golflengte. Wel is het een stap naar systemen die compacter en stabieler zijn dan een tafel vol spiegels.\n\n## Wat je ermee doet\n\nOnthoud het principe: korter golflengte betekent meer energie per foton, en met slimme kristallen kun je licht van kleur laten veranderen. Hoor je over 'fotonische chips', dan gaat het precies hierover: licht in plaats van elektronen op een chip laten werken.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Frequentieverdubbeling op een chip</text><rect x=\"110\" y=\"80\" width=\"140\" height=\"40\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M130,80 L130,120 M150,80 L150,120 M170,80 L170,120 M190,80 L190,120 M210,80 L210,120 M230,80 L230,120\" stroke=\"#ffd166\" stroke-width=\"2\" stroke-dasharray=\"4 4\"/><text x=\"180\" y=\"140\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">omgepoolde kristalzones</text><path d=\"M10,100 Q20,85 30,100 T50,100 T70,100 T90,100 T110,100\" stroke=\"#ff6b9d\" stroke-width=\"2\" fill=\"none\"/><text x=\"60\" y=\"70\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">rood 780 nm</text><path d=\"M250,100 Q255,90 260,100 T270,100 T280,100 T290,100 T300,100 T310,100 T320,100 T330,100 T340,100\" stroke=\"#06d6a0\" stroke-width=\"2\" fill=\"none\"/><text x=\"300\" y=\"70\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">UV 390 nm</text><circle r=\"5\" fill=\"#ff6b9d\"><animateMotion dur=\"3s\" repeatCount=\"indefinite\" path=\"M10,92 L180,100\"/><animate attributeName=\"opacity\" values=\"1;1;0;0\" keyTimes=\"0;0.5;0.51;1\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><circle r=\"5\" fill=\"#ff6b9d\"><animateMotion dur=\"3s\" repeatCount=\"indefinite\" path=\"M10,108 L180,100\"/><animate attributeName=\"opacity\" values=\"1;1;0;0\" keyTimes=\"0;0.5;0.51;1\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><circle r=\"6\" fill=\"#06d6a0\"><animateMotion dur=\"3s\" repeatCount=\"indefinite\" path=\"M180,100 L180,100 L345,100\" keyPoints=\"0;0;1\" keyTimes=\"0;0.5;1\" calcMode=\"linear\"/><animate attributeName=\"opacity\" values=\"0;0;1;1\" keyTimes=\"0;0.5;0.51;1\" dur=\"3s\" repeatCount=\"indefinite\"/></circle><text x=\"180\" y=\"180\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">2 rode fotonen worden 1 UV-foton</text><text x=\"180\" y=\"200\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">4,2 milliwatt: ongeveer 100x meer dan vroeger</text></svg>",
+   "quiz": {
+    "q": "Hoe maakt de Harvard-chip ultraviolet licht?",
+    "o": [
+     "Door een uv-lamp te verkleinen",
+     "Door twee rode fotonen samen te voegen tot één UV-foton",
+     "Door zonlicht op te vangen en te filteren"
+    ],
+    "a": 1
+   },
+   "src": [
+    {
+     "t": "Nature Communications – Milliwatt-level UV",
+     "u": "https://www.nature.com/articles/s41467-026-68524-y"
+    },
+    {
+     "t": "Harvard SEAS",
+     "u": "https://seas.harvard.edu/news/ultraviolet-light-fits-chip"
+    },
+    {
+     "t": "Nanowerk",
+     "u": "https://www.nanowerk.com/nanotechnology-news3/newsid=69275.php"
+    }
+   ],
+   "date": "2026-11-28T05:50:39Z"
+  },
+  {
+   "cat": "tech",
+   "title": "Chatbots sturen steeds meer kopers naar webwinkels",
+   "body": "Volgens Adobe Analytics kwam er op Thanksgiving (26 november 2026) 162 procent meer verkeer van AI-assistenten naar Amerikaanse webwinkels dan een jaar eerder. Van 1 tot 22 november was het +127 procent. Vorig feestseizoen meldde Adobe nog +693 procent. De groei lijkt te vertragen, maar dat komt vooral doordat de basis veel groter is geworden.",
+   "take": "Vraag je een chatbot om koopadvies? Klik door, maar vergelijk de prijs nog even zelf bij een tweede winkel.",
+   "deep": "## Hoe het werkt\n\nKlik je in een AI-assistent op een link naar een webwinkel, dan vertelt je browser vaak aan die winkel waar je vandaan komt. Webwinkels die analysesoftware van Adobe gebruiken, zien dus hoeveel bezoekers via een chatbot binnenkomen. Adobe telt die bezoeken over veel Amerikaanse winkels samen en vergelijkt ze met dezelfde periode een jaar eerder.\n\nZo'n groeicijfer is een verhouding: (dit jaar min vorig jaar) gedeeld door vorig jaar. Als de basis klein is, levert een kleine stijging al een gigantisch percentage op. Als de basis groot is, betekent zelfs een fors lager percentage nog altijd veel extra bezoekers.\n\n## Een voorbeeld\n\nJe vraagt een chatbot: 'Welke airfryer onder 100 euro is goed?' Je krijgt drie suggesties met links en klikt door naar een webshop. Voor die webshop ben je een bezoeker 'via AI'. Ging het vorig jaar om 10 zulke bezoekers en nu om 80, dan is dat +700 procent. Gaat het volgend jaar van 80 naar 210, dan is dat 'maar' +162 procent, terwijl er veel meer mensen bijkomen.\n\n## Wat onderzoek zegt\n\nAdobe voorspelde in september voor het hele feestseizoen (1 november tot 31 december) een stijging van 130 procent, met 159 procent op Thanksgiving, 95 procent op Black Friday en 88 procent op Cyber Monday. Op Thanksgiving zelf kwam het uit op 162 procent, iets boven de verwachting. Over 1 tot 22 november telde Adobe 127 procent groei. In zijn terugblik op het vorige seizoen sprak Adobe van een stijging met 693,4 procent. Adobe meldt ook dat bezoekers via AI vaker iets kopen dan andere bezoekers, al lopen de precieze cijfers in verschillende verslagen uiteen.\n\n## Nuance of misverstand\n\nEen groeipercentage zegt niets over het aandeel. AI-verkeer groeit snel, maar het grootste deel van de bezoekers komt nog altijd via zoekmachines, advertenties of rechtstreeks. Bovendien laat niet elk bezoek zijn herkomst achter, dus de echte invloed kan groter of kleiner zijn. En de cijfers gaan over de Verenigde Staten, niet over België.\n\n## Wat je ermee doet\n\nAls consument: een chatbot kiest niet altijd de goedkoopste of beste winkel, dus vergelijk zelf. Als je een webshop hebt: zorg voor duidelijke, correcte productinfo, want AI-assistenten halen hun antwoorden uit wat ze online vinden. En bij elk groeicijfer: vraag naar de basis.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Groei van AI-verkeer naar webwinkels</text><rect x=\"20\" y=\"50\" width=\"80\" height=\"44\" rx=\"10\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"60\" y=\"77\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">chatbot</text><rect x=\"260\" y=\"50\" width=\"80\" height=\"44\" rx=\"6\" fill=\"rgba(255,255,255,0.14)\" stroke=\"#fff\" stroke-width=\"2\"/><text x=\"300\" y=\"77\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">webwinkel</text><path d=\"M100,72 L252,72\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M252,67 L260,72 L252,77 Z\" fill=\"#fff\"/><circle r=\"4\" fill=\"#06d6a0\"><animateMotion dur=\"2s\" repeatCount=\"indefinite\" path=\"M100,72 L255,72\"/></circle><circle r=\"4\" fill=\"#06d6a0\"><animateMotion dur=\"2s\" begin=\"1s\" repeatCount=\"indefinite\" path=\"M100,72 L255,72\"/></circle><path d=\"M40,200 L320,200\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"70\" y=\"120\" width=\"60\" height=\"80\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"0;80;80\" dur=\"5s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"200;120;120\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"100\" y=\"114\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">+693%</text><text x=\"100\" y=\"215\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">seizoen 2025</text><rect x=\"230\" y=\"181\" width=\"60\" height=\"19\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"0;19;19\" dur=\"5s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"200;181;181\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"260\" y=\"175\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">+162%</text><text x=\"260\" y=\"215\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Thanksgiving 2026</text></svg>",
+   "quiz": {
+    "q": "Waarom is +162 procent niet per se 'tragere groei' dan +693 procent?",
+    "o": [
+     "Omdat Adobe anders rekende",
+     "Omdat het om andere landen gaat",
+     "Omdat de basis waarmee je vergelijkt veel groter is geworden"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "Digital Commerce 360 – Adobe-data",
+     "u": "https://www.digitalcommerce360.com/2026/11/25/adobe-online-holiday-spending-data/"
+    },
+    {
+     "t": "TipRanks/The Fly – Thanksgiving AI traffic",
+     "u": "https://www.tipranks.com/news/the-fly/adobe-data-shows-ai-traffic-soaring-as-thanksgiving-online-sales-reach-7-1b-thefly-news"
+    },
+    {
+     "t": "Adobe Holiday Shopping Report",
+     "u": "https://business.adobe.com/resources/holiday-shopping-report.html"
+    }
+   ],
+   "date": "2026-11-28T05:50:39Z"
+  },
+  {
+   "cat": "marketing",
+   "title": "Black Friday: 13 miljard online, maar welke teller klopt?",
+   "body": "Amerikanen gaven op Black Friday (27 november 2026) volgens Adobe tegen 18.30 uur al 9,7 miljard dollar online uit, 12,8 procent meer dan een jaar eerder. Adobe verwachtte voor de hele dag een record van 13 tot 13,4 miljard, tegenover 11,8 miljard in 2025. Salesforce, dat andere winkels volgt, zag slechts 4 procent groei.",
+   "take": "Lees je een recordomzet? Trek de inflatie eraf en vraag wie er telde en wat precies.",
+   "deep": "## Hoe het werkt\n\nNiemand ziet alle online aankopen. Bedrijven als Adobe en Salesforce leveren software aan webwinkels en zien dus de verkoop bij hun eigen klanten. Op basis daarvan schatten ze hoeveel er in totaal werd uitgegeven. Omdat ze elk een andere groep winkels volgen en anders afbakenen, komen ze op andere cijfers uit.\n\nDaarnaast gaat het om nominale bedragen: euro's of dollars van vandaag, zonder correctie voor prijsstijgingen. Als prijzen gemiddeld 3 procent stijgen en de omzet stijgt 4 procent, dan kopen mensen in werkelijkheid maar zo'n 1 procent meer. Dat heet het verschil tussen nominale en reële groei.\n\n## Een voorbeeld\n\nIn België telt betaalverwerker Worldline elk jaar het aantal elektronische betalingen op Black Friday. In 2025 waren dat er 16,2 miljoen, 7 procent meer dan in 2024 en een record. Maar dat is een aantal transacties, geen bedrag. Meer betalingen kan ook betekenen: vaker kleine aankopen, of meer met de kaart en minder cash. Elke teller meet iets anders.\n\n## Wat onderzoek zegt\n\nVolgens Adobe, zoals Reuters meldde, stond de Amerikaanse online uitgave op 27 november om 18.30 uur op 9,7 miljard dollar, 12,8 procent meer dan een jaar eerder. Adobe verwachtte 13 tot 13,4 miljard voor de hele dag, boven zijn eigen septembervoorspelling van 12,9 miljard. Op Thanksgiving telde Adobe 7,1 miljard (+10,4 procent). Voor Cyber Monday voorspelt Adobe 15,1 miljard, en voor de vijf dagen van Thanksgiving tot Cyber Monday 47,5 miljard (+7,4 procent). Salesforce kwam voor Black Friday uit op een traject naar 18,7 miljard dollar in de VS, met 4 procent groei: een hoger bedrag, maar een lagere groei, omdat het iets anders meet.\n\n## Nuance of misverstand\n\nOnline records betekenen niet automatisch dat mensen in totaal meer kopen: een deel verschuift gewoon van de winkel naar de webshop, of van december naar november. Kortingsacties lopen ook steeds langer, waardoor één dag minder zegt. En cijfers die tijdens de dag verschijnen, zijn schattingen die nog bijgesteld worden.\n\n## Wat je ermee doet\n\nBij elk 'recordcijfer' stel je drie vragen: wie telde er (en bij welke winkels)? Gaat het om bedragen of aantallen? En is het gecorrigeerd voor inflatie? Met die drie vragen haal je de marketing uit het nieuws.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Black Friday-groei volgens twee tellers</text><path d=\"M40,180 L320,180\" stroke=\"#fff\" stroke-width=\"2\"/><rect x=\"80\" y=\"52\" width=\"70\" height=\"128\" fill=\"#ffd166\"><animate attributeName=\"height\" values=\"0;128;128\" dur=\"5s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;52;52\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"115\" y=\"46\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">+12,8%</text><text x=\"115\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Adobe (tot 18.30u)</text><rect x=\"210\" y=\"140\" width=\"70\" height=\"40\" fill=\"#06d6a0\"><animate attributeName=\"height\" values=\"0;40;40\" dur=\"5s\" repeatCount=\"indefinite\"/><animate attributeName=\"y\" values=\"180;140;140\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"245\" y=\"134\" fill=\"#06d6a0\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"middle\">+4%</text><text x=\"245\" y=\"198\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">Salesforce</text><text x=\"180\" y=\"214\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">andere klanten, andere afbakening</text></svg>",
+   "quiz": {
+    "q": "Waarom geven Adobe en Salesforce verschillende groeicijfers voor Black Friday?",
+    "o": [
+     "Ze volgen andere winkels en bakenen anders af",
+     "Een van beide liegt bewust",
+     "Salesforce telt alleen fysieke winkels"
+    ],
+    "a": 0
+   },
+   "src": [
+    {
+     "t": "Reuters via US News",
+     "u": "https://money.usnews.com/investing/news/articles/2026-11-27/us-black-friday-online-sales-to-cross-13-billion-adobe-says"
+    },
+    {
+     "t": "Worldline – Black Friday België 2025",
+     "u": "https://worldline.com/en/home/top-navigation/media-relations/press-release/worldline-successfully-processes-record-number-of-electronic-payments-on-black-friday-in-belgium"
+    }
+   ],
+   "date": "2026-11-28T05:50:39Z"
+  },
+  {
+   "cat": "geld",
+   "title": "Inflatie zakt naar 5,09 procent, spilindex net niet gehaald",
+   "body": "De Belgische inflatie daalde in november 2026 naar 5,09 procent, van 5,26 procent in oktober, meldde Statbel op 27 november. Energie was 33,69 procent duurder dan een jaar eerder, elektriciteit 25,6 procent. De kerninflatie zakte naar 2,47 procent. De spilindex werd net niet overschreden: er ontbrak 0,04 procent.",
+   "take": "Dalende inflatie betekent niet dat prijzen dalen: ze stijgen alleen minder snel. Je energiefactuur blijft dus hoger dan vorig jaar.",
+   "deep": "## Hoe het werkt\n\nInflatie vergelijkt de prijs van een vast mandje goederen en diensten met dezelfde maand een jaar eerder. 5,09 procent betekent: wat in november 2025 100 euro kostte, kost nu gemiddeld 105,09 euro. Zakt de inflatie van 5,26 naar 5,09 procent, dan gaan prijzen nog altijd omhoog, alleen iets trager.\n\nVoor lonen en uitkeringen kijkt België niet naar die gewone inflatie, maar naar de gezondheidsindex. Daarin zitten geen tabak, alcohol, benzine en diesel. Van die gezondheidsindex neemt men het gemiddelde over vier maanden: de afgevlakte gezondheidsindex. Raakt die een vooraf vastgelegde drempel, de spilindex, dan worden sociale uitkeringen en ambtenarenwedden met 2 procent verhoogd, met wat vertraging. Veel lonen in de privé volgen eigen indexregels per sector.\n\n## Een voorbeeld\n\nDe afgevlakte index stond in november op 102,25, de spilindex ligt op 102,29. Gepensioneerden en mensen met een uitkering moeten dus nog even wachten op hun indexsprong. Kijk je naar je eigen kosten, dan zie je waar de inflatie zit: wie veel elektriciteit verbruikt, merkt die 25,6 procent veel meer dan iemand die vooral met de fiets rijdt en weinig stookt.\n\n## Wat onderzoek zegt\n\nVolgens de cijfers van 27 november stegen de consumptieprijzen in november met 0,4 procent tegenover oktober. Energie was 33,69 procent duurder dan een jaar eerder, tegenover 33,22 procent in oktober; motorbrandstoffen remden de inflatie juist af. De kerninflatie, zonder energie en onbewerkte voeding, zakte van 2,80 naar 2,47 procent. Dat toont dat de hoge inflatie vooral uit energie komt: VRT koppelt die prijzen aan het conflict in het Midden-Oosten. De gezondheidsindex stond op 105,41. Het Federaal Planbureau had begin november nog een overschrijding van de spilindex in november voorspeld; dat gebeurde dus net niet. De volgende cijfers komen op 23 december.\n\n## Nuance of misverstand\n\nInflatie is een gemiddelde over een standaardgezin. Jouw persoonlijke inflatie kan hoger of lager liggen, afhankelijk van hoeveel energie, huur of voeding je koopt. En automatische indexering is geen loonsverhoging: ze compenseert een prijsstijging die al gebeurd is.\n\n## Wat je ermee doet\n\nKijk naar de kerninflatie om te zien of prijsstijgingen breed zijn of vooral uit één hoek komen. Bekijk je energiecontract nu de energieprijzen zo hard stijgen, en reken bij grote uitgaven in je budget met minstens 5 procent duurder dan vorig jaar.",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\"><text x=\"180\" y=\"22\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"13\" text-anchor=\"middle\">Afgevlakte index vs. spilindex</text><path d=\"M40,170 L320,170\" stroke=\"#fff\" stroke-width=\"2\"/><path d=\"M300,50 L300,175\" stroke=\"#ff6b9d\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><text x=\"300\" y=\"44\" fill=\"#ff6b9d\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">spilindex 102,29</text><rect x=\"40\" y=\"110\" width=\"259\" height=\"40\" fill=\"#06d6a0\"><animate attributeName=\"width\" values=\"0;259;259\" dur=\"5s\" repeatCount=\"indefinite\"/></rect><text x=\"60\" y=\"135\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"12\" text-anchor=\"start\">afgevlakte index 102,25</text><text x=\"180\" y=\"192\" fill=\"#ffd166\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">nog 0,04% te gaan: net niet overschreden</text><text x=\"180\" y=\"210\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"middle\">inflatie november: 5,09% (oktober 5,26%)</text><text x=\"40\" y=\"90\" fill=\"#fff\" font-family=\"Inter,sans-serif\" font-size=\"11\" text-anchor=\"start\">energie +33,69%  kern +2,47%</text></svg>",
+   "quiz": {
+    "q": "Welke index bepaalt of uitkeringen in België geïndexeerd worden?",
+    "o": [
+     "De gewone inflatie van Statbel",
+     "De kerninflatie",
+     "De afgevlakte gezondheidsindex tegenover de spilindex"
+    ],
+    "a": 2
+   },
+   "src": [
+    {
+     "t": "VRT NWS – inflatie november",
+     "u": "https://www.vrt.be/vrtnws/nl/2026/11/27/inflatie-november/"
+    },
+    {
+     "t": "De Nieuwe Werker – index november 2026",
+     "u": "https://denieuwewerker.be/index-november-2026/"
+    },
+    {
+     "t": "Loonindex.be – indexcijfers",
+     "u": "https://www.loonindex.be/data"
+    }
+   ],
+   "date": "2026-11-28T05:50:39Z"
   }
  ],
  "dives": [
